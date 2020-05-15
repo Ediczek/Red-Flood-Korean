@@ -1,0 +1,72 @@
+﻿l_english:
+#COUNTRY NAME#
+FIU_vanguard_socialism:0 "피우메 자유 코뮌"
+FIU_vanguard_socialism_DEF:0 "피우메 자유 코뮌"
+FIU_vanguard_socialism_ADJ:0 "피우메"
+
+FIU_libertarian_marxism:0 "피우메 자유 코뮌"
+FIU_libertarian_marxism_DEF:0 "피우메 자유 코뮌"
+FIU_libertarian_marxism_ADJ:0 "피우메"
+
+FIU_revolutionary_anarchism:0 "피우메 자유 코뮌"
+FIU_revolutionary_anarchism_DEF:0 "피우메 자유 코뮌"
+FIU_revolutionary_anarchism_ADJ:0 "피우메"
+
+FIU_revisionist_socialism:0 "피우메 자유국"
+FIU_revisionist_socialism_DEF:0 "피우메 자유국"
+FIU_revisionist_socialism_ADJ:0 "이탈리아"
+
+FIU_social_democratism:0 "피우메 임시정부"
+FIU_social_democratism_DEF:0 "피우메 임시정부"
+FIU_social_democratism_ADJ:0 "피우메"
+
+FIU_placeholderism:0 "피우메 임시정부"
+FIU_placeholderism_DEF:0 "피우메 임시정부"
+FIU_placeholderism_ADJ:0 "피우메"
+
+FIU_liberalism:0 "피우메 임시정부"
+FIU_liberalism_DEF:0 "피우메 임시정부"
+FIU_liberalism_ADJ:0 "피우메"
+
+FIU_conservatism:0 "피우메 임시정부"
+FIU_conservatism_DEF:0 "피우메 임시정부"
+FIU_conservatism_ADJ:0 "피우메"
+
+FIU_right_authoritarianism:0 "피우메 임시정부"
+FIU_right_authoritarianism_DEF:0 "피우메 임시정부"
+FIU_right_authoritarianism_ADJ:0 "피우메"
+
+FIU_despotism:0 "피우메 임시정부"
+FIU_despotism_DEF:0 "피우메 임시정부"
+FIU_despotism_ADJ:0 "피우메"
+
+FIU_reactionism:0 "피우메"
+FIU_reactionism_DEF:0 "피우메"
+FIU_reactionism_ADJ:0 "피우메"
+
+FIU_accelerationism:0 "피우메"
+FIU_accelerationism_DEF:0 "피우메"
+FIU_accelerationism_ADJ:0 "피우메"
+#PARTIES#
+FIU_vanguard_socialism_party:0 "피우메 전위당"
+FIU_libertarian_marxism_party:0 "피우메 전위당"
+FIU_revolutionary_anarchism_party:0 "UAD"
+FIU_revisionist_socialism_party:0 "피우메 전위당"
+FIU_social_democratism_party:0 "피우메 사회민주당"
+FIU_placeholderism_party:0 "피우메 자유민주당"
+FIU_liberalism_party:0 "이탈리아 자유당"
+FIU_conservatism_party:0 "이탈리아 인민당"
+FIU_right_authoritarianism_party:0 "긴급군정청"
+FIU_reactionism_party:0 "긴급군정청"
+FIU_accelerationism_party:0 "최고위원회"
+FIU_vanguard_socialism_party_long:0 "피우메 전위당"
+FIU_libertarian_marxism_party_long:0 "피우메 전위당"
+FIU_revisionist_socialism_party_long:0 "피우메 전위당"
+FIU_social_democratism_party_long:0 "피우메 사회민주당"
+FIU_placeholderism_party_long:0 "피우메 자유민주당"
+FIU_liberalism_party_long:0 "이탈리아 자유당"
+FIU_conservatism_party_long:0 "이탈리아 인민당"
+FIU_right_authoritarianism_party_long:0 "긴급군정청"
+FIU_despotism_party_long:0 "긴급군정청"
+FIU_reactionism_party_long:0 "긴급군정청"
+FIU_accelerationism_party_long:0 "최고위원회" 

@@ -1,0 +1,81 @@
+﻿l_english:
+#COUNTRY NAME#
+ASY_vanguard_socialism:0 "아시리아"
+ASY_vanguard_socialism_DEF:0 "아시리아"
+ASY_vanguard_socialism_ADJ:0 "아시리아"
+
+ASY_libertarian_marxism:0 "아시리아"
+ASY_libertarian_marxism_DEF:0 "아시리아"
+ASY_libertarian_marxism_ADJ:0 "아시리아"
+
+ASY_revolutionary_anarchism:0 "아시리아"
+ASY_revolutionary_anarchism_DEF:0 "아시리아"
+ASY_revolutionary_anarchism_ADJ:0 "아시리아"
+
+ASY_revisionist_socialism:0 "아시리아"
+ASY_revisionist_socialism_DEF:0 "아시리아"
+ASY_revisionist_socialism_ADJ:0 "아시리아"
+
+ASY_social_democratism:0 "아시리아"
+ASY_social_democratism_DEF:0 "아시리아"
+ASY_social_democratism_ADJ:0 "아시리아"
+
+ASY_placeholderism:0 "아시리아"
+ASY_placeholderism_DEF:0 "아시리아"
+ASY_placeholderism_ADJ:0 "아시리아"
+
+ASY_liberalism:0 "아시리아"
+ASY_liberalism_DEF:0 "아시리아"
+ASY_liberalism_ADJ:0 "아시리아"
+
+ASY_conservatism:0 "아시리아"
+ASY_conservatism_DEF:0 "아시리아"
+ASY_conservatism_ADJ:0 "아시리아"
+
+ASY_right_authoritarianism:0 "아시리아"
+ASY_right_authoritarianism_DEF:0 "아시리아"
+ASY_right_authoritarianism_ADJ:0 "아시리아"
+
+ASY_despotism:0 "아시리아"
+ASY_despotism_DEF:0 "아시리아"
+ASY_despotism_ADJ:0 "아시리아"
+
+ASY_reactionism:0 "아시리아"
+ASY_reactionism_DEF:0 "아시리아"
+ASY_reactionism_ADJ:0 "아시리아"
+
+ASY_accelerationism:0 "아시리아"
+ASY_accelerationism_DEF:0 "아시리아"
+ASY_accelerationism_ADJ:0 "아시리아"
+#PARTIES#
+ASY_vanguard_socialism_party:0 "GSA"
+ASY_libertarian_marxism_party:0 "GSA"
+ASY_revolutionary_anarchism_party:0 "GSA"
+ASY_revisionist_socialism_party:0 "GSA"
+ASY_social_democratism_party:0 "GSA"
+ASY_liberalism_party:0 "GAD"
+ASY_conservatism_party:0 "GAD"
+ASY_right_authoritarianism_party:0 "ASV"
+ASY_despotism_party:0 "EQQMA"
+ASY_reactionism_party:0 "EQQMA"
+ASY_accelerationism_party:0 "SRA"
+ASY_vanguard_socialism_party_long:0 "아시리아 사회주의당"
+ASY_libertarian_marxism_party_long:0 "아시리아 사회주의당"
+ASY_revolutionary_anarchism_party_long:0 "아시리아 사회주의당"
+ASY_revisionist_socialism_party_long:0 "아시리아 사회주의당"
+ASY_social_democratism_party_long:0 "아시리아 사회주의당"
+ASY_liberalism_party_long:0 "아시리아 민주당"
+ASY_conservatism_party_long:0 "아시리아 민주당"
+ASY_right_authoritarianism_party_long:0 "아시리아 참전용사 연합"
+ASY_despotism_party_long:0 "신성사도 보편 아시리아 동방교회"
+ASY_reactionism_party_long:0 "신성사도 보편 아시리아 동방교회"
+ASY_accelerationism_party_long:0 "러시아계 아시리아인 연합"
+#LEADER DESCRITIONS#
+#IDEAS#
+veterans_of_the_caucasian_voluntary_army:0 "캅카스 의용군의 숙련병들"
+veterans_of_the_caucasian_voluntary_army_desc:0 "유데니치의 캅카스 의용군은 친러시아적인 아시리아 지도자들과 밀접하게 움직여왔습니다. 의용군의 몰락 이후 잔존병들은 아시리아로 후퇴했습니다. 의용군은 우리 제후국의 육군 창설에 있어 중요한 영향을 끼쳤습니다. 하지만 많은 전직 대원들은 수 년이 지나도록 패배를 받아들이지 못하고 자캅카스 사회주의자들에 맞선 새 회전을 부르짖고 있습니다. 이들을 진정시키지 못 한다면 추후 우리 제후국에 있어 문제가 될 수도 있습니다."
+Domination_of_the_Assyrian_Church_of_the_East:0 "아시리아 동방교회의 교세"
+Domination_of_the_Assyrian_Church_of_the_East_desc:0 "아시리아 동방교회의 총대주교들은 수 세기 동안 우리 사람들을 이끌어왔습니다. 하지만 어린 우리 국가에서 이들이 갖는 지도적 역할은 다른 종교의 신봉자들과 공화국 선언 지지자들에게 불만요소가 되었습니다."
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

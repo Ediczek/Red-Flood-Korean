@@ -1,0 +1,79 @@
+﻿l_english:
+#COUNTRY NAME#
+FIN_vanguard_socialism:0 "핀란드 사회주의 노동자 공화국"
+FIN_vanguard_socialism_DEF:0 "핀란드 사회주의 노동자 공화국"
+FIN_vanguard_socialism_ADJ:0 "핀란드"
+
+FIN_libertarian_marxism:0 "핀란드 사회주의 노동자 공화국"
+FIN_libertarian_marxism_DEF:0 "핀란드 사회주의 노동자 공화국"
+FIN_libertarian_marxism_ADJ:0 "핀란드"
+
+FIN_revolutionary_anarchism:0 "핀란드"
+FIN_revolutionary_anarchism_DEF:0 "핀란드"
+FIN_revolutionary_anarchism_ADJ:0 "핀란드"
+
+FIN_revisionist_socialism:0 "핀란드 사회주의 노동자 공화국"
+FIN_revisionist_socialism_DEF:0 "핀란드 사회주의 노동자 공화국"
+FIN_revisionist_socialism_ADJ:0 "핀란드"
+
+FIN_social_democratism:0 "핀란드 공화국"
+FIN_social_democratism_DEF:0 "핀란드 공화국"
+FIN_social_democratism_ADJ:0 "핀란드"
+
+FIN_placeholderism:0 "핀란드"
+FIN_placeholderism_DEF:0 "핀란드"
+FIN_placeholderism_ADJ:0 "핀란드"
+
+FIN_liberalism:0 "핀란드 공화국"
+FIN_liberalism_DEF:0 "핀란드 공화국"
+FIN_liberalism_ADJ:0 "핀란드"
+
+FIN_conservatism:0 "핀란드 공화국"
+FIN_conservatism_DEF:0 "핀란드 공화국"
+FIN_conservatism_ADJ:0 "핀란드"
+
+FIN_right_authoritarianism:0 "핀란드 왕국"
+FIN_right_authoritarianism_DEF:0 "핀란드 왕국"
+FIN_right_authoritarianism_ADJ:0 "핀란드"
+
+FIN_despotism:0 "핀란드 대공국"
+FIN_despotism_DEF:0 "핀란드 대공국"
+FIN_despotism_ADJ:0 "핀란드"
+
+FIN_reactionism:0 "핀란드국"
+FIN_reactionism_DEF:0 "핀란드국"
+FIN_reactionism_ADJ:0 "핀란드"
+
+FIN_accelerationism:0 "핀란드"
+FIN_accelerationism_DEF:0 "핀란드"
+FIN_accelerationism_ADJ:0 "핀란드"
+
+#PARTIES#
+FIN_vanguard_socialism_party:0 "홍위대"
+FIN_libertarian_marxism_party:0 "SKP"
+FIN_revolutionary_anarchism_party:0 "SAL"
+FIN_revisionist_socialism_party:0 "KT"
+FIN_social_democratism_party:0 "SDP"
+FIN_liberalism_party:0 "NP - 참새파"
+FIN_conservatism_party:0 "NP - 제비파"
+FIN_right_authoritarianism_party:0 "민족연정당"
+FIN_despotism_party:0 "자인 군벌"
+FIN_reactionism_party:0 "라푸아 운동"
+FIN_accelerationism_party:0 "SSP"
+FIN_vanguard_socialism_party_long:0 "홍위대"
+FIN_libertarian_marxism_party_long:0 "핀란드 공산당"
+FIN_revolutionary_anarchism_party_long:0 "핀란드 반군국주의 연합"
+FIN_revisionist_socialism_party_long:0 "기독교 노동자당"
+FIN_social_democratism_party_long:0 "핀란드 사회민주당"
+FIN_liberalism_party_long:0 "핀란드 청년당 - 참새파"
+FIN_conservatism_party_long:0 "핀란드 청년당 - 제비파"
+FIN_right_authoritarianism_party_long:0 "민족연정당"
+FIN_despotism_party_long:0 "자인 군벌"
+FIN_reactionism_party_long:0 "라푸아 운동"
+FIN_accelerationism_party_long:0 "핀란드 사회주의당"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

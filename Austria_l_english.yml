@@ -1,0 +1,740 @@
+﻿l_english:
+####MAINT DESC####
+AUS_DESC_MENU:0 "세계대전 직후 오스트리아-헝가리 제국은 붕괴했고, 오스트리아는 합스부르크 왕통의 유일한 잔재였습니다. 혼란으로의 이행에도, 오스트리아군은 점령지 내 독일인들의 안전을 지켜내며 굳건히 서있었습니다. 독일이 노동자들의 국가로 전락하고 그 혁명은 헝가리로 번졌으며, 대중의 망상이 스스로를 프랑스라고 일컫는 동안 오스트리아는 적대적인 급진 세력에 의해 고립되었습니다. 황제 프란츠 페르디난트는 그의 자비로움에도 완고한 뜻을 꺾지 않습니다. '사람들은 변화를 갈망하고, 급진주의자들은 사회의 핵심을 위협한다. 하지만 무슨 일이 일어나든 간에, 분리되지도 나누어지지도 않는 오스트리아는 견뎌낼 것이다.'"
+#COUNTRY NAME#
+AUS_vanguard_socialism:0 "오스트리아"
+AUS_vanguard_socialism_DEF:0 "오스트리아"
+AUS_vanguard_socialism_ADJ:0 "오스트리아"
+
+AUS_libertarian_marxism:0 "오스트리아 코뮌"
+AUS_libertarian_marxism_DEF:0 "오스트리아"
+AUS_libertarian_marxism_ADJ:0 "오스트리아"
+
+AUS_revolutionary_anarchism:0 "오스트리아"
+AUS_revolutionary_anarchism_DEF:0 "오스트리아"
+AUS_revolutionary_anarchism_ADJ:0 "오스트리아"
+
+AUS_revisionist_socialism:0 "오스트리아"
+AUS_revisionist_socialism_DEF:0 "오스트리아"
+AUS_revisionist_socialism_ADJ:0 "오스트리아"
+
+AUS_social_democratism:0 "오스트리아"
+AUS_social_democratism_DEF:0 "오스트리아"
+AUS_social_democratism_ADJ:0 "오스트리아"
+
+AUS_placeholderism:0 "오스트리아"
+AUS_placeholderism_DEF:0 "오스트리아"
+AUS_placeholderism_ADJ:0 "오스트리아"
+
+AUS_liberalism:0 "오스트리아"
+AUS_liberalism_DEF:0 "오스트리아"
+AUS_liberalism_ADJ:0 "오스트리아"
+
+AUS_conservatism:0 "오스트리아"
+AUS_conservatism_DEF:0 "오스트리아"
+AUS_conservatism_ADJ:0 "오스트리아"
+
+AUS_right_authoritarianism:0 "오스트리아"
+AUS_right_authoritarianism_DEF:0 "오스트리아"
+AUS_right_authoritarianism_ADJ:0 "오스트리아"
+
+AUS_despotism:0 "외스터라이히셰 라이히"
+AUS_despotism_DEF:0 "외스터라이히셰 라이히"
+AUS_despotism_ADJ:0 "오스트리아"
+
+AUS_reactionism:0 "오스트리아 제국"
+AUS_reactionism_DEF:0 "오스트리아 제국"
+AUS_reactionism_ADJ:0 "오스트리아"
+
+AUS_accelerationism:0 "오스트리아"
+AUS_accelerationism_DEF:0 "오스트리아"
+AUS_accelerationism_ADJ:0 "오스트리아"
+
+ASC_vanguard_socialism:0 "오스트리아 봉기군"
+ASC_vanguard_socialism_DEF:0 "오스트리아 봉기군"
+ASC_vanguard_socialism_ADJ:0 "오스트리아"
+
+ASC_libertarian_marxism:0 "오스트리아 코뮌"
+ASC_libertarian_marxism_DEF:0 "오스트리아"
+ASC_libertarian_marxism_ADJ:0 "오스트리아"
+
+ASC_revolutionary_anarchism:0 "오스트리아 봉기군"
+ASC_revolutionary_anarchism_DEF:0 "오스트리아 봉기군"
+ASC_revolutionary_anarchism_ADJ:0 "오스트리아"
+
+ASC_revisionist_socialism:0 "오스트리아 봉기군"
+ASC_revisionist_socialism_DEF:0 "오스트리아 봉기군"
+ASC_revisionist_socialism_ADJ:0 "오스트리아"
+
+ASC_social_democratism:0 "오스트리아 봉기군"
+ASC_social_democratism_DEF:0 "오스트리아 봉기군"
+ASC_social_democratism_ADJ:0 "오스트리아"
+
+ASC_placeholderism:0 "오스트리아 봉기군"
+ASC_placeholderism_DEF:0 "오스트리아 봉기군"
+ASC_placeholderism_ADJ:0 "오스트리아"
+
+ASC_liberalism:0 "오스트리아 봉기군"
+ASC_liberalism_DEF:0 "오스트리아 봉기군"
+ASC_liberalism_ADJ:0 "오스트리아"
+
+ASC_conservatism:0 "오스트리아 봉기군"
+ASC_conservatism_DEF:0 "오스트리아 봉기군"
+ASC_conservatism_ADJ:0 "오스트리아"
+
+ASC_right_authoritarianism:0 "오스트리아 봉기군"
+ASC_right_authoritarianism_DEF:0 "오스트리아 봉기군"
+ASC_right_authoritarianism_ADJ:0 "오스트리아"
+
+ASC_despotism:0 "오스트리아 봉기군"
+ASC_despotism_DEF:0 "오스트리아 봉기군"
+ASC_despotism_ADJ:0 "오스트리아"
+
+ASC_reactionism:0 "오스트리아 봉기군"
+ASC_reactionism_DEF:0 "오스트리아 봉기군"
+ASC_reactionism_ADJ:0 "오스트리아"
+
+ASC_accelerationism:0 "오스트리아 봉기군"
+ASC_accelerationism_DEF:0 "오스트리아 봉기군"
+ASC_accelerationism_ADJ:0 "오스트리아"
+
+SGF_vanguard_socialism:0 "남독일 연방"
+SGF_vanguard_socialism_DEF:0 "남독일 연방"
+SGF_vanguard_socialism_ADJ:0 "남독일"
+
+SGF_libertarian_marxism:0 "남독일 연방"
+SGF_libertarian_marxism_DEF:0 "남독일 연방"
+SGF_libertarian_marxism_ADJ:0 "남독일"
+
+SGF_revolutionary_anarchism:0 "남독일 연방"
+SGF_revolutionary_anarchism_DEF:0 "남독일 연방"
+SGF_revolutionary_anarchism_ADJ:0 "남독일"
+
+
+SGF_revisionist_socialism:0 "남독일 연방"
+SGF_revisionist_socialism_DEF:0 "남독일 연방"
+SGF_revisionist_socialism_ADJ:0 "남독일"
+
+SGF_social_democratism:0 "남독일 연방"
+SGF_social_democratism_DEF:0 "남독일 연방"
+SGF_social_democratism_ADJ:0 "남독일"
+
+SGF_placeholderism:0 "남독일 연방"
+SGF_placeholderism_DEF:0 "남독일 연방"
+SGF_placeholderism_ADJ:0 "남독일"
+
+SGF_liberalism:0 "남독일 연방"
+SGF_liberalism_DEF:0 "남독일 연방"
+SGF_liberalism_ADJ:0 "남독일"
+
+SGF_conservatism:0 "남독일 연방"
+SGF_conservatism_DEF:0 "남독일 연방"
+SGF_conservatism_ADJ:0 "남독일"
+
+SGF_right_authoritarianism:0 "남독일 연방"
+SGF_right_authoritarianism_DEF:0 "남독일 연방"
+SGF_right_authoritarianism_ADJ:0 "남독일"
+
+SGF_despotism:0 "남독일 연방"
+SGF_despotism_DEF:0 "남독일 연방"
+SGF_despotism_ADJ:0 "남독일"
+
+SGF_reactionism:0 "남독일 연방"
+SGF_reactionism_DEF:0 "남독일 연방"
+SGF_reactionism_ADJ:0 "남독일"
+
+SGF_accelerationism:0 "남독일 연방"
+SGF_accelerationism_DEF:0 "남독일 연방"
+SGF_accelerationism_ADJ:0 "남독일"
+
+ACRO_despotism:0 "크로아티아 보호령"
+ACRO_despotism_DEF:0 "크로아티아 보호령"
+ACRO_despotism_ADJ:0 "크로아티아"
+
+AYUG_reactionism:0 "유고슬라비아 왕국"
+AYUG_reactionism_DEF:0 "유고슬라비아 왕국"
+AYUG_reactionism_ADJ:0 "유고슬라비아"
+
+ACRO_accelerationism:0 "크로아티아 보호령"
+ACRO_accelerationism_DEF:0 "크로아티아 보호령"
+ACRO_accelerationism_ADJ:0 "크로아티아"
+
+AHUN_reactionism:0 "헝가리 보호령"
+AHUN_reactionism_DEF:0 "헝가리 보호령"
+AHUN_reactionism_ADJ:0 "헝가리"
+AHUN_accelerationismm:0 "헝가리 보호령"
+AHUN_accelerationism_DEF:0 "헝가리 보호령"
+AHUN_accelerationism_ADJ:0 "헝가리"
+
+AHUN_conservatism:0 "헝가리 왕국"
+AHUN_conservatism_DEF:0 "헝가리 왕국"
+AHUN_conservatism_ADJ:0 "헝가리"
+#PARTIES#
+AUS_vanguard_socialism_party:0 "KPO"
+AUS_libertarian_marxism_party:0 "LS"
+AUS_revisionist_socialism_party:0 "RS"
+AUS_revisionist_socialism_party:0 "RS"
+AUS_social_democratism_party:0 "SPO"
+AUS_placeholderism_party:0 "SL"
+AUS_liberalism_party:0 "ML"
+AUS_conservatism_party:0 "CSP"
+AUS_right_authoritarianism_party:0 "CSP"
+AUS_despotism_party:0 "HMB"
+AUS_reactionism_party:0 "HEV"
+AUS_accelerationism_party:0 "GDVP"
+AUS_vanguard_socialism_party_long:0 "오스트리아 공산당"
+AUS_libertarian_marxism_party_long:0 "자유의지주의적 사회주의파"
+AUS_revolutionary_anarchism_party_long:0 "혁명아나키스트파"
+AUS_revisionist_socialism_party_long:0 "급진사회주의파"
+AUS_social_democratism_party_long:0 "오스트리아 사회민주당"
+AUS_placeholderism_party_long:0 "사회자유주의파"
+AUS_liberalism_party_long:0 "시장자유주의파"
+AUS_conservatism_party_long:0 "기독교사회당"
+AUS_right_authoritarianism_party_long:0 "기독교 사회당"
+AUS_despotism_party_long:0 "보국당"
+AUS_reactionism_party_long:0 "합스부르크 부흥전선"
+AUS_accelerationism_party_long:0 "대독일인민당"
+#LEADER DESCRITIONS#
+#opinion things#
+AUS_britainlove:0 "오스트리아의 외교"
+AUS_reactionaryscum:0 "반동 쓰레기"
+
+#CUSTOM TOOLTIPS AND FLAGS#
+
+#DECISIONS (1.5 Update)#
+AUS_hitler_speeches:0 "히틀러의 연설"
+AUS_hitler_speeches_desc:0 "히틀러는 강인한 지도자이며, 더 강인한 연설가입니다. 그의 전문적으로 연마된 연설 기술과 열정적인 호소력은 오스트리아인들의 마음을 사로잡았고 그들의 심장을 이 시국에 강하게 만들어, 끔찍한 적에 맞서 단결케 하거나 더 나은 미래를 가져올 것입니다."
+AUS_pillar_of_sanity:0 "정신줄"
+AUS_break_barriers:0 "장벽을 무너뜨려라"
+AUS_gone_insane:0 "사내는 정말로 미쳐버렸다"
+AUS_production_heroes:0 "산업전선의 영웅들"
+AUS_whatever_the_cost_focus:0 "오스트리아의 방위!"
+AUS_go_offensive:0 "독일을 칠 때가 왔다!"
+
+AUS_hundemands:0 "오스트리아의 압박"
+AUS_hundemands_desc:0 "오스트리아의 체코슬로바키아에 대한 승리와 함께 헝가리는 포위되었습니다. 오스트리아인들은 끊임없이 전쟁이 임박했음을 경고하고 있습니다. 그들이 돈줄을 대고 있는 왕정복고 운동은 우리나라를 내부에서부터 쓰라리게 하고 있습니다."
+nosurrender:0 "그들의 요구에 저항한다!"
+surrender:0 "군을 동원해 정부를 뒤엎는다."
+
+#FOCUSES#
+AUS_theworkersfront:0 "노동자전선"
+
+AUS_theworkersfront_desc:0 ""
+
+AUS_weakenthegovernment:0 "정부의 약화"
+
+AUS_weakenthegovernment_desc:0 "공산당이 지금까지 금지되어왔다고 해서 그들이 권력을 전혀 가지지 못했다는 건 아닙니다. 우리는 인민 혁명을 준비하기 위해 나서야 합니다."
+
+AUS_weakenthegovernment_tooltip:0 "빨갱이들이 상황을 그들 맘대로 다룰지도 모른다..."
+
+AUS_parliamentaryconflict:0 "의회에서의 충돌"
+
+AUS_parliamentaryconflict_desc:0 "오스트리아 의회는 혼란에 빠졌습니다. 오토 폰 합스부르크는 오스트리아 국민을 단결시킬 능력이 되지 못합니다. 충돌은 불가피합니다."
+
+AUS_powertothemoderates:0 "중도파에게 힘을"
+
+AUS_powertothemoderates_desc:0 "세상이 점점 더 극단적이고 적대적으로 변해감에도, 오스트리아는 자유의 굳건한 기둥으로 서있습니다. 우리는 폭압적인 이념들에 굴복하지 않을 것입니다! 정국이 다룰 수 없는 방향으로 빠르게 변합니다. 우리는 양쪽의 극단주의자들을 거부하고 더 밝은 미래를 준비해야 합니다."
+
+AUS_powertothemoderates_tooltip:0 "빨갱이들이 좋아하지 않을 것입니다..."
+
+AUS_unitethepeople:0 "인민 단결"
+
+AUS_unitethepeople_desc:0 "우리가 이겼습니다! 이제... 반대파를 처리할 때가 됐습니다."
+
+AUS_pangermanicsupremacy:0 "범독일 패권"
+
+AUS_pangermanicsupremacy_desc:0 "오스트리아인과 독일인은 결코 별개의 민족이 될 수 없었습니다. 빨갱이들이 북방을 점유하면서, 우리나라는 많은 저명한 독일 지휘관들에게 안전한 피난처가 되었습니다. 형제들을 해방하는 것은 이제 우리에게 달려있습니다."
+
+AUS_strengthentheultranationalists:0 "국수주의자 증강"
+
+AUS_strengthentheultranationalists_desc:0 "공산주의의 위협은 오래전부터 오스트리아인들의 마음을 타락시켰습니다. 어려운 시기에는 국가의 온전성을 지키기 위해 강력한 정부가 필요합니다. 엥겔베르트 돌푸스의 강력한 리더십으로 우리는 예전의 영광을 쟁취할 것입니다!"
+
+AUS_seekbritishprotection:0 "영국의 보호를 청하다"
+
+AUS_seekbritishprotection_desc:0 "우리와 영국은 이념적 차이가 있지만, 많은 공공의 적 또한 있습니다. 그리고 영국은 그들의 이익을 위해서라면 독재 정권을 지지하는 데에 전혀 거리낌이 없습니다. 외세의 침략에 대비해 그들이 우리를 지지하도록 설득할 수 있을지도 모릅니다."
+
+AUS_austriannationalistsupremacy:0 "오스트리아 민족주의자들의 우위"
+
+AUS_austriannationalistsupremacy_desc:0 "당연하게도, 민족주의자들의 승리는 민족주의 정부를 낳습니다. 돌푸스는 오스트리아의 영향력을 확대하는 사명을 멈추지 않을 것입니다."
+
+AUS_economicrehabilitation:0 "경제 재건"
+
+AUS_economicrehabilitation_desc:0 "보수당의 계획을 통해, 우리는 대출의 회수와 국민에 대한 긴축 등 몇 가지 절차를 거쳐 경제를 되살리고 튼튼하게 할 수 있을 것입니다."
+
+AUS_pactwithprussia:0 "프로이센과의 협약"
+
+AUS_pactwithprussia_desc:0 "프로이센-오스트리아 전쟁이 "형제전쟁"으로 불리는 이유가 여기 있습니다. 오스트리아와 프로이센은 독일을 파괴하고자 하는 자들에게 대항하는 천부적인 동맹입니다. 지금, 그 어느 때보다도, 우리는 독일 민족을 해방시키기 위해서 함께 일해야 할 필요가 있습니다."
+
+AUS_rousingspeeches:0 "열렬한 연설들"
+
+AUS_rousingspeeches_desc:0 "아돌프 히틀러는 최고의 대중 연설가일지도 모릅니다. 그의 연설은 때가 되면 사람들을 규합시킬 수 있으며, 우리는 조국을 방어하기 위해선 서둘러야 합니다."
+
+AUS_defendreactionaryideas:0 "반동적 이념들을 지킨다"
+
+AUS_defendreactionaryideas_desc:0 "프랑스는 분명히 어떠한 형태의 집단 망상에 빠져있습니다. 그들이 소위 "반동주의자"라고 부르는 자들에 대해 혐오하는 것은 우리의 안정에 대한 위협입니다."
+
+AUS_rommelsfortifications:0 "롬멜의 요새화"
+
+AUS_rommelsfortifications_desc:0 "알프스 산맥을 장악한 이후엔 거대한 방어 자산이 생깁니다. 프랑스와 독일은 결국은 침략해올 것이 확실하며, 요새화를 관리하는 롬멜과 함께라면 알프스 산맥은 천혜의 장벽 역할을 할 것입니다."
+
+AUS_rommelsfortifications_tooltip:0 "§Y프랑스와 독일§! 국경이 강력하게 요새화될 것입니다."
+
+AUS_stickwithschuschnigg:0 "슈쉬니크와 함께한다"
+AUS_stickwithschuschnigg_desc:0 "쿠르트 슈쉬니크를 통해, 우리의 막강한 오스트리아는 위대함을 목표로 정진할 수 있을 것입니다. 그를 통해, 쌍두수리는 이전의 소유물들 위로 날개를 뻗고, 더욱 고상한 목표들을 향해서도 나아갈 수 있을 것입니다!"
+
+AUS_reactionarysupremacy:0 "반동주의자들의 우위"
+
+AUS_reactionarysupremacy_desc:0 "오스트리아가 생존을 바란다면 군주제와 구질서는 버틸 수 없습니다. 오스트리아의 쌍두수리는 신질서, 즉 중도파의 반동과 건전함의 상징인 히틀러의 질서 하에 다시 날아오를 것입니다."
+
+AUS_sticktoourvalues:0 "우리의 가치들을 고수한다"
+
+AUS_sticktoourvalues_desc:0 "우리나라는 프랑스와 독일 모두에 대해 큰 의심을 갖고 있지만, 급진적인 요소들이 나라를 위험에 빠뜨리는 것은 용납할 수 없습니다. 민주주의를 지향하는 것 더 안전한 오스트리아를 지향하는 것입니다."
+
+AUS_paramillitarydivisions:0 "준군사조직 사단들"
+
+AUS_paramillitarydivisions_desc:0 "보국단과 그 동료들은 지금까지 잘 해왔지만, 이제는 그런 영웅과 애국자로 이뤄진 대규모 무리들을 실제로 군대에 징집할 때가 왔습니다."
+
+AUS_retakebavaria:0 "바이에른 수복"
+
+AUS_retakebavaria_desc:0 "독일인들은 빨갱이가 되었을 때 그들의 가치를 배반했습니다. 바이에른 이민자들이 오스트리아로 대거 유입된 것은 독일 민족이 자신을 해방시키기 위해 우리를 필요로 한다는 것을 증명합니다. 남독일인들은 다시 한번 단결할 것입니다."
+
+AUS_consolidatethealps:0 "알프스 강고화"
+
+AUS_consolidatethealps_desc:0 "스위스는 과거 독일의 영향권의 일부였지만, 지금은 자신들의 산맥 안에서 웅크릴 뿐입니다. 알프스 산맥은 방어에 관한 한 정말로 어마어마한 자산이며, 우리에게 유용할 것은 자명한 일입니다."
+
+AUS_influenceczechoslovakia:0 "체코슬로바키아 영향"
+
+AUS_influenceczechoslovakia_desc:0 ""
+
+AUS_conquerczechoslovakia:0 "체코슬로바키아 정복"
+
+AUS_conquerczechoslovakia_desc:0 ""
+
+AUS_circleofsteel:0 "강철 조약"
+
+AUS_circleofsteel_desc:0 ""
+
+AUS_challangeyugoslavia:0 "유고슬로바키아 도전"
+
+AUS_challangeyugoslavia_desc:0 ""
+
+AUS_seekfrenchprotection:0 "프랑스의 보호를 모색한다"
+
+AUS_seekfrenchprotection_desc:0 ""
+
+AUS_thequestionofwheat:0 "밀 문제"
+
+AUS_thequestionofwheat_desc:0 ""
+
+AUS_gloriousvictory:0 "영광스러운 승리"
+
+AUS_gloriousvictory_desc:0 ""
+
+AUS_prewarindustry:0 "전쟁 이전의 산업"
+
+AUS_prewarindustry_desc:0 ""
+
+AUS_theantifrenchwall:0 "대 프랑스 방벽"
+
+AUS_theantifrenchwall_desc:0 ""
+
+AUS_antifrenchwall_tooltip:0 "§Y프랑스§! 국경이 §Y완전히§! 요새화될 것입니다"
+
+
+AUS_whateverthecostmaybe:0 "무슨 대가를 치르더라도"
+
+AUS_whateverthecostmaybe_desc:0 ""
+
+AUS_finishofftheswiss:0 "스위스를 끝장낸다"
+
+AUS_finishofftheswiss_desc:0 "우리는 스위스를 신뢰할 수 없다는 것을 잘 압니다. 수 세기 동안의 중립은 그들을 게으르고, 꿈도 야망도 없는 상태로 만들었을 뿐이고, 프랑스와 독일의 공격에 노출되게 만들었습니다. 우리는 정복당한 스위스 민족의 전략적 이점을 깨달았습니다. 그들은 이기기 힘들다는 것을 보여서는 안됩니다!"
+
+AUS_theantigermanwall:0 "대 독일 방벽"
+
+AUS_theantigermanwall_desc:0 ""
+AUS_antigermanwall_tooltip:0 "§Y독일§! 국경이 §Y완전히§! 요새화될 것입니다"
+
+AUS_joinourbrothers:0 "우리의 형제들과 함께한다"
+
+AUS_joinourbrothers_desc:0 ""
+
+AUS_callforearlyelections:0 "조기 총선의 실시"
+
+AUS_callforearlyelections_desc:0 "조기 총선을 실시할 시간이 슈쉬니크에게 다가오고 있고, 우리가 단독정부를 구성하지 않은 매 순간마다 가능한 한 빨리 연립정부를 설립해야 할 필요가 생겨나므로, 결국 완전한 무정부 상태에 빠질 가능성이 더 높아집니다!"
+
+AUS_emergencyconscription:0 "긴급 징집"
+
+AUS_emergencyconscription_desc:0 ""
+
+AUS_glorytotherepublic:0 "공화국에 영광 있으라!"
+
+AUS_glorytotherepublic_desc:0 "공화국에 영광 있으라-오늘날 군주제는 부적절하고, 우리 모두는 그 결점을 보았으며, 공산주의자들의 쿠데타 시도를 보아왔습니다. 또, 우리는 사회의 더 급진적인 요소들을 신뢰할 수 없습니다. 우리는 국민의 이익을 위해서 제 기능을 하고 장엄한 공화국을 만들기 위해 그리스의 공화정들, 로마, 그리고 심지어는 미합중국을 참고해야 합니다."
+
+AUS_somethinggreater:0 "크고 아름다운 무언가!"
+
+AUS_somethinggreater_desc:0 ""
+
+AUS_declarationofneutrality:0 "중립의 선포"
+
+AUS_declarationofneutrality_desc:0 ""
+
+AUS_unrelentingprogress:0 "끊임없는 진보"
+
+AUS_unrelentingprogress_desc:0 ""
+
+AUS_czesup:0 "오스트리아의 지원"
+
+AUS_huntorture:0 "오스트리아의 압박"
+
+AUS_huntorturetwo:0 "저항하는 오스트리아의 압박"
+
+AUS_industrializethenorth:0 "북부의 공업화"
+
+AUS_industrializethenorth_desc:0 ""
+
+AUS_militarizethesouth:0 "남부의 무장"
+
+AUS_militarizethesouth_desc:0 ""
+
+AUS_stickwithschuschnigg:0 "슈쉬니크와 함께한다"
+
+AUS_stickwithschuschnigg_desc:0 ""
+
+AUS_industrializethesouth:0 "남부의 공업화"
+
+AUS_industrializethesouth_desc:0 ""
+
+AUS_militarizethenorth:0 "북부의 무장"
+
+AUS_militarizethenorth_desc:0 ""
+
+AUS_stabilizethecountry:0 "나라 안정화"
+
+AUS_stabilizethecountry_desc:0 "나라를 안정시키다-쿠데타 시도, 내전, 그리고 심지어는 정부 내 반동주의 중도파들에 의해 잠재적인 쿠데타 혐의까지 일어난 뒤, 우리는 나라의 균열을 보수하고 안정과 정상 상태를 다시 왕국에 가져오기 위한 대규모 조치들을 취해야 합니다."
+
+AUS_electavonhabsburg:0 "합스부르크를 국왕으로!"
+
+AUS_electavonhabsburg_desc:0 ""
+
+AUS_theczechsmustsubmitt:0 "체코인들은 복종해야만 한다!"
+
+AUS_theczechsmustsubmitt_desc:0 ""
+
+AUS_glorytothefatherland:0 "조국에 영광을!"
+
+AUS_glorytothefatherland_desc:0 ""
+
+AUS_brotherstothenorth:0 "북쪽의 형제들"
+
+AUS_brotherstothenorth_desc:0 ""
+
+AUS_treatywiththeitalians:0 "이탈리아와의 조약"
+
+AUS_treatywiththeitalians_desc:0 ""
+
+AUS_influencehungary:0 "헝가리에 대한 영향"
+
+AUS_influencehungary_desc:0 ""
+
+AUS_strikethereds:0 "빨갱이들을 쳐라!"
+
+AUS_strikethereds_desc:0 ""
+
+
+
+
+#EVENTS#
+austria.7.t:0 "피투성이 학살" 
+
+austria.7.d:0 "전쟁과 그 여파로 제국의 많은 부분을 잃은 후, 왕관의 위치는 많은 정치권에서 큰 논쟁의 대상이 되었습니다. \n 황제 오토 프란츠가 자신의 가문 일원들과 오스트리아 사회의 엘리트들, 그리고 오스트리아의 미래 속에서 왕정이 어디에 위치하는지를 논의하기 위해 기독사회당의 선도적인 파벌을 부른 것은 이러한 강도 높은 논의와 반대되는 것이였습니다. \n 두 시간 동안의 건조한 대화가 지나가고 난 후, 복도 정문에 배정된 두 명의 근위대가 난입하여 통계학자인 브레이스키가 전하는 이야기를 중단시켰습니다. 뒤이어 일어난 일은 우리 사회의 근간을 강타했습니다. \n 근위대 중 한 명이 앉아 있는 합스부르크 가문원에게 총을 쏘았고, 다른 한 명은 문을 잠그고 대학살에서 도망치는 이에게 총기를 난사했습니다. \n 총격은 몇 분 안에 대응한 지역 경찰들에게 다른 경비원들이 알려주었습니다. 두 명의 총잡이들은 그들의 위치를 확고히 했고 급하게 전개한 포위망 속에 갇혔습니다. 경찰이 복도에 침입하여 무장대원들을 무력화시킬 수 있을 때쯤에는 여러 명의 무고한 민간인들이 십자 포화에 휘말리거나 잘못 식별되었습니다. \n 오스트리아에 대한 합스부르크의 지배를 물리적으로 끝내려는 시도에도 불구하고, 세 명의 왕족들은 무장대원들의 분노를 피했습니다. \n 오토 대공, 로베르트, 여대공 아델하이트. 이 세 사람은 보호를 위해 재빨리 고국으로 옮겨졌습니다. 왕실의 시체가 홀 밖으로 반출되기도 전에, 많은 사람들이 자신들이 보기에 책임있다고 생각하는 사람들을 손가락질하기 시작했고 죽은 왕족들은 부활한 군주론자들에 의해 순교자가 되었습니다.\n 모든 기치 하의 오스트리아인들은 합스부르크 왕실의 죽음에 대해 다른 사람들에게 책임을 전가하며 대부분의 사람들은 근위병들이 공산주의에 동조했다는 의혹에 초점을 맞추고 있는 반면 많은 좌파들은 보국단이 사주했을 가능성을 의심하고 있습니다. \n 슈쉬니크는 막강한 비상권한을 국가적인 비극으로 정당화하였으며 이에 우파는 기세등등해졌으며 동시에 좌파의 분노를 샀습니다. 수상이 정치 장악을 강화한 것에 대한 대응으로 사회주의자들은 연방 의회를 떠났고 붉은 여단은 새로 수립된 슈쉬니크 정권에 맞서 싸우기 위해 거리로 나섰습니다. \n 이 분열된 시기에 오스트리아인들이 모두 동의할 수 있는 것이 있다면 그것은 황제와 함께 평화가 죽었다는 것입니다." 
+
+austria.7.a:0 "국민들이 동요하고 있다."
+
+austria.8.t:0 "피투성이 학살" 
+
+austria.8.d:0 "전쟁과 그 여파로 제국의 많은 부분을 잃은 후, 왕관의 위치는 많은 정치권에서 큰 논쟁의 대상이 되었습니다. \n 황제 오토 프란츠가 자신의 가문 일원들과 오스트리아 사회의 엘리트들, 그리고 오스트리아의 미래 속에서 왕정이 어디에 위치하는지를 논의하기 위해 기독사회당의 선도적인 파벌을 부른 것은 이러한 강도 높은 논의와 반대되는 것이였습니다. \n 두 시간 동안의 건조한 대화가 지나가고 난 후, 복도 정문에 배정된 두 명의 근위대가 난입하여 통계학자인 브레이스키가 전하는 이야기를 중단시켰습니다. 뒤이어 일어난 일은 우리 사회의 근간을 강타했습니다. \n 근위대 중 한 명이 앉아 있는 합스부르크 가문원에게 총을 쏘았고, 다른 한 명은 문을 잠그고 대학살에서 도망치는 이에게 총기를 난사했습니다. \n 총격은 몇 분 안에 대응한 지역 경찰들에게 다른 경비원들이 알려주었습니다. 두 명의 총잡이들은 그들의 위치를 확고히 했고 급하게 전개한 포위망 속에 갇혔습니다. 경찰이 복도에 침입하여 무장대원들을 무력화시킬 수 있을 때쯤에는 여러 명의 무고한 민간인들이 십자 포화에 휘말리거나 잘못 식별되었습니다. \n 오스트리아에 대한 합스부르크의 지배를 물리적으로 끝내려는 시도에도 불구하고, 세 명의 왕족들은 무장대원들의 분노를 피했습니다. \n 오토 대공, 로베르트, 여대공 아델하이트. 이 세 사람은 보호를 위해 재빨리 고국으로 옮겨졌습니다. 왕실의 시체가 홀 밖으로 반출되기도 전에, 많은 사람들이 자신들이 보기에 책임있다고 생각하는 사람들을 손가락질하기 시작했고 죽은 왕족들은 부활한 군주론자들에 의해 순교자가 되었습니다.\n 모든 기치 하의 오스트리아인들은 합스부르크 왕실의 죽음에 대해 다른 사람들에게 책임을 전가하며 대부분의 사람들은 근위병들이 공산주의에 동조했다는 의혹에 초점을 맞추고 있는 반면 많은 좌파들은 보국단이 사주했을 가능성을 의심하고 있습니다. \n 슈쉬니크는 막강한 비상권한을 국가적인 비극으로 정당화하였으며 이에 우파는 기세등등해졌으며 동시에 좌파의 분노를 샀습니다. 수상이 정치 장악을 강화한 것에 대한 대응으로 사회주의자들은 연방 의회를 떠났고 붉은 여단은 새로 수립된 슈쉬니크 정권에 맞서 싸우기 위해 거리로 나섰습니다. \n 이 분열된 시기에 오스트리아인들이 모두 동의할 수 있는 것이 있다면 그것은 황제와 함께 평화가 죽었다는 것입니다."
+
+austria.8.a:0 "빨갱이들을 완전히 내쫓을 시간이다"
+
+austria.9.t:0 "빨갱이들이 사회주의 국가를 선언하다" 
+
+austria.9.d:0 "50명 이상의 경찰이 그라츠에서 인부들에 의해 살해당하면서 봉기는 새로운 국면에 다다랐습니다. 돌푸스가 가혹한 보복을 명령하면서 다수의 저명한 공산주의 지도자들이 체포되었습니다. 사태의 고조를 지켜본 빌헬름 라이히는 이를 호기로 활용하며 모든 노동자들의 봉기를 부르짖고 있습니다."
+
+austria.9.a:0 "빨갱이들을 완전히 내쫓을 시간이다."
+
+austria.coup.t:0 "오스트리아 의회의 자기파괴" 
+
+austria.coup.d:0 "이번 선거에서 조국전선의 성공은 돌푸스가 오스트리아 정부 전체를 완전히 장악하고 있다는 것을 의미했습니다. 사회민주당은 패하고 공산주의자들은 독일로 도망쳤으며 보수주의자들은 우리와 함께 하거나 공개적으로 말하는 것을 두려워합니다. 이것이 의미하는 것은 돌푸스가 마침내 그가 항상 원했던 것을 얻을 수 있는 기회를 가지게 되었다는 것입니다. 바로 극단적인 오스트리아 말입니다. \n 오늘 아침, "국민과 제국의 고난을 치유하는 법"이라는 개정안이 도입되어 정부를 근본적으로 개혁하게 되었습니다. 그것은 국회에서 재의결될 때까지 적어도 4년 동안 총리에게 비상권을 주도록 하는 헌법 개정안이였습니다. 투표는 거의 만장일치로 그 법에 찬성했고, 이후 첫 번째 조치로 돌푸스는 선거를 협동주의적으로 새롭게 대체했고, 이는 향후 확장될 것입니다. 지금, 오스트리아에서는 민주주의가 죽었습니다. 조국전선이 집권당으로 군림하면서 새로운 시대가 시작됐습니다. 그것이 시대의 시험을 받을지 아닌지는 지켜봐야 할 것입니다."
+
+austria.coup.a:0 "오랜 잿더미에서 새 나라가 일어나리라"
+
+austria.1.t:0 "프란츠 페르디난트가 회의를 소집하다" 
+
+austria.1.d:0 "오스트리아에서 정치상황의 저항이 고조되는 것을 보고, 황제 프란츠 페르디난트는 오스트리아 의회 내의 반항적인 목소리를 토의하고 해결할 목적으로 왕족과 저명한 정치인으로 구성된 회의를 소집했습니다."
+
+austria.1.a:0 "그들에게 행운이 따르길!"
+
+austria.10.t:0 "오스트리아의 지도층이 반동주의적 사상을 수용하다" 
+
+austria.10.d:0 "오스트리아 지도부가 영국에 접근하면서, 그들은 최근에 "실용적이고 현실적인 형태의 정부에 대한 프랑스의 반대는 어리석음에 지나지 않는다"고 주장했습니다."
+
+austria.10.a:0 "이 망할 반동분자들!"
+
+austria.11.t:0 "독일의 모략꾼들이 발각되다!" 
+
+austria.11.d:0 "오랫동안 우리는 정보를 수집하고 그것을 준비하면서 우리 당 내부에서 우리 정권에 반대하는 목소리가 발견되었습니다. 몇몇 독일 정치인들은 룀이 돌푸스의 정권을 전복시키도록 설득하려고 시도하고 있습니다."
+
+austria.11.a:0 "그들을 즉시 체포하라!"
+
+austria.11.b:0 "돌푸스는 예전에는 필요했을지 몰라도, 이제 우리는 앞으로 나아가야 한다."
+
+austria.12.t:0 "내부로부터의 음모 가능성..." 
+
+austria.12.d:0 "독일 이민자들은 반역자들에게 큰 도움을 주었고, 그들은 우리 당이 성공하기 위해 필요한 정치적, 비군사적 힘을 제공했습니다. 최근, 독일 군소 정치인들이 돌푸스의 영광스러운 지도력에 맞서 싸우고 있다는 의혹이 제기되고 있습니다. 아직 확실히 알기엔 너무 이릅니다"
+
+austria.12.a:0 "우린 신중해야만 한다...."
+
+
+austria.13.t:0 "오스트리아가 지원을 요청하다" 
+
+austria.13.d:0 "한동안 오스트리아는 독일 침략의 위협을 받아왔습니다. 이 지역의 미묘한 힘의 균형을 감안할 때, 정복당한 오스트리아는 중앙 유럽으로 세력권을 확장하는 우리의 기회를 망칠 수도 있습니다. 독일군의 공격이 있을 경우 지원 요청에 응답해야 할까요?"
+austria.13.a:0 "물론이지! 빨갱이보단 나을 테니까..."
+
+austria.13.b:0 "우리는 지금 당장 외국의 독재자들과 싸우는 위험을 무릅쓸 수 없다."
+
+austria.14.t:0 "강철 조약" 
+
+austria.14.d:0 "오스트리아 외교관들이 도착하여 우리의 관계를 더욱 발전시키고 상호 방위 조약을 선포할 것을 요청했습니다. 그들은 또한 독일을 무너뜨리기 위한 대규모 연합을 통해 주변국들에게 압력을 가하고 영향을 끼치기 위한 외교적 노력이 진보하기를 원했습니다."
+austria.14.a:0 "괜찮군. 서명하라."
+austria.14.b:0 "우리는 오스트리아가 필요하지 않다."
+
+austria.15.t:0 "프로이센이 승낙하다!"
+austria.15.d:0 "프로이센은 우리의 제안에 긍정적인 반응을 보였습니다. 좋은 소식이 아닐 수 없습니다!"
+austria.15.a:0 "완벽해."
+
+austria.16.t:0 "프로이센이 거절하다!"
+austria.16.d:0 "프로이센은 우리의 제안을 거부했습니다. 우리 자신 외에는 누구도 의지할 수 없는 것 같습니다."
+austria.16.a:0 "수치스럽군...."
+
+austria.17.t:0 "오스트리아가 조약을 제안하다" 
+austria.17.d:0 "오스트리아가 조국을 점령하고 있는 빨갱이들을 막아내기 위한 제안을 들고 우리에게 접근해왔습니다. 바로 양국 간의 군사동맹입니다. 제안된 이 동맹 따르면, 양국은 연구, 교육, 훈련, 작전을 공유할 것이며, 빨갱이들의 위협에게서 서로를 방어하기 위한 협약에 맞추어 양국의 군사지휘부를 하나로 통합할 것입니다. 이 동맹에 수반된 명백하고도 많은 이익에도, 바람직하지 않은 부분은 있습니다. 오스트리아에서는 우리가 독일 민족을 해방시키는 데 성공할 경우 남독일이 자신들의 점령 하에 있어야 한다고 주장합니다. 우리 정부는 우리가 독일의 적법한 정부라는 주장과 함께 우리의 독립을 지키기 위해 압제적인 공산주의자들을 몰아낼 수 있는 더 강력한 기회를 갖기 위해 동맹을 받아들여야 할지, 아니면 거부해야 할지 의견이 분분합니다." 
+austria.17.a:0 "좋아, 우린 함께할 것이다."
+austria.17.b:0 "우린 오스트리아의 도움 없이 조국을 해방시킬 것이다."
+
+austria.18.t:0 "내부의 적"
+austria.18.d:0 "극단주의자들의 음모가 실패했습니다! 미친 돌푸스와 그의 정부 룀은 오스트리아 공화국에 대한 쿠데타를 시도하여 자멸했습니다. 하지만 이제 기독사회당은 수많은 내부 분열을 다루어야 합니다. 기사당 극우파의 수장격인 아돌프 히틀러는 자신의 당의 지도자인 쿠르트 슈쉬니크의 암살을 비밀리에 모의하고 있습니다. 그는 쿠르트의 완화된 개혁이 곧 유럽으로 다가오는 폭풍으로부터 오스트리아를 구하기에 충분하지 않을 것이라고 믿고 있습니다. 고독한 총잡이가 비엔나에 있는 슈쉬니크의 사무실로 보내졌습니다. 만약 체포된다 하더라도 그 행동은 공산주의와 극단주의 세력의 잔재가 한 짓으로 포장하면 됩니다. 마침내 오스트리아 민주정의 종말이 온 걸까요?"
+austria.18.a:0 "그의 사무실 입구를 확인해라."
+austria.18.b:0 "암살범을 체포하고, 히틀러도 잡아들여라!"
+hitler_coup_tooltip:0 "히틀러와 그의 지지자들은 정부의 순조로운 인수를 확보할 것이다."
+austria.19.t:0 "프로이센이 받아들이다!" 
+austria.19.d:0 "프로이센 당국이 협약을 받아들였습니다. 우리는 이제 북쪽에 있는 형제들과 함께 조국을 해방시킬 수 있습니다."
+austria.19.a:0 "환상적이야!"
+
+austria.20.t:0 "프로이센이 거절하다!" 
+austria.20.d:0 "프로이센 당국이 협약을 거부했습니다. 그들은 우리의 정당한 사명에 도움을 줄 수 없고 그들의 애처로운 구속 속에서 은둔하는 것을 선택할 수 없습니다."
+austria.20.a:0 "우리는 스스로 해낼 것이다."
+
+austria.21.t:0 "왕정의 상황" 
+austria.21.d:0 "우리의 영광스러운 지도자 엥겔베르트 돌푸스가 오스트리아 의회를 점령한 이후 왕정 문제는 다소 미궁에 빠져 있습니다. 아직 공식적으로 폐지되지는 않았지만, 돌푸스는 꽤 오랫동안 합스부르크-로트링겐 가문이 오스트리아의 상황에 부분적으로 책임이 있다고 확신했습니다. 그는 다민족제국의 무능과 실패에 대해 비난했고, 꾸준히 더 나은 밝은 길로 인도하고 있습니다. 그럼에도 불구하고, 문제는...\n 오스트리아 왕권의 오래된 가치와 전통이 우리의 새로운 통치하에서 다시 돌아올 것인가, 아니면 과거의 유물로 잊혀질 것인가 하는 것입니다. \n 다시 신과 나라를 대표하기 위해 돌아온 황제는 상징적인 인물로서, 국가를 위한 도덕적 가이드 역할을 할 것입니다. 그럼에도 불구하고, 엥겔베르트 돌푸스의 궁극적인 권력에 도전할 수 있는 국가 수반이 있는 것은 위험한 권력 역학일 수도 있습니다. \n 다음과 같은 제안이 있습니다. \n 돌푸스는 합스부르크가 국가 상징과 기념물 역할을 하는 동안 국가 지도자이자 국가 지도자로 남아있을 것입니다."
+austria.21.a:0 "오스트리아는 앞으로 나아갈 것이고, 돌푸스가 철권통치로 홀로 군림할 것이다!"
+austria.21.b:0 "왕관의 주인이 다시 돌아올 것이다."
+
+austria.22.t:0 "황제의 귀환"
+austria.22.d:0 "군주제를 복원하자는 제안은 오스트리아 사람들에게 꽤 호의적으로 받아들여져 왔습니다. 한가지 문제는 누가 군주가 될지는 아직 분명하지 않다는 것입니다. 세 후보는 프란츠 페르디난트, 오토 폰 합스부르크, 아델하이트 폰 합스부르크로 이뤄져 있습니다. \n 프란츠는 우리가 이미 알고 있듯이 대전 중에 오스트리아를 구하기 위해 많은 일을 했고, 여러 해 동안 우리를 통치해왔습니다. 많은 사람들에게 두말할 것 없는 선택이지만 그의 이전 정치적 소속으로 인해 그의 조카인 오토에게 왕관을 물려줄 필요가 있을 수도 있는데, 이것은 아마도 가장 안전한 선택이 될 것입니다.\n 마지막으로 당의 급진파에서는 오토의 남매인 아델하이트의 대관식을 지지합니다. 그녀는 우리의 움직임을 지지해 왔고, 돌푸스의 새 정권, 낡은 관료주의적이고 실패한 합스부르크 영지를 뛰어넘어 성장할 수 있는 깨끗한 후보자로 적합할 밝고 강력한 인물을 보여주었습니다. 돌푸스는 누가 호국관이 되어야 하는지 결정해야 합니다 낡은 정권일까요, 개혁의 바람일까요, 아니면 조국의 사랑을 받는 사람일까요?"
+austria.22.a:0 "신이시여, 제국의 안정과 공정함의 상징이신 황제 프란츠 폐하를 지켜주소서!"
+austria.22.b:0 "신이시여, 오스트리아 도덕성의 등불이신 황제 오토 폐하를 지켜주소서!"
+austria.22.c:0 "신이시여, 조국의 아름다운 검이신 여제 아델하이트 폐하를 지켜주소서!"
+
+austria.23.t:0 "여제의 요청"
+austria.23.d:0 "새로운 오스트리아 제국에서 왕좌의 상징성에도 불구하고, 왕좌에 앉아 있는 사람들이 권력을 행사하고 휘두르려고 하는 것을 막지 못했습니다. 아델하이트는 처음 조국전선에 위협적이지 않고 통제 가능한 군주로 보였습니다. 그녀는 종종 첫 공개 집회 동안 당황하거나 무서워하는 듯 했습니다. 그러나 점점 더 많은 사람들이 그녀의 말에 귀를 기울이기 시작했습니다. 그녀는 비밀리에 개별 관리들을 만났고, 그녀의 명분이 무엇이든 간에 그들을 동요시킬 수 있었습니다. 분명 여기에는 눈에 보이는 이상의 무언가가 있습니다. 아델하이트는 오늘 오전 호국관 돌푸스를 만나 군 개혁 문제를 논의했습니다. 아델하이트는 군대 교리를 많이 읽었지만, 최선의 행동방식이 무엇인지 여전히 확신하지 못한다고 말했습니다. 그러므로 결론을 내리기 위해서, 그녀는 군대의 장교들과 회의를 하고 이 문제에 대해 어떻게 진전시킬 것인가를 의논하고 싶었습니다. \n 그녀가 돌푸스의 철칙에 도전할 수 있는 일종의 영향력과 카리스마를 가지고 있다는 것에는 의심의 여지가 없습니다. 그는 이제 이 일을 그냥 넘길지 결정해야 합니다."
+austria.23.a:0 "군대에 당신의 자리따윈 없소. 주제를 아시오!"
+austria.23.b:0 "신경질적으로 반응할 필요는 없다. 여제는 그녀가 필요성을 느낄 때 개입할 수 있다."
+
+austria.24.t:0 "돌푸스 정권의 몰락" 
+austria.24.d:0 "얼마 전까지만 해도 모두들 돌푸스를 흠모했습니다. 그는 자신감 넘치는 연설가였고, 직접 나서서 이야기하기에 합당한 사람이었습니다. 그는 한때 어떤 상황이든 파악하곤 신속하게 행동에 나설 수 있는 결단력과 권위를 가지고 있었습니다. 엥겔베르트는 좋은 사람이지만, 우리는 더한 것을 필요로 합니다! 오스트리아는 항상 다른 무엇보다도 더한 제국이었고, 따라서 그만큼 강력한 여제가 필요했습니다. \n 그날 밤, 보국단의 장교들이 국회의사당에 난입해 돌푸스를 포함한 수많은 조국전선의 멤버들을 거느렸고, 룀은 체포된 뒤 추방되었습니다. 병사들의 호위 하에 그가 건물 밖으로 나오자, 아델하이트는 경악하고 슬픔에 찬 자신의 모습을 구경하는 그에 대해 후회감을 느꼈습니다. 하지만, 그녀는 오스트리아가 합스부르크의 손안에서 가장 안전함을 알았습니다. \n 대중이 관심이 있는 한 돌푸스의 중단 하에 그녀의 통치가 지속될 것이었고, 돌푸스는 여제에게 모든 권위를 넘기기 위해 사임했습니다. \n 신정부가 아델하이트를 새 호국관이자 여제로 선포하면서 두 직위가 하나로 합쳐졌으며, 여제에게 정부 전체의 모든 권한을 넘겨주었습니다. 다시 한 번, 오스트리아는 어떤 수단을 써서라도 남독일인들을 결속시키려는 설계와 야망을 가진 한 여성의 역사 안에서 새로운 시대로 접어들었습니다. 그게 중도파와 심지어 그녀의 가족마저도 떨쳐내는 것을 의미한다면, 응당 그래야만 합니다. 낡고 병든 것들은 사라질 것입니다.
+austria.24.a:0 "아델하이트 여제 만세!"
+
+austria.25.t:0 "빈에서 온 요구" 
+austria.25.d:0 "오늘 프라하의 오스트리아 대사관에서 오스트리아와 오스트리아 극우정부에 대한 요구가 발표된 이후 우리 대국의 정치적 미래에 대한 많은 논의가 일고 있습니다. 문제의 요구는 점점 더 인기를 끌지 못하고 있는 로마노프 왕가의 로만 페트로비치 국왕에게 퇴위하고 그들의 나라와 연합하여 합스부르크가 우리를 지배할 수 있도록 길을 열어 줄 것을 요구하는 내용이었습니다. 급변하는 이 대륙에서 더 많은 보호와 경제 번영, 발전은 분명히 새로운 보헤미아-모라비아의 이익이지만, 많은 사람들은 그러한 결합이 우리의 자치권을 현저히 감소시킬 것이라고 확신하고 있습니다. 많은 사람들이 현 왕의 최종 결정을 간절히 기다리고 있습니다."
+austria.25.a:0 "우린 로마노프가 사라지는 것을 원했다..."
+austria.25.b:0 "오스트리아는 그들의 꼭두각시를 우리 왕좌에 앉히지 못할 것이다!"
+
+austria.28.t:0 "슈쉬니크가 총선을 실시하다" 
+austria.28.d:0 "반란의 패배와 반대파의 확산으로 인해, 슈쉬니크는 이제 정부를 구성해야 하는 상황에 직면해 있습니다. 하이에크의 자유주의자들이든, 자이츠의 사회민주주의자든 그의 반대자들은 빠르게 조직되고 있습니다. 그리고 통치자로서의 쿠르트의 합법성은 오직 국민으로부터 나올 것입니다. 그래서 결과적으로 그는 선거를 외쳤습니다. 슈쉬니크는 많은 면에서 여전히 독재자입니다. 내전을 앞두고 그의 권력이 확장되었고, 그는 정부에 대한 어떤 반대도 무자비하게 분쇄하기 위해 이을 사용했습니다. 하지만 슈쉬니크는 개인의 성격과 의지가 부족합니다; 그는 파트롱의 카리스마, 콜차크의 철의 의지, 심지어 단눈치오의 재능 있는 부하들조차도 가지고 있지 않습니다. 그는 심각하게 부족한 정당성을 높이기 위해 이번 선거가 필요합니다. 그리고 야당은 오스트리아의 목표와 꿈을 향해 나아가고, 그를 더 깊게 타락시키기 위해 이번 선거가 필요합니다. \n 이제 슈쉬니크, 하이에크, 자이츠가 준비하기 시작합니다. 진실의 순간이 다가오고 있습니다."
+austria.28.a:0 "오스트리아의 새 시대군.."
+
+austria.29.t:0 "선거" 
+austria.29.d:0 "여기엔 많은 것이 걸려 있습니다./n 슈쉬니크가 승리하면 오스트리아는 반 입헌군주제 국가로 돌아갈 것이며, 제국을 되찾고 붉은 독일인들을 물리치기 위해 전쟁에 오를 가능성이 가장 높습니다. 쿠르트는 황실에 대한 지지와 그들의 귀환에 대해 단호한 입장을 보여온 이로서, 제국으로의 회귀에 대해 일말의 의심도 보이지 않습니다. 보수당의 오랜 경쟁자인 자이츠와 사회민주당은 당연히 이러한 접근법에 이의를 제기해 왔으며, 대신 적절한 공화국을 만들기를 원합니다. 더 이색적인 후보도 합류했으니, 바로 악명높은 경제학자 프리드리히 아우구스트 폰 하이에크입니다. 하이에크는 무너지는 옛 자본주의 가치를 대체하기 위해 새로워지고 개선된 원칙에 입각한 고전적 자유경제체제를 도입할 것입니다. 마침내 국민이 투표를 했습니다. 개표가 실시된 가운데 모두가 제자리를 지키기고 있습니다. 이제 당선자를 발표할 차례입니다."
+austria.29.a:0 "슈쉬니크가 권력을 지켜내며 기사당이 정권을 잡았다!"
+austria.29.b:0 "하이에크와 WP가 큰 표차로 이겼다!"
+austria.29.c:0 "자이츠와 사민당이 보수권을 박살냈다!"
+
+#IDEAS#
+AUS_emergency_conscription:0 "긴급 징집"
+AUS_unrelenting_progress:0 "끊임없는 진보"
+AUS_neutrallity:0 "중립의 선포"
+AUS_stable_once_more:0 "다시 한 번 안정을"
+AUS_worker_front:0 "히틀러주의 노동자전선"
+
+AUS_adelheid:0 "여제 아델하이트 1세 폰 합스부르크-로트링겐"
+AUS_adelheid_desc:0 "아델하이트는 군주제에 관한 한 우선 선택지는 아니었습니다. 성별과 나이 때문에, 그녀의 주장은 과장할 것 없이 논란의 여지가 있었습니다만 결과적으로 일생 내내 정치적으로 전혀 활동적이지 않았기 때문에 그 이미지에 맞게 군주제를 주무를 수 있다는 조국전선의 의도 하에 선택되었습니다. 아이러니하게도, 여제는 법정에서 매우 적극적이고 활동적이었으며, 초국가주의자 정권의 이상을 완전히 빼다박은 것으로 보였습니다. 그녀의 아름다움과 불같은 성격은 바로 이런 시기에 오스트리아가 필요로 하는 것입니다."
+
+AUS_despoticmonarchy:0 "전제군주정"
+AUS_despoticmonarchy_desc:0 "오스트리아의 군주정은 항상 중용과 보수와 연관되어 있었지만, 지금은 더 이상 그렇지 않습니다. \n 오스트리아의 군주정은 이제 강력한, 국수주의적이며 전체주의적인 정권을 이끌면서 전쟁의 불씨를 다시 일으켰습니다!"
+
+AUS_ottohabsburg:0 "황제 오토 1세 폰 합스부르크-로트링겐"
+AUS_ottohabsburg_desc:0 "오스트리아의 왕좌를 위해 오토만큼 좋은 선택은 없었습니다. 그는 자애롭고, 감화적이며, 젊고 잘생겼습니다. 나라를 새로워진 영광으로 이끌 가치 있는 황제여!"
+
+AUS_franzferdinand:0 "황제 프란츠 2세 폰 합스부르크-로트링겐"
+AUS_franzferdinand_desc:0 "황제 프란츠 페르디난트는 조국전선 지도부에겐 정말 쉽지 않은 선택이었습니다. 그는 1차 세계 대전 이후 나라를 이끌면서, 이를 함께 지켜나가기 위해 고군분투하고 있었습니다. 그의 보수주의자에 대한 지지는 나라를 약화시켰습니다. 지금까지는 그랬지만, 이제 새로운 정권이 들어섰습니다... 황제 프란츠는 이미 늙고 지쳐서 더 이상 문제를 일으키지 않을 것입니다. 돌푸스의 철권통치를 방관하는 늙고 사랑받는 황제를 보는 것은 국민에게 좋은 구경거리일 것입니다!"
+
+AUS_Dolfuss_Alone:0 "돌푸스가 홀로 군림한다!"
+AUS_Dolfuss_Alone_desc:0 "군주정은 해체되었습니다! 이제 엥겔베르트 돌푸스가 모두가 인정하는 오스트리아의 영광스러운 지도자 자리에 홀로 군림합니다. 철과 피로써 그는 우리를 위대한 으로 이끌 것입니다. /n 하일 돌푸스!" 
+
+AUS_paramillitary_conscription:0 "준군사조직 징집"
+AUS_paramillitary_conscription_desc:0 "보국단과 그 비스무리한 것들은 나라를 방어하는 데에 있어 애국적인 열의의 중요한 원천이 됩니다. 군부의 규율 부분에 있어서 그들의 참전은 매우 중요합니다."
+AUS_accsupremacy:0 "강화된 독일 민족주의"
+AUS_accsupremacy_desc:0 "계획은 성공적이었습니다! 오스트리아 사람들은 독일 민족주의의 가치를 보게 될 것입니다."
+AUS_despoticsupremacy:0 "강화된 오스트리아 국가주의"
+AUS_despoticsupremacy_desc:0 "정부에서 독사의 자식들과 배신자들이 사라졌습니다. 우리는 즉시 밝은 미래로 나아갈 수 있습니다!"
+AUS_conservativesupremacy:0 "강화된 보수주의"
+
+AUS_circleofsteel:0 "강철 조약"
+AUS_circleofsteel_desc:0 "오랫동안 오스트리아와 프로이센은 독일을 되찾을 계획을 세웠고, 그러한 목표를 달성하기 위해서라면 동맹의 확표가 필수적입니다."
+
+AUS_Final_Compromise:0 "히틀러 아래서의 단합"
+AUS_Final_Compromise_desc:0 "쓸모없고 구식인 지도자들이 쫓겨났습니다! 히틀러는 부패와 태만을 멈출 것입니다. 그는 오스트리아를 안전하고 더 나은 미래로 이끌 것입니다."
+
+AUS_democracyprevailed:0 "민주정의 승리"
+AUS_democracyprevailed_desc:0 "간단한 일은 아니었지만, 국무총리는 마침내 우리의 자유를 파괴하려 하는 자들을 제거했습니다. 이제 다 괜찮아질 것입니다."
+
+AUS_nationalist_millitarism:0 "오스트리아 군국주의"
+
+AUS_nationalist_millitarism_desc:0 "오스트리아-헝가리 제국의 붕괴 이후, 오스트리아 사람들은 국수주의적이고 군국주의적인 태도를 취했습니다. 이는 그들이 전쟁터에선 쓸만하지만, 생산 노선에선 덜 쓸만하다는 것을 보여줍니다."
+
+AUS_Improved_Economy:0 "개혁된 경제"
+
+AUS_Improved_Economy_desc:0 "오스트리아의 중도파는 경제를 잘 개혁했습니다. 더이상 아무 생각 없는 금수들이 오스트리아 노동자들의 현명함을 대신하지 않을 것입니다."
+
+AUS_thesouthernreich:0 "쥐트라이히"
+AUS_thesouthernreich_desc:0 ""철과 피"는 표어였으니, 프로이센이 남부를 자신의 제국으로 끌어들인 65년 전에 그러하였습니다. "철과 피"는 진실이니, 남부인들은 북부를 밀어내고 우리의 연방 안에서 기뻐합니다. 쥐트라이히는 다시는 베를린의 피나 하노버의 철로 오욕당하지 않을 것입니다. 만수무강하소서, 분리되지도 나누어지지도 않을 쥐트라이히여!"
+
+
+PRS_alone_against_the_giant:0 "거인에 홀로 맞서다"
+PRS_alone_against_the_giant_desc:0 "우리는 오스트리아에 의한 조약을 거부했고, 비록 일부 선택지를 열어놓긴 했지만 이는 확실히 독일을 이기기 더 어렵게 만들 것입니다."
+
+AUS_ausprustreaty:0 "오스트리아-프로이센 조약"
+AUS_ausprustreaty_desc:0 "프로이센과 오스트리아는 공통의 목표를 가지고 있습니다. 우리의 영광을 복원하는 데에 서로 협력하는 것은 쓸모있어 보일 것입니다!"
+
+#######traits###############
+ruthless_pacifier:0 "무자비한 조정자"
+porsche_trait:0 "중전차 제조사"
+fighter_producer_defense_1:0 "전투기 제조사"
+glorious_reichsprotektor:0 "영광스러운 호국경"
+reichsprotektor_und_kaiserin:0 "호국경과 여제"
+despotic_council:0 "전제 자문회"
+eco_hayek:0 "진보적 자유시장"
+benevolent:0 "자애"
+######Ministers###############
+AUS_kurt_schuchnigg:0 "쿠르트 슈쉬니크"
+AUS_ernst_rudiger:0 "에른스트 뤼디거 슈타렌베르크"
+AUS_karl_buresch:0 "카를 부레쉬"
+AUS_friedrich_hayek:0 "프리드리히 아우구스트 폰 하이에크"
+AUS_emil_fey:0 "에밀 파이"
+
+AUS_engelbert_dollfuss:0 "엥겔베르트 돌푸스"
+AUS_general_staff:0 "참모"
+ausporsche:0 "포르셰"
+herz:0 "헤르츠"
+
+#####DEFAULT FOCUSES#########
+ AUS_army_effort:0 "육군 주력"
+ AUS_army_effort_desc:0 "Despite the increasing possibilities of aerial and naval warfare, ground combat is still key in tomorrow's wars. With preparation, we can avoid reliving the hell of the trenches."
+ AUS_equipment_effort:0 "장비 주력"
+ AUS_equipment_effort_desc:0 "The limits for what equipment can be carried by infantry are constantly being pushed. We will focus on giving our troops the best tools available."
+ AUS_motorization_effort:0 "차량화 주력"
+ AUS_motorization_effort_desc:0 "Mobility and protection are crucial to get infantry into and out of the field safely. Focusing on these developments will allow us to take action quickly."
+ AUS_doctrine_effort:0 "교리 주력"
+ AUS_doctrine_effort_desc:0 "The military doctrines that defined ground combat in the Great War are outdated. We must put our greatest minds to the task of shaping the military thought of tomorrow."
+ AUS_equipment_effort_2:0 "장비 주력 2"
+ AUS_equipment_effort_2_desc:0 "We will continue our efforts to ensure our infantry and support troops are armed with the best possible equipment of our time."
+ AUS_mechanization_effort:0 "기계화 주력"
+ AUS_mechanization_effort_desc:0 "Rethinking the possibilities of motorized infantry, we can push the limits of what vehicles can be constructed today."
+ AUS_doctrine_effort_2:0 "교리 주력 2"
+ AUS_doctrine_effort_2_desc:0 "The battlefield has changed not just in the interbellum years, but over the course of recent conflicts. We must continuously reevaluate our doctrines to reflect this."
+ AUS_equipment_effort_3:0 "장비 주력 3"
+ AUS_equipment_effort_3_desc:0 "Instead of imitating or buying foreign equipment, we should aim to become world-leading in infantry weapons."
+ AUS_armor_effort:0 "기갑 주력"
+ AUS_armor_effort_desc:0 "Applying what we have learned from mechanizing our infantry, we can improve our armored vehicles as well."
+ AUS_special_forces:0 "특수부대"
+ AUS_special_forces_desc:0 "We have need of elite forces; mountain troops and paratroopers should be our priority."
+ AUS_aviation_effort:0 "항공 주력"
+ AUS_aviation_effort_tt:0 "Not enough building slots for §YAir Base§!"
+ AUS_aviation_effort_desc:0 "Nowhere is technological advances more rapid than in aerial warfare. Aviation is a field any modern nation must master."
+ AUS_fighter_focus:0 "전투기 중점"
+ AUS_fighter_focus_desc:0 "We have not seen that last of dogfights in the Great War. Keeping ahead in the development of fighter planes will give us an edge in the future."
+ AUS_bomber_focus:0 "폭격기 중점"
+ AUS_bomber_focus_desc:0 "When people of the future speak of the horror to today's wars, fire raining from the skies will prominently feature. We will do our best to ensure those stories are told by our enemies."
+ AUS_aviation_effort_2:0 "Aviation Effort II"
+ AUS_aviation_effort_2_desc:0 "Further advances in aviation will be necessary to integrate our air force well with other branches of the military."
+ AUS_CAS_effort:0 "CAS Effort"
+ AUS_CAS_effort_desc:0 "A modern army needs support from vehicles not only on the ground, but also in the air."
+ AUS_rocket_effort:0 "Rocket Effort"
+ AUS_rocket_effort_desc:0 "Rocket and jet engines allow for unprecedented speeds for unmanned and manned vessels alike. Pioneering these technologies will allow us to take the enemy by surprise."
+ AUS_NAV_effort:0 "NAV Effort"
+ AUS_NAV_effort_desc:0 "Just as the new naval warfare takes place in part beneath the water's surface, part of it takes place in the air above the waters."
+ AUS_naval_effort:0 "Naval Effort"
+ AUS_naval_effort_tt:0 "Not enough building slots for §YNaval Dockyards§!"
+ AUS_naval_effort_desc:0 "The expansion of our navy should be our first priority. Assign all available resources to new Dockyards and research into light surface ships."
+ AUS_flexible_navy:0 "유연한 해군"
+ AUS_flexible_navy_desc:0 "Reinventing naval warfare to account for the advances in submarine technology will allow us to strike efficiently against enemy convoys."
+ AUS_large_navy:0 "대규모 해군"
+ AUS_large_navy_desc:0 "Adapting our naval doctrines to accommodate large ships and ensuring the safety of our trade convoys will teach us much about what sort of ships we need."
+ AUS_submarine_effort:0 "Submarine Effort"
+ AUS_submarine_effort_desc:0 "Submarine warfare is the most exciting naval development since the invention of the torpedo boat. We would do well to not just protect against submarines, but also use them against enemy shipping."
+ AUS_cruiser_effort:0 "Cruiser Effort"
+ AUS_cruiser_effort_desc:0 "Before making forays into advanced battleship research, the smaller cruisers are in need of replacement."
+ AUS_destroyer_effort:0 "Destroyer Effort"
+ AUS_destroyer_effort_desc:0 "Studying the design and strategic use of submarines, we have also learned how to counter those strategies. Destroyers will be crucial for this."
+ AUS_capital_ships_effort:0 "Capital Ship Effort"
+ AUS_capital_ships_effort_desc:0 "The nation with the most battleships will rule the oceans. Battleships and carriers represent the old and the new in naval superiority."
+ AUS_industrial_effort:0 "Industrial Effort"
+ AUS_industrial_effort_desc:0 "Focus all our political efforts on building up the civilian industry in a great leap forward."
+ AUS_industrial_effort_2:0 "Industrial Effort II"
+ AUS_industrial_effort_2_desc:0 "With iron will and a relentless work ethic, we can mobilize the people in another great industrial effort."
+ AUS_construction_effort:0 "Construction Effort"
+ AUS_construction_effort_tt:0 "Not enough building slots for §YCivilian Factories§!"
+ AUS_construction_effort_desc:0 "Civilian industrial capacity must not be underestimated even when war looms over the world."
+ AUS_production_effort:0 "Armament Effort"
+ AUS_production_effort_tt:0 "Not enough building slots for §YMilitary Factory§!"
+ AUS_production_effort_desc:0 "If you can build tractors, you can build tanks! We must not allow our military production capacity to lag behind."
+ AUS_construction_effort_2:0 "Construction Effort II"
+ AUS_construction_effort_2_desc:0 "Continuing to expand our factories will allow us to speed up production of goods for trade and further construction efforts."
+ AUS_production_effort_2:0 "Armament Effort II"
+ AUS_production_effort_2_desc:0 "Trying to adapt civilian factories to produce military equipment is inefficient. We should focus on preparing military production now."
+ AUS_production_effort_3:0 "Armament Effort III"
+ AUS_production_effort_3_desc:0 "Continued efforts to expand our military factories are necessary to meet the demands for new equipment."
+ AUS_infrastructure_effort:0 "Infrastructure Effort"
+ AUS_infrastructure_effort_desc:0 "A country without proper infrastructure cannot pursue advanced projects or constructions."
+ AUS_infrastructure_effort_tt:0 "Not enough building slots for §YInfrastructure§!"
+ AUS_synth_oil_effort_tt:0 "Not enough building slots for §YSynthetic Refinery§!"
+ AUS_infrastructure_effort_2:0 "Infrastructure Effort II"
+ AUS_infrastructure_effort_2_desc:0 "Extending our infrastructure further will enable the transports and communications necessary for high-tech clandestine projects."
+ AUS_construction_effort_3:0 "Construction Effort III"
+ AUS_construction_effort_3_desc:0 "Expansion of our infrastructure network has significantly improved our capacity for construction."
+ AUS_nuclear_effort:0 "Nuclear Effort"
+ AUS_nuclear_effort_desc:0 "Standing on the edge of a world-changing discovery, we cannot let others light the fire that may one day consume the Earth."
+ AUS_extra_tech_slot:0 "Extra Research Slot"
+ AUS_extra_tech_slot_desc:0 "Our industrial expansion and other recent advances might allow us to conduct more R&D in parallel."
+ AUS_extra_tech_slot_2:0 "Extra Research Slot II"
+ AUS_extra_tech_slot_2_desc:0 "The rapid industrialization of our nation has opened up new opportunities in R&D that we should pursue."
+ AUS_technology_sharing:0 "Technology Sharing"
+ AUS_technology_sharing_desc:0 "By sharing technological advances with our allies, our whole faction will be able to conduct wartime R&D more efficiently."
+ AUS_secret_weapons:0 "비밀병기"
+ AUS_secret_weapons_desc:0 "It is tempting to expend all extra resources into developing tanks and planes, but the secret to winning wars lies in whole new fields of science; electronics, rocketry and nuclear research."
+ AUS_air_innovation:0 "Air Innovations"
+ AUS_air_innovation_desc:0 "Modern wars cannot be won without dominating the skies. We must do everything in our power to develop the air force!"
+ AUS_air_innovation_2:0 "Air Innovations II"
+ AUS_air_innovation_2_desc:0 "Every advantage we can gain in the skies is precious. We should focus all of our efforts on developing our fighters."
+ AUS_naval_air_effort:0 "해군항공대 주력"
+ AUS_naval_air_effort_desc:0 "The efficacy of air strikes against naval targets was demonstrated by the Americans already back in 1921. We should not neglect this branch of the Air Force if we intend to wage war on a naval power."

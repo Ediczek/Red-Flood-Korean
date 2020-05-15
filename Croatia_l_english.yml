@@ -1,0 +1,72 @@
+﻿l_english:
+#COUNTRY NAME#
+CRO_vanguard_socialism:0 "크로아티아 인민국"
+CRO_vanguard_socialism_DEF:0 "크로아티아"
+CRO_vanguard_socialism_ADJ:0 "크로아티아"
+
+CRO_libertarian_marxism:0 "크로아티아 인민국"
+CRO_libertarian_marxism_DEF:0 "크로아티아"
+CRO_libertarian_marxism_ADJ:0 "크로아티아"
+
+CRO_revolutionary_anarchism:0 "크로아티아 인민국"
+CRO_revolutionary_anarchism_DEF:0 "크로아티아"
+CRO_revolutionary_anarchism_ADJ:0 "크로아티아"
+
+CRO_revisionist_socialism:0 "크로아티아 인민국"
+CRO_revisionist_socialism_DEF:0 "크로아티아"
+CRO_revisionist_socialism_ADJ:0 "크로아티아"
+
+CRO_social_democratism:0 "크로아티아"
+CRO_social_democratism_DEF:0 "크로아티아"
+CRO_social_democratism_ADJ:0 "크로아티아"
+
+CRO_placeholderism:0 "크로아티아"
+CRO_placeholderism_DEF:0 "크로아티아"
+CRO_placeholderism_ADJ:0 "크로아티아"
+
+CRO_liberalism:0 "크로아티아"
+CRO_liberalism_DEF:0 "크로아티아"
+CRO_liberalism_ADJ:0 "크로아티아"
+
+CRO_conservatism:0 "크로아티아"
+CRO_conservatism_DEF:0 "크로아티아"
+CRO_conservatism_ADJ:0 "크로아티아"
+
+CRO_right_authoritarianism:0 "크로아티아"
+CRO_right_authoritarianism_DEF:0 "크로아티아"
+CRO_right_authoritarianism_ADJ:0 "크로아티아"
+
+CRO_despotism:0 "크로아티아"
+CRO_despotism_DEF:0 "크로아티아"
+CRO_despotism_ADJ:0 "크로아티아"
+
+CRO_reactionism:0 "크로아티아"
+CRO_reactionism_DEF:0 "크로아티아"
+CRO_reactionism_ADJ:0 "크로아티아"
+
+CRO_accelerationism:0 "크로아티아"
+CRO_accelerationism_DEF:0 "크로아티아"
+CRO_accelerationism_ADJ:0 "크로아티아"
+#PARTIES#
+CRO_vanguard_socialism_party_long:0 "크로아티아 혁명운동-우스타샤"
+CRO_vanguard_socialism_party:0 "HRP-우스타샤"
+CRO_libertarian_marxism_party_long:0 "크로아티아 공산당"
+CRO_libertarian_marxism_party:0 "KPH"
+CRO_revolutionary_anarchism_party_long:0 "크로아티아 아나키스트 연합"
+CRO_revolutionary_anarchism_party:0 "SAH"
+CRO_revisionist_socialism_party_long:0 "크로아티아 사회민주노동자당"
+CRO_revisionist_socialism_party:0 "SrsH"
+CRO_social_democratism_party_long:0 "크로아티아 사회민주당"
+CRO_social_democratism_party_long:0 "SsH"
+CRO_liberalism_party:0 "인민당"
+CRO_conservatism_party:0 "크로아티아 대중당"
+CRO_right_authoritarianism_party:0 "크로아티아 대중당"
+CRO_despotism_party:0 "크로아티아권"
+CRO_reactionism_party_long:0 "크로아티아 민족연합"
+CRO_reactionism_party:0 "NSH"
+CRO_accelerationism_party_long:0 "크로아티아 아방가르드파"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
