@@ -1,0 +1,66 @@
+﻿l_english:
+#COUNTRY NAME#
+NZL_vanguard_socialism:0 "뉴질랜드"
+NZL_vanguard_socialism_DEF:0 "뉴질랜드"
+NZL_vanguard_socialism_ADJ:0 "뉴질랜드"
+
+NZL_libertarian_marxism:0 "뉴질랜드"
+NZL_libertarian_marxism_DEF:0 "뉴질랜드"
+NZL_libertarian_marxism_ADJ:0 "뉴질랜드"
+
+NZL_revolutionary_anarchism:0 "뉴질랜드"
+NZL_revolutionary_anarchism_DEF:0 "뉴질랜드"
+NZL_revolutionary_anarchism_ADJ:0 "뉴질랜드"
+
+NZL_revisionist_socialism:0 "뉴질랜드"
+NZL_revisionist_socialism_DEF:0 "뉴질랜드"
+NZL_revisionist_socialism_ADJ:0 "뉴질랜드"
+
+NZL_social_democratism:0 "뉴질랜드"
+NZL_social_democratism_DEF:0 "뉴질랜드"
+NZL_social_democratism_ADJ:0 "뉴질랜드"
+
+NZL_placeholderism:0 "뉴질랜드"
+NZL_placeholderism_DEF:0 "뉴질랜드"
+NZL_placeholderism_ADJ:0 "뉴질랜드"
+
+NZL_liberalism:0 "뉴질랜드"
+NZL_liberalism_DEF:0 "뉴질랜드"
+NZL_liberalism_ADJ:0 "뉴질랜드"
+
+NZL_conservatism:0 "뉴질랜드"
+NZL_conservatism_DEF:0 "뉴질랜드"
+NZL_conservatism_ADJ:0 "뉴질랜드"
+
+NZL_right_authoritarianism:0 "뉴질랜드"
+NZL_right_authoritarianism_DEF:0 "뉴질랜드"
+NZL_right_authoritarianism_ADJ:0 "뉴질랜드"
+
+NZL_despotism:0 "뉴질랜드"
+NZL_despotism_DEF:0 "뉴질랜드"
+NZL_despotism_ADJ:0 "뉴질랜드"
+
+NZL_reactionism:0 "뉴질랜드"
+NZL_reactionism_DEF:0 "뉴질랜드"
+NZL_reactionism_ADJ:0 "뉴질랜드"
+
+NZL_accelerationism:0 "뉴질랜드"
+NZL_accelerationism_DEF:0 "뉴질랜드"
+NZL_accelerationism_ADJ:0 "뉴질랜드"
+#PARTIES#
+NZL_vanguard_socialism_party:0 "공산주의파"
+NZL_libertarian_marxism_party:0 "사회주의당"
+NZL_revolutionary_anarchism_party:0 "연합 회의"
+NZL_revisionist_socialism_party:0 "라타나 운동"
+NZL_social_democratism_party:0 "노동당"
+NZL_liberalism_party:0 "민주당"
+NZL_conservatism_party:0 "연합개혁연정"
+NZL_right_authoritarianism_party:0 "나라당"
+NZL_despotism_party:0 "영국 긴급평의회"
+NZL_reactionism_party:0 "뉴질랜드 군단"
+NZL_accelerationism_party:0 "테크노크라시 법인"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

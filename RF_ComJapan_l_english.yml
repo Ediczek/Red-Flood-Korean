@@ -1,0 +1,78 @@
+﻿l_english:
+#COUNTRY NAME#
+JPR_vanguard_socialism:0 "혁명 일본"
+JPR_vanguard_socialism_DEF:0 "일본"
+JPR_vanguard_socialism_ADJ:0 "일본"
+
+JPR_libertarian_marxism:0 "혁명 일본"
+JPR_libertarian_marxism_DEF:0 "일본"
+JPR_libertarian_marxism_ADJ:0 "일본"
+
+JPR_revolutionary_anarchism:0 "일본"
+JPR_revolutionary_anarchism_DEF:0 "일본"
+JPR_revolutionary_anarchism_ADJ:0 "일본"
+
+JPR_revisionist_socialism:0 "일본"
+JPR_revisionist_socialism_DEF:0 "일본"
+JPR_revisionist_socialism_ADJ:0 "일본"
+
+JPR_social_democratism:0 "일본"
+JPR_social_democratism_DEF:0 "일본"
+JPR_social_democratism_ADJ:0 "일본"
+
+JPR_placeholderism:0 "일본"
+JPR_placeholderism_DEF:0 "일본"
+JPR_placeholderism_ADJ:0 "일본"
+
+JPR_liberalism:0 "일본"
+JPR_liberalism_DEF:0 "일본"
+JPR_liberalism_ADJ:0 "일본"
+
+JPR_conservatism:0 "일본"
+JPR_conservatism_DEF:0 "일본"
+JPR_conservatism_ADJ:0 "일본"
+
+JPR_right_authoritarianism:0 "일본"
+JPR_right_authoritarianism_DEF:0 "일본"
+JPR_right_authoritarianism_ADJ:0 "일본"
+
+JPR_despotism:0 "일본"
+JPR_despotism_DEF:0 "일본"
+JPR_despotism_ADJ:0 "일본"
+
+JPR_reactionism:0 "일본"
+JPR_reactionism_DEF:0 "일본"
+JPR_reactionism_ADJ:0 "일본"
+
+JPR_accelerationism:0 "일본"
+JPR_accelerationism_DEF:0 "일본"
+JPR_accelerationism_ADJ:0 "일본"
+#PARTIES#
+JPR_vanguard_socialism_party:0 "일본노동당(흥아파)"
+JPR_libertarian_marxism_party:0 "일본노동당(카쿠마루파)"
+JPR_revolutionary_anarchism_party:0 "노동조합총연맹"
+JPR_revisionist_socialism_party:0 "사회정의당"
+JPR_social_democratism_party:0 "사회대중당"
+JPR_liberalism_party:0 "입헌민정당"
+JPR_conservatism_party:0 "입헌정우회"
+JPR_right_authoritarianism_party:0 "중앙파"
+JPR_despotism_party:0 "유신파"
+JPR_reactionism_party:0 "입정호국회"
+JPR_accelerationism_party:0 "혁신관료"
+JPR_vanguard_socialism_party_long:0 "일본노동당(범아시아주의자)"
+JPR_libertarian_marxism_party_long:0 "일본노동당(마르크스주의자)"
+JPR_revolutionary_anarchism_party_long:0 "전일본노동조합총연맹"
+JPR_revisionist_socialism_party_long:0 "사회정의당"
+JPR_social_democratism_party_long:0 "일본사회대중당"
+JPR_liberalism_party_long:0 "입헌민주당"
+JPR_conservatism_party_long:0 "입헌정우회"
+JPR_right_authoritarianism_party_long:0 "중앙파"
+JPR_despotism_party_long:0 "유신파"
+JPR_reactionism_party_long:0 "입정호국회"
+JPR_accelerationism_party_long:0 "혁신관료"
+#LEADER DESCRITIONS#
+#IDEAS#
+#EVENTS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

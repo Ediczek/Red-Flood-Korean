@@ -1,0 +1,21 @@
+﻿l_english:
+#COUNTRY NAME#
+
+SOK_reactionism:0 "소코토 칼리프령"
+SOK_reactionism_DEF:0 "소코토 칼리프령"
+SOK_reactionism_ADJ:0 "소코토"
+
+
+#PARTIES#
+SOK_reactionism_party:0 "소코토 술탄국 평의회"
+SOK_reactionism_party_long:0 "소코토 술탄국 평의회"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+#EVENTS#
+nigeria.1.t:0 "북부 나이지리아에서 이슬람 근본주의자들의 봉기하다!" 
+nigeria.1.desc:0 ""
+nigeria.1.a:0 "망할 광신자들!"
+nigeria.1.b:0 "곧 진정한 독립을 가지리라. (소코토 칼리프령으로 플레이)"

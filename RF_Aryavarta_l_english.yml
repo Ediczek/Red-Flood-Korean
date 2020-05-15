@@ -1,0 +1,67 @@
+﻿l_english:
+#COUNTRY NAME#
+ARY_vanguard_socialism:0 "아리야바르타 코뮌"
+ARY_vanguard_socialism_DEF:0 "아리야바르타"
+ARY_vanguard_socialism_ADJ:0 "아리야바르타"
+
+ARY_libertarian_marxism:0 "아리야바르타 코뮌"
+ARY_libertarian_marxism_DEF:0 "아리야바르타"
+ARY_libertarian_marxism_ADJ:0 "아리야바르타"
+
+ARY_revolutionary_anarchism:0 "아리야바르타 코뮌"
+ARY_revolutionary_anarchism_DEF:0 "아리야바르타"
+ARY_revolutionary_anarchism_ADJ:0 "아리야바르타"
+
+ARY_revisionist_socialism:0 "아리야바르타 코뮌"
+ARY_revisionist_socialism_DEF:0 "아리야바르타"
+ARY_revisionist_socialism_ADJ:0 "아리야바르타"
+
+ARY_social_democratism:0 "델리"
+ARY_social_democratism_DEF:0 "델리"
+ARY_social_democratism_ADJ:0 "델리"
+
+ARY_placeholderism:0 "델리"
+ARY_placeholderism_DEF:0 "델리"
+ARY_placeholderism_ADJ:0 "델리"
+
+ARY_liberalism:0 "델리"
+ARY_liberalism_DEF:0 "델리"
+ARY_liberalism_ADJ:0 "델리"
+
+ARY_conservatism:0 "델리"
+ARY_conservatism_DEF:0 "델리"
+ARY_conservatism_ADJ:0 "델리"
+
+ARY_right_authoritarianism:0 "델리"
+ARY_right_authoritarianism_DEF:0 "델리"
+ARY_right_authoritarianism_ADJ:0 "델리"
+
+ARY_despotism:0 "델리"
+ARY_despotism_DEF:0 "D델리lhi"
+ARY_despotism_ADJ:0 "델리"
+
+ARY_reactionism:0 "아리야바르타"
+ARY_reactionism_DEF:0 "아리야바르타"
+ARY_reactionism_ADJ:0 "아리야바르타"
+
+ARY_accelerationism:0 "아리야바르타"
+ARY_accelerationism_DEF:0 "아리야바르타"
+ARY_accelerationism_ADJ:0 "아리야바르타"
+#PARTIES#
+ARY_vanguard_socialism_party:0 "인도 혁명공산당"
+ARY_libertarian_marxism_party:0 "델리 사회주의 연맹"
+ARY_revolutionary_anarchism_party:0 "아나키스트 파벌"
+ARY_revisionist_socialism_party:0 "농업주의 파벌"
+ARY_social_democratism_party:0 "인도 민족회의 잔존파"
+ARY_liberalism_party:0 "델리 자유파"
+ARY_conservatism_party:0 "델리 보수파"
+ARY_right_authoritarianism_party:0 "군사평의회 지지파"
+ARY_despotism_party:0 "군주주의 지지파"
+ARY_reactionism_party:0 "민족의용조직"
+ARY_accelerationism_party:0 "아리야바르타 미래주의 연맹"
+#LEADER DESCRITIONS#
+POLITICS_V.D.Savarkar_DESC:0
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

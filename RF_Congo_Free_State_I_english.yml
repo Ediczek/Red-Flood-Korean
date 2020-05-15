@@ -1,0 +1,77 @@
+﻿l_english:
+#COUNTRY NAME#
+CFS_vanguard_socialism:0 "콩고 자유인민공화국"
+CFS_vanguard_socialism_DEF:0 "콩고 자유국"
+CFS_vanguard_socialism_ADJ:0 "콩고 자유국"
+
+CFS_libertarian_marxism:0 "콩고 자유인민공화국"
+CFS_libertarian_marxism_DEF:0 "콩고 자유국"
+CFS_libertarian_marxism_ADJ:0 "콩고 자유국"
+
+CFS_revolutionary_anarchism:0 "콩고 자유령"
+CFS_revolutionary_anarchism_DEF:0 "콩고 자유령"
+CFS_revolutionary_anarchism_ADJ:0 "콩고 자유령"
+
+CFS_revisionist_socialism:0 "콩고 자유인민공화국"
+CFS_revisionist_socialism_DEF:0 "콩고 자유국"
+CFS_revisionist_socialism_ADJ:0 "콩고 자유국"
+
+CFS_social_democratism:0 "콩고 자유국"
+CFS_social_democratism_DEF:0 "콩고 자유국"
+CFS_social_democratism_ADJ:0 "콩고 자유국"
+
+CFS_placeholderism:0 "콩고 자유국"
+CFS_placeholderism_DEF:0 "콩고 자유국"
+CFS_placeholderism_ADJ:0 "콩고 자유국"
+
+CFS_liberalism:0 "콩고 자유국"
+CFS_liberalism_DEF:0 "콩고 자유국"
+CFS_liberalism_ADJ:0 "콩고 자유국"
+
+CFS_conservatism:0 "콩고 자유국"
+CFS_conservatism_DEF:0 "콩고 자유국"
+CFS_conservatism_ADJ:0 "콩고 자유국"
+
+CFS_right_authoritarianism:0 "콩고 자유국"
+CFS_right_authoritarianism_DEF:0 "콩고 자유국"
+CFS_right_authoritarianism_ADJ:0 "콩고 자유국"
+
+CFS_despotism:0 "콩고 자유국"
+CFS_despotism_DEF:0 "콩고 자유국"
+CFS_despotism_ADJ:0 "콩고 자유국"
+
+CFS_reactionism:0 "콩고 자유국"
+CFS_reactionism_DEF:0 "콩고 자유국"
+CFS_reactionism_ADJ:0 "콩고 자유국"
+
+CFS_accelerationism:0 "콩고 미래주의국"
+CFS_accelerationism_DEF:0 "콩고 미래주의국"
+CFS_accelerationism_ADJ:0 "콩고 미래주의국"
+#PARTIES#
+CFS_vanguard_socialism_party:0 "FLNS"
+CFS_vanguard_socialism_party_long:0 "콩고 자유국 민족해방전선"
+CFS_libertarian_marxism_party:0 "PSR"
+CFS_libertarian_marxism_party_long:0 "급진사회주의당"
+CFS_revolutionary_anarchism_party:0 "아나키스트파"
+CFS_revolutionary_anarchism_party_long:0 "아나키스트파"
+CFS_revisionist_socialism_party:0 "사회주의자 연합"
+CFS_revisionist_socialism_party_long:0 "사회주의자 연합"
+CFS_social_democratism_party:0 "PS"
+CFS_social_democratism_party_long:0 "사회주의당"
+CFS_liberalism_party:0 "PL"
+CFS_liberalism_party_long:0 "자유당"
+CFS_conservatism_party:0 "PL-R"
+CFS_conservatism_party_long:0 "자유당 - 공화파"
+CFS_right_authoritarianism_party:0 "PAAC"
+CFS_right_authoritarianism_party_long:0 "구식민군당"
+CFS_despotism_party:0 "전제주의파"
+CFS_despotism_party_long:0 "전제주의파"
+CFS_reactionism_party:0 "UDM"
+CFS_reactionism_party_long:0 "무함마드 연합"
+CFS_accelerationism_party:0 "PNAGS (M)"
+CFS_accelerationism_party_long:0 "아방가르드 초현실주의 민족당 (콩고 자유국)"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

@@ -1,0 +1,11 @@
+﻿l_english:
+
+### Autonomy Levels ###
+rf_russian_warlord:0 "러시아 군벌"
+
+### Diplomacy ###
+russian_warlord_cannot_join_ally_war:0 "우리에겐 지켜야 할 우리의 땅이 있다."
+russian_warlord_cannot_call_ally_war:0 "놈들은 우리를 위한 전시 지원을 거절할 것이다."
+
+### Tooltips ###
+minister_available:0 "해당 장관은 등용할 수 없습니다"

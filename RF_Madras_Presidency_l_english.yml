@@ -1,0 +1,86 @@
+﻿l_english:
+#COUNTRY NAME#
+MAD_vanguard_socialism:0 "마드라스 코뮌"
+MAD_vanguard_socialism_DEF:0 "마드라스"
+MAD_vanguard_socialism_ADJ:0 "마드라스"
+
+MAD_libertarian_marxism:0 "마드라스 코뮌"
+MAD_libertarian_marxism_DEF:0 "마드라스"
+MAD_libertarian_marxism_ADJ:0 "마드라스"
+
+MAD_revolutionary_anarchism:0 "마드라스 코뮌"
+MAD_revolutionary_anarchism_DEF:0 "마드라스"
+MAD_revolutionary_anarchism_ADJ:0 "마드라스"
+
+MAD_revisionist_socialism:0 "마드라스 코뮌"
+MAD_revisionist_socialism_DEF:0 "마드라스"
+MAD_revisionist_socialism_ADJ:0 "마드라스"
+
+MAD_social_democratism:0 "마드라스 주재구"
+MAD_social_democratism_DEF:0 "마드라스"
+MAD_social_democratism_ADJ:0 "마드라스"
+
+MAD_placeholderism:0 "마드라스 주재구"
+MAD_placeholderism_DEF:0 "마드라스"
+MAD_placeholderism_ADJ:0 "마드라스"
+
+MAD_liberalism:0 "마드라스 주재구"
+MAD_liberalism_DEF:0 "마드라스"
+MAD_liberalism_ADJ:0 "마드라스"
+
+MAD_conservatism:0 "마드라스 주재구"
+MAD_conservatism_DEF:0 "마드라스"
+MAD_conservatism_ADJ:0 "마드라스"
+
+MAD_right_authoritarianism:0 "마드라스 주재구"
+MAD_right_authoritarianism_DEF:0 "마드라스"
+MAD_right_authoritarianism_ADJ:0 "마드라스"
+
+MAD_despotism:0 "마드라스 주재구"
+MAD_despotism_DEF:0 "마드라스"
+MAD_despotism_ADJ:0 "마드라스"
+
+MAD_reactionism:0 "마드라스 주재구"
+MAD_reactionism_DEF:0 "마드라스"
+MAD_reactionism_ADJ:0 "마드라스"
+
+MAD_accelerationism:0 "마드라스 기술국"
+MAD_accelerationism_DEF:0 "마드라스"
+MAD_accelerationism_ADJ:0 "마드라스"
+
+MAD_restored_raj_right_authoritarianism:0 "영국령 인도 제2 제국"
+MAD_restored_raj_right_authoritarianism_DEF:0 "영국령 인도 제2 제국"
+MAD_restored_raj_right_authoritarianism_ADJ:0 "인도"
+MAD_restored_raj_despotism:0 "영국령 인도 제2 제국"
+MAD_restored_raj_despotism_DEF:0 "영국령 인도 제2 제국"
+MAD_restored_raj_despotism_ADJ:0 "인도"
+
+#PARTIES#
+MAD_vanguard_socialism_party:0 "힌두스탄 사회주의 공화협회"
+MAD_libertarian_marxism_party:0 "자유지상주의적 사회주의 파벌"
+MAD_revolutionary_anarchism_party:0 "마드라스 생디칼리스트 파벌"
+MAD_revisionist_socialism_party:0 "드라비다 회담"
+MAD_social_democratism_party:0 "정의당"
+MAD_liberalism_party:0 "인도 민족회의 잔존파"
+MAD_conservatism_party:0 "영연방 충성파"
+MAD_right_authoritarianism_party:0 "주재구 지지파"
+MAD_despotism_party:0 "군사평의회 지지파"
+MAD_reactionism_party:0 "민족의용조직"
+MAD_accelerationism_party:0 "마드라스 재건당"
+#LEADER DESCRITIONS#
+POLITICS_John_Erskine_DESC:0 ""
+#IDEAS#
+MAD_british_direct_rule:0 "영국의 직접통치"
+MAD_british_direct_rule_desc:0 ""
+MAD_collapsing_raj:0 "붕괴하는 제국"
+MAD_collapsing_raj_desc:0 ""
+MAD_partisan_infestation:0 "들뜷는 유격대"
+MAD_partisan_infestation_desc:0 ""
+MAD_refugee_crisis:0 "난민 위기"
+MAD_refugee_crisis_desc:0 ""
+#CUSTOM TOOLTIPS AND FLAGS#
+
+MAD_SETTING_SUN_DESC:0 "1934년 영국령 인도의 붕괴 이후 마드라스 주재구는 인도 본토에선 유일하게, 식민당국의 지도 아래 있으면서 동시에 대영제국과의 연계를 유지하고 있습니다. 반란으로 약해졌던 마드라스는 이제 막 회복 중이며, 본토에서 영국의 최후 거점 역할을 하는 중입니다. 하지만 주재구의 운명은 영국이 어떻게 나오느냐에 달려있으며, 그에 따라 마드라스 주재구는 살아남거나, 다른 영국령이 그랬듯 몰락하게 될 것입니다."
+
+#DECISIONS (1.5 Update)#
+#FOCUSES#

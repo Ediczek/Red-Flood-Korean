@@ -1,0 +1,56 @@
+﻿l_english:
+#COUNTRY NAME#
+POL_vanguard_socialism:0 "폴란드"
+POL_vanguard_socialism_DEF:0 "폴란드"
+POL_vanguard_socialism_ADJ:0 "폴란드"
+
+POL_libertarian_marxism:0 "폴란드"
+POL_libertarian_marxism_DEF:0 "폴란드"
+POL_libertarian_marxism_ADJ:0 "폴란드"
+
+POL_revolutionary_anarchism:0 "폴란드"
+POL_revolutionary_anarchism_DEF:0 "폴란드"
+POL_revolutionary_anarchism_ADJ:0 "폴란드"
+
+POL_revisionist_socialism:0 "폴란드"
+POL_revisionist_socialism_DEF:0 "폴란드"
+POL_revisionist_socialism_ADJ:0 "폴란드"
+
+POL_social_democratism:0 "폴란드"
+POL_social_democratism_DEF:0 "폴란드"
+POL_social_democratism_ADJ:0 "폴란드"
+
+POL_placeholderism:0 "폴란드"
+POL_placeholderism_DEF:0 "폴란드"
+POL_placeholderism_ADJ:0 "폴란드"
+
+POL_liberalism:0 "폴란드"
+POL_liberalism_DEF:0 "폴란드"
+POL_liberalism_ADJ:0 "폴란드"
+
+POL_conservatism:0 "폴란드"
+POL_conservatism_DEF:0 "폴란드"
+POL_conservatism_ADJ:0 "폴란드"
+
+POL_right_authoritarianism:0 "폴란드"
+POL_right_authoritarianism_DEF:0 "폴란드"
+POL_right_authoritarianism_ADJ:0 "폴란드"
+
+POL_despotism:0 "폴란드"
+POL_despotism_DEF:0 "폴란드"
+POL_despotism_ADJ:0 "폴란드"
+
+POL_reactionism:0 "폴란드"
+POL_reactionism_DEF:0 "폴란드"
+POL_reactionism_ADJ:0 "폴란드"
+
+POL_accelerationism:0 "폴란드"
+POL_accelerationism_DEF:0 "폴란드"
+POL_accelerationism_ADJ:0 "폴란드"
+#PARTIES#
+#LEADER DESCRITIONS#
+POL_GATHERING_STORM_DESC = "대전쟁 직후 이어진 독일과 러시아의 붕괴에 따라, 폴란드는 몇 세기에 걸친 외세의 지배라는 잿더미 속에서 다시 태어났습니다. 피우수트스키 장군이 이끄는 폴란드는 이른바 "인테르마리움"이라는 동유럽 방위협약을 형성함으로써 독일, 러시아, 체코슬로바키아에 이르는 주변의 위협을 물리치고 이겨냈습니다. 하지만 이것도 15년 전이니, 피우수트스키는 이제 늙었습니다. 암 투병으로 병상에 누운 그가 얼마나 버틸 진 알 수 없습니다만, 대원수가 자신의 최후의 전투에서 패배하는 것도 시간 문제에 불과합니다."
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

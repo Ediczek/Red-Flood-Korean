@@ -1,0 +1,77 @@
+﻿l_english:
+#COUNTRY NAME#
+MLI_vanguard_socialism:0 "말리 인민공화국"
+MLI_vanguard_socialism_DEF:0 "말리"
+MLI_vanguard_socialism_ADJ:0 "말리"
+
+MLI_libertarian_marxism:0 "말리 인민공화국"
+MLI_libertarian_marxism_DEF:0 "말리"
+MLI_libertarian_marxism_ADJ:0 "말리"
+
+MLI_revolutionary_anarchism:0 "말리 자유령"
+MLI_revolutionary_anarchism_DEF:0 "말리 자유령"
+MLI_revolutionary_anarchism_ADJ:0 "말리"
+
+MLI_revisionist_socialism:0 "말리 인민공화국"
+MLI_revisionist_socialism_DEF:0 "말리"
+MLI_revisionist_socialism_ADJ:0 "말리"
+
+MLI_social_democratism:0 "말리"
+MLI_social_democratism_DEF:0 "말리"
+MLI_social_democratism_ADJ:0 "말리"
+
+MLI_placeholderism:0 "말리"
+MLI_placeholderism_DEF:0 "말리"
+MLI_placeholderism_ADJ:0 "말리"
+
+MLI_liberalism:0 "말리"
+MLI_liberalism_DEF:0 "말리"
+MLI_liberalism_ADJ:0 "말리"
+
+MLI_conservatism:0 "말리"
+MLI_conservatism_DEF:0 "말리"
+MLI_conservatism_ADJ:0 "말리"
+
+MLI_right_authoritarianism:0 "말리"
+MLI_right_authoritarianism_DEF:0 "말리"
+MLI_right_authoritarianism_ADJ:0 "말리"
+
+MLI_despotism:0 "말리"
+MLI_despotism_DEF:0 "말리"
+MLI_despotism_ADJ:0 "말리"
+
+MLI_reactionism:0 "말리 술탄국"
+MLI_reactionism_DEF:0 "말리"
+MLI_reactionism_ADJ:0 "말리"
+
+MLI_accelerationism:0 "미래주의 말리"
+MLI_accelerationism_DEF:0 "말리"
+MLI_accelerationism_ADJ:0 "말리"
+#PARTIES#
+MLI_vanguard_socialism_party:0 "PLN"
+MLI_vanguard_socialism_party_long:0 "말리 레닌주의당"
+MLI_libertarian_marxism_party:0 "PSR"
+MLI_libertarian_marxism_party_long:0 "급진사회주의당"
+MLI_revolutionary_anarchism_party:0 "아나키스트파"
+MLI_revolutionary_anarchism_party_long:0 "아나키스트파"
+MLI_revisionist_socialism_party:0 "사회주의자 연합"
+MLI_revisionist_socialism_party_long:0 "사회주의자 연합"
+MLI_social_democratism_party:0 "PS"
+MLI_social_democratism_party_long:0 "사회주의당"
+MLI_liberalism_party:0 "PL"
+MLI_liberalism_party_long:0 "자유당"
+MLI_conservatism_party:0 "PL-R"
+MLI_conservatism_party_long:0 "자유당 - 공화파"
+MLI_right_authoritarianism_party:0 "니아메 보안대"
+MLI_right_authoritarianism_party_long:0 "니아메 보안대"
+MLI_despotism_party:0 "보보 군벌"
+MLI_despotism_party_long:0 "보보 군벌"
+MLI_reactionism_party:0 "UDM"
+MLI_reactionism_party_long:0 "무함마드 연합"
+MLI_accelerationism_party:0 "미래주의파"
+MLI_accelerationism_party_long:0 "미래주의파"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

@@ -1,0 +1,78 @@
+﻿l_english:
+#COUNTRY NAME#
+NRO_vanguard_socialism:0 "노르웨이"
+NRO_vanguard_socialism_DEF:0 "노르웨이"
+NRO_vanguard_socialism_ADJ:0 "노르웨이"
+
+NRO_libertarian_marxism:0 "노르웨이"
+NRO_libertarian_marxism_DEF:0 "노르웨이"
+NRO_libertarian_marxism_ADJ:0 "노르웨이"
+
+NRO_revisionist_socialism:0 "노르웨이"
+NRO_revisionist_socialism_DEF:0 "노르웨이"
+NRO_revisionist_socialism_ADJ:0 "노르웨이"
+
+NRO_revisionist_socialism:0 "노르웨이"
+NRO_revisionist_socialism_DEF:0 "노르웨이"
+NRO_revisionist_socialism_ADJ:0 "노르웨이"
+
+NRO_social_democratism:0 "노르웨이"
+NRO_social_democratism_DEF:0 "노르웨이"
+NRO_social_democratism_ADJ:0 "노르웨이"
+
+NRO_placeholderism:0 "노르웨이"
+NRO_placeholderism_DEF:0 "노르웨이"
+NRO_placeholderism_ADJ:0 "노르웨이"
+
+NRO_liberalism:0 "노르웨이"
+NRO_liberalism_DEF:0 "노르웨이"
+NRO_liberalism_ADJ:0 "노르웨이"
+
+NRO_conservatism:0 "노르웨이"
+NRO_conservatism_DEF:0 "노르웨이"
+NRO_conservatism_ADJ:0 "노르웨이"
+
+NRO_right_authoritarianism:0 "노르웨이 군사정부"
+NRO_right_authoritarianism_DEF:0 "노르웨이 군사정부"
+NRO_right_authoritarianism_ADJ:0 "노르웨이"
+
+NRO_despotism:0 "노르웨이"
+NRO_despotism_DEF:0 "노르웨이"
+NRO_despotism_ADJ:0 "노르웨이"
+
+NRO_reactionism:0 "노르웨이"
+NRO_reactionism_DEF:0 "노르웨이"
+NRO_reactionism_ADJ:0 "노르웨이"
+
+NRO_accelerationism:0 "노르웨이"
+NRO_accelerationism_DEF:0 "노르웨이"
+NRO_accelerationism_ADJ:0 "노르웨이"
+
+#PARTIES#
+NRO_vanguard_socialism_party:0 "에이네스 집단"
+NRO_vanguard_socialism_party_long:0 "에이네스 집단"
+NRO_libertarian_marxism_party:0 "무지도자 유격대"
+NRO_libertarian_marxism_party_long:0 "무지도자 유격대"
+NRO_revolutionary_anarchism_party:0 "무지도자 유격대"
+NRO_revolutionary_anarchism_party_long:0 "무지도자 유격대"
+NRO_revisionist_socialism_party:0 "무지도자 유격대"
+NRO_revisionist_socialism_party_long:0 "무지도자 유격대"
+NRO_social_democratism_party:0 "SDP"
+NRO_social_democratism_party_long:0 "사회민주노동자당"
+NRO_liberalism_party:0 "인민당"
+NRO_liberalism_party_long:0 "인민당"
+NRO_conservatism_party:0 "AVF"
+NRO_conservatism_party_long:0 "총선거협회"
+NRO_right_authoritarianism_party:0 "군정"
+NRO_right_authoritarianism_party_long:0 "스웨덴 민족인민당"
+NRO_despotism_party:0 "스웨덴군"
+NRO_despotism_party_long:0 "스웨덴군"
+NRO_reactionism_party:0 "NSR"
+NRO_reactionism_party_long:0 "신스웨덴 운동"
+NRO_accelerationism_party:0 "SFPP"
+NRO_accelerationism_party_long:0 "스웨덴 미래주의 정치당"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

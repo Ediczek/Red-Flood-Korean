@@ -1,0 +1,77 @@
+﻿l_english:
+#COUNTRY NAME#
+KIV_vanguard_socialism:0 "키부 인민공화국"
+KIV_vanguard_socialism_DEF:0 "키부"
+KIV_vanguard_socialism_ADJ:0 "키부"
+
+KIV_libertarian_marxism:0 "키부 인민공화국"
+KIV_libertarian_marxism_DEF:0 "키부"
+KIV_libertarian_marxism_ADJ:0 "키부"
+
+KIV_revolutionary_anarchism:0 "키부 자유령"
+KIV_revolutionary_anarchism_DEF:0 "키부 자유령"
+KIV_revolutionary_anarchism_ADJ:0 "키부 자유령"
+
+KIV_revisionist_socialism:0 "키부 인민공화국"
+KIV_revisionist_socialism_DEF:0 "키부"
+KIV_revisionist_socialism_ADJ:0 "키부"
+
+KIV_social_democratism:0 "키부"
+KIV_social_democratism_DEF:0 "키부"
+KIV_social_democratism_ADJ:0 "키부"
+
+KIV_placeholderism:0 "키부"
+KIV_placeholderism_DEF:0 "키부"
+KIV_placeholderism_ADJ:0 "키부"
+
+KIV_liberalism:0 "키부"
+KIV_liberalism_DEF:0 "키부"
+KIV_liberalism_ADJ:0 "키부"
+
+KIV_conservatism:0 "키부"
+KIV_conservatism_DEF:0 "키부"
+KIV_conservatism_ADJ:0 "키부"
+
+KIV_right_authoritarianism:0 "키부"
+KIV_right_authoritarianism_DEF:0 "키부"
+KIV_right_authoritarianism_ADJ:0 "키부"
+
+KIV_despotism:0 "키부"
+KIV_despotism_DEF:0 "키부"
+KIV_despotism_ADJ:0 "키부"
+
+KIV_reactionism:0 "키부"
+KIV_reactionism_DEF:0 "키부"
+KIV_reactionism_ADJ:0 "키부"
+
+KIV_accelerationism:0 "키부 미래주의국"
+KIV_accelerationism_DEF:0 "키부 미래주의국"
+KIV_accelerationism_ADJ:0 "키부 미래주의국"
+#PARTIES#
+KIV_vanguard_socialism_party:0 "FLNS"
+KIV_vanguard_socialism_party_long:0 "키부 민족해방전선"
+KIV_libertarian_marxism_party:0 "PSR"
+KIV_libertarian_marxism_party_long:0 "급진사회주의당"
+KIV_revolutionary_anarchism_party:0 "아나키스트파"
+KIV_revolutionary_anarchism_party_long:0 "아나키스트파"
+KIV_revisionist_socialism_party:0 "사회주의자 연합"
+KIV_revisionist_socialism_party_long:0 "사회주의자 연합"
+KIV_social_democratism_party:0 "PS"
+KIV_social_democratism_party_long:0 "사회주의당"
+KIV_liberalism_party:0 "PL"
+KIV_liberalism_party_long:0 "자유당"
+KIV_conservatism_party:0 "PL-R"
+KIV_conservatism_party_long:0 "자유당 - 공화파"
+KIV_right_authoritarianism_party:0 "PAAC"
+KIV_right_authoritarianism_party_long:0 "구식민군당"
+KIV_despotism_party:0 "전제주의파"
+KIV_despotism_party_long:0 "전제주의파"
+KIV_reactionism_party:0 "UDM"
+KIV_reactionism_party_long:0 "무함마드 연합"
+KIV_accelerationism_party:0 "PNAGS (M)"
+KIV_accelerationism_party_long:0 "아방가르드 초현실주의 민족당 (키부)"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

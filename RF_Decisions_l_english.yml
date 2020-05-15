@@ -1,0 +1,49 @@
+﻿l_english: 
+
+#Category
+ideology_generic_category:0 "정권 유지"
+
+#Revolutionary Anarchist
+anarchist_stability:0 "코뮌 토론 개최"
+anarchist_popularity:0 "기관 민주화"
+anarchist_war_support:0 "지역 민병대 선거"
+#Vanguard Socialist
+vanguard_stability:0 "중앙위원회 대회"
+vanguard_popularity:0 "당원 확대"
+vanguard_war_support:0 "혁명 열병식 준비"
+#Libertarian Marxist
+libertarian_stability:0 "인기없는 대표 소환"
+libertarian_popularity:0 "노조 통합"
+libertarian_war_support:0 "군사평의회에 대한 양보"
+#Revisionist Socialist
+revisionist_stability:0 "급진파와 화해"
+revisionist_popularity:0 "중산층 유도" 
+revisionist_war_support:0 "전시 노동권 보호"
+#Social Democrat
+social_stability:0 "특별 위원회 구성"
+social_popularity:0 "자본가와 약속"
+social_war_support:0 "노조와 협업"
+#Liberal
+liberal_stability:0 "필수 산업 보호"
+liberal_popularity:0 "모두를 위한 자본주의!"
+liberal_war_support:0 "전쟁자원 비축"
+#Conservative
+conservative_stability:0 "불필요한 기관 축소"
+conservative_popularity:0 "전통에 대한 호소"
+conservative_war_support:0 "애국적 의무 이행 요구"
+#Right Authoritarian
+authoritarian_stability:0 "비협조 시민 제거"
+authoritarian_popularity:0 "병역이 안전을 보장한다"
+authoritarian_war_support:0 "병역을 대가로 한 사면"
+#Despotic
+despotic_stability:0 "대연설"
+despotic_popularity:0 "충성된 신민들을 위한 보상"
+despotic_war_support:0 "나라를 위한 집회!"
+#Reactionary
+reactionism_stability:0 "민족의 역작 건설"
+reactionism_popularity:0 "경쟁 정당 협박"
+reactionism_war_support:0 "이념적 군국주의 자극"
+#Accelerationism
+accelerationism_stability:0 "예술과 학계 조정"
+accelerationism_popularity:0 "자유화 대안 약속"
+accelerationism_war_support:0 "절대적 광신주의 요구"

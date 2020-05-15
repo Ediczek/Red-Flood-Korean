@@ -1,0 +1,67 @@
+﻿l_english:
+#COUNTRY NAME#
+BIH_vanguard_socialism:0 "비하르"
+BIH_vanguard_socialism_DEF:0 "비하르"
+BIH_vanguard_socialism_ADJ:0 "비하르"
+
+BIH_libertarian_marxism:0 "비하르"
+BIH_libertarian_marxism_DEF:0 "비하르"
+BIH_libertarian_marxism_ADJ:0 "비하르"
+
+BIH_revolutionary_anarchism:0 "비하르"
+BIH_revolutionary_anarchism_DEF:0 "비하르"
+BIH_revolutionary_anarchism_ADJ:0 "비하르"
+
+BIH_revisionist_socialism:0 "비하르"
+BIH_revisionist_socialism_DEF:0 "비하르"
+BIH_revisionist_socialism_ADJ:0 "비하르"
+
+BIH_social_democratism:0 "비하르"
+BIH_social_democratism_DEF:0 "비하르"
+BIH_social_democratism_ADJ:0 "비하르"
+
+BIH_placeholderism:0 "비하르"
+BIH_placeholderism_DEF:0 "비하르"
+BIH_placeholderism_ADJ:0 "비하르"
+
+BIH_liberalism:0 "비하르"
+BIH_liberalism_DEF:0 "비하르"
+BIH_liberalism_ADJ:0 "비하르"
+
+BIH_conservatism:0 "비하르"
+BIH_conservatism_DEF:0 "비하르"
+BIH_conservatism_ADJ:0 "비하르"
+
+BIH_right_authoritarianism:0 "비하르"
+BIH_right_authoritarianism_DEF:0 "비하르"
+BIH_right_authoritarianism_ADJ:0 "비하르"
+
+BIH_despotism:0 "비하르"
+BIH_despotism_DEF:0 "비하르"
+BIH_despotism_ADJ:0 "비하르"
+
+BIH_reactionism:0 "비하르"
+BIH_reactionism_DEF:0 "비하르"
+BIH_reactionism_ADJ:0 "비하르"
+
+BIH_accelerationism:0 "비하르"
+BIH_accelerationism_DEF:0 "비하르"
+BIH_accelerationism_ADJ:0 "비하르"
+#PARTIES#
+BIH_vanguard_socialism_party:0 "힌두스탄 사회주의 공화협회"
+BIH_libertarian_marxism_party:0 "자유지상주의적 사회주의 파벌"
+BIH_revolutionary_anarchism_party:0 "아나키스트 파벌"
+BIH_revisionist_socialism_party:0 "농업주의 파벌"
+BIH_social_democratism_party:0 "전 인도 전진권"
+BIH_liberalism_party:0 "인도 민족회의 잔존파"
+BIH_conservatism_party:0 "영연방 충성파"
+BIH_right_authoritarianism_party:0 "군사평의회 지지파"
+BIH_despotism_party:0 "복벽파"
+BIH_reactionism_party:0 "인도 군단"
+BIH_accelerationism_party:0 "비하르 재건주의파"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

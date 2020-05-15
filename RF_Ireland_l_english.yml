@@ -1,0 +1,78 @@
+﻿l_english:
+#COUNTRY NAME#
+IRE_vanguard_socialism:0 "아일랜드"
+IRE_vanguard_socialism_DEF:0 "아일랜드"
+IRE_vanguard_socialism_ADJ:0 "아일랜드"
+
+IRE_libertarian_marxism:0 "아일랜드"
+IRE_libertarian_marxism_DEF:0 "아일랜드"
+IRE_libertarian_marxism_ADJ:0 "아일랜드"
+
+IRE_revolutionary_anarchism:0 "아일랜드"
+IRE_revolutionary_anarchism_DEF:0 "아일랜드"
+IRE_revolutionary_anarchism_ADJ:0 "아일랜드"
+
+IRE_revisionist_socialism:0 "아일랜드"
+IRE_revisionist_socialism_DEF:0 "아일랜드"
+IRE_revisionist_socialism_ADJ:0 "아일랜드"
+
+IRE_social_democratism:0 "아일랜드"
+IRE_social_democratism_DEF:0 "아일랜드"
+IRE_social_democratism_ADJ:0 "아일랜드"
+
+IRE_placeholderism:0 "아일랜드"
+IRE_placeholderism_DEF:0 "아일랜드"
+IRE_placeholderism_ADJ:0 "아일랜드"
+
+IRE_liberalism:0 "아일랜드"
+IRE_liberalism_DEF:0 "아일랜드"
+IRE_liberalism_ADJ:0 "아일랜드"
+
+IRE_conservatism:0 "아일랜드"
+IRE_conservatism_DEF:0 "아일랜드"
+IRE_conservatism_ADJ:0 "아일랜드"
+
+IRE_right_authoritarianism:0 "아일랜드"
+IRE_right_authoritarianism_DEF:0 "아일랜드"
+IRE_right_authoritarianism_ADJ:0 "아일랜드"
+
+IRE_despotism:0 "아일랜드"
+IRE_despotism_DEF:0 "아일랜드"
+IRE_despotism_ADJ:0 "아일랜드"
+
+IRE_reactionism:0 "아일랜드"
+IRE_reactionism_DEF:0 "아일랜드"
+IRE_reactionism_ADJ:0 "아일랜드"
+
+IRE_accelerationism:0 "아일랜드"
+IRE_accelerationism_DEF:0 "아일랜드"
+IRE_accelerationism_ADJ:0 "아일랜드"
+
+#PARTIES#
+IRE_vanguard_socialism_party:0 "아일랜드 공화국군"
+IRE_libertarian_marxism_party:0 "신 페인"
+IRE_revolutionary_anarchism_party:0 "더블린 노동조합평의회"
+IRE_revisionist_socialism_party:0 "농부당"
+IRE_social_democratism_party:0 "노동당"
+IRE_liberalism_party:0 "Fianna Fail"
+IRE_conservatism_party:0 "Fine Gael"
+IRE_right_authoritarianism_party:0 "민족연맹당"
+IRE_despotism_party:0 "영국 긴급평의회"
+IRE_reactionism_party:0 "전우 협회"
+IRE_accelerationism_party:0 "아일랜드 미래주의 연맹"
+
+#LEADER DESCRITIONS#
+
+#IDEAS#
+IRE_cold_civil_war:0 "차가운 내전"
+IRE_cold_civil_war_desc:0 "아일랜드 내전은 공식적으로 1923년에 끝이 났으나, 진정으로는 아직 끝나지 않았습니다. 아일랜드 공화국군이 영국의 통치에서 아일랜드를 완전히 해방하기 위해 지하에서 테러 공격을 지속하고 있는 한편, 리처드 멀케이가 주도하는 조약 찬성 집단들은 영국 정부를 위한 아일랜드 정부를 이끌고 있습니다. 양측은 각자의 준군사집단을 동원해 싸우고 있으나, 이전의 내전과 비교하면 전체적으로는 평화로운 양상을 유지하고 있습니다. 그러나 서서히 고조되어가는 긴장 속에선 이 역시 쉽사리 터져나와버릴 것입니다."
+IRE_economic_catastrophe:0 "경제적 파멸"
+IRE_economic_catastrophe_desc:0 "영국 주식시장이 붕괴할 당시 아일랜드의 경제는 해를 입었을지언정 최악은 면했으나, 1934년의 뉴욕 주식거래 붕괴와 “대침체”로 인해 아일랜드 경제는 완전히 무너지고 말았습니다. 실직률은 전례 없을 정도로 상승했으며, 사람들은 영국이나 미국으로 떠나든, 범죄에 손을 담그는 등 이 위기를 이겨내기 위해 갖은 수를 쓰고 있습니다. 경제는 이미 서서히 회복 중이지만 추가적인 변화가 시급합니다."
+IRE_black_and_tans:0 "블랙 앤 탠스"
+IRE_black_and_tans_desc:0 "블랙 앤 탠스가 아일랜드에서 여전히 존속하며 운용되고 있으며, 내전에서는 반IRA 세력을 돕고 있습니다. 영국이 제국의 다른 지역들에 집중하면서 약해졌다고는 하나, 이 경찰대는 여전히 아일랜드의 주요 세력으로서 존재를 유지하고 있습니다. 그 잔혹성과 아일랜드 정부에 대한 잦은 간섭으로 아일랜드에선 대부분이 이들을 싫어합니다. 영국 정부는 블랙 앤 탠스를 효과적인 무력 수단으로 사용하면서도, 또한 균형을 맞추기 위한 행동으로서 이들을 자제시키려 노력하고 있습니다. 이들이 너무 약하다면 IRA에게 이득이 될 것이며, 너무 강하다면 최악만이 남게 될 것입니다."
+
+#CUSTOM TOOLTIPS AND FLAGS#"
+
+#DECISIONS (1.5 Update)#
+
+#FOCUSES#

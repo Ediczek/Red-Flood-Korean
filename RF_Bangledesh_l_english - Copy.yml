@@ -1,0 +1,67 @@
+﻿l_english:
+#COUNTRY NAME#
+BNG_vanguard_socialism:0 "방글라데시"
+BNG_vanguard_socialism_DEF:0 "방글라데시"
+BNG_vanguard_socialism_ADJ:0 "방글라데시"
+
+BNG_libertarian_marxism:0 "방글라데시"
+BNG_libertarian_marxism_DEF:0 "방글라데시"
+BNG_libertarian_marxism_ADJ:0 "방글라데시"
+
+BNG_revolutionary_anarchism:0 "방글라데시"
+BNG_revolutionary_anarchism_DEF:0 "방글라데시"
+BNG_revolutionary_anarchism_ADJ:0 "방글라데시"
+
+BNG_revisionist_socialism:0 "방글라데시"
+BNG_revisionist_socialism_DEF:0 "방글라데시"
+BNG_revisionist_socialism_ADJ:0 "방글라데시"
+
+BNG_social_democratism:0 "방글라데시"
+BNG_social_democratism_DEF:0 "방글라데시"
+BNG_social_democratism_ADJ:0 "방글라데시"
+
+BNG_placeholderism:0 "방글라데시"
+BNG_placeholderism_DEF:0 "방글라데시"
+BNG_placeholderism_ADJ:0 "방글라데시"
+
+BNG_liberalism:0 "방글라데시"
+BNG_liberalism_DEF:0 "방글라데시"
+BNG_liberalism_ADJ:0 "방글라데시"
+
+BNG_conservatism:0 "방글라데시"
+BNG_conservatism_DEF:0 "방글라데시"
+BNG_conservatism_ADJ:0 "방글라데시"
+
+BNG_right_authoritarianism:0 "방글라데시"
+BNG_right_authoritarianism_DEF:0 "방글라데시"
+BNG_right_authoritarianism_ADJ:0 "방글라데시"
+
+BNG_despotism:0 "방글라데시"
+BNG_despotism_DEF:0 "방글라데시"
+BNG_despotism_ADJ:0 "방글라데시"
+
+BNG_reactionism:0 "방글라데시"
+BNG_reactionism_DEF:0 "방글라데시"
+BNG_reactionism_ADJ:0 "방글라데시"
+
+BNG_accelerationism:0 "방글라데시"
+BNG_accelerationism_DEF:0 "방글라데시"
+BNG_accelerationism_ADJ:0 "방글라데시"
+#PARTIES#
+BNG_vanguard_socialism_party:0 "방글라데시 사회주의 공화협회"
+BNG_libertarian_marxism_party:0 "자유의지주의적 사회주의당"
+BNG_revolutionary_anarchism_party:0 "아나키스트 파벌"
+BNG_revisionist_socialism_party:0 "농업주의 파벌"
+BNG_social_democratism_party:0 "인도 민족회의 잔존파"
+BNG_liberalism_party:0 "방글라데시 자유당"
+BNG_conservatism_party:0 "무슬림 연맹"
+BNG_right_authoritarianism_party:0 "군사평의회 지지파"
+BNG_despotism_party:0 "복벽주의파"
+BNG_reactionism_party:0 "전통 칼리프국 운동"
+BNG_accelerationism_party:0 "신 칼리프국 운동"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

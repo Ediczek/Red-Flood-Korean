@@ -1,0 +1,67 @@
+﻿l_english:
+#COUNTRY NAME#
+CEY_vanguard_socialism:0 "실론"
+CEY_vanguard_socialism_DEF:0 "실론"
+CEY_vanguard_socialism_ADJ:0 "실론"
+
+CEY_libertarian_marxism:0 "실론"
+CEY_libertarian_marxism_DEF:0 "실론"
+CEY_libertarian_marxism_ADJ:0 "실론"
+
+CEY_revolutionary_anarchism:0 "실론"
+CEY_revolutionary_anarchism_DEF:0 "실론"
+CEY_revolutionary_anarchism_ADJ:0 "실론"
+
+CEY_revisionist_socialism:0 "실론"
+CEY_revisionist_socialism_DEF:0 "실론"
+CEY_revisionist_socialism_ADJ:0 "실론"
+
+CEY_social_democratism:0 "실론"
+CEY_social_democratism_DEF:0 "실론"
+CEY_social_democratism_ADJ:0 "실론"
+
+CEY_placeholderism:0 "실론"
+CEY_placeholderism_DEF:0 "실론"
+CEY_placeholderism_ADJ:0 "실론"
+
+CEY_liberalism:0 "실론"
+CEY_liberalism_DEF:0 "실론"
+CEY_liberalism_ADJ:0 "실론"
+
+CEY_conservatism:0 "실론"
+CEY_conservatism_DEF:0 "실론"
+CEY_conservatism_ADJ:0 "실론"
+
+CEY_right_authoritarianism:0 "실론"
+CEY_right_authoritarianism_DEF:0 "실론"
+CEY_right_authoritarianism_ADJ:0 "실론"
+
+CEY_despotism:0 "실론"
+CEY_despotism_DEF:0 "실론"
+CEY_despotism_ADJ:0 "실론"
+
+CEY_reactionism:0 "실론"
+CEY_reactionism_DEF:0 "실론"
+CEY_reactionism_ADJ:0 "실론"
+
+CEY_accelerationism:0 "실론"
+CEY_accelerationism_DEF:0 "실론"
+CEY_accelerationism_ADJ:0 "실론"
+#PARTIES#
+CEY_vanguard_socialism_party:0 "랑카 평등사회당"
+CEY_libertarian_marxism_party:0 "인도 회의 사회주의당"
+CEY_revolutionary_anarchism-party:0 "노농연합"
+CEY_revisionist_socialism_party:0 "농업주의 지지파"
+CEY_social_democratism_party:0 "실론 민족회의"
+CEY_liberalism_party:0 "싱할라 총회"
+CEY_conservatism_party:0 "실론 타밀 연맹"
+CEY_right_authoritarianism_party:0 "대영제국 지지파"
+CEY_despotism_party:0 "복벽주의 지지파"
+CEY_reactionism_party:0 "타밀 반란 연맹"
+CEY_accelerationism_party:0 "친프랑스 파벌"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

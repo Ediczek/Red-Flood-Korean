@@ -1,0 +1,67 @@
+﻿l_english:
+#COUNTRY NAME#
+KSM_vanguard_socialism:0 "카슈미르 코뮌"
+KSM_vanguard_socialism_DEF:0 "카슈미르"
+KSM_vanguard_socialism_ADJ:0 "카슈미르"
+
+KSM_libertarian_marxism:0 "카슈미르 코뮌"
+KSM_libertarian_marxism_DEF:0 "카슈미르"
+KSM_libertarian_marxism_ADJ:0 "카슈미르"
+
+KSM_revolutionary_anarchism:0 "카슈미르 코뮌"
+KSM_revolutionary_anarchism_DEF:0 "카슈미르"
+KSM_revolutionary_anarchism_ADJ:0 "카슈미르"
+
+KSM_revisionist_socialism:0 "카슈미르 코뮌"
+KSM_revisionist_socialism_DEF:0 "카슈미르"
+KSM_revisionist_socialism_ADJ:0 "카슈미르"
+
+KSM_social_democratism:0 "카슈미르"
+KSM_social_democratism_DEF:0 "카슈미르"
+KSM_social_democratism_ADJ:0 "카슈미르"
+
+KSM_placeholderism:0 "카슈미르"
+KSM_placeholderism_DEF:0 "카슈미르"
+KSM_placeholderism_ADJ:0 "카슈미르"
+
+KSM_liberalism:0 "카슈미르"
+KSM_liberalism_DEF:0 "카슈미르"
+KSM_liberalism_ADJ:0 "카슈미르"
+
+KSM_conservatism:0 "카슈미르"
+KSM_conservatism_DEF:0 "카슈미르"
+KSM_conservatism_ADJ:0 "카슈미르"
+
+KSM_right_authoritarianism:0 "카슈미르 왕국"
+KSM_right_authoritarianism_DEF:0 "카슈미르"
+KSM_right_authoritarianism_ADJ:0 "카슈미르"
+
+KSM_despotism:0 "카슈미르국"
+KSM_despotism_DEF:0 "카슈미르"
+KSM_despotism_ADJ:0 "카슈미르"
+
+KSM_reactionism:0 "카슈미르국"
+KSM_reactionism_DEF:0 "카슈미르"
+KSM_reactionism_ADJ:0 "카슈미르"
+
+KSM_accelerationism:0 "카슈미르국"
+KSM_accelerationism_DEF:0 "카슈미르"
+KSM_accelerationism_ADJ:0 "카슈미르"
+#PARTIES#
+KSM_vanguard_socialism_party:0 "카슈미르 전위운동"
+KSM_libertarian_marxism_party:0 "카슈미르 사회주의 연맹"
+KSM_revolutionary_anarchism_party:0 "아나키스트 파벌"
+KSM_revisionist_socialism_party:0 "농업주의 파벌"
+KSM_social_democratism_party:0 "인도 회의 잔존파"
+KSM_liberalism_party:0 "카슈미르 단결당"
+KSM_conservatism_party:0 "카슈미르 협력파"
+KSM_right_authoritarianism_party:0 "군주주의 잔존파"
+KSM_despotism_party:0 "콘스탄틴 용병대 지지파"
+KSM_reactionism_party:0 "페겔라인 파벌"
+KSM_accelerationism_party:0 "카슈미르 미래주의 반군"
+#LEADER DESCRITIONS#
+POLITICS_Konstantin_Petrovich_Nechaev_DESC:0 "콘스탄틴 페트로비치 네차예프는 군사독재자의 자리를 향한 길고 위험한 길을 거친 끝에 잠무-카슈미르의 여지 없는 통치자가 되었습니다. 본디 러시아 제국육군의 장교였던 네차예프는 러시아 내전 이후 부를 찾아 군벌의 혼돈으로 가득한 중국을 향해 떠났습니다. 황러시아에서 여러 일본 및 러시아 회사에서 일하던 그는 용병대를 꾸릴 정도로 충분한 재력을 쌓은 뒤 중국 군벌들을 위해 일했습니다. 특히 콘스탄틴은, 장줘린과의 전쟁으로 콘스탄틴의 용병대를 필요로 하던 샨시 군벌 옌시샨과 가까이 지냈습니다. 콘스탄틴의 덕에 옌시샨은 성공을 거두었고 콘스탄틴은 도움의 대가로 큰 보상을 얻었습니다. 하지만, 혼돈이 잠식하는 영국령 인도에서 콘스탄틴은 또 다른 기회를 보았습니다. 옌시샨에게 작별을 고한 그는 인도로 향하며 잠무-카슈미르 제후국 앞까지 다가갔습니다. 제후국의 얼마나 약한지 살핀 콘스탄틴은 이후 제후국을 전복시키고 용병대와 함께 땅을 차지했습니다. 이제, 카슈미르와 용병대를 모두 자신의 것으로 한 네차예프는 부와 영광이라는 자신의 목표를 향해 한 걸음 더 다가갈 수 있게 되었습니다. 단지, 콘스탄틴의 이목을 끌 정도로 성장한 다른 용병대가 자리를 빼앗으려 들지 않기만을 바랄 뿐입니다...."
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
