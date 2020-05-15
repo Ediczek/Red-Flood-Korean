@@ -1,0 +1,66 @@
+﻿l_english:
+#COUNTRY NAME#
+POR_vanguard_socialism:0 "포르투갈"
+POR_vanguard_socialism_DEF:0 "포르투갈"
+POR_vanguard_socialism_ADJ:0 "포르투갈"
+
+POR_libertarian_marxism:0 "포르투갈"
+POR_libertarian_marxism_DEF:0 "포르투갈"
+POR_libertarian_marxism_ADJ:0 "포르투갈"
+
+POR_revolutionary_anarchism:0 "포르투갈"
+POR_revolutionary_anarchism_DEF:0 "포르투갈"
+POR_revolutionary_anarchism_ADJ:0 "포르투갈"
+
+POR_revisionist_socialism:0 "포르투갈"
+POR_revisionist_socialism_DEF:0 "포르투갈"
+POR_revisionist_socialism_ADJ:0 "포르투갈"
+
+POR_social_democratism:0 "포르투갈"
+POR_social_democratism_DEF:0 "포르투갈"
+POR_social_democratism_ADJ:0 "포르투갈"
+
+POR_placeholderism:0 "포르투갈"
+POR_placeholderism_DEF:0 "포르투갈"
+POR_placeholderism_ADJ:0 "포르투갈"
+
+POR_liberalism:0 "포르투갈"
+POR_liberalism_DEF:0 "포르투갈"
+POR_liberalism_ADJ:0 "포르투갈"
+
+POR_conservatism:0 "포르투갈"
+POR_conservatism_DEF:0 "포르투갈"
+POR_conservatism_ADJ:0 "포르투갈"
+
+POR_right_authoritarianism:0 "포르투갈"
+POR_right_authoritarianism_DEF:0 "포르투갈"
+POR_right_authoritarianism_ADJ:0 "포르투갈"
+
+POR_despotism:0 "포르투갈"
+POR_despotism_DEF:0 "포르투갈"
+POR_despotism_ADJ:0 "포르투갈"
+
+POR_reactionism:0 "포르투갈"
+POR_reactionism_DEF:0 "포르투갈"
+POR_reactionism_ADJ:0 "포르투갈"
+
+POR_accelerationism:0 "포르투갈"
+POR_accelerationism_DEF:0 "포르투갈"
+POR_accelerationism_ADJ:0 "포르투갈"
+#PARTIES#
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#EVENTS#
+portugal.0.t:0 "대통령 브라강사-코부르구가 부상당하다!"
+portugal.0.d:0 "대통령 브라강사는 일반인들과의 만남을 위해 포르투갈을 순회하던 중이었습니다. 조커(Joca)라는 애칭으로 부르던 어린 아들 조르지, 아내 아우구스타 빅토리아와 함께, 마누엘은 시민들에게 국가의 진보를 위해 무엇을 해야 하는지를 주제로 연설하고자 리스본에서 포르투, 파로로 향하는 여행길에 올랐습니다. 이른 아침, 마누엘은 가족과 함께 세투벌의 봉핌 공원 바깥에서 펼쳐진 행진식 관람에 참석했습니다. 그때, 알 수 없는 누군가 던진 폭탄 하나가 마누엘 일가와 다른 관중이 함께 있는 자리로 날아들었습니다. 공격자가 누구인지, 의도적으로 대통령왕을 노린 것인지 아니면 단순한 우연이었는지도 알 수 없습니다. 일가는 안정된 상태지만 의사들은 마누엘의 상태에 대해 걱정하고 있는 상황입니다..."
+portugal.0.a:0 "어떤 아들도 아버지 없이 자라선 안 되네..."
+portugal.0.b:0 "걱정할 것 없음을 알지 않는가!"
+portugal.1.t:0 "1936년 선거"
+portugal.1.d:0 "포르투갈에 선거일이 다가왔습니다! 네 명의 후보들이 경쟁하는 가운데 전문가들조차 갈피를 잡지 못하고 있습니다. 민족공화당의 오쉬카르 카르모나가 보수층 대부분을 가져간 한편, 무소속인 마누엘 테이세이라 고메쉬가 하류층의 지지를 받고 있습니다. 앙토니우 그랑주와 공화자유당은 중도에서 인기가 많습니다. 그러나 이런 가운데 마누엘 브라강사-코부르구가 대선에 나서면서 어떤 후보도 자신의 지지층을 예상할 수 없게 되었습니다. 지금 결과가 나왔다고 전해지니, 모두 환영해드립시다. 우리의 새 대통령이신..."
+portugal.1.a:0 "마누엘 테이세이라 고메쉬십니다!"
+portugal.1.b:0 "오쉬카르 카르모나십니다!"
+portugal.1.c:0 "마누엘 2세라고?!"
+portugal.1.e:0 "앙토니우 그랑주십니다!"
+#FOCUSES#

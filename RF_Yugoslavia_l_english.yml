@@ -1,0 +1,84 @@
+﻿l_english:
+#COUNTRY NAME#
+YUG_vanguard_socialism:0 "유고슬라비아 코뮌"
+YUG_vanguard_socialism_DEF:0 "유고슬라비아"
+YUG_vanguard_socialism_ADJ:0 "유고슬라비아"
+
+YUG_libertarian_marxism:0 "유고슬라비아 코뮌"
+YUG_libertarian_marxism_DEF:0 "유고슬라비아"
+YUG_libertarian_marxism_ADJ:0 "유고슬라비아"
+
+YUG_revolutionary_anarchism:0 "유고슬라비아 코뮌"
+YUG_revolutionary_anarchism_DEF:0 "유고슬라비아"
+YUG_revolutionary_anarchism_ADJ:0 "유고슬라비아"
+
+YUG_revisionist_socialism:0 "유고슬라비아 코뮌"
+YUG_revisionist_socialism_DEF:0 "유고슬라비아"
+YUG_revisionist_socialism_ADJ:0 "유고슬라비아"
+
+YUG_social_democratism:0 "유고슬라비아"
+YUG_social_democratism_DEF:0 "유고슬라비아"
+YUG_social_democratism_ADJ:0 "유고슬라비아"
+
+YUG_placeholderism:0 "유고슬라비아"
+YUG_placeholderism_DEF:0 "유고슬라비아"
+YUG_placeholderism_ADJ:0 "유고슬라비아"
+
+YUG_liberalism:0 "유고슬라비아"
+YUG_liberalism_DEF:0 "유고슬라비아"
+YUG_liberalism_ADJ:0 "유고슬라비아"
+
+YUG_conservatism:0 "유고슬라비아"
+YUG_conservatism_DEF:0 "유고슬라비아"
+YUG_conservatism_ADJ:0 "유고슬라비아"
+
+YUG_right_authoritarianism:0 "유고슬라비아"
+YUG_right_authoritarianism_DEF:0 "유고슬라비아"
+YUG_right_authoritarianism_ADJ:0 "유고슬라비아"
+
+YUG_despotism:0 "유고슬라비아"
+YUG_despotism_DEF:0 "유고슬라비아"
+YUG_despotism_ADJ:0 "유고슬라비아"
+
+YUG_reactionism:0 "세르비아국"
+YUG_reactionism_DEF:0 "세르비아"
+YUG_reactionism_ADJ:0 "세르비아"
+
+YUG_accelerationism:0 "유고슬라비아"
+YUG_accelerationism_DEF:0 "유고슬라비아"
+YUG_accelerationism_ADJ:0 "유고슬라비아"
+#PARTIES#
+YUG_vanguard_socialism_party:0 "KPS"
+YUG_vanguard_socialism_party_long:0 "세르비아 공산당"
+YUG_libertarian_marxism_party:0 "SPS"
+YUG_libertarian_marxism_party_long:0 "세르비아 사회주의당"
+YUG_revolutionary_anarchism_party:0 "SAS"
+YUG_revolutionary_anarchism_party_long:0 "세르비아 아나키스트 평의회"
+YUG_revisionist_socialism_party:0 "ZS"
+YUG_revisionist_socialism_party_long:0 "농업당"
+YUG_social_democratism_party:0 "ZS"
+YUG_social_democratism_party_long:0 "농업당"
+YUG_liberalism_party:0 "DS"
+YUG_liberalism_party_long:0 "민주당"
+YUG_conservatism_party:0 "NRS"
+YUG_conservatism_party_long:0 "인민급진당"
+YUG_right_authoritarianism_party:0 "체트니크 운동"
+YUG_right_authoritarianism_party_long:0 "체트니크 운동"
+YUG_despotism_party:0 "카라조르제비치 왕조"
+YUG_despotism_party_long:0 "카라조르제비치 왕조"
+YUG_reactionism_party:0 "JNS"
+YUG_reactionism_party_long:0 "스르브 인민당"
+YUG_accelerationism_party:0 "SJNK"
+YUG_accelerationism_party_long:0 "전유고슬라비아 민족동맹"
+ 
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#EVENTS#
+yugoslavia.1.t:0 "흡혈귀의 공격"
+yugoslavia.1.d:0 "동부 세르비아의 여러 소도시들에서 흡혈귀에 의한 급습이 보고됐습니다. 크게 다친 이는 없었으나, 미신에 빠진 농부들은 공격해온 이들이 창백한 피부에 흡혈귀의 이를 갖고서 피로 젖은 하얀 셔츠를 입고 있었다고 주장했습니다. 이들은 흡혈귀들을 당장 사냥해야 한다 주장하는 한편, 저주받을 교회에선 흡혈귀들이 우리 측의 수작이라며 오직 교회를 통해서만 밤의 공포에게서 벗어날 수 있다고 설파 중입니다. \n논리적으로 생각해본다면 이들은 바보 같은 농부들을 이용해 공포를 퍼트리려는 반동 도적떼로 보이지만, 우리는 흡혈귀 사냥 여단을 창설해 우리 체제가 초자연적 반동을 상대로도 싸울 수 있음을 보여줄 수 있을 겁니다!"
+yugoslavia.1.a:0 "쓸데 없는 짓이군. 반동분자들이나 체포하게."
+yugoslavia.1.b:0 "여단을 소집하라!"
+
+#FOCUSES#

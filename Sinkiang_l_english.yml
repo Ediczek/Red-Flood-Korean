@@ -1,0 +1,73 @@
+﻿l_english:
+#Sinkiang NAME#
+SIK_vanguard_socialism:0 "신강 자치성"
+SIK_vanguard_socialism_DEF:0 "신강"
+SIK_vanguard_socialism_ADJ:0 "신강"
+
+SIK_libertarian_marxism:0 "신강 자치성"
+SIK_libertarian_marxism_DEF:0 "신강"
+SIK_libertarian_marxism_ADJ:0 "신강"
+
+SIK_revolutionary_anarchism:0 "신강 자치성"
+SIK_revolutionary_anarchism_DEF:0 "신강"
+SIK_revolutionary_anarchism_ADJ:0 "신강"
+
+SIK_revisionist_socialism:0 "신강 자치성"
+SIK_revisionist_socialism_DEF:0 "신강"
+SIK_revisionist_socialism_ADJ:0 "신강"
+
+SIK_social_democratism:0 "신강 자치인민성"
+SIK_social_democratism_DEF:0 "신강"
+SIK_social_democratism_ADJ:0 "신강"
+
+SIK_placeholderism:0 "신강 자치성"
+SIK_placeholderism_DEF:0 "신강"
+SIK_placeholderism_ADJ:0 "신강"
+
+SIK_liberalism:0 "신강 자치성"
+SIK_liberalism_DEF:0 "신강"
+SIK_liberalism_ADJ:0 "신강"
+
+SIK_conservatism:0 "신강 자치성"
+SIK_conservatism_DEF:0 "신강"
+SIK_conservatism_ADJ:0 "신강"
+
+SIK_right_authoritarianism:0 "신강 자치성"
+SIK_right_authoritarianism_DEF:0 "신강"
+SIK_right_authoritarianism_ADJ:0 "신강"
+
+SIK_reactionism:0 "신강 자치성"
+SIK_reactionism_DEF:0 "신강"
+SIK_reactionism_ADJ:0 "신강"
+
+SIK_accelerationism:0 "신강 자치성"
+SIK_accelerationism_DEF:0 "신강"
+SIK_accelerationism_ADJ:0 "신강"
+#PARTIES#
+SIK_vanguard_socialism_party:0 "CPC/V(신장)"
+SIK_libertarian_marxism_party:0 "CPC/A(신장)"
+SIK_revolutionary_anarchism_party:0 "신강 인민혁명당"
+SIK_revisionist_socialism_party:0 "노동인민당(신강)"
+SIK_social_democratism_party:0 "국민당"
+SIK_liberalism_party:0 "자유당"
+SIK_conservatism_party:0 "진보당"
+SIK_right_authoritarianism_party:0 "진슈런 군벌"
+SIK_despotism_party:0 "마가군"
+SIK_reactionism_party:0 "동튀르키스탄 이슬람주의파"
+SIK_accelerationism_party:0 "중국 청년당(신강)"
+SIK_vanguard_socialism_party_long:0 "중국공산당/전위파 (신강)"
+SIK_libertarian_marxism_party_long:0 "중국공산당/농업파 (신강)"
+SIK_revolutionary_anarchism_party_long:0 "신강 인민혁명당"
+SIK_revisionist_socialism_party_long:0 "노동인민당"
+SIK_social_democratism_party_long:0 "국민당"
+SIK_liberalism_party_long:0 "자유당"
+SIK_conservatism_party_long:0 "진보당"
+SIK_right_authoritarianism_party_long:0 "진슈런 군벌"
+SIK_despotism_party_long:0 "마가군"
+SIK_reactionism_party_long:0 "동튀르키스탄 이슬람주의파"
+SIK_accelerationism_party_long:0 "중국 청년당(신강)"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

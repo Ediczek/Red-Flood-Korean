@@ -1,0 +1,86 @@
+﻿l_english:
+#Zheltorossiya NAME#
+ZHR_vanguard_socialism:0 "황러시아"
+ZHR_vanguard_socialism_DEF:0 "러시아 공화국"
+ZHR_vanguard_socialism_ADJ:0 "황러시아"
+
+
+ZHR_libertarian_marxism:0 "황러시아"
+ZHR_libertarian_marxism_DEF:0 "러시아 공화국"
+ZHR_libertarian_marxism_ADJ:0 "황러시아"
+
+ZHR_revolutionary_anarchism:0 "황러시아"
+ZHR_revolutionary_anarchism_DEF:0 "러시아 공화국"
+ZHR_revolutionary_anarchism_ADJ:0 "황러시아"
+
+ZHR_revisionist_socialism:0 "황러시아"
+ZHR_revisionist_socialism_DEF:0 "러시아 공화국"
+ZHR_revisionist_socialism_ADJ:0 "황러시아"
+
+ZHR_social_democratism:0 "황러시아"
+ZHR_social_democratism_DEF:0 "러시아 공화국"
+ZHR_social_democratism_ADJ:0 "황러시아"
+
+ZHR_placeholderism:0 "황러시아"
+ZHR_placeholderism_DEF:0 "러시아 공화국"
+ZHR_placeholderism_ADJ:0 "황러시아"
+
+ZHR_liberalism:0 "황러시아"
+ZHR_liberalism_DEF:0 "러시아 공화국"
+ZHR_liberalism_ADJ:0 "황러시아"
+
+ZHR_conservatism:0 "황러시아"
+ZHR_conservatism_DEF:0 "러시아 공화국"
+ZHR_conservatism_ADJ:0 "황러시아"
+
+ZHR_right_authoritarianism:0 "황러시아"
+ZHR_right_authoritarianism_DEF:0 "황러시아"
+ZHR_right_authoritarianism_ADJ:0 "황러시아"
+
+ZHR_despotism:0 "황러시아"
+ZHR_despotism_DEF:0 "황러시아"
+ZHR_despotism_ADJ:0 "황러시아"
+
+ZHR_reactionism:0 "황러시아"
+ZHR_reactionism_DEF:0 "황러시아"
+ZHR_reactionism_ADJ:0 "황러시아"
+
+ZHR_accelerationism:0 "황러시아"
+ZHR_accelerationism_DEF:0 "황러시아"
+ZHR_accelerationism_ADJ:0 "황러시아"
+#PARTIES#
+ZHR_vanguard_socialism_party:0 "RSDRP(트로츠키주의)"
+ZHR_libertarian_marxism_party:0 "RSDRP(중도파)"
+ZHR_revolutionary_anarchism_party:0 "OLN"
+ZHR_revisionist_socialism_party:0 "PSR/RSDRP(단주의)"
+ZHR_social_democratism_party:0 "TNSP"
+ZHR_liberalism_party:0 "생도파"
+ZHR_conservatism_party:0 "NDS"
+ZHR_right_authoritarianism_party:0 "도적파"
+ZHR_despotism_party:0 "군주주의파"
+ZHR_reactionism_party:0 "군주주의파"
+ZHR_accelerationism_party:0 "유라시아주의파"
+ZHR_vanguard_socialism_party_long:0 "러시아 사회민주노동자당(트로츠키주의)"
+ZHR_libertarian_marxism_party_long:0 "러시아 사회민주노동자당(중도파)"
+ZHR_revolutionary_anarchism_party_long:0 "좌익 인민주의 협회"
+ZHR_revisionist_socialism_party_long:0 "러시아 사회민주노동자당(단주의)/사회주의-혁명주의당"
+ZHR_social_democratism_party_long:0 "노동인민사회주의당"
+ZHR_liberalism_party_long:0 "인민자유 입헌민주당"
+ZHR_conservatism_party_long:0 "인민민주연합"
+ZHR_right_authoritarianism_party_long:0 "도적파"
+ZHR_despotism_party_long:0 "군주주의 집단"
+ZHR_reactionism_party_long:0 "군주주의 집단"
+ZHR_accelerationism_party_long:0 "유라시아당"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+
+ZHR_SETTING_SUN_DESC:0 "대전쟁 이후 러시아 제국은 북만주에서 중요한 영토상의 이익들을 얻어냈습니다. 혁명이 일어나고 콜차크의 독재가 이어지자, 남은 공화주의자들과 사회주의자들은 극동으로 도망쳐 자기들만의 민주적인 잔재국을 세웠습니다. 망가친 체제가 모든 유형의 극단주의자들이 발흥하는 걸 막지 못 했다곤 해도, 황러시아는 여전히 동아시아의 민주정의 등대입니다. 하지만 얼마나 그럴 수 있을까요?"
+
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+
+#EVENTS#
+ZHR.1.t:0 "처리자"
+ZHR.1.desc:0 "최근, 연예인민위원회에서 단일국을 위해 제작한 활동사진 한 편이 모든 공장에서 상영될 정도로 큰 성공을 거두었습니다. \n\n\"처리자\"라는 제목의 활동사진은 자본주의 반동에 여전히 붙들려있는 먼 미래의 미국을 배경으로 삼았습니다. 영화 속에서 반동들은, 구스테프 동무의 기계적이며 자동적인 사회주의를 완전히 받아들여 노동자들이 국가운영에 애를 먹지 않고 기계에 맡기게 된, 영광스러우며 기계화된 단일국을 파괴하려 듭니다. 활동사진에선 영미 반동이 세계 인민의 기계화를 막고자 타임머신까지 개발하며 구스테프 동무를 죽이려 시도합니다. 하지만 단일국은 용감한 국가의 기계아들 한 명을 보내 소비에트 이상향을 구하는 데 성공합니다. \n\n전사한 영웅적인 소비에트 군인의 뇌를 이용한 로봇인 처리자는 국제자본주의 요원들을 처리하다가, 이야기의 절정에서 스스로를 희생함으로써 최후승리를 거두는 데 기여합니다. \n\n활동사진은 이어 단일국이 행성계로의 여행을 시작하여 외계 생명체와의 새로운 위협에 맞서게 되는 것으로 마무리됩니다."
+ZHR.1.a:0 "미래를 향한 밝은 전망이로다."

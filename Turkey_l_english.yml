@@ -1,0 +1,81 @@
+﻿l_english:
+#COUNTRY NAME#
+TUR_vanguard_socialism:0 "터키"
+TUR_vanguard_socialism_DEF:0 "터키"
+TUR_vanguard_socialism_ADJ:0 "터키"
+
+TUR_libertarian_marxism:0 "터키"
+TUR_libertarian_marxism_DEF:0 "터키"
+TUR_libertarian_marxism_ADJ:0 "터키"
+
+TIB_revolutionary_anarchism:0 "터키"
+TIB_revolutionary_anarchism_DEF:0 "터키"
+TIB_revolutionary_anarchism_ADJ:0 "터키"
+
+TUR_revisionist_socialism:0 "터키"
+TUR_revisionist_socialism_DEF:0 "터키"
+TUR_revisionist_socialism_ADJ:0 "터키"
+
+TUR_social_democratism:0 "터키"
+TUR_social_democratism_DEF:0 "터키"
+TUR_social_democratism_ADJ:0 "터키"
+
+TUR_placeholderism:0 "터키"
+TUR_placeholderism_DEF:0 "터키"
+TUR_placeholderism_ADJ:0 "터키"
+
+TUR_liberalism:0 "터키"
+TUR_liberalism_DEF:0 "터키"
+TUR_liberalism_ADJ:0 "터키"
+
+TUR_conservatism:0 "터키"
+TUR_conservatism_DEF:0 "터키"
+TUR_conservatism_ADJ:0 "터키"
+
+TUR_right_authoritarianism:0 "터키"
+TUR_right_authoritarianism_DEF:0 "터키"
+TUR_right_authoritarianism_ADJ:0 "터키"
+
+TIB_despotism:0 "터키"
+TIB_despotism_DEF:0 "터키"
+TIB_despotism_ADJ:0 "터키"
+
+TUR_reactionism:0 "터키"
+TUR_reactionism_DEF:0 "터키"
+TUR_reactionism_ADJ:0 "터키"
+
+TUR_accelerationism:0 "투란"
+TUR_accelerationism_DEF:0 "투란"
+TUR_accelerationism_ADJ:0 "알타이"
+#PARTIES#
+TUR_accelerationism_party:0 "HTP"
+TUR_accelerationism_party_long:0 "촉진주의당"
+TUR_vanguard_socialism_party:0 "MAP"
+TUR_vanguard_socialism_party_long:0 "공동협약당"
+TUR_libertarian_socialism_party:0 "İUP"
+TUR_libertarian_socialism_party_long:0 "노동의 이상 당"
+TUR_revolutionary_anarchism_party:0 "DAP"
+TUR_revolutionary_anarchism_party_long:0 "혁명 아나키스트당"
+TUR_revisionist_socialism_party:0 "REP"
+TUR_revisionist_socialism_party_long:0 "수정주의당"
+TUR_social_democratism_party:0 "SDP"
+TUR_social_democratism_party_long:0 "사회민주당"
+TUR_liberalism_party:0 "LTP"
+TUR_liberalism_party_long:0 "터키 자유당"
+TUR_conservatism_party:0 "MDP"
+TUR_conservatism_party_long:0 "보수민주당"
+TUR_right_authoritarianism_party:0 "CHP"
+TUR_right_authoritarianism_party_long:0 "공화인민당"
+TUR_despotism_party:0 "MGK"
+TUR_despotism_party_long:0 "국가안보평의회"
+TUR_reactionism_party:0 "TP"
+TUR_reactionism_party_long:0 "진보당"
+#LEADER DESCRITIONS#
+#IDEAS#
+TUR_treaty_of_adrianople:0 "에디르네 조약"
+TUR_treaty_of_adrianople_desc:0 "오스만 제국의 몰락 이후 체결된 에디르네 조약에 따라, 제국은 영국 위임령 아래에 놓인 그리스인, 아르메니아인, 아랍인의 영역과, 독립적인 쿠르드인들, 영국과 러시아의 공식적 보호를 받는 중립영토인 국제해협위원회로 쪼개졌습니다."
+TUR_treaty_of_thessaloniki:0 "테살로니키 조약"
+TUR_treaty_of_thessaloniki_desc:0 "에디르네 조약을 재협상하자는 수 차례의 요청 끝에, 러시아와 영국이 이에 동의하면서 협상장이 테살로니키에 마련되었습니다."
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

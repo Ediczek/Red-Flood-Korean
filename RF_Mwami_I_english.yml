@@ -1,0 +1,77 @@
+﻿l_english:
+#COUNTRY NAME#
+MWA_vanguard_socialism:0 "므와미 인민공화국"
+MWA_vanguard_socialism_DEF:0 "므와미"
+MWA_vanguard_socialism_ADJ:0 "므와미"
+
+MWA_libertarian_marxism:0 "므와미 인민공화국"
+MWA_libertarian_marxism_DEF:0 "므와미"
+MWA_libertarian_marxism_ADJ:0 "므와미"
+
+MWA_revolutionary_anarchism:0 "므와미 자유령"
+MWA_revolutionary_anarchism_DEF:0 "므와미 자유령"
+MWA_revolutionary_anarchism_ADJ:0 "므와미 자유령"
+
+MWA_revisionist_socialism:0 "므와미 인민공화국"
+MWA_revisionist_socialism_DEF:0 "므와미"
+MWA_revisionist_socialism_ADJ:0 "므와미"
+
+MWA_social_democratism:0 "므와미"
+MWA_social_democratism_DEF:0 "므와미"
+MWA_social_democratism_ADJ:0 "므와미"
+
+MWA_placeholderism:0 "므와미"
+MWA_placeholderism_DEF:0 "므와미"
+MWA_placeholderism_ADJ:0 "므와미"
+
+MWA_liberalism:0 "므와미"
+MWA_liberalism_DEF:0 "므와미"
+MWA_liberalism_ADJ:0 "므와미"
+
+MWA_conservatism:0 "므와미"
+MWA_conservatism_DEF:0 "므와미"
+MWA_conservatism_ADJ:0 "므와미"
+
+MWA_right_authoritarianism:0 "므와미"
+MWA_right_authoritarianism_DEF:0 "므와미"
+MWA_right_authoritarianism_ADJ:0 "므와미"
+
+MWA_despotism:0 "므와미"
+MWA_despotism_DEF:0 "므와미"
+MWA_despotism_ADJ:0 "므와미"
+
+MWA_reactionism:0 "므와미"
+MWA_reactionism_DEF:0 "므와미"
+MWA_reactionism_ADJ:0 "므와미"
+
+MWA_accelerationism:0 "므와미 미래주의국"
+MWA_accelerationism_DEF:0 "므와미 미래주의국"
+MWA_accelerationism_ADJ:0 "므와미 미래주의국"
+#PARTIES#
+MWA_vanguard_socialism_party:0 "FLNS"
+MWA_vanguard_socialism_party_long:0 "므와미 민족해방전선"
+MWA_libertarian_marxism_party:0 "PSR"
+MWA_libertarian_marxism_party_long:0 "급진사회주의당"
+MWA_revolutionary_anarchism_party:0 "아나키스트파"
+MWA_revolutionary_anarchism_party_long:0 "아나키스트파"
+MWA_revisionist_socialism_party:0 "사회주의자 연합"
+MWA_revisionist_socialism_party_long:0 "사회주의자 연합"
+MWA_social_democratism_party:0 "PS"
+MWA_social_democratism_party_long:0 "사회주의당"
+MWA_liberalism_party:0 "PL"
+MWA_liberalism_party_long:0 "자유당"
+MWA_conservatism_party:0 "PL-R"
+MWA_conservatism_party_long:0 "자유당 - 공화파"
+MWA_right_authoritarianism_party:0 "PAAC"
+MWA_right_authoritarianism_party_long:0 "구식민군당"
+MWA_despotism_party:0 "전제주의파"
+MWA_despotism_party_long:0 "전제주의파"
+MWA_reactionism_party:0 "UDM"
+MWA_reactionism_party_long:0 "무함마드 연합"
+MWA_accelerationism_party:0 "PNAGS (M)"
+MWA_accelerationism_party_long:0 "아방가르드 초현실주의 민족당 (므와미)"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

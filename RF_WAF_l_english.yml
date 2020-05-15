@@ -1,0 +1,56 @@
+﻿l_english:
+#COUNTRY NAME#
+WAF_accelerationism:0 "서아프리카 연방"
+WAF_accelerationism_DEF:0 "서아프리카 연방"
+WAF_accelerationism_ADJ:0 "서아프리카"
+WAF_reactionism:0 "서아프리카 연방"
+WAF_reactionism_DEF:0 "서아프리카 연방"
+WAF_reactionism_ADJ:0 "서아프리카"
+WAF_despotism:0 "서아프리카 연방"
+WAF_despotism_DEF:0 "서아프리카 연방"
+WAF_despotism_ADJ:0 "서아프리카"
+WAF_right_authoritarianism:0 "서아프리카 연방"
+WAF_right_authoritarianism_DEF:0 "서아프리카 연방"
+WAF_right_authoritarianism_ADJ:0 "서아프리카"
+WAF_conservatism:0 "서아프리카 연방"
+WAF_conservatism_DEF:0 "서아프리카 연방"
+WAF_conservatism_ADJ:0 "서아프리카"
+WAF_liberalism:0 "서아프리카 연방"
+WAF_liberalism_DEF:0 "서아프리카 연방"
+WAF_liberalism_ADJ:0 "서아프리카"
+WAF_social_democratism:0 "서아프리카 연방"
+WAF_social_democratism_DEF:0 "서아프리카 연방"
+WAF_social_democratism_ADJ:0 "서아프리카"
+WAF_libertarian_marxism:0 "서아프리카 연방"
+WAF_libertarian_marxism_DEF:0 "서아프리카 연방"
+WAF_libertarian_marxism_ADJ:0 "서아프리카"
+WAF_vanguard_socialism:0 "서아프리카 연방"
+WAF_vanguard_socialism_DEF:0 "서아프리카 연방"
+WAF_vanguard_socialism_ADJ:0 "서아프리카"
+WAF_revolutionary_anarchism:0 "서아프리카 연방"
+WAF_revolutionary_anarchism_DEF:0 "서아프리카 연방"
+WAF_revolutionary_anarchism_ADJ:0 "서아프리카"
+#PARTIES#
+WAF_vanguard_socialism_party:0 "FLSN"
+WAF_libertarian_marxism_party:0 "FLSN-ML"
+WAF_revolutionary_anarchism_party:0 "아나키스트파"
+WAF_revisionist_socialism_party:0 "사회주의파"
+WAF_social_democratism_party:0 "노동당"
+WAF_liberalism_party:0 "자유당"
+WAF_conservatism_party:0 "영연방 위임통치"
+WAF_right_authoritarianism_party:0 "영연방 위임통치"
+WAF_despotism_party:0 "프랑스 부흥주의파"
+WAF_reactionism_party:0 "프랑스 부흥주의파"
+WAF_accelerationism_party:0 "미래주의파"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+#EVENTS#
+waf.1.title:0 "1936년 서아프리카 선거"
+waf.1.desc:0 "영국이 약속했던 서아프리카 연방의 자유선거가 바로 오늘 다가왔습니다. 모두가 환영하고 있는 바로 이 선거를 통해 연방의 미래가 결정될 것입니다. 자유파가 복지정책을 동반한 고전적 자유경제 하에서 프랑스 및 아프리카 문화를 풍부하게 하는 가운데, 충성파는 영국과의 관계를 강화하는 동시에 영어 사용을 증진하고 있습니다. 누가 승리하게 될까요?"
+waf.1.a:0 "진수가 이끄는 자유파가 승리하다!"
+waf.1.b:0 "코헨이 자리를 지킨 충성파가 승리하다!"
+waf.1.c:0 "에드워드 아쿠포-아도가 이끄는 충성파가 승리하다!"

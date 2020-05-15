@@ -1,0 +1,77 @@
+﻿l_english:
+#COUNTRY NAME#
+TUN_vanguard_socialism:0 "튀니지 인민공화국"
+TUN_vanguard_socialism_DEF:0 "튀지니"
+TUN_vanguard_socialism_ADJ:0 "튀지니"
+
+TUN_libertarian_marxism:0 "튀니지 인민공화국"
+TUN_libertarian_marxism_DEF:0 "튀지니"
+TUN_libertarian_marxism_ADJ:0 "튀지니"
+
+TUN_revolutionary_anarchism:0 "튀니지 자유령"
+TUN_revolutionary_anarchism_DEF:0 "튀지니"
+TUN_revolutionary_anarchism_ADJ:0 "튀지니"
+
+TUN_revisionist_socialism:0 "튀니지 인민공화국"
+TUN_revisionist_socialism_DEF:0 "튀지니"
+TUN_revisionist_socialism_ADJ:0 "튀지니"
+
+TUN_social_democratism:0 "튀지니"
+TUN_social_democratism_DEF:0 "튀지니"
+TUN_social_democratism_ADJ:0 "튀지니"
+
+TUN_placeholderism:0 "튀지니"
+TUN_placeholderism_DEF:0 "튀지니"
+TUN_placeholderism_ADJ:0 "튀지니"
+
+TUN_liberalism:0 "튀지니"
+TUN_liberalism_DEF:0 "튀지니"
+TUN_liberalism_ADJ:0 "튀지니"
+
+TUN_conservatism:0 "튀지니"
+TUN_conservatism_DEF:0 "튀지니"
+TUN_conservatism_ADJ:0 "튀지니"
+
+TUN_right_authoritarianism:0 "튀지니"
+TUN_right_authoritarianism_DEF:0 "튀지니"
+TUN_right_authoritarianism_ADJ:0 "튀지니"
+
+TUN_despotism:0 "튀지니"
+TUN_despotism_DEF:0 "튀지니"
+TUN_despotism_ADJ:0 "튀지니"
+
+TUN_reactionism:0 "튀지니"
+TUN_reactionism_DEF:0 "튀지니"
+TUN_reactionism_ADJ:0 "튀지니"
+
+TUN_accelerationism:0 "튀지니-사하라 총독부"
+TUN_accelerationism_DEF:0 "튀지니"
+TUN_accelerationism_ADJ:0 "튀지니"
+#PARTIES#
+TUN_vanguard_socialism_party:0 "FLNS"
+TUN_vanguard_socialism_party_long:0 "튀니지 민족해방전선"
+TUN_libertarian_marxism_party:0 "PSR"
+TUN_libertarian_marxism_party_long:0 "급진사회주의당"
+TUN_revolutionary_anarchism_party:0 "아나키스트파"
+TUN_revolutionary_anarchism_party_long:0 "아나키스트파"
+TUN_revisionist_socialism_party:0 "사회주의자 연합"
+TUN_revisionist_socialism_party_long:0 "사회주의자 연합"
+TUN_social_democratism_party:0 "PS"
+TUN_social_democratism_party_long:0 "사회주의당"
+TUN_liberalism_party:0 "PL"
+TUN_liberalism_party_long:0 "자유당"
+TUN_conservatism_party:0 "PL-R"
+TUN_conservatism_party_long:0 "자유당 - 공화파"
+TUN_right_authoritarianism_party:0 "PAAC"
+TUN_right_authoritarianism_party_long:0 "구식민군당"
+TUN_despotism_party:0 "전제주의파"
+TUN_despotism_party_long:0 "전제주의파"
+TUN_reactionism_party:0 "UDM"
+TUN_reactionism_party_long:0 "무함마드 연합"
+TUN_accelerationism_party:0 "CC"
+TUN_accelerationism_party_long:0 "카르타고 부대"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

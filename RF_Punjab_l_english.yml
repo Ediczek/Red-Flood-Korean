@@ -1,0 +1,68 @@
+﻿l_english:
+#COUNTRY NAME#
+PNJ_vanguard_socialism:0 "펀자브"
+PNJ_vanguard_socialism_DEF:0 "펀자브"
+PNJ_vanguard_socialism_ADJ:0 "펀자브"
+
+PNJ_libertarian_marxism:0 "펀자브"
+PNJ_libertarian_marxism_DEF:0 "펀자브"
+PNJ_libertarian_marxism_ADJ:0 "펀자브"
+
+PNJ_revolutionary_anarchism:0 "펀자브"
+PNJ_revolutionary_anarchism_DEF:0 "펀자브"
+PNJ_revolutionary_anarchism_ADJ:0 "펀자브"
+
+PNJ_revisionist_socialism:0 "펀자브"
+PNJ_revisionist_socialism_DEF:0 "펀자브"
+PNJ_revisionist_socialism_ADJ:0 "펀자브"
+
+PNJ_social_democratism:0 "펀자브"
+PNJ_social_democratism_DEF:0 "펀자브"
+PNJ_social_democratism_ADJ:0 "펀자브"
+
+PNJ_placeholderism:0 "펀자브"
+PNJ_placeholderism_DEF:0 "펀자브"
+PNJ_placeholderism_ADJ:0 "펀자브"
+
+PNJ_liberalism:0 "펀자브"
+PNJ_liberalism_DEF:0 "펀자브"
+PNJ_liberalism_ADJ:0 "펀자브"
+
+PNJ_conservatism:0 "펀자브"
+PNJ_conservatism_DEF:0 "펀자브"
+PNJ_conservatism_ADJ:0 "펀자브"
+
+PNJ_right_authoritarianism:0 "펀자브"
+PNJ_right_authoritarianism_DEF:0 "펀자브"
+PNJ_right_authoritarianism_ADJ:0 "펀자브"
+
+PNJ_despotism:0 "펀자브"
+PNJ_despotism_DEF:0 "펀자브"
+PNJ_despotism_ADJ:0 "펀자브"
+
+PNJ_reactionism:0 "펀자브"
+PNJ_reactionism_DEF:0 "펀자브"
+PNJ_reactionism_ADJ:0 "펀자브"
+
+PNJ_accelerationism:0 "펀자브"
+PNJ_accelerationism_DEF:0 "펀자브"
+PNJ_accelerationism_ADJ:0 "펀자브"
+#PARTIES#
+PNJ_vanguard_socialism_party:0 "펀자브 공화사회주의 협회"
+PNJ_libertarian_marxism_party:0 "펀자브 노동자당"
+PNJ_revolutionary_anarchism_party:0 "아나키스트 파벌"
+PNJ_revisionist_socialism_party:0 "농업주의 파벌"
+PNJ_social_democratism_party:0 "민족진보당"
+PNJ_liberalism_party:0 "시크 자유당"
+PNJ_conservatism_party:0 "연합주의당"
+PNJ_right_authoritarianism_party:0 "최고 아칼리당"
+PNJ_despotism_party:0 "군사평의회 지지파"
+PNJ_reactionism_party:0 "시크 정화협회"
+PNJ_accelerationism_party:0 "민족재건당"
+#LEADER DESCRITIONS#
+POLITICS_Sikandar_Hayat_Khan_DESC:0 "시칸다르 하야트 한 경은 전직 총독으로, 현재는 펀자브의 작은 시크 민주국가의 총리입니다. 시칸다르는 대전쟁 뿐만 아니라 과거 3차 영국-아프간 전쟁에서도 영국령 인도군으로 참전한 바 있었습니다. 이후 사업에 뛰어든 그는 여러 회사에서 중책을 맡았으며, 펀자브에서 영국의 영향력이 소멸한 이후엔 인도 아대륙의 독립 시크 국가를 회복하고 나라의 정치적 요직을 차지하는, 본인에게 걸맞는 처우를 얻어냈습니다. 연합주의당의 당수로서, 시칸다르는 자신이 수립한, 대륙에서 친구가 얼마 없는 대영제국과의 우호 관계를 유지하고 싶어 합니다. 하지만 그의 주 목적은 독립 시크 국가를 존속시키는 것이고, 이를 위해서라면 자신의 위치에서 무엇이든 할 것입니다."
+
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

@@ -1,0 +1,77 @@
+﻿l_english:
+#COUNTRY NAME#
+TUA_vanguard_socialism:0 "니제르 인민공화국"
+TUA_vanguard_socialism_DEF:0 "니제르"
+TUA_vanguard_socialism_ADJ:0 "니제르"
+
+TUA_libertarian_marxism:0 "니제르 인민공화국"
+TUA_libertarian_marxism_DEF:0 "니제르 인민공화국"
+TUA_libertarian_marxism_ADJ:0 "니제르"
+
+TUA_revolutionary_anarchism:0 "투아레그 자유령"
+TUA_revolutionary_anarchism_DEF:0 "투아레그 자유령"
+TUA_revolutionary_anarchism_ADJ:0 "투아레그"
+
+TUA_revisionist_socialism:0 "니제르 인민공화국"
+TUA_revisionist_socialism_DEF:0 "니제르"
+TUA_revisionist_socialism_ADJ:0 "니제르"
+
+TUA_social_democratism:0 "니제르"
+TUA_social_democratism_DEF:0 "니제르"
+TUA_social_democratism_ADJ:0 "니제르"
+
+TUA_placeholderism:0 "니제르"
+TUA_placeholderism_DEF:0 "니제르"
+TUA_placeholderism_ADJ:0 "니제르"
+
+TUA_liberalism:0 "니제르"
+TUA_liberalism_DEF:0 "니제르"
+TUA_liberalism_ADJ:0 "니제르"
+
+TUA_conservatism:0 "니제르"
+TUA_conservatism_DEF:0 "니제르"
+TUA_conservatism_ADJ:0 "니제르"
+
+TUA_right_authoritarianism:0 "니제르"
+TUA_right_authoritarianism_DEF:0 "니제르"
+TUA_right_authoritarianism_ADJ:0 "니제르"
+
+TUA_despotism:0 "투아레그 자유령"
+TUA_despotism_DEF:0 "투아레그 자유령"
+TUA_despotism_ADJ:0 "투아레그"
+
+TUA_reactionism:0 "투아레그 자유령"
+TUA_reactionism_DEF:0 "투아레그 자유령"
+TUA_reactionism_ADJ:0 "투아레그"
+
+TUA_accelerationism:0 "니제르"
+TUA_accelerationism_DEF:0 "니제르"
+TUA_accelerationism_ADJ:0 "니제르"
+#PARTIES#
+TUA_vanguard_socialism_party:0 "PLN"
+TUA_vanguard_socialism_party_long:0 "니제르 레닌주의당"
+TUA_libertarian_marxism_party:0 "PSR"
+TUA_libertarian_marxism_party_long:0 "급진사회주의당"
+TUA_revolutionary_anarchism_party:0 "아나키스트파"
+TUA_revolutionary_anarchism_party_long:0 "아나키스트파"
+TUA_revisionist_socialism_party:0 "사회주의자 연합"
+TUA_revisionist_socialism_party_long:0 "사회주의자 연합"
+TUA_social_democratism_party:0 "PS"
+TUA_social_democratism_party_long:0 "사회주의당"
+TUA_liberalism_party:0 "PL"
+TUA_liberalism_party_long:0 "자유당"
+TUA_conservatism_party:0 "PL-R"
+TUA_conservatism_party_long:0 "자유당 - 공화파"
+TUA_right_authoritarianism_party:0 "니아메 보안대"
+TUA_right_authoritarianism_party_long:0 "니아메 보안대"
+TUA_despotism_party:0 "자유령"
+TUA_despotism_party_long:0 "자유령"
+TUA_reactionism_party:0 "UDM"
+TUA_reactionism_party_long:0 "무함마드 연합"
+TUA_accelerationism_party:0 "미래주의파"
+TUA_accelerationism_party_long:0 "미래주의파"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
