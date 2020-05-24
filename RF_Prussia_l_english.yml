@@ -1,52 +1,6 @@
 ﻿l_english:
 #COUNTRY NAME#
-PRS_vanguard_socialism:0 "프로이센"
-PRS_vanguard_socialism_DEF:0 "프로이센"
-PRS_vanguard_socialism_ADJ:0 "프로이센"
 
-PRS_libertarian_marxism:0 "프로이센"
-PRS_libertarian_marxism_DEF:0 "프로이센"
-PRS_libertarian_marxism_ADJ:0 "프로이센"
-
-PRS_revolutionary_anarchism:0 "프로이센"
-PRS_revolutionary_anarchism_DEF:0 "프로이센"
-PRS_revolutionary_anarchism_ADJ:0 "프로이센"
-
-PRS_revisionist_socialism:0 "프로이센"
-PRS_revisionist_socialism_DEF:0 "프로이센"
-PRS_revisionist_socialism_ADJ:0 "프로이센"
-
-PRS_social_democratism:0 "프로이센"
-PRS_social_democratism_DEF:0 "프로이센"
-PRS_social_democratism_ADJ:0 "프로이센"
-
-PRS_placeholderism:0 "프로이센"
-PRS_placeholderism_DEF:0 "프로이센"
-PRS_placeholderism_ADJ:0 "프로이센"
-
-PRS_liberalism:0 "프로이센"
-PRS_liberalism_DEF:0 "프로이센"
-PRS_liberalism_ADJ:0 "프로이센"
-
-PRS_conservatism:0 "프로이센"
-PRS_conservatism_DEF:0 "프로이센"
-PRS_conservatism_ADJ:0 "프로이센"
-
-PRS_right_authoritarianism:0 "프로이센"
-PRS_right_authoritarianism_DEF:0 "프로이센"
-PRS_right_authoritarianism_ADJ:0 "프로이센"
-
-PRS_despotism:0 "프로이센"
-PRS_despotism_DEF:0 "프로이센"
-PRS_despotism_ADJ:0 "프로이센"
-
-PRS_reactionism:0 "프로이센"
-PRS_reactionism_DEF:0 "프로이센"
-PRS_reactionism_ADJ:0 "프로이센"
-
-PRS_accelerationism:0 "프로이센"
-PRS_accelerationism_DEF:0 "프로이센"
-PRS_accelerationism_ADJ:0 "프로이센"
 #PARTIES#
 PRS_vanguard_socialism_party:0 "SRGP"
 PRS_libertarian_marxism_party:0 "PPK"
@@ -71,11 +25,23 @@ PRS_despotism_party_long:0 "충성제국당"
 PRS_reactionism_party_long:0 "독일 질서연합"
 PRS_accelerationism_party_long:0 "프로이센 보호저항동맹"
 #LEADER DESCRITIONS#
+POLITICS_Schleicher_DESC:0 "A true-born son of Prussia, von Schleicher was raised in the unified German Empire, growing to serve in its mighty armies as a young man. Schleicher gained some renown during the Great War, serving as the trusted assistant to Wilhelm Groener in the latter years of the conflict. It was von Schleicher who assisted in the formation of the Freikorps in the wake of the Kaiser's abdication and growing tension between the Ebert government and the revolutionary elements in German politics. When the Spartakus League finally struck in 1919, von Schleicher was ready with the Freikorps to assist the war-hero Paul von Hindenburg in saving the foolish Ebert from his own disaster. Yet it was not to be, the faithful soldiers of Old Germany were defeated and broken by the Reds, who pursued them into the seas. Arriving in Prussia, von Schleicher and Hindenburg sought to reorganise the surviving elements of the German Empire, only to find many former Officers had fled to Austria, taking solace in the mountains of their former ally. After serving under Hindenburg for over a decade, crushing the agents of the Communists and ensuring petty squabbles did not split the Freikorps, von Schleicher would succeed the old marshal in 1934, inheriting a government of loyal and dedicated associates. Though Prussia is small, Reichsmarschall von Schleicher is no brute and knows that Prussia's strength lies in its legacy and its legitimacy. With enough scheming, the Red Giant can be brought down, and the Freikorps, Reichswehr and von Schleicher himself shall revive that grand Germany that nearly claimed the world."
+#FACTION
+BALTIC_SECURITY_PACT:0 "Baltic Security Pact"
+PRS_NORDIC_CONFEDERATION:0 "Nordic Confederation"
+#LEADER TRAITS#
+PRS_the_adventurer:0 "The Adventurer"
+PRS_the_imperialist:0 "The Imperialist"
+PRS_the_red_count:0 "The Red Count"
+PRS_soldier_kaiserin:0 "Soldatenkaiserin"
+PRS_heir_alexander:0 "Heir of Alexander"
 #IDEAS#
 PRS_bloody_january:0 "피의 1월"
 PRS_bloody_january_desc:0 ""
+PRS_bloody_january_aftermath:0 "Bloody January Recovery"
+PRS_bloody_january_aftermath_desc:0 ""
 PRS_junkerstaat:0 "융커국가"
-PRS_junkerstaat_desc:0 ""
+PRS_junkerstaat_desc:0 "The basis of our political and agricultural system is the Prussian landowner. The Junkers resided in Prussia before even the unification of Germany and remain today as the proprietors of the majority of the arable land in Prussia. In addition to their rule of agriculture they have reliably served as Officers and soldiers in our grand armies. As long as we have the Junkers on our side, we hold the reins of power."
 PRS_disloyal_proletariat:0 "불충한 프롤레타리아"
 PRS_disloyal_proletariat_desc:0 ""
 PRS_power_of_freikorps:0 "자유군단의 권능"
