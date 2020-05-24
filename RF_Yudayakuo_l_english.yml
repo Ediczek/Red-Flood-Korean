@@ -1,0 +1,45 @@
+﻿l_english:
+#Yudayakuo
+#COUNTRY NAME#
+
+
+
+YDK_JAP_right_authoritarianism:0 "Yudayakuo"
+YDK_JAP_right_authoritarianism_DEF:0 "Yudayakuo"
+YDK_JAP_right_authoritarianism_ADJ:0 "Yudaya"
+
+#PARTIES#
+
+YDK_vanguard_socialism_party:0 "YVP"
+YDK_vanguard_socialism_party_long:0 "Yudaya Vanguard Party"
+YDK_libertarian_marxism_party:0 "YMP"
+YDK_libertarian_marxism_party_long:0 "Yudaya Marxist Party"
+YDK_revolutionary_anarchism_party:0 "JPC"
+YDK_revolutionary_anarchism_party_long:0 "Jewish People's Clan"
+YDK_revisionist_socialism_party:0 "YSP"
+YDK_revisionist_socialism_party_long:0 "Yudayakuo Socialist Party"
+YDK_social_democratism_party:0 "YFP"
+YDK_social_democratism_party_long:0 "Yudayakuo Freedom and Prosperity Party"
+YDK_liberalism_party:0 "YRP-L"
+YDK_liberalism_party_long:0 "Yudayakuo Republican Party - Liberals"
+YDK_conservatism_party:0 "YRP-C"
+YDK_conservatism_party_long:0 "Yudayakuo Republican Party - Conservatives"
+YDK_right_authoritarianism_party:0 "YA"
+YDK_right_authoritarianism_party_long:0 "Yudayakuo Authority"
+YDK_despotism_party:0 "YMG"
+YDK_despotism_party_long:0 "Yudayakuo Military Governorate"
+YDK_reactionism_party:0 "UJF"
+YDK_reactionism_party_long:0 "United Judean Front"
+YDK_accelerationism_party:0 "MY"
+YDK_accelerationism_party_long:0 "Mandate - Yudayakuo"
+
+#LEADER DESCRITIONS#
+
+#IDEAS#
+
+#CUSTOM TOOLTIPS AND FLAGS#
+
+#DECISIONS (1.5 Update)#
+
+#FOCUSES#
+
