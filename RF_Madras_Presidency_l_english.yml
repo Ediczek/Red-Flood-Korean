@@ -1,52 +1,5 @@
 ﻿l_english:
 #COUNTRY NAME#
-MAD_vanguard_socialism:0 "마드라스 코뮌"
-MAD_vanguard_socialism_DEF:0 "마드라스"
-MAD_vanguard_socialism_ADJ:0 "마드라스"
-
-MAD_libertarian_marxism:0 "마드라스 코뮌"
-MAD_libertarian_marxism_DEF:0 "마드라스"
-MAD_libertarian_marxism_ADJ:0 "마드라스"
-
-MAD_revolutionary_anarchism:0 "마드라스 코뮌"
-MAD_revolutionary_anarchism_DEF:0 "마드라스"
-MAD_revolutionary_anarchism_ADJ:0 "마드라스"
-
-MAD_revisionist_socialism:0 "마드라스 코뮌"
-MAD_revisionist_socialism_DEF:0 "마드라스"
-MAD_revisionist_socialism_ADJ:0 "마드라스"
-
-MAD_social_democratism:0 "마드라스 주재구"
-MAD_social_democratism_DEF:0 "마드라스"
-MAD_social_democratism_ADJ:0 "마드라스"
-
-MAD_placeholderism:0 "마드라스 주재구"
-MAD_placeholderism_DEF:0 "마드라스"
-MAD_placeholderism_ADJ:0 "마드라스"
-
-MAD_liberalism:0 "마드라스 주재구"
-MAD_liberalism_DEF:0 "마드라스"
-MAD_liberalism_ADJ:0 "마드라스"
-
-MAD_conservatism:0 "마드라스 주재구"
-MAD_conservatism_DEF:0 "마드라스"
-MAD_conservatism_ADJ:0 "마드라스"
-
-MAD_right_authoritarianism:0 "마드라스 주재구"
-MAD_right_authoritarianism_DEF:0 "마드라스"
-MAD_right_authoritarianism_ADJ:0 "마드라스"
-
-MAD_despotism:0 "마드라스 주재구"
-MAD_despotism_DEF:0 "마드라스"
-MAD_despotism_ADJ:0 "마드라스"
-
-MAD_reactionism:0 "마드라스 주재구"
-MAD_reactionism_DEF:0 "마드라스"
-MAD_reactionism_ADJ:0 "마드라스"
-
-MAD_accelerationism:0 "마드라스 기술국"
-MAD_accelerationism_DEF:0 "마드라스"
-MAD_accelerationism_ADJ:0 "마드라스"
 
 MAD_restored_raj_right_authoritarianism:0 "영국령 인도 제2 제국"
 MAD_restored_raj_right_authoritarianism_DEF:0 "영국령 인도 제2 제국"
@@ -72,7 +25,7 @@ POLITICS_John_Erskine_DESC:0 ""
 #IDEAS#
 MAD_british_direct_rule:0 "영국의 직접통치"
 MAD_british_direct_rule_desc:0 ""
-MAD_collapsing_raj:0 "붕괴하는 제국"
+MAD_collapsing_raj:0 "붕괴하는 라자"
 MAD_collapsing_raj_desc:0 ""
 MAD_partisan_infestation:0 "들뜷는 유격대"
 MAD_partisan_infestation_desc:0 ""
