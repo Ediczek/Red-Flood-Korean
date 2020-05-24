@@ -1,58 +1,22 @@
 ﻿l_english:
-#COUNTRY NAME#
-NOR_vanguard_socialism:0 "북대서양 인민평의회"
-NOR_vanguard_socialism_DEF:0 "노르웨이"
-NOR_vanguard_socialism_ADJ:0 "노르웨이"
 
-NOR_libertarian_marxism:0 "북대서양 인민평의회"
-NOR_libertarian_marxism_DEF:0 "노르웨이"
-NOR_libertarian_marxism_ADJ:0 "노르웨이"
-
-NOR_revolutionary_anarchism:0 "북대서양 인민평의회"
-NOR_revolutionary_anarchism_DEF:0 "노르웨이"
-NOR_revolutionary_anarchism_ADJ:0 "노르웨이"
-
-NOR_revisionist_socialism:0 "북대서양 인민평의회"
-NOR_revisionist_socialism_DEF:0 "노르웨이"
-NOR_revisionist_socialism_ADJ:0 "노르웨이"
-
-NOR_social_democratism:0 "노르웨이"
-NOR_social_democratism_DEF:0 "노르웨이"
-NOR_social_democratism_ADJ:0 "노르웨이"
-
-NOR_placeholderism:0 "노르웨이"
-NOR_placeholderism_DEF:0 "노르웨이"
-NOR_placeholderism_ADJ:0 "노르웨이"
-
-NOR_liberalism:0 "노르웨이"
-NOR_liberalism_DEF:0 "노르웨이"
-NOR_liberalism_ADJ:0 "노르웨이"
-
-NOR_conservatism:0 "노르웨이"
-NOR_conservatism_DEF:0 "노르웨이"
-NOR_conservatism_ADJ:0 "노르웨이"
-
-NOR_right_authoritarianism:0 "노르웨이"
-NOR_right_authoritarianism_DEF:0 "노르웨이"
-NOR_right_authoritarianism_ADJ:0 "노르웨이"
-
-NOR_despotism:0 "노르웨이"
-NOR_despotism_DEF:0 "노르웨이"
-NOR_despotism_ADJ:0 "노르웨이"
-
-NOR_reactionism:0 "노르웨이"
-NOR_reactionism_DEF:0 "노르웨이"
-NOR_reactionism_ADJ:0 "노르웨이"
-
-NOR_accelerationism:0 "노르웨이"
-NOR_accelerationism_DEF:0 "노르웨이"
-NOR_accelerationism_ADJ:0 "노르웨이"
 #PARTIES#
 NOR_revisionist_socialism_party:0 "인민평의회"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
+
+## Events ##
+nor.1.title:0 "외스틀란데 문제"
+nor.1.desc:0 "The Norwegian demands that the østlandet shall return to the nation of Norway"
+nor.1.a:0 "Refuse!"
+nor.1.b:0 "Agree to the terms"
+
+nor.2.t:0 "Bjørn Mauseth steps down from the power."
+nor.2.d:0 "It have today come that the norwegian leader Bjørn Mauseth have stept to the side for another man to take power."
+
+
 #FOCUSES#
 NOR_assassinateofficers:0 "장교진 암살"
 NOR_assassinateofficers_desc:0 ""
