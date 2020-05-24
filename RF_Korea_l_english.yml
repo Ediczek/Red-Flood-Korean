@@ -1,59 +1,22 @@
 ﻿l_english:
-#COUNTRY NAME#
-KOR_vanguard_socialism:0 "한국"
-KOR_vanguard_socialism_DEF:0 "한국"
-KOR_vanguard_socialism_ADJ:0 "한국"
-
-KOR_libertarian_marxism:0 "한국"
-KOR_libertarian_marxism_DEF:0 "한국"
-KOR_libertarian_marxism_ADJ:0 "한국"
-
-KEN_despotism:0 "한국"
-KEN_despotism_DEF:0 "한국"
-KEN_despotism_ADJ:0 "한국"
-
-KOR_revisionist_socialism:0 "한국"
-KOR_revisionist_socialism_DEF:0 "한국"
-KOR_revisionist_socialism_ADJ:0 "한국"
-
-KOR_social_democratism:0 "한국"
-KOR_social_democratism_DEF:0 "한국"
-KOR_social_democratism_ADJ:0 "한국"
-
-KOR_placeholderism:0 "한국"
-KOR_placeholderism_DEF:0 "한국"
-KOR_placeholderism_ADJ:0 "한국"
-
-KOR_liberalism:0 "한국"
-KOR_liberalism_DEF:0 "한국"
-KOR_liberalism_ADJ:0 "한국"
-
-KOR_conservatism:0 "한국"
-KOR_conservatism_DEF:0 "한국"
-KOR_conservatism_ADJ:0 "한국"
-
-KOR_right_authoritarianism:0 "한국"
-KOR_right_authoritarianism_DEF:0 "한국"
-KOR_right_authoritarianism_ADJ:0 "한국"
-
-KOR_despotism:0 "한국"
-KOR_despotism_DEF:0 "한국"
-KOR_despotism_ADJ:0 "한국"
-
-KOR_reactionism:0 "한국"
-KOR_reactionism_DEF:0 "한국"
-KOR_reactionism_ADJ:0 "한국"
-
-KOR_accelerationism:0 "한국"
-KOR_accelerationism_DEF:0 "한국"
-KOR_accelerationism_ADJ:0 "한국"
-
-KOR_JAP_despotism:0 "조선 총독부"
-KOR_JAP_despotism_DEF:0 "조선 총독부"
-KOR_JAP_despotism_ADJ:0 "조선"
+ 
 #PARTIES#
+
 #LEADER DESCRITIONS#
+
 #IDEAS#
+KOR_jap_colony:0 "일본 식민지화"
+KOR_nationalists_divided:0 "분열된 민족주의 운동"
+KOR_republicanism:0 "공화주의"
+KOR_land_lords:0 "억압받는 지주들"
+
 #CUSTOM TOOLTIPS AND FLAGS#
+
 #DECISIONS (1.5 Update)#
+
+#EVENTS#
+kor.1.t:0 "만철 붕괴"
+kor.1.d:0 "간도가 일제 강점 이래로 조선의 영역이 아니었다곤 하나, 우리 사람들 중 다수에겐 중요한 지역입니다. 일본에서의 혁명으로 만철경영회의가 혼란에 빠진 지금이 평정의 기회입니다! 평화유지를 위한 수단으로서 조선의 국경지역들을 차지하고, 만약 누군가 그에 반대한다면 만주 자치지역으로 만들면 될 것입니다..."
+kor.1.a:0 "이 상황을 이용해야 한다!"
+
 #FOCUSES#
