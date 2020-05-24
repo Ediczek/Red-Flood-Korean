@@ -1,0 +1,32 @@
+﻿l_english:
+
+#PARTIES#
+BNG_vanguard_socialism_party:0 "BSRA"
+BNG_libertarian_marxism_party:0 "LSF"
+BNG_revolutionary_anarchism_party:0 "AF"
+BNG_revisionist_socialism_party:0 "AS"
+BNG_social_democratism_party:0 "INCR"
+BNG_liberalism_party:0 "BLP"
+BNG_conservatism_party:0 "ML"
+BNG_right_authoritarianism_party:0 "군사평의회"
+BNG_despotism_party:0 "MR"
+BNG_reactionism_party:0 "TKM"
+BNG_accelerationism_party:0 "NKM"
+
+BNG_vanguard_socialism_party:0 "방글라데시 사회주의 공화협회"
+BNG_libertarian_marxism_party:0 "자유의지주의적 사회주의당"
+BNG_revolutionary_anarchism_party:0 "아나키스트 파벌"
+BNG_revisionist_socialism_party:0 "농업주의 파벌"
+BNG_social_democratism_party:0 "인도 민족회의 잔존파"
+BNG_liberalism_party:0 "방글라데시 자유당"
+BNG_conservatism_party:0 "무슬림 연맹"
+BNG_right_authoritarianism_party:0 "군사평의회 지지파"
+BNG_despotism_party:0 "복벽주의파"
+BNG_reactionism_party:0 "전통 칼리프국 운동"
+BNG_accelerationism_party:0 "신 칼리프국 운동"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
