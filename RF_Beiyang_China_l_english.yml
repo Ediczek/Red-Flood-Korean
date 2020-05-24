@@ -1,52 +1,5 @@
 ﻿l_english:
-#COUNTRY NAME#
-BYJ_vanguard_socialism:0 "중화사회주의합중국"
-BYJ_vanguard_socialism_DEF:0 "중화사회주의합중국"
-BYJ_vanguard_socialism_ADJ:0 "중국"
 
-BYJ_libertarian_marxism:0 "중화사회주의합중국"
-BYJ_libertarian_marxism_DEF:0 "중화사회주의합중국"
-BYJ_libertarian_marxism_ADJ:0 "중국"
-
-BYJ_revolutionary_anarchism:0 "중화사회주의합중국"
-BYJ_revolutionary_anarchism_DEF:0 "중화사회주의합중국"
-BYJ_revolutionary_anarchism_ADJ:0 "중국"
-
-BYJ_revisionist_socialism:0 "중화사회주의합중국"
-BYJ_revisionist_socialism_DEF:0 "중화사회주의합중국"
-BYJ_revisionist_socialism_ADJ:0 "중국"
-
-BYJ_social_democratism:0 "북양 정부"
-BYJ_social_democratism_DEF:0 "북양 정부"
-BYJ_social_democratism_ADJ:0 "중국"
-
-BYJ_placeholderism:0 "북양 정부"
-BYJ_placeholderism_DEF:0 "북양 정부"
-BYJ_placeholderism_ADJ:0 "중국"
-
-BYJ_liberalism:0 "북양 정부"
-BYJ_liberalism_DEF:0 "북양 정부"
-BYJ_liberalism_ADJ:0 "중국"
-
-BYJ_conservatism:0 "북양 정부"
-BYJ_conservatism_DEF:0 "북양 정부"
-BYJ_conservatism_ADJ:0 "중국"
-
-BYJ_right_authoritarianism:0 "북양 정부"
-BYJ_right_authoritarianism_DEF:0 "북양 정부"
-BYJ_right_authoritarianism_ADJ:0 "중국"
-
-BYJ_despotism:0 "북양 정부"
-BYJ_despotism_DEF:0 "북양 정부"
-BYJ_despotism_ADJ:0 "중국"
-
-BYJ_reactionism:0 "북양 정부"
-BYJ_reactionism_DEF:0 "북양 정부"
-BYJ_reactionism_ADJ:0 "중국"
-
-BYJ_accelerationism:0 "중화국"
-BYJ_accelerationism_DEF:0 "중화국"
-BYJ_accelerationism_ADJ:0 "중국"
 #PARTIES#
 BYJ_vanguard_socialism_party:0 ""WPC""
 BYJ_libertarian_marxism_party:0 ""PPC""
