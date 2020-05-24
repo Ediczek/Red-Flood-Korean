@@ -1,52 +1,5 @@
 ﻿l_english:
-#COUNTRY NAME#
-NBE_vanguard_socialism:0 "니우 벨기에 인민공화국"
-NBE_vanguard_socialism_DEF:0 "니우 벨기에"
-NBE_vanguard_socialism_ADJ:0 "니우 벨기에"
 
-NBE_libertarian_marxism:0 "니우 벨기에 인민공화국"
-NBE_libertarian_marxism_DEF:0 "니우 벨기에"
-NBE_libertarian_marxism_ADJ:0 "니우 벨기에"
-
-NBE_revolutionary_anarchism:0 "니우 벨기에 자유령"
-NBE_revolutionary_anarchism_DEF:0 "니우 벨기에 자유령"
-NBE_revolutionary_anarchism_ADJ:0 "니우 벨기에 자유령"
-
-NBE_revisionist_socialism:0 "니우 벨기에 인민공화국"
-NBE_revisionist_socialism_DEF:0 "니우 벨기에"
-NBE_revisionist_socialism_ADJ:0 "니우 벨기에"
-
-NBE_social_democratism:0 "니우 벨기에"
-NBE_social_democratism_DEF:0 "니우 벨기에"
-NBE_social_democratism_ADJ:0 "니우 벨기에"
-
-NBE_placeholderism:0 "니우 벨기에"
-NBE_placeholderism_DEF:0 "니우 벨기에"
-NBE_placeholderism_ADJ:0 "니우 벨기에"
-
-NBE_liberalism:0 "니우 벨기에"
-NBE_liberalism_DEF:0 "니우 벨기에"
-NBE_liberalism_ADJ:0 "니우 벨기에"
-
-NBE_conservatism:0 "니우 벨기에"
-NBE_conservatism_DEF:0 "니우 벨기에"
-NBE_conservatism_ADJ:0 "니우 벨기에"
-
-NBE_right_authoritarianism:0 "니우 벨기에"
-NBE_right_authoritarianism_DEF:0 "니우 벨기에"
-NBE_right_authoritarianism_ADJ:0 "니우 벨기에"
-
-NBE_despotism:0 "니우 벨기에"
-NBE_despotism_DEF:0 "니우 벨기에"
-NBE_despotism_ADJ:0 "니우 벨기에"
-
-NBE_reactionism:0 "니우 벨기에"
-NBE_reactionism_DEF:0 "니우 벨기에"
-NBE_reactionism_ADJ:0 "니우 벨기에"
-
-NBE_accelerationism:0 "니우 벨기에 미래주의국"
-NBE_accelerationism_DEF:0 "니우 벨기에 미래주의국"
-NBE_accelerationism_ADJ:0 "니우 벨기에 미래주의국"
 #PARTIES#
 NBE_vanguard_socialism_party:0 "FLNS"
 NBE_vanguard_socialism_party_long:0 "니우 벨기에 민족해방전선"
@@ -70,8 +23,56 @@ NBE_reactionism_party:0 "UDM"
 NBE_reactionism_party_long:0 "무함마드 연합"
 NBE_accelerationism_party:0 "PNAGS (M)"
 NBE_accelerationism_party_long:0 "아방가르드 초현실주의 민족당 (니우 벨기에)"
+
 #LEADER DESCRITIONS#
+
 #IDEAS#
+NBE_journeytotheendofthenight:0 "밤의 끝을 향한 여정"
+NBE_journeytotheendofthenight_desc:0 ""
+NBE_againstallodds:0 "Against All Odds"
+NBE_againstallodds_desc:0 ""
+NBE_thevalleysofdeath:0 "죽음의 계곡"
+NBE_thevalleysofdeath_desc:0 ""
+NBE_aremyonlyfriend:0 "Are my Only Friend"
+NBE_aremyonlyfriend_desc:0 ""
+NBE_suicidalrage:0 "Suicidal Rage"
+NBE_suicidalrage_desc:0 "We have nothing left but our guns and our spirit. We are miserable and yet hopeful for our great crusade against the Congoid tyrants that opress the majority of the population into becoming savages. We will save the Congo as soon as possible, even if it means we die in the proccess."
+NBE_expandslavecamps:0 "Expand Slave Camps"
+NBE_expandslavecamps_desc:0 "The Great Traitor of the Congoid Race is the Congolese who does not understand that, as a Congoid, they have to fall in place along with their Colonial Enlighteners, for a Domination of Servitude. Those who have betrayed King Leopold will now suffer for an indeterminate quantity of time."
+NBE_gatherthetroops:0 "부대 집합"
+NBE_gatherthetroops_desc:0 "We must gather our forces, for the great wave of death is coming. For their calling is here."
+NBE_legacyofleopold:0 "레오폴의 유산"
+NBE_legacyofleopold_desc:0 "King Leopold was the great Savior of the Congo, the Harbringer of Civilization and Enlightnement to the ignorant peoples of these jungles and swamps. He has constructed the Congolese Identity and has created a civilized aristocracy of Blacks that know their place by the side of the Belgic Race. We shall smite traitors to his ideals and create a New Belgium."
+NBE_gathertheofficers:0 "장교 집합"
+NBE_gathertheofficers_desc:0 "The Commanders of the Great Horse Ride of Death will come to us and reassure their loyalty."
+NBE_stormyweather:0 "Stormy Weather"
+NBE_stormyweather_desc:0 "We have been in the Congo for 15 years now. We can't hold on in this situation anymore - Action must be taken; and quickly, if we are to see a light of hope."
+NBE_victoryatleopoldville:0 "레오폴빌에서의 승리"
+NBE_victoryatleopoldville_desc:0 ""
+NBE_thegreatcleanse:0 "대숙청"
+NBE_thegreatcleanse_desc:0 ""
+NBE_expandindustrialzones:0 "Expand Industrial Zones"
+NBE_expandindustrialzones_desc:0 ""
+NBE_autarky:0 "Autarky"
+NBE_autarky_desc:0 ""
+NBE_minesformiles:0 "Mines For Miles"
+NBE_minesformiles_desc:0 ""
+NBE_laststand:0 "Last Stand"
+NBE_laststand_desc:0 ""
+NBE_dominerpourservir:0 "Dominer Pour Servir"
+NBE_dominerpourservir_desc:0 ""
+NBE_proclaimnewbelgium:0 "니우 벨기에 선포"
+NBE_proclaimnewbelgium_desc:0 ""
+NBE_umhkalliance:0 "UMHK 동맹"
+NBE_umhkalliance_desc:0 ""
+NBE_slaveempire:0 "노예 ㅈ국"
+NBE_slaveempire_desc:0 ""
+NBE_dighungrily:0 "Dig Hungrily"
+NBE_dighungrily_desc:0 ""
+NBE_completeisolation:0 "Complete Isolation"
+NBE_completeisolation_desc:0 ""
+
+#MINISTERS#
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
