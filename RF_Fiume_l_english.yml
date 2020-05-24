@@ -1,65 +1,24 @@
 ﻿l_english:
-#COUNTRY NAME#
-FIU_vanguard_socialism:0 "피우메 자유 코뮌"
-FIU_vanguard_socialism_DEF:0 "피우메 자유 코뮌"
-FIU_vanguard_socialism_ADJ:0 "피우메"
-
-FIU_libertarian_marxism:0 "피우메 자유 코뮌"
-FIU_libertarian_marxism_DEF:0 "피우메 자유 코뮌"
-FIU_libertarian_marxism_ADJ:0 "피우메"
-
-FIU_revolutionary_anarchism:0 "피우메 자유 코뮌"
-FIU_revolutionary_anarchism_DEF:0 "피우메 자유 코뮌"
-FIU_revolutionary_anarchism_ADJ:0 "피우메"
-
-FIU_revisionist_socialism:0 "피우메 자유국"
-FIU_revisionist_socialism_DEF:0 "피우메 자유국"
-FIU_revisionist_socialism_ADJ:0 "이탈리아"
-
-FIU_social_democratism:0 "피우메 임시정부"
-FIU_social_democratism_DEF:0 "피우메 임시정부"
-FIU_social_democratism_ADJ:0 "피우메"
-
-FIU_placeholderism:0 "피우메 임시정부"
-FIU_placeholderism_DEF:0 "피우메 임시정부"
-FIU_placeholderism_ADJ:0 "피우메"
-
-FIU_liberalism:0 "피우메 임시정부"
-FIU_liberalism_DEF:0 "피우메 임시정부"
-FIU_liberalism_ADJ:0 "피우메"
-
-FIU_conservatism:0 "피우메 임시정부"
-FIU_conservatism_DEF:0 "피우메 임시정부"
-FIU_conservatism_ADJ:0 "피우메"
-
-FIU_right_authoritarianism:0 "피우메 임시정부"
-FIU_right_authoritarianism_DEF:0 "피우메 임시정부"
-FIU_right_authoritarianism_ADJ:0 "피우메"
-
-FIU_despotism:0 "피우메 임시정부"
-FIU_despotism_DEF:0 "피우메 임시정부"
-FIU_despotism_ADJ:0 "피우메"
-
-FIU_reactionism:0 "피우메"
-FIU_reactionism_DEF:0 "피우메"
-FIU_reactionism_ADJ:0 "피우메"
-
-FIU_accelerationism:0 "피우메"
-FIU_accelerationism_DEF:0 "피우메"
-FIU_accelerationism_ADJ:0 "피우메"
-
+#COSMETIC TAG#
 FIU_italian_republic_accelerationism:0 "이탈리아 민족공화국"
 FIU_italian_republic_accelerationism_DEF:0 "이탈리아 민족공화국"
 FIU_italian_republic_accelerationism_ADJ:0 "이탈리아"
+FIU_italian_combine_accelerationism:0 "이탈리아 Combine"
+FIU_italian_combine_accelerationism_DEF:0 "이탈리아 Combine"
+FIU_italian_combine_accelerationism_ADJ:0 "이탈리아"
+FIU_italian_shogunate_accelerationism:0 "이탈리아 막부"
+FIU_italian_shogunate_accelerationism_DEF:0 "이탈리아 막부"
+FIU_italian_shogunate_accelerationism_ADJ:0 "이탈리아"
+
 #PARTIES#
-FIU_vanguard_socialism_party:0 "피우메 전위주의당"
-FIU_libertarian_marxism_party:0 "피우메 전위주의당"
+FIU_vanguard_socialism_party:0 "PVF"
+FIU_libertarian_marxism_party:0 "PVF"
 FIU_revolutionary_anarchism_party:0 "UAD"
-FIU_revisionist_socialism_party:0 "피우메 전위주의당"
-FIU_social_democratism_party:0 "피우메 사회민주당"
-FIU_placeholderism_party:0 "피우메 자유민주당"
-FIU_liberalism_party:0 "이탈리아 자유당"
-FIU_conservatism_party:0 "이탈리아 인민당"
+FIU_revisionist_socialism_party:0 "PVF"
+FIU_social_democratism_party:0 "SDF"
+FIU_placeholderism_party:0 "PLD"
+FIU_liberalism_party:0 "PLI"
+FIU_conservatism_party:0 "PPI"
 FIU_right_authoritarianism_party:0 "긴급군정청"
 FIU_reactionism_party:0 "긴급군정청"
 FIU_accelerationism_party:0 "최선평의회"
@@ -85,6 +44,50 @@ fiume.2.desc:0 "태양 연맹이라는, 피우메와 프랑스 두 예술국이 
 fiume.2.a:0 "에야! 에야! 에야! 알랄라!"
 #fiume.2.b:0 "프랑스와 캅카스에게 가맹 제안"
 
+#fiume.3.t:0 ""
+#fiume.3.desc:0 ""
+#fiume.3.a:0 ""
+#fiume.3.b:0 ""
+#fiume.3.c:0 ""
+
+fiume.4.t:0 "Quarta sessione di poesie"
+fiume.4.desc:0 "Fiume is a place blooming with art. Ever since it's creation numerous poets, writers and philosophers found thier haven here thanks to our avant-garde approach to culture and atmosphere of extravagant self-expression. Every four years since 1924 these artists have a chance to show off thier skills in the annual poetry contest. After observing the various pieces by multiple writers, the clear winner is..."
+fiume.4.a:0 "A poem about siezing the day and reaching for skies."
+fiume.4.b:0 "An avant-garde poem about motors and artillery."
+fiume.4.c:0 "A Japanese-inspired Haiku based on the struggles of vitality"
+
+fiume.5.t:0 "Addresing the slump"
+fiume.5.desc:0 "1931 brought an incredible economic crash that destroyed with great chaos most of Europe's economies - and our city of vitality and joy was not an exception due to our profound ties to Italy. Due to this, We have been in an economic slump since those years, slowly recovering. But now, we need to act quickly if we are to develop in today's world and with D'Annunzio's health slowly waning, it means that other factions can slowly take power and place their approaches on the situation instead of D'Annunzio's neutral attitude. Marinetti suggests massive centrally directed labor force paid in food and housing, Shimoi believes that factory buy-ups and state acquisition of industry is a nescessity, and Keller believes that the best course of action is to ensure that the local syndicates have more power, in order to encourage local production, even at the expense of international trade."
+fiume.5.a:0 "Our Syndicates need more autonomy."
+fiume.5.b:0 "People's needs come first."
+fiume.5.c:0 "Nationalization will save our economy."
+
+fiume.6.t:0 "The Border With The Slavians"
+fiume.6.desc:0 "In our glorious Republic we have long felt a clash, a violence against Slavs. Not our own Slavs mind you, those masters of trade, of strength and vitality, our Slavs are simply the best Slavs there are. However, on the border, beyond the Timave, beyond the Trieste, sits an ultranationalist regime that seeks to annex us and colonize us with superior numbers. We now feel like we must attack first if we are to maintain the security of our Regime, of our people, of our endless vitality and our spiritual strength. Their re-armament worries us immensely as they begin pumping out divisions with a violence unprecedented in this day and age, therefore various elements in Fiume have come forward and positioned themselves:"
+fiume.6.a:0 "Keller says control the skies"
+fiume.6.b:0 "Marinetti says more land forts"
+fiume.6.c:0 "Shimoi says control the Adriatic"
+
+fiume.7.t:0 "Revision of militia"
+fiume.7.desc:0 "The Arditi - Oh, our great forces which we salute with grand vital honor! You were visionary many decades ago, being the first troops of your kind, using only light equipment and subsequently entering trenches without the fear of death - They were also said to be the most feared corps by opposing armies. The task of Arditi units was not to clear the way for regular infantry to attack enemy lines, but to completely overrun enemy positions. The most daring volunteers were chosen, particularly those who were not bothered by loud incoming artillery fire close by. The men also studied fencing and were masters of hand-to-hand combat. Once ready, they were sent to the front armed with light assault weapons such as carbines, pistols, daggers and hand grenades. Many did not carry rifles and carbines because they would be cumbersome to fire in the confined spaces of a trench. The Arditi approached enemy trenches while they were being shelled by Italian artillery. Just as the barrage was lifted they would jump inside the trench while the enemy was huddling down, and use their daggers at close quarters to suppress enemy resistance. These primitive tactics were surprisingly effective. The Arditi stood in front of death with a pride never seen in Europe. Your motto was \"O La Vittoria, O Tutti Accopati\", and it still rings true today. Fortunately, we must adapt to the Future, and become once more the pioneers of the World, and therefore, we must choose what to do. How shall we improve our great and honorable Arditi? Shimoi, Marinetti, and Keller all have ideas, which they have presented forward to the Consiglio Degli Otimi..."
+fiume.7.a:0 "...Build up their courage."
+fiume.7.b:0 "...Give them better weapons."
+fiume.7.c:0 "...Teach them the importance of authority."
+
+fiume.8.t:0 "lo incontro del consiglio di emergenza"
+fiume.8.desc:0 "Fiume is devastated by the recent events. D'annunzio is gone and the future we marched forward so willingly became foggy and worrying. Consiglio Degli Otimi has arranged a meeting to discuss who sould be the succesor of our beloved Duce. The council decided to give emergency powers to Fiume's most influential figure..."
+fiume.8.a:0 "...D'annunzio's right hand man, Guido Keller!"
+fiume.8.b:0 "...the father of futurism, Fillipo Tomaso Marinetti!"
+fiume.8.c:0 "...the oriental master, Harukichi Shimoi!"
+fiume.8.d:0 "...D'annunzio's right hand man, Guido Keller!"
+fiume.8.e:0 "...the father of futurism, Fillipo Tomaso Marinetti!"
+fiume.8.f:0 "...the oriental master, Harukichi Shimoi!"
+
+fiume.51.t:0 "The Blow with the Fist"
+fiume.51.desc:0 "Marinetti cleared his throat sharply as the room filled with journalists. He could feel their hunted, tired stares practically devouring his every twitch and blink, desperate for some clue to what the Duce, the new Alexander, a conqueror of previously unthinkable alacrity, would say. He basked in the moment. The scents of sweat, fear, coffee and tobacco smoke hung rich in the cramped, warm air. Without warning, he began. \n\"The age of leisure is dead!\" he shouted. The crowd shrank back amid the click-boom of cameras and the gasps of frightened journalists. \"It died in the streets of Ankara! It died at the outskirts of Tehran! In the name of the glorious MOTOR, it died with the Pope, when I pushed the knife into his decrepit heart! Are you so frightened of the truth?!!\" \nHe grabbed the podium with both hands and threw it into the crowd, striking several onlookers in the front row. He continued to shout: \n\"Now you see! I warned you all that when we came in glory, we would bring such motion as had never been seen before! Now we shall show our true valor! The greatest of all will be our war—the crushing of the steppe! The blasted ruin of the great peoples of the world will be our legacy!\"He took a revolver from his coat pocket and began to fire into the air. The crowd scattered. \"Now, my glorious sons! To the East! To glory! To the death of peace, and the rebirth of the true spirit!\" \nWith his final roar, he brought the revolver down, cocked the hammer savagely, and fired."
+fiume.51.a:0 "The first casualty of a truly Great War."
+fiume.51.b:0 "The first casualty of a truly Great War."
+
 fiume.21.t:0 "피우메가 동맹을 제안하다"
 fiume.21.desc:0 "피우메, 이 시대의 가장 거대한 도전에 직면한 이 예술국이 우리에게 흥미로운 제안을 건넸습니다. 유럽의 두 진정한 예술국이 함께 뭉쳐 미래주의 관념들과 생활방식의 수호와 전파를 도울 군사동맹을 만들자는 것입니다. 저들은 예술가들이 서로에게 영감을 주고받듯이 다양한 국가가 만나 정신적인 이익이 될 수 있다고 전해왔습니다. 일리 있는 말이란 것을 부정하긴 어렵지만, 정말 우리의 지원을 약속하고 우리 사람들을 전장으로 보낼 필요가 있을까요?"
 fiume.21.a:0 "당연하지!"
@@ -105,6 +108,8 @@ FIU_shimoi:0 "시모이 하루키치"
 FIU_marinetti:0 "필리포 마리네티"
 FIU_1936:0 "아르디티 민병대"
 FIU_keller_postwar:0 "켈레르의 이탈리아 정복"
+FIU_marinetti_postwar:0 "마리네티의 이탈리아 정복"
+FIU_shimoi_postwar:0 "시모이의 이탈리아 정복"
 
 League_Solar:0 "태양 연맹"
 
@@ -366,6 +371,11 @@ FIU_A_Sudden_Press_Conference:0 "갑작스러운 기자회견"
 FIU_A_Sudden_Press_Conference_desc:0 ""
 
 #Ideas#
+FIU_the_endeavour:0 "각고"
+FIU_the_endeavour1:0 "각고"
+FIU_the_slump:0 "권태"
+
+#k
 FIU_keller_aint_broken:0 "망가지지 않았다면..."
 FIU_spirit_of_19:0 "1919년의 정신"
 FIU_spirit_of_19_desc:0 " "
@@ -389,4 +399,38 @@ FIU_nation_for_all_1:0 "모두를 위한 국가"
 FIU_nation_for_all:0 "모두를 위한 국가"
 FIU_nation_for_all_2:0 "모두를 위한 국가"
 FIU_wealth_spirit:0 "영혼의 부"
-FIU_spirit_heroes:0 "영웅의 혼"
+FIU_spirit_heroes:0 "영웅들의 혼"
+
+#m
+FIU_unstoppable_machinery:0 "멈출 수 없는 기계"
+FIU_rejuvenation:0 "재건"
+FIU_bolting_through:0 "Bolting Through"
+FIU_men_of_iron:0 "무쇠인간"
+FIU_heroic_scientist:0 "영웅적 과학자들"
+FIU_prepare_for_departure:0 "Prepare for departure!"
+FIU_assemble:0 "조립!"
+FIU_black_ichor:0 "Black Ichor"
+FIU_final_repairs:0 "최종 수리"
+
+#s
+FIU_duel_of_the_fates:0 "운명의 결투"
+FIU_the_daring_ones_reconsolidated:0 "The Daring Ones reconsolidated"
+FIU_blackshirts_aligned:0 "Blackshirts aligned"
+FIU_prepared_offensive:0 "Prepared offensive"
+FIU_blackshirts_integrated:0 "Blackshirts integrated"
+FIU_democrat_rebels:0 "Democrat rebels"
+FIU_fiumean_shintoism:0 "Fiumean shintoism"
+FIU_massive_propaganda:0 "Mass propaganda"
+FIU_expanded_police:0 "Expanded police force"
+FIU_recalibrated_economy:0 "Recalibrated economy"
+FIU_reopened_institutions:0 "Reopened institutions"
+FIU_total_centralization:0 "Total centralization"
+
+#MINISTERS
+FIU_Guido_Keller_air:0 "귀도 켈레르"
+FIU_Giovanni_Giurati:0 "조반니 주라티"
+FIU_Nicola_Bombacci:0 "니콜라 봄바치"
+FIU_Mario_Carli:0 "마리오 카를리"
+FIU_Giovanni_Papini:0 "조반니 파피니"
+FIU_Enrico_Corradini:0 "엔리코 코라디니"
+FIU_Alceste_de_Ambris:0 "알체스테 데 암브리스"
