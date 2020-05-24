@@ -2,48 +2,115 @@
 
 #Category
 ideology_generic_category:0 "정권 유지"
+destroy_the_spanish_language:0 "Destroy the Spanish Language"
 
 #Revolutionary Anarchist
 anarchist_stability:0 "코뮌 토론 개최"
+anarchist_stability_desc:0 "Healthy argument on the tenets of leftism and the best way forward fosters understanding, uniting our communes under the umbrella of anarchy."
+
 anarchist_popularity:0 "기관 민주화"
+anarchist_popularity_desc:0 "A happy worker's voice matters. Ensuring every establishment is controlled by the community instead of some ex-capitalist or commissar is sure to satiate the people."
+
 anarchist_war_support:0 "지역 민병대 선거"
+anarchist_war_support_desc:0 "Running elections for the militia gives it free publicity, and reminds us of the omnipresent need to defend revolution and insurrection."
+
 #Vanguard Socialist
 vanguard_stability:0 "중앙위원회 대회"
+vanguard_stability_desc:0 "Calling a meeting of our central committee allows us to check if socialism is being efficiently implemented across the country, and quell any potential social issues."
+
 vanguard_popularity:0 "당원 확대"
+vanguard_popularity_desc:0 "Everyone would like to be a member of the vanguard party. To bring as many into its fold as possible is to make a sure revolution and a happy populace."
+
+
 vanguard_war_support:0 "혁명 열병식 준비"
+vanguard_war_support_desc:0 "Parades show us the power of our vanguard, and the necessity of war against capital and the blackest of reaction."
+
 #Libertarian Marxist
 libertarian_stability:0 "인기없는 대표 소환"
+libertarian_stability_desc:0 "The people's will isn't always perfect. If we gently nudge the most sloven and gluttonous of bureaucrats to retire, we can replace them with people the electorate likes more."
+
 libertarian_popularity:0 "노조 통합"
+libertarian_popularity_desc:0 "Trade unions are the seeds of Marxism. When the socialist state walks in lockstep alongside its trade unions, it can never fall."
+
 libertarian_war_support:0 "군사평의회에 대한 양보"
+libertarian_war_support_desc:0 "Listening to the humanitarian and materiel concerns of our soldiers' councils will keep our war efforts going smoothly."
+
 #Revisionist Socialist
 revisionist_stability:0 "급진파와 화해"
-revisionist_popularity:0 "중산층 유도" 
+revisionist_stability_desc:0 "Unchecked radical elements will inevitably try to seize state power. Reconciliation is a necessary step in leftist unity."
+
+revisionist_popularity:0 "중산층 유도"
+revisionist_popularity_desc:0 "Stuck between reaction and revolution, the middle class is neither wholly with capital or labour. Befriending this demographic will give us half the nation's power on our side."
+
 revisionist_war_support:0 "전시 노동권 보호"
+revisionist_war_support_desc:0 "There is a fine line between rationing and deprivation, patriotic work and working oneself to death. The war effort cannot go on without a solid defence of worker's rights."
+
 #Social Democrat
 social_stability:0 "특별 위원회 구성"
+social_stability_desc:0 "Social injustice must be evaluated before it can be fixed. We should set up commissions to analyse and understanding our issues, before enacting measures to deal with them."
+
 social_popularity:0 "자본가와 약속"
+social_popularity_desc:0 "For some reason, capitalists always seem to have palpitations when dealing with social democrats, mistaking us for the communists! We must assure them that we won't seize the fruits of their hard labour."
+
 social_war_support:0 "노조와 협업"
+social_war_support_desc:0 "Trade unions are the scales that balance labour and capital. Collaborating with them both sides is to win the war at home, everyone enjoying an equitable division of resources."
+
 #Liberal
 liberal_stability:0 "필수 산업 보호"
+liberal_stability_desc:0 "When the economy works like a well-oiled machine, everyone is happy. We must ensure the continued functioning of all industries."
+
 liberal_popularity:0 "모두를 위한 자본주의!"
+liberal_popularity_desc:0 "Capitalism's benefits trickle down to all kinds of hard-workers, from the janitor to the CEO. Philanthropy and public works work. Capitalism works."
+
 liberal_war_support:0 "전쟁자원 비축"
+liberal_war_support_desc:0 "Loathe as we often are to admit it, war is good for the market. An increase in production now will leave us far stronger later."
+
 #Conservative
 conservative_stability:0 "불필요한 기관 축소"
+conservative_stability_desc:0 "To be austere is to be severe, firm and able to survive all adversity. As austerity is the quality of being austere, it stands to reason that austerity is a perfect quality for our state."
+
 conservative_popularity:0 "전통에 대한 호소"
+conservative_popularity_desc:0 "There was a time when everyone followed tradition, and everyone was happy. Reminding the people that we can bring this time back is sure to appease them."
+
 conservative_war_support:0 "애국적 의무 이행 요구"
+conservative_war_support_desc:0 "War is never waged for petty reasons. Each citizen should be reminded that every war we commit to is a war for our souls, and a war for the spirit and sanctity of our nation."
+
 #Right Authoritarian
-authoritarian_stability:0 "비협조 시민 제거"
+authoritarian_stability:0 "비협조 시민 숙청"
+authoritarian_stability_desc:0 "Civil society can only be maintained with absolute concord. We have no use to threats to this concord, so must they must be eliminated swiftly."
+
 authoritarian_popularity:0 "병역이 안전을 보장한다"
+authoritarian_popularity_desc:0 "Citizens have a duty to help their community reach its pinnacle. A sustained campaign focusing on the importance of public service is crucial in elevating the disenfranchised, and reminding them of the firm hand of the fatherland."
+
 authoritarian_war_support:0 "병역을 대가로 한 사면"
+authoritarian_war_support_desc:0 "Our soldiers are to be above it all. Public demonstrations of our military capacity and the many boons of being in the military will convince civilians of this."
+
 #Despotic
 despotic_stability:0 "대연설"
+despotic_stability_desc:0 "Words have power. The words of our glorious leader have the most power. A great speech in a common square is cathartic, unveiling and cleansing all social ills."
+
 despotic_popularity:0 "충성된 신민들을 위한 보상"
+despotic_popularity_desc:0 "While loyalty to land and state is its own reward, adding material benefits tempts the less convinced."
+
 despotic_war_support:0 "나라를 위한 집회!"
+despotic_war_support_desc:0 "If the entire nation marches in unison, they will never forget the necessity and the joy of war."
+
 #Reactionary
 reactionism_stability:0 "민족의 역작 건설"
+reactionism_stability_desc:0 "The first and greatest civilisations were formed when a mass of humanity was herded together in order to create amazing structures: the very first national monuments. We need art for us to thrive, and it reaches its pinnacle when done in service of your state."
+
 reactionism_popularity:0 "경쟁 정당 협박"
+reactionism_popularity_desc:0 "Other parties are decadent: too attached to the decaying world, too obsessed with the superficial. They should be crushed under our heels, for we are the only sane option."
+
 reactionism_war_support:0 "이념적 군국주의 자극"
+accelerationism_stability_desc:0 "They're too just slow. Prissy scholars, lipstick and dresses, same fucking books, sports, movies. If we put a hundred bullets in their mushy brains, deafening them with our euphony, they're gone. We'll put in a quick lit. Everyone will love it."
+
 #Accelerationism
-accelerationism_stability:0 "예술과 학계 조정"
+accelerationism_stability:0 "Align Arts and Academia"
+accelerationism_stability_desc:0 "They're too just slow. Prissy scholars, lipstick and dresses, same fucking books, sports, movies. If we put a hundred bullets in their mushy brains, deafening them with our euphony, they're gone. We'll put in a quick lit. Everyone will love it."
+
 accelerationism_popularity:0 "자유화 대안 약속"
+accelerationism_popularity_desc:0 "Even the Romans knew it! Without futurism, you will not be anything. The old laws keep you down: we'll set you free. Cast your traditions into the sea."
+
 accelerationism_war_support:0 "절대적 광신주의 요구"
+accelerationism_war_support_desc:0 "Of course you love us. Of course you do. Of course you love me. Of course you do. Dash yourself on the floor. Say you love me. Call out, scream it, scream it. Cry for me, beg for me, beg for the party, beg for it. Leave yourself open, exposed to a thousand theories. Let those flows run through you."
