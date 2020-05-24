@@ -86,7 +86,6 @@ TAI_Lin_eco:0 "Lin Hsiung-cheng"
 TAI_claim_the_sea:0 "Claim the seas!"
 
 #Cosmetic tags#
-
 TAI_hsi_accelerationism:0 "치싱 타이완"
 TAI_hsi_accelerationism_DEF:0 "치싱 타이완"
 TAI_hsi_accelerationism_ADJ:0 "타이완"
@@ -112,15 +111,13 @@ TAI_serene_republic_formosa_ADJ:0 "포르모사"
 #TAI_jap_taiwan:0 "일본령 타이완"
 
 #FACTIONS#
-
-TAI_formosa_pact:0 "Formosa Pact"
-TAI_PTO:0 "Pacific Trade Organisation"
-TAI_CCB:0 "Chinese Communist Bloc"
-new_revolutionary_front:0 "New Revolutionary Front"
+TAI_formosa_pact:0 "포르모사 협약"
+TAI_PTO:0 "태평양 무역기구"
+TAI_CCB:0 "중국 공산권"
+new_revolutionary_front:0 "신혁명전선"
 #DECISIONS (1.5 Update)#
 
 #EVENTS#
-
 tai.1.t:0 "Breaking Free"
 tai.1.d:0 "The Provisional Independence Council was set up to safeguard Taiwan against any immediate attempts to subjugate it upon declaring independence. However it was unstable from the start, made up of liberal moderates such as the influential Thomas Liao, Nationalist icon Chiang Wei-shui and Communist leaders. The group can scarecly agree on whether they will keep the name Taiwan or be recognised as Formosa, never mind matters of economy or defence. The council is rapidly disintegrating and the island faces a potent choice in the near future, the exact players involved and their policies remain to seen however..."
 tai.1.a:0 "At least we have self-determination now."
@@ -143,8 +140,8 @@ tai.3.b:0 "This whole independence thing seems to have been a mistake."
 
 tai.4.t:0 "Leftists Attack the Government"
 tai.4.d:0 "At last men of action have taken matters into their own hands. At dawn the People's Militias of the TCP and TPP joined forces in a rare show of soldiarity, they assembled near the University grounds and were soon joined by disgruntled students. The band marched through Taipei into the morning, attracting a police presence, some officers simply joined the march while others looked on. By the time the march reached the Government district they had swelled into a mob, they were now joined by factory workers and civilians waiving flags and shouting slogans. When the march approached the National Assembly they found it guarded by soldiers and police, for an hour a stand-off ensued, then the first rock was thrown. Then the first fires were lit. Finally the first shot was fired. From then it was a battle, soldiers and police engaged in shoot-outs while the mob rushed into the building. When the dust had settled the people had won, those among them shot dead were now martyrs of the Revolution, including some party leaders. More importantly Taiwan now has leadership."
-tai.4.a:0 "At last!"
-tai.4.b:0 "At what cost?"
+tai.4.a:0 "마침내!"
+tai.4.b:0 "하지만 무엇을 대가로?"
 
 tai.5.t:0 "TCP Takes Power"
 tai.5.d:0 "In the aftermath of the Revolution it didn't take long for the TCP to take charge of the situation, their supporters were more numerous, several TPP leaders were dead, and it only took one good lie to convince the crowds the TPP had killed fellow revolutionaries in the crossfire. After that it was trivial to arrest any who didn't swear feilty to the new Government."
@@ -181,7 +178,7 @@ tai.11.d:0 "PPP leader Tan Ting-pho announced the start of his party's rule toda
 tai.11.a:0 "The Club seem very capable."
 tai.11.b:0 "Do the ends justify the means?"
 
-tai.12.t:0 "Taiwan Reaches Out to Tokyo"
+tai.12.t:0 "타이완이 도쿄에 손을 뻗다"
 tai.12.d:0 "In these desperate times true comrades ought to stick together. Since the revolution is isolated in Asia, the few who remain true to the proletariat must help one another in solidarity. To this end Taipei has taken the decision to reach out to Tokyo and offer what meagre support we can offer the Japanese. Perhaps in return they will assist us in the future."
 tai.12.a:0 "Together Comrades, we will be unstoppable!"
 tai.12.b:0 "As long as we aren't a colony again right?"
@@ -201,7 +198,7 @@ tai.15.d:0 "Since the British are struggling to keep their Empire together we sh
 tai.15.a:0 "At Least We Aren't Asking For Honk Kong."
 tai.15.b:0 "At Least We Aren't Asking For Malaya."
 
-tai.151.t:0 "Taiwan Proposes South China Trade"
+tai.151.t:0 "타이완이 남중국 무역을 제안하다"
 tai.151.d:0 "The Taiwanese, recently independent thanks to the Japanese collapse, have approached us with plans for a trade deal. Britain gets the economic benefits of Taiwanese exports, the Taiwanese in return have asked for control over Weihaiwei and Pulo Condre. They claim they will guarantee British interests in China and aleviate the burden on the Navy of patrolling and supplying these areas. The delegation in Hong Kong made a grand pitch of the potential for Anglo-Taiwanese co-operation in the future, some at home have expressed incredulity at the prospect of handing the territroies to this feldgling state that not a few months ago was a Japanese colony. Others have pointed out we are in desperate need of friends in these trying times and the Taiwanese offer of economic partnership is too tempting to refuse."
 tai.151.a:0 "A fair trade."
 tai.151.b:0 "A preposterous suggestion!"
@@ -504,7 +501,6 @@ TAI_denouncethesocialists_desc:0 "The socialists are neither revolutionary, inve
 TAI_miningcontracts:0 "광산업 계약"
 TAI_miningcontracts_desc:0 "We cannot rely on foreign resource imports alone, our economic success must be supplemented by domestic produciton of vital materials, particularly steel."
 TAI_jewelofasia:0 "아시아의 보석"
-TAI_jewelofasia_desc:0 "Amidst the chaos and backward despots of Asia Taiwan stands out as a beacon of prosperity and success."
-TAI_serenerepublicofchina:0 "Serene Republic of China"
+TAI_jewelofasia_desc:0 "아시아의 혼돈과 후진적인 독정자들 가운데 타이완은 번영과 성공의 등대로 서있습니다."
 TAI_serenerepublicofchina:0 "중국의 고귀한 공화국"
-TAI_serenerepublicofchina_desc:0 "Just as Venice of old was a merchant Republic, naval power and economic centre, so shall Taiwan position itself in China. A maritime power with economic strength to back it up."
+TAI_serenerepublicofchina_desc:0 "과거의 베네치아가 상인공화국이자 해상열강이며 경제적 중심지였듯이, 중국에서 타이완의 위치 자체 역시 그러할 것입니다. 경제력이 지탱하는 해상열강이죠."
