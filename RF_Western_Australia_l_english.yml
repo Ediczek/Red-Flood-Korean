@@ -1,64 +1,18 @@
 ﻿l_english:
 #COUNTRY NAME#
-WAS_vanguard_socialism:0 "서오스트레일리아 코뮌"
-WAS_vanguard_socialism_DEF:0 "서오스트레일리아"
-WAS_vanguard_socialism_ADJ:0 "서오스트레일리아"
 
-WAS_libertarian_marxism:0 "서오스트레일리아 코뮌"
-WAS_libertarian_marxism_DEF:0 "서오스트레일리아"
-WAS_libertarian_marxism_ADJ:0 "서오스트레일리아"
-
-WAS_revolutionary_anarchism:0 "서오스트레일리아"
-WAS_revolutionary_anarchism_DEF:0 "서오스트레일리아"
-WAS_revolutionary_anarchism_ADJ:0 "서오스트레일리아"
-
-WAS_revisionist_socialism:0 "서오스트레일리아 코뮌"
-WAS_revisionist_socialism_DEF:0 "서오스트레일리아"
-WAS_revisionist_socialism_ADJ:0 "서오스트레일리아"
-
-WAS_social_democratism:0 "서오스트레일리아"
-WAS_social_democratism_DEF:0 "서오스트레일리아"
-WAS_social_democratism_ADJ:0 "서오스트레일리아"
-
-WAS_placeholderism:0 "서오스트레일리아"
-WAS_placeholderism_DEF:0 "서오스트레일리아"
-WAS_placeholderism_ADJ:0 "서오스트레일리아"
-
-WAS_liberalism:0 "서오스트레일리아"
-WAS_liberalism_DEF:0 "서오스트레일리아"
-WAS_liberalism_ADJ:0 "서오스트레일리아"
-
-WAS_conservatism:0 "서오스트레일리아"
-WAS_conservatism_DEF:0 "서오스트레일리아"
-WAS_conservatism_ADJ:0 "서오스트레일리아"
-
-WAS_right_authoritarianism:0 "서오스트레일리아"
-WAS_right_authoritarianism_DEF:0 "서오스트레일리아"
-WAS_right_authoritarianism_ADJ:0 "서오스트레일리아"
-
-WAS_despotism:0 "서오스트레일리아"
-WAS_despotism_DEF:0 "서오스트레일리아"
-WAS_despotism_ADJ:0 "서오스트레일리아"
-
-WAS_reactionism:0 "서오스트레일리아"
-WAS_reactionism_DEF:0 "서오스트레일리아"
-WAS_reactionism_ADJ:0 "서오스트레일리아"
-
-WAS_accelerationism:0 "서오스트레일리아 기술국"
-WAS_accelerationism_DEF:0 "서오스트레일리아"
-WAS_accelerationism_ADJ:0 "서오스트레일리아"
 #PARTIES#
-WAS_vanguard_socialism_party:0 "서오스트레일리아 공산당"
-WAS_libertarian_marxism_party:0 "서오스트레일리아 사회당"
+WAS_vanguard_socialism_party:0 "웨스트레일리아 공산당"
+WAS_libertarian_marxism_party:0 "웨스트레일리아 사회당"
 WAS_revolutionary_anarchism_party:0 "노동조합총협의회"
-WAS_revisionist_socialism_party:0 "서오스트레일리아 농민당"
-WAS_social_democratism_party:0 "서오스트레일리아 노동당"
+WAS_revisionist_socialism_party:0 "웨스트레일리아 농민당"
+WAS_social_democratism_party:0 "웨스트레일리아 노동당"
 WAS_liberalism_party:0 "독립당"
 WAS_conservatism_party:0 "거국일치내각"
 WAS_right_authoritarianism_party:0 "사회신용당"
 WAS_despotism_party:0 "해군 비상대책위원회"
-WAS_reactionism_party:0 "서오스트레일리아 신수비대"
-WAS_accelerationism_party:0 "오스트레일리아 우선운동"
+WAS_reactionism_party:0 "웨스트레일리아 신수비대"
+WAS_accelerationism_party:0 "웨스트레일리아 우선운동"
 #LEADER DESCRITIONS#
 #IDEAS##WAS_economic_depression
 WAS_economic_depression:0 "경제공황"
