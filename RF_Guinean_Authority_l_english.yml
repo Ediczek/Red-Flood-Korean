@@ -1,52 +1,5 @@
 ﻿l_english:
-#COUNTRY NAME#
-GUN_vanguard_socialism:0 "기니 인민공화국"
-GUN_vanguard_socialism_DEF:0 "기니"
-GUN_vanguard_socialism_ADJ:0 "기니"
 
-GUN_libertarian_marxism:0 "기니 인민공화국"
-GUN_libertarian_marxism_DEF:0 "기니"
-GUN_libertarian_marxism_ADJ:0 "기니"
-
-GUN_revolutionary_anarchism:0 "기니 자유령"
-GUN_revolutionary_anarchism_DEF:0 "기니"
-GUN_revolutionary_anarchism_ADJ:0 "기니"
-
-GUN_revisionist_socialism:0 "기니 인민공화국"
-GUN_revisionist_socialism_DEF:0 "기니"
-GUN_revisionist_socialism_ADJ:0 "기니"
-
-GUN_social_democratism:0 "기니"
-GUN_social_democratism_DEF:0 "기니"
-GUN_social_democratism_ADJ:0 "기니"
-
-GUN_placeholderism:0 "기니"
-GUN_placeholderism_DEF:0 "기니"
-GUN_placeholderism_ADJ:0 "기니"
-
-GUN_liberalism:0 "기니"
-GUN_liberalism_DEF:0 "기니"
-GUN_liberalism_ADJ:0 "기니"
-
-GUN_conservatism:0 "기니"
-GUN_conservatism_DEF:0 "기니"
-GUN_conservatism_ADJ:0 "기니"
-
-GUN_right_authoritarianism:0 "기니"
-GUN_right_authoritarianism_DEF:0 "기니"
-GUN_right_authoritarianism_ADJ:0 "기니"
-
-GUN_despotism:0 "기니"
-GUN_despotism_DEF:0 "기니"
-GUN_despotism_ADJ:0 "기니"
-
-GUN_reactionism:0 "기니"
-GUN_reactionism_DEF:0 "기니"
-GUN_reactionism_ADJ:0 "기니"
-
-GUN_accelerationism:0 "기니"
-GUN_accelerationism_DEF:0 "기니"
-GUN_accelerationism_ADJ:0 "기니"
 #PARTIES#
 GUN_vanguard_socialism_party:0 "PLS"
 GUN_vanguard_socialism_party_long:0 "기니 레닌주의당"
