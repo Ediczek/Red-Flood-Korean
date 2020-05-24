@@ -1,48 +1,6 @@
 ﻿l_english:
 #COUNTRY NAME#
-SWE_vanguard_socialism:0 "스웨덴 코뮌"
-SWE_vanguard_socialism_DEF:0 "스웨덴"
-SWE_vanguard_socialism_ADJ:0 "스웨덴"
 
-SWE_libertarian_marxism:0 "스웨덴 코뮌"
-SWE_libertarian_marxism_DEF:0 "스웨덴"
-SWE_libertarian_marxism_ADJ:0 "스웨덴"
-
-SWE_revolutionary_anarchism:0 "스웨덴 코뮌"
-SWE_revolutionary_anarchism_DEF:0 "스웨덴"
-SWE_revolutionary_anarchism_ADJ:0 "스웨덴"
-
-SWE_revisionist_socialism:0 "스웨덴 코뮌"
-SWE_revisionist_socialism_DEF:0 "스웨덴"
-SWE_revisionist_socialism_ADJ:0 "스웨덴"
-
-SWE_social_democratism:0 "스웨덴-노르웨이"
-SWE_social_democratism_DEF:0 "스웨덴-노르웨이 연합"
-SWE_social_democratism_ADJ:0 "노르드" #TODO: Change this later to better reflect the ADJ.
-
-SWE_placeholderism:0 "스웨덴-노르웨이"
-SWE_placeholderism_DEF:0 "스웨덴-노르웨이 왕국"
-SWE_placeholderism_ADJ:0 "노르드"
-
-SWE_liberalism:0 "스웨덴-노르웨이"
-SWE_liberalism_DEF:0 "스웨덴-노르웨이 왕국"
-SWE_liberalism_ADJ:0 "노르드"
-
-SWE_conservatism:0 "스웨덴-노르웨이"
-SWE_conservatism_DEF:0 "스웨덴-노르웨이 왕국"
-SWE_conservatism_ADJ:0 "노르드"
-
-SWE_right_authoritarianism:0 "스웨덴-노르웨이"
-SWE_right_authoritarianism_DEF:0 "스웨덴-노르웨이 왕국"
-SWE_right_authoritarianism_ADJ:0 "노르드"
-
-SWE_reactionism:0 "대스웨덴"
-SWE_reactionism_DEF:0 "스웨덴 왕국"
-SWE_reactionism_ADJ:0 "스웨덴"
-
-SWE_accelerationism:0 "스칸디나비아 기술국"
-SWE_accelerationism_DEF:0 "스칸디나비아"
-SWE_accelerationism_ADJ:0 "스칸디나비아"
 #PARTIES#
 #LEADER DESCRITIONS AND BOOKMARK#
 POLITICS_PER_ALBIN_HANSSON_DESC:0 "1932년 사회민주당이 선거에서 승리하면서 페르 알빈 한손이 총리로 선출되었습니다. 이후 한손은 국가를 위대함으로 이끌며 노르웨이 내전에서 노르웨이를 돕고 연합을 통해 스웨덴의 보호를 받도록 했습니다."
