@@ -1,53 +1,19 @@
 ﻿l_english:
 #COUNTRY NAME#
-HYD_vanguard_socialism:0 "하이데라바드"
-HYD_vanguard_socialism_DEF:0 "하이데라바드"
-HYD_vanguard_socialism_ADJ:0 "하이데라바드"
 
-HYD_libertarian_marxism:0 "하이데라바드"
-HYD_libertarian_marxism_DEF:0 "하이데라바드"
-HYD_libertarian_marxism_ADJ:0 "하이데라바드"
-
-HYD_revolutionary_anarchism:0 "하이데라바드"
-HYD_revolutionary_anarchism_DEF:0 "하이데라바드"
-HYD_revolutionary_anarchism_ADJ:0 "하이데라바드"
-
-HYD_revisionist_socialism:0 "하이데라바드"
-HYD_revisionist_socialism_DEF:0 "하이데라바드"
-HYD_revisionist_socialism_ADJ:0 "하이데라바드"
-
-HYD_social_democratism:0 "하이데라바드"
-HYD_social_democratism_DEF:0 "하이데라바드"
-HYD_social_democratism_ADJ:0 "하이데라바드"
-
-HYD_placeholderism:0 "하이데라바드"
-HYD_placeholderism_DEF:0 "하이데라바드"
-HYD_placeholderism_ADJ:0 "하이데라바드"
-
-HYD_liberalism:0 "하이데라바드"
-HYD_liberalism_DEF:0 "하이데라바드"
-HYD_liberalism_ADJ:0 "하이데라바드"
-
-HYD_conservatism:0 "하이데라바드"
-HYD_conservatism_DEF:0 "하이데라바드"
-HYD_conservatism_ADJ:0 "하이데라바드"
-
-HYD_right_authoritarianism:0 "하이데라바드"
-HYD_right_authoritarianism_DEF:0 "하이데라바드"
-HYD_right_authoritarianism_ADJ:0 "하이데라바드"
-
-HYD_despotism:0 "하이데라바드"
-HYD_despotism_DEF:0 "하이데라바드"
-HYD_despotism_ADJ:0 "하이데라바드"
-
-HYD_reactionism:0 "하이데라바드"
-HYD_reactionism_DEF:0 "하이데라바드"
-HYD_reactionism_ADJ:0 "하이데라바드"
-
-HYD_accelerationism:0 "하이데라바드"
-HYD_accelerationism_DEF:0 "하이데라바드"
-HYD_accelerationism_ADJ:0 "하이데라바드"
 #PARTIES#
+HYD_vanguard_socialism_party:0 "HSRA"
+HYD_libertarian_marxism_party:0 "ICSP"
+HYD_revolutionary_anarchism_party:0 "PSU"
+HYD_revisionist_socialism_party:0 "AS"
+HYD_social_democratism_party:0 "INCR"
+HYD_liberalism_party:0 "MIMLF"
+HYD_conservatism_party:0 "MIM"
+HYD_right_authoritarianism_party:0 "MIMRF"
+HYD_despotism_party:0 "NDS"
+HYD_reactionism_party:0 "MIM RM"
+HYD_accelerationism_party:0 "FfP"
+
 HYD_vanguard_socialism_party:0 "힌두스탄 공화사회주의 협회"
 HYD_libertarian_marxism_party:0 "인도 회의 사회주의당"
 HYD_revolutionary_anarchism-party:0 "농민 생디칼리스트 연합"
