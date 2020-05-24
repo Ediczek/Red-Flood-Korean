@@ -1,0 +1,50 @@
+﻿l_english:
+#COUNTRY NAME#
+
+MAN_JAP_right_authoritarianism:0 "Mantetsu"
+MAN_JAP_right_authoritarianism_DEF:0 "Mantetsu"
+MAN_JAP_right_authoritarianism_ADJ:0 "Mantetsu"
+MAN_subject:0 "만철"
+
+#PARTIES#
+
+MAN_vanguard_socialism_party:0 "MVP"
+MAN_vanguard_socialism_party_long:0 "Manchurian Vanguard Party"
+MAN_libertarian_marxism_party:0 "MMP"
+MAN_libertarian_marxism_party_long:0 "Manchurian Marxist Party"
+MAN_revolutionary_anarchism_party:0 "JPC"
+MAN_revolutionary_anarchism_party_long:0 "Jurchen People's Clan"
+MAN_revisionist_socialism_party:0 "MSP"
+MAN_revisionist_socialism_party_long:0 "Manchu Socialist Party"
+MAN_social_democratism_party:0 "MFP"
+MAN_social_democratism_party_long:0 "Manchuria Freedom and Prosperity Party"
+MAN_liberalism_party:0 "MRP-L"
+MAN_liberalism_party_long:0 "Manchuria Republican Party - Liberals"
+MAN_conservatism_party:0 "MRP-C"
+MAN_conservatism_party_long:0 "Manchuria Republican Party - Conservatives"
+MAN_right_authoritarianism_party:0 "KMA"
+MAN_right_authoritarianism_party_long:0 "Kwantung Manchuria Authority"
+MAN_despotism_party:0 "KMG"
+MAN_despotism_party_long:0 "Kwantung Military Governorate"
+MAN_reactionism_party:0 "Restorationists"
+MAN_reactionism_party_long:0 "Qing Restorationist Front"
+MAN_accelerationism_party:0 "TZMM"
+MAN_accelerationism_party_long:0 "Technocratic Zaibatsu Mandate - Mantetsu"
+
+#LEADER DESCRITIONS#
+
+#IDEAS#
+
+MAN_corporate_playground:0 "기업의 놀이터"
+MAN_manchurian_guerillas:0 "만주 유격대"
+MAN_kwantung_abuses:0 "Kwantung Abuses"
+MAN_harbin_refugees:0 "만주 난민"
+MAN_imperial_base:0 "Imperial Base"
+MAN_fengtian:0 "봉천군"
+
+#CUSTOM TOOLTIPS AND FLAGS#
+
+#DECISIONS (1.5 Update)#
+
+#FOCUSES#
+
