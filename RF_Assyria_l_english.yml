@@ -1,52 +1,5 @@
 ﻿l_english:
-#COUNTRY NAME#
-ASY_vanguard_socialism:0 "아시리아"
-ASY_vanguard_socialism_DEF:0 "아시리아"
-ASY_vanguard_socialism_ADJ:0 "아시리아"
 
-ASY_libertarian_marxism:0 "아시리아"
-ASY_libertarian_marxism_DEF:0 "아시리아"
-ASY_libertarian_marxism_ADJ:0 "아시리아"
-
-ASY_revolutionary_anarchism:0 "아시리아"
-ASY_revolutionary_anarchism_DEF:0 "아시리아"
-ASY_revolutionary_anarchism_ADJ:0 "아시리아"
-
-ASY_revisionist_socialism:0 "아시리아"
-ASY_revisionist_socialism_DEF:0 "아시리아"
-ASY_revisionist_socialism_ADJ:0 "아시리아"
-
-ASY_social_democratism:0 "아시리아"
-ASY_social_democratism_DEF:0 "아시리아"
-ASY_social_democratism_ADJ:0 "아시리아"
-
-ASY_placeholderism:0 "아시리아"
-ASY_placeholderism_DEF:0 "아시리아"
-ASY_placeholderism_ADJ:0 "아시리아"
-
-ASY_liberalism:0 "아시리아"
-ASY_liberalism_DEF:0 "아시리아"
-ASY_liberalism_ADJ:0 "아시리아"
-
-ASY_conservatism:0 "아시리아"
-ASY_conservatism_DEF:0 "아시리아"
-ASY_conservatism_ADJ:0 "아시리아"
-
-ASY_right_authoritarianism:0 "아시리아"
-ASY_right_authoritarianism_DEF:0 "아시리아"
-ASY_right_authoritarianism_ADJ:0 "아시리아"
-
-ASY_despotism:0 "아시리아"
-ASY_despotism_DEF:0 "아시리아"
-ASY_despotism_ADJ:0 "아시리아"
-
-ASY_reactionism:0 "아시리아"
-ASY_reactionism_DEF:0 "아시리아"
-ASY_reactionism_ADJ:0 "아시리아"
-
-ASY_accelerationism:0 "아시리아"
-ASY_accelerationism_DEF:0 "아시리아"
-ASY_accelerationism_ADJ:0 "아시리아"
 #PARTIES#
 ASY_vanguard_socialism_party:0 "GSA"
 ASY_libertarian_marxism_party:0 "GSA"
