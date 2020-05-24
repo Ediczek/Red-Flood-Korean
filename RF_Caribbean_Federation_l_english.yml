@@ -1,52 +1,5 @@
 ﻿l_english:
-#COUNTRY NAME#
-CYN_vanguard_socialism:0 "카리브 인민공화국"
-CYN_vanguard_socialism_DEF:0 "카리브"
-CYN_vanguard_socialism_ADJ:0 "카리브"
 
-CYN_libertarian_marxism:0 "카리브 인민공화국"
-CYN_libertarian_marxism_DEF:0 "카리브"
-CYN_libertarian_marxism_ADJ:0 "카리브"
-
-CYN_revolutionary_anarchism:0 "카리브 자유령"
-CYN_revolutionary_anarchism_DEF:0 "카리브"
-CYN_revolutionary_anarchism_ADJ:0 "카리브"
-
-CYN_revisionist_socialism:0 "카리브 인민공화국"
-CYN_revisionist_socialism_DEF:0 "카리브"
-CYN_revisionist_socialism_ADJ:0 "카리브"
-
-CYN_social_democratism:0 "카리브 연방"
-CYN_social_democratism_DEF:0 "카리브"
-CYN_social_democratism_ADJ:0 "카리브"
-
-CYN_placeholderism:0 "카리브 연방"
-CYN_placeholderism_DEF:0 "카리브"
-CYN_placeholderism_ADJ:0 "카리브"
-
-CYN_liberalism:0 "카리브 연방"
-CYN_liberalism_DEF:0 "카리브"
-CYN_liberalism_ADJ:0 "카리브"
-
-CYN_conservatism:0 "카리브 연방"
-CYN_conservatism_DEF:0 "카리브"
-CYN_conservatism_ADJ:0 "카리브"
-
-CYN_right_authoritarianism:0 "카리브 연방"
-CYN_right_authoritarianism_DEF:0 "카리브"
-CYN_right_authoritarianism_ADJ:0 "카리브"
-
-CYN_despotism:0 "카리브 임시정부"
-CYN_despotism_DEF:0 "카리브"
-CYN_despotism_ADJ:0 "카리브"
-
-CYN_reactionism:0 "카리브 제후령"
-CYN_reactionism_DEF:0 "카리브"
-CYN_reactionism_ADJ:0 "카리브"
-
-CYN_accelerationism:0 "미래주의 카리브"
-CYN_accelerationism_DEF:0 "카리브"
-CYN_accelerationism_ADJ:0 "카리브"
 #PARTIES#
 CYN_vanguard_socialism_party:0 "PLS"
 CYN_vanguard_socialism_party_long:0 "카리브 레닌주의당"
