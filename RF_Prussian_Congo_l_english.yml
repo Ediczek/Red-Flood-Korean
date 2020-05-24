@@ -1,52 +1,6 @@
 ﻿l_english:
 #COUNTRY NAME#
-PCN_vanguard_socialism:0 "프로이센령 콩고 인민공화국"
-PCN_vanguard_socialism_DEF:0 "프로이센령 콩고"
-PCN_vanguard_socialism_ADJ:0 "프로이센령 콩고"
 
-PCN_libertarian_marxism:0 "프로이센령 콩고 인민공화국"
-PCN_libertarian_marxism_DEF:0 "프로이센령 콩고"
-PCN_libertarian_marxism_ADJ:0 "프로이센령 콩고"
-
-PCN_revolutionary_anarchism:0 "프로이센령 콩고 자유령"
-PCN_revolutionary_anarchism_DEF:0 "프로이센령 콩고 자유령"
-PCN_revolutionary_anarchism_ADJ:0 "프로이센령 콩고 자유령"
-
-PCN_revisionist_socialism:0 "프로이센령 콩고 인민공화국"
-PCN_revisionist_socialism_DEF:0 "프로이센령 콩고"
-PCN_revisionist_socialism_ADJ:0 "프로이센령 콩고"
-
-PCN_social_democratism:0 "프로이센령 콩고"
-PCN_social_democratism_DEF:0 "프로이센령 콩고"
-PCN_social_democratism_ADJ:0 "프로이센령 콩고"
-
-PCN_placeholderism:0 "프로이센령 콩고"
-PCN_placeholderism_DEF:0 "프로이센령 콩고"
-PCN_placeholderism_ADJ:0 "프로이센령 콩고"
-
-PCN_liberalism:0 "프로이센령 콩고"
-PCN_liberalism_DEF:0 "프로이센령 콩고"
-PCN_liberalism_ADJ:0 "프로이센령 콩고"
-
-PCN_conservatism:0 "프로이센령 콩고"
-PCN_conservatism_DEF:0 "프로이센령 콩고"
-PCN_conservatism_ADJ:0 "프로이센령 콩고"
-
-PCN_right_authoritarianism:0 "프로이센령 콩고"
-PCN_right_authoritarianism_DEF:0 "프로이센령 콩고"
-PCN_right_authoritarianism_ADJ:0 "프로이센령 콩고"
-
-PCN_despotism:0 "프로이센령 콩고"
-PCN_despotism_DEF:0 "프로이센령 콩고"
-PCN_despotism_ADJ:0 "프로이센령 콩고"
-
-PCN_reactionism:0 "프로이센령 콩고"
-PCN_reactionism_DEF:0 "프로이센령 콩고"
-PCN_reactionism_ADJ:0 "프로이센령 콩고"
-
-PCN_accelerationism:0 "프로이센령 콩고 미래주의국"
-PCN_accelerationism_DEF:0 "프로이센령 콩고 미래주의국"
-PCN_accelerationism_ADJ:0 "프로이센령 콩고 미래주의국"
 #PARTIES#
 PCN_vanguard_socialism_party:0 "FLNS"
 PCN_vanguard_socialism_party_long:0 "프로이센령 콩고 민족해방전선"
@@ -93,18 +47,23 @@ PCN_renewed_thirst:0 "군국주의 환기"
 PCN_renewed_thirst_desc:0 ""
 PCN_domination:0 "지배확정"
 PCN_domination_desc:0 ""
+PCN_industrialized:0 "산업개혁"
+PCN_industrialized_desc:0 ""
+
 #CUSTOM TOOLTIPS AND FLAGS#
 PCN_Conquered_Congo_tt:0 "콩고 정복 완료"
 
 #DECISIONS (1.5 Update)#
 
 #MINISTERS#
+PCN_Ernst_Junger_hog:0 "에른스트 윙어"
 PCN_Hans_Huttig_hog:0 "한스 휘티히"
 PCN_Louis_Brody_hog:0 "루이 브로디"
 PCN_Theodor_von_Hippel_fom:0 "테오도어 폰 히펠"
 PCN_Paul_Von_Lettow_eco:0 "파울 폰 레토-포어베크"
+PCN_Heinrich_Kirchheim_sec:0 "하인리히 키르히하임"
 PCN_Julian_Scherner_int:0 "율리안 셰르너"
-PCN_Muhammed_Husan_cof:0 "무함마드 하산"
+PCN_Muhammed_Husan_cof:0 "무함마드 후산"
 
 
 #FOCUSES#
