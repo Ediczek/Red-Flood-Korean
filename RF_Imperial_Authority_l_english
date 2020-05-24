@@ -1,8 +1,6 @@
 ﻿l_english:
 #Country_name#
-TAN_reactionism:0 "황권"
-TAN_reactionism_DEF:0 "황권"
-TAN_reactionism_ADJ:0 "남작의"
+
 #Parties#
 TAN_reactionism_party:0 "전투 불교도"
 TAN_reactionism_party_long:0 "전투 불교도 기사단"
