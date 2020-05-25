@@ -1,53 +1,18 @@
 ﻿l_english:
 #COUNTRY NAME#
-TRA_vanguard_socialism:0 "트라방코르"
-TRA_vanguard_socialism_DEF:0 "트라방코르"
-TRA_vanguard_socialism_ADJ:0 "트라방코르"
 
-TRA_libertarian_marxism:0 "트라방코르"
-TRA_libertarian_marxism_DEF:0 "트라방코르"
-TRA_libertarian_marxism_ADJ:0 "트라방코르"
-
-TRA_revolutionary_anarchism:0 "트라방코르"
-TRA_revolutionary_anarchism_DEF:0 "트라방코르"
-TRA_revolutionary_anarchism_ADJ:0 "트라방코르"
-
-TRA_revisionist_socialism:0 "트라방코르"
-TRA_revisionist_socialism_DEF:0 "트라방코르"
-TRA_revisionist_socialism_ADJ:0 "트라방코르"
-
-TRA_social_democratism:0 "트라방코르"
-TRA_social_democratism_DEF:0 "트라방코르"
-TRA_social_democratism_ADJ:0 "트라방코르"
-
-TRA_placeholderism:0 "트라방코르"
-TRA_placeholderism_DEF:0 "트라방코르"
-TRA_placeholderism_ADJ:0 "트라방코르"
-
-TRA_liberalism:0 "트라방코르"
-TRA_liberalism_DEF:0 "트라방코르"
-TRA_liberalism_ADJ:0 "트라방코르"
-
-TRA_conservatism:0 "트라방코르"
-TRA_conservatism_DEF:0 "트라방코르"
-TRA_conservatism_ADJ:0 "트라방코르"
-
-TRA_right_authoritarianism:0 "트라방코르"
-TRA_right_authoritarianism_DEF:0 "트라방코르"
-TRA_right_authoritarianism_ADJ:0 "트라방코르"
-
-TRA_despotism:0 "트라방코르 왕국"
-TRA_despotism_DEF:0 "트라방코르"
-TRA_despotism_ADJ:0 "트라방코르"
-
-TRA_reactionism:0 "트라방코르 왕국"
-TRA_reactionism_DEF:0 "트라방코르"
-TRA_reactionism_ADJ:0 "트라방코르"
-
-TRA_accelerationism:0 "트라방코르 기술국"
-TRA_accelerationism_DEF:0 "트라방코르"
-TRA_accelerationism_ADJ:0 "트라방코르"
 #PARTIES#
+TRA_vanguard_socialism_party:0 "HSRA"
+TRA_libertarian_marxism_party:0 "LSF"
+TRA_revolutionary_anarchism_party:0 "TSF"
+TRA_revisionist_socialism_party:0 "DK"
+TRA_social_democratism_party:0 "JP"
+TRA_liberalism_party:0 "INC"
+TRA_conservatism_party:0 "CTL"
+TRA_right_authoritarianism_party:0 "군사평의회 지지파"
+TRA_despotism_party:0 "군주주의 지지파"
+TRA_reactionism_party:0 "RSS"
+TRA_accelerationism_party:0 "FpF"
 TRA_vanguard_socialism_party:0 "힌두스탄 사회주의 공화협회"
 TRA_libertarian_marxism_party:0 "자유지상주의적 사회주의 파벌"
 TRA_revolutionary_anarchism_party:0 "트라방코르 생디칼리스트 파벌"
