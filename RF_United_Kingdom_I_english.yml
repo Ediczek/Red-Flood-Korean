@@ -1,52 +1,6 @@
 ﻿l_english:
 #COUNTRY NAME#
-ENG_vanguard_socialism:0 "대영 소비에트 공화국"
-ENG_vanguard_socialism_DEF:0 "대영 소비에트 공화국"
-ENG_vanguard_socialism_ADJ:0 "영국"
 
-ENG_libertarian_marxism:0 "브리튼 인민 연방"
-ENG_libertarian_marxism_DEF:0 "브리튼 인민 연방"
-ENG_libertarian_marxism_ADJ:0 "영국"
-
-ENG_revolutionary_anarchism:0 브리튼 인민 연방"
-ENG_revolutionary_anarchism_DEF:0 "브리튼 인민 연방"
-ENG_revolutionary_anarchism_ADJ:0 "영국"
-
-ENG_revisionist_socialism:0 "브리튼 인민 연방"
-ENG_revisionist_socialism_DEF:0 "브리튼 인민 연방"
-ENG_revisionist_socialism_ADJ:0 "영국"
-
-ENG_social_democratism:0 "영국"
-ENG_social_democratism_DEF:0 "영국"
-ENG_social_democratism_ADJ:0 "영국"
-
-ENG_placeholderism:0 "영국"
-ENG_placeholderism_DEF:0 "영국"
-ENG_placeholderism_ADJ:0 "영국"
-
-ENG_liberalism:0 "영국"
-ENG_liberalism_DEF:0 "영국"
-ENG_liberalism_ADJ:0 "영국"
-
-ENG_conservatism:0 "영국"
-ENG_conservatism_DEF:0 "영국"
-ENG_conservatism_ADJ:0 "영국"
-
-ENG_right_authoritarianism:0 "영국"
-ENG_right_authoritarianism_DEF:0 "영국"
-ENG_right_authoritarianism_ADJ:0 "영국"
-
-ENG_despotism:0 "영국"
-ENG_despotism_DEF:0 "영국"
-ENG_despotism_ADJ:0 "영국"
-
-ENG_reactionism:0 "영국"
-ENG_reactionism_DEF:0 "영국"
-ENG_reactionism_ADJ:0 "영국"
-
-ENG_accelerationism:0 "브리튼 기술국"
-ENG_accelerationism_DEF:0 "영국"
-ENG_accelerationism_ADJ:0 "영국"
 #BOOKMARKS#
 UNITED_KINGDOM_DESC:0 "대전쟁에서 승리한 영국은 수많은 젊은이의 목숨으로 승리의 대가를 치렀습니다. 영국은 1920년대에 적대국들에게 위협받지 않는 세계 유일의 초강대국으로 번영했습니다. 1931년의 총파업과 수상의 암살은 이 모든 것을 무너뜨리고 1934년의 경제 붕괴와 뒤이어 "대공황"으로 이어졌습니다. 이젠 수많은 태양이 져가는 바로 그 제국이 이제는 왕국의 약점이 되었습니다. 3월에 선거가 치러지는 동안, 많은 사람들은 새 정부가 나라를 구할 수 있을지에 대해 궁금해 하고 있습니다. "
 #PARTIES#
@@ -59,7 +13,7 @@ ENG_liberalism_party:0 "자유당"
 ENG_conservatism_party:0 "보수당"
 ENG_right_authoritarianism_party:0 "사회신용당"
 ENG_despotism_party:0 "브리타니아 통합당"
-ENG_reactionism_party:0 "북유럽 연맹"
+ENG_reactionism_party:0 "노르드 연맹"
 ENG_accelerationism_party:0 "소용돌이파 운동"
 #LEADER DESCRITIONS#
 politics_edward_viii_desc:0 "영국의 왕이자 대영제국의 지배자인 에드워드 8세는 아버지 조지 5세를 따라 1927년 11월 패혈증 투병 끝에 왕위에 올랐습니다. 그의 통치하에서 영국은 권력의 정점에 도달했고 그 후 아서 헨더슨 수상의 암살, 런던 주식시장의 붕괴와 영국령 인도의 붕괴로 쇠퇴했습니다. 에드워드는 간통 스캔들과 급진적 운동에 대한 정치적 동정심 때문에 영국 정부에 방해가 되었습니다. 정부는 그의 전 정부인 셀마 퍼니스와의 결혼을 희망했지만, 에드워드는 그의 오랜 방식을 계속 이어갔습니다. 에드워드의 통치는 정부가 에드워드로부터 얼마나 많은 것을 기꺼이 받아들이고 그가 얼마나 그들을 밀어붙이는가에 달려 있습니다."
