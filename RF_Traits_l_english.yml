@@ -1,12 +1,12 @@
 ﻿l_english:
 
 #Country Specific
-sec_illegalist_terrorist:0 "Illegalist Terrorist"
-int_iron_fisted_renegade:0 "Iron-Fisted Renegade"
+sec_illegalist_terrorist:0 "탈법주의 테러리스트"
+int_iron_fisted_renegade:0 "철권의 변절자"
 #Altay#
-ALT_despotic_loyalist:0 "Despotic Loyalist"
-ALT_altaic_mystic:0 "Altaic Mystic"
-ALT_yukat_explorer:0 "Yakut Explorer"
+ALT_despotic_loyalist:0 "전제적 충성파"
+ALT_altaic_mystic:0 "알타이의 신비가"
+ALT_yukat_explorer:0 "야쿠티야 탐험가"
 
 
 ### From DH ###
