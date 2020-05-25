@@ -1,52 +1,6 @@
 ﻿l_english:
 #COUNTRY NAME#
-TUA_vanguard_socialism:0 "니제르 인민공화국"
-TUA_vanguard_socialism_DEF:0 "니제르"
-TUA_vanguard_socialism_ADJ:0 "니제르"
 
-TUA_libertarian_marxism:0 "니제르 인민공화국"
-TUA_libertarian_marxism_DEF:0 "니제르 인민공화국"
-TUA_libertarian_marxism_ADJ:0 "니제르"
-
-TUA_revolutionary_anarchism:0 "투아레그 자유령"
-TUA_revolutionary_anarchism_DEF:0 "투아레그 자유령"
-TUA_revolutionary_anarchism_ADJ:0 "투아레그"
-
-TUA_revisionist_socialism:0 "니제르 인민공화국"
-TUA_revisionist_socialism_DEF:0 "니제르"
-TUA_revisionist_socialism_ADJ:0 "니제르"
-
-TUA_social_democratism:0 "니제르"
-TUA_social_democratism_DEF:0 "니제르"
-TUA_social_democratism_ADJ:0 "니제르"
-
-TUA_placeholderism:0 "니제르"
-TUA_placeholderism_DEF:0 "니제르"
-TUA_placeholderism_ADJ:0 "니제르"
-
-TUA_liberalism:0 "니제르"
-TUA_liberalism_DEF:0 "니제르"
-TUA_liberalism_ADJ:0 "니제르"
-
-TUA_conservatism:0 "니제르"
-TUA_conservatism_DEF:0 "니제르"
-TUA_conservatism_ADJ:0 "니제르"
-
-TUA_right_authoritarianism:0 "니제르"
-TUA_right_authoritarianism_DEF:0 "니제르"
-TUA_right_authoritarianism_ADJ:0 "니제르"
-
-TUA_despotism:0 "투아레그 자유령"
-TUA_despotism_DEF:0 "투아레그 자유령"
-TUA_despotism_ADJ:0 "투아레그"
-
-TUA_reactionism:0 "투아레그 자유령"
-TUA_reactionism_DEF:0 "투아레그 자유령"
-TUA_reactionism_ADJ:0 "투아레그"
-
-TUA_accelerationism:0 "니제르"
-TUA_accelerationism_DEF:0 "니제르"
-TUA_accelerationism_ADJ:0 "니제르"
 #PARTIES#
 TUA_vanguard_socialism_party:0 "PLN"
 TUA_vanguard_socialism_party_long:0 "니제르 레닌주의당"
@@ -75,3 +29,38 @@ TUA_accelerationism_party_long:0 "미래주의파"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
+TUA_free_territory:0 "자유령"
+TUA_free_territory_desc:0 ""
+TUA_eternally_fighting_clans:0 "Eternally Fighting Clans"
+TUA_eternally_fighting_clans_desc:0 ""
+TUA_saharan_slave_trade:0 "Saharan Slave Trade"
+TUA_saharan_slave_trade_desc:0 ""
+TUA_islamic_faith:0 "Unshakeable Faith in Allah"
+TUA_islamic_faith_desc:0 ""
+TUA_former_french_rule:0 "Former French Rule"
+TUA_former_french_rule_desc:0 ""
+TUA_shifting_sands:0 "Shifting Sands"
+TUA_the_unifier:0 "The Unifier"
+TUA_the_unifier_desc:0 ""
+TUA_amenukal_of_tuareg:0 "Amenukal of Tuareg"
+TUA_amenukal_of_tuareg_desc:0 ""
+TUA_preserve_traditions:0 "Keep Traditions Safe"
+TUA_preserve_traditions_desc:0 ""
+TUA_tuareg_identity:0 "Tuareg Identity"
+TUA_tuareg_identity_desc:0 ""
+TUA_traditional_slavery:0 "Traditional Slavery"
+TUA_traditional_slavery_desc:0 ""
+TUA_ensure_clan_loyalty:0 "Ensure Clan Loyalty"
+TUA_ensure_clan_loyalty_desc:0 ""
+TUA_faith_in_allah:0 "Faith in Allah"
+TUA_faith_in_allah_desc:0 ""
+TUA_is_faith_in_amenukal:0 "Is Faith in Amenukal"
+TUA_is_faith_in_amenukal_desc:0 ""
+TUA_warrior_spirit:0 "Warrior Spirit"
+TUA_warrior_spirit_desc:0 ""
+TUA_sand_raiders:0 "Sand Raiders"
+TUA_sand_raiders_desc:0 ""
+TUA_ikelan_warriors:0 "Ikelan Warriors"
+TUA_ikelan_warriors_desc:0 ""
+TUA_clans_united_under_amenukal:0 "Clans United Under Amenukal"
+TUA_clans_united_under_amenukal_desc:0 ""
