@@ -3,6 +3,11 @@
 #Country Specific
 sec_illegalist_terrorist:0 "Illegalist Terrorist"
 int_iron_fisted_renegade:0 "Iron-Fisted Renegade"
+#Altay#
+ALT_despotic_loyalist:0 "Despotic Loyalist"
+ALT_altaic_mystic:0 "Altaic Mystic"
+ALT_yukat_explorer:0 "Yakut Explorer"
+
 
 ### From DH ###
 undistinguished_suit:0 "Undistinguished Suit"
