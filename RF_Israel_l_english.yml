@@ -7,14 +7,14 @@
 #MINISTERS#
 taas:0 "Ta'as"
 rothschildcompany:0 "Rothschild C. Fund"
-ISR_dayan:0 "Moshe Dayan"
-ISR_dori:0 "Yaakov Dori"
-ISR_sternchief:0 "Yair Stern"
+ISR_dayan:0 "모셰 다얀"
+ISR_dori:0 "아코프 도리"
+ISR_sternchief:0 "야이르 쉬테른"
 
 #CUSTOM TOOLTIPS AND FLAGS#
 #TRAITS#
-small_elite_leader:0 "Specailized Leader"
-ISR_dayan_trait:0 "School of Administration"
+small_elite_leader:0 "특화 지도자"
+ISR_dayan_trait:0 "행정학파"
 
 #DECISIONS (1.5 Update)#
 #FOCUSES#
