@@ -1,52 +1,6 @@
 ﻿l_english:
 #COUNTRY NAME#
-ITA_vanguard_socialism:0 "이탈리아 코뮌"
-ITA_vanguard_socialism_DEF:0 "이탈리아 코뮌"
-ITA_vanguard_socialism_ADJ:0 "이탈리아"
 
-ITA_libertarian_marxism:0 "이탈리아 코뮌"
-ITA_libertarian_marxism_DEF:0 "이탈리아 코뮌"
-ITA_libertarian_marxism_ADJ:0 "이탈리아"
-
-ITA_revolutionary_anarchism:0 "이탈리아 코뮌"
-ITA_revolutionary_anarchism_DEF:0 "이탈리아 코뮌"
-ITA_revolutionary_anarchism_ADJ:0 "이탈리아"
-
-ITA_revisionist_socialism:0 "이탈리아 코뮌"
-ITA_revisionist_socialism_DEF:0 "이탈리아 코뮌"
-ITA_revisionist_socialism_ADJ:0 "이탈리아"
-
-ITA_social_democratism:0 "이탈리아 왕국"
-ITA_social_democratism_DEF:0 "이탈리아 왕국"
-ITA_social_democratism_ADJ:0 "이탈리아"
-
-ITA_placeholderism:0 "이탈리아 왕국"
-ITA_placeholderism_DEF:0 "이탈리아 왕국"
-ITA_placeholderism_ADJ:0 "이탈리아"
-
-ITA_liberalism:0 "이탈리아 왕국"
-ITA_liberalism_DEF:0 "이탈리아 왕국"
-ITA_liberalism_ADJ:0 "이탈리아"
-
-ITA_conservatism:0 "이탈리아 왕국"
-ITA_conservatism_DEF:0 "이탈리아 왕국"
-ITA_conservatism_ADJ:0 "이탈리아"
-
-ITA_right_authoritarianism:0 "이탈리아 왕국"
-ITA_right_authoritarianism_DEF:0 "이탈리아 왕국"
-ITA_right_authoritarianism_ADJ:0 "이탈리아"
-
-ITA_despotism:0 "이탈리아 왕국"
-ITA_despotism_DEF:0 "이탈리아 왕국"
-ITA_despotism_ADJ:0 "이탈리아"
-
-ITA_reactionism:0 "이탈리아 왕국"
-ITA_reactionism_DEF:0 "이탈리아 왕국"
-ITA_reactionism_ADJ:0 "이탈리아"
-
-ITA_accelerationism:0 "이탈리아 왕국"
-ITA_accelerationism_DEF:0 "이탈리아 왕국"
-ITA_accelerationism_ADJ:0 "이탈리아"
 #Bookmarks#
 ITALIAN_EMPIRE_DESC:0 "이탈리아 왕국은 아마 대전에서의 가장 위대한 승리자일 것입니다. 그러나 그 이득은 많은 대가를 치르고 얻은 것이었습니다. 제국은 지나치게 팽창하였으며, 경제는 멈춰섰고, 군은 20년 동안 침체되었습니다. 그럼에도 집권당인 이탈리아 통합민주당의 힘은 이탈리아를 유럽 자유주의의 유일한 보루로 만들었습니다. 그게 얼마나 오래 갈 수 있을까요?"
 #PARTIES#
@@ -74,6 +28,7 @@ ITA_right_authoritarianism_party_long:0 "리스타 나치오날레"
 ITA_despotism_party_long:0 "리스타 나치오날레"
 ITA_reactionism_party_long:0 "리스타 나치오날레"
 ITA_accelerationism_party_long:0 "카르나리스티"
+
 #LEADER DESCRITIONS#
 #Old IDEAS#
 ITA_italian_constitution:0 "이탈리아 왕국 헌법"
@@ -95,6 +50,36 @@ ITA_bulwark_of_democracy:0 "민주주의의 보호국"
 ITA_victor_emmanuel:0 "비토리오 에마누엘레"
 ITA_the_libyan_war:0 "리비아 전쟁"
 ITA_lagging_south:0 "덜떨어진 남부"
+ITA_ineffective_military1:0 "Ineffective Military"
+ITA_ineffective_military2:0 "Ineffective Military"
+ITA_nation_above_all:0 "Nation Above all"
+ITA_nation_above_all_1:0 "Nation Above all"
+ITA_nation_above_all_2:0 "Nation Above all"
+ITA_italian_imperialism:0 "Culture, Not Race"
+ITA_italian_family:0 "Inflating the Birth rate"
+ITA_pacified_unions:0 "Pacified Unions"
+ITA_balbo_strategy:0 "The National Strategy"
+ITA_balbo_strategy_1:0 "The National Strategy"
+ITA_staff_innovations:0 "Staff Innovations"
+ITA_back_to_stoneage:0 "Back To The Stone Age"
+ITA_swelling_ranks:0 "The Swelling Ranks"
+ITA_swelling_ranks_1:0 "The Swelling Ranks"
+ITA_swelling_ranks_2:0 "The Swelling Ranks"
+ITA_opening_moves:0 "Opening Moves"
+ITA_opening_moves_1:0 "Opening Moves"
+
+#CUSTOM TOOLTIPS AND FLAGS#
+ITA_soc_con:0 "Social Conservative Italy"
+ITA_soc_lib:0 "Social Liberal Italy"
+ITA_natrej_starter:0 "National Rejuvanationist Italy"
+ITA_rome:0 "Rome rises again!"
+ITA_increase_power:0 "§HThis will increase your religious influence§H"
+ITA_massive_power:0 "§YThis will greatly increase your religious influence§Y"
+ITA_catholics_angered:0 "§RCatholic resistance will strengthen§R"
+ITA_catholics_submit:0 "§GCatholic resistance will weaken§G"
+ITA_evolian_influence:0 "The Legion will gain power"
+ITA_attack_modernism:0 "§gThe Legion will declare an attack on Modernist institutions for some time§g"
+ITA_order_restored:0 "§GOrder Shall be Restored§G"
 
 #Evola IDEAS#
 ITA_spiritual_power_1:0 "Evolian Fringe"
