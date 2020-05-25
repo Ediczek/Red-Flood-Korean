@@ -1,55 +1,11 @@
-﻿#################################
+﻿l_english:
+ 
+#################################
 #	JAPANESE LOC - BABA		#
 #################################
-l_english:
+
 #COUNTRY NAME#
-JAP_vanguard_socialism:0 "일본인민공화국"
-JAP_vanguard_socialism_DEF:0 "일본"
-JAP_vanguard_socialism_ADJ:0 "일본"
 
-JAP_libertarian_marxism:0 "일본인민공화국"
-JAP_libertarian_marxism_DEF:0 "일본"
-JAP_libertarian_marxism_ADJ:0 "일본"
-
-JAP_revolutionary_anarchism:0 "혁명 일본"
-JAP_revolutionary_anarchism_DEF:0 "일본"
-JAP_revolutionary_anarchism_ADJ:0 "일본"
-
-JAP_revisionist_socialism:0 "일본 사회주의 공화국"
-JAP_revisionist_socialism_DEF:0 "일본"
-JAP_revisionist_socialism_ADJ:0 "일본"
-
-JAP_social_democratism:0 "일본 공화국"
-JAP_social_democratism_DEF:0 "일본"
-JAP_social_democratism_ADJ:0 "일본"
-
-JAP_placeholderism:0 "일본"
-JAP_placeholderism_DEF:0 "일본"
-JAP_placeholderism_ADJ:0 "일본"
-
-JAP_liberalism:0 "일본"
-JAP_liberalism_DEF:0 "일본"
-JAP_liberalism_ADJ:0 "일본"
-
-JAP_conservatism:0 "일본"
-JAP_conservatism_DEF:0 "일본"
-JAP_conservatism_ADJ:0 "일본"
-
-JAP_right_authoritarianism:0 "일본"
-JAP_right_authoritarianism_DEF:0 "일본"
-JAP_right_authoritarianism_ADJ:0 "일본"
-
-JAP_despotism:0 "일본 제국"
-JAP_despotism_DEF:0 "일본"
-JAP_despotism_ADJ:0 "일본"
-
-JAP_reactionism:0 "일본 제국"
-JAP_reactionism_DEF:0 "일본"
-JAP_reactionism_ADJ:0 "일본"
-
-JAP_accelerationism:0 "일본"
-JAP_accelerationism_DEF:0 "일본"
-JAP_accelerationism_ADJ:0 "일본"
 #PARTIES#
 JAP_vanguard_socialism_party:0 "일본노동당(흥아파)"
 JAP_libertarian_marxism_party:0 "일본노동당(카쿠마루파)"
@@ -86,7 +42,9 @@ POLITICS_TAKIJI_KOBAYASHI_DESC:0 ""
 POLITICS_ICHIKO_KAMICHIKA_DESC:0 ""
 POLITICS_NOBUHITO_DESC:0 ""
 #POLITICS_SEIGO_NAKANO_DESC:0 ""
+
 #IDEAS#
+
 #starting#
 JAP_yasuhito:0 "야스히토"
 JAP_yasuhito_desc:0 "야스히토"
@@ -103,9 +61,11 @@ JAP_divided_military_army:0 "분열된 군대 - 육군 우세"
 JAP_divided_military_army_desc:0 "분열된 군대 - 육군 우세"
 JAP_divided_military_navy:0 "분열된 군대 - 해군 우세"
 JAP_divided_military_navy_desc:0 "분열된 군대 - 해군 우세"
+
 #crash#
 JAP_sunset_crash:0 "무너진 태양"
 JAP_sunset_crash_desc:0 "무너진 태양"
+
 #china#
 JAP_three_month_camp:0 "3개월 작전"
 JAP_three_month_camp_desc:0 "3개월 작전"
@@ -113,6 +73,7 @@ JAP_tributary_act:0 "속국법"
 JAP_tributary_act_desc:0 "속국법"
 JAP_litigation_blockade:0 "소송 봉쇄"
 JAP_litigation_blockade_desc:0 "소송 봉쇄"
+
 #imperial economy#
 JAP_bail_out:0 "재벌 구제"
 JAP_bail_out_desc:0 "재벌 구제"
@@ -122,9 +83,11 @@ JAP_business_palace:0 "궁궐에서의 거래"
 JAP_business_palace_desc:0 "궁궐에서의 거래"
 JAP_zaibatsu_mic:0 "재벌군수산업단지"
 JAP_zaibatsu_mic_desc:0 "재벌군수산업단지"
+
 #reform#
 JAP_reform_economy:0 "경제개혁"
 JAP_reform_economy_desc:0 "경제개혁"
+
 #commie economy#
 JAP_worker_coop:0 "노동협동조합"
 JAP_worker_coop_desc:0 "노동협동조합"
