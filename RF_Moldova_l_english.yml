@@ -31,17 +31,17 @@ MOL_accelerationism_party_long:0 "Frontul Renaterii Nationale"
 #LEADER DESCRITIONS#
 
 #IDEAS#
-MOL_slavic_separatism:0 "Slavic Separatism"
+MOL_slavic_separatism:0 "슬라브 분리주의"
 MOL_prepare_youngman_to_die_idea:0 "Prepare Youngman to die"
-MOL_cult_of_victory_idea:0 "Cult of Victory"
+MOL_cult_of_victory_idea:0 "승리 숭배"
 
 #CUSTOM TOOLTIPS AND FLAGS#"
 
 #DECISIONS (1.5 Update)#
-MOL_bomb_bucharest:0 "Bomb Bucharest"
+MOL_bomb_bucharest:0 "부쿠레쉬티 폭파"
 
 #EVENTS#
-moldova.1.t:0 "Revolution of Freedom"
+moldova.1.t:0 "자유혁명"
 moldova.1.d:0 "“We shall fight on beaches. We shall fight on streets. We shall fight till last one of us is dead. We shall never surrender”- Otaman Borovets addresed the ukrainian population of Bessarabia. just as ukrainian troops were crossing the Dniester. Proclamation of New Ukrainian confederation has happened. Khotyn and Akkerman are together in this struggle."
 moldova.1.a:0 "Deal with traitorous filth."
 moldova.1.b:0 "We shall fight for freedom (play as New Ukraine)."
@@ -51,7 +51,7 @@ moldova.2.a:0 "Hurrah for Socialsim!"
 
 
 #FOCUSES#
-MOL_moldovan_revolution:0 "Moldovan Revolution"
+MOL_moldovan_revolution:0 "몰도바 "
 MOL_moldovan_revolution_desc:0 "The time has finally come. No more Moldova is ruled by capitalists and dictators. Our revolution has finally succeeded. And now we are free to go our own socialist path. But socialism has only begun for it can only succeed if all the world is under socialist contro."
 MOL_set_up_emergency_council:0 "Set up Emergency Council"
 MOL_set_up_emergency_council_desc:0 "While our revolution succeeded it is not yet the end. And so Olga Bancic - great leader of our revolution - decided to put together an emergency council on which we shall decide our future and our next moves to stabilise current crisis."
