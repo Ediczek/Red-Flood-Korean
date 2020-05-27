@@ -1,0 +1,33 @@
+﻿l_english:
+#COUNTRY NAME#
+
+
+#PARTIES#
+AQT_revolutionary_anarchism_party:0 "Anarchists"
+AQT_revolutionary_anarchism_party_long:0 "Anarchist Groups"
+AQT_vanguard_socialism_party:0 "Turkbyuro-RSDRP"
+AQT_vanguard_socialism_party_long:0 "Turkbyuro of Russian Socialist Democratic Republican Party"
+AQT_libertarian_marxism_party:0 "Kazakh Red Army"
+AQT_libertarian_marxism_party_long:0 "Kazakh Red Army Loyalists"
+AQT_revisionist_socialism_party:0 "Úsh Júz"
+AQT_revisionist_socialism_party_long:0 "Úsh Júz"
+AQT_social_democratism_party:0 "Alash - L"
+AQT_social_democratism_party_long:0 "Alash Party - Left"
+AQT_liberalism_party:0 "Alash - M"
+AQT_liberalism_party_long:0 "Alash Party - Moderates"
+AQT_conservatism_party:0 "Alash - R"
+AQT_conservatism_party_long:0 "Alash Party - Right"
+AQT_right_authoritarianism_party:0 "Tribal Leaders"
+AQT_right_authoritarianism_party_long:0 "Regency Council of Tribal Leaders"
+AQT_despotism_party:0 "Tribal leaders"
+AQT_despotism_party_long:0 "Regency Council of Tribal Leaders"
+AQT_reactionism_party:0 "Basmachi"
+AQT_reactionism_party_long:0 "Basmachi"
+AQT_accelerationism_party:0 "Turanists"
+AQT_accelerationism_party_long:0 "Kazakh Turanist Faction"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
