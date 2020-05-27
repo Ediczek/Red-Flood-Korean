@@ -1,0 +1,29 @@
+﻿l_english:
+#COUNTRY NAME#
+SYR_subject:0 "$OVERLORDADJ$ 마쉬리크"
+SYR_subject_DEF:0 "$OVERLORDADJ$ 마쉬리크"
+
+SYR_IRQ:0 "미탄니"
+SYR_IRQ_DEF:0 "미탄니"
+
+KSYR_right_authoritarianism:0 "시리아 왕국"
+KSYR_right_authoritarianism_DEF:0 "시리아"
+KSYR_right_authoritarianism_ADJ:0 "시리아"
+
+SNP_accelerationism:0 "대마쉬리크"
+SNP_accelerationism_DEF:0 "대마쉬리크"
+SNP_accelerationism_ADJ:0 "마쉬리크"
+#PARTIES#
+SNP_accelerationism_party:0 "SSNP"
+SNP_accelerationism_party_long:0 "마쉬리크 사회민족주의당"
+#LEADER DESCRITIONS#
+#IDEAS#
+SYR_underground_resistance:0 "유대인 지하저항"
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+#EVENTS#
+syria.1.t:0 "북에서 사회민족주의당이 봉기하다!" 
+syria.1.desc:0 ""
+syria.1.a:0 "망할 혁명분자들!"
+syria.1.b:0 "곧 진정한 독립을 가지리라. (시리아 사회민족주의당으로 플레이)"
