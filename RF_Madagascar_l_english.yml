@@ -1,8 +1,10 @@
 ﻿l_english: 
+#FOCUSES#
 MAG_highwaysfrombothcapes:0 "두 곶을 잇는 고속도로"
 MAG_highwaysfrombothcapes_desc:0 ""
 MAG_demandtheport:0 "항구 요구"
-MAG_demandtheport_desc:0 ""
+MAG_demandthe
+#IDEAS#port_desc:0 ""
 MAG_strengthenmalagasyreligion:0 "말라가시 종교 강화"
 MAG_strengthenmalagasyreligion_desc:0 ""
 MAG_nationalmyth:0 "민족신화"
@@ -110,6 +112,7 @@ MAG_ourfirstcruiser_desc:0 ""
 MAG_consumerairports:0 "소비자 공항"
 MAG_consumerairports_desc:0 ""
 
+#IDEAS#
 mag_surrealisme:0 "민족초현실주의"
 mag_nationalmyth:0 "민족신화"
 mag_squadron:0 "미아라밀란니 마파나 요"
@@ -127,8 +130,7 @@ mag_refugees:0 "프랑스 난민"
 mag_localtribes:0 "현지 부족민병대"
 mag_welfare:0 "말라가시 복지"
 
-
-
+#EVENTS#
 mag.1.title:0 "여왕의 죽음"
 mag.1.desc:0 "오늘, 우리의 위대한 군주 라나발로나 3세가 색전증과의 오랜 싸움 끝에 가족들에 둘러싸여 생을 마쳤습니다. 후계자가 없다는 건 왕도 없다는 뜻이니, 이제 마다가스카르는 여왕의 죽음을 이용해 정부를 뒤집으려는 여러 파벌들에 따른 혼돈에 휩싸이게 되었습니다. 라베아리벨로의 프랑스 미래주의자들은 마다가스카르를 미래로 이끌기 위해 길거리에 쏟아져 나와 집결했으며, 장 랄라이몽고는 농민들에게 귀족에 맞서 일어서라 호소하고, 자유주의자들은 이상적인 민주정을 갖추고 중립적이고 독립적인 마다가스카르를 세우려 합니다. 이제 마다가스카르는 위기에 처했습니다. 마다가스카르의 미래가 어떻게 될진 아무도 확신할 수 없습니다. 그리고 이제..."
 mag.1.a:0 "마다가스카르가 자유공화국이 되다!"
@@ -155,3 +157,7 @@ mag.6.a:0 "민주정이여 영원하라."
 mag.7.title:0 "새 삶"
 mag.7.desc:0 "몇 년 전까지 하마다는 순전히 농부에 불과했습니다. 일종의 씨족처럼, 자신과 형제들의 가족, 아내, 자식들과 함께 4개의 오두막을 짓고 살며 옥수수와 닭을 키웠습니다. 흥분감이 들진 않아도 삶은 한결같으며 좋았습니다. 하마다는 자신의 아버지의 아버지의 아버지들 때부터 섬겨온 신들을 숭배했습니다. 꼬꼬댁대는 닭들의 시끄러운 소리와, 시끌벅적한 가족들의 소리를 들으며 눈을 뜨고 잠에 들었습니다. 정부가 문을 두드리는 일은 드물었으며, 찾아온다 해도, 언젠가 봤던 오랜 친구와 옛날을 회상하며 말하듯 쉽고 편안하게 대할 수 있었습니다. 하마다는 며칠마다 한 번씩 마을에 들러 닭을 팔고 때로는 수도로 옥수수를 보내기도 했습니다. 두 품목 덕에 하마다는 씨족의 토지를 관리하고, 형의 아들인 린잘라에게 개인교사를 붙여줄 수 있을 정도로 두둑히 돈을 벌 수 있었습니다. 그 덕에, 말수가 적고 남과 어울리기를 낯설어 하던 린잘라가, 영국인 개인교사들에 의해 지성을 억눌려온 천재임이 뒤늦게 밝혀지기도 했습니다. \n 그런 목가적인 촌락에서의 삶이 그의 가족에게 오래 전의 일이 되어버릴 순간이 다가오고 있었습니다... \n 그날은 여느 때와 다르지 않은 하루였습니다. 하마다와 그의 두 자식들은 마을 시장에서 함께 물건을 구경하며 소중한 시간을 보내고 있었습니다. 훈제 놀래기의 가격을 두고 하마다와 생선가게 주인이 씨름을 벌이던 중, 멀리서 엔진의 굉음이 들려왔습니다. 마다가스카르에 새 질서가 시작되었음을 선언한 시끄러운 예술가 등의 무리, 미아라밀란니의 도착의 예고였습니다. 특히나 이 마을은, 말라가시 향촌의 고요한 환경 속에서 영감을 얻길 바라는 창조가들을 위한 일종의 휴양지를 개발하려는 한 프랑스 업체에 넘어간 상태였습니다. 마을의 원로회의에선 찾아온 이들의 요청을 정중히 거절했지만, 미아라밀란니 분대장은 웃음을 터뜨리더니 총을 들이밀었습니다. 이제 하마다는 강제로, 수도 안타나나리보에서 도시에서의 새 삶을 살게 되었습니다. 초현실주의 정권이 들어선 도시에서의 삶은 산업의, 변화의, 마다가스카르에서 수백 년 간 떠받들어진 전통에 대한 무심한 파쇄의 한바탕 소동과 같았습니다. 일주일이 지나자, 하마다의 둘째 동생의 3녀는 클럽의 페인트 댄서로서 돈을 벌고, 큰형은 영국령 인도에서 온 텔레마라는 흥미로운 새 신앙에 빠져 옛 신들에 대한 특별했던 헌신을 내팽겨쳤으며, 큰형의 자식들은 미술과 점성술 외엔 거의 아무것도 가르치지 않는 학교에서 변종 프랑스어를 배워와 말하게 되었습니다. \n 아직 하마다의 삶이 완전히 파괴되진 않았지만, 말라가시국의 등장에 따라 그 역시 완전히 다른 경험을 하게 될 것입니다..."
 mag.7.a:0 "새 미래가 펼쳐져 있노라..."
+
+mag.8.title:0 "Towards Another Realm"
+mag.8.desc:0 "Emile had always been in a world between reality and something else. When she was six, a little girl living in the shantytowns of Madagascar’s capital with her prostitute mother and her smoking brother who was always on the reach of a job but apparently always had it snatched it away ‘by those damn Indians’, she had her first... episode. She had been playing with a stray cat on the streets, near the walls of a large sugar warehouse, when two large goldfish streamed out of the open doors of the back of the warehouse. They were to be her first real friends; all the other little kids in the shantytown made fun of her for her French name, and her mother’s work, and how her right thumb was missing. Emile remembered them, floating about and inviting them to play with her. She would soon give them names: Georges and Ameline. The next four years with them were the best of her life. She explored the hidden sides of the shantytown with them, created artwork as they served as her muse, and explained her views on life and proto-philosophy to them. But all things had to end and one day, her mother gave her a strange yellow-as-a-banana-skin liquid and her adventures with the two giant goldfish came to an end. She filled up her time with more artwork (and all the tools were provided by a generous elderly woman who spoke with a faint French accent at the west end of the shantyville) since they were too poor to go to school; she amusingly remembers how her brother paid her 1,001 Ariary to do 10 detailed sketches of a singular cigarette, multiple cigarettes together, and a cigarette box.\n\nIt was her 11th birthday when she was noticed by some men in good hats as she sketched on a table. They introduced themselves as staff from the Antananarivo School of Creativity and expressed admiration for her skills along with an invitation to go to come to their school. She left a note on her mother’s table and never looked back. She moved in with one of the school’s administrators, a man claiming to be her uncle, and began her study of art. Five years later she graduated, and went forth boldly into the adult world. Alas, the Malagsy people had other things to worry about then their development of culture. A revolution had broken out: the Malagasy people were ousting the French oppressors. Emile had hid under a large mahogany colored hat in a corner of a street for four days, but the beggar occupying the abandoned furniture store next to her argued she was just sitting there in her dress.\n\nTwo years passed by like a boat passing down a stream; Emile found work here and there, painting for small businessmen and wealthy foreigners. This period passed without much event.\n Now, another revolution had came fourth. One that appreciated her talents and legacy, actually. The futurists, led by the venerable and great poet Jean-Joseph Rabearivelo, overthrew the stale monarchy and had unleashed a regime of dreams.\nNow, she has become an accomplished writer and painter, a poet and has become one of Rabearivelo's "Rejuvenativist Group" artists, which are considered the most accomplished artists of Madagascar. Her life has changed."
+mag.8.a:0 "Our new nation is loving of all artists."
