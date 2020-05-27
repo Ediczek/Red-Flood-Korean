@@ -1,0 +1,85 @@
+﻿l_english:
+#COUNTRY NAME#
+
+#idk where the names are, but it seems they're coded - Darkneon312
+
+#PARTIES#
+MOL_vanguard_socialism_party:0 "VKP(M)"
+MOL_libertarian_marxism_party:0 "PLS"
+MOL_revolutionary_anarchism_party:0 "FAM"
+MOL_revisionist_socialism_party:0 "PSRM"
+MOL_social_democratism_party:0 "PTB"
+MOL_liberalism_party:0 "FPdM"
+MOL_conservatism_party:0 "PNM"
+MOL_right_authoritarianism_party:0 "SVB"
+MOL_despotism_party:0 "Loialistii lui Inculets"
+MOL_reactionism_party:0 "MB"
+MOL_accelerationism_party:0 "FRN"
+
+MOL_vanguard_socialism_party_long:0 "Vserossiyskaya kommunisticheskaya partiya (Moldaviya)"
+MOL_libertarian_marxism_party_long:0 "Partidul Liberarii Socilaliste"
+MOL_revolutionary_anarchism_party_long:0 "Federatia Anarhistilor Moldoveni"
+MOL_revisionist_socialism_party_long:0 "Partidul Socialiștilor din Republica Moldova"
+MOL_social_democratism_party_long:0 "Partidul Țărănesc din Basarabia"
+MOL_liberalism_party_long:0 "Frontul Popular din Moldova"
+MOL_conservatism_party_long:0 "Partidul National Moldovean"
+MOL_right_authoritarianism_party_long:0 "Societatea Vinificatorilor Basarebeni"
+MOL_despotism_party_long:0 "Loialistii lui Inculets"
+MOL_reactionism_party_long:0 "Mitropolia Basarabiei"
+MOL_accelerationism_party_long:0 "Frontul Renaterii Nationale"
+
+#LEADER DESCRITIONS#
+
+#IDEAS#
+MOL_slavic_separatism:0 "Slavic Separatism"
+MOL_prepare_youngman_to_die_idea:0 "Prepare Youngman to die"
+MOL_cult_of_victory_idea:0 "Cult of Victory"
+
+#CUSTOM TOOLTIPS AND FLAGS#"
+
+#DECISIONS (1.5 Update)#
+MOL_bomb_bucharest:0 "Bomb Bucharest"
+
+#EVENTS#
+moldova.1.t:0 "Revolution of Freedom"
+moldova.1.d:0 "“We shall fight on beaches. We shall fight on streets. We shall fight till last one of us is dead. We shall never surrender”- Otaman Borovets addresed the ukrainian population of Bessarabia. just as ukrainian troops were crossing the Dniester. Proclamation of New Ukrainian confederation has happened. Khotyn and Akkerman are together in this struggle."
+moldova.1.a:0 "Deal with traitorous filth."
+moldova.1.b:0 "We shall fight for freedom (play as New Ukraine)."
+moldova.2.t:0 "Joining the International"
+moldova.2.d:0 "The International. An Alliance created for preservation of socialism. We shall join it for this way we may spread socialism even more. We shall fight for ideas of marx alongside nation that gave birth to him. We shall be bodies that will lay socialist future for all workers around the globe. We shall be wrath that will hunt dreams of reactionaries. We are socialism."
+moldova.2.a:0 "Hurrah for Socialsim!"
+
+
+#FOCUSES#
+MOL_moldovan_revolution:0 "Moldovan Revolution"
+MOL_moldovan_revolution_desc:0 "The time has finally come. No more Moldova is ruled by capitalists and dictators. Our revolution has finally succeeded. And now we are free to go our own socialist path. But socialism has only begun for it can only succeed if all the world is under socialist contro."
+MOL_set_up_emergency_council:0 "Set up Emergency Council"
+MOL_set_up_emergency_council_desc:0 "While our revolution succeeded it is not yet the end. And so Olga Bancic - great leader of our revolution - decided to put together an emergency council on which we shall decide our future and our next moves to stabilise current crisis."
+MOL_deal_with_inculet_loyalists:0 "Deal with Inculet Loyalists"
+MOL_deal_with_inculet_loyalists_desc:0 "One of the first questions of our new, free sate is question of loyalists. They shall be dealt with all harshness we can get. For only by destroying them completely and utterly we can be free."
+MOL_freeloaders_will_not_get_anything:0 "Freeloaders will not get anything"
+MOL_freeloaders_will_not_get_anything_desc:0 "Some political parties like those of social-democrat allegiance try to get into our council - but they didn't help us in our revolution. They stayed and watched when true socialists died. They are just parasites that want to get in and rule freely. We cannot allow it."
+MOL_crush_the_remaining_separatists:0 "Crush the Remaining Separatists"
+MOL_crush_the_remaining_separatists_desc:0 "While the separatists are the ones who helped us instrument this revolution, they are still reactionary dogs ruled by “futurists” across Dniester. We must crush all their ideas of independence for only this way we can be free."
+MOL_prepare_youngman_to_die:0 "Prepare Youngman to die"
+MOL_prepare_youngman_to_die_desc:0 "To secure workers prosperity and liberty we must instrument a world revolution for or only this way socialism can truly succeed. And so we shall train our Youngman to fight against enemies of socialism until their death."
+MOL_cult_of_victory:0 "Cult of Victory"
+MOL_cult_of_victory_desc:0 "Socialism will prevail and it's the only way it can be. Socialism will crush reactionary filth and succeed in its quest of world liberation. And Victory should be the only thing romanians shall desire - for Victory is eternal."
+MOL_destroy_religious_cultism:0 "Destroy Religious Cultism"
+MOL_destroy_religious_cultism_desc:0 "Religious cultism is one of the worst problems of human society. Faith was created by rulers to own the working class. It is time that we destroy religious fanaticism once and forever. We shall break religious chains."
+MOL_terrorist_state:0 "Terrorist State"
+MOL_terrorist_state_desc:0 "The way of socialism can save the world and the only way to bring socialism are acts of destruction. Only pain and suffering can force workers to rise and break their chains. We shall bomb cities, arm revolutionaries and destroy capitalism for all eternity."
+MOL_worker_and_peasant_marching_together:0 "Worker and Peasant Marching Together"
+MOL_worker_and_peasant_marching_together_desc:0 "The problem of many socialist societies is desire of industrialisation which harms farmers. Those who suffered as much as working-class. And while industrialisation will help us in our quest. We shall not abandon our brethren."
+MOL_war_to_unite_romanians:0 "War to unite Romanians"
+MOL_war_to_unite_romanians_desc:0 "The time has come. We shall free our kin from chains of royals and reactionary scum. It is time to unite Romania under one true red flag. For creation of Romanian peoples republic under Moldova's guidance is one thing we truly desire."
+MOL_cleanse_transylvania_from_reactionaries:0 "Cleanse Transylvania from Reactionaries"
+MOL_cleanse_transylvania_from_reactionaries_desc:0 "Transylvania is plagued by spirit of german monarchies. The remnants of German rule over Central europe is located and concentrated in this point. We shall free them once and for all. Glory to Socialism! Glory to Bancic!"
+MOL_internationalism:0 "Internationalism"
+MOL_internationalism_desc:0 "It is time for us to join our socialist allias in international. And join leaders of socialism in this great struggle to unite the world under red banner. For to our goal to succeed we need allias on world stage."
+MOL_no_nation_but_socialism:0 "No Nation but Socialism"
+MOL_no_nation_but_socialism_desc:0 "Nations as they are serve only to break bonds that opresed class can make. It gives workers idea of nationalism that leads to division in our cause. And so great council decided that concept of nation shall be abolished for our great cause to continue."
+MOL_perfect_society:0 "Perfect Society"
+MOL_perfect_society_desc:0 "Finally after all struggle that lower-class faced we can now truly say that perfection has been achieved. Freedom and equality are now a commonplace in this free society. The only problem are those that remained not under socialism's great eye."
+
+
