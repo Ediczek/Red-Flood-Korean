@@ -1,57 +1,23 @@
 ﻿l_english:
-#COUNTRY NAME#
-BRA_vanguard_socialism:0 "브라질 인민공화국"
-BRA_vanguard_socialism_DEF:0 "브라질"
-BRA_vanguard_socialism_ADJ:0 "브라질"
 
-BRA_libertarian_marxism:0 "브라질 연합 코뮌"
-BRA_libertarian_marxism_DEF:0 "브라질"
-BRA_libertarian_marxism_ADJ:0 "브라질"
+####################################################################################################################
+#____________ ___________ ___________ _______   __  ___________                                                    #
+#| ___ \ ___ \  _  | ___ \  ___| ___ \_   _\ \ / / |  _  |  ___|                                                   #
+#| |_/ / |_/ / | | | |_/ / |__ | |_/ / | |  \ V /  | | | | |_                                                      #
+#|  __/|    /| | | |  __/|  __||    /  | |   \ /   | | | |  _|                                                     #
+#| |   | |\ \\ \_/ / |   | |___| |\ \  | |   | |   \ \_/ / |                                                       #
+#\_|   \_| \_|\___/\_|   \____/\_| \_| \_/   \_/    \___/\_|                                                       #
+#                                                                                                                  #
+#                                                                                                                  #
+#______ ___________  ______ _     _____  ___________                                                               #
+#| ___ \  ___|  _  \ |  ___| |   |  _  ||  _  |  _  \                                                              #
+#| |_/ / |__ | | | | | |_  | |   | | | || | | | | | |                                                              #
+#|    /|  __|| | | | |  _| | |   | | | || | | | | | |                                                              #
+#| |\ \| |___| |/ /  | |   | |___\ \_/ /\ \_/ / |/ /                                                               #
+#\_| \_\____/|___/   \_|   \_____/\___/  \___/|___/                                                                #
+#ALL RIGHTS RESERVED BY THE RED FLOOD TEAM TO THE PROPERTY OF THE WRITINGS PRESENTED HERE. GO AWAY NERD!!!         #
+####################################################################################################################
 
-BRA_revolutionary_anarchism:0 "브라질 연합 코뮌"
-BRA_revolutionary_anarchism_DEF:0 "브라질"
-BRA_revolutionary_anarchism_ADJ:0 "브라질"
-
-BRA_revisionist_socialism:0 "브라질 연방"
-BRA_revisionist_socialism_DEF:0 "브라질"
-BRA_revisionist_socialism_ADJ:0 "브라질"
-
-BRA_social_democratism:0 "브라질"
-BRA_social_democratism_DEF:0 "브라질"
-BRA_social_democratism_ADJ:0 "브라질"
-
-BRA_placeholderism:0 "브라질"
-BRA_placeholderism_DEF:0 "브라질"
-BRA_placeholderism_ADJ:0 "브라질"
-
-BRA_liberalism:0 "브라질"
-BRA_liberalism_DEF:0 "브라질"
-BRA_liberalism_ADJ:0 "브라질"
-
-BRA_conservatism:0 "브라질"
-BRA_conservatism_DEF:0 "브라질"
-BRA_conservatism_ADJ:0 "브라질"
-
-BRA_right_authoritarianism:0 "브라질"
-BRA_right_authoritarianism_DEF:0 "브라질"
-BRA_right_authoritarianism_ADJ:0 "브라질"
-
-BRA_despotism:0 "브라질"
-BRA_despotism_DEF:0 "브라질"
-BRA_despotism_ADJ:0 "브라질"
-
-BRA_reactionism:0 "브라질"
-BRA_reactionism_DEF:0 "브라질"
-BRA_reactionism_ADJ:0 "브라질"
-
-BRA_accelerationism:0 "브라질"
-BRA_accelerationism_DEF:0 "브라질"
-BRA_accelerationism_ADJ:0 "브라질"
-
-BRR_right_authoritarianism:0 "브라질 공화국"
-BRR_right_authoritarianism_DEF:0 "브라질 공화국"
-BRR_right_authoritarianism_ADJ:0 "브라질"
-#PARTIES#
 #PARTIES#
 BRA_vanguard_socialism_party:0 "PCB"
 BRA_libertarian_marxism_party:0 "구제위원회"
@@ -77,8 +43,110 @@ BRA_despotism_party_long:0 "오를레엉에쉬-브라겅서 황가"
 BRA_reactionism_party_long:0 "브라질 군부"
 BRA_accelerationism_party_long:0 "5인회"
 
+NEU_vanguard_socialism_party:0 "VFSA"
+NEU_libertarian_marxism_party:0 "KPN-TF"
+NEU_revolutionary_anarchism_party:0 "KPN-LF"
+NEU_revisionist_socialism_party:0 "SPN"
+NEU_social_democratism_party:0 "SPN"
+NEU_placeholderism_party:0 "LPN"
+NEU_liberalism_party:0 "LPN"
+NEU_conservatism_party:0 "VPN"
+NEU_right_authoritarianism_party:0 "DNVP 해외"
+NEU_reactionism_party:0 "DENO"
+NEU_despotism_party:0 "DNVP 해외"
+NEU_accelerationism_party:0 "DBNK"
+
+MOG_vanguard_socialism_party:0 "Sanzoku"
+MOG_libertarian_marxism_party:0 "Shin Nihonkyōsantō"
+MOG_revolutionary_anarchism_party:0 "Shin Nihon jiyū Kyōsantō"
+MOG_revisionist_socialism_party:0 "Minshu shakai shugi"
+MOG_social_democratism_party:0 "Shakaiminshutō"
+MOG_placeholderism_party:0 "Shakaiminshutō"
+MOG_liberalism_party:0 "Muryō shisō kyōkai"
+MOG_conservatism_party:0 "Sumeragi"
+MOG_right_authoritarianism_party:0 "Sumeragi"
+MOG_reactionism_party:0 "Dentō-tekina hōhō"
+MOG_despotism_party:0 "Sumeragi"
+MOG_accelerationism_party:0 "Shin Nihon kuro kishi-dan"
+
+FLO_vanguard_socialism_party:0 "LZW"
+FLO_libertarian_marxism_party:0 "NKPNP"
+FLO_revolutionary_anarchism_party:0 "NKPNP"
+FLO_revisionist_socialism_party:0 "Socjaliści Ludowi"
+FLO_social_democratism_party:0 "Socjaliści Ludowi"
+FLO_placeholderism_party:0 "Socjaliści Ludowi"
+FLO_liberalism_party:0 "PPN"
+FLO_conservatism_party:0 "PPN"
+FLO_right_authoritarianism_party:0 "Obóz"
+FLO_reactionism_party:0 "Endecja"
+FLO_despotism_party:0 "Obóz"
+FLO_accelerationism_party:0 "Sanacja"
+
+PRP_vanguard_socialism_party:0 "UKPZ-NK"
+PRP_libertarian_marxism_party:0 "UKPZ-NO"
+PRP_revolutionary_anarchism_party:0 "SBAPB"
+PRP_revisionist_socialism_party:0 "Selrob"
+PRP_social_democratism_party:0 "UDP"
+PRP_placeholderism_party:0 "UDP"
+PRP_liberalism_party:0 "UNDO-ZS"
+PRP_conservatism_party:0 "URP"
+PRP_right_authoritarianism_party:0 "SVUNS"
+PRP_reactionism_party:0 "LOZNL"
+PRP_despotism_party:0 "URHS-ZS"
+PRP_accelerationism_party:0 "UNA-ZS"
+
+POA_vanguard_socialism_party:0 "PCB"
+POA_libertarian_marxism_party:0 "Comitê Da Salvação"
+POA_revolutionary_anarchism_party:0 "PRL"
+POA_revisionist_socialism_party:0 "PDeP"
+POA_social_democratism_party:0 "PSB"
+POA_placeholderism_party:0 "Partido Socialista POAsileiro"
+POA_liberalism_party:0 "DL"
+POA_conservatism_party:0 "PCnDoB"
+POA_right_authoritarianism_party:0 "Câmara Dos Deputados"
+POA_reactionism_party:0 "FAB"
+POA_despotism_party:0 "House of Orleans-POAganza"
+POA_accelerationism_party:0 "G5"
+POA_vanguard_socialism_party_long:0 "Partido Comunista POAsileiro"
+POA_libertarian_marxism_party_long:0 "Comite Da Salvação Trabalhista"
+POA_revolutionary_anarchism_party_long:0 "Partido Revolucionário Libertariano"
+POA_revisionist_socialism_party_long:0 "Partido Deus e Pão"
+POA_social_democratism_party_long:0 "Partido Socialista POAsileiro"
+POA_liberalism_party_long:0 "Democrata Livre"
+POA_conservatism_party_long:0 "Partido Conservador Do POAsil"
+POA_right_authoritarianism_party_long:0 "Camara Dos Deputados"
+POA_despotism_party_long:0 "House of Orleans-POAganza"
+POA_reactionism_party_long:0 "Forças Armadas"
+POA_accelerationism_party_long:0 "Grupo Dos Cinco"
+
+BRR_vanguard_socialism_party:0 "PCB"
+BRR_libertarian_marxism_party:0 "Comitê Da Salvação"
+BRR_revolutionary_anarchism_party:0 "PRL"
+BRR_revisionist_socialism_party:0 "PDeP"
+BRR_social_democratism_party:0 "PSB"
+BRR_placeholderism_party:0 "Partido Socialista Brasileiro"
+BRR_liberalism_party:0 "DL"
+BRR_conservatism_party:0 "PCnDoB"
+BRR_right_authoritarianism_party:0 "Câmara Dos Deputados"
+BRR_reactionism_party:0 "FAB"
+BRR_despotism_party:0 "FAB"
+BRR_accelerationism_party:0 "G5"
+BRR_vanguard_socialism_party_long:0 "Partido Comunista Brasileiro"
+BRR_libertarian_marxism_party_long:0 "Comite Da Salvação Trabalhista"
+BRR_revolutionary_anarchism_party_long:0 "Partido Revolucionário Libertariano"
+BRR_revisionist_socialism_party_long:0 "Partido Deus e Pão"
+BRR_social_democratism_party_long:0 "Partido Socialista Brasileiro"
+BRR_liberalism_party_long:0 "Democrata Livre"
+BRR_conservatism_party_long:0 "Partido Conservador Do Brasil"
+BRR_right_authoritarianism_party_long:0 "Camara Dos Deputados"
+BRR_despotism_party_long:0 "Forças Armadas"
+BRR_reactionism_party_long:0 "Forças Armadas"
+BRR_accelerationism_party_long:0 "Grupo Dos Cinco"
+
 #LEADER DESCRITIONS#
 POLITICS_Anarchy_DESC:0 "민간정부가 지역 과두정자들의 싸움터 수준으로 전락하면서, 중앙정부의 모든 외관은 정부 그 자체의 추상에 불과하게 되었습니다."
+POLITICS_AQUINO_DESC:0 "Born in Cuiabá, Mato Grosso, in 1885, Francisco Aquino de Correia S.D.B, has had a profound impact on the society around him, representing the poorest in Brazil's western areas like Cuiabá, Porto Velho, and Rio Branco. As an important Mato-Grossense poet and writer, he became extremely influential with the religious poor across the country with his egalitarian message, and with the Pajama Revolution, he helped secure the countryside of the Mato Grosso, Rondônia and Amazon area by rallying local priests, being an Archbishop, and calling for a crusade against the oligarchs of Brazil. He has since then called for the creation of a peaceful Brazil that seeks to help the poorest through Catholic values, and yet maintain moderation in social policy. He has had a profound impact in the development of culture in the area, aswell as having political experience through his governance of Mato Grosso in 1918 to 1922. Now, he finds himself at the top of the Brazilian Council of Salvation after being elected for his profound social and religious message which appealed to the poorest of Brazil, and now he shall develop his ideas according to his utopian and poetic views."
+POLITICS_AMAZONAS_DESC:0 "Born in Belém, Pará, Amazonas is a very new figure to the socialist political situation that Brazil finds itself in, but the timing was perfect; he became involved with the Communist Party of Brazil, one of the first and last remaining communist parties in the world after the failure of the Russian Revolution, he found himself in an increasingly libertarian surrounding, and then, with the Pajama Revolution, he quickly got to work helping the PCdoB rise up against the Government in the Pará-Northeast area, and helped urban areas in the Northeast rise up against the oligarchs which held them for decades in near-slavery, or basically slavery, and he went to work in ensuring that the Vanguardist voice wouldn't be silenced by the vile Syndicalists which plagued the Conselho de Salvação Nacional. As a Marxist and Leninist, he believes deeply in the creation of a Bolshevik State like the one in Russia and sees it as the most correct expression of socialism, and believes that it is only through radical totalitarianism and militancy that Brazil can come towards the twentieth century kicking and screaming, and wipe away the oligarchs which have long opressed it's society for over a century since the country's independence."
 #IDEAS#
 BRA_oligarchic_madness:0 "과두정의 광기"
 BRA_oligarchic_madness_desc:0 "브라질 내의 많은 정치권력자들은 선출 관료나 군사지휘관들이 아니라, 자기들만의 봉건적 봉토와 민병대, 어떤 경우엔 자체 화폐까지 지닌 지역 대령들입니다. 브라질이 번영하려면 이 상황부터 바뀌어야 합니다."
@@ -88,6 +156,76 @@ BRA_revolutionary_scars:0 "혁명의 상처들"
 BRA_revolutionary_scars_desc:0 "파자마 정변은 우리 정부를 향한 큰 거부감, 공포, 증오를 남겼습니다. 브라질이 혁명공화국으로서 제대로 작동하려면 인민의 생각과 마음을 얻어야 합니다."
 BRA_famine:0 "기근"
 BRA_famine_desc:0 "기근은 언제나 브라질에 있어왔지만, 이제 북동부에선 일반적 상황이라 받아들여질 정도로 더 잦아졌습니다."
+
+############################
+##### M I N I S T E R S ####
+############################
+
+BRA_herzog_hog:0 "Vladimir Herzog"
+BRA_lila_ripoll_hog:0 "Lila Ripoll"
+BRA_heitor_ferreira_lima_hog:0 "Heitor Ferreira Lima"
+BRA_alberto_pasqualini_hog:0 "Alberto Pasqualini"
+BRA_ohlweiler_eco:0 "Otto Alcides Ohlweiler"
+BRA_oswald_de_andrade:0 "Oswald de Andrade"
+BRA_amazonas_eco:0 "João Amazonas"
+BRA_pomar_eco:0 "Pedro Ventura Pomar"
+BRA_maranhao_fore:0 "Djalma Maranhão"
+BRA_carvalho_fore:0 "Apolônio de Carvalho"
+BRA_cordeiro_fore:0 "Cristiano Cordeiro"
+BRA_carlos_andrade_fore:0 "Carlos Drummond de Andrade"
+BRA_correia_inter:0 "Dom Francisco de Aquino Correia S.D.B"
+BRA_marighella_inter:0 "Carlos Marighella"
+BRA_lopes_inter:0 "Isidoro Dias Lopes"
+BRA_castro_inter:0 "Maria Werneck de Castro"
+BRA_lopes_army:0 "Isidoro Dias Lopes"
+BRA_linhares_army:0 "José Linhares"
+BRA_monnerat_army:0 "Elza Monnerat"
+BRA_grabois_army:0 "Mauricio Grabois"
+BRA_arroyo_nav:0 "Ângelo Arroyo"
+BRA_osorio_air:0 "Jefferson Cardim Osório"
+BRA_osvaldo_costa_air:0 "Osvaldo Orlando da Costa"
+BRR_floresdacuhna_hog:0 "Flores Da Cunha"
+BRR_bertoldoklinger_hog:0 "Bertoldo Klinger"
+BRR_joseantonionetto_hog:0 "José Antônio Netto"
+BRR_osvaldoaranha_hog:0 "Osvaldo Aranha"
+BRR_assisbrasil_hog:0 "Assis Brasil"
+BRR_neururamos_hog:0 "Nereu Ramos"
+BRR_anitamalfatti_hog:0 "Anita Malfatti"
+BRR_waldirbouhid_eco:0 "Waldir Bouhid"
+BRR_prestes_eco:0 "Júlio Prestes"
+BRR_matos_eco:0 "Leônidas de Antero Matos"
+BRR_vargas_eco:0 "Getúlio Vargas"
+BRR_teixeira_eco:0 "Pedro Ludovico Teixeira"
+BRR_quadros_eco:0 "Jânio Quadros"
+BRR_oswalddeandrade_eco:0 "Oswaldo de Andrade"
+BRR_lauro_sodre_fore:0 "Lauro Sodré"
+BRR_barata_fore:0 "Joaquim Barata"
+BRR_soares_fore:0 "Vital Soares"
+BRR_caiado_fore:0 "Antonio Ramos Caiado"
+BRR_luis_filho_fore:0 "Luís Viana Filho"
+BRR_maia_fore:0 "Álvaro Botelho Maia"
+BRR_amaral_fore:0 "Tarsila do Amaral"
+BRR_neiva_inter:0 "Artur Neiva"
+BRR_lauro_sodre_inter:0 "Lauro Sodré"
+BRR_luis_filho_inter:0 "Luís Viana Filho"
+BRR_alambert_inter:0 "Zuleika Alambert"
+BRR_joao_filho_inter:0 "João Fernandes Campos Café Filho"
+BRR_quadros_inter:0 "Jânio Quadros"
+BRR_picchia_inter:0 "Menotti Del Picchia"
+BRR_mamede_army:0 "Jurandir Bizarria Mamede"
+BRR_cavalcanti_army:0 "Newton Cavalcanti"
+BRR_salgado_army:0 "Júlio Marcondes Salgado"
+BRR_leal_army:0 "Newton Estillac Leal"
+BRR_rondon_army:0 "Cândido Rondon"
+BRR_euclides_costa_army:0 "Euclides Zenóbio da Costa"
+BRR_potiguara_nav:0 "Tertuliano Potiguara"
+BRR_benjamin_sodre_nav:0 "Benjamin de Almeida Sodré"
+BRR_busse_air:0 "Alexandre Busse"
+BRR_melo_air:0 "Marcio de Sousa Melo"
+BRR_botelho_air:0 "Anisio Botelho"
+BRR_moura_air:0 "Nero Moura"
+
+########################################################
 
 BRA_state_authority_collapse:0 "중앙국가권위의 붕괴"
 
