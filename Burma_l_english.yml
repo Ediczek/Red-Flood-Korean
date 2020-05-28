@@ -1,53 +1,29 @@
 ﻿l_english:
-#COUNTRY NAME#
-BUR_vanguard_socialism:0 "버마"
-BUR_vanguard_socialism_DEF:0 "버마"
-BUR_vanguard_socialism_ADJ:0 "버마"
 
-BUR_libertarian_marxism:0 "버마"
-BUR_libertarian_marxism_DEF:0 "버마"
-BUR_libertarian_marxism_ADJ:0 "버마"
-
-BUR_revolutionary_anarchism:0 "버마"
-BUR_revolutionary_anarchism_DEF:0 "버마"
-BUR_revolutionary_anarchism_ADJ:0 "버마"
-
-BUR_revisionist_socialism:0 "버마"
-BUR_revisionist_socialism_DEF:0 "버마"
-BUR_revisionist_socialism_ADJ:0 "버마"
-
-BUR_social_democratism:0 "버마"
-BUR_social_democratism_DEF:0 "버마"
-BUR_social_democratism_ADJ:0 "버마"
-
-BUR_placeholderism:0 "버마"
-BUR_placeholderism_DEF:0 "버마"
-BUR_placeholderism_ADJ:0 "버마"
-
-BUR_liberalism:0 "버마"
-BUR_liberalism_DEF:0 "버마"
-BUR_liberalism_ADJ:0 "버마"
-
-BUR_conservatism:0 "버마"
-BUR_conservatism_DEF:0 "버마"
-BUR_conservatism_ADJ:0 "버마"
-
-BUR_right_authoritarianism:0 "버마"
-BUR_right_authoritarianism_DEF:0 "버마"
-BUR_right_authoritarianism_ADJ:0 "버마"
-
-BUR_reactionism:0 "버마"
-BUR_reactionism_DEF:0 "버마"
-BUR_reactionism_ADJ:0 "버마"
-
-BUR_despotism:0 "버마"
-BUR_despotism_DEF:0 "버마"
-BUR_despotism_ADJ:0 "버마"
-
-BUR_accelerationism:0 "버마"
-BUR_accelerationism_DEF:0 "버마"
-BUR_accelerationism_ADJ:0 "버마"
 #PARTIES#
+BUR_vanguard_socialism_party:0 "UPP"
+BUR_vanguard_socialism_party_long:0 "통합인민당"
+BUR_libertarian_marxism_party:0 "UPP"
+BUR_libertarian_marxism_party_long:0 "통합인민당"
+BUR_revolutionary_anarchism_party:0 ""
+BUR_revolutionary_anarchism_party_long:0 ""
+BUR_revisionist_socialism_party:0 "UPP"
+BUR_revisionist_socialism_party_long:0 "통합인민당"
+BUR_social_democratism_party:0 ""
+BUR_social_democratism_party_long:0 ""
+BUR_liberalism_party:0 ""
+BUR_liberalism_party_long:0 ""
+BUR_conservatism_party:0 ""
+BUR_conservatism_party_long:0 ""
+BUR_right_authoritarianism_party:0 ""
+BUR_right_authoritarianism_party_long:0 ""
+BUR_despotism_party:0 ""
+BUR_despotism_party_long:0 ""
+BUR_reactionism_party:0 ""
+BUR_reactionism_party_long:0 ""
+BUR_accelerationism_party:0 ""
+BUR_accelerationism_party_long:0 ""
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
