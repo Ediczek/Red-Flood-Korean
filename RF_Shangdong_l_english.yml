@@ -1,0 +1,34 @@
+﻿l_english:
+
+#PARTIES#
+
+SHA_vanguard_socialism_party:0 "WPC"
+SHA_libertarian_marxism_party:0 "PPC"
+SHA_revolutionary_anarchism_party:0 "CAM"
+SHA_revisionist_socialism_party:0 "KMT - MinSheng"
+SHA_social_democratism_party:0 "KMT - MinQuan"
+SHA_placeholderism_party:0 "KMT - Moderates"
+SHA_liberalism_party:0 "KMT - Moderates"
+SHA_conservatism_party:0 "KMT - MinZu"
+SHA_right_authoritarianism_party:0 "KMT - CEC"
+SHA_despotism_party:0 "NMA"
+SHA_reactionism_party:0 "SHA - SSS"
+SHA_accelerationism_party:0 "CYP"
+SHA_vanguard_socialism_party_long:0 "Workers' Party of China"
+SHA_libertarian_marxism_party_long:0 "People's Party of China"
+SHA_revolutionary_anarchism_party_long:0 "Chinese Anarchist Movement"
+SHA_revisionist_socialism_party_long:0 "KMT - MinSheng Faction"
+SHA_social_democratism_party_long:0 "KMT - MinQuan Faction"
+SHA_placeholderism_party_long:0 "KMT - Moderates"
+SHA_liberalism_party_long:0 "KMT - Moderates"
+SHA_conservatism_party_long:0 "KMT - MinZu Faction"
+SHA_right_authoritarianism_party_long:0 "KMT - Central Executive Committee"
+SHA_despotism_party_long:0 "Nanjing Military Adminstration"
+SHA_reactionism_party_long:0 "KMT - Senior Statesman Society"
+SHA_accelerationism_party_long:0 "Chinese Youth Party"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
