@@ -1,0 +1,31 @@
+﻿l_english:
+#Sinkiang NAME#
+
+#PARTIES#
+SIK_vanguard_socialism_party:0 "CPC/V(신장)"
+SIK_libertarian_marxism_party:0 "CPC/A(신장)"
+SIK_revolutionary_anarchism_party:0 "신강 인민혁명당"
+SIK_revisionist_socialism_party:0 "노동인민당(신강)"
+SIK_social_democratism_party:0 "국민당"
+SIK_liberalism_party:0 "자유당"
+SIK_conservatism_party:0 "진보당"
+SIK_right_authoritarianism_party:0 "진슈런 군벌"
+SIK_despotism_party:0 "마가군"
+SIK_reactionism_party:0 "동튀르키스탄 이슬람주의파"
+SIK_accelerationism_party:0 "중국 청년당(신강)"
+SIK_vanguard_socialism_party_long:0 "중국공산당/전위파 (신강)"
+SIK_libertarian_marxism_party_long:0 "중국공산당/농업파 (신강)"
+SIK_revolutionary_anarchism_party_long:0 "신강 인민혁명당"
+SIK_revisionist_socialism_party_long:0 "노동인민당"
+SIK_social_democratism_party_long:0 "국민당"
+SIK_liberalism_party_long:0 "자유당"
+SIK_conservatism_party_long:0 "진보당"
+SIK_right_authoritarianism_party_long:0 "진슈런 군벌"
+SIK_despotism_party_long:0 "마가군"
+SIK_reactionism_party_long:0 "동튀르키스탄 이슬람주의파"
+SIK_accelerationism_party_long:0 "중국 청년당(신강)"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
