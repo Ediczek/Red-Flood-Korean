@@ -1,0 +1,33 @@
+﻿l_english:
+#COUNTRY NAME#
+
+
+#PARTIES#
+TUK_vanguard_socialism_party:0 "Leninist Groups"
+TUK_vanguard_socialism_party_long:0 "Vanguardist Party - Turkestan"
+TUK_libertarian_marxism_party:0 "Islamic Communists"
+TUK_libertarian_marxism_party_long:0 "Red Mujahideen - Turkestan"
+TUK_revolutionary_anarchism_party:0 "Anarchist Groups"
+TUK_revolutionary_anarchism_party_long:0 "Anarcho-Syndicalist Militias"
+TUK_revisionist_socialism_party:0 "Islamic Socialists"
+TUK_revisionist_socialism_party_long:0 "Islamic Socialist Party"
+TUK_social_democratism_party:0 "Shura-i-Islam"
+TUK_social_democratism_party_long:0 "Shura-i-Islam"
+TUK_liberalism_party:0 "Shura-i-Islam"
+TUK_liberalism_party_long:0 "Shura-i-Islam"
+TUK_conservatism_party:0 "Shura-i-Ulema"
+TUK_conservatism_party_long:0 "Shura-i-Ulema"
+TUK_right_authoritarianism_party:0 "Provisional Government"
+TUK_right_authoritarianism_party_long:0 "Provisional Government of Turkestan"
+TUK_despotism_party:0 "Basmachi"
+TUK_despotism_party_long:0 "Basmachi"
+TUK_reactionism_party:0 "Basmachi"
+TUK_reactionism_party_long:0 "Basmachi"
+TUK_accelerationism_party:0 "Turanist Party"
+TUK_accelerationism_party_long:0 "Turanist Party"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

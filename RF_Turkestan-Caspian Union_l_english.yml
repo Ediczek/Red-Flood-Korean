@@ -1,0 +1,33 @@
+﻿l_english:
+#COUNTRY NAME#
+
+
+#PARTIES#
+TUC_vanguard_socialism_party:0 "Leninist Groups"
+TUC_vanguard_socialism_party_long:0 "Turkmen Vanguardist Party"
+TUC_libertarian_marxism_party:0 "Islamic Communists"
+TUC_libertarian_marxism_party_long:0 "Islamic Councilist Communist Party"
+TUC_revolutionary_anarchism_party:0 "Anarchist Groups"
+TUC_revolutionary_anarchism_party_long:0 "Anarcho-Syndicalist Militias"
+TUC_revisionist_socialism_party:0 "Islamic Socialists"
+TUC_revisionist_socialism_party_long:0 "Islamic Socialist Party"
+TUC_social_democratism_party:0 "Turkmen Democrats"
+TUC_social_democratism_party_long:0 "Turkmen Democratic Party"
+TUC_liberalism_party:0 "Turkmen Republicans"
+TUC_liberalism_party_long:0 "Turkmen Republican Party"
+TUC_conservatism_party:0 "Russian Settlers"
+TUC_conservatism_party_long:0 "Russian Republican Party - Caspia"
+TUC_right_authoritarianism_party:0 "Basmachi"
+TUC_right_authoritarianism_party_long:0 "Basmachi"
+TUC_despotism_party:0 "SABZAR"
+TUC_despotism_party_long:0 "SABZAR"
+TUC_reactionism_party:0 "Askhabad Bahai'i Church"
+TUC_reactionism_party_long:0 "Askhabad Bahai'i Church"
+TUC_accelerationism_party:0 "Turanists"
+TUC_accelerationism_party_long:0 "Turanist Party"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
