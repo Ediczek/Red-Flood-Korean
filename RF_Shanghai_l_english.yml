@@ -1,0 +1,78 @@
+﻿l_english:
+#COUNTRY NAME#
+#SHA_vanguard_socialism:0 "Huadong Commune"
+#SHA_vanguard_socialism_DEF:0 "Huadong Commune"
+#SHA_vanguard_socialism_ADJ:0 "Chinese"
+#
+#SHA_libertarian_marxism:0 "Huadong Commune"
+#SHA_libertarian_marxism_DEF:0 "Huadong Commune"
+#SHA_libertarian_marxism_ADJ:0 "Chinese"
+#
+#SHA_revolutionary_anarchism:0 "Huadong Commune"
+#SHA_revolutionary_anarchism_DEF:0 "Huadong Commune"
+#SHA_revolutionary_anarchism_ADJ:0 "Chinese"
+#
+#SHA_revisionist_socialism:0 "Huadong Autonomy"
+#SHA_revisionist_socialism_DEF:0 "Huadong Autonomy"
+#SHA_revisionist_socialism_ADJ:0 "Chinese"
+#
+#SHA_social_democratism:0 "Huadong Autonomy"
+#SHA_social_democratism_DEF:0 "Huadong Autonomy"
+#SHA_social_democratism_ADJ:0 "Chinese"
+#
+#SHA_placeholderism:0 "Huadong Autonomy"
+#SHA_placeholderism_DEF:0 "Huadong Autonomy"
+#SHA_placeholderism_ADJ:0 "Chinese"
+#
+#SHA_liberalism:0 "Huadong Autonomy"
+#SHA_liberalism_DEF:0 "Huadong Autonomy"
+#SHA_liberalism_ADJ:0 "Chinese"
+#
+#SHA_conservatism:0 "Huadong Autonomy"
+#SHA_conservatism_DEF:0 "Huadong Autonomy"
+#SHA_conservatism_ADJ:0 "Chinese"
+#
+#SHA_right_authoritarianism:0 "Zhili Clique"
+#SHA_right_authoritarianism_DEF:0 "Zhili Clique"
+#SHA_right_authoritarianism_ADJ:0 "Chinese"
+#
+#SHA_despotism:0 "Zhili Clique"
+#SHA_despotism_DEF:0 "Zhili Clique"
+#SHA_despotism_ADJ:0 "Chinese"
+#
+#SHA_reactionism:0 "Zhili Clique"
+#SHA_reactionism_DEF:0 "Zhili Clique"
+#SHA_reactionism_ADJ:0 "Chinese"
+#
+#SHA_accelerationism:0 "중화국"
+#SHA_accelerationism_DEF:0 "중화국"
+#SHA_accelerationism_ADJ:0 "중화"
+#PARTIES#
+SHA_vanguard_socialism_party:0 "WPC"
+SHA_libertarian_marxism_party:0 "PPC"
+SHA_revolutionary_anarchism_party:0 "CAM"
+SHA_revisionist_socialism_party:0 "KMT - MinSheng"
+SHA_social_democratism_party:0 "KMT - MinQuan"
+SHA_liberalism_party:0 "KMT - M"
+SHA_conservatism_party:0 "KMT - MinZu"
+SHA_right_authoritarianism_party:0 "Zhili Clique - Cao"
+SHA_despotism_party:0 "Zhili Clique - Sun"
+SHA_reactionism_party:0 "Zhili Clique - Zhang"
+SHA_accelerationism_party:0 "CYP"
+
+SHA_vanguard_socialism_party_long:0 "Workers' Party of China"
+SHA_libertarian_marxism_party_long:0 "People's Party of China"
+SHA_revolutionary_anarchism_party_long:0 "Chinese Anarchist Movement"
+SHA_revisionist_socialism_party_long:0 "KMT - MinSheng Faction"
+SHA_social_democratism_party_long:0 "KMT - MinQuan Faction"
+SHA_liberalism_party_long:0 "KMT - Moderates"
+SHA_conservatism_party_long:0 "KMT - MinZu Faction"
+SHA_right_authoritarianism_party_long:0 "Zhili Clique - Cao Bloc"
+SHA_despotism_party_long:0 "Zhili Clique - Sun Bloc"
+SHA_reactionism_party_long:0 "Zhili Clique - Zhang Bloc"
+SHA_accelerationism_party_long:0 "Chinese Youth Party"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
