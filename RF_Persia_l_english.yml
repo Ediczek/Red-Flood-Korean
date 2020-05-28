@@ -1,0 +1,34 @@
+﻿l_english:
+
+#PARTIES#
+
+#VanSoc:Jungle Party(Hezb-e Jangal)(If Ordzhonikidze is executed)
+
+PER_vanguard_socialism_party:0 "Ordzhonikidzes Red Guard"
+PER_vanguard_socialism_party_long:0 "Krasnaya Gvardiya Ordzhonikidze"
+PER_libertarian_marxism_party:0 "CPoI"
+PER_libertarian_marxism_party_long:0 "Hzb Kemwnast Aaran"
+PER_revolutionary_anarchism_party:0 "PMoI"
+PER_revolutionary_anarchism_party_long:0 "Sazman-e Mojahedin-e Khalq-e Iran"
+PER_revisionist_socialism_party:0 "MoGWS"
+PER_revisionist_socialism_party_long:0 "Nazhat Khoda Parastan-i Sosialist"
+PER_social_democratism_party:0 "SRP"
+PER_social_democratism_party_long:0 "Ferqa'ye Eslahiyun-e ammiyun"
+PER_liberalism_party:0 "PP"
+PER_liberalism_party_long:0 "Hezb-e Mardom"
+PER_conservatism_party:0 "PoN"
+PER_conservatism_party_long:0 "Hezb-e Melliun"
+PER_right_authoritarianism_party:0 "APOC"
+PER_right_authoritarianism_party_long:0 "Anglo-Persian Oil Company"
+PER_despotism_party:0 "Shahs loyalists/RPoI"
+PER_despotism_party_long:0 "Hzb Rstakhaz mlt Aaran"
+PER_reactionism_party:0 "SUMKA"
+PER_reactionism_party_long:0 "Hezb-e Sosialist-e Melli-e Kargaran-e Iran"
+PER_accelerationism_party:0 "Society of Tehran"
+PER_accelerationism_party_long:0 "Anjmn Thran"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
