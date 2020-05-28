@@ -1,53 +1,30 @@
 ﻿l_english:
-#COUNTRY NAME#
-ETS_vanguard_socialism:0 "호탄 에미르국"
-ETS_vanguard_socialism_DEF:0 "호탄 에미르국"
-ETS_vanguard_socialism_ADJ:0 "호탄"
 
-ETS_libertarian_marxism:0 "호탄 에미르국"
-ETS_libertarian_marxism_DEF:0 "호탄 에미르국"
-ETS_libertarian_marxism_ADJ:0 "호탄"
-
-ETS_revolutionary_anarchism:0 "호탄 에미르국"
-ETS_revolutionary_anarchism_DEF:0 "호탄 에미르국"
-ETS_revolutionary_anarchism_ADJ:0 "호탄"
-
-ETS_revisionist_socialism:0 "호탄 에미르국"
-ETS_revisionist_socialism_DEF:0 "호탄 에미르국"
-ETS_revisionist_socialism_ADJ:0 "호탄"
-
-ETS_social_democratism:0 "호탄 에미르국"
-ETS_social_democratism_DEF:0 "호탄 에미르국"
-ETS_social_democratism_ADJ:0 "호탄"
-
-ETS_placeholderism:0 "호탄 에미르국"
-ETS_placeholderism_DEF:0 "호탄 에미르국"
-ETS_placeholderism_ADJ:0 "호탄"
-
-ETS_liberalism:0 "호탄 에미르국"
-ETS_liberalism_DEF:0 "호탄 에미르국"
-ETS_liberalism_ADJ:0 "호탄"
-
-ETS_conservatism:0 "호탄 에미르국"
-ETS_conservatism_DEF:0 "호탄 에미르국"
-ETS_conservatism_ADJ:0 "호탄"
-
-ETS_right_authoritarianism:0 "호탄 에미르국"
-ETS_right_authoritarianism_DEF:0 "호탄 에미르국"
-ETS_right_authoritarianism_ADJ:0 "호탄"
-
-ETS_despotism:0 "호탄 에미르국"
-ETS_despotism_DEF:0 "호탄 에미르국"
-ETS_despotism_ADJ:0 "호탄"
-
-ETS_reactionism:0 "호탄 에미르국"
-ETS_reactionism_DEF:0 "호탄 에미르국"
-ETS_reactionism_ADJ:0 "호탄"
-
-ETS_accelerationism:0 "호탄 에미르국"
-ETS_accelerationism_DEF:0 "호탄 에미르국"
-ETS_accelerationism_ADJ:0 "호탄"
 #PARTIES#
+
+ETS_vanguard_socialism_party:0 "CPC/V(South Xinjiang)"
+ETS_libertarian_marxism_party:0 "CPC/A(South Xinjiang)"
+ETS_revolutionary_anarchism_party:0 "South Xinjiang People's Revolutionary Party"
+ETS_revisionist_socialism_party:0 "Working People's Party(South Xinjiang)"
+ETS_social_democratism_party:0 "Kuomintang"
+ETS_liberalism_party:0 "Liberal Party"
+ETS_conservatism_party:0 "Progressive Party"
+ETS_right_authoritarianism_party:0 "Jin Shuren Clique"
+ETS_despotism_party:0 "Hotan Clique"
+ETS_reactionism_party:0 "East Turkestan Islamists"
+ETS_accelerationism_party:0 "Youth China Party(South Xinjiang)"
+ETS_vanguard_socialism_party_long:0 "Communist Party of China/Vanguardist (South Xinjiang)"
+ETS_libertarian_marxism_party_long:0 "Communist Party of China/Agrarian (South Xinjiang)"
+ETS_revolutionary_anarchism_party_long:0 "South Xinjiang People's Revolutionary Party"
+ETS_revisionist_socialism_party_long:0 "Working People's Party"
+ETS_social_democratism_party_long:0 "Nationalist Party"
+ETS_liberalism_party_long:0 "Liberal Party"
+ETS_conservatism_party_long:0 "Progressive Party"
+ETS_right_authoritarianism_party_long:0 "Jin Shuren Clique"
+ETS_despotism_party_long:0 "Hotan Clique"
+ETS_reactionism_party_long:0 "East Turkestan Islamists"
+ETS_accelerationism_party_long:0 "Youth China Party(South Xinjiang)"
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
