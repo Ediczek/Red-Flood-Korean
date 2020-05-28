@@ -1,0 +1,33 @@
+﻿l_english:
+#COUNTRY NAME#
+
+#PARTIES#
+SZC_vanguard_socialism_party:0 "WPC"
+SZC_libertarian_marxism_party:0 "PPC"
+SZC_revolutionary_anarchism_party:0 "CAM"
+SZC_revisionist_socialism_party:0 "KMT - MinSheng"
+SZC_social_democratism_party:0 "KMT - Cheng Clique"
+SZC_placeholderism_party:0 "KMT - Moderates"
+SZC_liberalism_party:0 "KMT - Moderates"
+SZC_conservatism_party:0 "KMT - MinZu"
+SZC_right_authoritarianism_party:0 "KMT - CEC"
+SZC_despotism_party:0 "NRA"
+SZC_reactionism_party:0 "KMT - SSS"
+SZC_accelerationism_party:0 "CYP"
+SZC_vanguard_socialism_party_long:0 "Workers' Party of China"
+SZC_libertarian_marxism_party_long:0 "People's Party of China"
+SZC_revolutionary_anarchism_party_long:0 "Chinese Anarchist Movement"
+SZC_revisionist_socialism_party_long:0 "KMT - MinSheng Faction"
+SZC_social_democratism_party_long:0 "KMT - Cheng Qian Clique"
+SZC_placeholderism_party_long:0 "KMT - Moderates"
+SZC_liberalism_party_long:0 "KMT - Moderates"
+SZC_conservatism_party_long:0 "KMT - MinZu Faction"
+SZC_right_authoritarianism_party_long:0 "KMT - Central Executive Committee"
+SZC_despotism_party_long:0 "Military Junta of NRA"
+SZC_reactionism_party_long:0 "KMT - Senior Statesman Society"
+SZC_accelerationism_party_long:0 "Chinese Youth Party"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
