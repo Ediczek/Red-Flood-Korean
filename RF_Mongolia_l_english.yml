@@ -1,52 +1,6 @@
 ﻿l_english:
 #COUNTRY NAME#
-MON_vanguard_socialism:0 "안휘 사회주의 공화국"
-MON_vanguard_socialism_DEF:0 "안휘"
-MON_vanguard_socialism_ADJ:0 "몽골"
 
-MON_libertarian_marxism:0 "안휘 코뮌"
-MON_libertarian_marxism_DEF:0 "안휘"
-MON_libertarian_marxism_ADJ:0 "몽골"
-
-MON_revolutionary_anarchism:0 "안휘 지구"
-MON_revolutionary_anarchism_DEF:0 "안휘"
-MON_revolutionary_anarchism_ADJ:0 "몽골"
-
-MON_revisionist_socialism:0 "안휘민국"
-MON_revisionist_socialism_DEF:0 "안휘"
-MON_revisionist_socialism_ADJ:0 "몽골"
-
-MON_social_democratism:0 "안휘 군벌"
-MON_social_democratism_DEF:0 "안휘"
-MON_social_democratism_ADJ:0 "몽골"
-
-MON_placeholderism:0 "안휘 군벌"
-MON_placeholderism_DEF:0 "안휘"
-MON_placeholderism_ADJ:0 "몽골"
-
-MON_liberalism:0 "안휘 군벌"
-MON_liberalism_DEF:0 "안휘"
-MON_liberalism_ADJ:0 "몽골"
-
-MON_conservatism:0 "안휘 군벌"
-MON_conservatism_DEF:0 "안휘"
-MON_conservatism_ADJ:0 "몽골"
-
-MON_right_authoritarianism:0 "안휘 군벌"
-MON_right_authoritarianism_DEF:0 "안휘"
-MON_right_authoritarianism_ADJ:0 "몽골"
-
-MON_despotism:0 "중화제국"
-MON_despotism_DEF:0 "중국"
-MON_despotism_ADJ:0 "중국"
-
-MON_reactionism:0 "안휘 군벌"
-MON_reactionism_DEF:0 "안휘"
-MON_reactionism_ADJ:0 "몽골"
-
-MON_accelerationism:0 "안휘국"
-MON_accelerationism_DEF:0 "안휘"
-MON_accelerationism_ADJ:0 "몽골"
 #PARTIES#
 MON_reactionism_party:0 "MBP"
 MON_reactionism_party_long:0 "몽골 불교당"
@@ -79,7 +33,7 @@ MON_despotism_party:0 "KA"
 MON_despotism_party_long:0 "칸국 동맹"
 
 MON_accelerationism_party:0 "AM"
-MON_accelerationism_party_long:0 "촉진주의 몽골"
+MON_accelerationism_party_long:0 "촉진 몽골"
 
 #LEADERS/Ministers#
 #MON_Duan_Qirui:0 "돤치루이"
@@ -181,7 +135,7 @@ Mongolia_securetheinterior_desc:0 "중국을 통일하고 외세의 지배를 �
 Mongolia_maritimechina:0 "중국 해안지"
 Mongolia_maritimechina_desc:0 "광동 해안지대는 마땅히 우리 것이지만, 점령된 도시들을 되찾기 전에 저항하는 남은 군벌들을 먼저 굴복시켜야 합니다."
 Mongolia_westernautonomies:0 "서역의 자치체들"
-Mongolia_westernautonomies_desc:0 "위구르인들 역시 우리 사람들이므로, 저들이 좋든 싫든 신장 서역은 반드시 중국의 권위 아래 있어야 합니다."
+Mongolia_westernautonomies_desc:0 "위구르인들 역시 우리 사람들이므로, 저들이 좋든 싫든 신강 서역은 반드시 중국의 권위 아래 있어야 합니다."
 Mongolia_correcttherecord:0 "기록 정정"
 Mongolia_correcttherecord_desc:0 "(대부분) 다시 하나가 된 중국을 세계열강으로 올려놓을 준비가 된 우리 앞에 남은 유일한 장애물은 외세 침략자들입니다. 서양인들과 일본인들이 본토에 존재한다는 사실은 우리 인민에게 치욕과 같으니 반드시 끝장내야 합니다."
 Mongolia_yuanshikaidollar:0 "위안스카이 달러"
