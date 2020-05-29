@@ -338,7 +338,7 @@ germany.10.a:0 "Yes, expeditions to the North pole would be good, but we don’t
 germany.10.b:0 "A great idea! We will sail with our German Comrades!"
 germany.10.c:0 "We don't need such projects!"
 #CUSTOM TOOLTIPS AND FLAGS#
-nmapd_victory:0 "The NMAPD dominated the Reichsrätekongress"
+nmapd_victory:0 "NMAPD가 Reichsrätekongress의 과반을 차지하다"
 uspd_victory:0 "The USPD convinced the Reichsrätekongress"
 kpd_victory:0 "The KPD maintained their hegemony in the Reichsrätekongress" 
 kpda_victory:0 "The Leninist wing succeeded the united KPD in the Reichsrätekongress"
