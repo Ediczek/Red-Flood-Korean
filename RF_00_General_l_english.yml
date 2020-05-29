@@ -8,13 +8,14 @@ russian_warlord_cannot_join_ally_war:0 "우리에겐 지켜야 할 우리의 땅
 russian_warlord_cannot_call_ally_war:0 "놈들은 우리를 위한 전시 지원을 거절할 것이다."
 
 ### Bookmarks ###
-BM_HISTORY_TITLE:0 "The World of Red Flood"
-RISING_FLOOD_NAME:0 "The Rising Flood"
-RISING_FLOOD_DESC:0 "The world has descended further into darkness since the end of the Great War. With the collapse of the Western Front, the Russian Civil War, and the revolutions that swept most of Europe to radicalism, it seems as if the ideals of liberalism fought so dearly for in the First World War amounted to little in the face of the Futurists and the Councilists. Europe, and indeed the world, stand in a fragile balance, that may tip with the slightest of provocation..."
-SETTING_SUN_NAME:0 "The Setting Sun"
-SETTING_SUN_DESC:0 "Ever since the demise of the KMT alliance, Asia has been consumed by chaos and strife. Warlords battle it out for who will be the true ruler of China, and across the Himalayas similar warlords fight over the destiny of India while the British desperately try to hold on. Meanwhile Japan consumed by it's own imperialism does not see the collapse of its nation swiftly approaching. The Sun is setting on many Empires, but will be rising on others..."
-OTHER_THE_RISING_FLOOD_DESC:0 "Amid the chaos of the 20th Century there are many nations simply trying to survive the economic and ideological chaos. Some will have to pick a side in the coming conflict while others may choose their own paths."
-OTHER_THE_SETTING_SUN_DESC:0 "Amid the chaos of the 20th Century there are many nations simply trying to survive the economic and ideological chaos. Some will have to pick a side in the coming conflict while others may choose their own paths."
+BM_HISTORY_TITLE:0 "레드 플러드의 세계"
+RISING_FLOOD_NAME:0 "홍수가 일다"
+RISING_FLOOD_DESC:0 "지난 10년 간 어둠 속에 있던 세계는 더 어두운 곳을 향해 빠져들었습니다. 서부 전선의 붕괴, 러시아 내전, 혁명들이 유럽의 대부분을 급진주의로 빠뜨린 가운데, 1차 세계대전에서 부단히 싸웠던 자유주의의 이상은 이제 미래주의자들과 평의회주의자들의 앞에서 나약한 처지에 놓였습니다. 유럽과 세계는 빈약한 균형추 위에 서있습니다. 그리고 그 균형추는 아주 약간의 도발에도 기울어버릴 것입니다..."
+SETTING_SUN_NAME:0 "져가는 태양"
+SETTING_SUN_DESC:0 "국민당 동맹의 붕괴 이래 아시아는 혼란과 충격에 휩싸였습니다. 중국의 군벌들은 누가 중국의 진정한 통치자가 될 것인가를 두고 싸우고 있으며, 히말라야 산맥 너머에는 그와 비슷한 군벌들이 영국이 필사적으로 버티고 있는 인도의 운명을 놓고 싸우고 있습니다. 한편 제국주의 이념에 사로잡힌 일본은 즉각적인 국가의 붕괴가 빠르게 다가오고 있음을 모르고 있습니다. 태양은 많은 제국에서 져가지만, 다른 제국에서는 떠오를 것입니다..."
+
+OTHER_THE_RISING_FLOOD_DESC:0 "20세기의 혼돈 속에 수많은 국가들이 경제 및 이념적 재앙에서 살아남으려 하고 있습니다. 몇몇은 다가올 분쟁에서 편을 고를 것이며, 다른 이들은 각자의 길을 택할 것입니다."
+OTHER_THE_SETTING_SUN_DESC:0 "20세기의 혼돈 속에 수많은 국가들이 경제 및 이념적 재앙에서 살아남으려 하고 있습니다. 몇몇은 다가올 분쟁에서 편을 고를 것이며, 다른 이들은 각자의 길을 택할 것입니다."
 
 ### Ministers ###
 research_production:0 "기업체"
