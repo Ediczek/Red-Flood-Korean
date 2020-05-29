@@ -2,6 +2,30 @@
 #COUNTRY NAME#
 
 #PARTIES#
+
+NEP_vanguard_socialism_party:0 ""
+NEP_vanguard_socialism_party_long:0 ""
+NEP_libertarian_marxism_party:0 ""
+NEP_libertarian_marxism_party_long:0 ""
+NEP_revolutionary_anarchism_party:0 ""
+NEP_revolutionary_anarchism_party_long:0 ""
+NEP_revisionist_socialism_party:0 ""
+NEP_revisionist_socialism_party_long:0 ""
+NEP_social_democratism_party:0 ""
+NEP_social_democratism_party_long:0 ""
+NEP_liberalism_party:0 ""
+NEP_liberalism_party_long:0 ""
+NEP_conservatism_party:0 ""
+NEP_conservatism_party_long:0 ""
+NEP_right_authoritarianism_party:0 ""
+NEP_right_authoritarianism_party_long:0 ""
+NEP_despotism_party:0 ""
+NEP_despotism_party_long:0 ""
+NEP_reactionism_party:0 ""
+NEP_reactionism_party_long:0 ""
+NEP_accelerationism_party:0 ""
+NEP_accelerationism_party_long:0 ""
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
