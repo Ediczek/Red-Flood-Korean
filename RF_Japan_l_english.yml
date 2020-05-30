@@ -31,6 +31,7 @@ JAP_despotism_party_long:0 "유신파"
 JAP_reactionism_party_long:0 "입정호국회"
 JAP_accelerationism_party_long:0 "혁신관료"
 #JAP_accelerationism_party_long:0 "국민동맹"
+
 #LEADER DESCRIPTIONS#
 POLITICS_YASUHITO_DESC:0 ""
 POLITICS_OKAWA_SHUMEI_DESC:0 ""
@@ -97,22 +98,27 @@ JAP_dismantled_zaib:0 "해체된 재벌들"
 JAP_dismantled_zaib_desc:0 "해체된 재벌들"
 JAP_wartime_prep:0 "전시 대비"
 JAP_wartime_prep_desc:0 "전시 대비"
+
 #miraculous#
 JAP_economic_miracle:0 "일본 경제 기적"
 JAP_economic_miracle_desc:0 "일본 경제 기적"
+
 #commie stuff#
 JPR_general_strikes:0 "총파업"
 JPR_general_strikes_desc:0 "총파업"
 JPR_roads:0 "도로 수리"
 JPR_roads_desc:0 "도로 수리"
+
 #manchuria#
 JPR_mantetsu:0 "만철 점령"
 JPR_mantetsu_desc:0 "만철 점령"
+
 #restoration#
 JAP_cabinet:0 "천황 내각"
 JAP_cabinet_desc:0 "천황 내각"
 JAP_hegemony:0 "태평양 패권"
 JAP_hegemony_desc:0 "태평양 패권"
+
 #shogunate#
 JAP_bamboo:0 "대나무 고리"
 JAP_bamboo_desc:0 "대나무 고리"
@@ -131,6 +137,7 @@ JAP_sunrise_kingdom_desc:0 "욱일의 제국"
 #colonial policy - imperial#
 JAP_colonial_incentives:0 "식민지 장려책"
 JAP_colonial_incentives_desc:0 "식민지 장려책"
+
 #tech ideas#
 JAP_idea_airforce_army_intergration:0 "육공군 통합"
 JAP_idea_airforce_army_intergration_desc:0 "육공군 통합"
@@ -138,6 +145,7 @@ JAP_idea_SNLF:0 "일본 해병대"
 JAP_idea_SNLF_desc:0 "일본 해병대"
 JAP_idea_50_destroyers_program:0 "구축함 50척 계획"
 JAP_idea_50_destroyers_program_desc:0 "구축함 50척 계획"
+
 #commie stuff cont.#
 JAP_colonial_management:0 "신식민지관리책"
 JAP_colonial_management_desc:0 "신식민지관리책"
@@ -145,6 +153,7 @@ JAP_abolished_zaibs:0 "재벌 폐지"
 JAP_abolished_zaibs_desc:0 "재벌 폐지"
 JAP_champions_day:0 "영웅들의 날"
 JAP_champions_day_desc:0 "영웅들의 날"
+
 #restoration cont.#
 JAP_lotus_act:0 "연화법"
 JAP_lotus_act_desc:0 "연화법"
@@ -156,6 +165,7 @@ JAP_newhighcommand:0 "새로운 최고사령부"
 JAP_newhighcommand_desc:0 "새로운 최고사령부"
 JAP_pacify_military:0 "진정된 군대"
 JAP_pacify_military_desc:0 "진정된 군대"
+
 #industrial buff thing#
 JAP_war_machine:0 "태평양 전쟁기계"
 JAP_war_machine_desc:0 "태평양 전쟁기계"
@@ -211,11 +221,11 @@ japan.7.d:0 "일본인들은 옌시산과 산시에 대항한 전쟁의 성공�
 japan.7.a:0 "아주 좋아, 승낙하지."
 japan.7.b:0 "결코!"
 
-japan.8.t:0 "마가 군벌의 승낙"
+japan.8.t:0 "마가군이 승낙하다"
 japan.8.d:0 "마가 군벌은 이제 전쟁에 참전하여 산시의 왼쪽 측면으로 진군합니다. 이는 우리의 포위된 군대들의 짐을 덜어주고 전쟁의 진행을 가속시켜 줄 것입니다. 장군들이 꿈꾼 3개월 계획은 현실이 될지도 모릅니다."
 japan.8.a:0 "훌륭해!"
 
-japan.9.t:0 "마가 군벌의 거부"
+japan.9.t:0 "마가군이 거부하다"
 japan.9.d:0 "마가 군벌은 우리의 전쟁에 말려드는 것을 거부했습니다. 그 겁쟁이들은 산시 군벌을 무너트리고 전리품을 챙길 기회로부터 겁을 먹고 달아났습니다. 군벌들은 다른 한쪽으로 군대를 움직이기에는 서로 너무나도 붙어있나 봅니다."
 japan.9.a:0 "저주한다!"
 
