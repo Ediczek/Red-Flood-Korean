@@ -42,8 +42,8 @@ unstable_political_system:0 "불안정한 정치체제"
 unstable_political_system_1:0 "정치체제 안정화"
 
 #Warlord Shared IDEAS#
-RUS_warlord_indifference:0 "Warlord Indifference"
-RUS_warlord_indifference_desc:0 "The Warlords of the Russian Empire care little for the goings on in Moscow and Petrograd, they are far too busy keeping their states together to care who is Supreme Rule of All Russia."
+RUS_warlord_indifference:0 "군벌들의 무관심"
+RUS_warlord_indifference_desc:0 "러시아 제국의 군벌들은 모스크바와 페트로그라드에서 돌아가는 일들에 관심이 별로 없습니다. 전 러시아의 최고통수권자가 누구인지 신경 쓰기엔 자기네 봉토를 지키기도 벅찹니다."
 
 november_harsh_repression:0 "가혹한 파업 진압"
 november_soft_repression:0 "파업 노동자와의 화해"
