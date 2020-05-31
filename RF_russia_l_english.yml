@@ -3,7 +3,7 @@
 
 
 #Bookmarks#
-KOLCHAK_RUSSIAN_DESC:0 "키예프에서 벌어진 니콜라이 2세 살해는 러시아를 뒤흔들었습니다. 스톨리핀 총리가 이끄는 자신감 넘치는 정부는 나라를 안정시키고 2차 조국전쟁 또한 이겨냈습니다. 그러나 전쟁은 러시아 국민의 정신을 무너트렸습니다. 반역적인 진보주의자들과 함께 사회주의자들은 나라를 혼란에 빠뜨렸습니다. 다행히 맹세를 충실히 지킨 장교와 백성들의 노력으로 나라의 멸망은 막아냈습니다. 이제 10년이 지났고 러시아는 회복되었습니다. 알렉산더 콜차크는 조타를 단단히 잡았지만 러시아 전역에 구름이 짙어졌습니다. 제독은 다가오는 홍수를 견뎌낼까요, 아니면 개울물이 러시아를 바위 위로 날려버릴까요?"
+KOLCHAK_RUSSIAN_DESC:0 "키예프에서 벌어진 니콜라이 2세 살해는 러시아를 뒤흔들었습니다. 스톨리핀 총리가 이끄는 자신감 넘치는 정부는 나라를 안정시키고 2차 조국전쟁 또한 이겨냈습니다. 그러나 전쟁은 러시아 국민의 정신을 무너트렸습니다. 반역적인 진보주의자들과 함께 사회주의자들은 나라를 혼란에 빠뜨렸습니다. 다행히 맹세를 충실히 지킨 장교와 백성들의 노력으로 나라의 멸망은 막아냈습니다. 이제 10년이 지났고 러시아는 회복되었습니다. 알렉산드르 콜차크는 조타를 단단히 잡았지만 러시아 전역에 구름이 짙어졌습니다. 제독은 다가오는 홍수를 견뎌낼까요, 아니면 개울물이 러시아를 바위 위로 날려버릴까요?"
 
 #PARTIES#
 RUS_vanguard_socialism_party:0 "평의회주의 집단"
@@ -299,18 +299,18 @@ RUS_anywhereanytime:0 "언제 어디서든"
 RUS_anywhereanytime_desc:0 ""
 
 ###Black Bloc###
-RUS_black_bloc:0 "The Black Bloc starts counterreforms"
+RUS_black_bloc:0 "The Black Bloc의 반개혁 개시"
 RUS_preparations_for_war:0 "전쟁준비"
 RUS_black_hundreds_countryside:0 "향촌의 흑백단"
 RUS_close_opposition_press:0 "반대 언론 폐간"
 RUS_introduce_martial_law:0 "계엄령 도입"
 RUS_drumhead_court-martial:0 "즉석 군사재판 재도입"
-RUS_death_revolutionaries:0 "Death for any revolutionary activity"
-RUS_patriotism_in_press:0 "Promote patriotism in the press"
-RUS_nationalize_war_industry:0 "Nationalize the war industry"
+RUS_death_revolutionaries:0 "혁명 활동 사형 판결"
+RUS_patriotism_in_press:0 "언론에서의 애국 증진"
+RUS_nationalize_war_industry:0 "전쟁산업 국유화"
 RUS_observe_industry:0 "Keep an eye on the situation in industry"
 RUS_militarization_nation:0 "Militarization of the nation"
-RUS_solve_jewish_problem:0 "Solve the jewish problem"
+RUS_solve_jewish_problem:0 "유대인 문제 해결"
 RUS_emigration_palestine:0 "Promote immigration to Palestine"
 RUS_improve_life_conditions:0 "Improve the live conditions of our people"
 RUS_sell_state_lands:0 "Sell the state-owned lands to the peasants"
