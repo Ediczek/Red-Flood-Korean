@@ -27,17 +27,17 @@ UPI_accelerationism_party_long:0 "미래주의 연맹"
 UPI_brutal_colonizer:0 "잔혹한 식민주의자"
 UPI_brutal_colonizer_desc:0 "A brutal man who would rather see a dozen dead over one protestor, it has become the speciality of Winston Churchill to put down the revolts of the United Probinces with violence instead of words."
 
-UPI_winston_churchill:0 "The man responsible for butchery in Gallipoli, where ANZAC forces were gunned down for no gain. The tyrant behind the chemical weapons used in the Middle East. The dictator of India, where entire villages vanish. Winston Churchill is a broken man, who cannot stand the blood he drowns in every day. What will happen to poor Winston? He is propelled forwards by nothing but the expectation that more pain-dulling whiskey is on the horizon, not seeing the knives sharpening around him."
+UPI_winston_churchill:0 "The man responsible for butchery in Gallipoli, where ANZAC forces were gunned down for no gain. 중동에서의 화학병기 사용의 배후였던 폭군. 마을을 통째로 사라지게 만든 인도의 독재자. Winston Churchill is a broken man, who cannot stand the blood he drowns in every day. What will happen to poor Winston? He is propelled forwards by nothing but the expectation that more pain-dulling whiskey is on the horizon, not seeing the knives sharpening around him."
 
 UPI_avatar_desc:0 "No one knows where this bold, charismatic woman came. She came chanting, she came shouting, she came telling the Indians that they had stumbled upon divine truths. Over time, a mess, a total and complete mess of pseudo-religion, ideology, a personality cult, and ultimately just thousands of people needing some manifestation of hope to cling to. This exploitation of fear, anger, and hate, with a veneer of justification in mis-remembered and outright lied-about theology, became the Avatar Cult, lead by a Goddess who shall drown the world in blood."
 
 #IDEAS#
 UPI_brutal_putdowns:0 "잔혹한 진압"
-UPI_brutal_putdowns_desc:0 "As a result of the brutal, and regular, putdowns by our armies, the people have no faith in our government. We shall ensure that, through force, they understand who rules."
+UPI_brutal_putdowns_desc:0 "잔혹하며 정기적인 우리 군에 의한 진압의 결과, 인민은 우리 정부에 어떤 믿음도 갖지 않게 되었습니다. 무력을 통해 누가 그들을 지배하는가를 일깨워 줄 것입니다."
 UPI_shadow_gallipoli:0 "갈리폴리의 그림자"
-UPI_shadow_gallipoli_desc:0 "Even among those who join the army, the shadow of the failures of Gallipoli stalks their confidence. Churchill clearly is not the best leader, and this attitude permeates the NCOs and His Majesty's Officers alike."
-UPI_alone_unsupplied_cutoff:0 "Alone, Unsupplied and Cut-off"
-UPI_alone_unsupplied_cutoff_desc:0 "We are relying more and more on internal manufacture, and the high-quality Lee-Enfields our soldiers are used to are slowly being replaced by home-grown gun designs. Manufacturing problems aside, they're often nowhere near as well-liked."
+UPI_shadow_gallipoli_desc:0 "육군에 입대한 이들 사이에서조차 갈리폴리에서의 실패의 그림자는 자신감에 달라붙어 있습니다. 처칠은 분명 최고의 지도자가 아니며, 이러한 태도는 부사관들과 폐하의 장교진에게도 마찬가지로 스며들었습니다."
+UPI_alone_unsupplied_cutoff:0 "홀로, 보급도 없이 단절된 채"
+UPI_alone_unsupplied_cutoff_desc:0 "내부제조에 우리는 점점 더 의존하게 되면서, 우리 병사들이 사용하던 고품질의 리-엔필드들은 점차 자체제작 총기로 바뀌어갔습니다. 제조 문제를 제쳐두더라도, 총기는 우리가 필요한 만큼 널려 있지 않습니다."
 
 UPI_civil_obedience:0 "시민불복종"
 UPI_civil_obedience_desc:0 "Everyone follows our rule, our laws. We allow dissent, but only within certain parameters. We allow freedom of speech, so long as it does not threaten us. We have limits, as any free society should."
