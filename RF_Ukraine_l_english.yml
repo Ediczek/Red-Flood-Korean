@@ -57,13 +57,13 @@ UKR7_accelerationism_ADJ:0 "우크라이나"
 
 #PARTIES#
 UKR_vanguard_socialism_party:0 "CPU(L)"
-UKR_vanguard_socialism_party_long:0 "Communist Party of Ukraine (Leninists)"
+UKR_vanguard_socialism_party_long:0 "우크라이나 공산당 (레닌주의파)"
 
 UKR_libertarian_marxism_party:0 "CPU(I)"
-UKR_libertarian_marxism_party_long:0 "Communist Party of Ukraine (Independent)"
+UKR_libertarian_marxism_party_long:0 "우크라이나 공산당 (독립파)"
 
 UKR_revolutionary_anarchism_party:0 "CPU(A)"
-UKR_revolutionary_anarchism_party_long:0 "Communist Party of Ukraine (Anarchists)"
+UKR_revolutionary_anarchism_party_long:0 "우크라이나 공산당 (아나키스트파)"
 
 UKR_revisionist_socialism_party:0 "UPSR"
 UKR_revisionist_socialism_party_long:0 "Ukrainian Party of Socialist Revolutionaries"
@@ -90,28 +90,28 @@ UKR_right_authoritarianism_2_party:0 "UPIWV"
 UKR_right_authoritarianism_2_party_long:0 "Ukrainian Party of Independence War Veterans"
 
 UKR_despotism_party:0 "HS"
-UKR_despotism_party_long:0 "General Staff"
+UKR_despotism_party_long:0 "참모진"
 
 UKR_despotism_2_party:0 "URHS"
-UKR_despotism_2_party_long:0 "Ukrainian-Ruthenian Historic Society"
+UKR_despotism_2_party_long:0 "우크라이나-루테니아 역사회"
 
 UKR_reactionism_party:0 "UAFC"
-UKR_reactionism_party_long:0 "Ukrainian Association of Free Cossacks"
+UKR_reactionism_party_long:0 "우크라이나 자유 카자키 협회"
 
 UKR_accelerationism_party:0 "VKR i ZUNV"
 UKR_accelerationism_party_long:0 "Free Cossack Council and Squads of Ukrainian National Rejuvenation"
 
 UKR_accelerationism_2_party:0 "GS"
-UKR_accelerationism_2_party_long:0 "Galician Society"
+UKR_accelerationism_2_party_long:0 "갈리치야회"
 
 UKR_accelerationism_3_party:0 "UPWP"
-UKR_accelerationism_3_party_long:0 "Ukrainian Popular Workers' Party"
+UKR_accelerationism_3_party_long:0 "우크라이나 인민노동자당"
 
 UKR_accelerationism_4_party:0 "UPWP-NA"
-UKR_accelerationism_4_party_long:0 "Ukrainian Popular Workers' Party (New Art)"
+UKR_accelerationism_4_party_long:0 "우크라이나 인민노동자당 (New Art)"
 
 UKR_accelerationism_5_party:0 "UPWP-SS"
-UKR_accelerationism_5_party_long:0 "Ukrainian Popular Workers' Party (Self-Sufficiency)"
+UKR_accelerationism_5_party_long:0 "우크라이나 인민노동자당 (자족)"
 
 #LEADER DESCRITIONS#
 UKR_Mishka_Yaponchik_desc:0 ""
