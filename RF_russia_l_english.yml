@@ -37,6 +37,7 @@ RUSSIAN_EMPIRE_DESC:0 ""
 
 #IDEAS#
 victor_in_the_velikaya_voyna:0 "대전쟁에서의 승리"
+victor_in_the_velikaya_voyna_1:0 "군사 회복"
 monopolized_industry:0 "독점된 산업"
 unstable_political_system:0 "불안정한 정치체제"
 unstable_political_system_1:0 "정치체제 안정화"
@@ -61,6 +62,10 @@ RUS_kolchak_cult_2:0 "새로운 군주"
 RUS_kolchak_cult_3:0 "새로운 군주"
 RUS_kolchak_cult_4:0 "최고지도자 숭배"
 RUS_emperor_return:0 "황제의 귀환"
+RUS_emperor_return_1:0 "황제의 귀환"
+RUS_emperor_return_2:0 "황제의 귀환"
+RUS_emperor_return_3:0 "The Empire Ascendant"
+RUS_neo_stolypinism:0 "신스톨리핀 개혁"
 
 RUS_reorganized_stavka:0 "스탑카 개편"
 RUS_autonomy_for_frontline_commanders:0 "전선지휘관들의 자기결정권"
@@ -119,7 +124,9 @@ RUS_Vladimir_Kappel_int_lib_con_rau:0 "블라디미르 카펠"
 #CUSTOM TOOLTIPS AND FLAGS#
 RUS_expand_okhrana_tooltip:0 "Modify §Y궐위§! 가\n소비재 공장: §Y-5%§!\n일일 전제주의 변화: §R-0.03§!\n안정도: §R-5.00%§!"
 RUS_expand_osvag_tooltip:0 "Modify §Y궐위§! by\n공격적 전쟁으로인한 안정도: §G+50%§!\n사단 회복율: §G+5.0%§!"
-RUS_cult_kolchak_tooltip:0 "§Y궐위§!를 §Y최고 지도자 추종§!으로 교체합니다\n효과 변경:\n안정도: §G+5.00%§!\n정치력 획득: §G+10%§!"
+RUS_cult_kolchak_tooltip:0 "Replace §Y궐위§!를 §Y최고 지도자 추종§!으로 교체합니다\n효과 변경:\n안정도: §G+5.00%§!\n정치력 획득: §G+10%§!"
+RUS_illusion_order_tooltip:0 "Replace §YReturn of the Emperor§! with §YThe Empire Ascendant§!\nEffective change:\nWeekly Stability: §G+0.01%§!\nPolitical Power Gain: §G+0.1%§!"
+improve_previous_tooltip:0 "\n§YThis focus will improve the previous national spirit.§!"
 
 #DECISIONS#
 
