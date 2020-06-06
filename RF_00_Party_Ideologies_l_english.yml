@@ -11,7 +11,6 @@ national_vanguardism_desc:0 "국가전위주의는 민족주의적이고 사회�
 bolshevism:0 "정통 레닌주의"
 bolshevism_desc:0 "정통 레닌주의는 러시아의 혁명가 블라디미르 레닌에게 충성하는 전위사회주의 학파를 지칭하는 용어로, 노동계급의 자기해방과 영구혁명론에 기반을 둔 사회주의의 형성을 향한 정치적 서곡으로서 혁명전위당의 조직과 프롤레타리아 독재정을 주장합니다."
 
-
 libertarian_marxism:0 "자유지상주의적 마르크스주의자"
 libertarian_marxism_noun:0 "자유지상주의적 마르크스주의"
 libertarian_marxism_desc:0 "사회주의 정권"
@@ -101,8 +100,8 @@ despotism_noun:0 "전제주의"
 despotism_desc:0 "권위주의 정권"
 despotism_ideology:0 "전제주의"
 despotism_ideology_desc:0 "전제주의는 단일 실체가 절대 권력을 갖는 정부 형태입니다. 일반적으로 이 실체는 전제권자인 개인으로 구성된 독재정이지만, 존중과 권력이 특정 집단들에게 제한된 사회 또한 전제정으로 분류됩니다."
-absolute_monarchism:0 "절대군주주의"
-absolute_monarchism_desc:0 "절대군주주의는 한 명의 통치자가 절대적 권위를 가지며, 그 권위는 성문법과 입법부, 관습 등 그 어떤 것에 의해서도 제약받지 않는다고 여기는 군주정의 형태입니다."
+absolute_monarchy:0 "절대군주주의"
+absolute_monarchy_desc:0 "절대군주주의는 한 명의 통치자가 절대적 권위를 가지며, 그 권위는 성문법과 입법부, 관습 등 그 어떤 것에 의해서도 제약받지 않는다고 여기는 군주정의 형태입니다."
 military_dictatorship:0 "군사독재"
 military_dictatorship_desc:0 "군사독재는 군사정부의 독재적 형태로, 종종 개인숭배를 동반한, 도전받지 않는 군사지도자의 강력한 통제를 받는 국가기관이 경제와 군사우선 정책을 지도합니다."
 annihilationism:0 "절멸주의"
