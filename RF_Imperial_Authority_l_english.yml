@@ -128,11 +128,16 @@ TAN_Roman_von_Ungern-Sternberg_con:0 "남작 로만 폰 운게른-슈테른베�
 TAN_Roman_von_Ungern-Sternberg_coaf:0 "남작 로만 폰 운게른-슈테른베르크"
 
 #Traits#
+TAN_roman:0 "잔혹한 정복자"
 
 #Custom#
 TAN_SETTING_SUN_DESC:0 "황권은 러시아와 중국의 경계에 자리한 군벌들 중 하나로, 전 러시아 육군 장교 로만 폰 운게른-슈테른베르크의 통치를 받고 있습니다. 이 소규모 군벌국가는 점차 급진 종교 반동들의 광신 집단이 되어가고 있습니다. 슈테른베르크가 투바 산맥에 근거지를 마련할 수 있다면, 몽골과 중앙아시아 전체를 지배할 수 있을지도 모릅니다."
 #Misc#
 #Events#
+mongolia.2.t:0 "슈테른베르크가 동료 불교도를 부르다"
+mongolia.2.d:0 "이른바 몽골의 미친 남작이 자신의 열광적인 회전에 가담할 이들을 찾고자 아시아의 불교 국가들에게 접근해왔습니다. 국내 급진 요소들이 자기네 싸움을 찾아 떠나도록 두든지, 아니면 국경을 닫아 놈들을 더 주의깊게 감시할 수도 있을 것입니다."
+mongolia.2.a:0 "의용병들의 남작 가담을 허용한다."
+mongolia.2.b:0 "국경을 넘는 자는 누구든 체포한다!"
 #Focuses#
 TAN_waroffaiths:0 "신앙들의 전쟁"
 TAN_waroffaiths_desc:0 "전쟁이 선포되면 종교들은 부르짖으니, 남작들의 수하들은 각자의 신조에 상관 없이 부처의 기치 아래 단결할 때입니다."
@@ -181,7 +186,7 @@ TAN_realmoflivingbuddha_desc:0 "우리는 아프가니스탄의 성지들, 가�
 TAN_himalayancampaign:0 "히말라야 전구"
 TAN_himalayancampaign_desc:0 "인도에서의 혼돈을 제어하고 카쉬미르와 네팔을 점거해 우리의 남면을 확보해야 합니다."
 TAN_bringpeacetochina:0 "중국에 평화를"
-TAN_bringpeacetochina_desc:0 ""
+TAN_bringpeacetochina_desc:0 "중국이 혼란에 빠져있으니, 남작은 질서, 평화, 번영과 종교적 정의를 이 중간 왕국에 다시 가져오겠다 맹세했습니다."
 TAN_unionwithtibet:0 "티베트과의 연합"
 TAN_unionwithtibet_desc:0 "달라이 라마가 남작에게 축복을 내렸습니다. 이제 티베트에게 불국에 가담할 것을 제안합시다."
 TAN_embracebuddhiststate:0 "불교국가 포용"
