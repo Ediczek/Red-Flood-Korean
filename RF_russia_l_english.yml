@@ -77,7 +77,7 @@ RUS_coastal_troops_command:0 "해안경비대 사령부"
 RUS_coastal_artillery:0 "해안포"
 RUS_outrun_and_outgun:0 "빠르고 강하게"
 RUS_silent_and_deadly:0 "조용하며 치명적이게"
-RUS_display_of_power: "전력 과시"
+RUS_display_of_power:0 "전력 과시"
 RUS_weather_training:0 "내후 훈련"
 RUS_national_aviation_committee:0 "국가 항공 위원회"
 RUS_knights_in_the_air:0 "창공의 기사들"
@@ -117,9 +117,9 @@ RUS_Sergei_Obolensky_int_acc:0 "세르게이 오볼렌스키"
 RUS_Vladimir_Kappel_int_lib_con_rau:0 "블라디미르 카펠"
 
 #CUSTOM TOOLTIPS AND FLAGS#
-RUS_expand_okhrana_tooltip:0 "Modify §Y빈 왕좌§! 가\n소비재 공장: §Y-5%§!\n일일 전제주의 변화: §R-0.03§!\n안정도: §R-5.00%§!"
-RUS_expand_osvag_tooltip:0 "Modify §Y빈 왕좌§! by\n공격적 전쟁으로인한 안정도: §G+50%§!\n사단 회복율: §G+5.0%§!"
-RUS_cult_kolchak_tooltip:0 "§Y빈 왕좌§!를 §Y최고 지도자 추종§!으로 교체합니다\n효과 변경:\n안정도: §G+5.00%§!\n정치력 획득: §G+10%§!"
+RUS_expand_okhrana_tooltip:0 "Modify §Y궐위§! 가\n소비재 공장: §Y-5%§!\n일일 전제주의 변화: §R-0.03§!\n안정도: §R-5.00%§!"
+RUS_expand_osvag_tooltip:0 "Modify §Y궐위§! by\n공격적 전쟁으로인한 안정도: §G+50%§!\n사단 회복율: §G+5.0%§!"
+RUS_cult_kolchak_tooltip:0 "§Y궐위§!를 §Y최고 지도자 추종§!으로 교체합니다\n효과 변경:\n안정도: §G+5.00%§!\n정치력 획득: §G+10%§!"
 
 #DECISIONS#
 
