@@ -1,6 +1,24 @@
 ﻿l_english:
 #COUNTRY NAME#
 
+
+# Opinion Modifiers #
+# USA #
+ENG_diplomatic_talks:0 "외교대담"
+ENG_washington_conference:0 "워싱턴 회담"
+# Japan #
+ENG_anti_japan:0 "일본에 대항하여!"
+ENG_warlord_talks:0 "군벌들과의 대담"
+# France #
+ENG_encircle_france:0 "미쳐버린 프랑스인들 격리"
+ENG_lisbon_accords:0 "리스본 합의"
+ENG_italian_pact:0 "영국-이탈리아 협약"
+# Germany #
+ENG_anti_internatiol_pact:0 "인터내셔널에 대항하여!"
+ENG_freikorp_negotiations:0 "자유군단 협상"
+ENG_stockholm_summit:0 "스톡홀름 정상회담"
+ENG_warsaw_pact:0 "바르샤바 협약"
+
 #BOOKMARKS#
 UNITED_KINGDOM_DESC:0 "대전쟁에서 승리한 영국은 수많은 젊은이의 목숨으로 승리의 대가를 치렀습니다. 영국은 1920년대에 적대국들에게 위협받지 않는 세계 유일의 초강대국으로 번영했습니다. 1931년의 총파업과 수상의 암살은 이 모든 것을 무너뜨리고 1934년의 경제 붕괴와 뒤이어 "대공황"으로 이어졌습니다. 이젠 수많은 태양이 져가는 바로 그 제국이 이제는 왕국의 약점이 되었습니다. 3월에 선거가 치러지는 동안, 많은 사람들은 새 정부가 나라를 구할 수 있을지에 대해 궁금해 하고 있습니다."
 
