@@ -16,23 +16,23 @@ worldnews.4.a:0 "황군이 이시와라를 쏴버린 건 옳은 일이었군 그
 worldnews.4.b:0 "당장 가서 한 권 사오도록!"
 
 #############################################################################
-news.intro.t:0 "Welcome to Red Flood"
-news.intro.d:0 "Red Flood is an Alternate-History scenario based upon the idea \"What if no-one won WWI?\". In 1905 Russia 'won' the Russo-Japanese War, strengthening the Monarchy until Tsar Nicholas II was assassinated in 1911.  This set a chain of events in motion that led to WWI breaking out in 1913 after the 2nd Balkan War drew Austria-Hungary and Russia to blows. The Triple Entente and Central Powers fought for years but eventually the war fizzled out, the French Army collpased, Russia fell into chaos at the death of Tsar Alexei II and Spartakist uprisings in Germany deposed the Monarchy. Britain could only look on in horror as the continent tore itself apart, its Empire also grew increasingly unstable. In the East Japan snatched up a colonial empire - overextending itself in the process - the USA, dismayed at the state of the world, doubled down on its isolationism. \nA new movement has swept Europe in the years since the end of the war, Accelerationism. The highly artistic and chauvinist political manifestation of extreme modernism, its growth began after the Italian radicals seized the city of Fiume in 1919 and has been a thorn in the side of Marxists, Monarchists and Moderates alike ever since. In 1934 France fell under the influence of its own Accelerationist movement, now the leader of the Avant Guard State - Antonin Artaud - prepares France to bring the future to the rest of the world by force."
-news.intro.a:0 "Thank You Red Flood Team!"
-news.intro.b:0 "I don't care about lore, I want to go F A S T!"
-news.intro.c:0 "What on Earth were you guys smoking?"
+news.intro.t:0 "레드 플러드에 오신 걸 환영합니다"
+news.intro.d:0 "레드 플러드는 \"만약 1차 세계대전에서 누구도 이기지 못 했다면?\"이라는 발상에서 시작된 대체역사 시나리오입니다. 1905년 러시아가 러일전쟁에서 '승리'하고, 1911년 차르 니콜라이 2세가 암살될 때까지 군주정은 강화됐습니다. This set a chain of events in motion that led to WWI breaking out in 1913 after the 2nd Balkan War drew Austria-Hungary and Russia to blows. The Triple Entente and Central Powers fought for years but eventually the war fizzled out, the French Army collpased, Russia fell into chaos at the death of Tsar Alexei II and Spartakist uprisings in Germany deposed the Monarchy. Britain could only look on in horror as the continent tore itself apart, its Empire also grew increasingly unstable. In the East Japan snatched up a colonial empire - overextending itself in the process - the USA, dismayed at the state of the world, doubled down on its isolationism. \nA new movement has swept Europe in the years since the end of the war, Accelerationism. The highly artistic and chauvinist political manifestation of extreme modernism, its growth began after the Italian radicals seized the city of Fiume in 1919 and has been a thorn in the side of Marxists, Monarchists and Moderates alike ever since. In 1934 France fell under the influence of its own Accelerationist movement, now the leader of the Avant Guard State - Antonin Artaud - prepares France to bring the future to the rest of the world by force."
+news.intro.a:0 "고마워요 레드 플러드 팀!"
+news.intro.b:0 "설정 좆까, 더 빠.르.게!"
+news.intro.c:0 "무슨 마약을 하길래 이런 생각을 하셨어요?"
 
-news.1.t:0 "No, Thank You Kind Player"
+news.1.t:0 "친절하시긴, 저희가 다 고맙죠."
 news.1.d:0 "Please remember Red Flood is the work of a volunteer team whos real lives affect and are affected by work on this mod and the community we have. We appreciate feedback and community interaction on our discord (where we are most active - link available on the steam page) and subreddit."
-news.1.a:0 "Have Fun!"
+news.1.a:0 "재밌게 하세요!"
 
 news.2.t:0 "Ok F A S T B O I"
 news.2.d:0 "Be careful not to cut yourself on that edge, and remember Red Flood is a fictional timeline. Our lore can't hurt you, and if you think it did, the devs don't really care because our writers are awesome."
-news.2.a:0 "EIA EIA ALALALALALA"
+news.2.a:0 "에야 에야 알랄랄랄라"
 
-news.3.t:0 "There is no Single Answer"
+news.3.t:0 "할 말 없습니다"
 news.3.d:0 "Some of our developers are very well read, others have mental health issues, others have an interest in History that has lead to some very obscure wikipedia articles that aren't even in our native tongue. On the whole we are a menagerie of strange and wonderful people, enjoy the fruits of our loins.. I mean labour! Just rememeber that history is weird. In our timeline a failed artist became a dictator and took an indebted wreck of a nation to the top of the world on a cult of personality. He then gambled against - a former Priest and street thug from the Caucasus, who came to power in one of the bloodiest dictatorships of all time - and lost."
-news.3.a:0 "History IS really weird..."
+news.3.a:0 "역사 자체가 졸라 이상하거든요..."
 
 #############################################################################
 news.4.t:0 "French National Council Convenes"
@@ -46,14 +46,14 @@ news.2.a:0 "도대체 영국은 뭘하고 있는 건가?"
 news.2.b:0 "재앙이다."
 news.2.c:0 "프랑스를 위하여!"
 
-news.6.t:0 "Wallonia Joins France"
+news.6.t:0 "왈로니가 프랑스에 합류하다"
 news.6.d:0 ""
 news.6.a:0 ""
  
-news.7.t:0 "Wallonia Retains Independence"
+news.7.t:0 "왈로니가 독립을 유지하다"
 news.7.d:0 ""
-news.7.a:0 "Godspeed Wallonia"
+news.7.a:0 "행운을 비오, 왈로니여."
 
-news.8.t:0 "Brazil falls to Anarchy"
+news.8.t:0 "브라질이 무정부 상태에 빠지다"
 news.8.d:0 "After over a century of oligarchic rule, chaos, civil war, and political corruption, it appears that Brazil as an entity has finally collapsed entirely. A couple of weeks ago, the state of New Silesia broke away from the Second Republic of Brazil, an entity created after the Brazilian Civil War and the victory of oligarchic and capitalist forces against the Socialist government, which then collapsed after giving extensive powers to the oligarchs which gave them the power to rise up in the first place across the country. Then, the rest of Brazil followed suit, declaring either independence as ethnic states or declaring entire rival governments that seek to unify Brazil into a new Republic. This ranges from Republican Democrats who believe in enshrining the liberal values of 1889, to hardline Reactionary German-Brazilians wanting to create a German-Brazilian Realm which seeks to protect Brazil's minorities against the Portuguese majority. Some of the warlords like the Bley Clique are deeply ingrained in Francophilia and believe in keeping the status quo of the old Republic with some Reformist elements, and other cliques like the Góis Clique wishes to create an authoritarian populist state that seeks to rejuvenate the nation. The Anarchy that surrounded Brazil has now ended in the areas surrounding Rio de Janeiro and São Paulo, which have fallen under the previously-de-jure President of Brazil which seized power using militias across the rump Federal territory and proclaimed an Emergency Federal Government which is considered by most to be the legitimate government of Brazil."
-news.8.a:0 "The Belle Époque is gone."
+news.8.a:0 "벨 에포크는 끝났구나."
