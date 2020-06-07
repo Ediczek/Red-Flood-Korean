@@ -1,22 +1,69 @@
 ﻿l_english:
+#COUNTRY NAME#
+POL_vanguard_socialism:0 "폴란드"
+POL_vanguard_socialism_DEF:0 "폴란드"
+POL_vanguard_socialism_ADJ:0 "폴란드"
 
+POL_libertarian_marxism:0 "폴란드"
+POL_libertarian_marxism_DEF:0 "폴란드"
+POL_libertarian_marxism_ADJ:0 "폴란드"
+
+POL_revolutionary_anarchism:0 "폴란드"
+POL_revolutionary_anarchism_DEF:0 "폴란드"
+POL_revolutionary_anarchism_ADJ:0 "폴란드"
+
+POL_revisionist_socialism:0 "폴란드"
+POL_revisionist_socialism_DEF:0 "폴란드"
+POL_revisionist_socialism_ADJ:0 "폴란드"
+
+POL_social_democratism:0 "폴란드"
+POL_social_democratism_DEF:0 "폴란드"
+POL_social_democratism_ADJ:0 "폴란드"
+
+POL_placeholderism:0 "폴란드"
+POL_placeholderism_DEF:0 "폴란드"
+POL_placeholderism_ADJ:0 "폴란드"
+
+POL_liberalism:0 "폴란드"
+POL_liberalism_DEF:0 "폴란드"
+POL_liberalism_ADJ:0 "폴란드"
+
+POL_conservatism:0 "폴란드"
+POL_conservatism_DEF:0 "폴란드"
+POL_conservatism_ADJ:0 "폴란드"
+
+POL_right_authoritarianism:0 "폴란드"
+POL_right_authoritarianism_DEF:0 "폴란드"
+POL_right_authoritarianism_ADJ:0 "폴란드"
+
+POL_despotism:0 "폴란드"
+POL_despotism_DEF:0 "폴란드"
+POL_despotism_ADJ:0 "폴란드"
+
+POL_reactionism:0 "폴란드"
+POL_reactionism_DEF:0 "폴란드"
+POL_reactionism_ADJ:0 "폴란드"
+
+POL_accelerationism:0 "폴란드"
+POL_accelerationism_DEF:0 "폴란드"
+POL_accelerationism_ADJ:0 "폴란드"
 #PARTIES#
-POL_accelerationism_party:0 "Blok Sanacyjny"
-POL_accelerationism_party_long:0 "Blok Sanacyjny"
+POL_accelerationism_party:0 "회복권"
+POL_accelerationism_party_long:0 "회복권"
 POL_accelerationism_party_szuk:0 "NNK"
 POL_accelerationism_party_long_szuk:0 "Naczelnictwo Narodowej Kolektywy"
 POL_social_democratism_party:0 "PPS"
-POL_social_democratism_party_long:0 "Polska Partia Socialistyczna"
+POL_social_democratism_party_long:0 "폴란드 사회주의당"
 POL_social_democratism_party_second:0 "DFL"
-POL_social_democratism_party_long_second:0 "Demokratyczny Front Ludowy"
+POL_social_democratism_party_long_second:0 "인민민주전선"
 POL_right_authoritarianism_party:0 "WRZN"
 POL_right_authoritarianism_party_long:0 "Wojskowa Rada Zbawienia Narodowego"
 POL_despotism_party:0 "WRZN"
 POL_despotism_party_long:0 "Wojskowa Rada Zbawienia Narodowego"
 POL_conservatism_party:0 "ChD"
-POL_conservatism_party_long:0 "Chrześcijańska Demokracja"
+POL_conservatism_party_long:0 "기독민주당"
 POL_liberalism_party:0 "PSL(P)"
-POL_liberalism_party_long:0 "Polskie Stronnictwo Ludowe (Piast)"
+POL_liberalism_party_long:0 "폴란드 인민당 (피아스트)"
 POL_libertarian_marxism_party:0 "ChSR"
 POL_libertarian_marxism_party_long:0 "Chłopskie Stronnictwo Radykalne"
 POL_vanguard_socialism_party:0 "KPP"
@@ -37,7 +84,7 @@ POL_GATHERING_STORM_DESC = "대전쟁 직후 이어진 독일과 러시아의 �
 POL_dreamofzadruga:0 "자드루가의 꿈"
 POL_selfmanagement:0 "자기관리"
 POL_neweraneweconomy:0 "신시대의 경제"
-POL_huzarzy_smierci:0 "Huzarzy Śmierci"
+POL_huzarzy_smierci:0 "죽음의 후사르들"
 POL_ukremigration:0 "우크라이나인들의 이주"
 POL_zermatic:0 "Zermatic Spirituality"
 POL_masteryovermatter:0 "사안통달"
@@ -68,7 +115,7 @@ POL_jan_nagorski_air:0 "얀 나구르스키"
 POL_jasinski_stanislaw_air:0 "스타니스와프 야신스키"
 POL_antoni_lomnicki_eco:0 "안토니 웜니츠키"
 #CUSTOM TOOLTIPS AND FLAGS#
-pilsudski_death:0 "사랑받던 원수가 사랑했습니다"
+pilsudski_death:0 "사랑받던 원수가 사망했습니다."
 #DECISIONS (1.5 Update)#
 #EVENTS#
 poland.1.t:0 "피우수트스키의 부재"
