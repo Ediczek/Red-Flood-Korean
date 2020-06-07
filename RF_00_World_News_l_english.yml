@@ -35,10 +35,10 @@ news.3.d:0 "Some of our developers are very well read, others have mental health
 news.3.a:0 "역사 자체가 졸라 이상하거든요..."
 
 #############################################################################
-news.4.t:0 "French National Council Convenes"
-news.4.d:0 "Since 1934, France has been ruled by a joint coalition of the military, which supported the 1934 coup, as well a loose group of conservatives including monarchists, revolutionary nationalists, and arch-conservatives. As unhappiness over martial law reaches boiling point, the anti-Socialist government has met in Versailles to determine who will govern France."
-news.4.a:1 "Let us pray for eternal France."
-news.4.b:0 "Let us hope they choose wisely."
+news.4.t:0 "프랑스 민족평의회 개최"
+news.4.d:0 "1934년 이래 프랑스는 군주주의자를 포함한 보수주의자, 혁명민족주의자, 반보수주의자들을 포함한 느슨한 연계의 집단을 비롯하여, 1934년 정변을 지원했던 군과의 합동 연정의 통치를 받아왔습니다. 계엄령에 대한 불만이 임계점에 달하자, 반사회주의 정부는 프랑스를 통치할 집단을 결정하기 위해 베르사유에 모였습니다."
+news.4.a:1 "영원한 프랑스를 위해 기도하자."
+news.4.b:0 "현명한 결정을 하길 바라자."
 
 news.2.t:0 "칼레의 함락"
 news.2.d:0 "프랑스군의 공격에 함락된 칼레 인근의 영국 점령지대에 대한 최신 보고들이 들어오고 있습니다. 포격을 동반한 프랑스군의 거센 공격이 영국군을 분쇄한 것입니다. 며칠에 걸친 싸움 끝에 항구에서 외곽으로 점차 밀려나간 영국군은 끝내 대양과 접한 면에 걸치게 됐습니다. 많은 민간인들과 난민들이 십자포화와 포격에 휘말리고, 난민 야영지에 불길이 치솟고 난민들이 영국군을 따라 해협으로 건너가려는 난리가 벌어지면서 사망자 수는 수천에 이릅니다.\n해군과 민간인들이 손을 잡고 도운 결과 영국군의 대부분은 칼레에서 소개하는 데 성공했습니다. 하지만 칼레의 함락이 영국의 패색을 나타내고 영국과 본토 유럽과의 유일한 직접적 연결을 끊어놓은 재앙이라는 점에서 곧 프랑스의 대승임을 부정할 순 없습니다. [FRA.GetLeader]는(은) 직접 폐허가 된 피점 도시를 방문한 후 이를 퇴폐적인 영국 인종에 대항한 전쟁의 첫 타격이라 부르면서, 런던과, 이후 에든버러의 시가지에서 전투가 벌어질 것이라 맹세했습니다. 많은 영국인들이 해협의 보호 아래 안도하며 이 망상을 비웃었습니다만, 잉글랜드로 쏟아진 공습에 비관주의적 태도가 이미 섬 전체를 휩쓴 상황입니다."
