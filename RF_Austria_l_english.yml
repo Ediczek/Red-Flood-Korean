@@ -1,6 +1,6 @@
 ﻿l_english:
 ####MAINT DESC####
-AUS_DESC_MENU:0 "세계대전 직후 오스트리아-헝가리 제국은 붕괴했고, 오스트리아는 합스부르크 왕통의 유일한 잔재였습니다. 혼란으로의 이행에도, 오스트리아군은 점령지 내 독일인들의 안전을 지켜내며 굳건히 서있었습니다. 독일이 노동자들의 국가로 전락하고 그 혁명은 헝가리로 번졌으며, 대중의 망상이 스스로를 프랑스라고 일컫는 동안 오스트리아는 적대적인 급진 세력에 의해 고립되었습니다. 황제 프란츠 페르디난트는 그의 자비로움에도 완고한 뜻을 꺾지 않습니다. '사람들은 변화를 갈망하고, 급진주의자들은 사회의 핵심을 위협한다. 하지만 무슨 일이 일어나든 간에, 분리되지도 나누어지지도 않는 오스트리아는 견뎌낼 것이다.'"
+AUS_DESC_MENU:0 "대전쟁 직후 오스트리아-헝가리 제국이 붕괴하고 오스트리아는 합스부르크 군주국의 유일한 잔존국으로 남았습니다. 혼란으로의 퇴행에도, 굳건히 선 오스트리아군은 점령지 내 독일인들의 안전을 지켜냈습니다. 독일이 노동자들의 국가로 전락하고 그 혁명은 헝가리로 번졌으며, 대중의 망상이 스스로를 프랑스라고 일컫는 동안 오스트리아는 적대적인 급진 세력에 의해 고립되었습니다. 황제 프란츠 페르디난트는 그의 자비로움에도 완고한 뜻을 꺾지 않습니다. '사람들은 변화를 갈망하고, 급진주의자들은 사회의 핵심을 위협한다. 하지만 무슨 일이 일어나든 간에, 분리되지도 나누어지지도 않는 오스트리아는 견뎌낼 것이다.'"
 
 
 SGF_vanguard_socialism:0 "남독일 연방"
@@ -94,11 +94,13 @@ AUS_revisionist_socialism_party_long:0 "급진사회주의파"
 AUS_social_democratism_party_long:0 "오스트리아 사회민주당"
 AUS_placeholderism_party_long:0 "사회자유주의파"
 AUS_liberalism_party_long:0 "시장자유주의파"
-AUS_conservatism_party_long:0 "기독교사회당"
+AUS_conservatism_party_long:0 "기독교 사회당"
 AUS_right_authoritarianism_party_long:0 "기독교 사회당"
 AUS_despotism_party_long:0 "보국당"
 AUS_reactionism_party_long:0 "합스부르크 부흥전선"
 AUS_accelerationism_party_long:0 "대독일인민당"
+AUS_reactionism_party_adolf:0 "CSP(HF)"
+AUS_reactionism_party_adolf_long:0 "기독교 사회당 히틀러파"
 #LEADER DESCRITIONS#
 #opinion things#
 AUS_britainlove:0 "오스트리아의 외교"
