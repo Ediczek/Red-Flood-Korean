@@ -306,25 +306,25 @@ japan.22.a:0 "Who Can Blame Them?"
 
 japan.23.t:0 "Colonial Posessions Break Away!"
 japan.23.d:0 "Our colonial posessions have been siezed, whether by popular uprising against the Government or by occupation by neighbouring powers that lay claim to these lands they are no-longer under Japanese control. Our former colonies have taken the liberty of occupying our overseas enclaves on their borders too, the Empire is in a state of collapse."
-japan.23.a:0 "Curse Them!"
+japan.23.a:0 "망할!"
 
-japan.24.t:0 "Loyalists Rise Up"
+japan.24.t:0 "존황파 봉기"
 japan.24.d:0 "Militias of loyalists, former soldiers, policemen and volunteer patriots have risen up to defend the Empire against the Red traitors."
-japan.24.a:0 "For The Emperor!"
+japan.24.a:0 "천황 폐하 만세!"
 
-japan.25.t:0 "Taiwan Breaks Free"
+japan.25.t:0 "타이완이 떨어져 나가다"
 japan.25.d:0 ""
-japan.25.a:0 "Curse them!"
+japan.25.a:0 "망할!"
 
 #CUSTOM TOOLTIPS AND FLAGS#
-JAP_SETTING_SUN_DESC:0 "The Empire of Japan is a glass cannon, since it's defeat in 1905 the military has been the relief valve on an increasingly divided society, conquests in the pacific and exploitation in China are propping up a fragile economy and now if the campaign in China fails, Japan risks the Patriotic Vanguard rising up against the Restorationists and starting a civil war..."
+JAP_SETTING_SUN_DESC:0 "일본 제국은 is a glass cannon, since it's defeat in 1905 the military has been the relief valve on an increasingly divided society, conquests in the pacific and exploitation in China are propping up a fragile economy and now if the campaign in China fails, Japan risks the Patriotic Vanguard rising up against the Restorationists and starting a civil war..."
 
 JAP_beijing_peace:0 "산서와의 평화조약"
-red_sun_rising:0 "Red Sun Rising"
+red_sun_rising:0 "홍욱일"
 pacific_workers_league:0 "태평양 노동자 연맹"
 JAP_revolution:0 "일본 내전"
 JAP_KOR_annexed:0 "조선 합병"
-JPR_Navy_Defectors_tooltip:0 "Rebels in the Navy will join the Revolution"
+JPR_Navy_Defectors_tooltip:0 "해군 내 반군이 혁명에 가담할 것입니다"
 
 JAP_shogunate_reactionary:0 "일본 막부"
 JAP_shogunate_reactionary_DEF:0 "일본 막부"
