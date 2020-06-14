@@ -482,10 +482,10 @@ JAP_restore_the_shogunate_desc:0 "The old ways served Japan better, the Parliame
 JAP_execute_sadao:0 "사다오 처형"
 JAP_execute_sadao_desc:0 "Araki has served us well bless his soul, but he has now outlived his usefulness, the Circle wishes him gone and so it shall be."
 
-JAP_freeze_the_banks:0 "Freeze the Banks"
-JAP_freeze_the_banks_desc:0 "Freeze the Banks"
+JAP_freeze_the_banks:0 "은행 동결"
+JAP_freeze_the_banks_desc:0 "The Banks have been a constant thorn in the sides of the Zaibatsus and Economic Ministry for years, the capitalist markets we profit from have hampered our ability to exploit our full economic power, freezing interest rates and limiting the issue of bonds will keep things stable while we recover ourselves."
 
-JAP_support_the_zaibatsu:0 "Support the Zaibatsus"
+JAP_support_the_zaibatsu:0 "재벌 지원"
 JAP_support_the_zaibatsu_desc:0 "The Big Four have served the nation well in its time of hardship, the company executives have a good working relationship with the Government and it is time we repaid them the debt of gratitude we owe them."
 
 JAP_the_future_of_the_sunrise_kingdom:0 "Future of the Sunrise Kingdom"
@@ -506,7 +506,6 @@ JAP_weapons_stockpiling_desc:0 "Raiding Royal Armouries has proven quite profita
 
 JAP_general_strikes:0 "총파업"
 JAP_general_strikes_desc:0 "The Workers in Imperial territory should organise a mass-strike to cripple our opposition, many are loyal to the Emperor out of fear of his Army, we must show them the path to liberation!"
-
 
 JAP_victory_in_the_civil_war:0 "내전에서의 승리"
 JAP_victory_in_the_civil_war_desc:0 "As the dust settles and the cities rebuilt, Fathers and Sons buried, crops resewn, a new dawn arrives. The Revolutionary Republic of Japan has achieved the impossible and defeated the Emperor. His Empire is dissolving and the people he oppressed go free, now the Republic must set about its path of liberation through all of Asia."
