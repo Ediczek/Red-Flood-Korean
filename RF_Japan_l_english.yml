@@ -211,11 +211,11 @@ japan.5.b:0 "전위대를 격퇴했고, 총격전 중에서 슈메이를 저격�
 japan.6.t:0 "대통령 선거"
 japan.6.d:0 "대통령 선거를 위해서, 평의회들이 소집되었고 후보자들은 혁명의 지도부의 미래를 위한 그들의 주장을 역설했습니다."
 japan.6.a:0 "슈메이"
-japan.6.b:0 "야마카와"
-japan.6.c:0 "아라하타"
+japan.6.b:0 "아라하타"
+#japan.6.c:0 "야마카와"
 #japan.6.d:0 "노에"
-japan.6.d:0 "고바아시"
-japan.6.e:0 "가미치카"
+#japan.6.d:0 "고바아시"
+#japan.6.e:0 "가미치카"
 
 japan.7.t:0 "마-일본 협상"
 japan.7.d:0 "일본인들은 옌시산과 산시에 대항한 전쟁의 성공을 위하여 마가 군벌에게 참전을 제안했습니다. 우리의 북쪽에 있는 더욱 폭력적인 정권을 놔두고 동쪽으로 진군하는 것은 위험한 일입니다. 하지만, 기회는 기회지요."
@@ -455,7 +455,7 @@ JAP_intervene_in_the_chinese_civil_war_desc:0 "We could attempt to intervene in 
 JAP_rising_sun:0 "욱일"
 JAP_rising_sun_desc:0 "저문 해도 아침이 되면 떠오르니, 밤은 동이 트기 전에 가장 어둡구나."
 
-JAP_bamboo_circle:0 "Bamboo Circle"
+JAP_bamboo_circle:0 "대나무 고리"
 JAP_bamboo_circle_desc:0 "The Restorationists have lost the trust of some important people, a new group of dissident leaders have convened the so-called 'Bamboo Circle'. The trees may be uprooted and fall in a storm, but the bamboo merely flexes, bends and springs back into place. It is this spirit of resilience and weathering the greatest hardships that these men swear by."
 
 JAP_loosen_regulations:0 "Loosen Regulations"
