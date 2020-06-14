@@ -2,30 +2,30 @@
 
 #PARTIES#
 
-#VanSoc:Jungle Party(Hezb-e Jangal)(If Ordzhonikidze is executed)
+#VanSoc:밀림당(헤즈베 쟁갤)(오르조니키제 처형 시)
 
-PER_vanguard_socialism_party:0 "Ordzhonikidzes Red Guard"
-PER_vanguard_socialism_party_long:0 "Krasnaya Gvardiya Ordzhonikidze"
+PER_vanguard_socialism_party:0 "오르조니키제 홍위대"
+PER_vanguard_socialism_party_long:0 "오르조니키제 홍위대"
 PER_libertarian_marxism_party:0 "CPoI"
-PER_libertarian_marxism_party_long:0 "Hzb Kemwnast Aaran"
+PER_libertarian_marxism_party_long:0 "이란 공산당"
 PER_revolutionary_anarchism_party:0 "PMoI"
-PER_revolutionary_anarchism_party_long:0 "Sazman-e Mojahedin-e Khalq-e Iran"
+PER_revolutionary_anarchism_party_long:0 "이란 인민 무자히딘"
 PER_revisionist_socialism_party:0 "MoGWS"
-PER_revisionist_socialism_party_long:0 "Nazhat Khoda Parastan-i Sosialist"
+PER_revisionist_socialism_party_long:0 "경배 사회주의자 운동"
 PER_social_democratism_party:0 "SRP"
-PER_social_democratism_party_long:0 "Ferqa'ye Eslahiyun-e ammiyun"
+PER_social_democratism_party_long:0 "사회민주당"
 PER_liberalism_party:0 "PP"
-PER_liberalism_party_long:0 "Hezb-e Mardom"
+PER_liberalism_party_long:0 "인민당"
 PER_conservatism_party:0 "PoN"
-PER_conservatism_party_long:0 "Hezb-e Melliun"
+PER_conservatism_party_long:0 "민족당"
 PER_right_authoritarianism_party:0 "APOC"
 PER_right_authoritarianism_party_long:0 "영국-페르시아 석유사"
-PER_despotism_party:0 "Shahs loyalists/RPoI"
-PER_despotism_party_long:0 "Hzb Rstakhaz mlt Aaran"
+PER_despotism_party:0 "샤 충성파/RPoI"
+PER_despotism_party_long:0 "이란 인민부활당"
 PER_reactionism_party:0 "SUMKA"
-PER_reactionism_party_long:0 "Hezb-e Sosialist-e Melli-e Kargaran-e Iran"
+PER_reactionism_party_long:0 "이란 민족사회주의 노동자당"
 PER_accelerationism_party:0 "테헤란회"
-PER_accelerationism_party_long:0 "Anjmn Thran"
+PER_accelerationism_party_long:0 "테헤란 협회"
 
 #LEADER DESCRITIONS#
 #IDEAS#
