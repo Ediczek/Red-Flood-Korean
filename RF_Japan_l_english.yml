@@ -115,8 +115,8 @@ JPR_mantetsu_desc:0 "만철 점령"
 #restoration#
 JAP_cabinet:0 "천황 내각"
 JAP_cabinet_desc:0 "천황 내각"
-JAP_cabinet2:0 "Closed Palace"
-JAP_cabinet2_desc:0 "The Imperial Palace is now closed to any and all outsiders. The guard has been escalated and only Royal Decrees are seen leaving in the hands of couriers."
+JAP_cabinet2:0 "폐쇄된 황거"
+JAP_cabinet2_desc:0 "이제 황거에는 그 어떤 외부인도 들이지 않습니다. 경비는 삼엄해졌으며, 오직 칙어만이 가신들의 손을 거쳐 나올 뿐입니다."
 JAP_hegemony:0 "태평양 패권"
 JAP_hegemony_desc:0 "태평양 패권"
 
@@ -287,7 +287,7 @@ japan.203.t:0 "노부히토를 교토로 초청하다"
 japan.203.d:0 "At long last, Nobuhito has returned to the country. Hiding outside of the country since the Divine Wind Coup, he has returned triumphant and proud in the efforts of the soldiers and their officers in bringing about a better government. An agenda more focused on empire building and defeating the Chinese is now on the table. It wasn’t particularly difficult to convince Yasuhito to abdicate. He had been cooperative during the coup itself, wanting to ensure that as little harm and chaos is brought to Japan as possible. At first, however, he wasn’t willing to give up the title of Emperor; he insisted that the people loved him and that his government was about to fix things in just a matter of days. He was persuaded, however, when it was argued that the people wanted him safe and secure, and that Nobuhito would essentially be his puppet and listen to his every word. Hearing this, Yasuhito agreed to abdicate, and in his place, Emperor Nobuhito has taken the throne. These chaotic times may finally be coming to an end with the ascension of a new Emperor. Committed to expanding the empire and destroying communism, he and the new government has won the support of the army and the navy, and will be working towards a renewed imperialism."
 japan.203.a:0 "Long live the Emperor!"
 
-japan.21.t:0 "Peace of Beijing"
+japan.21.t:0 "베이징 평화조약"
 japan.21.d:0 "The war in China has left our forces battered and in disarray, with our side barely gaining much of any ground against the warlords. Furthermore, the total economic crash we’ve been dealing with is doing us no favors; dissent is growing at home, and soldiers are having a harder and harder time getting the supplies they need to fight. Only the delusional fail to recognize that this needs to end. However, that doesn’t mean we can’t end this to favor us. The proposal known as the Beijing Compromise, would annex territory up to and including Beijing, giving us a solid base on the Chinese mainland. It also ends the war and gives the warlords the illusion of victory. A win-win! Of course, not everyone is happy with this. The military is still under the belief that they can win this in no time at all, as if the last couple months haven’t proven otherwise. Although total victory over the warlords is alluring, as far away as it is.."
 japan.21.a:0 "Send the demands."
 japan.21.b:0 "We Don't Stop Until They're Dead."
@@ -345,16 +345,16 @@ JAP_araki_cos:0 "사다오 아라키"
 #FOCUSES#
 
 #far-right path#
-JAP_imperial_decree:0 "Imperial Decree"
-JAP_imperial_decree_desc:0 "The Imperial Decree is integral to the current Adminstration, and in the wake of Hirohito’s assassination, we must maintain the succession of the Emperor, lest Japan be tossed into chaos!"
+JAP_imperial_decree:0 "칙어"
+JAP_imperial_decree_desc:0 "칙어는 is integral to the current Adminstration, and in the wake of Hirohito’s assassination, we must maintain the succession of the Emperor, lest Japan be tossed into chaos!"
 
-JAP_eigen_restoration:0 "Eigen Restoration"
-JAP_eigen_restoration_desc:0 "With the current administration, our Emperor is restrained, he is a god among men, and he ought to be respected as such, much like the Mejii Restoration before."
+JAP_eigen_restoration:0 "에이겐 유신"
+JAP_eigen_restoration_desc:0 "현 행정부로써는 인류 중 신이신 우리의 폐하께서 물러서 계실 수밖에 없으며, 과거 메이지 유신 시절에 그랬듯 폐하께선 경배 받으셔야 마땅합니다."
 
-JAP_emperors_cabinet:0 "Emperor's Cabinet"
+JAP_emperors_cabinet:0 "천황 내각"
 JAP_emperors_cabinet_desc:0 "The cabinet is an important part of the Imperial Government, they are the eyes, ears, arms, and legs of the Emperor, without them, he is unable to influence his people, god or not."
 
-JAP_close_the_imperial_palace:0 "Close the Imperial Palace"
+JAP_close_the_imperial_palace:0 "황거 폐쇄"
 JAP_close_the_imperial_palace_desc:0 "For too long, foreigners, commoners, and dangerous political ideas have found their way through the doors of the Palace. This ends now! We must shut the palace down, and keep a larger guard presence around the Palace as well. The only thing exiting that temple, is the will of the Emperor."
 
 JAP_cut_out_the_red_tape:0 "Cut the Red Tape"
@@ -453,7 +453,7 @@ JAP_intervene_in_the_chinese_civil_war_desc:0 "We could attempt to intervene in 
 
 #Rising Sun Path#
 JAP_rising_sun:0 "욱일"
-JAP_rising_sun_desc:0 "Just as the Sun sets, so it shall rise come the morning, the night is darkest just before the dawn."
+JAP_rising_sun_desc:0 "저문 해도 아침이 되면 떠오르니, 밤은 동이 트기 전에 가장 어둡구나."
 
 JAP_bamboo_circle:0 "Bamboo Circle"
 JAP_bamboo_circle_desc:0 "The Restorationists have lost the trust of some important people, a new group of dissident leaders have convened the so-called 'Bamboo Circle'. The trees may be uprooted and fall in a storm, but the bamboo merely flexes, bends and springs back into place. It is this spirit of resilience and weathering the greatest hardships that these men swear by."
@@ -493,7 +493,7 @@ JAP_the_future_of_the_sunrise_kingdom_desc:0 "Future of the Sunrise Kingdom"
 
 #commies#
 JAP_will_of_the_people:0 "인민의 의지"
-JAP_will_of_the_people_desc:0 "The Revolution has arrived at long last in the Sunrise Kingdom. The decadence of the Imperial Government will fall and the Worker's liberation is at hand at long last Comrades!"
+JAP_will_of_the_people_desc:0 "혁명이 마침내 욱일의 나라에 도달했습니다. 황정의 퇴폐가 몰락하고 노동자의 해방이 오랜 끝에 동지들에게 다가올 것입니다!"
 
 JAP_down_with_the_emperor:0 "천황타도"
 JAP_down_with_the_emperor_desc:0 "The chants can be heard in the streets of several major cities, people have turned out in the millions to protest, the chants go on and on. '천황타도'"
