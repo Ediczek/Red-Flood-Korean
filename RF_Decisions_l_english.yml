@@ -2,7 +2,7 @@
 
 #Category
 ideology_generic_category:0 "정권 유지"
-destroy_the_spanish_language:0 "스페인어 분쇄"
+destroy_the_spanish_language:0 "에스파냐어 분쇄"
 
 #Revolutionary Anarchist
 anarchist_stability:0 "코뮌 토론 개최"
@@ -100,17 +100,17 @@ reactionism_stability:0 "민족의 역작 건설"
 reactionism_stability_desc:0 "The first and greatest civilisations were formed when a mass of humanity was herded together in order to create amazing structures: the very first national monuments. We need art for us to thrive, and it reaches its pinnacle when done in service of your state."
 
 reactionism_popularity:0 "경쟁 정당 협박"
-reactionism_popularity_desc:0 "Other parties are decadent: too attached to the decaying world, too obsessed with the superficial. They should be crushed under our heels, for we are the only sane option."
+reactionism_popularity_desc:0 "타정당은 퇴폐적입니다. too attached to the decaying world, too obsessed with the superficial. They should be crushed under our heels, for we are the only sane option."
 
 reactionism_war_support:0 "이념적 군국주의 자극"
-accelerationism_stability_desc:0 "They're too just slow. Prissy scholars, lipstick and dresses, same fucking books, sports, movies. If we put a hundred bullets in their mushy brains, deafening them with our euphony, they're gone. We'll put in a quick lit. Everyone will love it."
+reactionism_war_support_desc:0 "우리는 두 수준의 전쟁을 수행합니다. 하나는 우리 적들에 맞서 우리 총포를 사용하는 것이 있고, 다른 하나는 근대성에 맞서 우리의 혀를 이용하는 것이죠. A corps unequipped to think about the conditions we leave in and acts disconnected from the valiance of a previous era is deficient. Someone who talks and theorises but never bothers to get up and do something in real life is deficient. We must raise ideal soldiers with deological perfection."
 
 #Accelerationism
-accelerationism_stability:0 "Align Arts and Academia"
-accelerationism_stability_desc:0 "They're too just slow. Prissy scholars, lipstick and dresses, same fucking books, sports, movies. If we put a hundred bullets in their mushy brains, deafening them with our euphony, they're gone. We'll put in a quick lit. Everyone will love it."
+accelerationism_stability:0 "예술과 학문의 접목"
+accelerationism_stability_desc:0 "놈들은 그냥 너무 느려요. 점잔빼는 학자 놈들, 립스틱이니 드레스니, 맨날 똑같은 책에, 스포츠에, 영화까지요. 놈들의 말랑대는 뇌에 수백의 총알을 박고, 우리의 음조로 놈들의 귀를 멀게 하면 전부 사라질 거예요. 빨리 해보도록 해요. 모두 좋아할 거예요."
 
 accelerationism_popularity:0 "자유화 대안 약속"
-accelerationism_popularity_desc:0 "Even the Romans knew it! Without futurism, you will not be anything. The old laws keep you down: we'll set you free. Cast your traditions into the sea."
+accelerationism_popularity_desc:0 "로마인들조차 알았습니다! 미래주의 없인 아무것도 할 수 없다는 걸요. 옛 법들이 여러분을 계속 늦추고 있으니 저희가 자유롭게 해드리겠습니다. 여러분의 전통을 모두 바다에 던져 넣으세요."
 
 accelerationism_war_support:0 "절대적 광신주의 요구"
-accelerationism_war_support_desc:0 "Of course you love us. Of course you do. Of course you love me. Of course you do. Dash yourself on the floor. Say you love me. Call out, scream it, scream it. Cry for me, beg for me, beg for the party, beg for it. Leave yourself open, exposed to a thousand theories. Let those flows run through you."
+accelerationism_war_support_desc:0 "당연히 여러분은 저희를 사랑하세요. 당연히 그러시죠. 당연히 그대는 저를 사랑하시고요. 당연히 그러시고 말고요. 바닥에 대가리 쳐박아. 날 사랑한다고 말해. 내뱉어, 소리 질러, 소리 지르라고! 날 위해 울어줘, 날 위해 빌어줘, 당을 위해 빌어줘, 빌어줘. 여러분 자신을 열고 천의 이론들에 몸을 맡기세요. 그 이론들이 모두 여러분을 흐르며 통과하도록 두세요."
