@@ -1,17 +1,17 @@
 ﻿l_english:
 
 #PARTIES#
-ARG_vanguard_socialism:0 ""
-ARG_libertarian_marxism:0 ""
-ARG_revolutionary_anarchism:0 ""
-ARG_revisionist_socialism:0 ""
-ARG_social_democratism:0 "급진시민연합"
-ARG_liberalism:0 "코리엔테스 자유당"
-ARG_conservatism:0 "보수당"
-ARG_right_authoritarianism:0 "민족민주당"
-ARG_despotism:0 ""
-ARG_reactionism:0 "아르헨티나 애국연맹"
-ARG_accelerationism:0 "공화연맹"
+ARG_vanguard_socialism_party:0 ""
+ARG_libertarian_marxism_party:0 ""
+ARG_revolutionary_anarchism_party:0 ""
+ARG_revisionist_socialism_party:0 ""
+ARG_social_democratism_party:0 "급진시민연합"
+ARG_liberalism_party:0 "코리엔테스 자유당"
+ARG_conservatism_party_party:0 "보수당"
+ARG_right_authoritarianism_party:0 "민족민주당"
+ARG_despotism_party:0 ""
+ARG_reactionism_party:0 "아르헨티나 애국연맹"
+ARG_accelerationism_party:0 "공화연맹"
 
 #LEADER DESCRITIONS#
 #IDEAS#
