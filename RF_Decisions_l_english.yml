@@ -36,7 +36,7 @@ libertarian_war_support:0 "군사평의회에 대한 양보"
 libertarian_war_support_desc:0 "Listening to the humanitarian and materiel concerns of our soldiers' councils will keep our war efforts going smoothly."
 
 #Revisionist Socialist
-revisionist_stability:0 "급진파와 화해"
+revisionist_stability:0 "급진파와의 화해"
 revisionist_stability_desc:0 "Unchecked radical elements will inevitably try to seize state power. Reconciliation is a necessary step in leftist unity."
 
 revisionist_popularity:0 "중산층 유도"
@@ -69,11 +69,11 @@ liberal_war_support_desc:0 "Loathe as we often are to admit it, war is good for 
 conservative_stability:0 "불필요한 기관 축소"
 conservative_stability_desc:0 "To be austere is to be severe, firm and able to survive all adversity. As austerity is the quality of being austere, it stands to reason that austerity is a perfect quality for our state."
 
-conservative_popularity:0 "전통에 대한 호소"
-conservative_popularity_desc:0 "There was a time when everyone followed tradition, and everyone was happy. Reminding the people that we can bring this time back is sure to appease them."
+conservative_popularity:0 "전통을 향한 호소"
+conservative_popularity_desc:0 "모두가 전통을 따르고 행복했던 시절이 있었습니다. 인민에게 과거를 되돌려 우리가 모두를 만족시켜줄 수 있다는 걸 상기시키도록 합시다."
 
 conservative_war_support:0 "애국적 의무 이행 요구"
-conservative_war_support_desc:0 "War is never waged for petty reasons. Each citizen should be reminded that every war we commit to is a war for our souls, and a war for the spirit and sanctity of our nation."
+conservative_war_support_desc:0 "전쟁은 결코 사소한 이유로 벌어지지 않습니다. 모든 시민은 우리가 가담한 모든 전쟁이 우리의 영혼을 위한 것이자, 우리의 정신과 우리 민족의 신성성을 위한 전쟁임을 상기해야 합니다."
 
 #Right Authoritarian
 authoritarian_stability:0 "비협조 시민 숙청"
