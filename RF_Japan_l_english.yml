@@ -162,8 +162,8 @@ JAP_investigation:0 "재벌 투자"
 JAP_investigation_desc:0 "재벌 투자"
 JAP_crackdown:0 "재벌 탄압"
 JAP_crackdown_desc:0 "재벌 탄압"
-JAP_newhighcommand:0 "새로운 최고사령부"
-JAP_newhighcommand_desc:0 "새로운 최고사령부"
+JAP_newhighcommand:0 "신임 대본영"
+JAP_newhighcommand_desc:0 "신임 대본영"
 JAP_pacify_military:0 "진정된 군대"
 JAP_pacify_military_desc:0 "진정된 군대"
 
@@ -367,9 +367,9 @@ JAP_elevate_sadao:0 "사다오 진급"
 JAP_elevate_sadao_desc:0 "Sadao Araki is a very capable general, and an ardent nationalist, he serves as a shining example to all soldiers and officers. We should promote him to the Army General Staff"
 
 JAP_arrest_sadao:0 "사다오 체포"
-JAP_arrest_sadao_desc:0 "Sadao Araki, while a capable officer, is dangerously ambitious, and with the support of the Army on his side, he may very well coup the government, we must arrest him and find a way for him to disseappear…quietly."
+JAP_arrest_sadao_desc:0 "사다오 아라키. 재능 있는 장교지만 위험할 정도로 야망이 넘칩니다. Sadao Araki, while a capable officer, is dangerously ambitious, and with the support of the Army on his side, he may very well coup the government, we must arrest him and find a way for him to disseappear…quietly."
 
-JAP_appoint_a_new_high_command:0 "새 최고사령부 임명"
+JAP_appoint_a_new_high_command:0 "신임 대본영 임명"
 JAP_appoint_a_new_high_command_desc:0 "A New High Command is what’s needed, we need fresh, young officers that are ready to bring our armies to new conquests and new victories. The days of the old guard are behind us."
 
 JAP_pacify_the_military:0 "군 무력화"
