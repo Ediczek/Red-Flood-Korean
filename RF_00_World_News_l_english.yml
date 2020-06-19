@@ -17,21 +17,21 @@ worldnews.4.b:0 "당장 가서 한 권 사오도록!"
 
 #############################################################################
 news.intro.t:0 "레드 플러드에 오신 걸 환영합니다"
-news.intro.d:0 "레드 플러드는 \"만약 1차 세계대전에서 누구도 이기지 못 했다면?\"이라는 발상에서 시작된 대체역사 시나리오입니다. 1905년 러시아가 러일전쟁에서 '승리'하고, 1911년 차르 니콜라이 2세가 암살될 때까지 군주정은 강화됐습니다. This set a chain of events in motion that led to WWI breaking out in 1913 after the 2nd Balkan War drew Austria-Hungary and Russia to blows. The Triple Entente and Central Powers fought for years but eventually the war fizzled out, the French Army collpased, Russia fell into chaos at the death of Tsar Alexei II and Spartakist uprisings in Germany deposed the Monarchy. Britain could only look on in horror as the continent tore itself apart, its Empire also grew increasingly unstable. In the East Japan snatched up a colonial empire - overextending itself in the process - the USA, dismayed at the state of the world, doubled down on its isolationism. \nA new movement has swept Europe in the years since the end of the war, Accelerationism. The highly artistic and chauvinist political manifestation of extreme modernism, its growth began after the Italian radicals seized the city of Fiume in 1919 and has been a thorn in the side of Marxists, Monarchists and Moderates alike ever since. In 1934 France fell under the influence of its own Accelerationist movement, now the leader of the Avant Guard State - Antonin Artaud - prepares France to bring the future to the rest of the world by force."
+news.intro.d:0 "레드 플러드는 \"만약 1차 세계대전에서 누구도 이기지 못 했다면?\"이라는 발상에서 시작된 대체역사 시나리오입니다. 1905년 러시아가 러일전쟁에서 '승리'하고, 1911년 차르 니콜라이 2세가 암살될 때까지 군주정은 강화됐습니다. 이 일련의 역동적인 사건 연쇄가 2차 발칸 전쟁 이후인 1913년 1차 세계대전의 발발로 이어지며 오스트리아-헝가리와 러시아를 끌어들여 맞부딪히게 했습니다. 3중 협상과 중앙국은 몇 년에 걸쳐 싸움을 벌였지만 결국 흐지부지 끝나버렸습니다. 프랑스군은 붕괴했으며, 러시아는 차르 알렉세이 2세의 암살로 혼돈에 빠지고 독일에선 스파르타쿠스주의 봉기가 군주정을 타도했습니다. 영국은 찢어져버린 대륙을 공포 속에 홀로 바라보는 가운데, 그 제국은 극도로 불안정해지고 있습니다. 동방에선일본이 식민제국을 채갔지만 그 과정의 과도한 팽창은 감당하기 어려운 것이었으며, 미국은 정세에 경악하며 고립주의를 한층 강화했습니다. \n종전 이래 새 운동이 유럽 전역을 휩쓸었으니, 그 이름 촉진주의였습니다. 고도로 예술적이며 쇼뱅주의적인 이 극단적 근대주의 정치 선언은 이탈리아 급진파가 1919년 피우메 시를 점거하면서 성장하기 시작했으며, 그 이래 마르크스주의자, 군주주의자, 온건파의 목구멍의 가시와 같은 존재가 되어있습니다. 1934년 프랑스는 국내 촉진주의 운동의 영향력 아래 떨어졌으니, 이제 아방가르드국의 지도자 앙토냉 아르토는 프랑스와 나머지 세계를 무력으로써 미래로 이끌고자 준비하고 있습니다."
 news.intro.a:0 "고마워요 레드 플러드 팀!"
 news.intro.b:0 "설정 좆까, 더 빠.르.게!"
 news.intro.c:0 "무슨 마약을 하길래 이런 생각을 하셨어요?"
 
 news.1.t:0 "친절하시긴, 저희가 다 고맙죠."
-news.1.d:0 "레드 플러드가 모드 작업과 커뮤니티에 영향을 주고받는 진짜 사람들이 자발적으로 모인 팀의 작품이라는 걸 기억해주세요. We appreciate feedback and community interaction on our discord (where we are most active - link available on the steam page) and subreddit."
+news.1.d:0 "레드 플러드가 모드 작업과 커뮤니티에 영향을 주고받는 진짜 사람들이 자발적으로 모인 팀의 작품이라는 걸 기억해주세요. 디스코드(활발한 곳이에요. 링크는 스팀 페이지를 참조해주세요.)와 서브레딧에서 피드백과 의견을 나눠주시면 고마울 거예요."
 news.1.a:0 "재밌게 하세요!"
 
-news.2.t:0 "Ok F A S T B O I"
-news.2.d:0 "Be careful not to cut yourself on that edge, and remember Red Flood is a fictional timeline. Our lore can't hurt you, and if you think it did, the devs don't really care because our writers are awesome."
-news.2.a:0 "에야 에야 알랄랄랄라"
+news.2.t:0 "ㅇㅋ 속도박이"
+news.2.d:0 "부두... 속도에 너무 심취하지는 말게. 레드 플러드는 그냥 가상 시간대일 뿐이니까요. 우리 설정으로는 여러분을 다치게 할 수 없어요. 만약 그렇다면 우리 작가들이 졸라 잘해줬다는 뜻이니까, 우리 제작진은 신경 안 쓸 거예요."
+news.2.a:0 "에야 에야 알랄랄랄라!"
 
 news.3.t:0 "할 말 없습니다"
-news.3.d:0 "Some of our developers are very well read, others have mental health issues, others have an interest in History that has lead to some very obscure wikipedia articles that aren't even in our native tongue. On the whole we are a menagerie of strange and wonderful people, enjoy the fruits of our loins.. I mean labour! Just rememeber that history is weird. In our timeline a failed artist became a dictator and took an indebted wreck of a nation to the top of the world on a cult of personality. He then gambled against - a former Priest and street thug from the Caucasus, who came to power in one of the bloodiest dictatorships of all time - and lost."
+news.3.d:0 "우리 개발자 중 몇은 되게 많이 읽었지만 몇몇은 정신문제가 있고, 또 다른 몇몇은 역사에 관심이 있어서 자기네 모국어로도 되어있지 않은 애매한 위키피디아 문서를 읽은 사람이에요. 전체적으로 보면 우리는 이상하고도 뛰어난 짐승무리고, 둔부의 단맛... 아니 노동의 단맛을 즐긴다고요! 그냥 역사가 이상하다는 것만 기억해두세요. 우리 시간대에서도 실패한 예술가 하나가 독재자가 돼선 개인숭배로 한 국가를 전 세계의 정상급에 올려뒀잖아요. 그리고 그 독재자는, 가장 잔혹한 독재체제 중 하나인 국가에서 집권한 캅카스 출신의 전직 사제이자 깡패한테 도박을 걸었다가 져버렸고요."
 news.3.a:0 "역사 자체가 졸라 이상하거든요..."
 
 #############################################################################
