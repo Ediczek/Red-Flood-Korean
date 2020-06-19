@@ -27,9 +27,9 @@ UPI_accelerationism_party_long:0 "미래주의 연맹"
 UPI_brutal_colonizer:0 "잔혹한 식민주의자"
 UPI_brutal_colonizer_desc:0 "한 명의 시위자를 보느니 12명의 시체를 보는 게 낫다는 잔혹한 사내, 그것이, 대화 대신 폭력으로 연합주의 반란들을 진압하겠다는 윈스턴 처칠의 특기입니다."
 
-UPI_winston_churchill:0 "사내는 아무 이익도 없이 ANZAC 병사들만 총열 앞에 쓰러뜨린 갈리폴리에서의 도살의 책임자입니다. 중동에서의 화학병기 사용의 배후였던 폭군이며, 마을을 통째로 사라지게 만든 인도의 독재자이니, 하루도 손에서 피가 마르지 않는 무너진 사내, 윈스턴 처칠입니다. 불쌍한 윈스턴에게 또 무슨 일이 벌어질까요? He is propelled forwards by nothing but the expectation that more pain-dulling whiskey is on the horizon, not seeing the knives sharpening around him."
+UPI_winston_churchill:0 "사내는 아무 이익도 없이 ANZAC 병사들만 총열 앞에 쓰러뜨린 갈리폴리에서의 도살의 책임자입니다. 중동에서의 화학병기 사용의 배후였던 폭군이며, 마을을 통째로 사라지게 만든 인도의 독재자이니, 하루도 손에서 피가 마르지 않는 무너진 사내, 윈스턴 처칠입니다. 불쌍한 윈스턴에게 또 무슨 일이 벌어질까요? 주변을 둘러싼 번뜩이는 단도를 보지 않으려, 사내는 정신을 멍하게 해줄 위스키로써만 수평선을 향해 나아가고 있습니다."
 
-UPI_avatar_desc:0 "No one knows where this bold, charismatic woman came. She came chanting, she came shouting, she came telling the Indians that they had stumbled upon divine truths. Over time, a mess, a total and complete mess of pseudo-religion, ideology, a personality cult, and ultimately just thousands of people needing some manifestation of hope to cling to. This exploitation of fear, anger, and hate, with a veneer of justification in mis-remembered and outright lied-about theology, became the Avatar Cult, lead by a Goddess who shall drown the world in blood."
+UPI_avatar_desc:0 "누구도 이 담대하며 감화력 넘치는 여인이 어디서 온 건지 알지 못 합니다. 여인은 찬양하러, 고함치러, 인도인들에게 신성한 진리를 우연히 깨달았다 말해주기 위해 찾아왔습니다. 시간이 흐르며, 난장판, 사이비종교, 이념, 개인숭배의 전적이며 완전한 이 난장판 끝에, 마침내 수많은 사람들은 그저 붙들고 있을 어떤 희망의 선언이 필요해졌습니다. 이 공포의, 분노의, 혐오의 착취가 잘못된 기억되고 노골적인 거짓말로 치장된 신학 속 정당화의 허식과 결합하여, 세계를 피 속에 잠기게 할 한 여신이 이끄는 화신 숭배로 이어졌습니다."
 
 #IDEAS#
 UPI_brutal_putdowns:0 "잔혹한 진압"
@@ -41,9 +41,9 @@ UPI_alone_unsupplied_cutoff_desc:0 "내부제조에 우리는 점점 더 의존�
 
 UPI_civil_obedience:0 "시민불복종"
 UPI_civil_obedience_desc:0 "Everyone follows our rule, our laws. We allow dissent, but only within certain parameters. We allow freedom of speech, so long as it does not threaten us. We have limits, as any free society should."
-UPI_freedom_assembly:0 "Freedom of Assembly"
+UPI_freedom_assembly:0 "집회의 자유"
 UPI_freedom_assembly_desc:0 "Everyone should be able to discuss their ideas in the marketplace of thought - the best will rise to the top, the rest can be discarded. People are not naturally inclined to violence and revolution, not unless they believe their leaders are ignoring them. We shall not ignore them."
-UPI_indian_guard:0 "Indian Home Guard"
+UPI_indian_guard:0 "인도 향위대"
 UPI_indian_guard_desc:0 "The Indian Home Guard shall be an institution to be proud of - Indians who wish to help us, who see the truth of our way, who want to fight for the cause of a United and Prosperous India."
 
 UPI_forced_labour:0 "강제노동"
@@ -70,9 +70,9 @@ UPI_Winston_Churchill_hog:0 "윈스턴 처칠"
 UPI_churchill_horror:0 "처칠의 공포"
 UPI_churchill_horror_desc:0 "실패의 기억이 처칠의 머리를 무겁게 짓누르고 있습니다... 내일엔 잠 못 드는 또 다른 밤이 올까요? 오늘엔 고통 속에 뒤척이며 잠 못 드는 또 다른이 밤이 올까요? 서랍 안에 도움이 될만 한 게 있을지도 모릅니다..."
 UPI_churchill_companion:0 "처칠의 동료"
-UPI_churchill_companion_desc:0 "Whiskey soda, whiskey sour, whiskey straight. As long as it dulls the memories."
+UPI_churchill_companion_desc:0 "위스키 소다, 위스키 사워, 위스키 스트레잇까지. 기억들을 흐릿하게 해주는 한은요."
 UPI_churchill_isolation:0 "처칠의 고립"
-UPI_churchill_isolation_desc:0 "The library, the balcony, anywhere humans aren’t. 혼자라는 건 좋은 겁니다. 안전하거든요. 혼자일 땐 누구도 당신을 비판할 수 없죠."
+UPI_churchill_isolation_desc:0 "도서관, 발코니, 어디에도 사람은 없습니다. 혼자라는 건 좋은 겁니다. 안전하거든요. 혼자일 땐 누구도 당신을 비판할 수 없죠."
 UPI_sir_stop_drinking:0 "각하, 그만 드시는 게 좋겠습니다"
 UPI_sir_stop_drinking_desc:0 "Some worrywarts think that Churchill needs to to restrict himself. They should loosen up."
 UPI_sir_out_house:0 "각하, 바깥에 나가보시는 게 좋겠습니다"
