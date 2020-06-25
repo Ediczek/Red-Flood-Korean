@@ -367,6 +367,7 @@ kpd_split:0 "독일 공산당은 파울 레비의 은퇴로 인하여 분열하�
 
 #FACTIONS#
 LEAGUE_OF_NATIONS:0 "국제연합"
+Third_International:0 "제 3인터내셔널"
 
 #DECISIONS#
 GER_support_exile:0 "망명정부 지원"
