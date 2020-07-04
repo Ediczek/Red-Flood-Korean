@@ -3,6 +3,39 @@
 
 WRU_subject:0 "발트 총독부"
 #PARTIES#
+WRU_vanguard_socialism_party:0 "Internationalists"
+WRU_vanguard_socialism_party_long:0 "Internationalists"
+
+WRU_libertarian_marxism_party:0 "Councilists"
+WRU_libertarian_marxism_party_long:0 "Councilists"
+
+WRU_revolutionary_anarchism_party:0 "Terrorists"
+WRU_revolutionary_anarchism_party_long:0 "Terrorists"
+
+WRU_revisionist_socialism_party:0 "Revisionists"
+WRU_revisionist_socialism_party_long:0 "Revisionists"
+
+WRU_social_democratism_party:0 "Estonian Republicans"
+WRU_social_democratism_party_long:0 "Estonian Republicans"
+
+WRU_liberalism_party:0 "Russian Republicans"
+WRU_liberalism_party_long:0 "Russian Republicans"
+
+WRU_conservatism_party:0 "Russian Monarchists"
+WRU_conservatism_party_long:0 "Russian Monarchists"
+
+WRU_right_authoritarianism_party:0 "VLRdB-R"
+WRU_right_authoritarianism_party_long:0 "Vereinigter Landesrat des Baltikums-Rusofily"
+
+WRU_despotism_party:0 "VLRdB-G"
+WRU_despotism_party_long:0 "Vereinigter Landesrat des Baltikums-Germanofily"
+
+WRU_reactionism_party:0 "Brotherhood of Russian Truth"
+WRU_reactionism_party_long:0 "Brotherhood of Russian Truth"
+
+WRU_accelerationism_party:0 "Pērkonkrusts"
+WRU_accelerationism_party_long:0 "Pērkonkrusts"
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
