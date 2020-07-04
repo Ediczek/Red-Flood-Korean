@@ -233,11 +233,15 @@ AUS_thequestionofwheat:0 "밀 문제"
 
 AUS_thequestionofwheat_desc:0 ""
 
+AUS_learnfromescadron:0 "에스카드롱에게서의 학습"
+
+AUS_learnfromescadron_desc:0 ""
+
 AUS_gloriousvictory:0 "영광스러운 승리"
 
 AUS_gloriousvictory_desc:0 ""
 
-AUS_prewarindustry:0 "전쟁 이전의 산업"
+AUS_prewarindustry:0 "전전 산업"
 
 AUS_prewarindustry_desc:0 ""
 
@@ -476,6 +480,19 @@ austria.29.a:0 "슈쉬니크가 권력을 지켜내며 기사당이 정권을 �
 austria.29.b:0 "하이에크와 WP가 큰 표차로 이겼다!"
 austria.29.c:0 "자이츠와 사민당이 보수권을 박살냈다!"
 
+austria.64.t:0 "오스트리아가 원조를 요청하다" 
+austria.64.desc:0 "For a while now austria has been under threat of german invasion, given the delicate balance of power in the region, austria being conquered may ruin our chances on expanding our sphere of influence to central europe. Should we answer their request for assistance in case of a german attack?"
+austria.64.a:0 "물론이다!"
+austria.64.b:0 "붉은 거인과 싸울 여력은 없소."
+
+austria.65.t:0 "프랑스가 수락하다"
+austria.65.desc:0 ""
+austria.65.a:0 "멋지군!"
+
+austria.66.t:0 "프랑스가 거절하다"
+austria.66.desc:0 ""
+austria.66.a:0 "우리가 알아서 해야 한다."
+
 #IDEAS#
 AUS_emergency_conscription:0 "긴급 징집"
 AUS_unrelenting_progress:0 "끊임없는 진보"
@@ -532,6 +549,10 @@ PRS_alone_against_the_giant_desc:0 "우리는 오스트리아에 의한 조약�
 
 AUS_ausprustreaty:0 "오스트리아-프로이센 조약"
 AUS_ausprustreaty_desc:0 "프로이센과 오스트리아는 공통의 목표를 가지고 있습니다. 우리의 영광을 복원하는 데에 서로 협력하는 것은 쓸모있어 보일 것입니다!"
+
+AUS_new_austrian_army:0 "신 오스트리아군"
+
+AUS_for_the_fatherland:0 "조국을 위하여!"
 
 #######traits###############
 ruthless_pacifier:0 "무자비한 조정자"
