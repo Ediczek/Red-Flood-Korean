@@ -31,6 +31,9 @@ ZHR_reactionism_party_long:0 "군주주의 집단"
 ZHR_accelerationism_party_long:0 "프롤레타리아 문화연구소"
 
 #LEADER DESCRITIONS#
+#MISC#
+ZHR_NKVD:0 "Institute of Security Divisions"
+anarchist_army:0 "자유병사들"
 #IDEAS#
 
 ZHR_famine:0 "기아"
