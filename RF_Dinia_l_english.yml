@@ -2,20 +2,31 @@
 #COUNTRY NAME#
 
 #PARTIES#
-DIN_vanguard_socialism_party:0 "디니아 공화사회주의군"
-DIN_libertarian_marxism_party:0 "디니아 사회주의 연맹"
-DIN_revolutionary_anarchism_party:0 "디니아 아나키스트 동맹"
-DIN_revisionist_socialism_party:0 "농업주의 파벌"
-DIN_social_democratism_party:0 "디니아 인민당"
-DIN_liberalism_party:0 "무슬림 연맹"
-DIN_conservatism_party:0 "디니아 자마테 이슬라미"
-DIN_right_authoritarianism_party:0 "당국 연맹"
-DIN_despotism_party:0 "군사평의회 지지파"
-DIN_reactionism_party:0 "복벽주의 파벌"
+DIN_vanguard_socialism_party:0 "PWP"
+DIN_libertarian_marxism_party:0 "HSRA"
+DIN_revolutionary_anarchism_party:0 "DAC"
+DIN_revisionist_socialism_party:0 "DNC"
+DIN_social_democratism_party:0 "DPP"
+DIN_liberalism_party:0 "ML(M)"
+DIN_conservatism_party:0 "AMC"
+DIN_right_authoritarianism_party:0 "ML(R)"
+DIN_despotism_party:0 "NSL"
+DIN_reactionism_party:0 "JeI"
+DIN_accelerationism_party:0 "DR"
+DIN_vanguard_socialism_party_long:0 "Peasants and Workers Party of India"
+DIN_libertarian_marxism_party_long:0 "Hindustan Socialist Republican Association"
+DIN_revolutionary_anarchism_party_long:0 "Dinian Anarchist Confederation"
+DIN_revisionist_socialism_party_long:0 "디니아 민족회의"
+DIN_social_democratism_party_long:0 "디니아 인민당"
+DIN_liberalism_party_long:0 "Muslim League (Moderates)"
+DIN_conservatism_party_long:0 "Azad Muslim Conference"
+DIN_right_authoritarianism_party_long:0 "Muslim League (Radicals)"
+DIN_despotism_party_long:0 "National Salvation League"
+DIN_reactionism_party_long:0 "Jamaat-e-Islami"
 DIN_accelerationism_party:0 "디니아 재건주의파"
 
 #LEADER DESCRITIONS#
-POLITICS_Muhammad_Iqbal_DESC: "무함마드 이크발은 젊은 디니아 공화국의 건국의 아버지이자 영적 지도자로, 정치인들과 군인들의 회의에서 만장일치에 따라 대통령으로서 선출되었습니다. 시인이자 철학자이며 정치인인 무함마드 이크발은, 대중들에겐 사랑받은 이로서, 동료 정치인들에겐 건국에 기여한 이로서 큰 지지를 이끌어 낼 수 있기에, 젊은 공화국을 안정적으로 운영하기 위해선 필수적인 인물입니다. 이크발은 디니아가 성정하여 파키스탄이라는, 세속적인 이슬람 국가로서 번영하길 희망하고 있습니다. 좌우 양쪽의 급진주의 극단파에 맞서, 이크발은 디니아의 민주 가치들을 지켜내야 할 책임이 있습니다. 이크발이 사라진다면 디니아의 미래 역시 위태로울 것입니다."
+POLITICS_Muhammad_Iqbal_DESC:0 "무함마드 이크발은 젊은 디니아 공화국의 건국의 아버지이자 영적 지도자로, 정치인들과 군인들의 회의에서 만장일치에 따라 대통령으로서 선출되었습니다. 시인이자 철학자이며 정치인인 무함마드 이크발은, 대중들에겐 사랑받은 이로서, 동료 정치인들에겐 건국에 기여한 이로서 큰 지지를 이끌어 낼 수 있기에, 젊은 공화국을 안정적으로 운영하기 위해선 필수적인 인물입니다. 이크발은 디니아가 성정하여 파키스탄이라는, 세속적인 이슬람 국가로서 번영하길 희망하고 있습니다. 좌우 양쪽의 급진주의 극단파에 맞서, 이크발은 디니아의 민주 가치들을 지켜내야 할 책임이 있습니다. 이크발이 사라진다면 디니아의 미래 역시 위태로울 것입니다."
 #IDEAS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
