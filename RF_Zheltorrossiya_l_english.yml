@@ -14,7 +14,7 @@ ZHR_revisionist_socialism_party:0 "PSR/RSDRP(단주의)"
 ZHR_social_democratism_party:0 "TNSP"
 ZHR_liberalism_party:0 "카데츠"
 ZHR_conservatism_party:0 "NDS"
-ZHR_right_authoritarianism_party:0 "도적파"
+ZHR_right_authoritarianism_party:0 "비적파"
 ZHR_despotism_party:0 "군주주의파"
 ZHR_reactionism_party:0 "군주주의파"
 ZHR_accelerationism_party:0 "IPK"
@@ -25,14 +25,14 @@ ZHR_revisionist_socialism_party_long:0 "러시아 사회민주노동자당(단�
 ZHR_social_democratism_party_long:0 "노동인민사회주의당"
 ZHR_liberalism_party_long:0 "인민자유 입헌민주당"
 ZHR_conservatism_party_long:0 "인민민주연합"
-ZHR_right_authoritarianism_party_long:0 "도적파"
+ZHR_right_authoritarianism_party_long:0 "비적파"
 ZHR_despotism_party_long:0 "군주주의 집단"
 ZHR_reactionism_party_long:0 "군주주의 집단"
 ZHR_accelerationism_party_long:0 "프롤레타리아 문화연구소"
 
 #LEADER DESCRITIONS#
 #MISC#
-ZHR_NKVD:0 "Institute of Security Divisions"
+ZHR_NKVD:0 "안보연구소 사단"
 anarchist_army:0 "자유병사들"
 #IDEAS#
 
