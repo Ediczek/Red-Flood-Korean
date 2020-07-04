@@ -16,6 +16,10 @@ SETTING_SUN_DESC:0 "국민당 동맹의 붕괴 이래 아시아는 혼란과 충
 OTHER_THE_RISING_FLOOD_DESC:0 "20세기의 혼돈 속에 수많은 국가들이 경제 및 이념적 재앙에서 살아남으려 하고 있습니다. 몇몇은 다가올 분쟁에서 편을 고를 것이며, 다른 이들은 각자의 길을 택할 것입니다."
 OTHER_THE_SETTING_SUN_DESC:0 "20세기의 혼돈 속에 수많은 국가들이 경제 및 이념적 재앙에서 살아남으려 하고 있습니다. 몇몇은 다가올 분쟁에서 편을 고를 것이며, 다른 이들은 각자의 길을 택할 것입니다."
 
+RF_is_socialist:0 "사회주의 정부가 집권 중입니다"
+RF_is_democratic:0 "민주정부가 집권 중입니다"
+RF_is_dictatorship:0 "비사회주의 독재정부가 집권 중입니다"
+
 ### Ministers ###
 research_production:0 "기업체"
 weapons_manufacturer:0 "무기제조업체"
