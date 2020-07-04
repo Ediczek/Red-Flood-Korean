@@ -2,8 +2,29 @@
 #COUNTRY NAME#
 
 #PARTIES#
-KAV_accelerationism_party:0 "AB"
-KAV_accelerationism_party_long:0 "미래의 사도"
+KAV_vanguard_socialism_party:0 "Bolshevik groups"
+KAV_vanguard_socialism_party_long:0 "Bolshevik groups"
+KAV_libertarian_marxism_party:0 "Councilist groups"
+KAV_libertarian_marxism_party_long:0 "Councilist groups"
+KAV_revolutionary_anarchism_party:0 "Anarchist groups"
+KAV_revolutionary_anarchism_party_long:0 "Anarchist groups"
+KAV_revisionist_socialism_party:0 "Menshevik groups"
+KAV_revisionist_socialism_party_long:0 "Menshevik groups"
+KAV_social_democratism_party:0 "Dashnaks"
+KAV_social_democratism_party_long:0 "Dashnaks"
+KAV_liberalism_party:0 "조지아 자유파"
+KAV_liberalism_party_long:0 "조지아 자유파"
+KAV_conservatism_party:0 "Georgian Democrats"
+KAV_conservatism_party_long:0 "Georgian Democrats"
+KAV_right_authoritarianism_party:0 "Russian Collaborationists"
+KAV_right_authoritarianism_party_long:0 "Russian Collaborationists"
+KAV_despotism_party:0 "Emergency Administration"
+KAV_despotism_party_long:0 "Emergency Administration"
+KAV_reactionism_party:0 "Turkish Collaborationists"
+KAV_reactionism_party_long:0 "Turkish Collaborationists"
+KAV_accelerationism_party:0 "SVBnK"
+KAV_accelerationism_party_long:0 "Soviet Voplotiteley Budushchego na Kavkaze"
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
