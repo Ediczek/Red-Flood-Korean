@@ -4,6 +4,29 @@
 
 KCK_subject:0 "야쿠티야"
 #PARTIES#
+KCK_vanguard_socialism_party:0 "RSDRP in Yakutia"
+KCK_vanguard_socialism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya v Yakutii"
+KCK_libertarian_marxism_party:0 "RSDRP in Yakutia"
+KCK_libertarian_marxism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya v Yakutii"
+KCK_revolutionary_anarchism_party:0 "OLN in Yakutia"
+KCK_revolutionary_anarchism_party_long:0 "Organizatsiya Levogo Narodnichestva v Yakutii"
+KCK_revisionist_socialism_party:0 "PSR"
+KCK_revisionist_socialism_party_long:0 "Partiya Sotsialistov-Revolutsionerov"
+KCK_social_democratism_party:0 "Ksenofontov’s Supporters"
+KCK_social_democratism_party_long:0 "Ksenofontov’s Supporters"
+KCK_liberalism_party:0 "American Influence"
+KCK_liberalism_party_long:0 "American Influence"
+KCK_conservatism_party:0 "British Influence"
+KCK_conservatism_party_long:0 "British Influence"
+KCK_right_authoritarianism_party:0 "Japanese Influence"
+KCK_right_authoritarianism_party_long:0 "Japanese Influence"
+KCK_despotism_party:0 "Stark’s Loyalists"
+KCK_despotism_party_long:0 "Stark’s Loyalists"
+KCK_reactionism_party:0 "Shamanists"
+KCK_reactionism_party_long:0 "Shamanists"
+KCK_accelerationism_party:0 "SPY"
+KCK_accelerationism_party_long:0 "Soyuz Pisateley v gorode Yakutsk"
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
