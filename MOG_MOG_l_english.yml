@@ -1,4 +1,4 @@
-﻿l_english: 
+﻿l_english:
 MOG_holy_war_against_the_portuguese_man:0 "Holy War against the Portuguese Man"
 MOG_holy_war_against_the_portuguese_man_desc:0 "We must do away at all costs with the Portuguese in Brazil; they have for far too long dominated this land which many peoples call home, and hurt it with their vile language coming from colonialists in Europe. No more! We shall have a Holy War blessed by Hachiman against them!"
 MOG_new_dockyards_and_ports:0 "New Dockyards and Ports"
@@ -50,13 +50,15 @@ MOG_samurai_society_desc:0 "We shall create a society of new Samurai across Nikk
 MOG_look_for_plans:0 "Look for Plans"
 MOG_look_for_plans_desc:0 "We must expand our territory at the expense of others at all costs, lest we fall to them, aswell! We require immediate action if we are to live as a nation."
 
-MOG_japfirst:0 "Japanese First"
+MOG_japfirst:0 "일본 함대"
 MOG_neutrality:0 "Nescessity over Neutrality"
-MOG_consumer:0 "Consumer Goods Expanded"
-MOG_immigration:0 "Refugees from Communist Japan"
-MOG_preparation:0 "War Preparations"
-MOG_feudalism:0 "Feudal Societies"
-BRA_civil_war:0 "Civil War Chaos"
+MOG_consumer:0 "소비재 확대"
+MOG_immigration:0 "공산 일본에서의 난민들"
+MOG_preparation:0 "전쟁준비"
+MOG_feudalism:0 "봉건사회"
+BRA_civil_war:0 "내전의 혼돈"
+MOG_shindo:0 "Shindo Remnei"
+MOG_state_shintoism:0 "국가신토"
 
 mog.1.t:0 "Expand the Shindo Remnei"
 mog.1.desc:0 "Now that our sacred semi-monarchial republic has been stabilished on the brazilian backlands, the first problem we have to face is the horrible numerical inferiority we face over our enemies. We must quickly embrace and help Japanese people come to Nikkei Burasiru, our new Japanese homeland, free of communism, that still believes in the Emperor's greatness. We shall establish the Shindo Remnei, which seeks to protect the Emperor's wishes in Brazil, Japan's new home. We shall terrorize against those who despise who we are, who are despisedly racist against us, and who wish to destroy the Emperor's Eternal might, like the communists which took our former homeland. This one they will never take!"
