@@ -1,31 +1,30 @@
 ﻿l_english:
 
 #PARTIES#
-BNG_vanguard_socialism_party:0 "BSRA"
-BNG_libertarian_marxism_party:0 "LSF"
-BNG_revolutionary_anarchism_party:0 "AF"
-BNG_revisionist_socialism_party:0 "AS"
-BNG_social_democratism_party:0 "INCR"
-BNG_liberalism_party:0 "BLP"
-BNG_conservatism_party:0 "ML"
-BNG_right_authoritarianism_party:0 "군사평의회"
-BNG_despotism_party:0 "MR"
-BNG_reactionism_party:0 "TKM"
+BNG_vanguard_socialism_party:0 "CPI"
+BNG_libertarian_marxism_party:0 "RCPI"
+BNG_revolutionary_anarchism_party:0 "AU"
+BNG_revisionist_socialism_party:0 "KSP"
+BNG_social_democratism_party:0 "BNC"
+BNG_liberalism_party:0 "NAP"
+BNG_conservatism_party:0 "BML"
+BNG_right_authoritarianism_party:0 "BML(N)"
+BNG_despotism_party:0 "BML(P)"
+BNG_reactionism_party:0 "NeIP"
 BNG_accelerationism_party:0 "NKM"
 
-BNG_vanguard_socialism_party:0 "방글라데시 사회주의 공화협회"
-BNG_libertarian_marxism_party:0 "자유의지주의적 사회주의당"
-BNG_revolutionary_anarchism_party:0 "아나키스트 파벌"
-BNG_revisionist_socialism_party:0 "농업주의 파벌"
-BNG_social_democratism_party:0 "인도 민족회의 잔존파"
-BNG_liberalism_party:0 "방글라데시 자유당"
-BNG_conservatism_party:0 "무슬림 연맹"
-BNG_right_authoritarianism_party:0 "군사평의회 지지파"
-BNG_despotism_party:0 "복벽주의파"
-BNG_reactionism_party:0 "전통 칼리프국 운동"
+BNG_vanguard_socialism_party:0 "Communist Party of India"
+BNG_libertarian_marxism_party:0 "Revolutionary Communist Party of India"
+BNG_revolutionary_anarchism_party:0 "Anarchists Union"
+BNG_revisionist_socialism_party:0 "Krishak Sramik Party"
+BNG_social_democratism_party:0 "Bangladesh National Congress"
+BNG_liberalism_party:0 "National Awami Party"
+BNG_conservatism_party:0 "Bangladesh Muslim League (Nationalist)"
+BNG_right_authoritarianism_party:0 "Bangladesh Muslim League (Pan-Islamist)"
+BNG_despotism_party:0 "All Awami Muslim League"
+BNG_reactionism_party:0 "Nizam-e-Islam Party"
 BNG_accelerationism_party:0 "신 칼리프국 운동"
 #LEADER DESCRITIONS#
-
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
