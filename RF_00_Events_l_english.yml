@@ -101,3 +101,8 @@ nuke_dropped.15.t:0 "런던 원자폭격" #Great Britain version
 nuke_dropped.15.d:0 "핵폭발이 오늘 런던을 황폐화시켰습니다. 도시가 갖춘 대공 방어물들에도, [From.Owner.GetName]은(는) 이런 공격을 대비하지 못 했습니다. [GetDateText], 빅 벤은 마지막 종소리를 끝으로 불바람 속에 녹아내렸습니다. 초기 보고들에 따르면 버킹엄 궁은 완전히 평탄화되었으며, 왕가의 행방 역시 현재 불명입니다.\n\n[From.Owner.GetLeader]은(는) 어쨌든 살아남은 것으로 확인되어, 오늘 늦게 라디오를 통한 열의에 찬 연설을 준비 중입니다. 어느 때보다 사기가 낮은 이때, 영국인들에게는 이러한 연설이, 혹은 유창한 항복 선언이 절실하게 필요합니다."
 nuke_dropped.15.a:0 "핵의 화염에 의연하긴 어려운 일이다."
 nuke_dropped.15.b:0 "신께선 국왕을 보우하소서!"
+
+
+### Splash Screen ###
+RF_SPLASH_TITLE:0 "레드 플러드에 오신 것을 환영합니다"
+RF_SPLASH_CREDITS:0 "§OBrought to you by the§! §RVolkskomissares§! §Oand Proletariat developers:§!\n§bAdolf Grilltler, Adrore, ApolloBlast, ARC N7, Ariandel, ainsley blyat, Baba Yaga Deux, Bihshah, Blood And Guts, bougainville, Bulbäzo, Capo, ChineseKat, Caveman Gang, Crrnz, Darkneon312, David Cameron, Deutsche-Räte-Union, DMbyname, Drion, Domerator, , Eddinmeat, emmagh, Enderprophet, Endless Despair, fireizzle33331, Gukpa, HistoricalMan, I'M BLUE, Inttie, JohnWick, Jungle Rat, Luigimon98, lyfe, mello, Nathan12479, NykyforKhNURE, Jarl-khan Aino of Portugalia, National-Surrealist Ratboy, Ozmandiaz, Palmu, RanDude, ritasuma, Rapop101, sparrow, Sparkplug70, spiitfyre, Stalin-kun, Sunny Sen M.D, The Great Pretender, TheDealMaker, theman, Waghlon, Xartes, and Yung Daal.§!"
