@@ -1,31 +1,45 @@
 ﻿l_english:
 
 #PARTIES#
-ARY_vanguard_socialism_party:0 "CPI"
-ARY_libertarian_marxism_party:0 "RCPI"
-ARY_revolutionary_anarchism_party:0 "GP"
+ARY_vanguard_socialism_party:0 "PWP"
+ARY_libertarian_marxism_party:0 "HSRA"
+ARY_revolutionary_anarchism_party:0 "PSU"
 ARY_revisionist_socialism_party:0 "PSP"
-ARY_social_democratism_party:0 "INCR"
+ARY_social_democratism_party:0 "INC"
 ARY_liberalism_party:0 "ISF"
-ARY_conservatism_party:0 "AKHM"
-ARY_right_authoritarianism_party:0 "AKHM"
-ARY_despotism_party:0 "AKHM"
-ARY_reactionism_party:0 "AKHM"
+ARY_conservatism_party:0 "AKHM (개혁파)"
+ARY_right_authoritarianism_party:0 "AKHM (Abhinav Bharat faction)"
+ARY_despotism_party:0 "AKHM (Rashtriya Swayamsevak Sangh faction)"
+ARY_reactionism_party:0 "AKHM (Ram Rajya Parishad faction)"
 ARY_accelerationism_party:0 "AIR"
-ARY_vanguard_socialism_party_long:0 "인도 공산당"
-ARY_libertarian_marxism_party_long:0 "인도 혁명공산당"
-ARY_revolutionary_anarchism_party_long:0 "가다르당"
+ARY_vanguard_socialism_party_long:0 "Peasants and Workers Party of India"
+ARY_libertarian_marxism_party_long:0 "Hindustan Socialist Republican Association"
+ARY_revolutionary_anarchism_party_long:0 "인민연대연합"
 ARY_revisionist_socialism_party_long:0 "프라자 사회주의당"
-ARY_social_democratism_party_long:0 "인도 민족회의 잔존파"
+ARY_social_democratism_party_long:0 "인도 민족회의"
 ARY_liberalism_party_long:0 "인도 사회전선"
-ARY_conservatism_party_long:0 "전인도 힌두 대집회"
-ARY_right_authoritarianism_party_long:0 "전인도 힌두 대집회"
-ARY_despotism_party_long:0 "전인도 힌두 대집회"
-ARY_reactionism_party_long:0 "전인도 힌두 대집회"
+ARY_conservatism_party_long:0 "전인도 힌두 대집회 (개혁파)"
+ARY_right_authoritarianism_party_long:0 "전인도 힌두 대집회 (Abhinav Bharat faction)"
+ARY_despotism_party_long:0 "전인도 힌두 대집회 (Rashtriya Swayamsevak Sangh faction)"
+ARY_reactionism_party_long:0 "전인도 힌두 대집회 (Ram Rajya Parishad faction)"
 ARY_accelerationism_party_long:0 "인도 부흥협회"
 #LEADER DESCRITIONS#
 POLITICS_V.D.Savarkar_DESC:0
 #IDEAS#
+#EVENTS#
+l_english: 
+aryavarta.1.title:0 "비나야크가 살해당하다!"
+aryavarta.1.desc:0 "While on a tour of the recent conquered city of Ahmedabad, Vinayak and his military entourage where ambushed by communist partisans and while Aryavarta troops were able to repeal the attack sadly Vinayak had already being fatally shoot, dying some hours later in a field hospital in the city. Today Hindu rashtra loses its shiniest star!"
+aryavarta.1.a:0 "This is horrible!"
+aryavarta.2.title:0 "B. S. Moonje takes temporary charge of the nation"
+aryavarta.2.desc:0 "Hindu Mahasabha party leader, Balakrishna Shivram Moonje, has been sworn as acting Supreme President of Hindu Rashtra until a party congress can be convene to elect the next supreme leader, which should take a couple months."
+aryavarta.2.a:0 "This should restore some stability to the nation"
+aryavarta.3.title:0 "The Hindu Mahasabha extraordinary party congress"
+aryavarta.3.desc:0 "Today high ranking member of the party come together in the party congress to elect the new Supreme President of Hindu Rashtra. Since the death of Vinayak all factions within AKHM have being vying for influence among the high rank party members, which are the ones responsible to elect the next Supreme President, to guarantee their triumph on the congress. The relevant factions being: The Reformist faction: Under Syama Prasad Mukherjee and composed mostly of middle class and industrialists members of the party, it advocates a more moderate version of Hindutva, the reform of the state into a multiparty democracy under Hindu values and a more friendly market approach. The Abhinav Bharat faction: Under the leadership of Vinayak brother, Ganesh Damodar Savarkar, and composed of the Savarkar brothers allies and Abhinav Bharat members of the party, it advocates for the continuation of Vinayak political legacy as well as the expansion of Abhinav Bharat Society role in the state apparatus. The RSS faction: Under the leadership of RSS leader, Keshav Baliram Hedgewar, composed of RSS members of the party, and those parties members pressured into supporting the RSS, it proposes the merger of the RSS Sarsanghchalak with the Supreme President position as well as a merger between the two organizations and a more militant form of Hindutva. The Ram Rajya Parishad faction: Under the leadership of Swami Karpatri and composed of aristocrats and brahmins members of the party members, it supports Karpatri own brand of Hindu nationalism which considers Hindutva too secular and modernists and instead advocates for a confessional and traditionalist hindu society. And so after the votes are counted the victorious faction is..."
+aryavarta.3.a:0 "The Reformist faction is victorious and Syama Prasad Mukherjee is the next Supreme President"
+aryavarta.3.b:0 "The Abhinav Bharat faction is victorious and Ganesh Savarkar is the next Supreme President"
+aryavarta.3.c:0 "The RSS faction is victorious and K. B. Hedgewar is the next Supreme President"
+aryavarta.3.d:0 "The Ram Rajya Parishad faction is victorious and Swami Karpatri is the next Supreme President"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
