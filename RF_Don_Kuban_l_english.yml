@@ -1,8 +1,33 @@
 ﻿l_english:
 #COUNTRY NAME#
 
+
 DKB_subject:0 "남동연합"
 #PARTIES#
+DKB_vanguard_socialism_party:0 "금지정당"
+DKB_vanguard_socialism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya (Trotskisty) na Yugo-Vostoke"
+DKB_libertarian_marxism_party:0 "금지정당"
+DKB_libertarian_marxism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya na Yugo-Vostoke"
+DKB_revolutionary_anarchism_party:0 "금지정당"
+DKB_revolutionary_anarchism_party_long:0 "Organizatsiya Levogo Narodnichestva na Yugo-Vostoke"
+DKB_revisionist_socialism_party:0 "PSR"
+DKB_revisionist_socialism_party_long:0 "Partiya Sotsialistov-Revolutsionerov"
+DKB_social_democratism_party:0 "TNSP"
+DKB_social_democratism_party_long:0 "Trudovaya Narodno-Sotsialisticheskaya Partiya"
+DKB_liberalism_party:0 "카데츠"
+DKB_liberalism_party_long:0 "입헌민주당"
+DKB_conservatism_party:0 "NDS"
+DKB_conservatism_party_long:0 "인민민주연합"
+DKB_right_authoritarianism_party:0 "Chernomortsy"
+DKB_right_authoritarianism_party_long:0 "Chornomortsi"
+DKB_despotism_party:0 "Lineytsy"
+DKB_despotism_party_long:0 "Lineytsy"
+DKB_reactionism_party:0 "협력파"
+DKB_reactionism_party_long:0 "협력파"
+DKB_accelerationism_party:0 "스키티아주의파"
+DKB_accelerationism_party_long:0 "전 스키티아 민족농민녹색당"
+
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
