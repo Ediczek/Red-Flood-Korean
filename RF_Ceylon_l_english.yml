@@ -1,32 +1,36 @@
 ﻿l_english:
 
 #PARTIES#
-CEY_vanguard_socialism_party:0 "LSSP"
-CEY_libertarian_marxism_party:0 "ICSP"
+CEY_vanguard_socialism_party:0 "BLPI"
+CEY_libertarian_marxism_party:0 "LSSP"
 CEY_revolutionary_anarchism_party:0 "WPU"
-CEY_revisionist_socialism_party:0 "AS"
+CEY_revisionist_socialism_party:0 "CWC"
 CEY_social_democratism_party:0 "CNC"
 CEY_liberalism_party:0 "SMS"
 CEY_conservatism_party:0 "CTL"
-CEY_right_authoritarianism_party:0 "BES"
-CEY_despotism_party:0 "MR"
-CEY_reactionism_party:0 "TRL"
-CEY_accelerationism_party:0 "FfP"
+CEY_right_authoritarianism_party:0 "BL"
+CEY_despotism_party:0 "BL(H)"
+CEY_reactionism_party:0 "TSiC"
+CEY_accelerationism_party:0 "SBN"
 
-CEY_vanguard_socialism_party:0 "랑카 평등사회당"
-CEY_libertarian_marxism_party:0 "인도 회의 사회주의당"
-CEY_revolutionary_anarchism-party:0 "노농연합"
-CEY_revisionist_socialism_party:0 "농업주의 지지파"
-CEY_social_democratism_party:0 "실론 민족회의"
-CEY_liberalism_party:0 "싱할라 총회"
-CEY_conservatism_party:0 "실론 타밀 연맹"
-CEY_right_authoritarianism_party:0 "대영제국 지지파"
-CEY_despotism_party:0 "복벽주의 지지파"
-CEY_reactionism_party:0 "타밀 반란 연맹"
-CEY_accelerationism_party:0 "친프랑스 파벌"
+CEY_vanguard_socialism_party_long:0 "Bolshevik–Leninist Party of India, Ceylon and Burma"
+CEY_libertarian_marxism_party_long:0 "Lanka Sama Samaja Party"
+CEY_revolutionary_anarchism-party_long:0 "Workers and Peasants Union"
+CEY_revisionist_socialism_party_long:0 "Ceylon Workers' Congress"
+CEY_social_democratism_party_long:0 "Ceylon National Congress"
+CEY_liberalism_party_long:0 "Sinhala Maha Sabha"
+CEY_conservatism_party_long:0 "Ceylon Tamil League"
+CEY_right_authoritarianism_party_long:0 "British Loyalists"
+CEY_despotism_party_long:0 "British Loyalists (Hardliners)"
+CEY_reactionism_party_long:0 "Theosophical Society in Ceylon"
+CEY_accelerationism_party_long:0 "Sinhalese Buddhist Nationalists"
 #LEADER DESCRITIONS#
-
 #IDEAS#
+#EVENTS#
+ceylon.1.title:0 "Theosophy coup"
+ceylon.1.desc:0 "The theosophical society is attempiting a coup. What is the result?"
+ceylon.1.a:0 "The coup is succeseful"
+ceylon.1.b:0 "The coup fails"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
