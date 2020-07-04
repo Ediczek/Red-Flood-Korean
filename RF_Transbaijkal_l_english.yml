@@ -1,4 +1,6 @@
 ﻿l_english: 
+
+MO2_SETTING_SUN_DESC:0 "A Cossack Nation, some believe this to be an oxymoron, a pipe dream, a ridiculous notion. Not to Grigory Semoyonov, he is the master of the Cossack warlord state in Transbaikal. In the aftermath of the Russian Civil War Semoynov took his cavalrymen and took over the territory east of Lake Baikal under the pretext of defending the region from the Republicans. Shortly after the occupation his bandit state took the shape it has today, a lawless and criminal clique of Cossack and Buryat bandits. With his neighbours recovering from the chaos of the '20s Semyonov is now obligated to commit to nation building or risk being removed."
 #COUNTRY NAME#
 
 
@@ -14,9 +16,9 @@ MO2_revisionist_socialism_party_long:0 "바이칼 사회주의당"
 MO2_social_democratism_party:0 "CDP"
 MO2_social_democratism_party_long:0 "카자키 민주당"
 MO2_liberalism_party:0 "NKV-L"
-MO2_liberalism_party_long:0 "New Kadet Party - 자유파"
+MO2_liberalism_party_long:0 "신입헌민주당 - 자유파"
 MO2_conservatism_party:0 "NKV-C"
-MO2_conservatism_party_long:0 "New Kadet Party - 보수파"
+MO2_conservatism_party_long:0 "신입헌민주당 - 보수파"
 MO2_right_authoritarianism_party:0 "GTb-J"
 MO2_right_authoritarianism_party_long:0 "트란스바이칼 군사위원회"
 MO2_despotism_party:0 "GTb 당국"
@@ -27,6 +29,7 @@ MO2_accelerationism_party:0 "WS"
 MO2_accelerationism_party_long:0 "대초원의 바람"
 
 #LEADER DESCRIPTIONS#
+POLITICS_Semyonov_DESC:0 "There is nothing that hasn't been said about Grigory Semyonov, rivals and friends alike have called him a madman, hedonist, murderer and visionary in many colourful ways, yet it all makes no difference as those who dare talk ill of him eventually end up as target practice for his regiments. Born in his homeland of Transbaikal grew up much like the average peasant at the time would, managing to learn Buryat and Mongol shortly before joining the Russian army, graduating from the Orenburg Military School in 1908 as a yesaul, seeing combat in the Great War and the later Russian Civil War in the Caucasus. In July 1917, he was appointed as the commissar of the provisional government of Transbaikal, and stayed in his position right until the end of the war, remaining the leader of the region as a reward for his exemplary actions. As he grew older, he grew more bitter and hedonistic, becoming an alcoholic, lashing out against others irrationality - leading up to the year of 1925 when he organised the Cossack regiments under his command to take over the province and declare independence from Moscow as the Transbaikal Cossack Host. The reasons behind his secession are vague, some think it was motivated by Semyonov's Buryat nationalism, others thought that Semyonov grew resentful over Kolchak and his autocratic rule over Russia's minorities. With the 20's coming to a close, the reality of this near-anarchist militaristic society began kicking in as societal order broke down and banditry became a common theme of life in the province, much do the contrast of Semyonov's former courageous persona. However, one thing that had not vanished after all these years were Semyonov's ambitions for his impoverished homeland..."
 
 MO2_Semyonov_hog:0 "그리고리 세묘노프"
 MO2_Taskin_hog:0 "세르게이 타스킨"
@@ -64,11 +67,24 @@ MO2_winter_soldiers:0 "겨울 병사"
 MO2_terror:0 "북방의 공포"
 MO2_agri:0 "농업근대화"
 
+#MINISTERS#
+MO2_Semyonov_hog:0 "그리고리 세묘노프"
+MO2_kosmyn_hog:0 "Vladimir Kosmyn"
+MO2_Taskin_hog:0 "세르게이 타스킨"
+MO2_Sorokin_hog:0 "피리트림 소로킨"
+MO2_Vitalevich_for:0 "Leonid Verngo"
+MO2_Taskin_eco:0 "Sergei Taskin"
+MO2_Verzhbitsky_sec:0 "Grigory Verzhbitsky"
+MO2_Nesmelov_int:0 "Arseniy Nesmelov"
 #CUSTOM TOOLTIPS AND FLAGS#
 
 MO2_republic_far_east:0 "극동공화국"
 MO2_republic_far_east_DEF:0 "극동공화국"
 MO2_republic_far_east_ADJ:0 "극동"
+
+MO2_baikal_hetmanate:0 "바이칼 헤트만국"
+MO2_baikal_hetmanate_DEF:0 "바이칼 헤트만국"
+MO2_baikal_hetmanate_ADJ:0 "바이칼"
 
 MO2_swiss_cossacks:0 "카자키 공화국"
 MO2_swiss_cossacks_DEF:0 "카자키 공화국"
@@ -207,6 +223,13 @@ mo2.100.t:0 "제국협약"
 mo2.100.d:0 "In order to secure our western border we should begrudgingly ally ourselves to Sternberg, though we shall never truly trust him  he is a convenient ally that will allow us to focus on issues closer to home."
 mo2.100.a:0 "An Uneasy Alliance"
 
+mo2.101.t:0 "The Borderlands"
+mo2.101.d:0 "Born out of Grigory Semyonov’s disillusionment with Kolchak’s government and his own personal interests - The Transbaikal Cossack Host broke off from the Kolchak regime on the 14th of July, 1925, spearheaded by the Cossack regiments under Semyonov’s personal command, what followed suit was a breakdown of order in the state, as Semyonov’s mad militarisation led to the creation of the “Armeyskiy Okrug”, or the Military District system reminiscent of Dutov’s Orenburg Military District far west - the idea of which being that every division of the army was responsible for maintaining a region. Unsurprisingly, order was replaced with rampant corruption, and all forms of law had broken down. Bandit lords from Mongolia, Manchuria and Russia began moving in, crime became commonplace, and even the Cossacks themselves began pillaging villages on the borders with other warlords. Semyonov did not give a single shred of attention to his people - living in luxury whilst contemplating his ambitions of a greater eastern Cossack state.\nBehind the scenes however, one of Semyonov’s underlings has started his campaign to bring back law and order to the host. That man’s name would be Sergey Taskin, the head of the so-called government of Chita, and while he may not really be in the public light, his actions of liberalising the state and reducing the power of the merciless Cossacks brought him support from all ends of the government - most notably those who fled Russia, one of which would be Pitrim Sorokrin, an economist with whom he would form a great partnership to bring democracy to the eastern bank of the lake Baikal. Under the New Kadet Party - Taskin sees a long journey to topple the dictator of Chita, however, even as more people take notice of the Ataman’s madness, he questions whether his actions can stem beyond the borders and perhaps change the Far-East forever."
+mo2.101.a:0 "Outlaws Never Change."
+
+mo2.102.t:0 "Change in Chita?"
+mo2.102.d:0 "Soldiers on horseback, tachankas towed closely behind, crossed through the streets of the most populous military district of Chita early this morning.. Transbaikal had been well known in eastern Siberia as a truly lawless land, inhabited by bandit lords seeking refuge from China and Russia, of which have held a tight grip on the governing Cossack divisions responsible for maintaining order in Chita - at least on paper. As a head of the government of Transbaikal, Sergey Taskin hasn’t received much attention despite his supposedly high status and elite position, primarily due to his lack of power within the nation’s affairs due to it’s highly decentralised structure. However, some semblance of change has occurred for the first time since the declaration of the territory’s independence from Kolchak’s government as the 11th Cossack Regiment patrolled the streets of Chita from day to night. A quick chat with any member of the regiment reveals that Taskin had bought out the regiment from his personal wealth, which raises some suspicion due to his liberal ideas. However, the moral question is quickly overshadowed by the fact that today’s people of the city could finally sleep well at night without worries of burglary or pillaging."
+mo2.102.a:0 "What is that on the horizon?"
 #FOCUSES#
 Transbaikal_securetherailway:0 "철도 확보"
 Transbaikal_securetherailway_desc:0 "Yakutia has always been a hotbed of instability as the native people suffer under the repression of the corrupt Kolchak government, however, Zheltorossiya is no exception - harboring the filth that are the Collectivists, the same people who would kill any form of national pride and want the Cossacks to be extinct. The Ataman seeks the last threat to his existence."
