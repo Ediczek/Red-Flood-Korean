@@ -1,0 +1,18 @@
+﻿l_english:
+
+generic_industrial_company:0 "Industrial Concern"
+generic_electronics_company:0 "Electronics Concern"
+generic_arms_company:0 "Infantry Equipment Producer"
+generic_artillery_company:0 "Artillery Producer"
+generic_tank_company1:0 "Small Tank Designer"
+generic_tank_company2:0 "Medium Tank Designer"
+generic_tank_company3:0 "Heavy Tank Designer"
+generic_naval_company1:0 "Small Ship Producer"
+generic_naval_company2:0 "Capital Ship Producer"
+generic_fighter_company1:0 "Fighter Producer"
+generic_fighter_company2:0 "Bomber Producer"
+
+generic_tank_company:0 "Tank Company"
+generic_naval_company:0 "Naval Company"
+generic_fighter_company:0 "Fighter Company"
+generic_electronics_concern:0 "Electronisc Company"
