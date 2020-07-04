@@ -1,4 +1,8 @@
 ﻿l_english:
+
+#country selection#
+ARM_DESC_MENU:0 "The Armenian nation is young and yet powerful - it went from being a tiny subject of Russia to becoming one of the great powers of the Black Sea and the Caspian, owning a great colony in Centrocaspia and monopolizing the Caspian oil production - and not only this, but expelling the Turkish menace which tried to seize it's lands with the help of Britain. Subsequently, Armenia is a beacon of Democracy - something which is becoming more and more rare in a world filled with radicalism..."
+
 ARM_reconciliationwithminorities:0 "소수민족과의 화해"
 ARM_reconciliationwithminorities_desc:0 ""
 ARM_statesecularism:0 "국가세속주의"
