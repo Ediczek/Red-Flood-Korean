@@ -4,6 +4,29 @@
 
 SIB_subject:0 "시베리아 총독부"
 #PARTIES#
+SIB_vanguard_socialism_party:0 "RSDRP in Siberia"
+SIB_vanguard_socialism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya v Sibiri"
+SIB_libertarian_marxism_party:0 "RSDRP in Siberia"
+SIB_libertarian_marxism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya v Sibiri"
+SIB_revolutionary_anarchism_party:0 "OLN in Siberia"
+SIB_revolutionary_anarchism_party_long:0 "Organizatsiya Levogo Narodnichestva v Sibiri"
+SIB_revisionist_socialism_party:0 "RA"
+SIB_revisionist_socialism_party_long:0 "Radical Autonomists"
+SIB_social_democratism_party:0 "MA-L"
+SIB_social_democratism_party_long:0 "Moderate Autonomists - the Left"
+SIB_liberalism_party:0 "MA-C"
+SIB_liberalism_party_long:0 "Moderate Autonomists - the Centre"
+SIB_conservatism_party:0 "MA-R"
+SIB_conservatism_party_long:0 "Moderate Autonomists - the Right"
+SIB_right_authoritarianism_party:0 "Siberian Cossacks"
+SIB_right_authoritarianism_party_long:0 "Siberian Cossacks"
+SIB_despotism_party:0 "Black Hundreds"
+SIB_despotism_party_long:0 "Black Hundreds"
+SIB_reactionism_party:0 "Black Hundreds"
+SIB_reactionism_party_long:0 "Black Hundreds"
+SIB_accelerationism_party:0 "NLURS"
+SIB_accelerationism_party_long:0 "National-Labour Union of Russian Solidarists"
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
