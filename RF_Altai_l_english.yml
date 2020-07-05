@@ -3,7 +3,7 @@
 ALT_subject:0 "알타이"
 
 #FOCUSES#
-ALT_kagyrodovsurvives:0 "카기도로프의 생존!"
+ALT_kagyrodovsurvives:0 "카이고로도로프의 생존!"
 ALT_kagyrodovsurvives_desc:0 ""
 ALT_faithinchrist:0 "그리스도를 향한 신앙"
 ALT_faithinchrist_desc:0 ""
@@ -18,7 +18,7 @@ ALT_holdoffthebaron_desc:0 ""
 ALT_peacefulsyncreticnation:0 "평화로운 습합주의 국가"
 ALT_peacefulsyncreticnation_desc:0 "평화가 우리나라에 찾아왔으니, 제족 간의 차이가 우리의 힘이며, 우리 세계는 모든 것을 감싼 혼돈에 맞서 굳건히 서있습니다. 우리 시대에 평화가 있기를."
 ALT_revivednationalidentity:0 "부활한 민족정체성"
-ALT_revivednationalidentity_desc:0 "Altay is a nation unto its own, a nation that we see as deeply and truly real, something that goes beyond any other division one can think of. We are Altaic, we are Altay!"
+ALT_revivednationalidentity_desc:0 "Altay is a nation unto its own, a nation that we see as deeply and truly real, something that goes beyond any other division one can think of. 우리는 알타이인이며, 우리가 알타이입니다!"
 ALT_supresstheradicals:0 "급진주의자 진압"
 ALT_supresstheradicals_desc:0 "There are those in our government who see enemies everywhere. Rather than dismiss their paranoia, we must follow through their accusations and see what there is. Any radicalism must be destroyed, any dissent must be rooted out. "
 ALT_embracerussianculture:0 "러시아 문화 포용"
@@ -116,7 +116,7 @@ ALT_duallanguage_desc:0 "러시아어는 더 이상 알타이 유일의 공용�
 
 ##ideas##
 ALT_hedonism:0 "신비주의적 쾌락주의"
-ALT_tsaristmythos:0 "차르주의 Mythos"
+ALT_tsaristmythos:0 "차르주의 신화"
 ALT_constanttransgression:0 "Constant Transgression"
 ALT_greatlover:0 "Great Lover 숭배"
 ALT_emergencytactics:0 "긴급전술"
@@ -128,7 +128,7 @@ ALT_shaman_partisans:0 "주술 유격대"
 ALT_shaman_partisans_desc:0 "주술 유격대가 향촌 영역을 차지하고 대규모 혼돈을 빚어내고 있습니다."
 ALT_syncretism:0 "국가습합주의"
 ALT_millenarianism:0 "천년주의 숭배"
-ALT_lowertaxes:0 "Lower Taxes"
+ALT_lowertaxes:0 "세금 인하"
 ALT_concrete:0 "Altaic Concrete Oceans"
 ALT_tur:0 "튀르크 문화"
 ALT_rus:0 "러시아 문화"
@@ -147,12 +147,12 @@ alt.2.a:0 "놈을 잡자, 동지들!"
 alt.3.t:0 "남작이 발견되다!"
 alt.3.d:0 "Our loyal forces have found the Baron hiding out in a small Mongol village, and he fought fiercely against our task force of 250 soldiers, killing 124 of our men with a militia organized to defend the Baron at all costs. But now, in the end, the Baron has died, and the future is Altaic."
 alt.3.a:0 "알타이인들과 러시아인들이 미친 남작에 맞서 승리했도다!"
-alt.4.t:0 "알렉산드르 카기로도프가 총에 맞다!"
+alt.4.t:0 "알렉산드르 카이고로도프가 총에 맞다!"
 alt.4.d:0 "Aleksandr was found shot and barely holding onto life, shot by an assailant coming from the Anhui Clique! He was assasinated by gunshot and died almost immediately after due to speaking against the Sinophiles in Khuree. Now his clique has collapsed and various factions have risen up against the government. Only one of them shall survive the coming conflict and chaos..."
 alt.4.a:0 "보키와 밀교 볼셰비키들이 집권하다!"
 alt.4.b:0 "라스푸틴과 신비가들이 모든 반대를 쳐부수리라!"
 alt.4.c:0 "부르한주의자들이 자리에 오르다!"
-alt.4.e:0 "카기로도프가 생존하고 그의 충성파가 결집하다!"
+alt.4.e:0 "카이고로도프가 생존하고 그의 충성파가 결집하다!"
 
 alt.5.title:0 "Institution of Millenarianism"
 alt.5.desc:0 "Gaining secular power in the state doesn't mean gaining heart and minds of the people. Just because we can order them doesn't mean we can touch their souls. This is why education and spiritual guidance is of most importance.\n Everyone from city centres to most secluded villages must be exposed to as much wisdom as possible. After long deliberations it was decided to form a group of traveling teachers who will spread to the all corners of Altay the news of coming of Ak-Burkhan. Every man, woman and child needs to be ready for Him."
@@ -193,5 +193,5 @@ ALT_dulustaan_michilovich_bobutov_sec:0 "둘루스타안 미칠로비치 보부�
 ALT_praskovya_rasputin_int:0 "프라스코뱌 라스푸틴"
 
 #CUSTOM TOOLTIPS AND FLAGS#
-ALT_DESC_MENU:0 "러시아와 중국에서의 내전 동안 몽골에서의 혼돈은 여러 작고 고립된 군벌국가들을 남겼으니, 알타이보다 이에 더 걸맞는 곳은 없을 것입니다. 알타이 산맥에 그어진 러시아-중국 국경 사이에서, 이 작은 영역은 최근까지도 간신히 국가로서의 꼴을 갖추었습니다. 알렉산드르 카기고로도프는 자신의 산악 제후국을 주변에서 날뛰는 전쟁들의 분란에서 도망쳐온 시베리아 사람들을 위한 평화로운 피난처로 만들었습니다. 이제 소란이 가라앉고, 성현에 비할 이들이 이 산의 이상에 맞서고자 고개를 들기 시작했습니다..."
+ALT_DESC_MENU:0 "러시아와 중국에서의 내전 동안 몽골에서의 혼돈은 여러 작고 고립된 군벌국가들을 남겼으니, 알타이보다 이에 더 걸맞는 곳은 없을 것입니다. 알타이 산맥에 그어진 러시아-중국 국경 사이에서, 이 작은 영역은 최근까지도 간신히 국가로서의 꼴을 갖추었습니다. 알렉산드르 카이고로도프는 자신의 산악 제후국을 주변에서 날뛰는 전쟁들의 분란에서 도망쳐온 시베리아 사람들을 위한 평화로운 피난처로 만들었습니다. 이제 소란이 가라앉고, 성현에 비할 이들이 이 산의 이상에 맞서고자 고개를 들기 시작했습니다..."
 #DECISIONS (1.5 Update)#
