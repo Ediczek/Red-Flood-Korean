@@ -2,16 +2,16 @@
 #COUNTRY NAME#
 
 #PARTIES#
-PNJ_vanguard_socialism_party_long:0 "Peasants and Workers Party of India"
-PNJ_libertarian_marxism_party_long:0 "Hindustan Socialist Republican Association"
-PNJ_revolutionary_anarchism_party_long:0 "Ghadar Party (Anarchist faction)"
-PNJ_revisionist_socialism_party_long:0 "Ghadar Party (Socialist faction)"
-PNJ_social_democratism_party_long:0 "Indian National Congress"
-PNJ_liberalism_party_long:0 "Punjab Muslim League"
+PNJ_vanguard_socialism_party_long:0 "인도 농민 및 노동자당"
+PNJ_libertarian_marxism_party_long:0 "힌두스탄 사회주의 공화협회"
+PNJ_revolutionary_anarchism_party_long:0 "봉기당 (아나키스트파)"
+PNJ_revisionist_socialism_party_long:0 "봉기당 (사회주의파)"
+PNJ_social_democratism_party_long:0 "인도 민족회의"
+PNJ_liberalism_party_long:0 "펀자브 무슬림 연맹"
 PNJ_conservatism_party:0 "연합주의당"
 PNJ_right_authoritarianism_party:0 "최고 아칼리당"
-PNJ_despotism_party_long:0 "Union for the Protection of Punjab"
-PNJ_reactionism_party_long:0 "Majlis-e-Ahrar-ul-Islam"
+PNJ_despotism_party_long:0 "펀자브 수호연합"
+PNJ_reactionism_party_long:0 "자유 이슬람 협회"
 PNJ_accelerationism_party:0 "민족재건당"
 
 PNJ_vanguard_socialism_party:0 "PWP"
@@ -27,7 +27,7 @@ PNJ_reactionism_party:0 "SPA"
 PNJ_accelerationism_party:0 "NRP"
 #LEADER DESCRITIONS#
 POLITICS_Sikandar_Hayat_Khan_DESC:0 "시칸다르 하야트 한 경은 전직 총독으로, 현재는 펀자브의 작은 시크 민주국가의 총리입니다. 시칸다르는 대전쟁 뿐만 아니라 과거 3차 영국-아프간 전쟁에서도 영국령 인도군으로 참전한 바 있었습니다. 이후 사업에 뛰어든 그는 여러 회사에서 중책을 맡았으며, 펀자브에서 영국의 영향력이 소멸한 이후엔 인도 아대륙의 독립 시크 국가를 회복하고 나라의 정치적 요직을 차지하는, 본인에게 걸맞는 처우를 얻어냈습니다. 연합주의당의 당수로서, 시칸다르는 자신이 수립한, 대륙에서 친구가 얼마 없는 대영제국과의 우호 관계를 유지하고 싶어 합니다. 하지만 그의 주 목적은 독립 시크 국가를 존속시키는 것이고, 이를 위해서라면 자신의 위치에서 무엇이든 할 것입니다."
-POLITICS_Tara_Singh_DESC:0 "Tara Singh, Leader of the Sikh Nationalist Shiromani Akali Dal party and President of the recently created Khalistan Republic. During the fall of British Raj SAD under Singh organized a coup against the Union party goverment taken control over the majority muslim state with him stablishing a strong and autoritarian rule over the country to avoid an outright revolt of the muslim in te province"
+POLITICS_Tara_Singh_DESC:0 "타라 싱, 시크 민족주의 최고 아칼리당의 지도자인 그가 이제 신생 칼리스탄 공화국의 대통령이 되었습니다. 영국령 인도의 몰락 당시 싱이 이끌던 SAD는 연합당 정부에 대한 정변을 통해 무슬림 다수의 국가에 대한 통제권을 잡고 무슬림의 반란을 막고자 강력하고 권위주의적인 통치를 시행했습니다."
 
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
