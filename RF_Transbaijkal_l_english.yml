@@ -1,6 +1,6 @@
 ﻿l_english:
 
-MO2_SETTING_SUN_DESC:0 "카자크 국가라. 누군가는 이를 모순어라, 개꿈이라, 어이없는 상념이라 여깁니다만, 트란스바이칼의 카자크 군벌국가의 주인인 그리고리 세묘노프는 아닙니다. 러시아 내전의 여파 속에 세묘노프는 기병대를 이끌고선 공화파에게서의 방어를 핑계로 바이칼 호수 동부 영토를 차지했습니다. 점령 직후 그의 도적떼가 지금의 모습을 빚어냈으니, 카자크들과 부랴트인 도적들로 이루어진 무법의 범죄 파벌이 그것이었습니다. 그 이웃들이 20년대의 혼돈에서 회복 중인 사이, 세묘노프는 ㅇ제 건국에 매진하거나 제거될 위협을 감수해야 합니다."
+MO2_SETTING_SUN_DESC:0 "카자크 국가라. 누군가는 이를 모순어라, 개꿈이라, 어이없는 상념이라 여깁니다만, 자바이칼의 카자크 군벌국가의 주인인 그리고리 세묘노프는 아닙니다. 러시아 내전의 여파 속에 세묘노프는 기병대를 이끌고선 공화파에게서의 방어를 핑계로 바이칼 호수 동부 영토를 차지했습니다. 점령 직후 그의 도적떼가 지금의 모습을 빚어냈으니, 카자크들과 부랴트인 도적들로 이루어진 무법의 범죄 파벌이 그것이었습니다. 그 이웃들이 20년대의 혼돈에서 회복 중인 사이, 세묘노프는 ㅇ제 건국에 매진하거나 제거될 위협을 감수해야 합니다."
 #COUNTRY NAME#
 
 
@@ -20,16 +20,16 @@ MO2_liberalism_party_long:0 "신입헌민주당 - 자유파"
 MO2_conservatism_party:0 "NKV-C"
 MO2_conservatism_party_long:0 "신입헌민주당 - 보수파"
 MO2_right_authoritarianism_party:0 "GTb-J"
-MO2_right_authoritarianism_party_long:0 "트란스바이칼 군사위원회"
+MO2_right_authoritarianism_party_long:0 "자바이칼 군사위원회"
 MO2_despotism_party:0 "GTb 당국"
-MO2_despotism_party_long:0 "트란스바이칼 총독부"
+MO2_despotism_party_long:0 "자바이칼 총독부"
 MO2_reactionism_party:0 "ACP"
 MO2_reactionism_party_long:0 "아타만 카자키 보호대"
 MO2_accelerationism_party:0 "WS"
 MO2_accelerationism_party_long:0 "대초원의 바람"
 
 #LEADER DESCRIPTIONS#
-POLITICS_Semyonov_DESC:0 "There is nothing that hasn't been said about Grigory Semyonov, rivals and friends alike have called him a madman, hedonist, murderer and visionary in many colourful ways, yet it all makes no difference as those who dare talk ill of him eventually end up as target practice for his regiments. Born in his homeland of Transbaikal grew up much like the average peasant at the time would, managing to learn Buryat and Mongol shortly before joining the Russian army, graduating from the Orenburg Military School in 1908 as a yesaul, seeing combat in the Great War and the later Russian Civil War in the Caucasus. 1917년 7월, 세묘노프는 트란스바이칼 임시정부의 commissar으로 임명되고 전쟁이 끝날 때까지, remaining the leader of the region as a reward for his exemplary actions 으로서 자리를 유지했습니다. 나이가 들수록 더 As he grew older, he grew more bitter and hedonistic, becoming an alcoholic, lashing out against others irrationality - leading up to the year of 1925 when he organised the Cossack regiments under his command to take over the province and declare independence from Moscow as the Transbaikal Cossack Host. The reasons behind his secession are vague, some think it was motivated by Semyonov's Buryat nationalism, others thought that Semyonov grew resentful over Kolchak and his autocratic rule over Russia's minorities. With the 20's coming to a close, the reality of this near-anarchist militaristic society began kicking in as societal order broke down and banditry became a common theme of life in the province, much do the contrast of Semyonov's former courageous persona. However, one thing that had not vanished after all these years were Semyonov's ambitions for his impoverished homeland..."
+POLITICS_Semyonov_DESC:0 "There is nothing that hasn't been said about Grigory Semyonov, rivals and friends alike have called him a madman, hedonist, murderer and visionary in many colourful ways, yet it all makes no difference as those who dare talk ill of him eventually end up as target practice for his regiments. Born in his homeland of Transbaikal grew up much like the average peasant at the time would, managing to learn Buryat and Mongol shortly before joining the Russian army, graduating from the Orenburg Military School in 1908 as a yesaul, seeing combat in the Great War and the later Russian Civil War in the Caucasus. 1917년 7월, 세묘노프는 자바이칼 임시정부의 commissar으로 임명되고 전쟁이 끝날 때까지, remaining the leader of the region as a reward for his exemplary actions 으로서 자리를 유지했습니다. 나이가 들수록 더 As he grew older, he grew more bitter and hedonistic, becoming an alcoholic, lashing out against others irrationality - leading up to the year of 1925 when he organised the Cossack regiments under his command to take over the province and declare independence from Moscow as the Transbaikal Cossack Host. The reasons behind his secession are vague, some think it was motivated by Semyonov's Buryat nationalism, others thought that Semyonov grew resentful over Kolchak and his autocratic rule over Russia's minorities. With the 20's coming to a close, the reality of this near-anarchist militaristic society began kicking in as societal order broke down and banditry became a common theme of life in the province, much do the contrast of Semyonov's former courageous persona. However, one thing that had not vanished after all these years were Semyonov's ambitions for his impoverished homeland..."
 
 MO2_Semyonov_hog:0 "그리고리 세묘노프"
 MO2_Taskin_hog:0 "세르게이 타스킨"
@@ -106,7 +106,7 @@ mo2.2.d:0 "Semyonov has successfully petitioned the church leaders in Chita and 
 mo2.2.a:0 "하느님께서 보우하사."
 #mo2.2.b:0 ""
 
-mo2.3.t:0 "트란스바이칼의 소수민족"
+mo2.3.t:0 "자바이칼의 소수민족"
 mo2.3.d:0 "Transbaikal is home to a few different peoples, principally Russians and Buryats, there are however a number of other peoples that call this land home. Tatars, Armenians, Ukrainians, Evenks and Jews among others, the issue of whether to integrate these peoples into the burgeoning Cossack culture of Transbaikal or to grant them cultural and even territorial autonomy is an issue that cannot be kicked down the road if Transbaikal is to succeed."
 mo2.3.a:0 "Grant them Autonomy"
 mo2.3.b:0 "Force their Integration"
@@ -201,7 +201,7 @@ mo2.19.d:0 "The coup has been a resounding success! The Republican Guard were br
 mo2.19.a:0 "Bol'shoy!"
 #mo2.19.b:0 ""
 
-mo2.171.t:0 "트란스바이칼과의 통일"
+mo2.171.t:0 "자바이칼과의 통일"
 mo2.171.d:0 "The Kadets in Transbaikal have managed to infiltrate the Republican Guard and attempt a coup. The guards have quickly taken control of the government buildings and handed power to loyal Kadet Constitutionalist members. The last chance to stop the coup has come, the district commander of the guards has been informed of the ruse and has been asked to stand his men down. The commander has a telephone and two conflicting pieces of paper on his desk, one informing him of the President's arrest warrant on the authority of the Republican Government, the other informing him of a stand-down order on the authority of the Executive of the Republic. With the fate of teh Far-East in his hands, which shall he choose?"
 mo2.171.a:0 "It is they who should join us."
 mo2.171.b:0 "공화국 만세!"
@@ -274,7 +274,7 @@ Transbaikal_wagereform_desc:0 "One motivator for our troops is how much money th
 Transbaikal_ridoftheanarchy:0 "무정부 상태 퇴거"
 Transbaikal_ridoftheanarchy_desc:0 "It’s time for our troops to get off their asses and finally start stabilising Chita after over 10 years. Curfews, patrols, taking down bandit groups - these are only a small amount of actions we will take to purge the Makhnovist ideal we are living in."
 Transbaikal_thetrial:0 "재판"
-Transbaikal_thetrial_desc:0 "트란스바이칼이 민주정으로 가기 위해선 민주적 형사권을 채택해야 하고 안정을 위한 그 재력을 보여줘야 합니다. 세묘노프를 전쟁범죄와 잔혹의 혐의로 재판에 넘겨 전 중국이 보도록 할 것입니다."
+Transbaikal_thetrial_desc:0 "자바이칼이 민주정으로 가기 위해선 민주적 형사권을 채택해야 하고 안정을 위한 그 재력을 보여줘야 합니다. 세묘노프를 전쟁범죄와 잔혹의 혐의로 재판에 넘겨 전 중국이 보도록 할 것입니다."
 Transbaikal_solvethepoverty:0 "빈곤 해결"
 Transbaikal_solvethepoverty_desc:0 "Semyonov’s foolish ideas of tributary states and other mad ideas have driven our people to the brink of famine. Luckily, the congress has stepped in and now immediate food supplies will begin being sent to the worst affected areas."
 Transbaikal_cossackprotection:0 "카자크 보호"
@@ -340,9 +340,9 @@ Transbaikal_aircraftpurchases_desc:0 "The Zheltorossiyans and the Japanese have 
 Transbaikal_rejuvinatethecities:0 "도시 재건"
 Transbaikal_rejuvinatethecities_desc:0 "We cannot neglect our urban centres either. Many districts in Chita don’t even have roads or proper power grids. First, we shall address the infrastructural problems, then begin reimagining the city by constructing a parliament, new social services and a proper city hall."
 Transbaikal_beginindustrialisation:0 "산업화 개시"
-Transbaikal_beginindustrialisation_desc:0 "늦긴 했어도 산업혁명이 마침내 트란스바이칼에 당도했습니다. We have such a potential with the Trans-Siberian railway in our midst, and such an innovative populace filled with engineers who have chosen to escape from Russia to join our ranks and at last, we shall put them to work."
+Transbaikal_beginindustrialisation_desc:0 "늦긴 했어도 산업혁명이 마침내 자바이칼에 당도했습니다. We have such a potential with the Trans-Siberian railway in our midst, and such an innovative populace filled with engineers who have chosen to escape from Russia to join our ranks and at last, we shall put them to work."
 Transbaikal_expandtherailway:0 "철도 확대"
-Transbaikal_expandtherailway_desc:0 "거대한 철도가 지나는 치타는 우리 경제의 강자이자, 황러시아에 가려는 여행자들에겐 중요한 기착지입니다. 하지만 트란스바이칼의 북부에선 철도가 지닌 이런 기반시설의 이익을 누리고 있지 못합니다. 우리 철도를 더 멀리 뻗어낼 때입니다."
+Transbaikal_expandtherailway_desc:0 "거대한 철도가 지나는 치타는 우리 경제의 강자이자, 황러시아에 가려는 여행자들에겐 중요한 기착지입니다. 하지만 자바이칼의 북부에선 철도가 지닌 이런 기반시설의 이익을 누리고 있지 못합니다. 우리 철도를 더 멀리 뻗어낼 때입니다."
 Transbaikal_fareasttradingcompany:0 "극동 무역사"
 Transbaikal_fareasttradingcompany_desc:0 "Being an isolated country bears no good news for a developing economy such as ours. By establishing a formal trading company under the guidance of the Railway Association - we can formalise our ties with other nations along the Siberian railway, and establish a proper trade network."
 Transbaikal_electrification:0 "Electrification"
