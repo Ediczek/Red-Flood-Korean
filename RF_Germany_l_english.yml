@@ -337,6 +337,12 @@ germany.10.desc:0 "Today, the German Ambassador in Bergen has approached our Gov
 germany.10.a:0 "Yes, expeditions to the North pole would be good, but we don’t need the Germans."
 germany.10.b:0 "A great idea! We will sail with our German Comrades!"
 germany.10.c:0 "We don't need such projects!"
+
+germany.11.t:0 "성 문제"
+germany.11.desc:0 "Since the glorious socialist November Revolution, Homo- and Transsexuality and all other forms of sexual expression have been decriminalized and more and more pushed into normality by pioneers such as comrade Magnus Hirschfeldt. However, similar thing could also be observed in multiple centers of futurist Ideology. Fiume has always been openly accepting of homosexuality while French Escadronists and Röhm even promote it within the army. More and more voices have arisen denouncing “sexual depravity” as “root cause for Futurism” and “the deterioration of the German Youth”. Today, the NMAPD-Faction of the Reichsrätekongress has therefore brought in a call for the re-criminalisation of “sexual deviants”. For this Question, Magnus Hirschfeldt has talked in front of the Congress about their mistake to limit the rights of hard-working, proletarian german gays and “third-Genders” while comrade Maslow from the KPD-Faction denounced the NMAPD for “Non-Marxist” thinking due to their beliefs that “Not Class, but sexuality shapes the Ideology of Man” and has also warned the Recriminalisation would disenfranchise Non-Straight Comrades and would push them towards Futurism."
+germany.11.a:0 "퇴폐를 당장 막아야 한다! Recriminalize it!"
+germany.11.b:0 "We cannot take away the rights from so many Proletarians! But the french threat is just as worrying, tell the VKRSS to have an eye on them."
+germany.11.c:0 "This is madness! Our Gay Comrades are just as able as any other!"
 #CUSTOM TOOLTIPS AND FLAGS#
 nmapd_victory:0 "NMAPD가 Reichsrätekongress의 과반을 차지하다"
 uspd_victory:0 "The USPD convinced the Reichsrätekongress"
