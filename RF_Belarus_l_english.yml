@@ -428,7 +428,7 @@ belarus.5.b:0 "사빈코프가 아타만을 쏜 직후 틴즈를 쏴버리다."
 belarus.5.c:0 "비투쉬카와 그의 요원들이 방 안의 모두를 죽여버리다."
 
 belarus.6.t:0 "계획대로"
-belarus.6.desc:0 "With Vituška killed by a random bullet and the rest of the entourage dead, Tinz walked out of the restaurant and winked to his chauffeur. Together, they sat in the car - not theirs, but in the Ataman’s limousine, and drove towards the government borough. When a guard tried to stop them at the checkpoint, they quickly bribed him and drove further. Upon disembarking, Tinz sent for his agent at the nearby telegraphy post, and told him to send a short message to Juliusz and to Dolgorukov: \"Phase One is complete.\"\nUnopposed, Eugeniusz and his assistant broke into the sealed headquarters room of Bułak-Bałachowicz. There, retired Polish officer sat in the Ataman’s chair, took a sheet and a pen, and said to himself before starting writing a letter:"
+belarus.6.desc:0 "눈 먼 탄환 하나에 비투쉬카가 살해당하고 나머지 수행원들 역시 죽은 가운데, 식당을 걸어나온 틴즈는 자신의 운전기사에게 눈을 찡끗댔습니다. Together, they sat in the car - not theirs, but in the Ataman’s limousine, and drove towards the government borough. When a guard tried to stop them at the checkpoint, they quickly bribed him and drove further. Upon disembarking, Tinz sent for his agent at the nearby telegraphy post, and told him to send a short message to Juliusz and to Dolgorukov: \"1단계 완료.\"\nUnopposed, Eugeniusz and his assistant broke into the sealed headquarters room of Bułak-Bałachowicz. There, retired Polish officer sat in the Ataman’s chair, took a sheet and a pen, and said to himself before starting writing a letter:"
 belarus.6.a:0 "이제 모든 게 달라질 것이다."
 
 belarus.7.t:0 "창백한 말"
@@ -475,11 +475,11 @@ belarus.16.desc:0 "‘Dear friends,\nI know that the aftermath of a failed Revol
 belarus.16.a:0 "답하는 게 좋을 거요. 혁명은 알아서 구해지는 게 아니니까 말이지!"
 
 belarus.17.t:0 "흑묘와의 점심"
-belarus.17.desc:0 "-그래, 우리 대의가 벨라루스에 이익이 될지도 확실히 모르면서 그대 조국을 돕길 거부하겠단 말이오?\n-우리 조직의 독립을 갖고 사회주의자들과 동의하고 자시고 할 건 없소!\n-잘 들으시오, 미하우. 그대에게서 바라는 건 법에서 말하는 우리 군대의 통합이 전부요. You may not buy into the agitation of our party - c’mon, I’m not even sure whether our own recruits do that. What is simply required is that you do your job as defenders of Belarus on the invisible front.\nLeader of the Black Cats listened to Savinkov, and with each passing minute found this socialist, who was a rather charismatic man though, surprisingly agreeable. He nodded to what Boris was saying. For real, ideology couldn’t matter less in a fight against eternal national oppressors."
+belarus.17.desc:0 "-그래, 우리 대의가 벨라루스에 이익이 될지도 확실히 모르면서 그대 조국을 돕길 거부하겠단 말이오?\n-우리 조직의 독립을 갖고 사회주의자들과 동의하고 자시고 할 건 없소!\n-잘 들으시오, 미하우. 그대에게서 바라는 건 법에서 말하는 우리 군대의 통합이 전부요. You may not buy into the agitation of our party - c’mon, I’m not even sure whether our own recruits do that. What is simply required is that you do your job as defenders of Belarus on the invisible front.\nLeader of the Black Cats listened to Savinkov, and with each passing minute found this socialist, who was a rather charismatic man though, surprisingly agreeable. 그는 사빈코프가 하는 말에 고개를 끄덕였습니다. 참으로, 불멸의 민족억압자들에 대항한 싸움에선 이념조차 큰 의미가 없는 듯했습니다."
 belarus.17.a:0 "그래서... 거래 성립인가?"
 
 belarus.18.t:0 "르 솔레유행 전보"
-belarus.18.desc:0 "Having sent the telegram, Savinkov waited for response. While waiting, he was contemplating burning evidence of him ever writing this letter. However, upon philosophical analysis he found the ideology of Acephale to be actually post-capitalist rather than simply capitalist, meaning that cooperation with that influential group, especially for the purpose of funding a socialist revolution, wasn’t that much of a stretch for an already \"revisionist\" party. The response was favorable, accompanied by a crate of perfumes and hand grenades. More weapons were promised to be shipped through a Danzig route."
+belarus.18.desc:0 "전보를 보낸 사빈코프는 기다렸습니다. While waiting, he was contemplating burning evidence of him ever writing this letter. 하지만 철학적 분석 끝에 사빈코프가 깨달은 건 아세팔이 자본주의자라기보단 탈자본주의자에 더 가깝다는 것이었으며, 사회주의 혁명에 자금을 지원을 목적으로 영향력 있는 이 집단과 협력하는 것이 이미 \"수정주의\" 정당인 이들에게 큰 흠이 되진 않을 것이란 판단이었습니다. 긍정적인 답신과 함께, 향수와 수류탄이 가득 찬 궤짝 하나가 그에 봉송되어왔습니다. 더 많은 무기들이 단치히 경로를 통해 운반될 것입니다."
 belarus.18.a:0 "만족스러운 결과야."
 
 belarus.19.t:0 "옛 동지들과의 회담"
