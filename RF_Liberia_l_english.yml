@@ -3,9 +3,9 @@
 
 #PARTIES#
 LIB_accelerationism_party:0 "UNIA"
-LIB_accelerationism_party_long:0 "Universal Negro Improvement Association and African Communities League"
+LIB_accelerationism_party_long:0 "보편 흑인 개선협회 및 아프리카 공동체 연맹"
 LIB_despotism_party:0 "UNIA-R"
-LIB_despotism_party_long:0 "Universal Negro Improvement Association and African Communities League - Rightist Faction"
+LIB_despotism_party_long:0 "보편 흑인 개선협회 및 아프리카 공동체 연맹 - 우익 파벌"
 LIB_conservatism_party:0 "TWP"
 LIB_conservatism_party_long:0 "진성 위그당"
 LIB_vanguard_socialism_party:0 "P-ABB"
@@ -63,8 +63,8 @@ LIB_benson_ford_sr_int:0 "Benson Ford Sr."
 LIB_claudia_jones_int:0 "Claudia Jones"
 LIB_james_skirving_smith_jr_int:0 "James Skirving Smith Jr."
 
-LIB_grandlion:0 "The Grand Lion of Liberia arrived"
-LIB_african_migration1:0 "Positive African-American Migration"
+LIB_grandlion:0 "라이베리아의 위대한 사자가 도착하다"
+LIB_african_migration1:0 "능동적 아프리카계 미국인 이민"
 
 #COMPANIES#
 Liberian_Arms_Company:0 "라이베리아 병기사"
@@ -120,7 +120,7 @@ LIB_wealthforthepatriots_desc:0 "Those who are loyal to us haven't been receivin
 LIB_garveytakesover:0 "가비가 접수하다"
 LIB_garveytakesover_desc:0 ""
 LIB_manifestdestiny:0 "명백한 운명"
-LIB_manifestdestiny_desc:0 "Just like the White Man had done many decades ago, we need to create a Manifest Destiny for the Americo-Liberian - we need to create new frontiers, new borders, buy new land, expand at all costs! We cannot allow ourselves to sit idly as the single free country of Africa. No longer."
+LIB_manifestdestiny_desc:0 "백인이 수십 년 전에 한 것과 같이, we need to create a Manifest Destiny for the Americo-Liberian - we need to create new frontiers, new borders, buy new land, expand at all costs! We cannot allow ourselves to sit idly as the single free country of Africa. No longer."
 LIB_internationalagreements:0 "국제협약"
 LIB_internationalagreements_desc:0 "It has become clear to our administration that it is nescessary to create some form of international agreement to ensure that the rubber flows across the world - otherwise, our monopoly will be lost to some Communist nation like Brazil."
 LIB_destroytheliberiannation:0 "라이베리아 민족 파괴"
@@ -132,7 +132,7 @@ LIB_ourcurrentproblems_desc:0 "It is clear to the current Government of Liberia 
 LIB_punishtraitors:0 "배신자 처단"
 LIB_punishtraitors_desc:0 "We must do away with those that betray the traitors that betrayed Liberia, so to speak - those that betray the values of liberty and wealth - the values of the Firestone Corporation."
 LIB_anewdawn:0 "새 여명"
-LIB_anewdawn_desc:0 "Liberia is now non-existent. We have freed the World from one nation which was a failed experiment, which we ourselves did away with. Now, after a long proccess, it appears we have finally begun to stabilize as a new entity."
+LIB_anewdawn_desc:0 "라이베리아는 이제 무존입니다. We have freed the World from one nation which was a failed experiment, which we ourselves did away with. Now, after a long proccess, it appears we have finally begun to stabilize as a new entity."
 LIB_businessisourbusiness:0 "사업은 우리 관할"
 LIB_businessisourbusiness_desc:0 "It matters not to us what you do in bed, what you do at home, or even what you do in public. Our business is only Business. We are only here to ensure that things run as smoothly as possible."
 LIB_welcomewhitesettlers:0 "백인 정착민 환영"
