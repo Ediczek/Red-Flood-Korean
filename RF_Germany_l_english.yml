@@ -345,10 +345,10 @@ germany.11.b:0 "We cannot take away the rights from so many Proletarians! But th
 germany.11.c:0 "This is madness! Our Gay Comrades are just as able as any other!"
 #CUSTOM TOOLTIPS AND FLAGS#
 nmapd_victory:0 "NMAPD가 Reichsrätekongress의 과반을 차지하다"
-uspd_victory:0 "The USPD convinced the Reichsrätekongress"
-kpd_victory:0 "The KPD maintained their hegemony in the Reichsrätekongress" 
-kpda_victory:0 "The Leninist wing succeeded the united KPD in the Reichsrätekongress"
-kpds_victory:0 "The Luxemburgist wing inherited the KPD's mastery of the Reichsrätekongress"
+uspd_victory:0 "USPD가 Reichsrätekongress를 설득하다"
+kpd_victory:0 "KPD가 Reichsrätekongress에서 패권을 유지하다" 
+kpda_victory:0 "레닌주의익이 Reichsrätekongress에서 KPD를 통합하는 데 성공하다"
+kpds_victory:0 "룩셈부르크익이 Reichsrätekongress에서의 KPD의 주도권을 계승하다"
 
 GER_emanzipierterkriegsdienst_tooltip:0 "이는 §Y적색전선§을 강화할 것입니다! 이 아이디어는 §Y징병가능인구§: §G+25%§ 효과를 냅니다!"
 GER_kustenschutz_tooltip:0 "우리는 §Y해상초계함대를§ §Y빌헬름스하펜§에 배치할 것입니다!"
@@ -464,7 +464,7 @@ GER_rainofsteelanddynamite_desc:0 "손에 적당한 도구를 들면 콘크리�
 GER_proletariansteel:0 "프롤레타리아의 무기"
 GER_proletariansteel_desc:0 "전차는 이동식 전력의 가장 중요한 부분입니다. 그것들은 빠르고, 거의 모든 지형을 가로지를 수 있습니다. 강력하고, 적들에게 두려움을 주는 전차는 혁명에 도움을 줄 것입니다."
 GER_verteidigungskomplex:0 "국방산업단지"
-GER_verteidigungskomplex_desc:0 "우리는 국민의 요새이며, 주인도 노예도 없으며, 착취의 발길질 또한 없는 땅입니다. 하지만 우리의 자유를 보호하기 위해서라면 무엇이라도 해야 합니다. 아니면 우리의 자유는 곧 추억거리로 변해버릴 겁니다."
+GER_verteidigungskomplex_desc:0 "우리는 인민의 요새이며, 주인도 노예도 없으며, 착취의 발길질 또한 없는 땅입니다. 하지만 우리의 자유를 보호하기 위해서라면 무엇이라도 해야 합니다. 아니면 우리의 자유는 곧 추억거리로 변해버릴 겁니다."
 GER_karlmarxlinie:0 "칼 마르크스 선"
 GER_karlmarxlinie_desc:0 "서방에서는 미래주의 폭군들이 지구상에서 우리의 영광스러운 공화국을 파괴할 계획을 가지고 있습니다. 놈들이 공격해 오도록 놔두십시오! 놈들은 우리의 총검과 차가운 힘에 부딪히게 될 겁니다."
 GER_expandthekarlmarxlinieupnorth:0 "카를 마르크스 선의 북부 확장"
