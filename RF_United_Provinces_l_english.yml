@@ -43,7 +43,7 @@ UPI_alone_unsupplied_cutoff:0 "홀로, 보급도 없이 단절된 채"
 UPI_alone_unsupplied_cutoff_desc:0 "내부제조에 우리는 점점 더 의존하게 되면서, 우리 병사들이 사용하던 고품질의 리-엔필드들은 점차 자체제작 총기로 바뀌어갔습니다. 제조 문제를 제쳐두더라도, 총기는 우리가 필요한 만큼 널려 있지 않습니다."
 
 UPI_civil_obedience:0 "시민불복종"
-UPI_civil_obedience_desc:0 "모두의 우리 통치를, 우리 법을 따릅니다. 반대의 목소리를 허용하되 특정 범위 안에서만 이뤄져야 합니다. 우리를 위협하지 않는 한 발언의 자유를 허용할 것입니다. 다른 자유사회가 그러해야 하듯, 우리 역시 제한은 있습니다."
+UPI_civil_obedience_desc:0 "모두가 우리의 통치를, 우리의 법을 따릅니다. 반대의 목소리를 허용하되 특정 범위 안에서만 이뤄져야 합니다. 우리를 위협하지 않는 한 발언의 자유를 허용할 것입니다. 다른 자유사회가 그러해야 하듯, 우리 역시 제한은 있습니다."
 UPI_freedom_assembly:0 "집회의 자유"
 UPI_freedom_assembly_desc:0 "Everyone should be able to discuss their ideas in the marketplace of thought - the best will rise to the top, the rest can be discarded. People are not naturally inclined to violence and revolution, not unless they believe their leaders are ignoring them. We shall not ignore them."
 UPI_indian_guard:0 "인도 향위대"
