@@ -306,17 +306,19 @@ tai.23.b:0 "또 혁명이 시작됐군..."
 
 tai.231.t:0 "The Flag Flies!"
 tai.231.d:0 "The TPP flag is raised across the cities! Across the KMT clqiues these upstarts are occupying China piece by piece."
-tai.231.a:0 "뭉개버려!"
+tai.241.a:0 "혁명은 필연이다."
+tai.231.b:0 "뭉개버려!"
 tai.231.c:0 "Conceed to the TPP's oversight."
 
-tai.24.t:0 "Agricultural Workers take up Arms"
+tai.24.t:0 "농업노동자들이 무기를 들다"
 tai.24.d:0 "The farmers are rising up! At the signal of our infiltrators the people have taken up arms against the local leaders and placed TPP loyalists in power. These regions have large populations but no means of industry and so the require the cities to revolt as well to be supported. already a reaction from the KMT factions on the mainland is being organised, if we do not act quickly the revolution may be crushed."
 tai.24.a:0 "The people take up arms!"
 tai.24.b:0 "The people take pitchforks to rifles."
 
 tai.241.t:0 "Country-Wide Defection"
 tai.241.d:0 "The countryside with its many minor towns and villages is now awash with TPP loyalist leaders securing roads and bridges, as the militias assemble they guard the grain stores and crops that will fuel the revolution."
-tai.241.a:0 "These traitors will be crushed."
+tai.241.a:0 "혁명은 필연이다."
+tai.241.b:0 "저 반역자들을 처단한다."
 tai.241.c:0 "Accept TPP Sovereignty."
 
 tai.25.t:0 "Reactionary Organisations Shut Down"
