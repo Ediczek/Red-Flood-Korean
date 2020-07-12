@@ -1,6 +1,61 @@
 ﻿l_english:
+#COUNTRY NAME#
+LIT_vanguard_socialism:0 "리투아니아 사회주의 평의회 공화국"
+LIT_vanguard_socialism_DEF:0 "리투아니아"
+LIT_vanguard_socialism_ADJ:0 "리투아니아"
 
+LIT_libertarian_marxism:0 "리투아니아 사회주의 평의회 공화국"
+LIT_libertarian_marxism_DEF:0 "리투아니아"
+LIT_libertarian_marxism_ADJ:0 "리투아니아"
+
+LIT_revolutionary_anarchism:0 "리투아니아 흑색전선"
+LIT_revolutionary_anarchism_DEF:0 "리투아니아"
+LIT_revolutionary_anarchism_ADJ:0 "리투아니아"
+
+LIT_revisionist_socialism:0 "리투아니아 인민공화국"
+LIT_revisionist_socialism_DEF:0 "리투아니아"
+LIT_revisionist_socialism_ADJ:0 "리투아니아"
+
+LIT_social_democratism:0 "리투아니아"
+LIT_social_democratism_DEF:0 "리투아니아"
+LIT_social_democratism_ADJ:0 "리투아니아"
+
+LIT_liberalism:0 "리투아니아"
+LIT_liberalism_DEF:0 "리투아니아"
+LIT_liberalism_ADJ:0 "리투아니아"
+
+LIT_conservatism:0 "리투아니아"
+LIT_conservatism_DEF:0 "리투아니아"
+LIT_conservatism_ADJ:0 "리투아니아"
+
+LIT_right_authoritarianism:0 "리투아니아"
+LIT_right_authoritarianism_DEF:0 "리투아니아"
+LIT_right_authoritarianism_ADJ:0 "리투아니아
+
+LIT_despotism:0 "리투아니아국"
+LIT_despotism_DEF:0 "리투아니아국"
+LIT_despotism_ADJ:0 "리투아니아"
+
+LIT_reactionism:0 "리투아니아국"
+LIT_reactionism_DEF:0 "리투아니아국"
+LIT_reactionism_ADJ:0 "리투아니아"
+
+LIT_accelerationism:0 "리투아니아 예술연합"
+LIT_accelerationism_DEF:0 "리투아니아 예술연합"
+LIT_accelerationism_ADJ:0 "리투아니아"
 #PARTIES#
+LIT_vanguard_socialism_party:0 "LKP"
+LIT_libertarian_marxism_party:0 "LKP"
+LIT_revolutionary_anarchism_party:0 "LKP-JP"
+LIT_revisionist_socialism_party:0 "LKP-SM"
+LIT_social_democratism_party:0 "LVLS-SM"
+LIT_placeholderism_party:0 "LRS"
+LIT_liberalism_party:0 "LRS"
+LIT_conservatism_party:0 "LVLS"
+LIT_right_authoritarianism_party:0 "LTS" 
+LIT_reactionism_party:0 "LTS-GV"
+LIT_despotism_party:0 "KPAL"
+LIT_accelerationism_party:0 "LAP"
 LIT_vanguard_socialism_party:0 "리투아니아 공산당"
 LIT_libertarian_marxism_party:0 "리투아니아 공산당"
 LIT_revolutionary_anarchism_party:0 "흑색전선"
@@ -13,9 +68,7 @@ LIT_right_authoritarianism_party:0 "리투아니아 민족주의-공화주의 �
 LIT_reactionism_party:0 "리투아니아 민족주의-공화주의 연합 (금지정당)"
 LIT_despotism_party:0 "철의 늑대"
 LIT_accelerationism_party:0 "빌뉴스 학파"
-
 #LEADER DESCRITIONS#
-
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
