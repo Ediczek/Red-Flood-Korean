@@ -1,6 +1,6 @@
 ﻿l_english:
 
-MO2_SETTING_SUN_DESC:0 "카자크 국가라. 누군가는 이를 모순어라, 개꿈이라, 어이없는 상념이라 여, 자바이칼의 카자크 군벌국가의 주인인 그리고리 세묘노프는 아닙니다. 러시아 내전의 여파 속에 세묘노프는 기병대를 이끌고선 공화파에게서의 방어를 핑계로 바이칼 호수 동부 영토를 차지했습니다. 점령 직후 그의 도적떼가 지금의 모습을 빚어냈으니, 카자크들과 부랴트인 도적들로 이루어진 무법의 범죄 파벌이 그것이었습니다. 그 이웃들이 20년대의 혼돈에서 회복 중인 사이, 세묘노프는 ㅇ제 건국에 매진하거나 제거될 위협을 감수해야 합니다."
+MO2_SETTING_SUN_DESC:0 "카자크 국가라. 누군가는 이를 모순어라, 개꿈이라, 어이없는 상념이라 여기지만, 자바이칼의 카자크 군벌국가의 주인인 그리고리 세묘노프는 아닙니다. 러시아 내전의 여파 속에 세묘노프는 기병대를 이끌고선 공화파에게서의 방어를 핑계로 바이칼 호수 동부 영토를 차지했습니다. 점령 직후 그의 도적떼가 지금의 모습을 빚어냈으니, 카자크들과 부랴트인 도적들로 이루어진 무법의 범죄 파벌이 그것이었습니다. 그 이웃들이 20년대의 혼돈에서 회복 중인 사이, 세묘노프는 ㅇ제 건국에 매진하거나 제거될 위협을 감수해야 합니다."
 #COUNTRY NAME#
 
 
@@ -29,7 +29,7 @@ MO2_accelerationism_party:0 "WS"
 MO2_accelerationism_party_long:0 "대초원의 바람"
 
 #LEADER DESCRIPTIONS#
-POLITICS_Semyonov_DESC:0 "There is nothing that hasn't been said about Grigory Semyonov, rivals and friends alike have called him a madman, hedonist, murderer and visionary in many colourful ways, yet it all makes no difference as those who dare talk ill of him eventually end up as target practice for his regiments. Born in his homeland of Transbaikal grew up much like the average peasant at the time would, managing to learn Buryat and Mongol shortly before joining the Russian army, graduating from the Orenburg Military School in 1908 as a yesaul, seeing combat in the Great War and the later Russian Civil War in the Caucasus. 1917년 7월, 세묘노프는 자바이칼 임시정부의 commissar으로 임명되고 전쟁이 끝날 때까지, remaining the leader of the region as a reward for his exemplary actions 으로서 자리를 유지했습니다. 나이가 들수록 더 As he grew older, he grew more bitter and hedonistic, becoming an alcoholic, lashing out against others irrationality - leading up to the year of 1925 when he organised the Cossack regiments under his command to take over the province and declare independence from Moscow as the Transbaikal Cossack Host. The reasons behind his secession are vague, some think it was motivated by Semyonov's Buryat nationalism, others thought that Semyonov grew resentful over Kolchak and his autocratic rule over Russia's minorities. With the 20's coming to a close, the reality of this near-anarchist militaristic society began kicking in as societal order broke down and banditry became a common theme of life in the province, much do the contrast of Semyonov's former courageous persona. However, one thing that had not vanished after all these years were Semyonov's ambitions for his impoverished homeland..."
+POLITICS_Semyonov_DESC:0 "정적들은 물론 친구들조차 그리고리 세묘노프를 말하는 데에 광인, 쾌락주의자, 살인마, 다채로운 전망자라는 표현 외에 다른 말을 하진 않지만, 그에 대해 감히 그러한 말을 지껄이는 자들은 세묘노프 연대의 사격 연습감이 되어버렸다는 데서 별 문제가 되진 않았습니다. 자바이칼의 고향에서 태어나 평범한 농민으로 자랐던 그는 러시아 육군에 입대하기 전까지 부랴트어와 몽골어를 배웠으며, 1908년 예사울로서 오렌부르크 군사학교를 졸업하고 대전쟁에서 전투를 경험한 뒤 캅카스에선 러시아 내전에 뛰어들었습니다. 1917년 7월, 세묘노프는 공훈에 대한 보상으로서 자바이칼 임시정부의 위원으로 임명되고 전쟁이 끝날 때까지 역내 지도자로서의 자리를 유지했습니다. 나이가 들수록 쓰라림과 쾌락주의적 성향이 깊어지고, 술에 빠져 살며, 타인의 비이성에 질타하게 된 세묘노프는, 1925년 카자크 연대를 이끌고선 자바이칼을 차지하곤 자바이칼 카자키군을 선언한 뒤 모스크바에게서의 독립을 공포했습니다. 분리의 이유는 명확치 않으나, 일부는 세묘노프의 부랴트 민족주의가 동기가 된 것이라 여기는 한편, 다른 이들은 세묘노프가 러시아 소수민족에 대한 콜차크의 그의 귀족정에 대한 반발심이 커졌기 때문이라 보고 있습니다. 20년대에 가까워지며 이 준아나키스트 군사주의적 사회의 현실은 사회질서의 붕괴를 향해 급격히 추락하며, 도적질이 삶의 일상을 차지하게 되고 말았습니다. 세묘노프의 용감했던 옛 면모와는 완전히 반대되는 것이었습니다. 하지만 그 모든 세월에도, 몰락한 고향에 대한 세묘노프의 야심만은 꺾이지 않았습니다..."
 
 MO2_Semyonov_hog:0 "그리고리 세묘노프"
 MO2_Taskin_hog:0 "세르게이 타스킨"
@@ -74,8 +74,8 @@ MO2_Taskin_hog:0 "세르게이 타스킨"
 MO2_Sorokin_hog:0 "피리트림 소로킨"
 MO2_Vitalevich_for:0 "레오니드 베른고"
 MO2_Taskin_eco:0 "세르게이 타스킨"
-MO2_Verzhbitsky_sec:0 "Grigory Verzhbitsky"
-MO2_Nesmelov_int:0 "Arseniy Nesmelov"
+MO2_Verzhbitsky_sec:0 "그리고리 베르즈비츠키"
+MO2_Nesmelov_int:0 "아르세니 네스멜로프"
 #CUSTOM TOOLTIPS AND FLAGS#
 
 MO2_republic_far_east:0 "극동공화국"
@@ -98,7 +98,7 @@ imperial_pact:0 "제국협약"
 
 mo2.1.t:0 "몽골 전투"
 mo2.1.d:0 "Mongolia is divided, Sternberg's fanatics control the North-West, the Anhui the rump of the once independent nation, with us leading the Buryats and both Altay and Xinjiang competing on the periphery. The battle for supremacy in the region is fast approaching, who will win the Battle for Mongolia?"
-mo2.1.a:0 "May the best man win."
+mo2.1.a:0 "선인의 승리를 바라도록 하지."
 #mo2.1.b:0 ""
 
 mo2.2.t:0 "교회의 지지"
@@ -108,17 +108,17 @@ mo2.2.a:0 "하느님께서 보우하사."
 
 mo2.3.t:0 "자바이칼의 소수민족"
 mo2.3.d:0 "Transbaikal is home to a few different peoples, principally Russians and Buryats, there are however a number of other peoples that call this land home. Tatars, Armenians, Ukrainians, Evenks and Jews among others, the issue of whether to integrate these peoples into the burgeoning Cossack culture of Transbaikal or to grant them cultural and even territorial autonomy is an issue that cannot be kicked down the road if Transbaikal is to succeed."
-mo2.3.a:0 "Grant them Autonomy"
-mo2.3.b:0 "Force their Integration"
+mo2.3.a:0 "자치권을 주라."
+mo2.3.b:0 "통합을 강제한다."
 
 mo2.31.t:0 "자치권을 부여받은 소수민족"
 mo2.31.d:0 "The decision to grant the Transbaikalian minorities autonomy has been met with relief in many parts of the districts, more than a century of russification policies have finally come to an end for some of the people here. The news has attracted attention from neighbouring Republics and Oblasts where such policies are unthinkable under the Russian Yoke, some talk of Transbaikal as a sanctuary for the scattered and downtrodden Siberian peoples."
-mo2.31.a:0 "That should shut them up."
+mo2.31.a:0 "이제 좀 닥치겠지."
 #mo2.31.b:0 ""
 
-mo2.4.t:0 "Integration Programs Announced"
+mo2.4.t:0 "통합 구안 선포"
 mo2.4.d:0 "The new Cossack state cannot be achieved while cultural dissidents persist - so came the proclaimation from Chita, Semyonov announced new legal measures on the use of non-slavic languages and cultural practices. Many having seen the measures coming are already preparing to move away to more accepting lands, mostly westward towards the Intermarium or Imperial Governorates."
-mo2.4.a:0 "They will have to like it."
+mo2.4.a:0 "좋아하는 게 좋을 거다."
 #mo2.4.b:0 ""
 
 mo2.5.t:0 "언어개혁 도입"
@@ -128,12 +128,12 @@ mo2.5.a:0 "Ti govorish Kozak?"
 
 mo2.6.t:0 "극동의 야생"
 mo2.6.d:0 "Bandits, Thieves, Mercenaries, Traditional Nomads, Transbaikal has them all in abundance. The people in the region have been driven to desperate measures and outside of the two largest cities the land is in near anarchy, it will take a strong leader to reign them in."
-mo2.6.a:0 "The lunatics in Belotsarsk are more civil than us."
+mo2.6.a:0 "벨로차르크의 광신자들이 우리보다 더 문명화됐을 거다."
 #mo2.6.b:0 ""
 
 mo2.7.t:0 "시베리아 길들이기"
 mo2.7.d:0 "As new policies are implemented and the general prosperity of the nation increases, criminals are given the opportunity to lay down their arms. Many of the people at the root of the general disorder are now the instruments of its elimination as workers. Soon this wild corner of Siberia will be tamed."
-mo2.7.a:0 "Our rule must tame the Taiga."
+mo2.7.a:0 "우리 통치로 타이가를 길들여야 한다."
 #mo2.7.b:0 ""
 
 mo2.8.t:0 "동방에서의 안정"
@@ -159,7 +159,7 @@ mo2.92.a:0 "영원히 나오지 않았음 좋겠군."
 mo2.10.t:0 "하얼빈과의 대담"
 mo2.10.d:0 "While Zheltorossiya was Semyonov’s sworn enemy, the same cannot be said for the new Republican leaders. There are still strong connections among the former Kadets in many parts of the former Empire. We can use these connections to establish economic ties with Zheltorossiya."
 mo2.10.a:0 "Hopefully they see the mutual benefit to be had."
-mo2.10.b:0 ""
+mo2.10.b:0 "Hopefully we will form a united front to the Tsarists"
 
 mo2.11.t:0 "첫 선거"
 mo2.11.d:0 "The first elections of the post-Semyonov Transbaikal are about to be held, the expected winner is Kadet Liberal Sergei Taskin, his is opposed by Conservative Piritrim Sorokin. Whichever way the polls swing, Transbaikal is about to become a true Democratic Republic at last."
