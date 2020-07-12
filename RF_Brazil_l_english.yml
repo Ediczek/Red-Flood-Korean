@@ -167,7 +167,7 @@ BRA_heitor_ferreira_lima_hog:0 "Heitor Ferreira Lima"
 BRA_alberto_pasqualini_hog:0 "Alberto Pasqualini"
 BRA_ohlweiler_eco:0 "Otto Alcides Ohlweiler"
 BRA_oswald_de_andrade:0 "Oswald de Andrade"
-BRA_amazonas_eco:0 "João Amazonas"
+BRA_amazonas_eco:0 "주엉우 어머조너쉬"
 BRA_pomar_eco:0 "Pedro Ventura Pomar"
 BRA_maranhao_fore:0 "Djalma Maranhão"
 BRA_carvalho_fore:0 "Apolônio de Carvalho"
@@ -382,7 +382,7 @@ BRA_fund_education_desc:0 "Brazil needs an educated future; many in our nation c
 BRA_liberty_late:0 "늦었을지라도 자유라"
 BRA_liberty_late_desc:0 "Just like how the Mineiros say it, Libertatem Quae Sera Tamen is our motto, and we believe that even if it took a long time to depose the vile oligarch, we are now free, and forever prosperous. Long live the Brazilian workers!"
 
-BRA_amazonas:0 "Amazonas의 전위주의"
+BRA_amazonas:0 "어머조너쉬의 전위주의"
 BRA_amazonas_desc:0 ""
 BRA_abolish_parties:0 "타정당 폐지"
 BRA_abolish_parties_desc:0 "We've had enough of this nonsense of liberals and democrats hanging around the edges of our revolution and surviving by the knife's edge. No longer, we shall enact an enormous and violent purge across Brazil that would make the NMAPD blush."
@@ -711,7 +711,7 @@ brazil.24.desc:0 "When the order collapsed, many warlords arose using their shin
 brazil.24.a:0 "일어나라, 새 공화국이여, 일어나라!"
 brazil.24.b:0 "일어나라, 새 공화국이여, 일어나라! (살리스 군벌로 플레이)"
 brazil.25.t:0 "마나우스 제2 코뮌"
-brazil.25.desc:0 "During the 1924 civil war, a very unlikely event happened as the tenentistas seized the capital of Amazonas and declared the Manaus commune, that in theory should have been a long standing bastion of democracy on Brazil, but eventually collapsed and was mostly forgotten. After losing the civil war, the left wing command collapsed, most of the officers fled offshore, while others like Field Marshall Isidoro fought u til the bitter end, and finally some surrendered and were court martialed, with one notable exception, the beast itself, João Amazonas. The Brazilian Napoleon, with a touch of Gengis Khan successfully crushed every single persuit army with his loyalists and made his way into his home state, finding the capital of Amazonas and has just declared the second commune of Manaus. While many are anxious with the creation of such state, the truth is that there is nothing he can do with the outside world and vice and versa, and as such Manaus shall remain a isolated city state."
+brazil.25.desc:0 "During the 1924 civil war, a very unlikely event happened as the tenentistas seized the capital of Amazonas and declared the Manaus commune, that in theory should have been a long standing bastion of democracy on Brazil, but eventually collapsed and was mostly forgotten. After losing the civil war, the left wing command collapsed, most of the officers fled offshore, while others like Field Marshall Isidoro fought u til the bitter end, and finally some surrendered and were court martialed, with one notable exception, the beast itself, 주엉우 어머조너쉬. The Brazilian Napoleon, with a touch of Gengis Khan successfully crushed every single persuit army with his loyalists and made his way into his home state, finding the capital of Amazonas and has just declared the second commune of Manaus. While many are anxious with the creation of such state, the truth is that there is nothing he can do with the outside world and vice and versa, and as such Manaus shall remain a isolated city state."
 brazil.25.a:0 "To talk of immortals..."
 brazil.26.t:0 "아마존 문제"
 brazil.26.desc:0 "Long has the Amazon been difficult to dominate. For decades- nay, centuries, the Amazon has been impossible to step on, and control. We may control it on a map, but people can do whatever they want there, without much of the Federal Government being able to do about it. Now, a coalition of scientists, indigenous people, anthropologists, explorers, and colonists have declared in a pronunciamento that they are declaring neutrality in the Brazilian Anarchy, and will be open to very few refugees. They have already begun closing borders with very small indigenous-only militias, holding only spears and some old weapons, along with some colonist militias guarding the areas around the Delta. It seems we have lost the largest Rainforest in the world..."
@@ -732,7 +732,7 @@ brazil.30.t:0 "론돈의 마지막 모험"
 brazil.30.desc:0 "Every country got its adventurer, it's popular figure that explores the world, find new horizons and advance into uncharted lands doing epic deeds like a real life Allan Quarterman. Nobody in Brazil acted as such like Marshall Rondon, born into the late glory days of the empire and a important military figure during the whole republic, he travelled through the whole Amazon, oversal the creation of native reserves, met colonists, took photos for magazines, was even mentioned on the "National Geographic" magazine. Now with the order collapsing, he finds himself alone with his soldiers on the wilderness as other oligarchs refuse to allow such a large force from crossing without Rondon swearing loyalty for them, something that a deep republican and liberal person like him would never do for a tinpot dictator who betrayed the republic. Nothing is completely bad, however, the natives like him and he respects them by heart, while his soldiers have a personal connection with him. He is old and might die or retire soon, but something that is for sure is that as long his heart beats and as long he has a say, he is not accepting tyrants ruling his loved land, be from the right, be from the left, be from the center."
 brazil.30.a:0 "União? Talvez. Democracia? Sempre."
 brazil.32.t:0 "The dead weight is gone."
-brazil.32.desc:0 "Finally, after all the oligarchs, dictators, localists and bandits broke free, our republic was free from everything uneeded for now. The ideals of 1889, the wealth and the intellect of the elites, the glory of the armed forces who defeated the empire, crushed the federalists, crushed canudos, carried the torch against anarchy in 1924-27, the might of the brazilian republic stands over the corpse of the last revolution. No, we do not regret anything, with the exception of not being able to do more for our people, and to repress more who didn't wanted to accept our truth. We are the best, the aristo, the class of oligarchs, bourgeis, the judiciary, the landowners and the intelectuals who should rule our couuntry, and we are not going to accept this upstarts holding enclaves into our land. From Oiapoque to Chuí, from Amazonas to Ceará, everything shall be brought to our power, the republic shall triumph. \n That being said... it is quite sad, realy, we finally got rid of the lazy northeastners, the unruly gaúchos, the uneducated mineiros, the savages from amazonas and mato grosso, we are free from dead weight... and we will bring them back?"
+brazil.32.desc:0 "Finally, after all the oligarchs, dictators, localists and bandits broke free, our republic was free from everything uneeded for now. The ideals of 1889, the wealth and the intellect of the elites, the glory of the armed forces who defeated the empire, crushed the federalists, crushed canudos, carried the torch against anarchy in 1924-27, the might of the brazilian republic stands over the corpse of the last revolution. No, we do not regret anything, with the exception of not being able to do more for our people, and to repress more who didn't wanted to accept our truth. We are the best, the aristo, the class of oligarchs, bourgeis, the judiciary, the landowners and the intelectuals who should rule our couuntry, and we are not going to accept this upstarts holding enclaves into our land. From Oiapoque to Chuí, from 어머조너쉬 to Ceará, everything shall be brought to our power, the republic shall triumph. \n That being said... it is quite sad, realy, we finally got rid of the lazy northeastners, the unruly gaúchos, the uneducated mineiros, the savages from amazonas and mato grosso, we are free from dead weight... and we will bring them back?"
 brazil.32.a:0 "Long live the republic, long live Brazil."
 brazil.33.t:0 "An army of bandits and messiahs."
 brazil.33.desc:0 "Some rooms got a elephant, other rooms got two or three, but pre 1935 Brazil was like a room with only elephants and nothing else. Of all elephants, one that didn't had much attention of the government was Lampião, the very famous cangaceiro (warlord) with his group of criminals and messiahs, of which plundered farms, cities, villages and churches in seven different states, as his victims were usually lesser oligarchs and the average townsfolk. As order crumbled and local politicians retreated into their realms, all meaningful break on his power was removed and so Lampião now sees the whole northeast, the north and parts of the southeast ripe for plundering, for him there is no need to cave a state or even to have a base of power, the only thing that matters is himself, his wife, his followers and the amount of untapped wealth ripe for taking, and you can be sure that he will try to seize it."
@@ -830,7 +830,7 @@ fcq.2.b:0 "Deimosville, the local immigrants will love it."x
 #  BCQ  #
 #########
 
-bcq.1.t:0 "The last opportunity"
+bcq.1.t:0 "최후의 기회"
 bcq.1.desc:0 "While in theory General Bley is part of the emergency government in Rio, he has de facto control over all the areas where the fourth army is stationed, after having seized it on the days of anarchy before other oligarchs took it. Bley is for his enemies a walking contradiction, by claiming to be a democrat but being a ruler in uniform; by claiming to be something new, but ruling under the flag of one of the most opressive regimes in Brazil, if not the most; by claiming to be standing against opression, even tough he took part in crushing the 1924 revolution. On his part, Bley has the official title of "Federal interventor of Rio de Janeiro and Espírito Santo", being de jure under the hand picked oligarchs of such states, he also claims that he is enforcing the orders of the capital, but on his way, and that mob rule is as bad as martial law. Many people truly wonder what he expect to gain by keeping such a position, as a "true follower of 1889", but for some the answer is clear: Bley had no place on other governments, his whole life was under that structure, and if someone else takes control, he he would toasted alive, so his last opportunity, and also the last opportunity of the people who claims that he is being too soft, too kind with the "worthless", is to take that rotten structure and make if work as it was intended to, and by cooperating with the mummies in Rio is his only, and final chance, to make this structure work."
 bcq.1.a:0 "Liberdade, liberdade, abre as asas sobre nós... Mas chuvas, nas tempestades, nos gritamos vossa voz!"
 
@@ -839,7 +839,7 @@ bcq.1.a:0 "Liberdade, liberdade, abre as asas sobre nós... Mas chuvas, nas temp
 #########
 
 
-neu.1.t:0 "The rise of Neu Schlesien"
+neu.1.t:0 "노이슐레지엔의 발흥"
 neu.1.desc:0 "New Silesia, or Neu Schlesien is a small breakway state along many on the post anarchy order in Brazil. When the federal system collapse and local landlords and oligarchs began to seize land, soon the germans began to organize themselves on the ideal of "Volksgemeinschaft" (national community), organizing themselves against the other, non german, oligarchs. Finally a leader figure arose from this chaotic moment, Egon Albrecht-Lemke, our Lieder. Egon was born to German parents in 1918 in Curitiba, paraná, and became a fighter pilot during the final days of the brazilian civil war, a war that radicalized him. With the news of the breakaway germans, he travelled to the capital and met the locals, bringing some fighters and much needed prussian weaponry, thus being appointed the "Lieder" of our new state. We are under siege from enemies to all sides, but with enought investiment and resources we might unite all germans in Brazil and create a new, beautiful reich in our lands."
 neu.1.a:0 "All Hail die Lieder, Egon Albrecht!"
 neu.2.t:0 "Rio Grande do Sul unified"
@@ -847,15 +847,15 @@ neu.2.desc:0 "Porto Alegre is secured, the Stormtruppen, Landwehr and the Luftwa
 neu.2.a:0 "Dann fahren wir gegen Katherineland, Katherineland!"
 neu.3.t:0 "German investiment arrives"
 neu.3.desc:0 "Today our Foreign minister, Karl Ritter received a mission from the legitimate german government in Königsberg on Porto Alegre. With our government recognized we finally can start exporting our cattle and receiving foreign investiment, especially from the land of our forefathers, with this plans for the creation of a Oppel Truck factory and a junkers small aircraft factory are in motion, while the Hugenberg newspapers built their first american branches in our capital."
-neu.3.a:0 "Ich liebe reichsmarks! Gib mir mehr, Bitte."
+neu.3.a:0 "난 라이히스마르크가 좋아! 좀만 더 주라."
 
 
 #########
 #  MOG  #
 #########
 
-jap_red:0 "The Japanese communists are victorious"
-jap_despotism:0 "The Imperial Government is victorious"
+jap_red:0 "일본 공산주의자들이 승리했습니다"
+jap_despotism:0 "The Imperial Government가 승리했습니다"
 
 #########
 #  MCM  #
