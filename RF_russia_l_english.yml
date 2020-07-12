@@ -342,24 +342,24 @@ russia.12.desc:0 "We have managed to wipe out the clique of Kolchak and destroy 
 russia.12.a:0 "We have weathered the storm."
 #Mladorossi unifier#
 russia.13.t:0 "Ultimatum from the Highest Soviet of Russian Imperial Union"
-russia.13.desc:0 ""
+russia.13.desc:0 "The Imperial Council has issued a demand of feilty to the Crown and High Council. Failure to submit to the central government would have \n"Unfortunate Consquences"\n, We must decide how to proceed."
 russia.13.a:0 "Accept"
 russia.13.b:0 "Refuse"
 #Diterikhs zemsky sobor#
-russia.14.t:0 "A New Russian Monarch"
+russia.14.t:0 "새 러시아 군주"
 russia.14.desc:0 ""
 russia.14.a:0 ""
 #Drozdovsky Zemsky sobor#
-russia.15.t:0 "A New Russian Monarch"
+russia.15.t:0 "새 러시아 군주"
 russia.15.desc:0 ""
 russia.15.a:0 ""
 #Droz duma#
-russia.16.t:0 "The New Duma"
+russia.16.t:0 "새 의회"
 russia.16.desc:0 "Drozdovsky has called for a new Duma to be formed, in order to legitimise and cement his rule in the eyes of the people. Rather than restore a claimant to the Tsardom as some had expected him to, he is now seeking to make himself the constitutional leader of Russia, caretaker to the throne and apparent leader for life. The new Duma is being assembled but its exact composition is yet to be seen, many expect this Russian Caesar to stack his parliament with military men and allies, some believe it may truly be a free legislative house of elected officials."
 russia.16.a:0 "Select appointees by executive"
-russia.16.b:0 "Agree to 'fair' elections"
+russia.16.b:0 "'공정'선거에 동의한다."
 #The radicals take over#
-russia.100.t:0 "The Second Ultimatum"
+russia.100.t:0 "두 번째 최후통첩"
 russia.100.desc:0 "No matter how hard the ledaers of Russia try, the spectre of socialism is yet to abate, they are seemingly an ever-present threat. As part of a sweeping wave of crackdowns on banned organisations, gangs, activists and even mere suspected left-sympathisers, the government has employed the military and extremist militias to maximise the purge. But they have now lost control, as the purge has progressed, certain groups of the Mladorossi, as well as the reactionary militias, have become more powerful than the government intended. With some factional fighting having broken out in Tatarstan, the two groups are now executing an armed struggle and are both threatening the internal stability of the Empire. Diterikh's populist militias and Aleksandr Kazam-bek's Mladorossi have grown into small armies in their own right. The Army has indeed reported rife defections, armouries have been raided, units dissolved and officers gone AWOL, the central government is now without the military means to end the conflict on their terms. So, with little appetite for yet more bloodshed among brothers, both sides have demanded an end to the hostilities before a wider war breaks out. The question is, who will Russia place it's trust in?"
 russia.100.a:0 "The Shtabs-Kapitans Populist Militias"
 russia.100.b:0 "The Ascendant Mladorossi"
@@ -403,24 +403,28 @@ russia.23.desc:0 "The central government, with its newfound power and leadership
 russia.23.a:0 "Accept their demands"
 russia.23.b:0 "Reject their demands"
 
+russia.24.t:0 "The Party"
+russia.24.desc:0 "The room is bathed in the sounds of music not yet heard under these vaults, vaults strictly classical, and at the same time subtle and luxurious - enough to hint at more. The music is bright, full-faced and ruddy-cheeked, like a young woman from a cloth hall, brave and impudent like a curly young man in a brand new fur coat, who deftly and boldly drives his three-horses chaise, and it seems like he will crush everything that will not be lucky to happen on his way. The music then falls, as if diving into the depths of the blue sea, and then soars, as if into the sky, deep, strong, but… quite old-fashioned. \nThis \"Russian dance\" is coming to an end, but the couples continue to waltz, and the sound of boots rings in the ears. In the center of the hall, on a shiny parquet, dancing beautiful pairs of mother-of-pearl and crimson silk - ladies in embroidered kokoshniks and old-fashioned sundresses (oh, how many seamstresses and shoemakers worked on them!), and gentlemen in high kaftans, girded with colorful belts. Lubochnaya greatness, as if the time of Alexei Mikhailovich returned, for a moment, from its bed, covered with a sable fur coat of past epochs - returned to hide in the folds of classical canopies and modern waltzes of French courtiers. Where have you disappeared, a beautiful epoch of peace and idyll! ... Here is the master of the ball, the old Count Turov dancing with his respectable, furry-sabled wife, himself like a boyar from the epics. Senior Turov, Sasha, a dandy and a fashionista, with a thin black mustache and a quick look, is nearby. His partner, the young Sofia Troekurova, a model of pure youth, not yet tarnished with the storm of life, completely languished. Maybe it is too hot in a heavy dress or maybe look of Sasha too sensual. They are a beautiful couple. Here is a thin and strict stereotype of the Ostsee German, Andrew von Wenkenbach, trying to look as always decent, but still embarrassed under the stubborn pressure of Countess Ukhtomskaya. The ladies whisper with smiles that the Countess seems to have decided to stop being an old maid, she flatters the embarrassed Mr. Andrew so much. Not everyone dances - junior Turov, Roman, stood without a partner and participate in the sluggish conversations between those who do not dance. He is not in his plate, he is squeezed by the collar of his kaftan, even this room is squeezing him, to be honest. Roman would rather be in St. Petersburg again, among his non-noble friends, rather than these disheveled antiquities. But whatever, he promised his father, it would be very bad to embarrass him and not show up. Eventually, he and Alina will need this damn money, sooner rather than later. \nAnd then the music fades again, and this time finally. The couples mix and go aside, while a servant comes out on the center, and solemnly announces\:"
+russia.24.a:0 "And now the waltz, ladies, and gentlemen!"
+
 #Patriarch#
-russia.480.t:0 "A New Patriarch"
-russia.480.desc:0 "Ever since the death of Patriarch Tikhon in 1925 the Russian Orthodox Church has been sidelined by the Imperial Administration, more concerned with counter-republican politics and reconstruction than matters of faith. Peter of Krutitsy succeeded him to the Patriarchate, but now Peter too is dead and the role lies vacant. There are four holy men standing ready to take the position; first is Benjamin of the Petrograd, second is Archbishop Andronik, famous throughout the Empire for his strong anti-revolutionary spirit, third is the locum tenens Sergius - heir apparent to the Patriarchate, finally is the noble Alexius of Novgorod."
+russia.480.t:0 "새 총대주교"
+russia.480.desc:0 "1925년 총대주교 티혼의 death 이래 the Russian Orthodox Church has been sidelined by the Imperial Administration, more concerned with counter-republican politics and reconstruction than matters of faith. Peter of Krutitsy succeeded him to the Patriarchate, but now Peter too is dead and the role lies vacant. There are four holy men standing ready to take the position; first is Benjamin of the Petrograd, second is Archbishop Andronik, famous throughout the Empire for his strong anti-revolutionary spirit, third is the locum tenens Sergius - heir apparent to the Patriarchate, finally is the noble Alexius of Novgorod."
 russia.480.a:0 "Benjamin of Petrograd"
 russia.480.b:0 "Archbishop Andronik"
 russia.480.c:0 "Sergius of Nizhny Novgorod"
 russia.480.d:0 "Alexius of Novgorod"
 #???#
-russia.481.t:0 "From the front or from the back?"
+russia.481.t:0 "앞에서부터 아니면 뒤에서부터?"
 russia.481.desc:0 "Alexei Demyanov is waiting with his group outside the regional newspaper on his city, ready to do something against that damned paper. "The truth" had been the main progressive newspaper on his city since he was born promoting such degenerate foreign concepts, especially french such as drug use, republicanism and homosexuality, poisoning the minds of it's readers, and as such it must be destroyed before it can cause more damage. For the last days he gathered a group of likely minded black hundreds and prepared to invade it. \n\n— So, where are we striking from, Alexei? — asked his childhood friend, Popov."
-russia.481.a:0 "Storm through the front door!"
-russia.481.b:0 "Let's go behind it!"
-russia.482.t:0 "Kicking the front door"
+russia.481.a:0 "정문으로 돌진한다!"
+russia.481.b:0 "뒤로 간다!"
+russia.482.t:0 "정문을 걷어차다"
 russia.482.desc:0 "Alexei, Popov and six other man moved towards the newspaper front door, moving inside while the newspaper was working causing surprise for the crew inside, however such actions have been awaited by the newspaper editors, who had set up two guards with revolvers to watch for both entries to the building. Alexei threw himself on the ground while Popov threw a flaming bottle of gasoline on the guard, who became a human torch on a few seconds, not before opening before on the invaders. Thankfully for the guard one of the reporters was fast enought to cover him with a sheet while the gang fleed through the open door in desgrace. Alexei was shot on the arm on the process."
 russia.482.a:0 "Screw that Popov, we are not doing that again!"
-russia.483.t:0 "Through the back."
+russia.483.t:0 "뒤를 뚫다"
 russia.483.desc:0 "Alexei and Popov sneaked through the back door and opened it sneakly. Just as they went in they saw a guard pointing a revolver at them, who was hired by the newspaper editor board already expecting such act of violence. In panic Alexei grabbed the guard gun who opened fired blindly killing part of Alexei's crew on the process. — F**k you! — told Alexei, putting a bullet on the guard, while the newspaper crew run through the front door in panic — Popov, let's burn this place! \n\n— Alexei! — shouted Popov as the second guard who was guarding the front door showed up.\n\nAlexei pointed his gun at the guard, and pressed the trigger, making a 'click' sound."
-russia.483.a:0 "Oh fu-"
+russia.483.a:0 "아 씹-"
 #FOCUSES#
 
 ###Military Tree###
