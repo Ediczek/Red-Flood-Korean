@@ -408,7 +408,7 @@ belarus.1.desc:0 "스타니스와프 부와크-바와호비츠가 전제통치�
 belarus.1.a:0 "있잖나... 이건 나중에 해결하도록 함세."
 
 belarus.2.t:0 "아타만의 결정"
-belarus.2.desc:0 "-Sir, we have the report you have commissioned finished.\nWith these words, an officer of Asobny Atrad walked into the heart of Ataman’s compound. Stanisław Bułak-Bałachowicz looked at the papers provided by agent and asked:\n-Estimated productivity loss as a result of purge?\n-No more than 1%, Your Excellency! - replied the officer.\nThinking about what to do, whether to choose security or mercy, old ruler of Belarus muttered:"
+belarus.2.desc:0 "-각하, 요청하신 일이 완수되었다는 보고입니다.\n말을 전하며, 별동분견대 소속 장교 하나가 아타만의 시설 심장부로 걸어들어왔습니다. 스타니스와프 부와크-바와호비츠는 요원이 건넨 서류를 살핀 후 질문했습니다.\n-숙청에 따른 예상 생산량 손실 수치는?\n-1%가 채 안 됩니다, 각하! - 장교는 답했습니다.\n안보와 자비 중 무엇을 고를 것인지 생각하던 끝에, 벨라루스의 오랜 지도자는 중얼댔습니다."
 belarus.2.a:0 "놈들을 숙청하라!"
 belarus.2.b:0 "조금 겁을 주는 정도로만 쓰지."
 
@@ -422,7 +422,7 @@ belarus.4.desc:0 "It was a long night, and everyone was exhausted by endless arg
 belarus.4.a:0 "민주정을 위해 건배... 정도로 해둠세."
 
 belarus.5.t:0 "알빈에서의 저녁"
-belarus.5.desc:0 "영국에서 생산돼 폴란드를 거쳐 수입된 리무진이 stood in the parking lot near a bit more modest cars belonging to the two rather resourceful Asobny Atrad operatives. All three cars belonged to people who were currently in a pompous restaurant located not far from the city centre of Minsk, all three persons were invited by a somewhat eccentric war veteran Eugeniusz Tinz, who currently was sitting together with his guests, waiting for tartar and beer to be served after a good serving of barszcz and roasted duck. \nBałachowicz, Tinz, Vituška and Savinkov were all sitting at that table, and discussing various things not concerning the matters of the state. After all, life was good enough even without all of that, and the very atmosphere of a peaceful cafe didn’t in any way force the four warriors of Belarus to worry about anything. Suddenly, Bułak-Bałachowicz noticed that the host was not at ease. Before he could do anything..."
+belarus.5.desc:0 "영국에서 생산돼 폴란드를 거쳐 수입된 리무진이, 별동분견대 소속의 유능한 두 요원들이 소유한 좀 더 수수한 두 차 근처에 섰습니다. 세 차는 모두 현재 민스크 중심지에서 멀지 않은 곳에 자리한 호화로운 식당에 든 사람들의 것으로, 세 사람은 모두 살짝 자기중심적인 전역군인 에우게니우쉬 틴즈의 초대를 받았습니다. 자리를 같이한 손님들과 틴즈는 바르쉬츠와 오리구이를 먹고 이후 나올 타르타르와 맥주를 기다리고 있었습니다. \n바와호비츠, 틴즈, 비투쉬카, 사빈코프는 함께 탁자 앞에 앉아 국무 외에 여러 다른 거리들에 대해 논의했습니다. 어쨌든, 굳이 그런 화두를 꺼내지 않아도 인생은 멋진 데다, 평화로운 카페의 분위기 자체 역시 벨라루스의 네 전사들에게서 걱정거리를 털어내도록 강제하고 있었습니다. 갑자기, 부와크-바와호비츠는 주최인이 안절부절하는 것을 눈치챘습니다. 그리고 아타만이 손을 쓰기도 전에..."
 belarus.5.a:0 "틴즈가 아타만을 쏴버리고 사빈코프를 찌르다."
 belarus.5.b:0 "사빈코프가 아타만을 쏜 직후 틴즈를 쏴버리다."
 belarus.5.c:0 "비투쉬카와 그의 요원들이 방 안의 모두를 죽여버리다."
@@ -432,7 +432,7 @@ belarus.6.desc:0 "눈 먼 탄환 하나에 비투쉬카가 살해당하고 나�
 belarus.6.a:0 "이제 모든 게 달라질 것이다."
 
 belarus.7.t:0 "창백한 말"
-belarus.7.desc:0 "전제지도자는 죽었습니다. 간교한 반동 장교인 틴즈 역시 죽었으며, 반동 겁쟁이들은 진즉에 달아났습니다. 주위를 둘러본 보리스 사빈코프는 턱시도에 묻은 피를 닦아내며 뒤에 찬 총집에 리볼버를 집어넣었습니다. 마침내, 벨라루스 공화국 첩보국 내 인원의 원조를 받은 그가 권력의 정점에 서게 된 것입니다. 모든 것은 단 하나의 목적만을 위해 쓰일 것입니다. 콜차크와 그의 역겨운 개새끼들에게 복수해, 사회주의 혁명의 승리를 이끌어내는 것 말입니다. 스파르타쿠스주의자들은 여기까지 온 혁명은 거짓됐다 말하겠지만, 놈들은 러시아를 휩쓸고 있는 악의 본성을 제대로 보지 못 했습니다. 벨라루스의 도움이 있어야만 뱀을 쳐낼 수 있습니다. 혁명의 대의를 향한 군, 인민, 그리고 민족의 흑기사들인 별동분견대의 총체적이며 무조건적인 헌신만이 승리를 보장할 것입니다. 거울을 보던 사빈코프는, 지켜보는 이가 없음을 확인하곤 큰 웃음을 터뜨렸습니다. 다른 모두가 그를 더러 무너졌다 말했지만, 경쟁자들이 얼마나 멍청했는지를 그는 증명해낼 것입니다."
+belarus.7.desc:0 "전제지도자는 죽었습니다. 간교한 반동 장교인 틴즈 역시 죽었으며, 반동 겁쟁이들은 진즉에 달아났습니다. 주위를 둘러본 보리스 사빈코프는 턱시도에 묻은 피를 닦아내며 뒤에 찬 총집에 리볼버를 집어넣었습니다. 마침내, 벨라루스 공화국 첩보국 내 인원의 원조를 받은 그가 권력의 정점에 서게 된 것입니다. 모든 것은 단 하나의 목적만을 위해 쓰일 것입니다. 콜차크와 그의 역겨운 개새끼들에게 복수해 사회주의 혁명의 승리를 이끌어내는 것 말입니다. 스파르타쿠스주의자들은 여기까지 온 혁명은 거짓됐다 말하겠지만, 놈들은 러시아를 휩쓸고 있는 악의 본성을 제대로 보지 못 했습니다. 벨라루스의 도움이 있어야만 뱀을 쳐낼 수 있습니다. 혁명의 대의를 향한 군, 인민, 그리고 민족의 흑기사들인 별동분견대의 총체적이며 무조건적인 헌신만이 승리를 보장할 것입니다. 거울을 보던 사빈코프는, 지켜보는 이가 없음을 확인하곤 크게 웃음을 터뜨렸습니다. 다른 모두가 그를 더러 무너졌다 말했지만, 경쟁자들이 얼마나 멍청했는지를 그는 증명해낼 것입니다."
 belarus.7.a:0 "곧, 혁명의 순교자들이 복수를 이루리라!"
 
 belarus.8.t:0 "짐승의 통치"
