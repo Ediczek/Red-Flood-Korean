@@ -1,6 +1,6 @@
 ﻿l_english:
 
-FIU_DESC_MENU:0 "가브리엘레 단눈치오의 섭정체를 거쳐 설립되고 파리 평화회담과 런던 조약을 통해 인증된 정치체, 피우메는 작지만 강한 국가로서 정치적 소동과 무장분쟁을 거치고 견뎌냈습니다. 단눈치오의 고령과 미령에도 민족적 사기는 여전히 안정적이며, 격분으로 찬 운수의 돌팔매와 화살들에 맞설, 동란의 바다에 맞서 무기를 들 준비가 되어있습니다."
+FIU_DESC_MENU:0 "가브리엘레 단눈치오의 섭정체를 거쳐 설립되고 파리 평화회담과 런던 조약을 통해 인증된 정치체, 피우메는 작지만 강한 국가로서 정치적 소동과 무장분쟁을 겪고 또한 견뎌냈습니다. 단눈치오의 고령과 미령에도 민족적 사기는 여전히 안정적이며, 격분으로 찬 운수의 돌팔매와 화살들에 맞서, 동란의 바다에 맞서 무기를 들 준비가 되어있습니다."
 #COSMETIC TAG#
 FIU_italian_republic_accelerationism:0 "이탈리아 민족공화국"
 FIU_italian_republic_accelerationism_DEF:0 "이탈리아 민족공화국"
@@ -55,10 +55,10 @@ fiume.1.a:0 "그분의 유지를 관철시키리라!"
 #fiume.3.c:0 ""
 
 fiume.4.t:0 "Quarta sessione di poesie"
-fiume.4.desc:0 "Fiume is a place blooming with art. Ever since it's creation numerous poets, writers and philosophers found thier haven here thanks to our avant-garde approach to culture and atmosphere of extravagant self-expression. Every four years since 1924 these artists have a chance to show off thier skills in the annual poetry contest. After observing the various pieces by multiple writers, the clear winner is..."
-fiume.4.a:0 "A poem full of euphoria about reaching for the stars."
-fiume.4.b:0 "An avant-garde poem about motors and artillery."
-fiume.4.c:0 "A Japanese-inspired Haiku based on the struggles of vitality"
+fiume.4.desc:0 "피우메는 예술이 가득 피어나는 곳입니다. Ever since it's creation numerous poets, writers and philosophers found thier haven here thanks to our avant-garde approach to culture and atmosphere of extravagant self-expression. 1924년 매 4년마다 이 예술가들은 연례 작시 경연에서 자신들의 재술을 뽐낼 기회를 갖습니다. 여러 작가들이 쓴 다양한 작품들을 살핀 결과, 확실한 승자는..."
+fiume.4.a:0 "별들을 향한 도취로 가득한 시."
+fiume.4.b:0 "모터와 대포에 관한 아방가르드 시."
+fiume.4.c:0 "활력의 투쟁들에 기반을 둔 일본풍 하이쿠."
 
 fiume.5.t:0 "불황에 관한 고심"
 fiume.5.desc:0 "1931 brought an incredible economic crash that destroyed with great chaos most of Europe's economies - and our city of vitality and joy was not an exception due to our profound ties to Italy. Due to this, We have been in an economic slump since those years, slowly recovering. But now, we need to act quickly if we are to develop in today's world and with D'Annunzio's health slowly waning, it means that other factions can slowly take power and place their approaches on the situation instead of D'Annunzio's neutral attitude. Marinetti suggests massive centrally directed labor force paid in food and housing, Shimoi believes that factory buy-ups and state acquisition of industry is a nescessity, and Keller believes that the best course of action is to ensure that the local syndicates have more power, in order to encourage local production, even at the expense of international trade."
