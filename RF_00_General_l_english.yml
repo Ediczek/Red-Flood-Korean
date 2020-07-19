@@ -430,11 +430,11 @@ independent_war_desc:0 "This country is currently in a independent war. It does 
 
 ### Generic Focus Localisation ###
 WHILE_FOCUSING:0 "While focusing on this, there will be the following effects:\n$EFF$"
-generic_focus:0 "National Focus"
-NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE:0 "The branches are mutually exclusive."
-NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC:0 "Mutually exclusive with"
+generic_focus:0 "국가중점"
+NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE:0 "해당 선택안들은 상치됩니다."
+NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC:0 "다음 선택지와 상치: "
 NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY:0 "$FOCUS|Y$"
-NATIONAL_FOCUS_NO_CURRENT_EFFECT:0 "This focus currently has no effect. Changes in the world situation may affect this."
+NATIONAL_FOCUS_NO_CURRENT_EFFECT:0 "해당 중점은 현재 아무런 효과도 갖지 않습니다. 세계 정세의 변화가 이에 영향을 줄 것입니다."
 continuous_naval_production:0 "Naval Production"
 continuous_naval_production_desc:0 "By focusing resources on our shipyards and exempting skilled shipbuilders from military service, we can dramatically reduce production time for ships."
 continuous_air_production:0 "Air Production"
