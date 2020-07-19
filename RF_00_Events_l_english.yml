@@ -45,7 +45,7 @@ nuke_dropped.1.b:0 "[Root.GetAdjective]의 사람들을 보호하기 위해서�
 
 ### Special Events ###
 nuke_dropped.2.t:0 "히로시마 원자폭격"
-nuke_dropped.2.d:0 "'The streets were like a scene from hell.'\n- Kuniyoshi Aikawa\n\nToday, a nuclear bomb was detonated over the city of Hiroshima at an altitude of 580 metres. More than two thirds of the city were instantly destroyed. Despite the city being built to withstand earthquakes, only a few sturdy structures survived the blast.\n\nWhile the power of the atomic bomb has been played up in the public mind, the human cost of the weapon has been played down. Neither side wants to contemplate the horror of the event, but its legacy will be one of lives lost in the blink of an eye and lasting fallout."
+nuke_dropped.2.d:0 "'거리가 지옥도와 같았다.'\n- 아키와 쿠니요시\n\nToday, a nuclear bomb was detonated over the city of Hiroshima at an altitude of 580 metres. More than two thirds of the city were instantly destroyed. Despite the city being built to withstand earthquakes, only a few sturdy structures survived the blast.\n\nWhile the power of the atomic bomb has been played up in the public mind, the human cost of the weapon has been played down. Neither side wants to contemplate the horror of the event, but its legacy will be one of lives lost in the blink of an eye and lasting fallout."
 nuke_dropped.2.a:0 "How many more will fall before this war ends?"
 nuke_dropped.2.b:0 "We must act quickly to aid the victims."
 nuke_dropped.3.t:0 "나가사키 원자폭격"
@@ -104,5 +104,5 @@ nuke_dropped.15.b:0 "신께선 국왕을 보우하소서!"
 
 
 ### Splash Screen ###
-RF_SPLASH_TITLE:0 "Welcome to the Red Flood"
+RF_SPLASH_TITLE:0 "WELCOME"
 RF_SPLASH_CREDITS:0 "§OBrought to you by the§! §RVolkskomissares§! §Oand Proletariat developers:§!\n§bAdolf Grilltler, Adrore, ApolloBlast, ARC N7, Ariandel, ainsley blyat, Baba Yaga Deux, Bihshah, Blood And Guts, bougainville, Bulbäzo, Capo, ChineseKat, Caveman Gang, Crrnz, Darkneon312, David Cameron, Deutsche-Räte-Union, DMbyname, Drion, Domerator, , Eddinmeat, emmagh, Enderprophet, Endless Despair, fireizzle33331, Gukpa, HistoricalMan, I'M BLUE, Inttie, JohnWick, Jungle Rat, Luigimon98, lyfe, mello, Nathan12479, NykyforKhNURE, Jarl-khan Aino of Portugalia, National-Surrealist Ratboy, Ozmandiaz, Palmu, RanDude, ritasuma, Rapop101, sparrow, Sparkplug70, spiitfyre, Stalin-kun, Sunny Sen M.D, The Great Pretender, TheDealMaker, theman, Waghlon, Xartes, and Yung Daal.§!"
