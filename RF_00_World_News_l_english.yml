@@ -72,7 +72,7 @@ news.11.a:0 "심심한 위로를 전하지."
 news.11.b:0 "반역자들은 당해도 싸다!"
 
 news.12.t:0 "케렌스키의 승리"
-news.12.desc:0 "Despite widespread calls for his resignation, Alexander Kerensky refuses to resign. The army has backed him and his calls for the Supreme Soviet to resign for demanding his own resignation at such a critical time. Kerensky now attempts to win over the Soviets and his own party. He strives to create a more centralized government answerable to him, the President. He yearns to pass a new constitution that will give him the power he needs to reform the republic. He does this not to be a tyrant, but instead to fulfill his one wish: that no child of Zheltorossiya will ever go hungry again."
+news.12.desc:0 "Despite widespread calls for his resignation, Alexander Kerensky refuses to resign. The army has backed him and his calls for the Supreme Soviet to resign for demanding his own resignation at such a critical time. Kerensky now attempts to win over the Soviets and his own party. He strives to create a more centralized government answerable to him, the President. He yearns to pass a new constitution that will give him the power he needs to reform the republic. 케렌스키의 재선 정주행은 폭군이 되기 위함이 아닌, 단 하나의 소원, 황러시아의 그 어떤 아이도 다시는 굶기지 않겠다는 바람을 이루고자 하기 위한 것이었습니다."
 news.12.a:0 "가끔은 본래의 길을 고수하는 게 가장 좋을 때가 있지."
 news.12.b:0 "이걸론 아무것도 바뀌지 않아. 놈은 실패할 거다."
 
@@ -93,13 +93,13 @@ news.19.desc:0 "Howard Scott’s Technocrat Party has secured a safe majority in
 news.19.a:0 "과학정부라고? 흥미로구만 그래."
 
 news.20.t:0 "함부르크 선착장 대파업!"
-news.20.desc:0 "Today in Germany, dock workers in the city of Hamburg who were associated with an Anarchist group called FAUD took a stance against the NMAPD and it's aggressive foreign policy. The dock workers have refused to ship or receive any shipments containing weaponry. In addition, strikers are demanding an end to the NMAPD’s authoritarian domestic policies, which they view as no better than the capitalist dictatorship which the revolution was supposed to liberate them from. The response has been one of military aggression against protestors. Many workers involved have been either killed by the Volkspolizei or imprisoned indefinitely and multiple members of organization's decentralized leadership have been rounded up and dealt with. Goebbels has made his message clear: no Anarchists or other trouble makers are welcome in the Vaterland."
-news.20.a:0 "Comrade Goebbels has laid down the law."
+news.20.desc:0 "Today in Germany, dock workers in the city of Hamburg who were associated with an Anarchist group called FAUD took a stance against the NMAPD and it's aggressive foreign policy. The dock workers have refused to ship or receive any shipments containing weaponry. In addition, strikers are demanding an end to the NMAPD’s authoritarian domestic policies, which they view as no better than the capitalist dictatorship which the revolution was supposed to liberate them from. The response has been one of military aggression against protestors. Many workers involved have been either killed by the Volkspolizei or imprisoned indefinitely and multiple members of organization's decentralized leadership have been rounded up and dealt with. 괴벨스의 전언은 분명했습니다. 그 어떤 아나키스트나 문제아도 조국에선 허용치 않으리란 것이었습니다."
+news.20.a:0 "괴벨스 동지가 법을 내버렸다."
 news.20.b:0 "좀 지나친 듯하네만…"
 news.20.c:0 "괴벨스가 혁명을 배신했다!"
 news.20.d:0 "세상에나!"
 news.20.e:0 "야만인들."
-news.20.f:0 "붉은 거인이 혼자 분투하는 걸 보니 마음이 놓이는군."
+news.20.f:0 "붉은 거인이 혼자 씨름하는 걸 보니 마음이 놓이는군."
 
 news.21.t:0 "알렉산드르 콜차크가 암살당하다!"
 news.21.desc:0 "Shocking news reaches from the lands of Russia, as self proclaimed new Supreme Leader Mikhail Drozdovsky announced in a radio address, the heinous assassination of the Supreme Leader of Russia Alexander Kolchak by anarchist partisans. Kolchak, who had ruled Russia for almost two decades was seen by many international observers as the sole man capable of uniting the highly unstable russian government and military. This thesis seems to have been confirmed as only hours after Drozdovsky’s address General Ivan Romanovsky openly accused him of having ordered the assassination. This development has thrown much of the international community into chaos, as Russia considered to be the “shadow victor” of the World War is now on the verge of civil war. With many governments withdrawing their ambassadors from Petrogard, going so far as to announce that “Revolution will soon be upon Russia”."
@@ -111,7 +111,7 @@ news.22.desc:0 "Strange news come from the island of Madagascar today as after t
 news.22.a:0 "열병과 같은 패악이 자라난다..."
 news.22.b:0 "There goes any hope for sanity in Madagascar..."
 news.22.c:0 "또 다른 나라가 미래를 향해 달려간다..."
-news.22.d:0 "Yet another country comes to our surreal embrace!"
+news.22.d:0 "또 다른 나라가 우리의 초현실적 품에 안겼구나!"
 
 news.23.t:0 "사회주의자들이 마다가스카르를 차지하다!"
 news.23.desc:0 "Fascinating news come from the island of Madagascar as the reigning Monarch, Queen Ranavalona III, has died of an embolism and subsequently resulted in total chaos in the country as there is no heir or even distant relative which could be used to maintain the Monarchy alive, as Marie-Louise is busy living the life of a socialite in Le Soleil, former Paris. Subsequently, appealing to many across the countryside and his status as a war hero helping participate in the Malagasy War of Independence, Jean Ralaimongo quickly got to work organizing his local support bases and doing a mass assault against the capital of Antananarivo, resulting in a success where he quickly got to work and proclaimed the Socialist Republic of Madagascar, with Marxist principles and communal democracy systems in mind."
