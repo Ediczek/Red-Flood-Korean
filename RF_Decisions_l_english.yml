@@ -9,7 +9,7 @@ anarchist_stability:0 "코뮌 토론 개최"
 anarchist_stability_desc:0 "Healthy argument on the tenets of leftism and the best way forward fosters understanding, uniting our communes under the umbrella of anarchy."
 
 anarchist_popularity:0 "기관 민주화"
-anarchist_popularity_desc:0 "A happy worker's voice matters. Ensuring every establishment is controlled by the community instead of some ex-capitalist or commissar is sure to satiate the people."
+anarchist_popularity_desc:0 "행복한 노동자의 목소리는 개의할 만한 사안이죠. 전직 자본주의자나 위원장 같은 것들 대신 공동체가 모든 기반을 장악하는 것이 인민을 만족시킬 겁니다."
 
 anarchist_war_support:0 "지역 민병대 선거"
 anarchist_war_support_desc:0 "Running elections for the militia gives it free publicity, and reminds us of the omnipresent need to defend revolution and insurrection."
@@ -46,18 +46,18 @@ revisionist_war_support:0 "전시 노동권 보호"
 revisionist_war_support_desc:0 "There is a fine line between rationing and deprivation, patriotic work and working oneself to death. The war effort cannot go on without a solid defence of worker's rights."
 
 #Social Democrat
-social_stability:0 "특별 위원회 구성"
-social_stability_desc:0 "Social injustice must be evaluated before it can be fixed. We should set up commissions to analyse and understanding our issues, before enacting measures to deal with them."
+social_stability:0 "특별위원회 구성"
+social_stability_desc:0 "사회불의는 교정 이전에 평가가 필요합니다. 위원회를 설립해 우리의 논제들을 처리할 수단을 작동시킴에 앞서 그에 대해 분석하고 이해할 것입니다."
 
 social_popularity:0 "자본가와 약속"
-social_popularity_desc:0 "For some reason, capitalists always seem to have palpitations when dealing with social democrats, mistaking us for the communists! We must assure them that we won't seize the fruits of their hard labour."
+social_popularity_desc:0 "어떤 이유에서인지 자본가들은 사회민주주의자들을 대할 때면 공산주의자와 착각해선 항상 가슴이 콩닥콩닥 뛰더군요! 저들에게 저들의 노고의 과실을 앗아가려는 게 아니라는 것을 명확히 해줘야 합니다."
 
 social_war_support:0 "노조와 협업"
-social_war_support_desc:0 "Trade unions are the scales that balance labour and capital. Collaborating with them both sides is to win the war at home, everyone enjoying an equitable division of resources."
+social_war_support_desc:0 "노조는 노동과 자본 간의 균형을 맞추는 저울과 같습니다. Collaborating with them both sides is to win the war at home, everyone enjoying an equitable division of resources."
 
 #Liberal
 liberal_stability:0 "필수 산업 보호"
-liberal_stability_desc:0 "When the economy works like a well-oiled machine, everyone is happy. We must ensure the continued functioning of all industries."
+liberal_stability_desc:0 "기름을 잘 먹은 기계처럼 경제가 돌아갈 때에 모두가 행복한 법이죠. 모든 산업이 계속해서 작동하도록 분명히 해야 합니다."
 
 liberal_popularity:0 "모두를 위한 자본주의!"
 liberal_popularity_desc:0 "Capitalism's benefits trickle down to all kinds of hard-workers, from the janitor to the CEO. Philanthropy and public works work. Capitalism works."
@@ -77,33 +77,33 @@ conservative_war_support_desc:0 "전쟁은 결코 사소한 이유로 벌어지�
 
 #Right Authoritarian
 authoritarian_stability:0 "비협조 시민 숙청"
-authoritarian_stability_desc:0 "Civil society can only be maintained with absolute concord. We have no use to threats to this concord, so must they must be eliminated swiftly."
+authoritarian_stability_desc:0 "시민사회는 절대적 화합을 통해서만 유지됩니다. 이 화합에 위협이 될 요소는 즉각 소거될 것입니다."
 
 authoritarian_popularity:0 "병역이 안전을 보장한다"
-authoritarian_popularity_desc:0 "Citizens have a duty to help their community reach its pinnacle. A sustained campaign focusing on the importance of public service is crucial in elevating the disenfranchised, and reminding them of the firm hand of the fatherland."
+authoritarian_popularity_desc:0 "시민들에겐 공동체가 꼭대기에 우뚝 서도록 도와야 할 의무가 있습니다. A sustained campaign focusing on the importance of public service is crucial in elevating the disenfranchised, and reminding them of the firm hand of the fatherland."
 
 authoritarian_war_support:0 "병역을 대가로 한 사면"
-authoritarian_war_support_desc:0 "Our soldiers are to be above it all. Public demonstrations of our military capacity and the many boons of being in the military will convince civilians of this."
+authoritarian_war_support_desc:0 "우리 병사들은 모든 것보다 우선합니다. Public demonstrations of our military capacity and the many boons of being in the military will convince civilians of this."
 
 #Despotic
 despotic_stability:0 "대연설"
 despotic_stability_desc:0 "말에는 힘이 있습니다. 우리의 영광된 지도자의 말에는 큰 힘이 담겨있지요. A great speech in a common square is cathartic, unveiling and cleansing all social ills."
 
 despotic_popularity:0 "충성된 신민들을 위한 보상"
-despotic_popularity_desc:0 "While loyalty to land and state is its own reward, adding material benefits tempts the less convinced."
+despotic_popularity_desc:0 "국토와 국가를 향한 충성은 그 자체로 보상이나, 물질적 이익을 더한다면 설득이 덜된 이들도 유인할 수 있을 겁니다."
 
 despotic_war_support:0 "나라를 위한 집회!"
-despotic_war_support_desc:0 "If the entire nation marches in unison, they will never forget the necessity and the joy of war."
+despotic_war_support_desc:0 "온 나라가 하나되어 행진하고 나며 전쟁의 필요성과 즐거움을 절대 잊지 않을 겁니다."
 
 #Reactionary
 reactionism_stability:0 "민족의 역작 건설"
 reactionism_stability_desc:0 "The first and greatest civilisations were formed when a mass of humanity was herded together in order to create amazing structures: the very first national monuments. We need art for us to thrive, and it reaches its pinnacle when done in service of your state."
 
 reactionism_popularity:0 "경쟁 정당 협박"
-reactionism_popularity_desc:0 "타정당은 퇴폐적입니다. too attached to the decaying world, too obsessed with the superficial. They should be crushed under our heels, for we are the only sane option."
+reactionism_popularity_desc:0 "타정당은 퇴폐적입니다. 부패해가는 세계에 지나치게 애착을 가지며, 인조물에 지나치게 집착합니다. 제정신을 가진 게 우리 밖에 없으니 놈들을 짓밟아야 마땅합니다."
 
 reactionism_war_support:0 "이념적 군국주의 자극"
-reactionism_war_support_desc:0 "우리는 두 수준의 전쟁을 수행합니다. 하나는 우리 적들에 맞서 우리 총포를 사용하는 것이 있고, 다른 하나는 근대성에 맞서 우리의 혀를 이용하는 것이죠. A corps unequipped to think about the conditions we leave in and acts disconnected from the valiance of a previous era is deficient. Someone who talks and theorises but never bothers to get up and do something in real life is deficient. We must raise ideal soldiers with deological perfection."
+reactionism_war_support_desc:0 "우리는 두 수준의 전쟁을 수행합니다. 하나는 우리 적들에 맞서 우리 총포를 사용하는 것이 있고, 다른 하나는 근대성에 맞서 우리의 혀를 이용하는 것이죠. 우리가 처한 상황에 대한 생각도 부족하고 이전 시대의 용담과도 단절된 군단으로는 부족합니다. 말하고 이론화하면서도 자리에서 일어나서 현실에서 뭔가를 이뤄내지 않는 이들도 부족합니다. 우리는 이념적 완벽성을 지닌 이상적인 군인들을 키워내야 합니다."
 
 #Accelerationism
 accelerationism_stability:0 "예술과 학문의 접목"
