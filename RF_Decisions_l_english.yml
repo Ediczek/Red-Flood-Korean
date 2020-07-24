@@ -16,14 +16,14 @@ anarchist_war_support_desc:0 "Running elections for the militia gives it free pu
 
 #Vanguard Socialist
 vanguard_stability:0 "중앙위원회 대회"
-vanguard_stability_desc:0 "Calling a meeting of our central committee allows us to check if socialism is being efficiently implemented across the country, and quell any potential social issues."
+vanguard_stability_desc:0 "중앙위원회 소집은 사회주의가 전국에 효과적으로 심어졌는지 확인할 수 있도록, 그 어떤 잠재적 사회문제도 물리칠 수 있도록 해줍니다."
 
 vanguard_popularity:0 "당원 확대"
-vanguard_popularity_desc:0 "Everyone would like to be a member of the vanguard party. To bring as many into its fold as possible is to make a sure revolution and a happy populace."
+vanguard_popularity_desc:0 "모두가 전위당의 당원이 되는 게 좋습니다. 가능한 한 많은 이들을 당으로 끌어들이는 게 혁명을 확실시하고 사람들을 만족시켜줄 겁니다."
 
 
 vanguard_war_support:0 "혁명 열병식 준비"
-vanguard_war_support_desc:0 "Parades show us the power of our vanguard, and the necessity of war against capital and the blackest of reaction."
+vanguard_war_support_desc:0 "열병은 우리 전위대의 힘을, 자본과 반동의 가장 어두운 자들에 맞선 전쟁의 필요성을 보여줍니다."
 
 #Libertarian Marxist
 libertarian_stability:0 "인기없는 대표 소환"
@@ -87,7 +87,7 @@ authoritarian_war_support_desc:0 "우리 병사들은 모든 것보다 우선합
 
 #Despotic
 despotic_stability:0 "대연설"
-despotic_stability_desc:0 "말에는 힘이 있습니다. 우리의 영광된 지도자의 말에는 큰 힘이 담겨있지요. A great speech in a common square is cathartic, unveiling and cleansing all social ills."
+despotic_stability_desc:0 "말에는 힘이 있습니다. 우리의 영광된 지도자의 말에는 큰 힘이 담겨있지요. 공동광장에서의 위대한 연설은 몸에서 독소를 뽑아내는 듯, 사회의 모든 병을 드러내어 말끔하게 해줍니다."
 
 despotic_popularity:0 "충성된 신민들을 위한 보상"
 despotic_popularity_desc:0 "국토와 국가를 향한 충성은 그 자체로 보상이나, 물질적 이익을 더한다면 설득이 덜된 이들도 유인할 수 있을 겁니다."
@@ -97,7 +97,7 @@ despotic_war_support_desc:0 "온 나라가 하나되어 행진하고 나며 전�
 
 #Reactionary
 reactionism_stability:0 "민족의 역작 건설"
-reactionism_stability_desc:0 "The first and greatest civilisations were formed when a mass of humanity was herded together in order to create amazing structures: the very first national monuments. We need art for us to thrive, and it reaches its pinnacle when done in service of your state."
+reactionism_stability_desc:0 "최초이자 가장 위대한 문명들은, 인간 무리가 놀라운 구조물을, 바로 최초의 민족기념물을 창조하고자 뭉치면서 형성된 것입니다. 번영을 위해 우리를 위한 예술을 필요로 하는 우리이니, 바로 그 예술은 국가를 섬김에 있어서야 진정으로 정상에 닿을 수 있습니다."
 
 reactionism_popularity:0 "경쟁 정당 협박"
 reactionism_popularity_desc:0 "타정당은 퇴폐적입니다. 부패해가는 세계에 지나치게 애착을 가지며, 인조물에 지나치게 집착합니다. 제정신을 가진 게 우리 밖에 없으니 놈들을 짓밟아야 마땅합니다."
