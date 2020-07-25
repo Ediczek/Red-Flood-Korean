@@ -6,13 +6,13 @@ destroy_the_spanish_language:0 "에스파냐어 분쇄"
 
 #Revolutionary Anarchist
 anarchist_stability:0 "코뮌 토론 개최"
-anarchist_stability_desc:0 "Healthy argument on the tenets of leftism and the best way forward fosters understanding, uniting our communes under the umbrella of anarchy."
+anarchist_stability_desc:0 좌익주의 교의에 관한 건강한 논쟁과 이해 증진을 위한 최선안들은 무정부의 그늘 아래 우리 코뮌들을 단결시킵니다."
 
 anarchist_popularity:0 "기관 민주화"
 anarchist_popularity_desc:0 "행복한 노동자의 목소리는 개의할 만한 사안이죠. 전직 자본주의자나 위원장 같은 것들 대신 공동체가 모든 기반을 장악하는 것이 인민을 만족시킬 겁니다."
 
 anarchist_war_support:0 "지역 민병대 선거"
-anarchist_war_support_desc:0 "Running elections for the militia gives it free publicity, and reminds us of the omnipresent need to defend revolution and insurrection."
+anarchist_war_support_desc:0 "민병대 선거는 일종의 무료 홍보 효과를 주며, 혁명과 봉기의 수호라는 편재한 필요를 상기시켜줍니다."
 
 #Vanguard Socialist
 vanguard_stability:0 "중앙위원회 대회"
@@ -27,23 +27,23 @@ vanguard_war_support_desc:0 "열병은 우리 전위대의 힘을, 자본과 반
 
 #Libertarian Marxist
 libertarian_stability:0 "인기없는 대표 소환"
-libertarian_stability_desc:0 "The people's will isn't always perfect. If we gently nudge the most sloven and gluttonous of bureaucrats to retire, we can replace them with people the electorate likes more."
+libertarian_stability_desc:0 "인민의 의지가 언제나 완벽한 건 아닙니다. 언동이 거칠고 탐욕스러운 대부분의 관료들의 은퇴를 조심스레 유도한다면 그들의 자리를 유권층이 좋아하는 이들로 채울 수 있습니다."
 
 libertarian_popularity:0 "노조 통합"
-libertarian_popularity_desc:0 "Trade unions are the seeds of Marxism. When the socialist state walks in lockstep alongside its trade unions, it can never fall."
+libertarian_popularity_desc:0 "노조는 마르크스주의의 씨앗입니다. 노조와 발을 맞추는 사회주의 국가는 절대 무너지지 않습니다."
 
 libertarian_war_support:0 "군사평의회에 대한 양보"
-libertarian_war_support_desc:0 "Listening to the humanitarian and materiel concerns of our soldiers' councils will keep our war efforts going smoothly."
+libertarian_war_support_desc:0 "우리 병사평의회들의 인도주의 및 물질적 우려에 대한 경청은 전쟁 수행을 위한 노력을 원활히 할 것입니다."
 
 #Revisionist Socialist
 revisionist_stability:0 "급진파와의 화해"
-revisionist_stability_desc:0 "Unchecked radical elements will inevitably try to seize state power. Reconciliation is a necessary step in leftist unity."
+revisionist_stability_desc:0 "그냥 놔둔 급진 구성원들이 국가권력을 집어삼키려 들 것임은 필연입니다. 좌익 단결을 위해선 화해가 필수입니다."
 
 revisionist_popularity:0 "중산층 유도"
-revisionist_popularity_desc:0 "Stuck between reaction and revolution, the middle class is neither wholly with capital or labour. Befriending this demographic will give us half the nation's power on our side."
+revisionist_popularity_desc:0 "반동과 혁명 사이에 끼인 중산층은 자본과 노동 중 한쪽에 온전히 속하지 못합니다. 이들과 친애를 쌓는다면 국가의 반을 우리편에 둘 수 있습니다."
 
 revisionist_war_support:0 "전시 노동권 보호"
-revisionist_war_support_desc:0 "There is a fine line between rationing and deprivation, patriotic work and working oneself to death. The war effort cannot go on without a solid defence of worker's rights."
+revisionist_war_support_desc:0 "배급과 식량부족, 애국적 노동과 죽음을 향한 자기노동 사이엔 완벽한 선이 놓여있습니다. 전쟁 수행 노력은 노동권의 강고한 수호 없인 진행될 수 없습니다."
 
 #Social Democrat
 social_stability:0 "특별위원회 구성"
@@ -53,21 +53,21 @@ social_popularity:0 "자본가와 약속"
 social_popularity_desc:0 "어떤 이유에서인지 자본가들은 사회민주주의자들을 대할 때면 공산주의자와 착각해선 항상 가슴이 콩닥콩닥 뛰더군요! 저들에게 저들의 노고의 과실을 앗아가려는 게 아니라는 것을 명확히 해줘야 합니다."
 
 social_war_support:0 "노조와 협업"
-social_war_support_desc:0 "노조는 노동과 자본 간의 균형을 맞추는 저울과 같습니다. Collaborating with them both sides is to win the war at home, everyone enjoying an equitable division of resources."
+social_war_support_desc:0 "노조는 노동과 자본 간의 균형을 맞추는 저울과 같습니다. 양측과의 협력은 고국에서의 싸움에서 이기는 법이며, 자원의 공평분배는 모두를 만족시킬 겁니다."
 
 #Liberal
 liberal_stability:0 "필수 산업 보호"
 liberal_stability_desc:0 "기름을 잘 먹은 기계처럼 경제가 돌아갈 때에 모두가 행복한 법이죠. 모든 산업이 계속해서 작동하도록 분명히 해야 합니다."
 
 liberal_popularity:0 "모두를 위한 자본주의!"
-liberal_popularity_desc:0 "Capitalism's benefits trickle down to all kinds of hard-workers, from the janitor to the CEO. Philanthropy and public works work. Capitalism works."
+liberal_popularity_desc:0 "자본주의의 이익은 잡역부에서부터 최고경영자에 이르기까지 노력하는 모든 노동자들을 위해 위에서 아래로 흐르기 마련입니다. 자선과 공공사업이 통하듯 자본주의도 통합니다."
 
 liberal_war_support:0 "전쟁자원 비축"
-liberal_war_support_desc:0 "Loathe as we often are to admit it, war is good for the market. An increase in production now will leave us far stronger later."
+liberal_war_support_desc:0 "인정하기엔 혐오스럽지만, 전쟁은 시장에 좋습니다. 지금의 생산 증대는 후일의 우리를 훨씬 강하게 할 것입니다."
 
 #Conservative
 conservative_stability:0 "불필요한 기관 축소"
-conservative_stability_desc:0 "To be austere is to be severe, firm and able to survive all adversity. As austerity is the quality of being austere, it stands to reason that austerity is a perfect quality for our state."
+conservative_stability_desc:0 "내핍한다는 것은 모든 역경에 맞서 살아기 위해 엄혹하고 확고해진다는 것입니다. 내핍을 위한 최고의 수단은 긴축이며, 긴축은 우리나라의 완벽을 위한 수단이 될 것입니다"
 
 conservative_popularity:0 "전통을 향한 호소"
 conservative_popularity_desc:0 "모두가 전통을 따르고 행복했던 시절이 있었습니다. 인민에게 과거를 되돌려 우리가 모두를 만족시켜줄 수 있다는 걸 상기시키도록 합시다."
@@ -80,10 +80,10 @@ authoritarian_stability:0 "비협조 시민 숙청"
 authoritarian_stability_desc:0 "시민사회는 절대적 화합을 통해서만 유지됩니다. 이 화합에 위협이 될 요소는 즉각 소거될 것입니다."
 
 authoritarian_popularity:0 "병역이 안전을 보장한다"
-authoritarian_popularity_desc:0 "시민들에겐 공동체가 꼭대기에 우뚝 서도록 도와야 할 의무가 있습니다. A sustained campaign focusing on the importance of public service is crucial in elevating the disenfranchised, and reminding them of the firm hand of the fatherland."
+authoritarian_popularity_desc:0 "시민들에겐 공동체가 꼭대기에 우뚝 서도록 도와야 할 의무가 있습니다. 공공용역의 중요성에 집중한 지속적 운동은 선거권 피탈자들을 고양시키는 데 필수적이며, 조국의 단단한 손아귀를 상기토록 합니다."
 
 authoritarian_war_support:0 "병역을 대가로 한 사면"
-authoritarian_war_support_desc:0 "우리 병사들은 모든 것보다 우선합니다. Public demonstrations of our military capacity and the many boons of being in the military will convince civilians of this."
+authoritarian_war_support_desc:0 "우리 병사들은 모든 것보다 우선합니다. 우리 군사력의 공개시연과 군에서 찾을 수 있는 만족스러운 거리들이라면 민간을 설득시킬 수 있을 겁니다."
 
 #Despotic
 despotic_stability:0 "대연설"
@@ -93,7 +93,7 @@ despotic_popularity:0 "충성된 신민들을 위한 보상"
 despotic_popularity_desc:0 "국토와 국가를 향한 충성은 그 자체로 보상이나, 물질적 이익을 더한다면 설득이 덜된 이들도 유인할 수 있을 겁니다."
 
 despotic_war_support:0 "나라를 위한 집회!"
-despotic_war_support_desc:0 "온 나라가 하나되어 행진하고 나며 전쟁의 필요성과 즐거움을 절대 잊지 않을 겁니다."
+despotic_war_support_desc:0 "온 나라가 하나되어 행진하고 나면 전쟁의 필요성과 즐거움을 절대 잊지 않을 겁니다."
 
 #Reactionary
 reactionism_stability:0 "민족의 역작 건설"
@@ -110,7 +110,7 @@ accelerationism_stability:0 "예술과 학문의 접목"
 accelerationism_stability_desc:0 "놈들은 그냥 너무 느려요. 점잔빼는 학자 놈들, 립스틱이니 드레스니, 맨날 똑같은 책에, 스포츠에, 영화까지요. 놈들의 말랑대는 뇌에 수백의 총알을 박고, 우리의 음조로 놈들의 귀를 멀게 하면 전부 사라질 거예요. 빨리 해보도록 해요. 모두 좋아할 거예요."
 
 accelerationism_popularity:0 "자유화 대안 약속"
-accelerationism_popularity_desc:0 "로마인들조차 알았습니다! 미래주의 없인 아무것도 할 수 없다는 걸요. 옛 법들이 여러분을 계속 늦추고 있으니 저희가 자유롭게 해드리겠습니다. 여러분의 전통을 모두 바다에 던져 넣으세요."
+accelerationism_popularity_desc:0 "미래주의 없인 아무것도 할 수 없다는 건 로마인들조차 알았습니다! 옛 법들이 여러분을 계속 늦추고 있으니 저희가 자유롭게 해드리겠습니다. 여러분의 전통을 모두 바다에 던져 넣으세요."
 
 accelerationism_war_support:0 "절대적 광신주의 요구"
 accelerationism_war_support_desc:0 "당연히 여러분은 저희를 사랑하세요. 당연히 그러시죠. 당연히 그대는 저를 사랑하시고요. 당연히 그러시고 말고요. 바닥에 대가리 쳐박아. 날 사랑한다고 말해. 내뱉어, 소리 질러, 소리 지르라고! 날 위해 울어줘, 날 위해 빌어줘, 당을 위해 빌어줘, 빌어줘. 여러분 자신을 열고 천의 이론들에 몸을 맡기세요. 그 이론들이 모두 여러분을 흐르며 통과하도록 두세요."
