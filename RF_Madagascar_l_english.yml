@@ -2,7 +2,7 @@
  
 #PARTY NAMES#
 MAG_accelerationism_party:0 "LFM"
-MAG_accelerationism_party_long:0 "말라가시 미래주의Ligaly"
+MAG_accelerationism_party_long:0 "말라가시 미래주의 연맹"
 MAG_liberalism_party:0 "CDM"
 MAG_liberalism_party_long:0 "마다가스카르 민주연맹"
 MAG_despotism_party:0 "F-P F-V"
@@ -213,10 +213,10 @@ mag.11.a:0 "더 이상의 허기는 없다!"
 
 mag.12.title:0 "턱수염이 진보의 신호라 할 수 있나?"
 mag.12.desc:0 "Today a new article was publishied on the Antsirabe commune about something they claim it's of high importance, as according to the article 'Every proud socialist should wear a beard', since Karl Marx, Friedrich Engels and Vladimir Lenin had beards. This usually won't get hassle since beards are common in our country and we keep a individualistic fashion standart, everyone should be able to wear anything they want, however some claims that this is a dangerous precedent of a group trying to force their own standarts of beauty on the average population, and already protests began on the commune with people shaving their beards in front of the local newspaper. Should the government take action?"
-mag.12.a:0 "No, absolutely nothing, this is worthless."
+mag.12.a:0 "아니, 전혀 아니지. 그럴 가치도 없어."
 mag.12.b:0 "Send a letter asking for them to apologise."
 mag.12.c:0 "Send an official note supporting the newspaper."
-mag.12.d:0 "Fire whoever told me about such irrelevancy."
+mag.12.d:0 "그런 시시콜콜한 것들로 내게 말을 거는 것들을 전부 쏴버린다."
 
 mag.13.title:0 "'신 프랑스' 관념"
 mag.13.desc:0 "Due to the repression of left wing governments by the avant gardist french government and our progressive policies, we have been receiving a lot of french immigrants recently all over our country. A proposal was made by some of our governments after a few racist incidents between natives and frenchmen to create a commune in south madagaskar to be a french enclave. Some supports the idea of this 'Nouvelle France', while others claims that allowing the french to settle everywhere would blurry our racial lines with time. What should we do?"
@@ -225,7 +225,7 @@ mag.13.b:0 "창설하지 않는다."
 
 mag.14.title:0 "난 바나나가 좋아. 거기엔 뼈가 없거든!"
 mag.14.desc:0 "Ah, bananas, who don't love them? Apparentely they alone can keep our economy afloat for decades as the profit allows new technologies to arrive here, amoung them, the radio! Yes, the magnificent radio, with their magnificent musics, and amoung them a pearl, the most perfect song ever made by humans, the magni-gracious "I like Bananas, because they have no bones" by the british George Elrick. While most of our population (or at least the ones who hold a radio) do not understand the english lyrics, the rhytm and the singing are nice enought to make it a massive hit! We should make a madagaskari version of that song to promote it even more! Hahah! What a glorious success!"
-mag.14.a:0 "Magnificent!"
+mag.14.a:0 "훌륭해!"
 
 mag.15.title:0 "마다가스카르 민족화"
 mag.15.desc:0 "We are truly one of the greatest and most gorgeous places in the World, with rolling hills and wetlands which exist from Toamasina to Ifanadiana, to the Plateau which exists in the gorgeous and breathtaking Tanarive city, bustling with life and energy, beauty and love, surrealism and modernity, and the West, dried yet mountainous, where snow falls. And finally, the gorgeous and unchartered, mystical and esoteric south, which is drier and for only the most dedicated explorers. However, a government is not only made of natural beauty, but also of their people, and we have are a very diverse, yet homogenous country with many sub-ethnic groups within the Malagasy race such as the Betsileo, Betsimisaraka and Merina, all of them very united but through traditional forms of Unity - leftover from the Merina Kingdom and the French occupation. To overcome this archaic union, we must unite ourselves under something stronger, something more powerful, a National Myth, as idealized by Georges Sorel, a wonderful French thinker, which believed a nation needed something beyond the truth to become something greater and not fall into decay and misery, riding towards the Future. Subsequently, we have looked into the ideas of esoteric writers and artists across the country and of foreign explorers who believe this land to be Lemuria - and this feels... right. It feels right to us - it feels right to our people, right to our Government, right to our State. It feels right for our Nation! It is true - it is undeniable - we are Lemurians, we are from the mystical land between the Indian and the Pacific, a land beyond reality, a land beyond thought and reason, a land beyond physicality and beyond sensibilities - a land beyond limitation!"
