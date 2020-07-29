@@ -159,9 +159,9 @@ mag_refugees:0 "프랑스 난민"
 mag_localtribes:0 "현지 부족민병대"
 mag_welfare:0 "말라가시 복지"
 
-Air_Madagascar:0 "Madagascar Air"
-Karenjy:0 "Karenjy"
-Magarail:0 "Magarail"
+Air_Madagascar:0 "마다가스카르 항공"
+Karenjy:0 "카렌지"
+Magarail:0 "마가라일"
 JIRAMA:0 "JIRAMA"
 
 #EVENTS#
@@ -205,11 +205,11 @@ mag.9.c:0 "Norbert Zafimahova, the conservative gentleman!"
 
 mag.10.title:0 "Communal democracy is the best Economy"
 mag.10.desc:0 "In our fatherland there are no tyrants, there are no dictators or generals, or any kind of opressors. This system also affects our economy, there is no economy minister in our country, no bureocrat to create state quotas, no comissars on the factories to force us to produce more when we do not want to, there are no price controls or industrial demand for production. We are a democracy, and our economy is also democratic, our communes work with what they have to produce what they need when they believe that it's necessary on the quantity we believe it's worth making and on this way we might not have the greatest industrial output on the world, or in africa, neither be the breadbasket we used to be, but at least we can be the happiest natin on africa and amoung the happier in the world and this is what makes us different."
-mag.10.a:0 "Tyrants, of any kind, are not welcome here."
+mag.10.a:0 "어떤 유형의 폭군도 여기선 환영받지 못 한다."
 
 mag.11.title:0 "기근이 끝나다"
 mag.11.desc:0 "For centuries all civilizations suffered from famines, from the richest european nation to the poorest latim american republic, from our wealthy african tribes to the crippled balkanic dictatorship. As technology advanced, such famines began to get rarer and rarer, more efficient administration allowed food to be better produced and land reforms allowed more people to produce food. On the last years we had less famines than in the past, and we managed to help the affected regions by transporting food using horses and the railway lines left over from the kingdom and the french occupation. Now our agricultural output continues to improve and more roads are being built, our communes enjoy a increase food production so soon we hope that just like other civilizations did, our progressive communist society will be finally freed from famines once for all."
-mag.11.a:0 "No more hunger!"
+mag.11.a:0 "더 이상의 허기는 없다!"
 
 mag.12.title:0 "턱수염이 진보의 신호라 할 수 있나?"
 mag.12.desc:0 "Today a new article was publishied on the Antsirabe commune about something they claim it's of high importance, as according to the article 'Every proud socialist should wear a beard', since Karl Marx, Friedrich Engels and Vladimir Lenin had beards. This usually won't get hassle since beards are common in our country and we keep a individualistic fashion standart, everyone should be able to wear anything they want, however some claims that this is a dangerous precedent of a group trying to force their own standarts of beauty on the average population, and already protests began on the commune with people shaving their beards in front of the local newspaper. Should the government take action?"
@@ -220,8 +220,8 @@ mag.12.d:0 "Fire whoever told me about such irrelevancy."
 
 mag.13.title:0 "'신 프랑스' 관념"
 mag.13.desc:0 "Due to the repression of left wing governments by the avant gardist french government and our progressive policies, we have been receiving a lot of french immigrants recently all over our country. A proposal was made by some of our governments after a few racist incidents between natives and frenchmen to create a commune in south madagaskar to be a french enclave. Some supports the idea of this 'Nouvelle France', while others claims that allowing the french to settle everywhere would blurry our racial lines with time. What should we do?"
-mag.13.a:0 "Create the commune."
-mag.13.b:0 "Don't create it."
+mag.13.a:0 "코뮌을 창설한다."
+mag.13.b:0 "창설하지 않는다."
 
 mag.14.title:0 "난 바나나가 좋아. 거기엔 뼈가 없거든!"
 mag.14.desc:0 "Ah, bananas, who don't love them? Apparentely they alone can keep our economy afloat for decades as the profit allows new technologies to arrive here, amoung them, the radio! Yes, the magnificent radio, with their magnificent musics, and amoung them a pearl, the most perfect song ever made by humans, the magni-gracious "I like Bananas, because they have no bones" by the british George Elrick. While most of our population (or at least the ones who hold a radio) do not understand the english lyrics, the rhytm and the singing are nice enought to make it a massive hit! We should make a madagaskari version of that song to promote it even more! Hahah! What a glorious success!"
@@ -231,29 +231,29 @@ mag.15.title:0 "마다가스카르 민족화"
 mag.15.desc:0 "We are truly one of the greatest and most gorgeous places in the World, with rolling hills and wetlands which exist from Toamasina to Ifanadiana, to the Plateau which exists in the gorgeous and breathtaking Tanarive city, bustling with life and energy, beauty and love, surrealism and modernity, and the West, dried yet mountainous, where snow falls. And finally, the gorgeous and unchartered, mystical and esoteric south, which is drier and for only the most dedicated explorers. However, a government is not only made of natural beauty, but also of their people, and we have are a very diverse, yet homogenous country with many sub-ethnic groups within the Malagasy race such as the Betsileo, Betsimisaraka and Merina, all of them very united but through traditional forms of Unity - leftover from the Merina Kingdom and the French occupation. To overcome this archaic union, we must unite ourselves under something stronger, something more powerful, a National Myth, as idealized by Georges Sorel, a wonderful French thinker, which believed a nation needed something beyond the truth to become something greater and not fall into decay and misery, riding towards the Future. Subsequently, we have looked into the ideas of esoteric writers and artists across the country and of foreign explorers who believe this land to be Lemuria - and this feels... right. It feels right to us - it feels right to our people, right to our Government, right to our State. It feels right for our Nation! It is true - it is undeniable - we are Lemurians, we are from the mystical land between the Indian and the Pacific, a land beyond reality, a land beyond thought and reason, a land beyond physicality and beyond sensibilities - a land beyond limitation!"
 mag.15.a:0 "자유 너머의 땅이로다."
 
-mag.16.title:0 "On the Questions of Gender and Sexuality"
+mag.16.title:0 "젠더와 성에 관한 의문들"
 mag.16.desc:0 "Upon the declaration of our glorious commune, it was decided by our people and their Party to forever abolish the backwards traditions of old, lest the Malagasy people fester in the waste-pits of reaction. However, one unforeseen consequence of this is its effect on traditional gender roles and beliefs on sexuality. Previous, the Malagasy people were firm protestants, and believed that homosexuality was amoral and that anyone who dared suggest that they were any gender besides the one they were assigned at birth are simply mentally ill. But that was the past, and now ours is a society of social progress. As homosexual and transgender comrades make themselves comfortable in our new society, the government should express official support for these communities."
-mag.16.a:0 "Taste the rainbow"
+mag.16.a:0 "무지개를 맛보다."
 
 mag.17.title:0 "A Gentle Evening"
 mag.17.desc:0 "A purple star\n evolves in the depths of sky - \n what a flower of blood that blooms in the praire of night \n \n \n evolves, evolves,\n then becomes like a paper kite loosened from a sleepy child. \n\n Appearing to approach and withdraw at the same time, \n losing its color like a flower about to fall,\n becoming a cloud, becoming white, reducing itself:\n to nothing more than a point of diamond\n scoring the zenith's blue mirror \n where one already sees the glorious \n lure of the nubile morn."
-mag.17.a:0 "I love you so much, my dearest."
+mag.17.a:0 "내 사랑, 나 몹시 그대를 사랑하오."
 
 mag.18.title:0 "Bamboo for Two"
 mag.18.desc:0 "A local poet has created a new series of poems in a magazine called 'Bird Talk' where they make surrealist poetry based on coconuts, bamboo, and other elements of tropicalia and subsequent pacific-oriented 'Sound Visions' as they call it."
-mag.18.a:0 "Tell me more!"
+mag.18.a:0 "더 얘기해보게!"
 
 mag.19.title:0 "Bird Talk Vol. 1"
 mag.19.desc:0 "One of the first poems that was made by this writer which decides to go by 'Charles', is excerpted as the following: \n 'What lurks within the jungles bouquet\n is to you, Belafonte, a natural scents\nmeditation on what a hearts lingering\n expectancy casts, as a coconuts shadow\n is thrown across the stem of a rose,\n that rests, within your moistened beak \n\n As the frightened intensity of your gaze\n is met with mine, A Star is Born,\n residing within this galaxy's inner lacing \n of a Night's creativity...'"
-mag.19.a:0 "More! Please! I love these!"
+mag.19.a:0 "더! 제발! 산문이 좋아!"
 
 mag.20.title:0 "Bird Talk Vol. 2"
 mag.20.desc:0 "The Second volume gets more surreal and animated, more vibrant and alive. \n\n 'The hastening of a downpours percussion\n is left calmly to encounter my brow, as it \n ventures to align itself with a descending \n vines runaway, yet another prop that wishes \n to lead an intersection of delicately laid \n trajectories upon our lack of physical\n limitations, when a perched shoulder \n chases the path to your sunflower seed \n shelled bed, feathered with a bougainvellea's \n shallow lobe, appearing to expand the \n sensation of your talons graze upon \n the nape of my neck..."
-mag.20.a:0 "Oh my..."
+mag.20.a:0 "세상..."
 
 mag.21.title:0 "Bird Talk Vol. 3"
 mag.21.desc:0 "The Third and final volume as of yet is more tense and with even more buildup, reaching towards surreal dreamlike perspectives and eventually reaching into a cliffhanger. \n\n The darkest shade of Twilight Blue watches\n your silhouette coat the motion of a windswept jungles horizon, as you, Belafonte, entice upon me, the relativity of a winged view, between starlit heavens above, and a tree line's climax, our destination's lateral is lit with that of our crescents thirty day return, so as to illuminate a waterfalls introduction: \n\n An alcoves retreated as a premiere\n desires waking hallucination of an erotic\n revelling of your plumage, appears to be\n filled with an Archers Palette a vibrant\n fauna plucked from nature’s bounty,\n and applied to your slender shade.\n\n The willful acceptance of \n my apprehension, highlights a supersensible\n entertainment of a fortnights play, as the\n enviroments soundtrack invades the canal\n of a bogonia's oracle,\n\n I am Yours, and You are mine\n\n This is an agents relevation of the outer shelf's distant paradise, lying between the architecture of a romantic interlude, erected to the heighth of a mind's plane, on accounts portrayed by a tenant from the enviroments, within who's tender vocal prowess led me to a jungles expedition:\n a living breathing mirroring of two species touching embrace..."
-mag.21.a:0 "So beautiful."
+mag.21.a:0 "참으로 아름답군."
 
 #MINISTERS#
 MAG_mary_margueritte_razafitrimo_hog:0 "마리 마르게리트 라자피트리모"
@@ -264,7 +264,7 @@ MAG_leon_henri_charles_cayla_for:0 "레옹 앙리 샤를 카일라"
 MAG_calvin_tsiebo_for:0 "칼뱅 치에보"
 MAG_regency_council_for:0 "섭정평의회"
 MAG_charles_ravoajanahary_for:0 "샤를 라보아자나하리"
-MAG_ny_avana_ramanantoanina_eco:0 "Ny Avana Ramanantoanina"
+MAG_ny_avana_ramanantoanina_eco:0 "니 아바나 라마난토아니나"
 MAG_norbert_zafimahova_eco:0 "노르베르 자피마호바"
 MAG_regency_council_eco:0 "섭정평의회"
 MAG_democratic_councils_eco:0 "민주평의회 조직"
