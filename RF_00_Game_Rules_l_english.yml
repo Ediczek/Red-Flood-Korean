@@ -6,7 +6,7 @@ RULE_OPTION_RANDOM:0 "무작위"
 RULE_OPTION_RANDOM_DESC:0 "각국은 무작위로 경로를 택할 것입니다."
 
 # Germany #
-GER_AI_PATH:0 "@GER Germany"
+GER_AI_PATH:0 "@GER 독일"
 RULE_OPTION_GER_NMAPD:0 "NMAPD"
 RULE_OPTION_GER_NMAPD_DESC:0 "독일 민족다수노동자당이 독일의 집권당이 될 것입니다."
 RULE_OPTION_GER_KPDA:0 "KPD (아방가르드익)"
@@ -19,7 +19,7 @@ RULE_OPTION_GER_USPD:0 "USPD"
 RULE_OPTION_GER_USPD_DESC:0 "독일 독립 사회주의당이 독일의 집권당이 될 것입니다."
 
 # France #
-FRA_AI_PATH:0 "@FRA France"
+FRA_AI_PATH:0 "@FRA 프랑스"
 RULE_OPTION_FRA_ESCADRON:0 "에스카드롱"
 RULE_OPTION_FRA_ESCADRON_DESC:0 "아르토가 에스카드롱주의자들과 결탁할 것입니다."
 RULE_OPTION_FRA_ACEPHALE:0 "아세팔"
@@ -30,7 +30,7 @@ RULE_OPTION_FRA_BRETON:0 "W.I.P"
 RULE_OPTION_FRA_BRETON_DESC:0 "프랑스가 아직 구현되지 않은 에스카드롱 경로를 택할 것입니다."
 
 # UK #
-ENG_AI_PATH:0 "@ENG United kingdom"
+ENG_AI_PATH:0 "@ENG 영국"
 RULE_OPTION_ENG_LABOR:0 "노동당"
 RULE_OPTION_ENG_LABOR_DESC:0 "노동당이 집권당이 될 것입니다."
 RULE_OPTION_ENG_LIBERAL:0 "자유당"
@@ -39,7 +39,7 @@ RULE_OPTION_ENG_TORIES:0 "보수당"
 RULE_OPTION_ENG_TORIES_DESC:0 "보수당이 집권당이 될 것입니다."
 
 # USA #
-USA_AI_PATH:0 "@USA United States"
+USA_AI_PATH:0 "@USA 미국"
 RULE_OPTION_USA_PROGRESSIVES:0 "진보당"
 RULE_OPTION_USA_PROGRESSIVES_DESC:0 "피오렐로 라 과디아가 대통령이 될 것입니다."
 RULE_OPTION_USA_AMERICANS:0 "미국당"
@@ -50,7 +50,7 @@ RULE_OPTION_USA_TECHNOCRACTS:0 "테크노크라시 법인"
 RULE_OPTION_USA_TECHNOCRACTS_DESC:0 "하워드 스콧이 대통령이 될 것입니다."
 
 # Poland #
-POL_AI_PATH:0 "@POL Poland"
+POL_AI_PATH:0 "@POL 폴란드"
 RULE_OPTION_POL_DASZYNSKI:0 "사회민주파"
 RULE_OPTION_POL_DASZYNSKI_DESC:0 "피우수트스키의 서거가 국가의 민주화로 이어집니다."
 RULE_OPTION_POL_SZUKALSKI:0 "민족재건파"
@@ -59,7 +59,7 @@ RULE_OPTION_POL_ZYMIERSKI:0 "독재"
 RULE_OPTION_POL_ZYMIERSKI_DESC:0 "피우수트스키의 서거가 군사정권으로 이어집니다."
 
 # Fiume #
-FIU_AI_PATH:0 "@FIU Fiume"
+FIU_AI_PATH:0 "@FIU 피우메"
 RULE_OPTION_FIU_KELLER:0 "비행사"
 RULE_OPTION_FIU_KELLER_DESC:0 "귀도 켈레르가 단눈치오의 후계자가 됩니다."
 RULE_OPTION_FIU_MARINETTI:0 "이론가"
@@ -68,7 +68,7 @@ RULE_OPTION_FIU_SHIMOI:0 "전사"
 RULE_OPTION_FIU_SHIMOI_DESC:0 "하루키치 시모이가 단눈치오의 후계자가 됩니다."
 
 # Austria #
-AUS_AI_PATH:0 "@AUS Austria"
+AUS_AI_PATH:0 "@AUS 오스트리아"
 RULE_OPTION_AUS_DOLFUSS:0 "돌푸스"
 RULE_OPTION_AUS_DOLFUSS_DESC:0 "오스트리아 국수주의자들이 집권합니다."
 RULE_OPTION_AUS_ROHM:0 "룀"
@@ -81,14 +81,14 @@ RULE_OPTION_ZHR_REPUBLIC:0 "공화정"
 RULE_OPTION_ZHR_REPUBLIC_DESC:0 "민주정이 오스트리아에서 승리합니다."
 
 # Italy #
-ITA_AI_PATH:0 "@ITA Italy"
+ITA_AI_PATH:0 "@ITA 이탈리아"
 RULE_OPTION_ITA_BALBO:0 "발보"
 RULE_OPTION_ITA_BALBO_DESC:0 "이탈로 발보가 이탈리아를 지배합니다."
 RULE_OPTION_ITA_BONOMI:0 "보노미"
 RULE_OPTION_ITA_BONOMI_DESC:0 "이바노에 보노미가 민주정을 수호합니다."
 
 # Ukraine #
-UKR_AI_PATH:0 "@UKR Ukraine"
+UKR_AI_PATH:0 "@UKR 우크라이나"
 RULE_OPTION_UKR_SOCDEM:0 "현상유지"
 RULE_OPTION_UKR_SOCDEM_DESC:0 "시몬 페틀류라가 권좌에 남습니다."
 RULE_OPTION_UKR_LIBERALS:0 "자유주의의 개선"
@@ -115,7 +115,7 @@ RULE_OPTION_UKR_SELFSUFFICIENCY:0 "자족 승리"
 RULE_OPTION_UKR_SELFSUFFICIENCY_DESC:0 "미하일로 볼로부예브가 이끄는 UPWP의 자족익이 기술관료정을 설립합니다."
 
 # Zheltorossiya #
-ZHR_AI_PATH:0 "@ZHR Zheltorossiya"
+ZHR_AI_PATH:0 "@ZHR 황러시아"
 RULE_OPTION_ZHR_KERENSKY:0 "케렌스키"
 RULE_OPTION_ZHR_KERENSKY_DESC:0 "그 모든 것에도 불구하고 알렉산드르 콜차크는 자리를 지킵니다."
 RULE_OPTION_ZHR_TROTSKY:0 "트로츠키"
@@ -143,11 +143,11 @@ RULE_OPTION_RUS_DITERIKHS:0 "디테리흐스"
 RULE_OPTION_RUS_DITERIKHS_DESC:0 "준위단이 정부를 뒤집습니다."
 
 # Brazil #
-BRA_AI_PATH:0 "@BRA Brazil"
-RULE_OPTION_BRA_AMAZONAS:0 "어머조너쉬"
-RULE_OPTION_BRA_AMAZONAS_DESC:0 "브라질이 주엉우 어머조너쉬 아래 총체주의 국가가 됩니다."
+BRA_AI_PATH:0 "@BRA 브라질"
+RULE_OPTION_BRA_AMAZONAS:0 "어머조너스"
+RULE_OPTION_BRA_AMAZONAS_DESC:0 "브라질이 주엉우 어머조너스 아래 총체주의 국가가 됩니다."
 RULE_OPTION_BRA_PRESTES:0 "프레스치스"
-RULE_OPTION_BRA_PRESTES_DESC:0 "브라질이 루이쉬 카를루쉬 프레스치스 아래 평의회주의 국가가 됩니다."
+RULE_OPTION_BRA_PRESTES_DESC:0 "브라질이 루이스 카를루스 프레스치스 아래 평의회주의 국가가 됩니다."
 RULE_OPTION_BRA_AQUINO:0 "쿠러이어"
 RULE_OPTION_BRA_AQUINO_DESC:0 "브라질이 프란시스쿠 디 아키누 쿠러이어 아래 천주교 사회주의 국가가 됩니다."
 RULE_OPTION_BRA_COLLAPSE:0 "반정변 - 붕괴"
@@ -156,7 +156,7 @@ RULE_OPTION_BRA_ELECTIONS:0 "반정변 - 선거"
 RULE_OPTION_BRA_ELECTIONS_DESC:0 "공산정권에 대한 반혁명이 성공하고 안정이 회복되며 선거가 개최됩니다."
 
 # Liberia #
-LIB_AI_PATH:0 "@LIB Liberia"
+LIB_AI_PATH:0 "@LIB 라이베리아"
 RULE_OPTION_LIB_GARVEY:0 "UNIA"
 RULE_OPTION_LIB_GARVEY_DESC:0 "마커스 가비가 범아프리카 야망의 실현을 개시합니다."
 RULE_OPTION_LIB_PADMORE:0 "P-ABB"
@@ -167,7 +167,7 @@ RULE_OPTION_LIB_WHIG:0 "TWP"
 RULE_OPTION_LIB_WHIG_DESC:0 "진성 휘그당이 자리에 올라 라이베리아의 고립을 유지합니다."
 
 # Japan #
-JAP_AI_PATH:0 "@JAP Japan"
+JAP_AI_PATH:0 "@JAP 일본"
 RULE_OPTION_JAP_RESTORATION:0 "복벽"
 RULE_OPTION_JAP_RESTORATION_DESC:0 "황국이 절대군주정 아래 확정됩니다."
 RULE_OPTION_JAP_SHOGUNATE:0 "Bamboo Circle"
@@ -176,7 +176,7 @@ RULE_OPTION_JAP_REVOLUTION:0 "혁명"
 RULE_OPTION_JAP_REVOLUTION_DESC:0 "공산주의자들이 내전에서 승리합니다."
 
 # Belarus #
-BLR_AI_PATH:0 "@BLR Belarus"
+BLR_AI_PATH:0 "@BLR 벨라루스"
 RULE_OPTION_BLR_DICTATORSHIP:0 "영구독재"
 RULE_OPTION_BLR_DICTATORSHIP_DESC:0 "바와호비츠의 사임은 벌어지지 않습니다."
 RULE_OPTION_BLR_DEMOCRACY:0 "민주정의 개선"
