@@ -415,7 +415,7 @@ JAP_appoint_a_new_governor_general:0 "신임 총독 임명"
 JAP_appoint_a_new_governor_general_desc:0 "경제 및 군사적 영향력에서 최선의 노력을 다하고 있다지만, 우린 여전히 식민행정을 이끌 강하고 믿을 만한 사람이 필요합니다. 프랑스, 중국, 몽골의 전철을 밟고 싶은 게 아니라면 말입니다."
 
 JAP_mantetsuian_project:0 "만철 기획"
-JAP_mantetsuian_project_desc:0 "만주에서의 최종 목표는 황국의 나머지 부분들과 조선을 만주 내의 우리 소유지들에 연결하는 철도 부설입니다. we need to set aside funds and resources to get this project started."
+JAP_mantetsuian_project_desc:0 "만주에서의 최종 목표는 황국의 나머지 부분들과 조선을 만주 내의 우리 소유지들을 연결하는 철도 부설입니다. we need to set aside funds and resources to get this project started."
 
 JAP_expand_the_mantetsu_railways:0 "만철 철도 확대"
 JAP_expand_the_mantetsu_railways_desc:0 "The railways, at the moment, are bustling, but some portions of the railway are barren, or do not exist at all. Through the Mantetsu, we shall bring civilization to these folk!"
@@ -462,7 +462,7 @@ JAP_loosen_regulations:0 "느슨한 규제안들"
 JAP_loosen_regulations_desc:0 "Where the economy needed freedom to operate most it was castrated by the regulations of the Gvoernment, in order to promote growth and prevent another disaster the regulations are being stripped back a bit."
 
 JAP_infiltrate_the_palace:0 "황거 침투"
-JAP_infiltrate_the_palace_desc:0 "The Circle has become a shadow government within the walls of the Imperial Palace. No-one knows who exactly belongs to the secretive group, the Emperor will hear nothing of it in his presence. But the Circle is there, they are everywhere..."
+JAP_infiltrate_the_palace_desc:0 "죽림회는 황거 성벽 안의 그림자 정부가 되었습니다. No-one knows who exactly belongs to the secretive group, the Emperor will hear nothing of it in his presence. But the Circle is there, they are everywhere..."
 
 JAP_samurai_codes:0 "무사도"
 JAP_samurai_codes_desc:0 "The ancient ways of the Samurai were all but lost as Japan leapt forwards into the modern world, the spiritual strength of the Nation has been dashed. It must be revived and re-introduced to our military doctrines to steel our peopel against their enemies."
