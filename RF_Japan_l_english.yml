@@ -121,7 +121,7 @@ JAP_hegemony:0 "태평양 패권"
 JAP_hegemony_desc:0 ""
 
 #shogunate#
-JAP_bamboo:0 "대나무 고리"
+JAP_bamboo:0 "죽림회"
 JAP_bamboo_desc:0 ""
 JAP_samurai_code:0 "무사도"
 JAP_samurai_code_desc:0 ""
@@ -390,7 +390,7 @@ JAP_lotus_act_desc:0 "After conducting our investgations, we have concluded that
 JAP_pacific_hegemony:0 "태평양 패권"
 JAP_pacific_hegemony_desc:0 "It is destiny for the Empire of Japan to rule all of Asia, the flag of our nation must extend from China all the way to Java, and everywhere inbetween."
 #colonial empire#
-JAP_tokyo_colonization_society:0 "Tokyo Colonial Society"
+JAP_tokyo_colonization_society:0 "토쿄 식민회"
 JAP_tokyo_colonization_society_desc:0 "The creation of a colonial society models much of the kinds found within England and France. Japanese Aristocrats will help in making these colonial socities a normal thing in all parts of our empire."
 
 JAP_korean_referendum:0 "조선 국민투표"
@@ -400,22 +400,22 @@ JAP_loyalty_tests:0 "충심 시험"
 JAP_loyalty_tests_desc:0 "To ensure that corruption does not become an issue in our colonial adminstrations, we shall force any prospective employees to take Loyalty tests to ensure that they have Japan’s best interests in mind."
 
 JAP_seoul_development_scheme:0 "대경성계획"
-JAP_seoul_development_scheme_desc:0 "Seoul appears to be the most developed of all parts of Korea, if we encourage the Zaibatsus to invest and develop in the city, we can help sway and influence it even more, helping in the overall pacification of the country."
+JAP_seoul_development_scheme_desc:0 "경성은 조선 전국에서 가장 발전된 곳임에 틀림없습니다. 재벌들의 투자와 개발을 유도한다면 we can help sway and influence it even more, helping in the overall pacification of the country."
 
 JAP_expand_the_rubber_trade:0 "고무 무역 확대"
-JAP_expand_the_rubber_trade_desc:0 "The one resource Japan lacks the most is rubber, and for the Imperial army to thrive, rubber is necessary, we must open our markets and look for various suppliers like the Dutch, British, and Americans."
+JAP_expand_the_rubber_trade_desc:0 "일본에서 부족한 유일한 자원은 바로 고무입니다. and for the Imperial army to thrive, rubber is necessary, we must open our markets and look for various suppliers like the Dutch, British, and Americans."
 
 JAP_indochinese_management:0 "인도차이나 경영"
 JAP_indochinese_management_desc:0 "Indochina has a long history of resentment against occupier governments. One way for us to not fall victim to that is allow locals to take part in the management of the country. It’s far easier to take orders from a Vietnamese officer compared to a Japanese one."
 
 JAP_fort_saigon:0 "사이공 요새"
-JAP_fort_saigon_desc:0 "Saigon is an integral city in Southeastern Vietnam, sitting on the Saigon river, if we fortify it, it will show any resistance groups an example of our might, plus if a war does break out, the city will make an excellent fortress to hold off in."
+JAP_fort_saigon_desc:0 "사이공은 남동 베트남의 중요 도시로, 사이공 강변에 자리하고 있습니다. 도시를 요새화한다면 그 어떤 저항세력에게든 우리의 힘을 보여줄 수 있을뿐더러, 전쟁이 벌어질 경우엔 the city will make an excellent fortress to hold off in."
 
 JAP_appoint_a_new_governor_general:0 "신임 총독 임명"
-JAP_appoint_a_new_governor_general_desc:0 "Despite our best attempts at economic and military influence, we’ll need a strong, dependable man to lead the colonial administration, lest we fall like the French, Chinese, and Mongols before them."
+JAP_appoint_a_new_governor_general_desc:0 "경제 및 군사적 영향력에서 최선의 노력을 다하고 있다지만, 우린 여전히 식민행정을 이끌 강하고 믿을 만한 사람이 필요합니다. 프랑스, 중국, 몽골의 전철을 밟고 싶은 게 아니라면 말입니다."
 
 JAP_mantetsuian_project:0 "만철 기획"
-JAP_mantetsuian_project_desc:0 "The end goal in Manchuria is a railway that will connect our northern holdings in Manchuko with Korea and the rest of the Empire, we need to set aside funds and resources to get this project started."
+JAP_mantetsuian_project_desc:0 "만주에서의 최종 목표는 황국의 나머지 부분들과 조선을 만주 내의 우리 소유지들에 연결하는 철도 부설입니다. we need to set aside funds and resources to get this project started."
 
 JAP_expand_the_mantetsu_railways:0 "만철 철도 확대"
 JAP_expand_the_mantetsu_railways_desc:0 "The railways, at the moment, are bustling, but some portions of the railway are barren, or do not exist at all. Through the Mantetsu, we shall bring civilization to these folk!"
@@ -424,7 +424,7 @@ JAP_colonial_incentives_program:0 "Colonial Incentives Program"
 JAP_colonial_incentives_program_desc:0 "Members of the colonial government may find their position less than desireable, living in an area with an opposition to us, however we must find ways to incentivize their staying and working there to promote efficiency in the colonies."
 
 JAP_manchurian_integration:0 "만철 통합"
-JAP_manchurian_integration_desc:0 "The time has come to integrate the Mantetsu from a private company into a full, state-regulated one, expanding our influence on Fengtian and Northern China as a whole."
+JAP_manchurian_integration_desc:0 "사영기업인 만철을 국가의 규제를 받는 회사로 완전히 통합하여 봉천과 북중국에서 우리의 영향력을 온전히 확대할 때가 왔습니다."
 
 #china#
 JAP_three_month_campaign:0 "Three Month Campaign"
@@ -437,10 +437,10 @@ JAP_negotiations_with_the_ma_clique:0 "마가군과의 협상"
 JAP_negotiations_with_the_ma_clique_desc:0 "The Ma’s of China seem to be the black sheep, predominantly muslim types that stay in the far west of China, seemingly isolated from the Chinese factions closer to the coast, if we could establish friendly relations, we may have an ally in the interior."
 
 JAP_beijing_compromise:0 "베이징 타협"
-JAP_beijing_compromise_desc:0 "Of course, not everyone is happy with this. The military is still under the belief that they can win this in no time at all, as if the last couple months haven’t proven otherwise. Although, total victory over the warlords is alluring, as far away as it is."
+JAP_beijing_compromise_desc:0 "당연히 모두가 이에 만족하진 않을 겁니다. The military is still under the belief that they can win this in no time at all, as if the last couple months haven’t proven otherwise. Although, total victory over the warlords is alluring, as far away as it is."
 
 JAP_renew_the_litagation_blockcade:0 "Renewed Litigation Blockade"
-JAP_renew_the_litagation_blockcade_desc:0 "The Blockade set up against the Chinese was suspended to allow our economy to recover and make amends with some of the more sympathetic regimes in China. No more."
+JAP_renew_the_litagation_blockcade_desc:0 "대 중국 봉쇄 연기는 was suspended to allow our economy to recover and make amends with some of the more sympathetic regimes in China. No more."
 
 JAP_central_region_strategy:0 "화중 전략"
 JAP_central_region_strategy_desc:0 "중국의 심장부인 화중은 아시아에서의 완전한 지배를 향한 핵심이며, 우리 눈에는 사과와 같습니다. 일본을 영광을 위해 중원을 확보할 것입니다!"
@@ -455,8 +455,8 @@ JAP_intervene_in_the_chinese_civil_war_desc:0 "We could attempt to intervene in 
 JAP_rising_sun:0 "욱일"
 JAP_rising_sun_desc:0 "저문 해도 아침 되면 떠오르니, 밤 어둡긴 동 틀 전에 제일이로소."
 
-JAP_bamboo_circle:0 "대나무 고리"
-JAP_bamboo_circle_desc:0 "The Restorationists have lost the trust of some important people, a new group of dissident leaders have convened the so-called 'Bamboo Circle'. The trees may be uprooted and fall in a storm, but the bamboo merely flexes, bends and springs back into place. It is this spirit of resilience and weathering the greatest hardships that these men swear by."
+JAP_bamboo_circle:0 "죽림회"
+JAP_bamboo_circle_desc:0 "유신파는 일부 주요 인물들, 이른바 '죽림회'라 불리는 대항파 지도자들의 새 집단의 신뢰를 잃었습니다. 위로 뻗은 나무들이 폭풍 속에서 부러져도 대나무는 그저 유연히 휘어져 다시 본래의 자리로 튀어오르기 마련입니다. 이 탄성과 가장 거대한 고난을 견디는 정신이야 말로 이 사내들이 맹세한 바입니다."
 
 JAP_loosen_regulations:0 "느슨한 규제안들"
 JAP_loosen_regulations_desc:0 "Where the economy needed freedom to operate most it was castrated by the regulations of the Gvoernment, in order to promote growth and prevent another disaster the regulations are being stripped back a bit."
@@ -468,7 +468,7 @@ JAP_samurai_codes:0 "무사도"
 JAP_samurai_codes_desc:0 "The ancient ways of the Samurai were all but lost as Japan leapt forwards into the modern world, the spiritual strength of the Nation has been dashed. It must be revived and re-introduced to our military doctrines to steel our peopel against their enemies."
 
 JAP_teikokunoi_ha:0 "Teikokunoi-ha"
-JAP_teikokunoi_ha_desc:0 "Teikokunoi-ha, Divine Wind, the eternal guardian of Japan. Many an Invader has perished at its hands, now the threat is internal, the Divine Winds will strike at the heart of the Empire and save it once more."
+JAP_teikokunoi_ha_desc:0 "Teikokunoi-ha, 신풍은 일본의 불멸의 수호물입니다. 수많은 침략자들이 그 손 안에서 멸했지만 이제 위협이 안에서 일고 있으니, 신풍이 황국의 심장부에 휘몰아쳐 다시 나라를 구할 것입니다."
 
 JAP_emperor_nobuhito:0 "노부히토 천황"
 JAP_emperor_nobuhito_desc:0 "Our path must be corrected under the guidance of a new Emperor, Nobuhito has the confidence of the Circle, they will form his cabinet and lead Japan back to greatness."
@@ -489,7 +489,7 @@ JAP_support_the_zaibatsu:0 "재벌 지원"
 JAP_support_the_zaibatsu_desc:0 "The Big Four have served the nation well in its time of hardship, the company executives have a good working relationship with the Government and it is time we repaid them the debt of gratitude we owe them."
 
 JAP_the_future_of_the_sunrise_kingdom:0 "욱일국의 미래"
-JAP_the_future_of_the_sunrise_kingdom_desc:0 "Future of the Sunrise Kingdom"
+JAP_the_future_of_the_sunrise_kingdom_desc:0 ""
 
 #commies#
 JAP_will_of_the_people:0 "인민의 의지"
