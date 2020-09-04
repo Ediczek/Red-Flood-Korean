@@ -117,7 +117,7 @@ RELEASE_NATION_DESC:0 "Do you want to liberate $COUNTRY|H$ in $LIST|H$?\n\n§RTh
 REMOVE_IDEA:0 ""
 
 ### peace_l_english
-PEACE_CONFERENCE_WHITE_PEACE:0 "A §YPeace Deal§! has been signed between\n@$ACTOR_TAG$$ACTOR_COUNTRY|Y$ and $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\nending their hostilities."
+PEACE_CONFERENCE_WHITE_PEACE:0 "\n@$ACTOR_TAG$$ACTOR_COUNTRY|Y$와 $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\n 간의 §Y화평안§!이 체결되며 적대가 끝을 맺었습니다."
 
 ### state_l_english
 twelve:0 "기갈로폴리스"
