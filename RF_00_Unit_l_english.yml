@@ -1,8 +1,8 @@
 ﻿l_english:
- night:0 "Night"
- fort:0 "Fort"
- river:0 "River"
- amphibious:0 "Amphibious"
+ night:0 "야간"
+ fort:0 "요새"
+ river:0 "강"
+ amphibious:0 "수륙양용"
  CURRENT_STRENGTH:0 "Current Fighting Strength: $PER|%0H$\n"
  CURRENT_MANPOWER:0 " - Current Manpower: $VAL|*H1$ ($PER|%0H$)\n"
  CURRENT_ORGANIZATION:0 "Organization: $CUR|0Y$/$MAX|0Y$"
