@@ -481,7 +481,7 @@ ZHR_tankexperiments_desc:0 "Russia has been slow on the uptake in terms of tank 
 ZHR_airfleetoffreerussia:0 "자유 러시아의 공중함대"
 ZHR_airfleetoffreerussia_desc:0 "Robust command of the skies over free Russia will allow us greater freedom to maneuver our armies, research into new air tactics are an important step in gaining an advantage in this field of battle."
 ZHR_bearingdestruction:0 "Bearing Destruction"
-ZHR_bearingdestruction_desc:0 "While it is a distasteful practise, the bombing of industrial targets populated by civilians is a new reailty of total war. Some bombers can fly low with fighter escort to bomb military targets but others carry heavy payloads for targeted industrial disruption."
+ZHR_bearingdestruction_desc:0 "While it is a distasteful practise, 민간인들로 가득한 산업 표적들에 대한 폭격은 총력전의 새로운 현실입니다. Some bombers can fly low with fighter escort to bomb military targets but others carry heavy payloads for targeted industrial disruption."
 ZHR_navalbombers:0 "해군폭격기"
 ZHR_navalbombers_desc:0 "In order to command our waters with minimal naval deployment we can use special bombers designed for maritime operations and exercise control of the sea with minimal fuel consumption."
 ZHR_expanddocksofvladivostok:0 "블라디보스토크 선창 확대"
@@ -600,7 +600,7 @@ ZHR.21.desc:0 "There have been extremely worrying reports coming from the countr
 ZHR.21.a:0 "아, 안 돼."
 
 ZHR.22.t:0 "대기근"
-ZHR.22.desc:0 "An old man was sitting at a table, before him lay a small piece of old and dried as rock bread. 그게 노인의 하루 식사의 전부였습니다. 이 노인에게 얼마나 끔찍한 삶이란 말입니까. 황러시아의 거대한 지역을 휩쓴 대기아에 자식들과 아내를 이미 잃은 후였습니다.\n Even as he started, eating tears started swelling in his eyes. 아이들, 불쌍한 아이들. They did not deserve this fate, they did not deserve to die such a horrible death. 그의 카테리나, 한때 아름다웠던 아내의 빼빼마른 몸은 여전히 노인의 꿈에 나타나며 괴롭게 했습니다. \n As he finished the last piece of bread he went outside, if he doesn't find something to eat then surely he will be next. And despite some of his drunk claims, death is something that he fears more than anything. 하지만 생각 하나가 배고픔으로 가득찬 그의 정신에 여전히 남아있었습니다."
+ZHR.22.desc:0 "An old man was sitting at a table, before him lay a small piece of old and dried as rock bread. 그게 노인의 하루 식사의 전부였습니다. 이 노인에게 얼마나 끔찍한 삶이란 말입니까. 황러시아의 거대한 지역을 휩쓴 대기아에 자식들과 아내를 이미 잃은 후였습니다.\n Even as he started, eating tears started swelling in his eyes. 아이들, 불쌍한 아이들. They did not deserve this fate, they did not deserve to die such a horrible death. 그의 카테리나, 한때 아름다웠던 아내의 빼빼마른 몸은 여전히 노인의 꿈에 나타나며 괴롭게 했습니다. \n As he finished the last piece of bread he went outside, if he doesn't find something to eat then surely he will be next. And despite some of his drunk claims, death is something that he fears more than anything. 하지만 생각 하나가 배고픔으로 가득 찬 그의 정신에 여전히 남아있었습니다."
 ZHR.22.a:0 "영원히 저주받아라 케렌스키 개자식아!"
 
 ZHR.100.t:0 "만철 붕괴"
