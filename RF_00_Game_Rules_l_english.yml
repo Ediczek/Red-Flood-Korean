@@ -178,9 +178,9 @@ RULE_OPTION_JAP_REVOLUTION_DESC:0 "공산주의자들이 내전에서 승리합�
 # Belarus #
 BLR_AI_PATH:0 "@BLR 벨라루스"
 RULE_OPTION_BLR_DICTATORSHIP:0 "영구독재"
-RULE_OPTION_BLR_DICTATORSHIP_DESC:0 "바와호비츠의 사임은 벌어지지 않습니다."
+RULE_OPTION_BLR_DICTATORSHIP_DESC:0 "발라호비치의 사임은 벌어지지 않습니다."
 RULE_OPTION_BLR_DEMOCRACY:0 "민주정의 개선"
-RULE_OPTION_BLR_DEMOCRACY_DESC:0 "바와호비츠가 사임하면서 벨라루스가 자유민주국가가 됩니다."
+RULE_OPTION_BLR_DEMOCRACY_DESC:0 "발라호비치가 사임하면서 벨라루스가 자유민주국가가 됩니다."
 RULE_OPTION_BLR_EMPIRE:0 "백루테니아 제국"
 RULE_OPTION_BLR_EMPIRE_DESC:0 "아타만의 독재가 뒤집어지고 군주정으로 대체됩니다."
 RULE_OPTION_BLR_SAVINKOV:0 "페트로그라드를 향한 복수"
