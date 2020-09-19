@@ -529,7 +529,7 @@ JAP_free_the_mantetsus:0 "만철 해방"
 JAP_free_the_mantetsus_desc:0 "The Manchus will be free to unite the North for themselves, under our supervision. We couldn't hope to hold onto those unstable lands on our own without problems anyway."
 
 JAP_japanese_oversight:0 "Japanese Oversight"
-JAP_japanese_oversight_desc:0 "Japanese Oversight"
+JAP_japanese_oversight_desc:0 ""
 
 JAP_rebuild_the_nation:0 "국가재건"
 JAP_rebuild_the_nation_desc:0 "The Revolution may have been gloriously won with blood, grit and steel, but the Nation was left damaged none-the-less. A recinstruction initiative will help get the economy repaired and create work for the people in more devastated regions."
@@ -543,7 +543,7 @@ JAP_sieze_factories_desc:0 "The capitalists and land-owners who kept the profits
 JAP_devalue_the_zen:0 "Devalue the Zen"
 JAP_devalue_the_zen_desc:0 "In order to improve the conditions of the people we should take the drastic measure of printing Zen in large quantities, distribute the money to the people and take advantage of the new lower exhange rate to encourage business from our comrades abroad."
 
-JAP_abolish_the_zaibatsu:0 "Abolish the Zaibatsus"
+JAP_abolish_the_zaibatsu:0 "재벌 해체"
 JAP_abolish_the_zaibatsu_desc:0 "The Zaibatsus were the beating heart of the exploitative capitalist machine that drove Japan into chaos, they must never return! The companies are hearby dissolved, their assets re-distributed and their structure made illegal so that the mistakes may never be repeated."
 
 JAP_champions_day:0 "Champion's Day"
@@ -551,180 +551,180 @@ JAP_champions_day_desc:0 "A new naitonal day of commemoration, mourning, remembe
 
 #crash tree#
 JAP_sunset_stock_crash:0 "Sunset Stock Crash"
-JAP_sunset_stock_crash_desc:0 "Sunset Stock Crash"
+JAP_sunset_stock_crash_desc:0 ""
 
 JAP_pro_zaibatsu_focus_1:0 "Bail Out the Zaibatsus"
-JAP_pro_zaibatsu_focus_1_desc:0 "Bail Out the Zaibatsus"
+JAP_pro_zaibatsu_focus_1_desc:0 ""
 
 JAP_pro_zaibatsu_focus_2:0 "Co-Operate with the Big Four"
-JAP_pro_zaibatsu_focus_2_desc:0 "Co-Operate with the Big Four"
+JAP_pro_zaibatsu_focus_2_desc:0 ""
 
 JAP_pro_zaibatsu_focus_3:0 "Permit Industrial Expansion"
-JAP_pro_zaibatsu_focus_3_desc:0 "Permit Industrial Expansion"
+JAP_pro_zaibatsu_focus_3_desc:0 ""
 
-JAP_pro_zaibatsu_focus_4:0 " Business in the Imperial Palace"
-JAP_pro_zaibatsu_focus_4_desc:0 " Business in the Imperial Palace"
+JAP_pro_zaibatsu_focus_4:0 "Business in the Imperial Palace"
+JAP_pro_zaibatsu_focus_4_desc:0 ""
 
-JAP_pro_zaibatsu_focus_5:0 "The Zaibatsu Military Industrial Complex"
-JAP_pro_zaibatsu_focus_5_desc:0 "The Zaibatsu Military Industrial Complex"
+JAP_pro_zaibatsu_focus_5:0 "재벌 군산복합체"
+JAP_pro_zaibatsu_focus_5_desc:0 ""
 
-JAP_anti_zaibatsu_focus_1:0 "Reform the Economy"
-JAP_anti_zaibatsu_focus_1_desc:0 "Reform the Economy"
+JAP_anti_zaibatsu_focus_1:0 "경제개혁"
+JAP_anti_zaibatsu_focus_1_desc:0 ""
 
-JAP_anti_zaibatsu_focus_2:0 "Co-Operate with the Workers"
-JAP_anti_zaibatsu_focus_2_desc:0 "Co-Operate with the Workers"
+JAP_anti_zaibatsu_focus_2:0 "노동자들과의 협력"
+JAP_anti_zaibatsu_focus_2_desc:0 ""
 
-JAP_anti_zaibatsu_focus_3:0 "Anti-Zaibatsu Campaigns"
-JAP_anti_zaibatsu_focus_3_desc:0 "Anti-Zaibatsu Campaigns"
+JAP_anti_zaibatsu_focus_3:0 "반재벌 운동"
+JAP_anti_zaibatsu_focus_3_desc:0 ""
 
 JAP_anti_zaibatsu_focus_4:0 "Trial the Guilty"
-JAP_anti_zaibatsu_focus_4_desc:0 "Trial the Guilty"
+JAP_anti_zaibatsu_focus_4_desc:0 ""
 
-JAP_anti_zaibatsu_focus_5:0 "Dismantle the Monopolies"
-JAP_anti_zaibatsu_focus_5_desc:0 "Dismantle the Monopolies"
+JAP_anti_zaibatsu_focus_5:0 "독점체제 해체"
+JAP_anti_zaibatsu_focus_5_desc:0 ""
 
 JAP_finish_sunset_repairs:0 "Finish the Sunset Repairs"
-JAP_finish_sunset_repairs_desc:0 "Finish the Sunset Repairs"
+JAP_finish_sunset_repairs_desc:0 ""
 
 #industry tree#
 JAP_industrial_revitilization:0 "Industrial Revitalisation"
-JAP_industrial_revitilization_desc:0 "Industrial Revitalisation"
+JAP_industrial_revitilization_desc:0 ""
 
 JAP_CCP:0 "Coastal Construction Programs"
-JAP_CCP_desc:0 "Coastal Construction Programs"
+JAP_CCP_desc:0 ""
 
 JAP_hirohito_memorial_railway:0 "Hirohito Memorial Railway"
-JAP_hirohito_memorial_railway_desc:0 "Hirohito Memorial Railway"
+JAP_hirohito_memorial_railway_desc:0 ""
 
-JAP_wartime_preperations:0 "Wartime Preparations"
-JAP_wartime_preperations_desc:0 "Wartime Preparations"
+JAP_wartime_preperations:0 "전시 대비"
+JAP_wartime_preperations_desc:0 ""
 
 JAP_government_grants:0 "Government Grants"
-JAP_government_grants_desc:0 "Government Grants"
+JAP_government_grants_desc:0 ""
 
-JAP_invest_in_factories:0 "Industrial Investment"
-JAP_invest_in_factories_desc:0 "Industrial Investment"
+JAP_invest_in_factories:0 "산업 투자"
+JAP_invest_in_factories_desc:0 ""
 
 JAP_pacific_war_machine:0 "Pacific War Machine"
-JAP_pacific_war_machine_desc:0 "Pacific War Machine"
+JAP_pacific_war_machine_desc:0 ""
 
 JAP_costal_defense:0 "해안방어"
-JAP_costal_defense_desc:0 "해안방어"
+JAP_costal_defense_desc:0 ""
 
 JAP_machines_of_the_future:0 "Machines of the Future"
-JAP_machines_of_the_future_desc:0 "Machines of the Future"
+JAP_machines_of_the_future_desc:0 ""
 
 JAP_kiniro_no_council:0 "Kin'iro-no Council"
-JAP_kiniro_no_council_desc:0 "Kin'iro-no Council"
+JAP_kiniro_no_council_desc:0 ""
 
 JAP_kaku_bakudan:0 "Kaku Bakudan"
-JAP_kaku_bakudan_desc:0 "Kaku Bakudan"
+JAP_kaku_bakudan_desc:0 ""
 
 JAP_economic_miracle:0 "경제기적"
 JAP_economic_miracle_desc:0 "경제기적"
 
-JAP_refinery_research:0 "Refinery Research"
-JAP_refinery_research_desc:0 "Refinery Research"
+JAP_refinery_research:0 "정제유 연구"
+JAP_refinery_research_desc:0 ""
 
 JAP_synthetic_oil:0 "Synthetic Oil"
-JAP_synthetic_oil_desc:0 "Synthetic Oil"
+JAP_synthetic_oil_desc:0 ""
 
-JAP_fuel_stockpiles:0 "Fuel Stockpiles"
-JAP_fuel_stockpiles_desc:0 "Fuel Stockpiles"
+JAP_fuel_stockpiles:0 "석유 비축"
+JAP_fuel_stockpiles_desc:0 ""
 
-JAP_rubber_plants:0 "Rubber Plants"
-JAP_rubber_plants_desc:0 "Rubber Plants"
+JAP_rubber_plants:0 "고무 농장"
+JAP_rubber_plants_desc:0 ""
 
 #military#
-JAP_modernize_the_army:0 "Modernise the Army"
-JAP_modernize_the_army_desc:0 "Modernise the Army"
+JAP_modernize_the_army:0 "육군 근대화"
+JAP_modernize_the_army_desc:0 ""
 
 JAP_a_gun_in_every_hand:0 "A Gun in Every Hand"
-JAP_a_gun_in_every_hand_desc:0 "A Gun in Every Hand"
+JAP_a_gun_in_every_hand_desc:0 ""
 
-JAP_devise_new_tactics:0 "Devise New Tactics"
-JAP_devise_new_tactics_desc:0 "Devise New Tactics"
+JAP_devise_new_tactics:0 "신형 전술 고안"
+JAP_devise_new_tactics_desc:0 ""
 
 JAP_artillery_support:0 "Artillery Support"
-JAP_artillery_support_desc:0 "Artillery Support"
+JAP_artillery_support_desc:0 ""
 
-JAP_motorization:0 "Motorisation"
-JAP_motorization_desc:0 "Motorisation"
+JAP_motorization:0 "기계화"
+JAP_motorization_desc:0 ""
 
-JAP_light_tank_effort:0 "Light Tank Development"
-JAP_light_tank_effort_desc:0 "Light Tank Development"
+JAP_light_tank_effort:0 "경전차 개발"
+JAP_light_tank_effort_desc:0 ""
 
 JAP_mount_fiji_training_camp:0 "Mount Fuji Training Camp"
-JAP_mount_fiji_training_camp_desc:0 "Mount Fuji Training Camp"
+JAP_mount_fiji_training_camp_desc:0 ""
 
-JAP_anti_tank_production:0 "Anti-Tank Production"
-JAP_anti_tank_production_desc:0 "Anti-Tank Production"
+JAP_anti_tank_production:0 "대전차 수단 생산"
+JAP_anti_tank_production_desc:0 ""
 
 JAP_imperial_airforce:0 "Japanese Air Force"
-JAP_imperial_airforce_desc:0 "Japanese Air Force"
+JAP_imperial_airforce_desc:0 ""
 
 JAP_air_land_battle:0 "Air-Land Battle"
-JAP_air_land_battle_desc:0 "Air-Land Battle"
+JAP_air_land_battle_desc:0 ""
 
 JAP_naval_assualt:0 "Naval Assault"
-JAP_naval_assualt_desc:0 "Naval Assault"
+JAP_naval_assualt_desc:0 ""
 
-JAP_fighter_effort:0 "Fighter Development"
-JAP_fighter_effort_desc:0 "Fighter Development"
+JAP_fighter_effort:0 "전투기 개발"
+JAP_fighter_effort_desc:0 ""
 
 JAP_airforce_army_intergration:0 "Air Force - Army Integration"
 JAP_airforce_army_intergration_desc:0 "Air Force - Army Integration"
 
-JAP_CAS_effort:0 "CAS Development"
-JAP_CAS_effort_desc:0 "CAS Development"
+JAP_CAS_effort:0 "근접항공지원 개발"
+JAP_CAS_effort_desc:0 ""
 
-JAP_carrier_fighter_effort:0 "Carrier Fighter Development"
-JAP_carrier_fighter_effort_desc:0 "Carrier Fighter Development"
+JAP_carrier_fighter_effort:0 "항모 전투기 개발"
+JAP_carrier_fighter_effort_desc:0 ""
 
-JAP_long_range_bombing_raids:0 "Long Range Bombing Raids"
-JAP_long_range_bombing_raids_desc:0 "Long Range Bombing Raids"
+JAP_long_range_bombing_raids:0 "장거리 폭격 작전"
+JAP_long_range_bombing_raids_desc:0 ""
 
-JAP_prioritize_military_targets:0 "Prioritise Military Targets"
-JAP_prioritize_military_targets_desc:0 "Prioritise Military Targets"
+JAP_prioritize_military_targets:0 "군사표적 우선시"
+JAP_prioritize_military_targets_desc:0 ""
 
 JAP_planes_of_the_future:0 "Planes of the Future"
-JAP_planes_of_the_future_desc:0 "Planes of the Future"
+JAP_planes_of_the_future_desc:0 ""
 
-JAP_naval_bomber_effort:0 "Naval Bomber Development"
-JAP_naval_bomber_effort_desc:0 "Naval Bomber Development"
+JAP_naval_bomber_effort:0 "해군폭격기 개발"
+JAP_naval_bomber_effort_desc:0 ""
 
-JAP_expand_the_navy:0 "Expand the Navy"
-JAP_expand_the_navy_desc:0 "Expand the Navy"
+JAP_expand_the_navy:0 "해군 확대"
+JAP_expand_the_navy_desc:0 ""
 
 JAP_floating_fortresses:0 "Floating Fortresses"
-JAP_floating_fortresses_desc:0 "Floating Fortresses"
+JAP_floating_fortresses_desc:0 ""
 
 JAP_naval_bombardment:0 "Naval Bombardment"
-JAP_naval_bombardment_desc:0 "Naval Bombardment"
+JAP_naval_bombardment_desc:0 ""
 
-JAP_carrier_focus:0 "Carrier Focus"
-JAP_carrier_focus_desc:0 "Carrier Focus"
+JAP_carrier_focus:0 "항모 중점"
+JAP_carrier_focus_desc:0 ""
 
-JAP_battleship_focus:0 "Battleship Focus"
-JAP_battleship_focus_desc:0 "Battleship Focus"
+JAP_battleship_focus:0 "전함 중점"
+JAP_battleship_focus_desc:0 ""
 
 JAP_50_destroyer_program:0 "50 Destroyer Program"
-JAP_50_destroyer_program_desc:0 "50 Destroyer Program"
+JAP_50_destroyer_program_desc:0 ""
 
-JAP_light_crusier_production:0 "Light Cruiser Production"
-JAP_light_crusier_production_desc:0 "Light Cruiser Production"
+JAP_light_crusier_production:0 "경구축함 생산"
+JAP_light_crusier_production_desc:0 ""
 
-JAP_heavy_cruiser_production:0 "Heavy Cruiser Production"
-JAP_heavy_cruiser_production_desc:0 "Heavy Cruiser Production"
+JAP_heavy_cruiser_production:0 "중구축함 생산"
+JAP_heavy_cruiser_production_desc:0 ""
 
 JAP_undersea_destruction:0 "Undersea Destruction"
-JAP_undersea_destruction_desc:0 "Undersea Destruction"
+JAP_undersea_destruction_desc:0 ""
 
 JAP_SNLF:0 "JNLF"
-JAP_SNLF_desc:0 "JNLF"
+JAP_SNLF_desc:0 ""
 
 JAP_troop_transport_effort:0 "Troop Transport Development"
-JAP_troop_transport_effort_desc:0 "Troop Transport Development"
+JAP_troop_transport_effort_desc:0 ""
 
 #END FOCUSES#
 
