@@ -92,7 +92,7 @@ for_the_cloak_n_dagger_schemer:0 "중상모략가"
 ### Security Minister ###
 sec_back_stabber:0 "모략가"
 sec_compassionate_gentleman:0 "연민어린 지도자"
-sec_crime_fighter:0 "Crime Fighter"
+sec_crime_fighter:0 "범죄투사"
 sec_crooked_kleptocrat:0 "약아빠진 금권정자"
 sec_efficient_sociopath:0 "효율적인 소시오패스"
 sec_great_soul:0 "위대한 영혼"
@@ -117,33 +117,33 @@ int_fortune_teller:0 "점쟁이"
 ### mhc Minister
 cos_school_of_manoeuvre:0 "기동학파"
 cos_school_of_fire_support:0 "화력지원학파"
-cos_school_of_mass_combat:0 "School of Mass Combat"
+cos_school_of_mass_combat:0 "집단전투 학파"
 cos_school_of_psychology:0 "심리전학파"
 cos_school_of_defence:0 "방어전학파"
 cos_school_of_commando_operations:0 "특수작전학파"
 
 ### carm Minister
-carm_elastic_defence_doctrine:0 "Elastic Defence Doctrine"
-carm_static_defence_doctrine:0 "Static Defence Doctrine"
+carm_elastic_defence_doctrine:0 "유연방어 교리"
+carm_static_defence_doctrine:0 "고정방어 교리"
 carm_decisive_battle_doctrine:0 "결전 교리"
 carm_armoured_spearhead_doctrine:0 "기갑돌파 교리"
-carm_guns_and_butter_doctrine:0 "Guns and Butter Doctrine"
+carm_guns_and_butter_doctrine:0 "군사재 및 소비재 교리"
 carm_commando_doctrine:0 "특수부대 교리"
 carm_doctrine_of_autonomy:0 "재량권 교리"
 
 ### cnav Minister
 cnav_open_seas_doctrine:0 "공해 교리"
 cnav_decisive_battle_doctrine:0 "결전 교리"
-cnav_power_projection_doctrine:0 "Power Projection Doctrine"
-cnav_indirect_approach_doctrine:0 "Indirect Approach Doctrine"
-cnav_base_control_doctrine:0 "Base Control Doctrine"
+cnav_power_projection_doctrine:0 "화력투사 교리"
+cnav_indirect_approach_doctrine:0 "간접접근 교리"
+cnav_base_control_doctrine:0 "기지통제 교리"
 
 ### cair Minister
 cair_air_superiority_doctrine:0 "제공권 교리"
-cair_naval_aviation_doctrine:0 "Naval Aviation Doctrine"
+cair_naval_aviation_doctrine:0 "해군비행단 교리"
 cair_battlefield_support_doctrine:0 "전장지원 교리"
 cair_carpet_bombing_doctrine:0 "융단폭격 교리"
-cair_vertical_envelopment_doctrine:0 "Vertical Envelopment Doctrine"
+cair_vertical_envelopment_doctrine:0 "수직포위 교리"
 
 cair_the_red_baron:0 "붉은 남작"
 
