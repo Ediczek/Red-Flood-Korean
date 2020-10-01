@@ -498,7 +498,7 @@ JAP_will_of_the_people_desc:0 "혁명이 마침내 욱일의 나라에 도달했
 JAP_down_with_the_emperor:0 "천황타도"
 JAP_down_with_the_emperor_desc:0 "The chants can be heard in the streets of several major cities, people have turned out in the millions to protest, the chants go on and on. '천황타도'"
 
-JAP_organizer_the_ricers:0 "Organise the Ricers"
+JAP_organizer_the_ricers:0 "Ricers 조직화"
 JAP_organizer_the_ricers_desc:0 "Workers of the Rice Paddies Unite!"
 
 JAP_weapons_stockpiling:0 "무기 비축"
@@ -522,7 +522,7 @@ JAP_liberate_vietnam_desc:0 "The Viet have good proletarian spirit among them, t
 JAP_pacific_workers_league:0 "태평양 노동자 연맹"
 JAP_pacific_workers_league_desc:0 "동방의 전위대와 평의회들을 통합하기 위한 동맹이 필요합니다. 당연히 우리가 우리 친구들을 위한 사회주의 혁명으로 가는 길을 일러줄 것입니다."
 
-JAP_reclaim_mantetsu:0 "Reclaim Mantetsu"
+JAP_reclaim_mantetsu:0 "만철 수복"
 JAP_reclaim_mantetsu_desc:0 "The so-called Mantetsu State is really more a capitalist venture in statecraft, built upon the bones of an exploitative company on the Far-East Railway the Mantetsu regime must fall and a people's council of Manchuria established."
 
 JAP_free_the_mantetsus:0 "만철 해방"
@@ -537,7 +537,7 @@ JAP_rebuild_the_nation_desc:0 "The Revolution may have been gloriously won with 
 JAP_roadway_repair:0 "Roadway Repairs"
 JAP_roadway_repair_desc:0 "Road and Rail connections must be restored to full and collective-owned working order, it will better facilitate our recovery comrades!"
 
-JAP_sieze_factories:0 "Seize the Factories"
+JAP_sieze_factories:0 "공장 몰수"
 JAP_sieze_factories_desc:0 "The capitalists and land-owners who kept the profits of industry for themselves will have their property redistributed, a compensation will be paid to those who accept our generous terms, consquences await those who refuse..."
 
 JAP_devalue_the_zen:0 "Devalue the Zen"
@@ -550,16 +550,16 @@ JAP_champions_day:0 "Champion's Day"
 JAP_champions_day_desc:0 "A new naitonal day of commemoration, mourning, rememberance and celebration, Champion's Day, the day of the Revolution's Victory."
 
 #crash tree#
-JAP_sunset_stock_crash:0 "Sunset Stock Crash"
+JAP_sunset_stock_crash:0 "일몰 주식붕괴"
 JAP_sunset_stock_crash_desc:0 ""
 
-JAP_pro_zaibatsu_focus_1:0 "Bail Out the Zaibatsus"
+JAP_pro_zaibatsu_focus_1:0 "재벌 금융구제"
 JAP_pro_zaibatsu_focus_1_desc:0 ""
 
-JAP_pro_zaibatsu_focus_2:0 "Co-Operate with the Big Four"
+JAP_pro_zaibatsu_focus_2:0 "4대와의 협력"
 JAP_pro_zaibatsu_focus_2_desc:0 ""
 
-JAP_pro_zaibatsu_focus_3:0 "Permit Industrial Expansion"
+JAP_pro_zaibatsu_focus_3:0 "산업팽창 허가"
 JAP_pro_zaibatsu_focus_3_desc:0 ""
 
 JAP_pro_zaibatsu_focus_4:0 "Business in the Imperial Palace"
@@ -577,7 +577,7 @@ JAP_anti_zaibatsu_focus_2_desc:0 ""
 JAP_anti_zaibatsu_focus_3:0 "반재벌 운동"
 JAP_anti_zaibatsu_focus_3_desc:0 ""
 
-JAP_anti_zaibatsu_focus_4:0 "Trial the Guilty"
+JAP_anti_zaibatsu_focus_4:0 "재판"
 JAP_anti_zaibatsu_focus_4_desc:0 ""
 
 JAP_anti_zaibatsu_focus_5:0 "독점체제 해체"
@@ -587,13 +587,13 @@ JAP_finish_sunset_repairs:0 "Finish the Sunset Repairs"
 JAP_finish_sunset_repairs_desc:0 ""
 
 #industry tree#
-JAP_industrial_revitilization:0 "Industrial Revitalisation"
+JAP_industrial_revitilization:0 "산업재활조치"
 JAP_industrial_revitilization_desc:0 ""
 
 JAP_CCP:0 "Coastal Construction Programs"
 JAP_CCP_desc:0 ""
 
-JAP_hirohito_memorial_railway:0 "Hirohito Memorial Railway"
+JAP_hirohito_memorial_railway:0 "히로히토 기념철도"
 JAP_hirohito_memorial_railway_desc:0 ""
 
 JAP_wartime_preperations:0 "전시 대비"
@@ -621,7 +621,7 @@ JAP_kaku_bakudan:0 "Kaku Bakudan"
 JAP_kaku_bakudan_desc:0 ""
 
 JAP_economic_miracle:0 "경제기적"
-JAP_economic_miracle_desc:0 "경제기적"
+JAP_economic_miracle_desc:0 ""
 
 JAP_refinery_research:0 "정제유 연구"
 JAP_refinery_research_desc:0 ""
@@ -645,7 +645,7 @@ JAP_a_gun_in_every_hand_desc:0 ""
 JAP_devise_new_tactics:0 "신형 전술 고안"
 JAP_devise_new_tactics_desc:0 ""
 
-JAP_artillery_support:0 "Artillery Support"
+JAP_artillery_support:0 "포병 지원"
 JAP_artillery_support_desc:0 ""
 
 JAP_motorization:0 "기계화"
@@ -654,26 +654,26 @@ JAP_motorization_desc:0 ""
 JAP_light_tank_effort:0 "경전차 개발"
 JAP_light_tank_effort_desc:0 ""
 
-JAP_mount_fiji_training_camp:0 "Mount Fuji Training Camp"
+JAP_mount_fiji_training_camp:0 "후지산 훈련장"
 JAP_mount_fiji_training_camp_desc:0 ""
 
 JAP_anti_tank_production:0 "대전차 수단 생산"
 JAP_anti_tank_production_desc:0 ""
 
-JAP_imperial_airforce:0 "Japanese Air Force"
+JAP_imperial_airforce:0 "일본 공군"
 JAP_imperial_airforce_desc:0 ""
 
-JAP_air_land_battle:0 "Air-Land Battle"
+JAP_air_land_battle:0 "공지 전투"
 JAP_air_land_battle_desc:0 ""
 
-JAP_naval_assualt:0 "Naval Assault"
+JAP_naval_assualt:0 "해군 강습"
 JAP_naval_assualt_desc:0 ""
 
 JAP_fighter_effort:0 "전투기 개발"
 JAP_fighter_effort_desc:0 ""
 
 JAP_airforce_army_intergration:0 "Air Force - Army Integration"
-JAP_airforce_army_intergration_desc:0 "Air Force - Army Integration"
+JAP_airforce_army_intergration_desc:0 ""
 
 JAP_CAS_effort:0 "근접항공지원 개발"
 JAP_CAS_effort_desc:0 ""
@@ -696,10 +696,10 @@ JAP_naval_bomber_effort_desc:0 ""
 JAP_expand_the_navy:0 "해군 확대"
 JAP_expand_the_navy_desc:0 ""
 
-JAP_floating_fortresses:0 "Floating Fortresses"
+JAP_floating_fortresses:0 "부양요새"
 JAP_floating_fortresses_desc:0 ""
 
-JAP_naval_bombardment:0 "Naval Bombardment"
+JAP_naval_bombardment:0 "해군 포격"
 JAP_naval_bombardment_desc:0 ""
 
 JAP_carrier_focus:0 "항모 중점"
@@ -717,7 +717,7 @@ JAP_light_crusier_production_desc:0 ""
 JAP_heavy_cruiser_production:0 "중구축함 생산"
 JAP_heavy_cruiser_production_desc:0 ""
 
-JAP_undersea_destruction:0 "Undersea Destruction"
+JAP_undersea_destruction:0 "해저 파괴"
 JAP_undersea_destruction_desc:0 ""
 
 JAP_SNLF:0 "JNLF"
