@@ -86,7 +86,7 @@ TAI_Thomas_eco:0 "토머스 랴오"
 TAI_Lin_eco:0 "린슝정"
 
 #CUSTOM TOOLTIPS AND FLAGS#
-TAI_claim_the_sea:0 "Claim the seas!"
+TAI_claim_the_sea:0 "바다를 지배하라!"
 
 #Cosmetic tags#
 
@@ -306,7 +306,7 @@ tai.23.b:0 "또 혁명이 시작됐군..."
 
 tai.231.t:0 "The Flag Flies!"
 tai.231.d:0 "The TPP flag is raised across the cities! Across the KMT clqiues these upstarts are occupying China piece by piece."
-tai.241.a:0 "혁명은 필연이다."
+tai.231.a:0 "혁명은 필연이다."
 tai.231.b:0 "뭉개버려!"
 tai.231.c:0 "Conceed to the TPP's oversight."
 
