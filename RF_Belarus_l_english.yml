@@ -162,7 +162,7 @@ Baltic_Shipyards:0 "발트 선착장"
 Atamanska_Sport_Aircraft_Factory:0 "'아타만스카' 스포츠 항공기체 공장"
 Astrouski_Aircraft_Bureau:0 "아스트로우스키 항공기체국"
 Radchenka_Design_Bureau:0 "라첸카 설계국"
-Hydroaeronautics_Club:0 "Hydroaeronautics회"
+Hydroaeronautics_Club:0 "수상비행학회"
 
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
@@ -309,7 +309,7 @@ BLR_blood_transfusion_desc:0 "Another avenue of building a God, this time a bit 
 BLR_belarussian_superiority:0 "벨라루스 우월"
 BLR_belarussian_superiority_desc:0 "알략산드르 바흐다나우께서 말씀하시고 절대다수가 동의한 것처럼, 벨라루스의 몸과 영혼 자체의 개편은 벨라루스인들을 그 누구보다 우월하게 만들 것입니다. 벨라루스 병사들은 기관총을 든 적을 삽만 갖고도 상대할 힘을 가질 것이며, 조국을 위해 땀흘리고 기계신의 창조를 기다리던 벨라루스 민간인들의 endurance는 makes it acceptable to devote more energy to military matters than to civilian ones."
 BLR_hail_to_vialiki_dzmapekl:0 "뱔리키 즈마페클, 그대를 찬미하리!"
-BLR_hail_to_vialiki_dzmapekl_desc:0 "노드는 더 이상 신성한 은총 바깥에서 방황하지 않을 것이니, 선지자 바흐다나우께서 우리에게 말씀하신 바와 같이 순환은 깨어지지 않을 것입니다. 벨라루스는 더 이상 적의 황당무계함에 매이지 않을 것이며, 그 숲과 들도 더 이상 야만스러운 무리에게 불타지 않을 것입니다. for a new spiritual nexus shall be created here, in the land of forests and marshes - a true manifestation of Belarusian people’s will, a truly wonderful god for a truly glorious time."
+BLR_hail_to_vialiki_dzmapekl_desc:0 "노드는 더 이상 신성한 은총 바깥에서 방황하지 않을 것이니, 선지자 바흐다나우께서 우리에게 말씀하신 바와 같이 순환은 깨어지지 않을 것입니다. 벨라루스는 더 이상 적의 황당무계함에 매이지 않을 것이며, 그 숲과 들도 더 이상 야만스러운 무리에게 불타지 않을 것입니다. 이곳, 숲과 늪의 땅에 새 spiritual nexus가, 벨라루스 인민의 의지를 길이 빛낼 진정한 선언이, 진정으로 영광스러운 시대를 위한 진정으로 경이로운 신이 창조될 것입니다."
 
 BLR_army_effort:0 "Army Effort"
 BLR_army_effort_desc:0 "Despite the increasing possibilities of aerial and naval warfare, ground combat is still key in tomorrow's wars. With preparation, we can avoid reliving the hell of the trenches."
