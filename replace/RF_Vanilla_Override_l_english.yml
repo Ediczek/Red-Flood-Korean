@@ -117,20 +117,20 @@ RELEASE_NATION_DESC:0 "Do you want to liberate $COUNTRY|H$ in $LIST|H$?\n\n§RTh
 REMOVE_IDEA:0 ""
 
 ### peace_l_english
-PEACE_CONFERENCE_WHITE_PEACE:0 "\n@$ACTOR_TAG$$ACTOR_COUNTRY|Y$와 $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\n 간의 §Y화평안§!이 체결되며 적대가 끝을 맺었습니다."
+PEACE_CONFERENCE_WHITE_PEACE:0 "\n@$ACTOR_TAG$$ACTOR_COUNTRY|Y$와 $RECIPIENT_COUNTRY|Y$@$RECIPIENT_TAG$\n 사이에 §Y화평안§!이 체결되며 적대가 끝을 맺었습니다."
 
 ### state_l_english
 twelve:0 "기갈로폴리스"
 eleven:0 "메갈로폴리스"
 nine:0 "초밀집도회지"
 eight:0 "밀집도회지"
-seven:0 "Sprawling Urban Region"
+seven:0 "팽창 중인 도회지"
 six:0 "도회지"
-five:0 "Sparse Urban Region"
-four:0 "Developed Rural Region"
-three:0 "Developing Rural Region"
-two:0 "Rural Region"
-one:0 "Pastoral Region"
+five:0 "Sparse 도회지"
+four:0 "발전된 향촌지"
+three:0 "발전 중인 향촌지"
+two:0 "향촌지"
+one:0 "목초지"
 zero:0 "월경지"
 wasteland:0 "황무지"
 one_island:0 "Small Island"
