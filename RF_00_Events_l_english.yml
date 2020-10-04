@@ -46,12 +46,12 @@ nuke_dropped.1.b:0 "[Root.GetAdjective]의 사람들을 보호하기 위해서�
 ### Special Events ###
 nuke_dropped.2.t:0 "히로시마 원자폭격"
 nuke_dropped.2.d:0 "'거리가 지옥도와 같았다.'\n- 아키와 쿠니요시\n\nToday, a nuclear bomb was detonated over the city of Hiroshima at an altitude of 580 metres. More than two thirds of the city were instantly destroyed. Despite the city being built to withstand earthquakes, only a few sturdy structures survived the blast.\n\nWhile the power of the atomic bomb has been played up in the public mind, the human cost of the weapon has been played down. Neither side wants to contemplate the horror of the event, but its legacy will be one of lives lost in the blink of an eye and lasting fallout."
-nuke_dropped.2.a:0 "How many more will fall before this war ends?"
-nuke_dropped.2.b:0 "We must act quickly to aid the victims."
+nuke_dropped.2.a:0 "얼마나 더 많은 이들이 종전 전까지 쓰러져야 하겠나?"
+nuke_dropped.2.b:0 "어서 피해자들을 도와야 한다."
 nuke_dropped.3.t:0 "나가사키 원자폭격"
 nuke_dropped.3.d:0 "핵폭탄이 오늘 나가사키에서 폭발했습니다.\n\nThe effects of the bomb were contained somewhat by the city's location in a valley, but the damage is still severe. Some military installations were struck, but the catastrophic civilian losses overshadow them by far. It may take decades before we know the long-term effects of this weapon with certainty."
-nuke_dropped.3.a:0 "Will this lead to [From.Owner.GetAdjective] surrender?"
-nuke_dropped.3.b:0 "We had hoped Nagasaki would be spared."
+nuke_dropped.3.a:0 "이걸로 [From.Owner.GetAdjective]이(가) 항복하게 될까?"
+nuke_dropped.3.b:0 "나가사키를 건질 수 있으면 좋으련만."
 nuke_dropped.4.t:0 "베를린 원자폭격"
 nuke_dropped.4.d:0 "오늘, [GetDateText], 독일의 제국수도 베를린이 핵폭발에 휩싸였습니다. 이번 전쟁과 지난 전쟁들 중 벌어진 여러 번의 공격으로 고통받은 도시였지만, 이 공격으로 인한 고통은 이전의 그 무엇과도 비교할 수 없을 정도입니다. Not since the Thirty Years' War has Berlin seen comparable devastation - considering its growth, this was seen as an impossibility.\n\n베를린 도시궁성은 계획했던 진원지에서 폭탄이 조금 떨어진 곳에서 떨어진 덕에 최소한 부분이나마 건질 수 있었으며, 살아있다 전해지는 카이저 [From.Owner.GetLeader]은(는) 진노했을 것입니다. 그렇지만, [From.Owner.GetAdjective]의 지도자들이 탈출하고 낙진에게서 자신들을 보호할 수 있었는지는 다른 문제입니다."
 nuke_dropped.4.a:0 "오늘, 베를린 사람이 아니라서 다행이군."
@@ -104,5 +104,5 @@ nuke_dropped.15.b:0 "신께선 국왕을 보우하소서!"
 
 
 ### Splash Screen ###
-RF_SPLASH_TITLE:0 "환 영"
+RF_SPLASH_TITLE:0 "환영합니다"
 RF_SPLASH_CREDITS:0 "§OBrought to you by the§! §RVolkskomissares§! §Oand Proletariat developers:§!\n§bAdolf Grilltler, Adrore, ApolloBlast, ARC N7, Ariandel, ainsley blyat, Baba Yaga Deux, Bihshah, Blood And Guts, bougainville, Bulbäzo, Capo, ChineseKat, Caveman Gang, Crrnz, Darkneon312, David Cameron, Deutsche-Räte-Union, DMbyname, Drion, Domerator, , Eddinmeat, emmagh, Enderprophet, Endless Despair, fireizzle33331, Gukpa, HistoricalMan, I'M BLUE, Inttie, JohnWick, Jungle Rat, Luigimon98, lyfe, mello, Nathan12479, NykyforKhNURE, Jarl-khan Aino of Portugalia, National-Surrealist Ratboy, Ozmandiaz, Palmu, RanDude, ritasuma, Rapop101, sparrow, Sparkplug70, spiitfyre, Stalin-kun, Sunny Sen M.D, The Great Pretender, TheDealMaker, theman, Waghlon, Xartes, and Yung Daal.§!"
