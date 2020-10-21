@@ -253,7 +253,7 @@ LIB_naval_air_effort_desc:0 "The efficacy of air strikes against naval targets w
 
 #EVENTS#
 lib.1.t:0 "만인행진"
-lib.1.desc:0 "라이베리아가 끓어오르고 있습니다.\n\n 정부부패로 촉발된 부실한 산업관리와 종족갈등 문제에 대한 대응 부족이 나라를 갈라놓으면서, 라이베리아의 시민들은 급진적인 행동을 취하려 하고 있습니다. 대부분이 젊은 남자들로 이루어진 미국 출신 이민자 집단들은 started to organise loose associations quite a while ago but recently those merged into singular grassroots movement lead by ever controversial Marcus Garvey. Their dissatisfaction with their new homeland beared a fruit in a form of organised march towards the capital. While organisers denny any violent intentions, armed crowds are likened more to marching army than peacefull demonstration. Goverment response can be only one: meet protestors in open field.\n\n Two groups meet outside the city limits..."
+lib.1.desc:0 "라이베리아가 끓어오르고 있습니다.\n\n 정부부패로 촉발된 부실한 산업관리와 종족갈등 문제에 대한 대응 부족이 나라를 갈라놓으면서, 라이베리아의 시민들은 급진적인 행동을 취하려 하고 있습니다. 대부분이 젊은 남자들로 이루어진 미국 출신 이민자 집단들은 꽤 오래 전부터 organise loose하기 시작했지만, 근래에 들어서부턴 그 어느 때보다 말이 많은 마커스 가비의 지도 아래의 단일 풀뿌리 운동으로 통합되었습니다. Their dissatisfaction with their new homeland beared a fruit in a form of organised march towards the capital. While organisers denny any violent intentions, armed crowds are likened more to marching army than peacefull demonstration. 정부의 대응은 하나뿐입니다. 개활지에서 놈들과 마주하는 것.\n\n 마침내 도시 경계에서 두 집단이 만나고..."
 lib.1.a:0 "짧은 싸움이 이어지더니, 가비의 급진파가 뿔뿔이 흩어진다. 위기는 종결됐다."
 lib.1.b:0 "... 반역이다! 병사들이 가비주의자들을 이끌고 정부청사로 향하고 있다!"
 lib.2.t:0 "높은 성의 사나이"
