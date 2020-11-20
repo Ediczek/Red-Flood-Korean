@@ -16,11 +16,17 @@
 <<원칙들>>
 
 
-2. 세력명이 Sphere, Alliance, League 등 통상적으로 집단을 가리키는 말이 아니더라도 -권, -동맹 등 집단을 가리키는 우리말로 굳이 옮기지 아니한다. 예를 들어 세력명이 Eastern Hegemony이라면, 그대로 "동방패권"으로 쓴다
+2. 세력명이 Sphere, Alliance, League 등 통상적으로 집단을 가리키는 말이 아니더라도 -권, -동맹 등 집단을 가리키는 우리말로 굳이 옮기지 아니한다. (예: 세력명이 Eastern Hegemony이라면, 그대로 "동방패권"으로 쓴다)
+2. 충분한 설명이 뒷받침될 수 있다면 통상적 사용과 거리가 있으면서도 직관성이 떨어지지 않는 번역어를 사용할 수 있다
+
 
 <<목록: 일반명사>>
 
 Commissar - 위원
+
+└ Political Commissar - 정치위원
+
+└ Military Commissar - 군사위원 (황러시아 및 러시아계 세력 관련 번역에서 특히 참고하라)
 
 Council - 평의회
 
@@ -37,4 +43,5 @@ People's Republic/ Popular Republic - 인민공화국
 
 
 <목록: 고유명사>
+
 ㅇ
