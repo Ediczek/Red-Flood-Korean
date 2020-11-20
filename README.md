@@ -10,13 +10,18 @@
 1. 단어의 목록은 '목록: 일반명사', '목록: 고유명사'순
 
 <<원칙들>>
-2. 세력명이 Sphere, Alliance, League 등 통상적으로 집단을 가리키는 말이 아니더라도 -권, -동맹 등 집단을 가리키는 우리말로 굳이 옮기지 아니한다. 예를 들어 세력명이 Eastern Hegemony이라면, 그대로 "동방패권"으로 쓴다.
+2. 세력명이 Sphere, Alliance, League 등 통상적으로 집단을 가리키는 말이 아니더라도 -권, -동맹 등 집단을 가리키는 우리말로 굳이 옮기지 아니한다. 예를 들어 세력명이 Eastern Hegemony이라면, 그대로 "동방패권"으로 쓴다
 
 <<목록: 일반명사>>
-Coup d'etat-  정변
+Commissar - 위원
+Council - 평의회
+Coup d'etat -  정변
 
 Hegemony - 패권
 └ Hegemon - 패자(覇者)
+
+People's Republic/ Popular Republic - 인민공화국
+└ 슬라브어계의 Narodna Republika 등도 이에 포함한다
 
 
 <목록: 고유명사>
