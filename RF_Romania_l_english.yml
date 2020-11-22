@@ -4,13 +4,6 @@
 ROM_dac:0 "다키아"
 ROM_dac_ADJ:0 "다키아"
 ROM_dac_reactionism:0 "다키아"
-
-#PARTIES#
-#LEADER DESCRITIONS#
-#IDEAS#
-#CUSTOM TOOLTIPS AND FLAGS#
-#DECISIONS (1.5 Update)#
-
 #FOCUSES#
 ROM_stable_republic:0 "안정된 공화국"
 ROM_iron_guard_triumphant:0 "철위대의 개선!"
@@ -102,3 +95,19 @@ romania.1.b:0 "공화국의 붕괴"
 romania.2.t:0 "철위대의 승리!"
 romania.2.desc:0 "TLC"
 romania.2.a:0 ""
+#Ideas#
+ROM_power_of_the_church_idea:0 "교회권력"
+ROM_i_want_nothing_idea:0 "무엇도 바라지 않소"
+ROM_exclude_the_non_romanians_idea:0 "비루마니아인 배제"
+ROM_revive_the_romanian_man_idea:0 "루마니아인 부흥"
+ROM_self_sacrifice_idea:0 "자기희생"
+ROM_romania_once_more_idea:0 "다시금 루마니아"
+ROM_the_purge_idea:0 "숙청"
+#Parties#
+ROM_social_democratism_party:0 "PSD"
+ROM_social_democratism_party_long:0 "사회민주당"
+ROM_vanguard_socialism_party:0 "PCR"
+ROM_vanguard_socialism_party:0 "루마니아 공산당"
+ROM_reactionism_party:0 "철위대"
+ROM_reactionism_party_long:0 "철위대"
+ROM_vanguard_socialism_party_custom_long:0 "Cruciada Românismului"
