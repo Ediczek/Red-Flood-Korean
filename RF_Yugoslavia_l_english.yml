@@ -1,5 +1,48 @@
 ﻿l_english:
 #COUNTRY NAME#
+YUG_revolutionary_anarchism:0 "유고슬라비아 코뮌"
+YUG_revolutionary_anarchism_DEF:0 "유고슬라비아 코뮌"
+YUG_revolutionary_anarchism_ADJ:0 "유고슬라비아"
+
+YUG_vanguard_socialism:0 "유고슬라비아 연방공화국"
+YUG_vanguard_socialism_DEF:0 "유고슬라비아 연방공화국"
+YUG_vanguard_socialism_ADJ:0 "유고슬라비아"
+
+YUG_libertarian_marxism:0 "유고슬라비아 연방공화국"
+YUG_libertarian_marxism_DEF:0 "유고슬라비아 연방공화국"
+YUG_libertarian_marxism_ADJ:0 "유고슬라비아"
+
+YUG_revisionist_socialism:0 "유고슬라비아 공화국"
+YUG_revisionist_socialism_DEF:0 "유고슬라비아 공화국"
+YUG_revisionist_socialism_ADJ:0 "유고슬라비아"
+
+YUG_social_democratism:0 "유고슬라비아 공화국"
+YUG_social_democratism_DEF:0 "유고슬라비아 공화국"
+YUG_social_democratism_ADJ:0 "유고슬라비아"
+
+YUG_liberalism:0 "유고슬라비아 공화국"
+YUG_liberalism_DEF:0 "유고슬라비아 공화국"
+YUG_liberalism_ADJ:0 "유고슬라비아"
+
+YUG_conservatism:0 "유고슬라비아 왕국"
+YUG_conservatism_DEF:0 "유고슬라비아 왕국"
+YUG_conservatism_ADJ:0 "유고슬라비아"
+
+YUG_right_authoritarianism:0 "유고슬라비아 왕국"
+YUG_right_authoritarianism_DEF:0 "유고슬라비아 왕국"
+YUG_right_authoritarianism_ADJ:0 "유고슬라비아"
+
+YUG_despotism:0 "유고슬라비아 왕국"
+YUG_despotism_DEF:0 "유고슬라비아 왕국"
+YUG_despotism_ADJ:0 "유고슬라비아"
+
+YUG_reactionism:0 "유고슬라비아"
+YUG_reactionism_DEF:0 "유고슬라비아"
+YUG_reactionism_ADJ:0 "유고슬라비아"
+
+YUG_accelerationism:0 "유고슬라비아"
+YUG_accelerationism_DEF:0 "유고슬라비아"
+YUG_accelerationism_ADJ:0 "유고슬라비아"
 
 #PARTIES#
 YUG_vanguard_socialism_party:0 "KPS"
@@ -27,7 +70,51 @@ YUG_accelerationism_party_long:0 "전유고슬라비아 민족동맹"
  
 #LEADER DESCRITIONS#
 #IDEAS#
+YUG_cult_of_saints:0 "A Nation of Martyrs"
+YUG_state_ascetism:0 "State Ascetism"
+YUG_christian_capitalism:0 "Christian Capitalism"
+YUG_faith_and_nationalism:0 "Strength through Unity, Unity through Faith"
+YUG_all_for_god:0 "All for God..."
+YUG_and_nothing_against_him:0 "...and Nothing against Him"
+YUG_rapid_progress:0 "Rapid Progress"
+YUG_ruthless_progress:0 "Ruthless Progress"
+YUG_god_of_electricity:0 "God of Electricity"
+YUG_experimental_industry:0 "Experimental Industry"
+YUG_scientific_authority:0 "Scientific Authority"
+YUG_techno_slavia:0 "Technoslavia"
+YUG_national_avantgarde:0 "National Avantgarde"
+YUG_vedic_faith:0 "Vedic Faith"
+YUG_vedic_faith1:0 "Vedic Faith"
+YUG_yugoslav_syndicalism:0 "Yugoslav Syndicalism"
+YUG_illyrian_identity:0 "Illyrian Identity"
+YUG_barbarian_mythos:0 "Barbarian Mythos"
+YUG_hyperborea:0 "Balkan Hyperborea"
+YUG_militant_youth:0 "Expanded Conscription"
+YUG_underground_production_idea:0 "Underground Production"
+YUG_corporate_economy:0 "Corporatist Economy"
+YUG_corporate_economy1:0 "Corporatist Economy"
+YUG_corporate_economy2:0 "Corporatist Economy"
+YUG_socialist_economy:0 "Socialist Economy"
+YUG_socialist_economy1:0 "Socialist Economy"
+YUG_socialist_economy2:0 "Socialist Economy"
+
+#MINISTERS#
+YUG_ante_trumbic:0 "Ante Trumbić"
+YUG_dobroslav_jevdevic:0 "Dobroslav Jevđević"
+YUG_milos_crnjanski:0 "Miloš Crnjanski"
+YUG_punisa_racic:0 "Puniša Račić"
+YUG_jovan_karamata:0 "Jovan Karamata"
+YUG_ivan_subasic:0 "Ivan Šubašić"
+YUG_jovan_bijelic:0 "Jovan Bijelić"
+YUG_milan_acimovic:0 "Milan Aćimović"
+YUG_petar_dobrovic:0 "Petar Dobrović"
+YUG_ilija_trifunovic_bircanin:0 "Ilija Trifunović-Birčanin"
+
 #CUSTOM TOOLTIPS AND FLAGS#
+SLAVONIC_PACT:0 "Slavonic Pact"
+YUG_zbor:0 "Dimitrije Ljotić is the country leader"
+YUG_tesla:0 "Nikola Tesla is the country leader"
+YUG_tin:0 "Tin Ujević is the country leader"
 #DECISIONS (1.5 Update)#
 #EVENTS#
 yugoslavia.1.t:0 "흡혈귀의 공격"
@@ -35,6 +122,77 @@ yugoslavia.1.d:0 "동부 세르비아의 여러 소도시들에서 흡혈귀에 
 yugoslavia.1.a:0 "쓸데 없는 짓이군. 반동분자들이나 체포하게."
 yugoslavia.1.b:0 "여단을 소집하라!"
 
+yugoslavia.2.t:0 "Tesla's Arrival"
+yugoslavia.2.desc:0 "Nikola Tesla, a renowned Serb physicist living in the United States For the better part of the last fifty years has suddenly decided to move to his ethnic home nation of Serbia to live out the remainder of his waning years. Despite never actually having lived in Serbia, Tesla has a very close connection to the nation and its people. In a speech given at the University of Belgrade, where Tesla will now be working to provide scientific expertise to new professors, Tesla said, “I felt your pain when the Austrians invaded your homeland.  I felt your joy when us South Slavs were united. I have always been with you in spirit, and now I am with you in the flesh.” Tesla has also expressed an interest in entering the realm of politics, feeling that he has spent long enough influencing society on a purely academic level. Many Serbians oppose this, however, arguing that Tesla has spent too long abroad, has forgotten how to live as a true Slav, and thus would not have the best interest of his people at heart. However, many support Tesla as a sensible person to reform Yugoslavia."
+yugoslavia.2.a:0 "If only Edison could see him now."
+
+yugoslavia.3.t:0 "The Electoral Council's Safety"
+yugoslavia.3.desc:0 "As we have established that the current military 'regency' can no longer continue over Yugoslavia, we have subsequently decided that it is nescessary to begin our preparations for the Council which will decide Yugoslavia's future. Subsequently, various names have come to our door as nominations for said security, with one of the main names being Gustav Krklec, a good friend of Tin Ujević who would likely be very loyal to the cause of our revolutionary state. Otherwise, more controversial choices include the technocrat Miksa Déri who fled the communist society in Hungary to live in northern Yugoslavia near Belgrade, and subsequently lives a quiet life there, a good friend of Nikola Tesla. The last choice is Momčilo Đujić, an ardent traditional nationalist which many of our revolutionary state's members are cautious about, but believe that he might be just the right man for the job - as he is the only one with sufficient military experience to actually lead a security council - being that any given alternative will be controversial to one or another, it perhaps is nescessary that we stick to what we see as the best choice regardless of what the feuding groups think."
+yugoslavia.3.a:0 "Gustav Krlec, he will stay loyal to our cause."
+yugoslavia.3.b:0 "Momčilo Đujić, he knows what he's doing."
+yugoslavia.3.c:0 "Miksa Déri will do just fine."
+
+yugoslavia.4.t:0 "The Electoral Congress"
+yugoslavia.4.desc:0 "The Electoral Congress has been trying to decide PM Dimitrijević’s successor for awhile now. It is seeming that that decision is coming to a close with it seeming that Tesla or Ujevic will be chosen as his successor. The room which for awhile has been loud with members of congress chatting or arguing with each other has now turned silent as the head of the Congress has informed the members that voting for the successor has begun..."
+yugoslavia.4.a:0 "The council elects Nikola Tesla"
+yugoslavia.4.b:0 "The council elects Tin Ujević"
+yugoslavia.4.c:0 "The Chetniks storm the building, and holding the congress at gunpoint."
+
+yugoslavia.5.t:0 "Dimitrijevic Announces His Resignation"
+yugoslavia.5.desc:0 "When our beautiful nation fell into chaos and civil war, Dimitrijevic was the one to take the reins of power and put out the flames. He and his coalition of artists and nationalists have built Yugoslavia as we know it; a thriving, nationalist South Slavic republic with most South Slavs united under one banner and one string leader. However, our leader has now decided that Yugoslavia should no longer be in his hands. In a press release, Dimitrijevic stated, “For too long now our people have been under the rule of foregin occupants and strongmen with no sense of gratitude or duty towards us. I was one of these strongmen, but now I intend to use this to give the Slavs the chance they deserve to choose who represents them best. My mission to unite and guide the nation is over, now it is time for Yugoslavia to move on and realize its destiny, whatever that may be.” As reporters took flash photos and asked questions, Dimitrijevic simply walked off stage, entered a government car, and hasn’t been seen in public since. The question on everyone’s minds is this: who could possibly replace our leader? Two prominent coalition members, Nikola Tesla and Augustin Ujevic, have already put forth their proposals to the National Assembly, but there are some who suspect that outside forces are set to emerge..."
+yugoslavia.5.a:0 "Let’s see if we will pull through this without another civil war."
+
+yugoslavia.10.t:0 "Yugoslavia asks for aid"
+yugoslavia.10.desc:0 "Yugoslavia has requested for protection and a guarantee of independence from agressors, and in case that they are attacked, we would be brought to war against their agressors. They argue this would be worth it for us as they are fellow friends in the wider Accelerationist cause and would be greatly benefitial to securing it in the Balkans."
+yugoslavia.10.a:0 "They have our support."
+yugoslavia.10.b:0 "We refuse."
+
+yugoslavia.11.t:0 "Yugoslavia wants to join our faction"
+yugoslavia.11.desc:0 "Yugoslavia has sent a diplomatic envoy to our nation with the intent of creating a special relationship between our nations, particularly of joining our military alliance and resulting in a mutual guarantee of independence. Shall we accept?"
+yugoslavia.11.a:0 "We stand together!"
+yugoslavia.11.b:0 "We don't need them."
+
+yugoslavia.12.t:0 "Yugoslavia asks for aid"
+yugoslavia.12.desc:0 "Yugoslavia has requested for protection and a guarantee of independence from agressors, and in case that they are attacked, we would be brought to war against their agressors. They argue this would be worth it for us as they are fellow friends in the wider Accelerationist cause and would be greatly benefitial to securing it in the Balkans."
+yugoslavia.12.a:0 "They have our support."
+yugoslavia.12.b:0 "We refuse."
+
+yugoslavia.13.t:0 "Yugoslavia wants to join our faction"
+yugoslavia.13.desc:0 "Yugoslavia has sent a diplomatic envoy to our nation with the intent of creating a special relationship between our nations, particularly of joining our military alliance and resulting in a mutual guarantee of independence. Shall we accept?"
+yugoslavia.13.a:0 "We stand together!"
+yugoslavia.13.b:0 "We don't need them."
+
+yugoslavia.14.t:0 "Bulgarian Question"
+yugoslavia.14.desc:0 "Bulgaria seized Eastern Macedonia, or Strumica, from us during our civil war and subsequently holds onto it like a crow holds onto crops. We must do something about them holding these lands - One of our diplomats has requested we perhaps discuss mutual guarantees of independence with them in exchange of Bulgaria giving Strumica, and subsequently avoiding more bloodshed in the Balkans. Generals however believe this is pointless, and that the future of Bulgaria is that it belongs in the pan-slavist dream."
+yugoslavia.14.a:0 "Perhaps there is an acceptable compromise."
+yugoslavia.14.b:0 "It's pointless, we should just declare on them!"
+
+yugoslavia.15.t:0 "Yugoslavia proposes a pact"
+yugoslavia.15.desc:0 "Yugoslavia has requested a potential return of the lands of Strumica which we've held for a couple of years in exchange for a mutual guarantee of independence, potentially reverting the course of our poor relations to extremely positive. What shall we do?"
+yugoslavia.15.a:0 "Accept their demands."
+yugoslavia.15.b:0 "Reject their demands."
+
+yugoslavia.16.t:0 "Bulgaria rejects"
+yugoslavia.16.desc:0 "Bulgaria has rejected our proposal, stating that \"Strumica, and the wider Macedonia area is rightfully Bulgarian\" and that they will not give in a single inch to our diplomatic overtures. It seems this will have to be solved by blood."
+yugoslavia.16.a:0 "As they wish."
+
+yugoslavia.17.t:0 "Slavic Brotherhood"
+yugoslavia.17.desc:0 "A great ceremony was held to celebrate ascension of Yugoslavia into the Intermarium. A delegation from Poland, including Szukalski and his entourage of closest associates, as well as representatives of academia, the art world, the military, and working class arrived in Belgrade to a warm welcome. Since their very landing, they were greeted with chants and songs from the public. Celebrations included a wonderfully choreographed performance mixing military parade, music, theatre, and reenactment of ancient Slavic rituals to truly let significance of the event sink into the memories of the gathered public. Later proceeded touching speeches by dignitaries and local authorities about significance of an alliance of Slavs based on common blood and spirit and eternal friendship, that both West and South Slavs must keep as a sacred flame of the ancestors. The celebration ended with semi-public banquet and firework display."
+yugoslavia.17.a:0 "May that friendship last till the end of time."
+
+yugoslavia.19.t:0 "Bosnian Rebellion"
+yugoslavia.19.desc:0 "Unsurprisingly, the backlash against the outlawing of Islam and acts of persecution on Bosnian and Albanian people has snowballed into a full on revolt. Small bands of guerillas have popped up everywhere in Yugoslavia, but the main effort of the revolutionaries is obviously concentrated in Bosnia and Herzegovina. High ranking employees of the Ministry of Internal Security today unveiled a widely circulated note calling for \"all those faithful to the religion of the final prophet\" to take up arms against the \"bastard Ljotić and his government full of parasites and robbers who threaten to sweep away the future of our children right in front of their eyes.\" Minister of Internal Security Milan Acimovic pinned the author of this note and the suspected leader of the revolt to leader of the Yugoslav Muslim Organization, Mehmet Spamo. Ljotic himself will be convening a rally of ZBOR's common members in Belgrade's Terazije neighborhood, where he is expected to denounce the revolt and call for the army to crush this \"obstacle to Yugoslav unity\" before departing to meet with his generals in a unmarked location."
+yugoslavia.19.a:0 "Time to crush those renegades!"
+
+yugoslavia.20.t:0 "Yugoslavia wants peace"
+yugoslavia.20.desc:0 ""
+yugoslavia.20.a:0 "There shall be no war between us."
+yugoslavia.20.b:0 "It's a trick, send no reply."
+
+yugoslavia.21.t:0 "Yugoslavia demands Slovenia"
+yugoslavia.21.desc:0 ""
+yugoslavia.21.a:0 "Accept their demands."
+yugoslavia.21.b:0 "Reject their demands."
 #FOCUSES#
 YUG_sviuzbor:0 "Svi u ZBOR"
 YUG_sviuzbor_desc:0 ""
@@ -166,3 +324,25 @@ YUG_karlovacosjekline:0 "카를로바치-오셰크 선"
 YUG_karlovacosjekline_desc:0 ""
 YUG_undergroundproduction:0 "지하생산"
 YUG_undergroundproduction_desc:0 ""
+YUG_developtanks:0 "Tank Developement"
+YUG_developtanks_desc:0 ""
+YUG_mechanization:0 "Mechanization"
+YUG_mechanization_desc:0 ""
+YUG_newguns:0 "New Guns"
+YUG_newguns_desc:0 ""
+
+#DECISIONS#
+YUG_foreign_policy:0 "Foreign Policy"
+YUG_fortifyaustrianborder:0 "Fortify austrian border"
+YUG_fortifyhungarianborder:0 "Fortify hungarian border"
+YUG_layoffclaimsondlamatia:0 "Lay off claims on Dalmatia"
+YUG_liberatemontenegro:0 "Liberate Montenegro"
+YUG_conqueralbania:0 "Conquer Albania"
+YUG_liberatevojvodina:0 "Liberate Vojvodina"
+YUG_liberategreekmacedonia:0 "Liberate Greek Macedonia"
+YUG_conquerwallachia:0 "Conquer Romania"
+YUG_destroyalbania:0 "Destroy Albania"
+YUG_destroymontenegro:0 "Destroy montenegrin pretender"
+YUG_destroyfiume:0 "Destroy Fiume"
+YUG_conquerhungary:0 "Conquer Hungary"
+YUG_destroybulgaria:0 "Destroy Bulgaria"
