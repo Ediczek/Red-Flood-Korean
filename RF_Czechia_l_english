@@ -1,7 +1,41 @@
 ﻿l_english:
 #COUNTRY NAME#
-CZA_reactionism:0 "보헤미아-모라비아"
-CZA_reactionism:0 "보헤미아"
+CZE_czechoslovakia_vanguard_socialism:0 "Czechoslovak Democratic Republic"
+CZE_czechoslovakia_vanguard_socialism_DEF:0 "Czechoslovak Democratic Republic"
+CZE_czechoslovakia_vanguard_socialism_ADJ:0 "Czechoslovakian"
+CZE_czechoslovakia_libertarian_marxism:0 "Czechoslovak Democratic Republic"
+CZE_czechoslovakia_libertarian_marxism_DEF:0 "Czechoslovak Democratic Republic"
+CZE_czechoslovakia_libertarian_marxism_ADJ:0 "Czechoslovakian"
+CZE_czechoslovakia_revolutionary_anarchism:0 "Czechoslovak Democratic Republic"
+CZE_czechoslovakia_revolutionary_anarchism_DEF:0 "Czechoslovak Democratic Republic"
+CZE_czechoslovakia_revolutionary_anarchism_ADJ:0 "Czechoslovakian"
+CZE_czechoslovakia_revisionist_socialism:0 "Czechoslovak Democratic Republic"
+CZE_czechoslovakia_revisionist_socialism_DEF:0 "Czechoslovak Democratic Republic"
+CZE_czechoslovakia_revisionist_socialism_ADJ:0 "Czechoslovakian"
+CZE_czechoslovakia_social_democratism:0 "Czechoslovak Republic"
+CZE_czechoslovakia_social_democratism_DEF:0 "Czechoslovak Republic"
+CZE_czechoslovakia_social_democratism_ADJ:0 "Czechoslovakian"
+CZE_czechoslovakia_placeholderism:0 "Czechoslovak Republic"
+CZE_czechoslovakia_placeholderism_DEF:0 "Czechoslovak Republic"
+CZE_czechoslovakia_placeholderism_ADJ:0 "Czechoslovakian"
+CZE_czechoslovakia_liberalism:0 "Czechoslovak Republic"
+CZE_czechoslovakia_liberalism_DEF:0 "Czechoslovak Republic"
+CZE_czechoslovakia_liberalism_ADJ:0 "Czechoslovakian"
+CZE_czechoslovakia_conservatism:0 "Czechoslovak Republic"
+CZE_czechoslovakia_conservatism_DEF:0 "Czechoslovak Republic"
+CZE_czechoslovakia_conservatism_ADJ:0 "Czechoslovakian"
+CZE_czechoslovakia_right_authoritarianism:0 "Czechoslovak Kingdom"
+CZE_czechoslovakia_right_authoritarianism_DEF:0 "Czechoslovak Kingdom"
+CZE_czechoslovakia_right_authoritarianism_ADJ:0 "Czechoslovakian"
+CZE_czechoslovakia_despotism:0 "Czechoslovak State"
+CZE_czechoslovakia_despotism_DEF:0 "Czechoslovak State"
+CZE_czechoslovakia_despotism_ADJ:0 "Czechoslovakian"
+CZE_czechoslovakia_reactionism:0 "Czechoslovak State"
+CZE_czechoslovakia_reactionism_DEF:0 "Czechoslovak State"
+CZE_czechoslovakia_reactionism_ADJ:0 "Czechoslovakian"
+CZE_czechoslovakia_accelerationism:0 "Samos State"
+CZE_czechoslovakia_accelerationism_DEF:0 "Samos State"
+CZE_czechoslovakia_accelerationism_ADJ:0 "Samos"
 
 #PARTIES#
 CZE_vanguard_socialism_party:0 "체코슬로바키아 공산당"
@@ -13,15 +47,22 @@ CZE_placeholderism_party:0 "흐라트"
 CZE_liberalism_party:0 "흐라트"
 CZE_conservatism_party:0 "흐라트"
 CZE_right_authoritarianism_party:0 "로마노프 왕조"
-CZE_reactionism_party:0 "국가통합당"
-CZE_despotism_party:0 "국가파시스트회"
+CZE_reactionism_party:0 "Národní Obec Frontistická"
+CZE_despotism_party:0 "Národní Obec Frontistická"
 CZE_accelerationism_party:0 "슬라브 연맹"
 
-CZA_reactionism_party:0 "국가통합당"
-
-
 #LEADER DESCRITIONS#
-#EAS#
+#IDEAS#
+CZE_unpopoular_monarchy:0 "Unpopular Monarchy"
+CZE_slovak_regionalism:0 "Slovak Regionalism"
+CZE_ukrainian_separatism:0 "Carpathian-Ukrainian Separatism"
+CZE_intermarium_sanctions:0 "Intermarium Sanctions"
+CZE_polish_unrest:0 "Polish Unrest"
+CZE_german_problem:0 "The Sudeten-German Problem"
+CZE_hungarian_autonomists:0 "Hungarian Autonomists"
+CZE_communist_agitaion:0 "Communist Agitation"
+CZE_nostalgia_for_habsburgs:0 "Habsburg Nostalgia"
+CZE_legacy_of_czech_legion:0 "Legacy of the Czechoslovak Legion"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
