@@ -1,17 +1,33 @@
 ﻿l_english:
 
+#COUNTRY NAME#
+HUN_kingdom_conservatism:0 "헝가리 왕국"
+HUN_kingdom_conservatism_DEF:0 "헝가리 왕국"
+HUN_kingdom_conservatism_ADJ:0 "헝가리"
+HUN_kingdom_right_authoritarian:0 "헝가리 왕국"
+HUN_kingdom_right_authoritarian_DEF:0 "헝가리 왕국"
+HUN_kingdom_right_authoritarian_ADJ:0 "헝가리"
+HUN_kingdom_reactionism:0 "헝가리 왕국"
+HUN_kingdom_reactionism_DEF:0 "헝가리 왕국"
+HUN_kingdom_reactionism_ADJ:0 "헝가리"
+HUN_kingdom_despotism:0 "헝가리 왕국"
+HUN_kingdom_despotism_DEF:0 "헝가리 왕국"
+HUN_kingdom_despotism_ADJ:0 "헝가리"
+HUN_kingdom_accelerationism:0 "헝가리 왕국"
+HUN_kingdom_accelerationism_DEF:0 "헝가리 왕국"
+HUN_kingdom_accelerationism_ADJ:0 "헝가리"
+
 #PARTIES#
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
-
 #FOCUSES#
 HUN_joinattaches:0 "무관단 참가"
 HUN_joinattaches_desc:0 ""
 HUN_industrialisationofcountry:0 "국가산업화"
 HUN_industrialisationofcountry_desc:0 ""
-HUN_cancellationofaonepartysystem:0 "일당체제 종결"
+HUN_cancellationofaonepartysystem:0 "일당체제 취소"
 HUN_cancellationofaonepartysystem_desc:0 ""
 HUN_freedomofspeech:0 "발언의 자유"
 HUN_freedomofspeech_desc:0 ""
@@ -123,5 +139,5 @@ HUN_crushaustria:0 "오스트리아 분쇄"
 HUN_crushaustria_desc:0 ""
 HUN_restoreorderovercroatia:0 "크로아티아 질서 회복"
 HUN_restoreorderovercroatia_desc:0 ""
-HUN_balkanhegemone:0 "발칸의 패권국"
+HUN_balkanhegemone:0 "발칸의 패자"
 HUN_balkanhegemone_desc:0 ""
