@@ -1,10 +1,12 @@
 ﻿l_english:
 #COUNTRY NAME#
+
 SYR_subject:0 "$OVERLORDADJ$ 마쉬리크"
 SYR_subject_DEF:0 "$OVERLORDADJ$ 마쉬리크"
 
 SYR_IRQ:0 "미탄니"
 SYR_IRQ_DEF:0 "미탄니"
+SYR_IRQ_ADJ:0 "미탄니"
 
 KSYR_right_authoritarianism:0 "시리아 왕국"
 KSYR_right_authoritarianism_DEF:0 "시리아"
@@ -14,6 +16,36 @@ SNP_accelerationism:0 "대마쉬리크"
 SNP_accelerationism_DEF:0 "대마쉬리크"
 SNP_accelerationism_ADJ:0 "마쉬리크"
 #PARTIES#
+SYR_vanguard_socialism_party:0 "SBP"
+SYR_vanguard_socialism_party_long:0 "시리아 바트당"
+
+SYR_libertarian_marxism_party:0 "SSCP"
+SYR_libertarian_marxism_party_long:0 "Syrian Social Councilist Party"
+
+SYR_revolutionary_anarchism_party:0 "SRP"
+SYR_revolutionary_anarchism_party_long:0 "Syrian Revolutionary Union"
+
+SYR_revisionist_socialism_party:0 "SSRP"
+SYR_revisionist_socialism_party_long:0 "Syrian Social Republican Party"
+
+SYR_social_democratism_party:0 "SLP"
+SYR_social_democratism_party_long:0 "Syrian Labour Party"
+
+SYR_liberalism_party:0 "SDP"
+SYR_liberalism_party_long:0 "Syrian Democratic Party"
+
+SYR_conservatism_party:0 "SFP"
+SYR_conservatism_party_long:0 "Syrian Fatherland Party"
+
+SYR_right_authoritarianism_party:0 "충성파"
+SYR_right_authoritarianism_party_long:0 "시리아 커먼웰스 충성파"
+
+SYR_reactionism_party:0 "IPFS"
+SYR_reactionism_party_long:0 "Syrian Islamic Protection Force"
+
+SYR_despotism_party:0 "왕당파"
+SYR_despotism_party_long:0 "시리아 왕당파벌"
+
 SNP_accelerationism_party:0 "SSNP"
 SNP_accelerationism_party_long:0 "마쉬리크 사회민족주의당"
 #LEADER DESCRITIONS#
