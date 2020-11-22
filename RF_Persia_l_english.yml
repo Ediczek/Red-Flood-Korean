@@ -1,11 +1,12 @@
 ﻿l_english:
+#COUNTRY NAME#
 
 #PARTIES#
 
-#VanSoc:밀림당(헤즈베 쟁갤)(오르조니키제 처형 시)
 
-PER_vanguard_socialism_party:0 "오르조니키제 홍위대"
-PER_vanguard_socialism_party_long:0 "오르조니키제 홍위대"
+
+PER_vanguard_socialism_party:0 "밀림당"
+PER_vanguard_socialism_party_long:0 "밀림당"
 PER_libertarian_marxism_party:0 "CPoI"
 PER_libertarian_marxism_party_long:0 "이란 공산당"
 PER_revolutionary_anarchism_party:0 "PMoI"
