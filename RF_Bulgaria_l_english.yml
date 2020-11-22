@@ -1,7 +1,32 @@
 ﻿l_english:
-#COUNTRY NAME#
 
 #PARTIES#
+
+BUL_vanguard_socialism_party:0 "BWSDP(n.s.)"
+BUL_libertarian_marxism_party:0 "BCP"
+BUL_revolutionary_anarchism_party:0 "FoASoB"
+BUL_revisionist_socialism_party:0 "BAPU"
+BUL_social_democratism_party:0 "BWSDP(w.s.)"
+BUL_placeholderism_party:0 "BAPU"
+BUL_liberalism_party:0 "BLCC(L)"
+BUL_conservatism_party:0 "BLCC(C)"
+BUL_right_authoritarianism_party:0 "DRPoB"
+BUL_despotism_party:0 "UBNL(L)"
+BUL_reactionism_party:0 "UBNL(M)"
+BUL_accelerationism_party:0 "UBNL(F)"
+BUL_vanguard_socialism_party_long:0 "B'lgarska rabotnicheska socialdemokraticheska partija (tesni socialisti)"
+BUL_libertarian_marxism_party_long:0 "B'lgarska komunisticheska partija"
+BUL_revolutionary_anarchism_party_long:0 "Federacija na anarho-sindikalistite na B'lgarija"
+BUL_revisionist_socialism_party_long:0 "B'lgarski zemedelski naroden s'juz"
+BUL_social_democratism_party_long:0 "B'lgarska rabotnicheska socialdemokraticheska partija (shiroki socialisti)"
+BUL_placeholderism_party_long:0 "B'lgarski zemedelski naroden s'juz"
+BUL_liberalism_party_long:0 "B'lgarska liberalna konservativna koalicija(Liberali)"
+BUL_conservatism_party_long:0 "B'lgarska liberalna konservativna koalicija(Konservatorite)"
+BUL_right_authoritarianism_party_long:0 "Demokratichna republikanska partija na B'lgarija"
+BUL_despotism_party_long:0 "S'juz na B'lgarskite Nacionalni Legioni(Lukovtsi)"
+BUL_reactionism_party_long:0 "S'juz na B'lgarskite Nacionalni Legioni(Monarhisti)"
+BUL_accelerationism_party_long:0 "S'juz na B'lgarskite Nacionalni Legioni(Filovtsi)"
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
