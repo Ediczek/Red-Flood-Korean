@@ -49,6 +49,7 @@ People's Republic/ Popular Republic - 인민공화국
 
 └ 슬라브어계의 Narodna Republika 등도 이에 포함한다
 
+Syncretism - 습합주의
 
 
 <목록: 고유명사>
