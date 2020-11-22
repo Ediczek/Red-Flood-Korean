@@ -1,0 +1,52 @@
+﻿l_english:
+#COUNTRY NAME#
+
+GRI_revolutionary_anarchism:0 "Hellenic Regency"
+GRI_revolutionary_anarchism_DEF:0 "the Athenian Insurrection"
+GRI_revolutionary_anarchism_ADJ:0 "Greco-Italian"
+
+GRI_vanguard_socialism:0 "Hellenic Regency"
+GRI_vanguard_socialism_DEF:0 "the Athenian Insurrection"
+GRI_vanguard_socialism_ADJ:0 "Greco-Italian"
+
+GRI_libertarian_marxism:0 "Hellenic Regency"
+GRI_libertarian_marxism_DEF:0 "the Athenian Insurrection"
+GRI_libertarian_marxism_ADJ:0 "Greco-Italian"
+
+GRI_revisionist_socialism:0 "Hellenic Regency"
+GRI_revisionist_socialism_DEF:0 "the Athenian Insurrection"
+GRI_revisionist_socialism_ADJ:0 "Greco-Italian"
+
+GRI_social_democratism:0 "Hellenic Regency"
+GRI_social_democratism_DEF:0 "the Athenian Insurrection"
+GRI_social_democratism_ADJ:0 "Greco-Italian"
+
+GRI_liberalism:0 "Hellenic Regency"
+GRI_liberalism_DEF:0 "the Athenian Insurrection"
+GRI_liberalism_ADJ:0 "Greco-Italian"
+
+GRI_conservatism:0 "Hellenic Regency"
+GRI_conservatism_DEF:0 "the Athenian Insurrection"
+GRI_conservatism_ADJ:0 "Greco-Italian"
+
+GRI_right_authoritarianism:0 "Hellenic Regency"
+GRI_right_authoritarianism_DEF:0 "the Athenian Insurrection"
+GRI_right_authoritarianism_ADJ:0 "Greco-Italian"
+
+GRI_despotism:0 "Hellenic Regency"
+GRI_despotism_DEF:0 "the Athenian Insurrection"
+GRI_despotism_ADJ:0 "Greco-Italian"
+
+GRI_reactionism:0 "Hellenic Regency"
+GRI_reactionism_DEF:0 "the Athenian Insurrection"
+GRI_reactionism_ADJ:0 "Greco-Italian"
+
+GRI_accelerationism:0 "Hellenic Regency"
+GRI_accelerationism_DEF:0 "the Athenian Insurrection"
+GRI_accelerationism_ADJ:0 "Greco-Italian"
+
+#PARITES#
+GRI_right_authoritarianism_party:0 "Italian Collaborationists"
+GRI_right_authoritarianism_party_long:0 "Italian Collaborationists"
+GRI_despotism_party:0 "Italian Collaborationists"
+GRI_despotism_party_long:0 "Italian Collaborationists"
