@@ -1,0 +1,200 @@
+﻿#################################
+#	REV JAPANESE LOC - BABA		#
+#################################
+l_english:
+
+#COUNTRY NAME#
+JPR_FSRA:0 "Pan-Asian Federation"
+JPR_FSRA_DEF:0 "Pan-Asian Federation"
+JPR_FSRA_ADJ:0 "Pan-Asian"
+#FSRA cosmetic puppet tags
+TAI_JPR:0 "Federal Taiwan"
+TAI_JPR_DEF:0 "Federal Socialist Taiwan"
+TAI_JPR_ADJ:0 "Taiwanese"
+
+MAN_JPR:0 "Federal Manchuria"
+MAN_JPR_DEF:0 "Federal Socialist Manchuria"
+MAN_JPR_ADJ:0 "Manchurian"
+
+KOR_JPR:0 "Federal Korea"
+KOR_JPR_DEF:0 "Federal Socialist Korea"
+KOR_JPR_ADJ:0 "Korean"
+
+JKR_JPR:0 "Federal Korea"
+JKR_JPR_DEF:0 "Federal Socialist Korea"
+JKR_JPR_ADJ:0 "Korean"
+
+IKR_JPR:0 "Federal Korea"
+IKR_JPR_DEF:0 "Federal Socialist"
+IKR_JPR_ADJ:0 "Korean"
+
+DAI_JPR:0 "Federal Indochina"
+DAI_JPR_DEF:0 "Federal Socialist Indochina"
+DAI_JPR_ADJ:0 "Indochinese"
+
+SMC_JPR:0 "Federal Indochina"
+SMC_JPR_DEF:0 "Federal Socialist Indochina"
+SMC_JPR_ADJ:0 "Indochinese"
+
+BYJ_JPR:0 "Federal China"
+BYJ_JPR_DEF:0 "Federal Socialist China"
+BYJ_JPR_ADJ:0 "Chinese"
+
+MON_JPR:0 "Federal Mongolia"
+MON_JPR_DEF:0 "Federal Socialist Mongolia"
+MON_JPR_ADJ:0 "Mongol"
+
+TAN_JPR:0 "Federal Tuva"
+TAN_JPR_DEF:0 "Federal Socialist Tuva"
+TAN_JPR_ADJ:0 "Tuvan"
+
+ALT_JPR:0 "Federal Altai"
+ALT_JPR_DEF:0 "Federal Socialist Altai"
+ALT_JPR_ADJ:0 "Altai"
+
+SIK_JPR:0 "Federal Sinkiang"
+SIK_JPR_DEF:0 "Federal Socialist Sinkiang"
+SIK_JPR_ADJ:0 "Uyghur"
+
+TIB_JPR:0 "Federal Tibet"
+TIB_JPR_DEF:0 "Federal Socialist Tibet"
+TIB_JPR_ADJ:0 "Tibetan"
+
+SIA_JPR:0 "Federal Siam"
+SIA_JPR_DEF:0 "Federal Socialist Siam"
+SIA_JPR_ADJ:0 "Siamese"
+
+BUR_JPR:0 "Federal Burma"
+BUR_JPR_DEF:0 "Federal Socialist Burma"
+BUR_JPR_ADJ:0 "Burmese"
+
+NEP_JPR:0 "Federal Nepal"
+NEP_JPR_DEF:0 "Federal Nepal"
+NEP_JPR_ADJ:0 "Nepalese"
+
+KSM_JPR:0 "Federal Ladakh"
+KSM_JPR_DEF:0 "Federal Socialist Ladakh"
+KSM_JPR_ADJ:0 "Ladakhi"
+
+AFG_JPR:0 "Federal Afghanistan"
+AFG_JPR_DEF:0 "Federal Socialist Afghanistan"
+AFG_JPR_ADJ:0 "Afghan"
+
+MO2_JPR:0 "Federal Buryatia"
+MO2_JPR_DEF:0 "Federal Socialist Buryatia"
+MO2_JPR_ADJ:0 "Buryat"
+
+PHI_JPR:0 "Federal Philippines"
+PHI_JPR_DEF:0 "Federal Socialist Philippines"
+PHI_JPR_ADJ:0 "Philippino"
+
+DEI_JPR:0 "Federal Indonesia"
+DEI_JPR_DEF:0 "Federal Socialist Indonesia"
+DEI_JPR_ADJ:0 "Indonesian"
+ 
+#PARTIES#
+JPR_vanguard_socialism_party:0 "일본노동당(흥아파)"
+JPR_libertarian_marxism_party:0 "일본노동당(카쿠마루파)"
+JPR_revolutionary_anarchism_party:0 "노동조합총연맹"
+JPR_revisionist_socialism_party:0 "사회정의당"
+JPR_social_democratism_party:0 "사회대중당"
+JPR_liberalism_party:0 "입헌민정당"
+JPR_conservatism_party:0 "입헌정우회"
+JPR_right_authoritarianism_party:0 "중앙파"
+JPR_despotism_party:0 "유신파"
+JPR_reactionism_party:0 "입정호국회"
+JPR_accelerationism_party:0 "혁신관료"
+JPR_vanguard_socialism_party_long:0 "일본노동당(범아시아주의자)"
+JPR_libertarian_marxism_party_long:0 "일본노동당(마르크스주의자)"
+JPR_revolutionary_anarchism_party_long:0 "전일본노동조합총연맹"
+JPR_revisionist_socialism_party_long:0 "사회정의당"
+JPR_social_democratism_party_long:0 "일본사회대중당"
+JPR_liberalism_party_long:0 "입헌민주당"
+JPR_conservatism_party_long:0 "입헌정우회"
+JPR_right_authoritarianism_party_long:0 "중앙파"
+JPR_despotism_party_long:0 "유신파"
+JPR_reactionism_party_long:0 "입정호국회"
+JPR_accelerationism_party_long:0 "혁신관료"
+#LEADER DESCRITIONS#
+POLITICS_OKAWA_SHUMEI_DESC:0 "Among the many dissaffected nationalists left feeling dissatisfied by both the Shōwa and Eigen Emperors is Shūmei Ōkawa. Once committed to the Imperial ideals of restoration, Shūmei has percieved that the time for more radical change has come. Following the Imperial bungling of the economy throughout the 20's he and many other nationalists has formed the Worker's Party of Japan. Their ranks have swollen and now Shūmei is ideally placed to lead the Revolution, though he is not without his detractors..."
+POLITICS_HITOSHI_YAMAKAWA_DESC:0 ""
+POLITICS_JINZABURO_MASAKI_DESC:0 ""
+POLITICS_ITO_NOE_DESC:0 ""
+POLITICS_SAITO_TAKAO_DESC:0 ""
+POLITICS_ICHIRO_HATOYAMA_DESC:0 ""
+POLITICS_TETSU_KATAYAMA_DESC:0 ""
+#POLITICS_KANSON_ARAHATA_DESC:0 "The old guard of Japanese leftism, Arahata has been a respectable face for the socialists for decades, he is well respected enough that the Kempetai have not yet dared to touch him, lest it spark insurection. His libertarian socialist faction seeks to model Japan after the Germans, but he faces an uphill battle against the statists of Shūmei."
+
+#IDEAS#
+
+
+
+#EVENTS#
+
+
+
+#CUSTOM TOOLTIPS AND FLAGS#
+pacific_workers_league:0 "Pacific Workers League"
+federal_socialist_republics_asia:0 "Federal Socialist Republics of Asia"
+
+JPR_decisions:0 "Unlock foreign policy decisions"
+JPR_decisions2:0 "Unlock further foreign policy decisions"
+
+JPR_pwl_invite:0 "Invite potential members to the PWL"
+JPR_western_decisions:0 "Unlock Western Comrades Decisions"
+JPR_pacific_decisions:0 "Unlock Pacific Comrades Decisions"
+#Ministers#
+JPR_nosaka_hog:0 "Nosaka Sanzō"
+JPR_arahata_hog:0 "Arahata Kanson"
+JPR_toshihiko_hog:0 "Sakai Toshihiko"
+
+JPR_nosaka_for:0 "Nosaka Sanzō"
+
+JPR_isoo_eco:0 "Abe Isoo"
+JPR_arahata_eco:0 "Arahata Kanson"
+JPR_oyama_eco:0 "Ōyama Ikuo" 
+
+JPR_nosaka_sec:0 "Nosaka Sanzō"
+JPR_toshihiko_sec:0 "Sakai Toshihiko"
+JPR_tokuda_sec:0 "Tokuda Kyuichi"
+
+JPR_shiga_int:0 "Shiga Yoshio"
+JPR_nosaka_int:0 "Nosaka Sanzō"
+#DECISIONS (1.5 Update)#
+JPR_pan_asianism:0 "Pan-Asianism"
+JPR_westerncomrades:0 "Western Comrades"
+JPR_pacificcomrades:0 "Pacific Comrades"
+#colonies
+JPR_demandtaiwan:0 "Demand Taiwan"
+JPR_demandmantetsu:0 "Demand Mantetsu"
+JPR_demandkorea:0 "Demand Korea"
+JPR_demanddaiviet:0 "Demand Indochina"
+#conquests
+JPR_china:0 "Take China"
+JPR_mongolia:0 "Take Mongolia"
+JPR_xinjiang:0 "Take Xinjiang"
+JPR_tibet:0 "Take Tibet"
+JPR_siam:0 "Take Siam"
+JPR_burma:0 "Take Burma"
+JPR_nepal:0 "Take Nepal"
+JPR_ladakh:0 "Take Ladakh"
+JPR_afghan:0 "Take Afghanistan"
+JPR_tuva:0 "Take Tuva"
+JPR_philippines:0 "Take the Philippines"
+JPR_baikal:0 "Take Transbaikal"
+JPR_indonesia:0 "Take Indonesia"
+#western comrades
+JPR_german_cooperation:0 "German Co-operation"
+JPR_brazilian_cooperation:0 "Brazilian Co-operation"
+JPR_hungarian_cooperation:0 "Hungarian Co-opertaion"
+JPR_NOR_cooperation:0 "Norwegian Co-operation"
+JPR_bulgarian_cooperation:0 "Bulgarin Co-operation"
+JPR_cuban_cooperation:0 "Cuban Co-operation"
+#pacific comrades
+JPR_ZHR_cooperation:0 "Zheltorossiyan Co-operation"
+JPR_XIA_cooperation:0 "Hunanese Co-operation"
+JPR_TAI_cooperation:0 "Taiwanese Co-operation"
+JPR_FJN_cooperation:0 "Fujianese Co-operation"
+JPR_JKR_cooperation:0 "Korean Co-operation"
+JPR_KOR_cooperation:0 "Korean Co-operation"
+#FOCUSES#
