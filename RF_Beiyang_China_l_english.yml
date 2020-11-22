@@ -23,7 +23,9 @@ BYJ_right_authoritarianism_party_long:0 "자강구국 동지연합"
 BYJ_despotism_party_long:0 "봉천 군벌"
 BYJ_reactionism_party_long:0 "국수회"
 BYJ_accelerationism_party_long:0 "중국청년당"
+
 #LEADER DESCRITIONS#
+
 #IDEAS#
 BYJ_egg_dancer:0 "달걀춤"
 BYJ_egg_dancer_desc:0 "“존재론적 외교” 전략을 추구하는 북양 정부는 다른 모든 외세와 동등하고도 중립적인 관계를 유지하고자 합니다. 옌시샨은 이를 “15개의 달걀 위에서 춤을 추며 단 한 개도 깨뜨리지 않는 것”이라 묘사했습니다. 북중국의 산업개발에 이익이 되는 한, 옌시샨은 이러한 외교 노선을 고수할 것입니다. 그러나 몇몇 국가들이 이를 언짢게 여기지 않을 리 없습니다..."
@@ -33,11 +35,24 @@ BYJ_fengtian_threat:0 "봉천의 위협"
 BYJ_fengtian_threat_desc:0 "“6월 폭풍” 작전, 화북전쟁, 일본의 침략에도 봉천 군벌은 완전히 무너지지 않았습니다. 장줘린이 이끄는 봉천군은 형식적인 저항만 하곤 산해관 너머로 후퇴했으며, 여론의 압력으로 이 “용맹한 항일군”을 직접적으로 진압하는 데 실패한 옌시샨은 봉천 세력의 입각을 마지못해 허용했습니다. 산서와 봉천 간의 분쟁이 북양 정부를 갈라놓았습니다. 다행히도 의회파의 대부분은 여전히 옌시샨에게 충성합니다."
 BYJ_compulsory_education:0 "의무교육"
 BYJ_compulsory_education_desc:0 "북중국에서 의무교육을 보급하기란 극히 어려운 일입니다. 산서에서의 성공은 산서군이 지역 전체를 효과적으로 장악한 덕에 가능했던 일이었습니다. 하지만 봉천군과 국민군과의 긴장감이 이어지는 가운데, 산서식 모형은 큰 장애물에 부닥치고 말았습니다. 군제개혁 및 재개발 회담은 논제로 올라오지 않았습니다. 옌시샨에게 다른 계획이 있는 걸까요?"
+
 #CUSTOM TOOLTIPS AND FLAGS#
 
 BYJ_SETTING_SUN_DESC:0 "북양 정부는 중국의 주도 세력으로, 수십 년의 싸움과 편 바꾸기로 북벌이 실패하면서 국민당이 나락에 빠진 동안 옌시샨은 베이징의 정부를 차지하고 마침내 국가를 단결시켰습니다. 그러나 우선, 옌시샨은 그의 민국을 파괴하려는 일본을 물리치고 문호를 개방하는 데 집중해야 합니다."
 
 #DECISIONS (1.5 Update)#
+
+#EVENTS#
+byj.1.t:0 "만철의 붕괴"
+byj.1.d:0 "The Japanese have paid dearly for their arrogance, their empire is now collapsing around them, the corporate interests in Mantetsu are running scared or preparing their private armies for a stand in the name of the Emperor. We can easily wipe them aside and reclaim a portion of Southern Manchuria for ourselves. One piece at a time we will reclaim all of China."
+byj.1.a:0 "We should take advantage of the situation!"
+
+byj.2.t:0 "반란"
+byj.2.d:0 ""
+byj.2.a:0 "Yan is past his best, remove him."
+byj.2.b:0 "Join the Yellow secret society."
+byj.2.c:0 "국민국에 가담한다."
+
 #FOCUSES#
 BYJ_adealwiththerussians:0 "러시아인 처리"
 BYJ_adealwiththerussians_desc:0 ""
