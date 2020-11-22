@@ -2,8 +2,44 @@
 #COUNTRY NAME#
 
 #PARTIES#
+JOR_vanguard_socialism_party:0 "JBP"
+JOR_vanguard_socialism_party_long:0 "요르단 바트당"
+
+JOR_libertarian_marxism_party:0 "JSCP"
+JOR_libertarian_marxism_party_long:0 "요르단 사회평의회주의당"
+
+JOR_revolutionary_anarchism_party:0 "JRP"
+JOR_revolutionary_anarchism_party_long:0 "요르단 혁명연합"
+
+JOR_revisionist_socialism_party:0 "JSRP"
+JOR_revisionist_socialism_party_long:0 "요르단 공화당"
+
+JOR_social_democratism_party:0 "JLP"
+JOR_social_democratism_party_long:0 "요르단 노동당"
+
+JOR_liberalism_party:0 "JDP"
+JOR_liberalism_party_long:0 "요르단 민주당"
+
+JOR_conservatism_party:0 "JFP"
+JOR_conservatism_party_long:0 "요르단 조국당"
+
+JOR_right_authoritarianism_party:0 "충성파"
+JOR_right_authoritarianism_party_long:0 "요르단 커먼웰스 파벌"
+
+JOR_reactionism_party:0 "IPFJ"
+JOR_reactionism_party_long:0 "요르단 이슬람 보호군"
+
+JOR_despotism_party:0 "왕당파"
+JOR_despotism_party_long:0 "요르단 왕당파벌"
+
+JOR_accelerationism_party:0 "JSNP"
+JOR_accelerationism_party_long:0 "요르단 민족주의당"
 #LEADER DESCRITIONS#
+
 #IDEAS#
+
 #CUSTOM TOOLTIPS AND FLAGS#
+
 #DECISIONS (1.5 Update)#
+
 #FOCUSES#
