@@ -1,7 +1,41 @@
 ﻿l_english:
+
 #COUNTRY NAME#
 
 #PARTIES#
+CCD_vanguard_socialism_party:0 "Baku Commissariat"
+CCD_vanguard_socialism_party_long:0 "Council of People's Commissars of Baku Commune"
+
+CCD_libertarian_marxism_party:0 "Adalat"
+CCD_libertarian_marxism_party_long:0 "Adalat"
+
+CCD_revolutionary_anarchism_party:0 "Anarchists"
+CCD_revolutionary_anarchism_party_long:0 "Anarchist Confederation of Baku"
+
+CCD_revisionist_socialism_party:0 "Huntchakians"
+CCD_revisionist_socialism_party_long:0 "Hnch'akyan Khmakts'ut'yun"
+
+CCD_social_democratism_party:0 "Dashnaks"
+CCD_social_democratism_party_long:0 "Dashnaktsutyun"
+
+CCD_liberalism_party:0 "Musavat"
+CCD_liberalism_party_long:0 "Musavat"
+
+CCD_conservatism_party:0 "Ittihad"
+CCD_conservatism_party_long:0 "Ittihad"
+
+CCD_right_authoritarianism_party:0 "Armenian Collaborationists"
+CCD_right_authoritarianism_party_long:0 "Armenian Collaborationists"
+
+CCD_despotism_party:0 "Armenian Administration"
+CCD_despotism_party_long:0 "Emergency Armenian Military Administration"
+
+CCD_reactionism_party:0 "Turkish Collaborationists"
+CCD_reactionism_party_long:0 "Young Turks of Baku"
+
+CCD_accelerationism_party:0 "Caspian Muse"
+CCD_accelerationism_party_long:0 "Artistic Federation 'Caspian Muse'"
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
