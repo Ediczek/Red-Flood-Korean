@@ -1,7 +1,11 @@
 ﻿l_english:
 
-#PARTIES#
+## Cosmetic Tags ##
+ANG_POR_right_authoritarianism:0 "포르투갈령 앙골라"
+ANG_POR_right_authoritarianism_DEF:0 "포르투갈령 앙골라"
+ANG_POR_right_authoritarianism_ADJ:0 "포르투갈령 앙골라"
 
+#PARTIES#
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
