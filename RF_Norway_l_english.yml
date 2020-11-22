@@ -1,4 +1,5 @@
 ﻿l_english:
+#COUNTRY NAME#
 
 #PARTIES#
 NOR_revisionist_socialism_party:0 "인민평의회"
@@ -16,6 +17,18 @@ nor.1.b:0 "조건에 동의한다"
 nor.2.t:0 "비요른 마우세트가 권좌에서 내려오다."
 nor.2.d:0 "오늘, 노르웨이의 지도자 비요른 마우세트가 권좌에서 내려와 다른 이에게 권력을 이양했습니다."
 
+NOR_peoples_council_vanguard_socialism:0 "북대서양 인민평의회"
+NOR_peoples_council_vanguard_socialism_DEF:0 "노르웨이"
+NOR_peoples_council_vanguard_socialism_ADJ:0 "북대서양"
+NOR_peoples_council_libertarian_marxism:0 "북대서양 인민평의회"
+NOR_peoples_council_libertarian_marxism_DEF:0 "노르웨이"
+NOR_peoples_council_libertarian_marxism_ADJ:0 "북대서양"
+NOR_peoples_council_revolutionary_anarchism:0 "북대서양 인민평의회"
+NOR_peoples_council_revolutionary_anarchism_DEF:0 "노르웨이"
+NOR_peoples_council_revolutionary_anarchism_ADJ:0 "북대서양"
+NOR_peoples_council_revisionist_socialism:0 "북대서양 인민평의회"
+NOR_peoples_council_revisionist_socialism_DEF:0 "노르웨이"
+NOR_peoples_council_revisionist_socialism_ADJ:0 "북대서양"
 
 #FOCUSES#
 NOR_assassinateofficers:0 "장교진 암살"
