@@ -115,7 +115,7 @@ JKR_despotism_party_long:0 "Korean Restorationist Party"
 JKR_reactionism_party_long:0 "Korean Homeland Party"
 JKR_accelerationism_party_long:0 "Korean National Revolutionary Party"
 #LEADER DESCRITIONS#
-KOR_SETTING_SUN_DESC:0 "일본 제국의 보석인 조선, 혹은 한국은 중대한 식민정책과 산업화 노력의 대상입니다. This has not come without sacrifice however, Korean independence activity has been growing since the Man-se Demonstrations of 1919. Now with the activists in Korea itself and the KMT-affiliated partisans in China and Manchuria, Japan's grip on Korea is threatened."
+KOR_SETTING_SUN_DESC:0 "일본 제국의 보석인 조선, 혹은 한국은 중대한 식민정책과 산업화 노력의 산물입니다. 하지만 희생이 없진 않습니다. 1919년 만세 '폭동' 이래 조선에서의 독립활동은 점차 커지고 있습니다. 조선 내의 활동가들, 중국 및 만주의 친국민당 유격대가 조선을 쥔 일본의 손아귀를 노리고 있습니다."
 #IDEAS#
 #Kor
 #starting tree#
@@ -369,14 +369,14 @@ KOR_choe_yong_gon_coa:0 "최용건"
 
 kor.2.t:0 "Making the best of the worst"
 kor.2.d:0 "It could not possibly be clearer to anyone that the era of Japanese imperialism is nearing its end, or at least its crescendo. Ever since the March 1st incident of 1919, the grip of the Japanese on Korea has severely weakened, and resistance to occupation has been ramping up in the last four years. The prevailing belief in Japan is that Japan must either cede to the demands of the Koreans, or brace for colonial revolt. This is obviously the worst-case scenario, seeing as republican, socialist, and anarchist movements are alive and well in China and Manchuria, and would surely take such an opportunity to strike against our government in Manchuria, aided by Chinese nationalists as well as the Zhili clique.\nAll of the struggles of Japan’s foreign policy have thrown Japan’s domestic politics completely out of balance, to the point of turning Japan from an up-and-coming empire into a crippled nation ripe for Communist revolution. As Japan careens into an uncertain era, it is up to the colonial government to try and steer the Korea as best it can in the right direction, and it is up to the Revolutionaries and Republicans to find a way to unify so that they may finally end the Sick Man of Asia's grip on their country."
-kor.2.a:0 "We shall weather the coming storm."
-kor.2.b:0 "May the lightning strike down the tyrants."
+kor.2.a:0 "다가올 폭풍을 이겨내리라."
+kor.2.b:0 "뇌격은 폭군을 향하리."
 
 kor.3.t:0 "Experimenting with Egalitarianism"
 kor.3.d:0 "As Japanese Imperial Korea approaches total collapse, the Japanese government has been forced to consider the impossible, the unthinkable, the unbelievable: extending civil rights to women in the peninsula. While women in Japan are not exactly equal with their male counterparts in the eyes of the law, the position of Korean women is even less so. Korean women are often assigned to Japanese soldiers as “comfort women”, which is basically a form of involuntary prostitution. This has become the main focus of the women’s rights debate, as even the most chauvinistic among the Japanese ruling class have come to see this system as somewhat brutal. Another issue which is emerging from the Diet’s more progressive members is allowing women into the workforce. While this idea is strongly opposed by the vast majority of those who believe in Japanese traditional society, the idea of doubling the workforce in both Korea and Japan, effectively doubling industrial productivity, is attractive on a practical level. All that remains is to see what the Diet decides…"
-kor.3.a:0 "Ridiculous! Any other bright ideas?"
-kor.3.b:0 "Perhaps we could at least stop the sex slavery…"
-kor.3.c:0 "Try it here first, the home islands later."
+kor.3.a:0 "헛소리! 더 나은 발상은 없나?"
+kor.3.b:0 "최소한 성노예제 정도는 멈출 수 있겠지..."
+kor.3.c:0 "이곳 조선에서 우선 실험해보고, 후일 내지에도 적용해보지."
 
 kor.4.t:0 "조선 문화보존"
 kor.4.d:0 "As is the case in most colonial empires, one of the biggest problems that colonised nations face is the erasure of their native culture by their overlord. This is precisely why Prince Yi Un has decided to pre-empt the erasure of his culture, and by extension his claim to the throne of Korea, by petitioning the Japanese government to ensure that Korean culture is safeguarded by a new Cultural Preservation Program in the peninsula. Korea has already been affected by Japanese cultural imperialism to some degree, with mass proliferation of Japanese language texts in Korea, as well as all official documents being printed in Japanese. However, the relatively weak presence of the Japanese in Korea seems to have all but halted the process of Nihonisation, at least for now. Regardless, the Korean Prince still sees the looming threat of Korean destruction as one to be taken seriously, and is not backing down on this issue. The Korean exiles in other nations, such as Republicans in China and even the Anarchists and Councilists in Manchuria, have praised Prince Yi’s stalwart defense of his nation, even under the boot of imperialism. Most of the native population, on the other hand, has been silent, either out of disinterest in high-minded politics or a fear of retribution from Japanese authorities. Japan is now left with a decision to make; give their subjects what they want, or face the potentially revolutionary consequences."
@@ -387,7 +387,7 @@ kor.5.t:0 "산업할당량 확대"
 kor.5.d:0 "Yet again, an issue whose discussion was meant to be a formality with a predetermined conclusion has raised hell amongst the Japanese Diet. This week’s screaming match is over Japan’s plans for Korean industrialization. On one hand, the Korean economy is in poor shape. Much of the country is still very rural, with many Korean farmers still having not moved beyond subsistence agriculture. On the other, however, the present colonial status quo has already uprooted the lives of many Koreans, and they would surely not respond well to more aggressive policies. Although many politicians are dedicated to defending their positions and ideals, many burned out ministers are simply desperate for some kind of consensus and an end to the constant bickering. After much feuding and mud-slinging, the Japanese Diet has finally agreed…"
 kor.5.a:0 "할당량을 두 배로 늘린다."
 kor.5.b:0 "현 정책을 유지한다."
-kor.5.c:0 "Roll back progress, the risk of famine is too high."
+kor.5.c:0 "기아의 위험성이 너무 높으므로 물린다."
 
 kor.6.t:0 "Land Ownership Issue"
 kor.6.d:0 "Since the colonization of Korea in 1910, land ownership has been exclusively available to Japanese colonists, creating a strong class divide between the landowning Japanese and the peasant farmers of Korea. However, some of these peasant farmers have been fortunate enough to accumulate their own wealth, and now seek to become landowners themselves. The government in Korea is deeply opposed to this idea, given that a vast majority of politicians in Korea are Japanese landowners themselves. However, as the ties between Japan and the crown jewel of her empire become more and more frayed, it is being increasingly seen as an alternative to outright Korean revolt. There is no doubt among the ruling government that the Koreans are almost unanimous in their support of this legislation, and to block it would alienate the entirety of the colony’s native population. However, some of the more hardline aristocrats see the risk as worth taking, if it means defending the status quo that they have worked so hard to maintain for the past two and a half decades. After much debate over the pragmatism of avoiding open rebellion versus the idealist principles of the colonists, the government has finally decided…"
@@ -397,7 +397,7 @@ kor.6.b:0 "토지개혁 법안이 부결되다."
 kor.7.t:0 "일본 의회가 조선 이주정책에 대해 논의하다"
 kor.7.d:0 "Today was supposed to be a rather routine day for the Japanese Imperial Diet, discussing their foreign affairs policies going forward, which were supposed to remain largely the same. However, an uproar began when the issue of migration to the Korean peninsula was brought up, with those favoring de-escalation of colonization policies hurling insults at those who thought it time to double the Japanese settlement efforts. The opposition has rationalized that increasing migration to Korea will be seen as an aggressive move by the native population, who will turn against their overlords even more than they already have. However, those in favor argue that Korea’s issue is not with dissatisfaction, but uncivilization. By observing the examples of noble Japanese colonists, the Korean people would learn to respect their betters and mind themselves. After seemingly endless debating and mud-slinging, the bickering Diet members managed to conclude that…"
 kor.7.a:0 "황민화를 확대한다."
-kor.7.b:0 "Slow down before something bad happens."
+kor.7.b:0 "무슨 일이 벌어지기 전에 늦추도록 한다."
 kor.7.c:0 "현 수준의 이주를 유지한다."
 
 kor.100.t:0 "저항 격화"
@@ -416,13 +416,13 @@ kor.8.a:0 "Take up arms for freedom!"
 
 kor.9.t:0 "Subvert The Russians"
 kor.9.d:0 "The Russians have been presecuting and deporting our brothers from Manchuria for decades. It is time we reclaimed the land of our fore-bears, drive out the slavic barbarians. First a rally to the persecuted, then while they deal with the inner turmoil, we invade. Drive them back to the Amur river and make our people whole again."
-kor.9.a:0 "Drive back the European invaders."
+kor.9.a:0 "유럽인 침략자들을 몰아낸다."
 
-kor.10.t:0 "United Republic"
+kor.10.t:0 "통일된 공화국"
 kor.10.d:0 "After much deliberation and consternation, a power sharing deal has been agreed. The Governments of the North and South will become one. Our differences put aside, our brothers reunited. Korea stands as one, stronger together once and for all."
 kor.10.a:0 "At last!"
 
-kor.11.t:0 "Request Ships"
+kor.11.t:0 "선박 요청"
 kor.11.d:0 "In order to safeguard the Korean coastline we need ships, a request put to our comrades in Japan could yield results, after all, they commandeered much of the IJN. Surely Shumei's sailors can spare a few destoryers?"
 kor.11.a:0 "They probably don't have the fuel for them all."
 
@@ -431,23 +431,23 @@ kor.111.b:0 "The Revolution in Korea is a promising development, their leadershi
 kor.111.a:0 "Naturally, we shall send them aid."
 kor.111.b:0 "We cannot spare any ships, but we can send some of our officers as advisors."
 
-kor.12.t:0 "Request Guns"
+kor.12.t:0 "총포 요청"
 kor.12.d:0 "The Russian Republic's modest army is rather well equipped, that is, relatively. Since our need is great and they have the industry to support it, we should request a shippment of arms from them to bolster our troops."
 kor.12.a:0 "They'll be put to good use."
 
-kor.13.t:0 "Request Advisors"
+kor.13.t:0 "고문단 요청"
 kor.13.d:0 "The Russian Republic watches our progress intently, their military expertise from the civil war is still valuable insight in these dark times for our people. A request for military training and advice would be prudent."
 kor.13.a:0 "Their assistance is appreciated."
 
-kor.14.t:0 "Seek Backing From The Russians"
+kor.14.t:0 "러시아의 지원을 seeking"
 kor.14.d:0 "Since the Russian Republic is one of the few regimes in the region friendly to our cause, we should seek their doctrinal, material and logistical aid against the counter-revolutionary forces. First things first the repatriation of Korean leftists on their turf should bring us a boon of men and expertise."
 kor.14.a:0 "Supporting foreign insurgencies has never backfired."
 
-kor.15.t:0 "Co-operation with the Left-KMT"
+kor.15.t:0 "국민당 좌익과의 협력"
 kor.15.d:0 "The Left-Kuomintang has been most hospitable to our leaders in their exile. Since they have continued to offer us support in return for help in future, we should increase our level of diplomatic co-operation and establish formal ties."
 kor.15.a:0 "We share the same struggle."
 
-kor.16.t:0 "Imperial Family Flees to Korea"
+kor.16.t:0 "황가가 조선으로 도주하다"
 kor.16.d:0 "With Revolutionary forces quickly overtaking the country, and the fall of the capital, the Imperial family has seen fit to flee the country to escape persecution at the hands of socialist forces. The former dominion of Korea has welcomed them, they landed in Pusan aboard an unmarked plane in the early hours of the day. Not only do the family seek to preserve their lives, but to also form an imperial government in exile to oppose the revolution which has bloodily seized Japan."
 kor.16.a:0 "Catch them if you can."
 
