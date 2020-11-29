@@ -1,11 +1,11 @@
 ﻿l_english:
 #COUNTRY NAME#
-CAN_UK_social_democratism:0 "캐나다 자치령"
-CAN_UK_social_democratism_DEF:0 "캐나다 자치령"
-CAN_UK_social_democratism_ADJ:0 "캐나다"
-CAN_UK_conservatism:0 "캐나다 자치령"
-CAN_UK_conservatism_DEF:0 "캐나다 자치령"
-CAN_UK_conservatism_ADJ:0 "캐나다"
+CAN_britain_social_democratism:0 "캐나다 자치령"
+CAN_britain_social_democratism_DEF:0 "캐나다 자치령"
+CAN_britain_social_democratism_ADJ:0 "캐나다"
+CAN_britain_conservatism:0 "캐나다 자치령"
+CAN_britain_conservatism_DEF:0 "캐나다 자치령"
+CAN_britain_conservatism_ADJ:0 "캐나다"
 
 #PARTIES#
 CAN_vanguard_socialism_party:0 "캐나다 공산당"
