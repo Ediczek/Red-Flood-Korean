@@ -2,6 +2,14 @@
 
 ALT_subject:0 "알타이"
 
+### Cosmetic Tags ###
+ALT_SHMN_revisionist_socialism:0 "주술 제국"
+ALT_SHMN_revisionis_socialism_ADJ:0 "제국"
+ALT_SHMN_DEF:0 "알타이 주술 제국"
+ALT_TSAR_accelerationism:0 "성자들의 영역"
+ALT_TSAR_accelerationism_ADJ:0 "성"
+ALT_TSAR_DEF:0 "시베리아 성자국"
+
 #FOCUSES#
 ALT_kagyrodovsurvives:0 "카이고로도프의 생존!"
 ALT_kagyrodovsurvives_desc:0 ""
