@@ -34,8 +34,9 @@ JAP_accelerationism_party_long:0 "혁신관료"
 
 #LEADER DESCRIPTIONS#
 
-POLITICS_YASUHITO_DESC:0 ""
-POLITICS_OKAWA_SHUMEI_DESC:0 ""
+POLITICS_YASUHITO_DESC:0 "Prince Chichibu was devastated at his brother's assassination. Ascending the throne in a time of turmoil as suspected terrorists were deported and the Army was reeling from its purge, he set about a ruthless campaign to bring Japan back from the brink of ruin through irridentist conquest of China. Will the young Eigen Emperor's ambitions to live up to his brother outstrip his Empire's limits?"
+POLITICS_KUMAZAWA_HIROMICHI:0 "The Pretender to the throne, a true student of the old-guard, Hiromichi has spent his life asserting his family's legitimacy to the Imperial throne. At last with the reactionary Military leaders having tired of Yasuhito's failures, he has been given the chance to become the Emperor of Japan."
+#POLITICS_NOBUHITO_DESC:0 "The Emperor Yasuhito's younger brother, the more impressionable Prince Takamatsu. Nobuhito was always much more cool-headed than his brothers and more moderate too. Since the Empire has had its wings clipped, he has become the obvious choice to guide Japan to a more principled place in the Far-East co-operating with Commonwealth interests."
 POLITICS_HITOSHI_YAMAKAWA_DESC:0 ""
 POLITICS_YAMAKAWA_KIKUE_DESC:0 ""
 POLITICS_KANSON_ARAHATA_DESC:0 ""
@@ -209,13 +210,11 @@ japan.5.a:0 "빠르게 총을 내려놨고, 슈메이와 그의 병사들은 건
 japan.5.b:0 "전위대를 격퇴했고, 총격전 중에서 슈메이를 저격했다."
 
 japan.6.t:0 "대통령 선거"
-japan.6.d:0 "대통령 선거를 위해서, 평의회들이 소집되었고 후보자들은 혁명의 지도부의 미래를 위한 그들의 주장을 역설했습니다."
-japan.6.a:0 "슈메이"
-japan.6.b:0 "아라하타"
-#japan.6.c:0 "야마카와"
-#japan.6.d:0 "노에"
-#japan.6.d:0 "고바아시"
-#japan.6.e:0 "가미치카"
+japan.6.desc:0 "The first round of Presidential elections is taking place, up and down the country the people are queueing outside polling centres to vote. Municipal Council elections have already taken place, but this vote decides which party will lead the National Council and in turn select the Council President of Japan. In the past month, the councils have assembled and the candidates put their cases forward for leadership of the Revolution. With a wide choice from the Vanguard to the Anarcho-Syndicalists, it is anyone's guess how the election will turn out."
+japan.6.a:0 "Vanguardist Victory"
+japan.6.b:0 "Councilist Victory"
+japan.6.c:0 "Syndicalist Victory"
+japan.6.d:0 "Democratic Socialist Victory"
 
 japan.7.t:0 "마-일본 협상"
 japan.7.d:0 "일본인들은 옌시산과 산시에 대항한 전쟁의 성공을 위하여 마가 군벌에게 참전을 제안했습니다. 우리의 북쪽에 있는 더욱 폭력적인 정권을 놔두고 동쪽으로 진군하는 것은 위험한 일입니다. 하지만, 기회는 기회지요."
@@ -338,7 +337,21 @@ JAP_empire_despotism_ADJ:0 "일본"
 
 #MINISTERS#
 JAP_sadao_araki_hog:0 "사다오 아라키"
+JAP_seigo_nakano_hog:0 "Nakano Seigō"
+JAP_okada_keisuke_hog:0 "Okada Keisuke"
+JAP_koki_hirota_hog:0 "Hirota Kōki"
+JAP_fumimaro_konoe_hog:0 "Konoe Fumimaro"
+
+JAP_teijiro_toyoda_for:0 "Toyoda Teijirō"
+JAP_kijuro_shidehara_for:0 "Shidehara Kijūrō"
+JAP_yosuke_matsuoka_for:0 "Matusoka Yōsuke"
+
+JAP_machida_chuji_eco:0 "Machida Chūji"
+JAP_gotaro_ogawa_eco:0 "Ogawa Gōtarō"
+JAP_gujiro_fujiwara_eco:0 "Fujiwara Gujirō"
+
 JAP_araki_cos:0 "사다오 아라키"
+JAP_fushimi_hiroyasu_con:0 "Fushimi Hiroyasu"
 
 #DECISIONS (1.5 Update)#
 
