@@ -1,6 +1,7 @@
 ﻿l_english:
 #COUNTRY NAME#
 
+
 #PARTIES#
 PCN_revolutionary_anarchism_party:0 "생디칼리스트파"
 PCN_revolutionary_anarchism_party_long:0 "생디칼리스트파"
@@ -24,6 +25,7 @@ PCN_reactionism_party:0 "DAOB"
 PCN_reactionism_party_long:0 "독일령 아프리카회맹"
 PCN_accelerationism_party:0 "미래주의파"
 PCN_accelerationism_party_long:0 "미래주의파"
+
 #LEADER DESCRITIONS#
 
 #IDEAS#
@@ -48,10 +50,9 @@ PCN_renewed_thirst_desc:0 ""
 PCN_domination:0 "지배확정"
 PCN_domination_desc:0 ""
 PCN_industrialized:0 "산업개혁"
-PCN_industrialized_desc:0 ""
 
 #CUSTOM TOOLTIPS AND FLAGS#
-PCN_Conquered_Congo_tt:0 "콩고 정복 완료"
+PCN_Conquered_Kongo_tt:0 "콩고 정복 완료"
 
 #DECISIONS (1.5 Update)#
 
