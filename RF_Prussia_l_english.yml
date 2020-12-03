@@ -1,5 +1,14 @@
 ﻿l_english:
 #COUNTRY NAME#
+PRS_GER_right_authoritarianism:0 "독일 제국"
+PRS_GER_right_authoritarianism_ADJ:0 "독일"
+PRS_GER_right_authoritarianism_DEF:0 "독일 제국"
+PRS_GER_despotism:0 "독일 제국"
+PRS_GER_despotism_ADJ:0 "독일"
+PRS_GER_despotism_DEF:0 "독일 제국"
+PRS_GER_reactionism:0 "독일 제국"
+PRS_GER_reactionism_ADJ:0 "독일"
+PRS_GER_reactionism_DEF:0 "독일 제국"
 
 #PARTIES#
 PRS_vanguard_socialism_party:0 "SRGP"
@@ -13,17 +22,18 @@ PRS_right_authoritarianism_party:0 "PStP"
 PRS_despotism_party:0 "KRP"
 PRS_reactionism_party:0 "DOB"
 PRS_accelerationism_party:0 "PSTB"
-PRS_vanguard_socialism_party_long:0 "프로이센 사회혁명군"
+PRS_vanguard_socialism_party_long:0 "프로이센 사회혁명집단"
 PRS_libertarian_marxism_party_long:0 "프로이센 공산당"
 PRS_revolutionary_anarchism_party_long:0 "프로이센 자유노조연합"
 PRS_revisionist_socialism_party_long:0 "프로이센 노동자총연합회"
 PRS_social_democratism_party_long:0 "프로이센 사회민주당"
-PRS_liberalism_party_long:0 "프로이센 자유당"
+PRS_liberalism_party_long:0 "Freisinnige Partei Preußens"
 PRS_conservatism_party_long:0 "프로이센 보수-애국동맹"
 PRS_right_authoritarianism_party_long:0 "프로이센 국가당"
 PRS_despotism_party_long:0 "충성제국당"
 PRS_reactionism_party_long:0 "독일 질서연합"
 PRS_accelerationism_party_long:0 "프로이센 보호저항동맹"
+
 #LEADER DESCRITIONS#
 POLITICS_Schleicher_DESC:0 "프로이센의 진정한 아들인 슐라이허는 통일된 독일 제국에서 키워져, 청년 시절엔 막강한 군에서 복무하도록 성장했습니다. 대전쟁 중 어느 정도 명성을 얻은 슐라이허는 투쟁의 말년 동안 빌헬름 그뢰너의 신뢰받는 보조로서 활동했습니다. 카이저의 폐위로 촉발된 자유군단의 창설을 도운 것도, 에베르트 정부와 독일 정치 내 혁명 요소들 간의 긴장을 키운 것도 바로 슐라이허였습니다. 스파르타쿠스 연맹이 마침내 타격해온 1919년, 슐라이허는 자유군단과 함께 전쟁영웅인 파울 폰 힌덴부르크를 도와 멍청한 에베르트를 에베르트 스스로가 벌인 재앙에게서나 구하고자 했습니다. 하지만 옛 독일의 신실된 병사들이 빨갱이들에게 패배하고 무너져, 해안으로까지 밀려나게 되며 이는 실현되지 못 했습니다. 프로이센에 당도한 슐라이허와 힌덴부르크는 독일 제국의 살아남은 요소들을 재조직하고자 했지만, 옛 동맹의 산맥에서 안식을 찾은, 오스트리아로 달아난 수많은 옛 장교들을 찾았을 뿐이었습니다. 10년 넘게 힌덴부르크 아래서 일하며, 공산주의자들의 요원들을 박살내고 소소한 분란들이 자유군단을 분열시키지 않도록 확실히 한 슐라이허는, 1934년 옛 원수를 이어 충성스럽고 헌신적인 측근들의 정부를 계승했습니다. 프로이센은 작으나, 잔혹하지만은 않은 제국원수 슐라이허는 프로이센의 힘이 그 유산과 그 정통성에 깃들어 있음을 알고 있습니다. 충분한 계획만 있다면 붉은 거인을 끌어내리고, 자유군단, 국군, 그리고 슐라이허 그 자신은 거의 전 세계를 호령했던 위대한 독일을 부활시킬 수 있을 것입니다."
 
@@ -37,7 +47,6 @@ PRS_the_imperialist:0 "제국주의자"
 PRS_the_red_count:0 "붉은 백작"
 PRS_soldier_kaiserin:0 "군인여제"
 PRS_heir_alexander:0 "알렉산드로스의 후예"
-
 #IDEAS#
 PRS_bloody_january:0 "피의 1월"
 PRS_bloody_january_desc:0 ""
@@ -139,7 +148,6 @@ PRS_women_auxiliaries_desc:0 ""
 
 PRS_europe_conquerors:0 "유럽의 정복자"
 PRS_europe_conquerors_desc:0 ""
-
 #MINISTERS#
 PRS_heinz_guderian_hog:0 "하인츠 구데리안"
 PRS_fritz_schulenburg_hog:0 "프리츠-디틀로프 폰 데어 슐렌부르크"
@@ -153,8 +161,8 @@ PRS_wilhelm_groener_sec:0 "빌헬름 그뢰너"
 #CUSTOM TOOLTIPS AND FLAGS#
 monarchist_path_allowed:0 "왕좌 위의 군주께서 관을 쓰시리."
 PRS_bloody_january_aftermath_tooltip:0 "피의 1월의 계속되는 유산을 줄이기 위한 결정을 내릴 수 있습니다."
-PRS_poland_uncooperative:0 "폴란드가 협조적이지 않습니다."
 
+PRS_poland_uncooperative:0 "폴란드가 협조적이지 않습니다."
 #DECISIONS (1.5 Update)#
 #EVENTS#
 prussia.1.t:0 "1936년의 프로이센"
@@ -404,7 +412,6 @@ prussia.69.a:0 "모든 이익은 더 깨어있고 활동적인 노동자들에�
 prussia.70.t:0 "국민군단의 창설"
 prussia.70.desc:0 "자유군단의 해체는, 프로이센 참모부로서는 국외 공세기동 시 서쪽에서 몰려올 우리 빨갱이 혈족들의 침입에 국내전선이 무력해질 것이 분명함을 뜻했습니다. 도시를 방어할 상비군을 훈련할 여유가 없는 프로이센이었으니, 참모부가 가진 방안들에서 자유군단이 갖는 무게가 상당할 수밖에 없었습니다.\n\n다행히 제국원수가 이미 대안을 마련해둔 상태였습니다. 자유군단과 비슷하지만 내전 이후 몇 년 간의 활동에서 자유군단이 얻었던 것과 같은 악명을 달지 않은 새 의용민병대였습니다. 제국원수 슐렌부르크는 이들에 대한 명칭으로 '국민군단'을 제안하면서, 육군의 충직한 지휘관들이 이 새 의용병들을 훈련시키는 대신 육군 내 궐직을 능력있는 전 자유군단 출신 전역자들에게 맡기자 제안했습니다.\n\n대부분의 참모진은 확신하지 못 했습니다. 자기네 조직이 해체당하고 금지된 것에 당연히 배신감을 느낀 자유군단의 일원들이 더 이상 프로이센을 위해 복무하지 않을 것이란 주장이었습니다. 이에 제국원수는 미리 준비해둔 조정안이 있다며 그에 대한 공포를 물리쳤습니다. 실은, 국민군단이 이미 창설되어 슐렌부르크가 손수 선발한 장교들이 민병대원들의 훈련을 완료한 상태였던 것입니다. 제국원수는 곧 프로이센의 군화굽이 다시 독일 땅을 누비게 할 수복을 위한 마지막 단계를 발표하며 회의 종료를 선언했습니다. 참모진 다수는 회의 이후 제국원수 몰래 어두운 방에 모여, 슐렌부르크의 비효율적인 통치와, 프로이센 사회에서 다시 민간인이 역할을 맡게 된 것에 대한 우려를 떠들었습니다."  
 prussia.70.a:0 "자유군단은 짖어보지도 못한 것 같군."
-
 #FOCUSES#
 PRS_Heirs_Empire:0 "제국의 후계자들"
 PRS_Heirs_Empire_desc:0 "우리는 독일 제국의 최후 잔존자들이며, 프리드리히 대왕과 철의 재상의 계승자들입니다. 1870년의 영광을 되살리고자 한다면 우리 앞에 놓인 투쟁과 싸워 이겨야 합니다! 우리는 그로써 다시 태어나거나 절멸할 것입니다!"
@@ -489,6 +496,9 @@ PRS_East_Allies_desc:0 "개판난 러시아라곤 해도 역시 공산주의의 
 
 PRS_Secret_Britain:0 "영국과의 비밀협상"
 PRS_Secret_Britain_desc:0 "스파르타쿠스주의자들을 꺾으려면 놈들을 세계에서 고립시켜야 합니다. 아직 북해가 손아귀 바깥에 남아있긴 합니다. 영국과의 비밀협상을 통해 영국이 빨갱이들을 적시에 봉쇄할 수 있도록 해야 합니다."
+
+PRS_grand_return:0 "웅대한 귀환"
+PRS_grand_return_desc:0 ""
 
 PRS_GOT:0 "왕좌의 게임"
 PRS_GOT_desc:0 슐라이허의 선언과 함께 프로이센에서 왕의 권위를 세울 때가 다가왔습니다. 몇몇 후보들이 물망에 올랐으나, 실제 정통성이 그리 큰 비중을 차지하지 못하는 듯합니다."
@@ -658,30 +668,249 @@ PRS_new_order_desc:0 "신 질서가 세계에 내렸습니다. 세계안보평�
 PRS_respect_peace_stability:0 "존중, 안정, 평화"
 PRS_respect_peace_stability_desc:0 "신세계를 정의하는 건 법과 질서가 될 겁니다. 국제평의회는 미래주의자나 공산주의자 같은 이들이 평화를 어지럽히지 못하게 확실히 할 것입니다. 하지만 그 과정에서 타국의 위임권한을 침해하진 않을 것이며, 정복전쟁 역시 없을 것입니다."
 
+PRS_Bread_Roses: "Bread and Roses"
+PRS_Bread_Roses_desc: "The only thing that can save Prussia from Communism are swift reforms in the direction of Social Democracy. Although, maybe with a little less of the "Democracy" part."
+
+PRS_Reestablish_Sozialstaat: "Reestablish the Sozialstaat"
+PRS_Reestablish_Sozialstaat_desc: "It is time to divert some funds from the Army and invest in the wellbeing of our people. The Abwehr has become bloated and overfunded by Schleicher, we can easily divert some money from them without compromising our Security."
+
+PRS_Labor_Regulate: "Labour Regulation"
+PRS_Labor_Regulate_desc: "Unions might be a step too far, but the Junta can easily enforce solid Labour-Regulations to make sure that overly tyrannical Junkers don't cultivate militancy among their Workers."
+
+PRS_Civilian_Admin: "Expand Civilian Buerocracy"
+PRS_Civilian_Admin_desc: "As is stands, we rely too much on delegating tasks to the Junkers to make Prussia functional. This regression to Feudalism cannot continue! The State must take responsibility administrative tasks on the local level again."
+
+PRS_Democratic_Infrastructure: "Democratic Infrastructure"
+PRS_Democratic_Infrastructure_desc: "The Junta will not restore Democracy any time soon, but it is time to set up infrastructure for the restoration of a Federal Republic. We will allow the people to elect local Councils and even positions within the Buerocracy."
+
+PRS_Fuck_Pabst: "Put Pabst on Trial!"
+PRS_Fuck_Pabst_desc: "Waldemar Pabst had widely overstepped his bounds during the Bloody January. The Freikorps are a menace to both the People and the State. It is time to put them on trial."
+
+PRS_DI_Freikorp: "Disperse and Integrate the Freikorp"
+PRS_DI_Freikorp_desc: "It would be too dangerous to leave the Freikorps as an intact structure. They must be integrated into the Army and dispersed across different units."
+
+PRS_Stability_Ensured: "Stability Ensured"
+PRS_Stability_Ensured_desc: "With the most urgent Reforms done, Prussia is already a much more stable place."
+
+PRS_Trade_Unions: "Negotiate with the Unions"
+PRS_Trade_Unions_desc: "It is a controversial move, but Unions have much sway among workers and working with them is integral to ensuring harmony in our nation."
+
+PRS_Safe_Homefront: "A Safe Homefront"
+PRS_Safe_Homefront_desc: "With Prussia's internal issues thoroughly adressed, we can start preparing for War in the knowledge that we will not have to fight communist Insurgents in our Heartland."
+
+PRS_Return_Home: "Return Home"
+PRS_Return_Home_desc: "It is time."
+PRS_Heirs_Empire: "Heris of the Empire"
+PRS_Heirs_Empire_desc: "We are the last remnants of the German Empire, the Heirs of Frederick the Great and the Iron Chancellor. If we want to rekindle the glory of 1870, we must win the struggle ahead of us! It is Rebirth or Annihilation!"
+
+PRS_Bloody_Jan: "Bloody January"
+PRS_Bloody_Jan_desc: "The last harvest had been a measely one and our protectionist policy on trade has hindered the import of food in a dire moment. The people are hungry and radicals may exploit the situation."
+
+PRS_Letter_Schleichner: "The Letter to Schleicher"
+PRS_Letter_Schleichner_desc: "A number of Officers have delivered a letter to Reichsmarschalll Schleicher, requesting his resignation. They state that they narrowly avoided catastropy and that consequences must be drawn. First, the Reichsmarschalll must resign with the dignity expected of a Prussian in Public Office."
+
+PRS_Treason: "It's Treason, then..."
+PRS_Treason_desc: "These poor excuses for Prussians dared to send a letter of Protest to a superior officer? Someone hasn't been sufficiently whipped as a child... Send in the Police and make these fools answer to a Court."
+
+PRS_Reichsmarschalll: "The Reichsmarschalll Resigns!"
+PRS_Reichsmarschalll_desc: "General Schleicher has chosen to resign! But who will take his place?"
+
+PRS_Any_Objections: "Any further Objections?"
+PRS_Any_Objections_desc: "Does anyone else intend to destabilise our Nation? No? Thought so. Now, let's get back to business..."
+
+PRS_Daddy_Guderian: "Appoint Guderian"
+PRS_Daddy_Guderian_desc: "Heinz Guderian is a visionary thinker and a trusted General. He may be lacking Schleicher's skill in Realpolitik, but maybe brute force will still serve us well in the coming struggle. And Schleicher will still be able to give advice from the background."
+
+PRS_Order_Day: "Back to the Order of the Day"
+PRS_Order_Day_desc: "The Dissent has been dealt with for now and the Junta will continue as usual, but these rowdy kids may have had a point... There are a few things we should adress."
+
+PRS_Appoint_Pabst: "Appoint Pabst"
+PRS_Appoint_Pabst_desc: "Waldemar Pabst is not the ideal choice, he is an unsophisticated brute, but hasn't his approach proven to work during the Blutfebruar? He will ensure Prussia's internal stability and isn't afraid to get his hands dirty for the cause. Reds don't deserve chivalry."
+
+PRS_Process_First: "Process First!"
+PRS_Process_First_desc: "Just appointing a Reichsmarschalll won't do. A power-struggle must be avoided at all costs at this moment of national fragility. It is time to set up a process to determine the choice of a Reichsmarschalll. We will perform an internal debate and hold a vote!"
+
+PRS_DIRECTRULEFROMTHECROWN: "The Crown's Authority"
+PRS_DIRECTRULEFROMTHECROWN_desc: "Just appointing a Reichsmarschalll won't do. A power-struggle must be avoided at all costs at this moment of national fragility. It is time to set up a process to determine the choice of a Reichsmarschalll. We will perform an internal debate and hold a vote!"
+
+PRS_White_Terror: "The White Terror"
+PRS_White_Terror_desc: "There are too many subversive elements within the Junta and it is time to root them out."
+
+PRS_Der_Panzergeneral: "Der Panzergeneral"
+PRS_Der_Panzergeneral_desc: "Heinz Guderian is one of the leading theorists of the Reich and for the coming war, we will need to get the most out of our Army. He is the best chance we have!"
+
+PRS_Der_Verteidiger: "Der Verteidiger des Baltikums"
+PRS_Der_Verteidiger_desc: "General Rüdiger von der Golz has proven his worth as an officer all around the Baltic, fighting the Red Flood. He has convinced the assembled Generals that Prussia has no chance of standing alone against the rabble infesting our Homeland. To go West, we have to first go East. Unite with the Germanic Peoples of the Baltic, to mobilise them for the march West."
+
+PRS_Der_Graf: "Der Graf der Rosen"
+PRS_Der_Graf_desc: "Fritz-Dietlof von der Schulenburg was the last person anyone would have expected to step into Schleicher's shoes. However, he has presented a calm, cold speech that presented the case that the introduction of an extensive "Social State" is the only way to compete with the appeal of Socialism."
+
+PRS_Der_Tagtra: "Der Tagträumer"
+PRS_Der_Tagtra_desc: "Heinrich Schnee is a controversial figure in the Junta, but his unorthodox approach might work. Spartacism is a Global Threat and we need to think big. His plan to open negotiations with Britain and establish ties all around the World may give us an edge the enemy does not expect. We must beat the Socialists at their own Internationalist Game!"
+
+PRS_Emergency_Reforms: "Emergency Reforms"
+PRS_Emergency_Reforms_desc: "We must immediately adress the issues uncovered by the Bloody January. First of all, we must formalise a Protocol to Coordinate our response to a native Insurrection. We cannot have the Freikorps plunge us into Anarchy with their overzealous brutality."
+
+PRS_Humanitarian_Fund: "Humanitarian Emergency Fund"
+PRS_Humanitarian_Fund_desc: "To be prepared in case of another Crisis, the Army itself needs to be ready to intervene to help the civilian population. We will keep a stockpile of military rations in reserve and work out a battleplan on how to rapidly distribute them to provinces in Crisis."
+
+PRS_Tariff_Reform: "Tariff Reform"
+PRS_Tariff_Reform_desc: "Tariffs are integral to Germany's method of doing Economics! But we also have to be pragmatic. There are some things we need to import and in the Future we should be more flexible with adjusting Tariff Rates according to the needs of our people."
+PRS_General_Staff: "Assemble the General Staff"
+
+PRS_General_Staff_desc: "It is time to plan for the Reclamation of the Homeland."
+PRS_Reneg_Corridor: "Renegotiate the Corridor"
+
+PRS_Reneg_Corridor_desc: "We have accepted Poland's control of the corridor to Danzig out of necessity, but we are by no means happy about it. It is time to politely ask the Poles if they'd be willing to make an arrangement that we are going to control it during the coming War. Maybe Russia can exert some pressure on our behalf as well..."
+PRS_Northern_Thrust: "The Northern Thrust"
+
+PRS_Northern_Thrust_desc: "General Guderian will command the Panzertruppe for an offensive into Pommern and rush to seize the ports to open up the possibility of shipping in Russian Strelky-Divisions as reinforcements."
+
+PRS_Southern_Loyalists: "Contanct the Southern Loyalists"
+PRS_Southern_Loyalists_desc: "There are still elements in the conservative South, who might be willing to fight against the Reds. We should contact them and incorporate them into our plan of attack."
+
+PRS_Southern_Distraction: "The Southern Distraction"
+PRS_Southern_Distraction_desc: "When we declare the Reclamation-War, our Agents within the Gebirgsjäger units will conduct sabotage of installations in Bavaria and local Freikorps will seize control of the countryside, so the Reds will have to send troops to break the Siege of Munich."
+
+PRS_Yes_Daddy_Guderian: "Guderian's Ambitions"
+PRS_Yes_Daddy_Guderian_desc: "Reichsmarschalll Guderian is more ambitious than the old Pragmatist Schleicher. He will not rest until the Reich is restored in it's full glory. That means that our Alliance with the Poles is not one that will last..."
+
+PRS_Fall_Weiss: "Fall Weiß"
+PRS_Fall_Weiss_desc: "In case of a conflict with Poland, the Panzertruppe will lead a spearhead along the Coast to seize the Ports. The Infantry will sweep down to the Vistula, to force Poland's concession of territories. In case of drawn out War, the Long Term Strategy is to throttle polish trade and stoke an ethnic german insurrection in Western Poland."
+
+PRS_East_Allies: "Find Eastern Allies"
+PRS_East_Allies_desc: "Russia may be a shattered mess, but they will surely recognise the threat of Communism. We will make overtures to cobble together a stronger Coalition."
+
+PRS_Secret_Britain: "Secret Negotiations with Britain"
+PRS_Secret_Britain_desc: "To defeat the Spartacists, they must be isolated from the World. Yet, the North Sea remains beyond out reach. We must open secret negotiations with Britain to ensure they will establish a Blockade when the time is right."
+
+PRS_GOT: "A Game of Thrones"
+PRS_GOT_desc: "With Schleicher's announcement that it is time to restore the Crown's authority over Prussia, a few Candidates have come out on top. But the actual legitimacy of the claims seems to play little role here."
+
+PRS_Crown_Madman: "Crown the Madman"
+PRS_Crown_Madman_desc: "He may have radical ideas, but it is not appropriate for a prussian officer to judge the vision of his Kaiser. August Wilhelm von Preußen is now Emperor of Germany!"
+
+PRS_Benevolent_Usurp: "Benevolent Usurpation"
+PRS_Benevolent_Usurp_desc: "We cannot gamble with the future of Germany, even if we must betray our principles. August Wilhelm is too radical, he must be passed over in favour of Prince Oskar. Crown him now, before another pretender has a chance to organise his bid!"
+
+PRS_Queen_Coup: "The Queen's Coup"
+PRS_Queen_Coup_desc: "Princess Viktoria-Louise has always been ambitious, but not even Schleicher had expected her to march into the Castle in full Uniform with a small Army at her back. With Königsberg effectively under her occupation, she has declared the Military Regency to be concluded."
+
+PRS_Clash_Kings: "A Clash of Kings"
+PRS_Clash_Kings_desc: "Usurpers don't sit easy on their Thrones."
+
+PRS_Prussian_Spring: "A Prussian Spring"
+PRS_Prussian_Spring_desc: "Spring has come and the political crisis is resolved. For now. It is time to let things calm down and smell the flowers."
+
+PRS_Reconciliation: "Reconciliation"
+PRS_Reconciliation_desc: "Prussia can't afford to be divided. After these turbulent Months, it is time to rebuild the political landscape and reconcile with the loosers. With the Red Flood soon to crash against the Dam, we can't afford the divides to grow."
+
+PRS_March_Eagles: "March of the Eagles"
+PRS_March_Eagles_desc: "Hurrah for the Kaiser of Germany!"
+
+PRS_Soldier_Kaiserin: "Die Soldatenkaiserin"
+PRS_Soldier_Kaiserin_desc: "Empress Viktoria-Louise has announced that she will return Prussia to it's roots. She shall rule by decree and lead as her Ancestor Friedrich the Great once did: From the front with her Soldiers!"
+
+PRS_Enlight_Despotism: "Enlightened Despotism"
+PRS_Enlight_Despotism_desc: "The Empress has announced that her reign will be one of Progress. She intends to have Prussia remember it's roots to be able to step stronger into the future. Concretely, what she has announced is a series of sweeping Social Reforms to Prussia that are expected to have a huge impact on policy and culture."
+
+PRS_Integrate_Junta: "Integration of the Junta"
+PRS_Integrate_Junta_desc: "The old order must be integrated into the new structures if the Empress wants to keep her Throne. It will take time and efford, though."
+
+PRS_Kaiser_Vision: "Ein Kaiser mit Vision!"
+PRS_Kaiser_Vision_desc: "Austust Wilhelm von Preußen is an eccentric man, a man of Vision! To prosper, we need a true ideal to strive for and he will deliver. But will we look to our rich past or the exiting future for that Spark of Inspiration?"
+
+PRS_Braun_Ambition: "Braun's Ambitions"
+PRS_Braun_Ambition_desc: "Otto Braun has been an influential figure in prussian politics for a while. Despite his young age, he has established himself as the artistic visionary of a National Rejuvinationist Movement. The Kaiser is a fan of his and intends to make the young man's visions a Reality."
+
+PRS_The_Brownshirts: "The Brownshirts"
+PRS_The_Brownshirts_desc: "Our Nation has long been plagued by a splinter-group of the Freikorps, the Brownshirts, who are responsible for unauthorized Progroms in the Cities. Our Kaiser admires their enthusiasm and has announced that Horst Wessel will be his appointed Reichsmarschalll."
+
+PRS_Kaiser_English: "Kaiser nach Englischem Vorbild"
+PRS_Kaiser_English_desc: "Prinz Oskar, now Kaiser Oskar, never asked for the Crown. Yet, he accepted the responsibility to save the realm from his mad Brother. But it is time to hand power back to an accountable institution: His Majesty's Imperial Diet."
+
+PRS_Revive_Reichstag: "Revive the Reichstag"
+PRS_Revive_Reichstag_desc: "By the Kaiser's decree, the Reichstag is now officially restored as the legislative branch of the Government. The Fate of the Reichsmarschall and the Executive remain to be determined."
+
+PRS_Restore_Democracy: "Restore Full Democracy"
+PRS_Restore_Democracy_desc: "The Regency has done a good enough Job in safeguarding the Remnants of the Reich, but their watch has ended. It is time to transfer executive power to an elected Chancellor and his Cabinet."
+
+PRS_Elect_Reichsmarschalll: "An Elected Reichsmarschalll"
+PRS_Elect_Reichsmarschalll_desc: "Uprooting the Junta from Executive Power would be a long, difficult and risky task. It would be much easier to maintain the current Junta as the Executive Branch and have the Reichsmarschalll be chosen by public Elections."
+
+PRS_Prussian_Democracy: "Prussian Democracy"
+PRS_Prussian_Democracy_desc: "Democracy has been restored in Prussia and it is time to work out the finer details about our Role in the World."
+
+PRS_Women_Sufferage: "Women's Sufferage"
+PRS_Women_Sufferage_desc: "The most stable and just system is one where everyone can vote. It's is important to give women the ability to participate in the political process without restrictions."
+
+PRS_One_Household: "One Vote per Household"
+PRS_One_Household_desc: "The less people Vote, the better. An ideal way to keep power centralised is to ensure that only the Patriarch of the Family has the right to Vote."
+
+PRS_Aristocracy: "Lord-Electors"
+PRS_Aristocracy_desc: "Giving the Peasants the right to choose a Ruler? Preposterous! If we must restore Democracy, it should be through a federal system in which the Junker-Families retain formal Privileges. Only they can run as candidates and they will act as Superdelegates in the Election of the Reichsmarschall."
+
+PRS_Radical_Parties: "Permit Radical Parties"
+PRS_Radical_Parties_desc: "There is no such thing as too much Democracy. Socialists and Futurists both have a fundamental right to have their voices heard. Furthermore, their participation in electoral politics will serve to defuse their volatile tendencies."
+
+PRS_Fortified_Party: "Fortified Democracy"
+PRS_Fortified_Party_desc: "The rights of Radicals must be respected, but that does not apply to Extremists. Any Party or Organisation that threatens the constitutional Order or calls for the violent overthrow of Democracy can be banned by the Reichstag."
+
+PRS_No_Commies: "No Reds!"
+PRS_No_Commies_desc: "Democracy has it's limits. We cannot allow Berlin's Puppets to participate in elections without risking National Security."
+
+PRS_Stick_Russia: "Stick with Russia"
+PRS_Stick_Russia_desc: "Russia is the force that protects Eurasia from Communism and it would be foolish not to stick with them. God Save the Tsar and Admiral Kolchak!"
+
+PRS_Join_LOL: "Join the League of Nations"
+PRS_Join_LOL_desc: "The British are one of the few Bastions of Sanity left in this World. It is time for Prussia to provide a good example for others and join the League of Nations."
+
+PRS_Detente_Reds: "Detente with the Reds"
+PRS_Detente_Reds_desc: "Some people think that Communism is the work of the Devil, but we have to be objective. They are not that bad, compared to some of the other Madness going on in Europe. Us Germans need to stick together to protect the Homeland from those who would destroy it, despite our differences."
+
+PRS_Baltic_Crusade: "The Baltic Crusade"
+PRS_Baltic_Crusade_desc: "Reichsmarschalll Rüdiger von der Golz has announced his intentions in a public speech today. He promised to unite the Peoples of the Baltic to fight together for the restoration of order in Europe. Preferably by Diplomacy, maybe by force."
+
+PRS_Baltic_SecConf: "Host a "Baltic Security Conference""
+PRS_Baltic_SecConf_desc: "To lay the groundwork for an Alliance, Prussia will host a Conference on the topic of securing Stability in the Baltic Region. It is a non-commital event, mainly for discussion and exchage, but the Reichsmarschalll plans to use it to propose a real Alliance."
+
+PRS_AntiCommie: "The Anti-Communist Coalition"
+PRS_AntiCommie_desc: "With Russia watching closely, the wisest course of action might be to propose a simple military Coalition, with the hope that it will grow in Centralisation over time."
+
+PRS_NordicConf: "The Nordic Confederation"
+PRS_NordicConf_desc: "With Russia distracted and unable act as Protector of the region, it is neccesary to form a potent Alliance agains the Reds. Prussia will be responsible for both Leadership and Protection."
+
+PRS_NorthernCrusade: "The Northern Crusade"
+PRS_NorthernCrusade_desc: "First, we must clean up our backyard. If any place in the Baltic has started flirting with the Socialists, we will beat that notion out of them."
+
+PRS_StrikeSource: "Strike at the Source"
+PRS_StrikeSource_desc: "We have assembled a strong coalition. It is time to take back Germany!"
+
+PRS_GreaterReich: "A Greater Reich"
+PRS_GreaterReich_desc: "Germany is ours again! And with the trust we have gained from our Allies, we can unite all germanic Peoples under one Reich."
 #Der Rosen
-PRS_Bread_Roses:0 "빵과 장미"
-PRS_Bread_Roses_desc:0 "프로이센을 공산주의에게부터 구할 유일한 방법은 사회민주정을 향한 빠른 개혁 뿐입니다. "민주정" 부분이 조금 모자르더라도요."
-PRS_Reestablish_Sozialstaat:0 "사회국가 재설립"
-PRS_Reestablish_Sozialstaat_desc:0 "군에게 쓰던 자금을 돌려 우리 인민의 생활을 개선하는 데 투자할 때입니다. 그동안 방첩대가 슐라이허 아래서 부풀며 과도한 자금지원을 받아왔으니, 우리 안보 수준을 낮추지 않고도 충분히 예산을 전용할 수 있을 겁니다."
-PRS_Labor_Regulate:0 "노동규제"
-PRS_Labor_Regulate_desc:0 "노조가 너무 과할 수도 있겠지만, 군사위원회는 지나치게 폭압적인 융커들이 노동자들 사이에서 투쟁심을 일으킬 수 없도록 튼실한 노동규제들을 쉬이 강제할 수 있습니다."
-PRS_Civilian_Admin:0 "민간관료제 확장"
-PRS_Civilian_Admin_desc:0 "지금의 우리는 프로이센을 돌리는 일을 융커들에게 지나칠 정도로 맡겨두고 있습니다. 이와 같은 봉건제로의 퇴행이 계속될 순 없습니다! 국가는 반드시 현지 수준의 행정업무 책임을 되찾아야 합니다."
-PRS_Democratic_Infrastructure:0 "민주적 기반시설"
-PRS_Democratic_Infrastructure_desc:0 "군사위원회가 금세 민주정을 복원할 것 같진 않지만, 연방공화국을 회복할 기반은 만들 수 있을 겁니다. 우리는 인민이 현지 평의회와, 심지어 관료 일부를 선출하도록 허용할 것입니다."
-PRS_Fuck_Pabst:0 "팝스트 기소!"
-PRS_Fuck_Pabst_desc:0 "발데마어 팝스트는 피의 1월 당시 선을 넘어도 한참은 넘었습니다. 자유군단은 인민과 국가 모두에게 패악이 되고 있습니다. 팝스트를 재판정에 세울 때가 왔습니다."
-PRS_DI_Freikorp:0 "자유군단 해체 및 흡수"
-PRS_DI_Freikorp_desc:0 "자유군단을 손 타지 않은 구조 그대로 놔두는 건 너무나 위험합니다. 저들을 군으로 흡수하고 각기 다른 부대로 흩트려놔야 합니다."
-PRS_Stability_Ensured:0 "안정 확보"
-PRS_Stability_Ensured_desc:0 "가장 시급했던 개혁이 이루어졌습니다. 프로이센은 훨씬 더 안정적인 나라가 되었습니다."
-PRS_Trade_Unions:0 "노조와의 협상"
-PRS_Trade_Unions_desc:0 "논란은 있습니다만, 노동자들을 좌지우지할 수 있는 노조와 협력하는 건 우리 국가의 조화를 이루는 데 도움이 될 것입니다."
+PRS_bread_and_roses:0 "빵과 장미"
+PRS_bread_and_roses_desc:0 "프로이센을 공산주의에게부터 구할 유일한 방법은 사회민주정을 향한 빠른 개혁 뿐입니다. "민주정" 부분이 조금 모자르더라도요."
+PRS_reestablish_sozialstaat:0 "사회국가 재설립"
+PRS_reestablish_sozialstaat_desc:0 "군에게 쓰던 자금을 돌려 우리 인민의 생활을 개선하는 데 투자할 때입니다. 그동안 방첩대가 슐라이허 아래서 부풀며 과도한 자금지원을 받아왔으니, 우리 안보 수준을 낮추지 않고도 충분히 예산을 전용할 수 있을 겁니다."
+PRS_labour_regulation:0 "노동규제"
+PRS_labour_regulation_desc:0 "노조가 너무 과할 수도 있겠지만, 군사위원회는 지나치게 폭압적인 융커들이 노동자들 사이에서 투쟁심을 일으킬 수 없도록 튼실한 노동규제들을 쉬이 강제할 수 있습니다."
+PRS_expand_bureaucracy:0 "민간관료제 확장"
+PRS_expand_bureaucracy_desc:0 "지금의 우리는 프로이센을 돌리는 일을 융커들에게 지나칠 정도로 맡겨두고 있습니다. 이와 같은 봉건제로의 퇴행이 계속될 순 없습니다! 국가는 반드시 현지 수준의 행정업무 책임을 되찾아야 합니다."
+PRS_democratic_infrastructure:0 "민주적 기반시설"
+PRS_democratic_infrastructure_desc:0 "군사위원회가 금세 민주정을 복원할 것 같진 않지만, 연방공화국을 회복할 기반은 만들 수 있을 겁니다. 우리는 인민이 현지 평의회와, 심지어 관료 일부를 선출하도록 허용할 것입니다."
+PRS_trial_pabst:0 "팝스트 기소!"
+PRS_trial_pabst_desc:0 "발데마어 팝스트는 피의 1월 당시 선을 넘어도 한참은 넘었습니다. 자유군단은 인민과 국가 모두에게 패악이 되고 있습니다. 팝스트를 재판정에 세울 때가 왔습니다."
+PRS_disperse_freikorp:0 "자유군단 해체 및 흡수"
+PRS_disperse_freikorp_desc:0 "자유군단을 손 타지 않은 구조 그대로 놔두는 건 너무나 위험합니다. 저들을 군으로 흡수하고 각기 다른 부대로 흩트려놔야 합니다."
+PRS_stability_ensured:0 "안정 확보"
+PRS_stability_ensured_desc:0 "가장 시급했던 개혁이 이루어졌습니다. 프로이센은 훨씬 더 안정적인 나라가 되었습니다."
+PRS_negotiate_unions:0 "노조와의 협상"
+PRS_negotiate_unions_desc:0 "논란은 있습니다만, 노동자들을 좌지우지할 수 있는 노조와 협력하는 건 우리 국가의 조화를 이루는 데 도움이 될 것입니다."
 PRS_Safe_Homefront:0 "안전한 국내전선"
 PRS_Safe_Homefront_desc:0 "프로이센의 내부 문제가 온전히 처리됐으니, 우리의 심장부에서 공산반란과 싸우지 않으면서 전쟁에 대비할 수 있게 되었습니다."
-PRS_Return_Home:0 "귀향"
-PRS_Return_Home_desc:0 "때가 왔노라."
-
+PRS_return_home:0 "귀향"
+PRS_return_home_desc:0 "때가 왔노라."
 #Queen's Ambition
 PRS_queen_ambition:0 "여왕의 야망"
 PRS_queen_ambition_desc:0 "빅토리아 루이제 여왕께선 프로이센을 향한 그분의 절대력을 확고히 하시려 야망 넘치는 많은 계책들을 갖고 계십니다."
@@ -701,8 +930,8 @@ PRS_prepare_border:0 "국경 대비"
 PRS_prepare_border_desc:0 "포메른을 거쳐 공격하게 되면 우리에게 불리해집니다. 빨갱이들은 더 나은 장비를 갖추고 기계화 병력을 전개했으니, 우리로선 우리 보병대로 놈들의 전차를 막을 수 있는 전장을 형성할 필요가 있습니다."
 PRS_do_it_alone:0 "독고다이"
 PRS_do_it_alone_desc:0 "이젠에도 그랬듯 다시금, 프로이센은 우리의 여제 폐하와 함께 끔찍한 역경에 맞설 것입니다."
-PRS_reclaimation_war:0 "수복전쟁"
-PRS_reclaimation_war_desc:0 "붉은 패악에 맞설 대비를 갖추었습니다. 일부는 더 나은 시점이 올 때까지 기다리길 추천했지만, 여제께선 일이 너무 쉬우면 영광도 얼마 되지 않는다 고집하고 계십니다. 재정복을 선언할 때입니다!"
+PRS_reclamation_war:0 "수복전쟁"
+PRS_reclamation_war_desc:0 "붉은 패악에 맞설 대비를 갖추었습니다. 일부는 더 나은 시점이 올 때까지 기다리길 추천했지만, 여제께선 일이 너무 쉬우면 영광도 얼마 되지 않는다 고집하고 계십니다. 재정복을 선언할 때입니다!"
 PRS_drang_osten:0 "동쪽을 향하여"
 PRS_drang_osten_desc:0 "프로이센의 운명은 동쪽을 향하고 있습니다. 러시아는 약하고 쉬운 먹잇감입니다."
 PRS_negotiate_communists:0 "공산주의자들과의 협상"
@@ -725,7 +954,8 @@ PRS_women_army:0 "여성 입대"
 PRS_women_army_desc:0 "빅토리아 여왕께선 프로이센을 군대이자 국가로 만들고 싶어하시며, 여성들의 징병 배제가 그분의 시야에 들었습니다. 이것이 의전만을 목적으로 하는지 아닌지는 두고 볼 일입니다."
 PRS_intense_training:0 "극한합동훈련"
 PRS_intense_training_desc:0 "프로이센에겐 기계화 육군을 지탱할만한 산업력이 없으므로, 재래식 보병대는 이를 충당하기 위해 극도의 효율을 내보여야 합니다. 육군은 전장에서의 주도권을 유지를 위해 라디오를 비롯한 다른 통신수단을 광범위하게 보급함으로써 보병의 효율성 증대를 이룩할 것입니다."
-
+PRS_reclaimation_war:0 "The Reclaimaition War"
+PRS_reclaimation_war_desc:0 ""
 #Otto
 PRS_ottos_traum:0 "오토의 꿈"
 PRS_ottos_traum_desc:0 "어린 시절부터, 우리의 위대한 오토 브라운께서는 꿈을 가지셨습니다. 그리스인들의 문화, 재치, 지능을 독일인들의 힘과 순수성과 합쳐 알렉산드로스가 실패했던 일을 성공시키는 것입니다."
@@ -789,7 +1019,61 @@ PRS_into_intermarium:0 "인테르마리움으로"
 PRS_into_intermarium_desc:0 "알렉산드로스의 코린토스 연맹과 마찬가지로, 우리에게도 동맹이 필요합니다. 우리의 승리를 보장하는 데 폴란드와 그들의 인테르마리움보다 나은 이들은 없습니다."
 PRS_our_own_way:0 "우리의 길을 간다"
 PRS_our_own_way_desc:0 "우리의 승리에 같잖은 동맹 따윈 필요하지 않습니다! 그 어떤 제국도 "동등한 협력"을 통해 빚어진 적이 없습니다. 우리에게 동참하지 않으면 테베와 같은 운명을 맞이 하게 될 것입니다."
-
+#Wessel
+PRS_screw_those_old_farts:0 "Screw those old farts!"
+PRS_screw_those_old_farts_desc:0 ""
+PRS_brownshirts_in_the_army:0 "Brownshirts in the Army"
+PRS_brownshirts_in_the_army_desc:0 ""
+PRS_einwhonerwehren:0 "Einwhonerwehren"
+PRS_einwhonerwehren_desc:0 ""
+PRS_landsknechtregime:0 "Landsknechtregime"
+PRS_landsknechtregime_desc:0 ""
+PRS_brownshirts_in_the_state:0 "Brownshirts in the State"
+PRS_brownshirts_in_the_state_desc:0 ""
+PRS_arm_the_students:0 "Arm the Students"
+PRS_arm_the_students_desc:0 ""
+PRS_take_what_is_ours:0 "Take what is ours"
+PRS_take_what_is_ours_desc:0 ""
+PRS_brauner_terror:0 "Brauner Terror"
+PRS_brauner_terror_desc:0 ""
+PRS_salz_und_feuer:0 "Salz und Feuer"
+PRS_salz_und_feuer_desc:0 ""
+PRS_march_of_the_brownshirts:0 "March of the Brownshirts"
+PRS_march_of_the_brownshirts_desc:0 ""
+PRS_register_nongermans:0 "Register non-Germans"
+PRS_register_nongermans_desc:0 ""
+PRS_sicherheitspolizei_in_the_factories:0 "Sicherheitspolizei in the Factories"
+PRS_sicherheitspolizei_in_the_factories_desc:0 ""
+PRS_reassure_the_landowners:0 "Reassure the Landowners"
+PRS_reassure_the_landowners_desc:0 ""
+PRS_our_anatomy_needs_corpses:0 "Our Anatomy needs Corpses"
+PRS_our_anatomy_needs_corpses_desc:0 ""
+PRS_nightwatches:0 "Nightwatches"
+PRS_nightwatches_desc:0 ""
+PRS_an_oath_to_wessel:0 "An oath to Wessel"
+PRS_an_oath_to_wessel_desc:0 ""
+PRS_united_front_against_the_workers:0 "United Front against the Workers"
+PRS_united_front_against_the_workers_desc:0 ""
+PRS_money_of_the_elites:0 "Money of the Elites"
+PRS_money_of_the_elites_desc:0 ""
+PRS_twoclass_citzenship:0 "Two-Class Citzenship"
+PRS_twoclass_citzenship_desc:0 ""
+PRS_expand_the_technische_nathifle:0 "Expand the Technische Nathifle"
+PRS_expand_the_technische_nathifle_desc:0 ""
+PRS_hang_the_traitors:0 "Hang the Traitors"
+PRS_hang_the_traitors_desc:0 ""
+PRS_look_outwards:0 "Look Outwards"
+PRS_look_outwards_desc:0 ""
+PRS_meet_with_thule:0 "Meet with Thule"
+PRS_meet_with_thule_desc:0 ""
+PRS_beat_up_the_polacks:0 "Beat up the Polacks"
+PRS_beat_up_the_polacks_desc:0 ""
+PRS_beat_up_the_commie_bastards:0 "Beat up the Commie Bastards"
+PRS_beat_up_the_commie_bastards_desc:0 ""
+PRS_brawl_with_the_bear:0 "Brawl with the Bear"
+PRS_brawl_with_the_bear_desc:0 ""
+PRS_over_the_rhine:0 "Over the Rhine"
+PRS_over_the_rhine_desc:0 ""
 #Economy
 PRS_prussian_economy:0 "프로이센 경제"
 PRS_prussian_economy_desc:0 "작은 프로이센은 독일 제국이 절정에 이를 당시 농부들과 융커들에게 이상적인 곳이었습니다. 이제 프로이센은 독일인들의 미래를 위한 전장이 되었습니다. 고국에서 추방당한 산업남작들을 이용해 프로이센의 산업적 잠재성을 성숙시켜야 합니다."
