@@ -147,6 +147,18 @@ cair_vertical_envelopment_doctrine:0 "수직포위 교리"
 
 cair_the_red_baron:0 "붉은 남작"
 
+### Theorist Minister
+mobile_warfare_theorist:0 "Mobile Warfare"
+supperior_firepower_theorist:0 "Superior Firepower"
+trench_warfare_theorist:0 "Trench Warfare"
+mass_assault_theorist:0 "Mass Assault"
+fleet_in_being_theorist:0 "Fleet in Being"
+trade_interdiction_theorist:0 "Trade Interdiction"
+base_strike_theorist:0 "Base Strike"
+strategic_destruction_theorist:0 "Strategic Destruction"
+battlefield_support_theorist:0 "Battlefield Support"
+operational_integrity_theorist:0 "Operational Integrity"
+
 cc_leader:0 "장군"
 fm_leader:0 "야전원수"
 navy_leader:0 "제독"
