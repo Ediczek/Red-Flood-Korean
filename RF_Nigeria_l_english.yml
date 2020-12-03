@@ -2,6 +2,9 @@
 #COUNTRY NAME#
 
 #PARTIES#
+SOK_reactionism_party:0 "소코토 술탄국 평의회"
+SOK_reactionism_party_long:0 "소코토 술탄국 평의회"
+
 NGA_vanguard_socialism_party:0 "FNS"
 NGA_libertarian_marxism_party:0 "FNS-LM"
 NGA_revolutionary_anarchism_party:0 "아나키스트파"
@@ -14,8 +17,6 @@ NGA_despotism_party:0 "나이지리아 군주주의파"
 NGA_reactionism_party:0 "북나이지리아 이슬람주의파"
 NGA_accelerationism_party:0 "나이지리아 기술당"
 
-SOK_reactionism_party:0 "소코토 술탄국 평의회"
-SOK_reactionism_party_long:0 "소코토 술탄국 평의회"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
