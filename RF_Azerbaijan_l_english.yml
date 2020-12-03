@@ -1,6 +1,31 @@
 ﻿l_english:
- 
+
 #PARTIES#
+
+AZR_vanguard_socialism_party:0 "Ordzhonikidze's Red Guard" 
+AZR_vanguard_socialism_party_long:0 "Krasnaya Gvardiya Ordzhonikidze" 
+AZR_libertarian_marxism_party:0 "Adalat"
+AZR_libertarian_marxism_party_long:0 "Adalat"
+AZR_revolutionary_anarchism_party:0 "Bandits"
+AZR_revolutionary_anarchism_party_long:0 "Bandits"
+AZR_revisionist_socialism_party:0 "Adalat"
+AZR_revisionist_socialism_party_long:0 "Adalat"
+AZR_social_democratism_party:0 "Hummet"
+AZR_social_democratism_party_long:0 "Hummet"
+AZR_liberalism_party:0 "Musavat"
+AZR_liberalism_party_long:0 "Musavat"
+AZR_conservatism_party:0 "Ittihad"
+AZR_conservatism_party_long:0 "Ittihad"
+AZR_right_authoritarianism_party:0 "British Collaborationists"
+AZR_right_authoritarianism_party_long:0 "British Collaborationists"
+AZR_despotism_party:0 "Azerbaijani Legion"
+AZR_despotism_party_long:0 "Azerbaijani Legion"
+AZR_reactionism_party:0 "Turkish Collaborationists"
+AZR_reactionism_party_long:0 "Turkish Collaborationists"
+AZR_accelerationism_party:0 "Agitators from Kavkaz"
+AZR_accelerationism_party_long:0 "Agitators from Kavkaz"
+
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
