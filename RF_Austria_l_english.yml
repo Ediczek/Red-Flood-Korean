@@ -2,89 +2,174 @@
 ####MAINT DESC####
 AUS_DESC_MENU:0 "대전쟁 직후 오스트리아-헝가리 제국이 붕괴하고 오스트리아는 합스부르크 군주국의 유일한 잔존국으로 남았습니다. 혼란으로의 퇴행에도, 굳건히 선 오스트리아군은 점령지 내 독일인들의 안전을 지켜냈습니다. 독일이 노동자 국가로 전락하고 그 혁명은 헝가리로 번졌으며, 집단 망상이 스스로를 프랑스라 일컫는 지금, 오스트리아는 적의로 가득한 급진 세력들에게 고립되었습니다. 황제 프란츠 페르디난트는 그의 자애에도 고집스럽고 경직된 인물입니다. 인민은 변화를 갈망하고 급진파는 사회의 핵심을 위협합니다. 하지만 무슨 일이 벌어지더라도, 분리되지도 나누어지지도 않는 오스트리아는 견뎌낼 것입니다."
 
-AUS_germany_desp:0 "도이체스 라이히"
-AUS_germany_desp_DEF:0 "도이체스 라이히"
-AUS_germany_desp_ADJ:0 "독일"
+AUS_germany_despotism:0 "Deutsches Reich"
+AUS_germany_despotism_DEF:0 "the Deutsches Reich"
+AUS_germany_despotism_ADJ:0 "German"
+AUS_germany_accelerationism:0 "German Federation"
+AUS_germany_accelerationism_DEF:0 "the German Federation"
+AUS_germany_accelerationism_ADJ:0 "German"
 
-AUS_germany_acc:0 "독일 연방"
-AUS_germany_acc_DEF:0 "독일 연방"
-AUS_germany_acc_ADJ:0 "독일"
+AUS_SGF_vanguard_socialism:0 "South German Federation"
+AUS_SGF_vanguard_socialism_DEF:0 "the South German Federation"
+AUS_SGF_vanguard_socialism_ADJ:0 "South German"
+AUS_SGF_libertarian_marxism:0 "South German Federation"
+AUS_SGF_libertarian_marxism_DEF:0 "the South German Federation"
+AUS_SGF_libertarian_marxism_ADJ:0 "South German"
+AUS_SGF_revolutionary_anarchism:0 "South German Federation"
+AUS_SGF_revolutionary_anarchism_DEF:0 "the South German Federation"
+AUS_SGF_revolutionary_anarchism_ADJ:0 "South German"
+AUS_SGF_revisionist_socialism:0 "South German Federation"
+AUS_SGF_revisionist_socialism_DEF:0 "the South German Federation"
+AUS_SGF_revisionist_socialism_ADJ:0 "South German"
+AUS_SGF_social_democratism:0 "South German Federation"
+AUS_SGF_social_democratism_DEF:0 "the South German Federation"
+AUS_SGF_social_democratism_ADJ:0 "South German"
+AUS_SGF_placeholderism:0 "South German Federation"
+AUS_SGF_placeholderism_DEF:0 "the South German Federation"
+AUS_SGF_placeholderism_ADJ:0 "South German"
+AUS_SGF_liberalism:0 "South German Federation"
+AUS_SGF_liberalism_DEF:0 "the South German Federation"
+AUS_SGF_liberalism_ADJ:0 "South German"
+AUS_SGF_conservatism:0 "South German Federation"
+AUS_SGF_conservatism_DEF:0 "the South German Federation"
+AUS_SGF_conservatism_ADJ:0 "South German"
+AUS_SGF_right_authoritarianism:0 "South German Federation"
+AUS_SGF_right_authoritarianism_DEF:0 "the South German Federation"
+AUS_SGF_right_authoritarianism_ADJ:0 "South German"
+AUS_SGF_despotism:0 "South German Federation"
+AUS_SGF_despotism_DEF:0 "the South German Federation"
+AUS_SGF_despotism_ADJ:0 "South German"
+AUS_SGF_reactionism:0 "South German Federation"
+AUS_SGF_reactionism_DEF:0 "the South German Federation"
+AUS_SGF_reactionism_ADJ:0 "South German"
+AUS_SGF_accelerationism:0 "South German Federation"
+AUS_SGF_accelerationism_DEF:0 "the South German Federation"
+AUS_SGF_accelerationism_ADJ:0 "South German"
 
-SGF_vanguard_socialism:0 "남독일 연방"
-SGF_vanguard_socialism_DEF:0 "남독일 연방"
-SGF_vanguard_socialism_ADJ:0 "남독일"
+AUS_alpine_reactionism:0 "Austro-Alpine Federation"
+AUS_alpine_reactionism_DEF:0 "the Austro-Alpine Federation"
+AUS_alpine_reactionism_ADJ:0 "Austro-Alpine"
 
-SGF_libertarian_marxism:0 "남독일 연방"
-SGF_libertarian_marxism_DEF:0 "남독일 연방"
-SGF_libertarian_marxism_ADJ:0 "남독일"
+AUS_empire_conservatism:0 "Imperial Austria"
+AUS_empire_conservatism_DEF:0 "Imperial Austria"
+AUS_empire_conservatism_ADJ:0 "Austrian"
+AUS_empire_czechia_conservatism:0 "Imperial Cisleithania"
+AUS_empire_czechia_conservatism_DEF:0 "Imperial Cisleithania"
+AUS_empire_czechia_conservatism_ADJ:0 "Imperial Cisleithanian"
+AUS_empire_danube_conservatism:0 "Imperial Federation of the Danube"
+AUS_empire_danube_conservatism_DEF:0 "the Imperial Federation of the Danube"
+AUS_empire_danube_conservatism_ADJ:0 "Imperial Federation of the Danube"
 
-SGF_revolutionary_anarchism:0 "남독일 연방"
-SGF_revolutionary_anarchism_DEF:0 "남독일 연방"
-SGF_revolutionary_anarchism_ADJ:0 "남독일"
+### Austrian Puppets ###
+CZE_AUS_protectorate_reactionism:0 "Bohemian-Moravian Protectorate"
+CZE_AUS_protectorate_reactionism_DEF:0 "the Bohemian-Moravia Protectorate"
+CZE_AUS_protectorate_reactionism_ADJ:0 "Bohemian-Moravian"
+CZE_AUS_protectorate_accelerationism:0 "Bohemian-Moravian Protectorate"
+CZE_AUS_protectorate_accelerationism_DEF:0 "the Bohemian-Moravia Protectorate"
+CZE_AUS_protectorate_accelerationism_ADJ:0 "Bohemian-Moravian"
+CZE_AUS_kingdom_social_democratism:0 "Kingdom of Bohemia-Moravia"
+CZE_AUS_kingdom_social_democratism_DEF:0 "the Kingdom of Bohemia-Moravia"
+CZE_AUS_kingdom_social_democratism_ADJ:0 "Bohemia-Moravian"
+CZE_AUS_kingdom_liberalism:0 "Kingdom of Bohemia-Moravia"
+CZE_AUS_kingdom_liberalism_DEF:0 "the Kingdom of Bohemia-Moravia"
+CZE_AUS_kingdom_liberalism_ADJ:0 "Bohemia-Moravian"
+CZE_AUS_kingdom_conservatism:0 "Kingdom of Bohemia-Moravia"
+CZE_AUS_kingdom_conservatism_DEF:0 "the Kingdom of Bohemia-Moravia"
+CZE_AUS_kingdom_conservatism_ADJ:0 "Bohemia-Moravian"
+CZE_AUS_kingdom_reactionism:0 "Kingdom of Bohemia-Moravia"
+CZE_AUS_kingdom_reactionism_DEF:0 "the Kingdom of Bohemia-Moravia"
+CZE_AUS_kingdom_reactionism_ADJ:0 "Bohemia-Moravian"
+CZE_AUS_czechoslovakia_protectorate_reactionism:0 "Czechoslovakian Protectorate"
+CZE_AUS_czechoslovakia_protectorate_reactionism_DEF:0 "the Czechoslovakian Protectorate"
+CZE_AUS_czechoslovakia_protectorate_reactionism_ADJ:0 "Czechoslovakian"
+CZE_AUS_czechoslovakia_protectorate_accelerationism:0 "Czechoslovakian Protectorate"
+CZE_AUS_czechoslovakia_protectorate_accelerationism_DEF:0 "the Czechoslovakian Protectorate"
+CZE_AUS_czechoslovakia_protectorate_accelerationism_ADJ:0 "Czechoslovakian"
+CZE_AUS_czechoslovakia_kingdom_social_democratism:0 "Kingdom of Czechoslovakia"
+CZE_AUS_czechoslovakia_kingdom_social_democratism_DEF:0 "the Kingdom of Czechoslovakia"
+CZE_AUS_czechoslovakia_kingdom_social_democratism_ADJ:0 "Czechoslovakian"
+CZE_AUS_czechoslovakia_kingdom_liberalism:0 "Kingdom of Czechoslovakia"
+CZE_AUS_czechoslovakia_kingdom_liberalism_DEF:0 "the Kingdom of Czechoslovakia"
+CZE_AUS_czechoslovakia_kingdom_liberalism_ADJ:0 "Czechoslovakian"
+CZE_AUS_czechoslovakia_kingdom_conservatism:0 "Kingdom of Czechoslovakia"
+CZE_AUS_czechoslovakia_kingdom_conservatism_DEF:0 "the Kingdom of Czechoslovakia"
+CZE_AUS_czechoslovakia_kingdom_conservatism_ADJ:0 "Czechoslovakian"
+CZE_AUS_czechoslovakia_kingdom_reactionism:0 "Kingdom of Czechoslovakia"
+CZE_AUS_czechoslovakia_kingdom_reactionism_DEF:0 "the Kingdom of Czechoslovakia"
+CZE_AUS_czechoslovakia_kingdom_reactionism_ADJ:0 "Czechoslovakian"
 
+SLO_AUS_protectorate_reactionism:0 "Slovakian Protectorate"
+SLO_AUS_protectorate_reactionism_DEF:0 "the Slovakian Protectorate"
+SLO_AUS_protectorate_reactionism_ADJ:0 "Slovakian"
+SLO_AUS_protectorate_accelerationism:0 "Slovakian Protectorate"
+SLO_AUS_protectorate_accelerationism_DEF:0 "the Slovakian Protectorate"
+SLO_AUS_protectorate_accelerationism_ADJ:0 "Slovakian"
 
-SGF_revisionist_socialism:0 "남독일 연방"
-SGF_revisionist_socialism_DEF:0 "남독일 연방"
-SGF_revisionist_socialism_ADJ:0 "남독일"
+YUG_AUS_protectorate_reactionism:0 "Yugoslavian Protectorate"
+YUG_AUS_protectorate_reactionism_DEF:0 "the Yugoslavian Protectorate"
+YUG_AUS_protectorate_reactionism_ADJ:0 "Yugoslavian"
+YUG_AUS_protectorate_accelerationism:0 "Yugoslavian Protectorate"
+YUG_AUS_protectorate_accelerationism_DEF:0 "the Yugoslavian Protectorate"
+YUG_AUS_protectorate_accelerationism_ADJ:0 "Yugoslavian"
+YUG_AUS_kingdom_reactionism:0 "Kingdom of Yugoslavia"
+YUG_AUS_kingdom_reactionism_DEF:0 "the Kingdom of Yugoslavia"
+YUG_AUS_kingdom_reactionism_ADJ:0 "Yugoslavian"
 
-SGF_social_democratism:0 "남독일 연방"
-SGF_social_democratism_DEF:0 "남독일 연방"
-SGF_social_democratism_ADJ:0 "남독일"
+CRO_AUS_protectorate_reactionism:0 "Croatian Protectorate"
+CRO_AUS_protectorate_reactionism_DEF:0 "the Croatian Protectorate"
+CRO_AUS_protectorate_reactionism_ADJ:0 "Croatian"
+CRO_AUS_protectorate_accelerationism:0 "Croatian Protectorate"
+CRO_AUS_protectorate_accelerationism_DEF:0 "the Croatian Protectorate"
+CRO_AUS_protectorate_accelerationism_ADJ:0 "Croatian"
 
-SGF_placeholderism:0 "남독일 연방"
-SGF_placeholderism_DEF:0 "남독일 연방"
-SGF_placeholderism_ADJ:0 "남독일"
+HUN_AUS_protectorate_reactionism:0 "Hungarian Protectorate"
+HUN_AUS_protectorate_reactionism_DEF:0 "the Hungarian Protectorate"
+HUN_AUS_protectorate_reactionism_ADJ:0 "Hungarian"
+HUN_AUS_protectorate_accelerationism:0 "Hungarian Protectorate"
+HUN_AUS_protectorate_accelerationism_DEF:0 "the Hungarian Protectorate"
+HUN_AUS_protectorate_accelerationism_ADJ:0 "Hungarian"
+HUN_AUS_kingdom_conservatism:0 "Kingdom of Hungary"
+HUN_AUS_kingdom_conservatism_DEF:0 "the Kingdom of Hungary"
+HUN_AUS_kingdom_conservatism_ADJ:0 "Hungarian"
 
-SGF_liberalism:0 "남독일 연방"
-SGF_liberalism_DEF:0 "남독일 연방"
-SGF_liberalism_ADJ:0 "남독일"
+SER_AUS_protectorate_reactionism:0 "Serbian Protectorate"
+SER_AUS_protectorate_reactionism_DEF:0 "the Serbian Protectorate"
+SER_AUS_protectorate_reactionism_ADJ:0 "Serbian"
+SER_AUS_protectorate_accelerationism:0 "Serbian Protectorate"
+SER_AUS_protectorate_accelerationism_DEF:0 "the Serbian Protectorate"
+SER_AUS_protectorate_accelerationism_ADJ:0 "Serbian"
+SER_AUS_kingdom_reactionism:0 "Kingdom of Serbia"
+SER_AUS_kingdom_reactionism_DEF:0 "the Kingdom of Serbia"
+SER_AUS_kingdom_reactionism_ADJ:0 "Serbian"
 
-SGF_conservatism:0 "남독일 연방"
-SGF_conservatism_DEF:0 "남독일 연방"
-SGF_conservatism_ADJ:0 "남독일"
+TRS_AUS_protectorate_reactionism:0 "Transylvanian Protectorate"
+TRS_AUS_protectorate_reactionism_DEF:0 "the Transylvanian Protectorate"
+TRS_AUS_protectorate_reactionism_ADJ:0 "Transylvanian"
+TRS_AUS_protectorate_accelerationism:0 "Transylvanian Protectorate"
+TRS_AUS_protectorate_accelerationism_DEF:0 "the Transylvanian Protectorate"
+TRS_AUS_protectorate_accelerationism_ADJ:0 "Transylvanian"
+TRS_AUS_kingdom_reactionism:0 "Kingdom of Transylvania"
+TRS_AUS_kingdom_reactionism_DEF:0 "the Kingdom of Transylvania"
+TRS_AUS_kingdom_reactionism_ADJ:0 "Transylvanian"
 
-SGF_right_authoritarianism:0 "남독일 연방"
-SGF_right_authoritarianism_DEF:0 "남독일 연방"
-SGF_right_authoritarianism_ADJ:0 "남독일"
+SWI_AUS_protectorate_reactionism:0 "Swiss Protectorate"
+SWI_AUS_protectorate_reactionism_DEF:0 "the Swiss Protectorate"
+SWI_AUS_protectorate_reactionism_ADJ:0 "Swiss"
+SWI_AUS_protectorate_accelerationism:0 "Swiss Protectorate"
+SWI_AUS_protectorate_accelerationism_DEF:0 "the Swiss Protectorate"
+SWI_AUS_protectorate_accelerationism_ADJ:0 "Swiss"
 
-SGF_despotism:0 "남독일 연방"
-SGF_despotism_DEF:0 "남독일 연방"
-SGF_despotism_ADJ:0 "남독일"
+RHI_AUS_protectorate_reactionism:0 "Rhenish Protectorate"
+RHI_AUS_protectorate_reactionism_DEF:0 "the Rhenish Protectorate"
+RHI_AUS_protectorate_reactionism_ADJ:0 "Rhenish"
+RHI_AUS_protectorate_accelerationism:0 "Rhenish Protectorate"
+RHI_AUS_protectorate_accelerationism_DEF:0 "the Rhenish Protectorate"
+RHI_AUS_protectorate_accelerationism_ADJ:0 "Rhenish"
 
-SGF_reactionism:0 "남독일 연방"
-SGF_reactionism_DEF:0 "남독일 연방"
-SGF_reactionism_ADJ:0 "남독일"
-
-SGF_accelerationism:0 "남독일 연방"
-SGF_accelerationism_DEF:0 "남독일 연방"
-SGF_accelerationism_ADJ:0 "남독일"
-
-ACRO_despotism:0 "크로아티아 보호령"
-ACRO_despotism_DEF:0 "크로아티아 보호령"
-ACRO_despotism_ADJ:0 "크로아티아"
-
-AYUG_reactionism:0 "유고슬라비아 왕국"
-AYUG_reactionism_DEF:0 "유고슬라비아 왕국"
-AYUG_reactionism_ADJ:0 "유고슬라비아"
-
-ACRO_accelerationism:0 "크로아티아 보호령"
-ACRO_accelerationism_DEF:0 "크로아티아 보호령"
-ACRO_accelerationism_ADJ:0 "크로아티아"
-
-AHUN_reactionism:0 "헝가리 보호령"
-AHUN_reactionism_DEF:0 "헝가리 보호령"
-AHUN_reactionism_ADJ:0 "헝가리"
-AHUN_accelerationismm:0 "헝가리 보호령"
-AHUN_accelerationism_DEF:0 "헝가리 보호령"
-AHUN_accelerationism_ADJ:0 "헝가리"
-
-AHUN_conservatism:0 "헝가리 왕국"
-AHUN_conservatism_DEF:0 "헝가리 왕국"
-AHUN_conservatism_ADJ:0 "헝가리"
 #PARTIES#
 AUS_vanguard_socialism_party:0 "KPO"
 AUS_libertarian_marxism_party:0 "LS"
-AUS_revisionist_socialism_party:0 "RS"
+AUS_revolutionary_anarchism_party:0 "LS"
 AUS_revisionist_socialism_party:0 "RS"
 AUS_social_democratism_party:0 "SPO"
 AUS_placeholderism_party:0 "SL"
@@ -114,6 +199,9 @@ AUS_britainlove:0 "오스트리아의 외교"
 AUS_reactionaryscum:0 "반동 쓰레기"
 
 #CUSTOM TOOLTIPS AND FLAGS#
+AUS_civilwar:0 "§RThe civil war is raging.§!"
+AUS_socialistswon:0 "§RThe Reds won.§!"
+AUS_conservativeswon:0 "§RThe Conservatives won.§!"
 
 #DECISIONS (1.5 Update)#
 AUS_hitler_speeches:0 "히틀러의 연설"
@@ -132,172 +220,128 @@ surrender:0 "군을 동원해 정부를 뒤엎는다."
 
 #FOCUSES#
 AUS_theworkersfront:0 "노동자전선"
-
 AUS_theworkersfront_desc:0 ""
 
 AUS_weakenthegovernment:0 "정부의 약화"
-
 AUS_weakenthegovernment_desc:0 "공산당이 지금까지 금지되어왔다고 해서 그들이 권력을 전혀 가지지 못했다는 건 아닙니다. 우리는 인민 혁명을 준비하기 위해 나서야 합니다."
-
 AUS_weakenthegovernment_tooltip:0 "빨갱이들이 상황을 그들 맘대로 다룰지도 모른다..."
 
 AUS_parliamentaryconflict:0 "의회에서의 충돌"
-
 AUS_parliamentaryconflict_desc:0 "오스트리아 의회는 혼란에 빠졌습니다. 오토 폰 합스부르크는 오스트리아 국민을 단결시킬 능력이 되지 못합니다. 충돌은 불가피합니다."
 
 AUS_powertothemoderates:0 "중도파에게 힘을"
-
 AUS_powertothemoderates_desc:0 "세상이 점점 더 극단적이고 적대적으로 변해감에도, 오스트리아는 자유의 굳건한 기둥으로 서있습니다. 우리는 폭압적인 이념들에 굴복하지 않을 것입니다! 정국이 다룰 수 없는 방향으로 빠르게 변합니다. 우리는 양쪽의 극단주의자들을 거부하고 더 밝은 미래를 준비해야 합니다."
-
 AUS_powertothemoderates_tooltip:0 "빨갱이들이 좋아하지 않을 것입니다..."
 
 AUS_unitethepeople:0 "인민 단결"
-
 AUS_unitethepeople_desc:0 "우리가 이겼습니다! 이제... 반대파를 처리할 때가 됐습니다."
 
 AUS_pangermanicsupremacy:0 "범독일 패권"
-
 AUS_pangermanicsupremacy_desc:0 "오스트리아인과 독일인은 결코 별개의 민족이 될 수 없었습니다. 빨갱이들이 북방을 점유하면서, 우리나라는 많은 저명한 독일 지휘관들에게 안전한 피난처가 되었습니다. 형제들을 해방하는 것은 이제 우리에게 달려있습니다."
 
 AUS_strengthentheultranationalists:0 "국수주의자 증강"
-
 AUS_strengthentheultranationalists_desc:0 "공산주의의 위협은 오래전부터 오스트리아인들의 마음을 타락시켰습니다. 어려운 시기에는 국가의 온전성을 지키기 위해 강력한 정부가 필요합니다. 엥겔베르트 돌푸스의 강력한 리더십으로 우리는 예전의 영광을 쟁취할 것입니다!"
 
 AUS_seekbritishprotection:0 "영국의 보호를 청하다"
-
 AUS_seekbritishprotection_desc:0 "우리와 영국은 이념적 차이가 있지만, 많은 공공의 적 또한 있습니다. 그리고 영국은 그들의 이익을 위해서라면 독재 정권을 지지하는 데에 전혀 거리낌이 없습니다. 외세의 침략에 대비해 그들이 우리를 지지하도록 설득할 수 있을지도 모릅니다."
 
 AUS_austriannationalistsupremacy:0 "오스트리아 민족주의자들의 우위"
-
 AUS_austriannationalistsupremacy_desc:0 "당연하게도, 민족주의자들의 승리는 민족주의 정부를 낳습니다. 돌푸스는 오스트리아의 영향력을 확대하는 사명을 멈추지 않을 것입니다."
 
 AUS_economicrehabilitation:0 "경제 재건"
-
 AUS_economicrehabilitation_desc:0 "보수당의 계획을 통해, 우리는 대출의 회수와 국민에 대한 긴축 등 몇 가지 절차를 거쳐 경제를 되살리고 튼튼하게 할 수 있을 것입니다."
 
 AUS_pactwithprussia:0 "프로이센과의 협약"
-
 AUS_pactwithprussia_desc:0 "프로이센-오스트리아 전쟁이 "형제전쟁"으로 불리는 이유가 여기 있습니다. 오스트리아와 프로이센은 독일을 파괴하고자 하는 자들에게 대항하는 천부적인 동맹입니다. 지금, 그 어느 때보다도, 우리는 독일 민족을 해방시키기 위해서 함께 일해야 할 필요가 있습니다."
 
 AUS_rousingspeeches:0 "열렬한 연설들"
-
 AUS_rousingspeeches_desc:0 "아돌프 히틀러는 최고의 대중 연설가일지도 모릅니다. 그의 연설은 때가 되면 사람들을 규합시킬 수 있으며, 우리는 조국을 방어하기 위해선 서둘러야 합니다."
 
 AUS_defendreactionaryideas:0 "반동적 이념들을 지킨다"
-
 AUS_defendreactionaryideas_desc:0 "프랑스는 분명히 어떠한 형태의 집단 망상에 빠져있습니다. 그들이 소위 "반동주의자"라고 부르는 자들에 대해 혐오하는 것은 우리의 안정에 대한 위협입니다."
 
 AUS_rommelsfortifications:0 "롬멜의 요새화"
-
 AUS_rommelsfortifications_desc:0 "알프스 산맥을 장악한 이후엔 거대한 방어 자산이 생깁니다. 프랑스와 독일은 결국은 침략해올 것이 확실하며, 요새화를 관리하는 롬멜과 함께라면 알프스 산맥은 천혜의 장벽 역할을 할 것입니다."
-
 AUS_rommelsfortifications_tooltip:0 "§Y프랑스와 독일§! 국경이 강력하게 요새화될 것입니다."
 
 AUS_stickwithschuschnigg:0 "슈쉬니크와 함께한다"
 AUS_stickwithschuschnigg_desc:0 "쿠르트 슈쉬니크를 통해, 우리의 막강한 오스트리아는 위대함을 목표로 정진할 수 있을 것입니다. 그를 통해, 쌍두수리는 이전의 소유물들 위로 날개를 뻗고, 더욱 고상한 목표들을 향해서도 나아갈 수 있을 것입니다!"
 
 AUS_reactionarysupremacy:0 "반동주의자들의 우위"
-
 AUS_reactionarysupremacy_desc:0 "오스트리아가 생존을 바란다면 군주제와 구질서는 버틸 수 없습니다. 오스트리아의 쌍두수리는 신질서, 즉 중도파의 반동과 건전함의 상징인 히틀러의 질서 하에 다시 날아오를 것입니다."
 
 AUS_sticktoourvalues:0 "우리식 가치 고수"
-
 AUS_sticktoourvalues_desc:0 "우리나라는 프랑스와 독일 모두에 대해 큰 의심을 갖고 있지만, 급진적인 요소들이 나라를 위험에 빠뜨리는 것은 용납할 수 없습니다. 민주주의를 지향하는 것이 더 안전한 오스트리아를 지향하는 것입니다."
 
 AUS_paramillitarydivisions:0 "준군사조직 사단들"
-
 AUS_paramillitarydivisions_desc:0 "보국단과 그 동료들은 지금까지 잘 해왔지만, 이제는 그런 영웅과 애국자로 이뤄진 대규모 무리들을 실제로 군대에 징집할 때가 왔습니다."
 
 AUS_retakebavaria:0 "바이에른 수복"
-
 AUS_retakebavaria_desc:0 "독일인들은 빨갱이가 되었을 때 자신들의 가치를 배반했습니다. 바이에른 이민자들이 오스트리아로 대거 유입된 것은 독일 민족의 자기 해방을 위한 우리의 필요를 증명하는 것입니다. 남독일인들은 다시 한번 단결할 것입니다."
 
 AUS_consolidatethealps:0 "알프스 강고화"
-
 AUS_consolidatethealps_desc:0 "스위스는 과거 독일의 영향권의 일부였지만, 지금은 자신들의 산맥 안에서 웅크릴 뿐입니다. 알프스 산맥은 방어에 관한 한 정말로 어마어마한 자산이며, 우리에게 유용할 것은 자명한 일입니다."
 
 AUS_influenceczechoslovakia:0 "체코슬로바키아 영향"
-
 AUS_influenceczechoslovakia_desc:0 ""
 
 AUS_conquerczechoslovakia:0 "체코슬로바키아 정복"
-
 AUS_conquerczechoslovakia_desc:0 ""
 
 AUS_circleofsteel:0 "강철 조약"
-
 AUS_circleofsteel_desc:0 ""
 
 AUS_challangeyugoslavia:0 "유고슬로바키아 도전"
-
 AUS_challangeyugoslavia_desc:0 ""
 
 AUS_seekfrenchprotection:0 "프랑스의 보호를 모색한다"
-
 AUS_seekfrenchprotection_desc:0 ""
 
 AUS_thequestionofwheat:0 "밀 문제"
-
 AUS_thequestionofwheat_desc:0 ""
 
 AUS_learnfromescadron:0 "에스카드롱에게서의 학습"
-
 AUS_learnfromescadron_desc:0 ""
 
 AUS_gloriousvictory:0 "영광스러운 승리"
-
 AUS_gloriousvictory_desc:0 ""
 
 AUS_prewarindustry:0 "전전 산업"
-
 AUS_prewarindustry_desc:0 ""
 
 AUS_theantifrenchwall:0 "대 프랑스 방벽"
-
 AUS_theantifrenchwall_desc:0 ""
-
 AUS_antifrenchwall_tooltip:0 "§Y프랑스§! 국경이 §Y완전히§! 요새화될 것입니다"
 
-
 AUS_whateverthecostmaybe:0 "무슨 대가를 치르더라도"
-
 AUS_whateverthecostmaybe_desc:0 ""
 
 AUS_finishofftheswiss:0 "스위스를 끝장낸다"
-
 AUS_finishofftheswiss_desc:0 "우리는 스위스를 신뢰할 수 없다는 것을 잘 압니다. 수 세기 동안의 중립은 그들을 게으르고, 꿈도 야망도 없는 상태로 만들었을 뿐이고, 프랑스와 독일의 공격에 노출되게 만들었습니다. 우리는 정복당한 스위스 민족의 전략적 이점을 깨달았습니다. 그들은 이기기 힘들다는 것을 보여서는 안됩니다!"
 
 AUS_theantigermanwall:0 "대 독일 방벽"
-
 AUS_theantigermanwall_desc:0 ""
 AUS_antigermanwall_tooltip:0 "§Y독일§! 국경이 §Y완전히§! 요새화될 것입니다"
 
 AUS_joinourbrothers:0 "우리의 형제들과 함께한다"
-
 AUS_joinourbrothers_desc:0 ""
 
 AUS_callforearlyelections:0 "조기 총선의 실시"
-
 AUS_callforearlyelections_desc:0 "조기 총선을 실시할 시간이 슈쉬니크에게 다가오고 있고, 우리가 단독정부를 구성하지 않은 매 순간마다 가능한 한 빨리 연립정부를 설립해야 할 필요가 생겨나므로, 결국 완전한 무정부 상태에 빠질 가능성이 더 높아집니다!"
 
 AUS_emergencyconscription:0 "긴급 징집"
-
 AUS_emergencyconscription_desc:0 ""
 
 AUS_glorytotherepublic:0 "공화국에 영광 있으라!"
-
 AUS_glorytotherepublic_desc:0 "공화국에 영광 있으라-오늘날 군주제는 부적절하고, 우리 모두는 그 결점을 보았으며, 공산주의자들의 쿠데타 시도를 보아왔습니다. 또, 우리는 사회의 더 급진적인 요소들을 신뢰할 수 없습니다. 우리는 국민의 이익을 위해서 제 기능을 하고 장엄한 공화국을 만들기 위해 그리스의 공화정들, 로마, 그리고 심지어는 미합중국을 참고해야 합니다."
 
 AUS_somethinggreater:0 "크고 아름다운 무언가!"
-
 AUS_somethinggreater_desc:0 ""
 
 AUS_declarationofneutrality:0 "중립의 선포"
-
 AUS_declarationofneutrality_desc:0 ""
 
 AUS_unrelentingprogress:0 "끊임없는 진보"
-
 AUS_unrelentingprogress_desc:0 ""
 
 AUS_czesup:0 "오스트리아의 지원"
@@ -307,121 +351,97 @@ AUS_huntorture:0 "오스트리아의 압박"
 AUS_huntorturetwo:0 "저항하는 오스트리아의 압박"
 
 AUS_industrializethenorth:0 "북부의 공업화"
-
 AUS_industrializethenorth_desc:0 ""
 
 AUS_militarizethesouth:0 "남부의 무장"
-
 AUS_militarizethesouth_desc:0 ""
 
 AUS_stickwithschuschnigg:0 "슈쉬니크와 함께한다"
-
 AUS_stickwithschuschnigg_desc:0 ""
 
 AUS_industrializethesouth:0 "남부의 공업화"
-
 AUS_industrializethesouth_desc:0 ""
 
 AUS_militarizethenorth:0 "북부의 무장"
-
 AUS_militarizethenorth_desc:0 ""
 
 AUS_stabilizethecountry:0 "나라 안정화"
-
 AUS_stabilizethecountry_desc:0 "나라를 안정시키다-쿠데타 시도, 내전, 그리고 심지어는 정부 내 반동주의 중도파들에 의해 잠재적인 쿠데타 혐의까지 일어난 뒤, 우리는 나라의 균열을 보수하고 안정과 정상 상태를 다시 왕국에 가져오기 위한 대규모 조치들을 취해야 합니다."
 
 AUS_electavonhabsburg:0 "합스부르크를 국왕으로!"
-
 AUS_electavonhabsburg_desc:0 ""
 
 AUS_theczechsmustsubmitt:0 "체코인들은 복종해야만 한다!"
-
 AUS_theczechsmustsubmitt_desc:0 ""
 
 AUS_glorytothefatherland:0 "조국에 영광을!"
-
 AUS_glorytothefatherland_desc:0 ""
 
 AUS_brotherstothenorth:0 "북쪽의 형제들"
-
 AUS_brotherstothenorth_desc:0 ""
 
 AUS_treatywiththeitalians:0 "이탈리아와의 조약"
-
 AUS_treatywiththeitalians_desc:0 ""
 
 AUS_influencehungary:0 "헝가리에 대한 영향"
-
 AUS_influencehungary_desc:0 ""
 
 AUS_strikethereds:0 "빨갱이들을 쳐라!"
-
 AUS_strikethereds_desc:0 ""
 
-
-
-
 #EVENTS#
-austria.7.t:0 "피투성이 학살" 
-
-austria.7.d:0 "전쟁과 그 여파로 제국의 많은 부분을 잃은 후 군주의 지위는 많은 정치권에서 큰 논쟁의 대상이 되었습니다. \n 황제 오토 프란츠가 자신의 가문 일원들과 오스트리아 사회의 엘리트들, 그리고 오스트리아의 미래 속에서 왕정이 어디에 위치하는지를 논의하기 위해 기독사회당의 선도적인 파벌을 부른 것은 이러한 강도 높은 논의와 반대되는 것이였습니다. \n 두 시간 동안의 건조한 대화가 지나가고 난 후, 복도 정문에 배정된 두 명의 근위대가 난입하여 통계학자인 브레이스키가 전하는 이야기를 중단시켰습니다. 뒤이어 일어난 일은 우리 사회의 근간을 강타했습니다. \n 근위대 중 한 명이 앉아 있는 합스부르크 가문원에게 총을 쏘았고, 다른 한 명은 문을 잠그고 대학살에서 도망치는 이에게 총기를 난사했습니다. \n 총격은 몇 분 안에 대응한 지역 경찰들에게 다른 경비원들이 알려주었습니다. 두 명의 총잡이들은 그들의 위치를 확고히 했고 급하게 전개한 포위망 속에 갇혔습니다. 경찰이 복도에 침입하여 무장대원들을 무력화시킬 수 있을 때쯤에는 여러 명의 무고한 민간인들이 십자 포화에 휘말리거나 잘못 식별되었습니다. \n 오스트리아에 대한 합스부르크의 지배를 물리적으로 끝내려는 시도에도 불구하고, 세 명의 왕족들은 무장대원들의 분노를 피했습니다. \n 오토 대공, 로베르트, 여대공 아델하이트. 이 세 사람은 보호를 위해 재빨리 고국으로 옮겨졌습니다. 왕실의 시체가 홀 밖으로 반출되기도 전에, 많은 사람들이 자신들이 보기에 책임있다고 생각하는 사람들을 손가락질하기 시작했고 죽은 왕족들은 부활한 군주론자들에 의해 순교자가 되었습니다.\n 모든 기치 하의 오스트리아인들은 합스부르크 왕실의 죽음에 대해 다른 사람들에게 책임을 전가하며 대부분의 사람들은 근위병들이 공산주의에 동조했다는 의혹에 초점을 맞추고 있는 반면 많은 좌파들은 보국단이 사주했을 가능성을 의심하고 있습니다. \n 슈쉬니크는 막강한 비상권한을 국가적인 비극으로 정당화하였으며 이에 우파는 기세등등해졌으며 동시에 좌파의 분노를 샀습니다. 수상이 정치 장악을 강화한 것에 대한 대응으로 사회주의자들은 연방 의회를 떠났고 붉은 여단은 새로 수립된 슈쉬니크 정권에 맞서 싸우기 위해 거리로 나섰습니다. \n 이 분열된 시기에 오스트리아인들이 모두 동의할 수 있는 것이 있다면 그것은 황제와 함께 평화가 죽었다는 것입니다." 
-
-austria.7.a:0 "국민들이 동요하고 있다."
-
-austria.8.t:0 "피투성이 학살" 
-
-austria.8.d:0 "전쟁과 그 여파로 제국의 많은 부분을 잃은 후 군주의 지위는 많은 정치권에서 큰 논쟁의 대상이 되었습니다. \n 황제 오토 프란츠가 자신의 가문 일원들과 오스트리아 사회의 엘리트들, 그리고 오스트리아의 미래 속에서 왕정이 어디에 위치하는지를 논의하기 위해 기독사회당의 선도적인 파벌을 부른 것은 이러한 강도 높은 논의와 반대되는 것이였습니다. \n 두 시간 동안의 건조한 대화가 지나가고 난 후, 복도 정문에 배정된 두 명의 근위대가 난입하여 통계학자인 브레이스키가 전하는 이야기를 중단시켰습니다. 뒤이어 일어난 일은 우리 사회의 근간을 강타했습니다. \n 근위대 중 한 명이 앉아 있는 합스부르크 가문원에게 총을 쏘았고, 다른 한 명은 문을 잠그고 대학살에서 도망치는 이에게 총기를 난사했습니다. \n 총격은 몇 분 안에 대응한 지역 경찰들에게 다른 경비원들이 알려주었습니다. 두 명의 총잡이들은 그들의 위치를 확고히 했고 급하게 전개한 포위망 속에 갇혔습니다. 경찰이 복도에 침입하여 무장대원들을 무력화시킬 수 있을 때쯤에는 여러 명의 무고한 민간인들이 십자 포화에 휘말리거나 잘못 식별되었습니다. \n 오스트리아에 대한 합스부르크의 지배를 물리적으로 끝내려는 시도에도 불구하고, 세 명의 왕족들은 무장대원들의 분노를 피했습니다. \n 오토 대공, 로베르트, 여대공 아델하이트. 이 세 사람은 보호를 위해 재빨리 고국으로 옮겨졌습니다. 왕실의 시체가 홀 밖으로 반출되기도 전에, 많은 사람들이 자신들이 보기에 책임있다고 생각하는 사람들을 손가락질하기 시작했고 죽은 왕족들은 부활한 군주론자들에 의해 순교자가 되었습니다.\n 모든 기치 하의 오스트리아인들은 합스부르크 왕실의 죽음에 대해 다른 사람들에게 책임을 전가하며 대부분의 사람들은 근위병들이 공산주의에 동조했다는 의혹에 초점을 맞추고 있는 반면 많은 좌파들은 보국단이 사주했을 가능성을 의심하고 있습니다. \n 슈쉬니크는 막강한 비상권한을 국가적인 비극으로 정당화하였으며 이에 우파는 기세등등해졌으며 동시에 좌파의 분노를 샀습니다. 수상이 정치 장악을 강화한 것에 대한 대응으로 사회주의자들은 연방 의회를 떠났고 붉은 여단은 새로 수립된 슈쉬니크 정권에 맞서 싸우기 위해 거리로 나섰습니다. \n 이 분열된 시기에 오스트리아인들이 모두 동의할 수 있는 것이 있다면 그것은 황제와 함께 평화가 죽었다는 것입니다."
-
-austria.8.a:0 "빨갱이들을 완전히 내쫓을 시간이다"
-
-austria.9.t:0 "빨갱이들이 사회주의 국가를 선언하다" 
-
-austria.9.d:0 "50명 이상의 경찰이 그라츠에서 인부들에 의해 살해당하면서 봉기는 새로운 국면에 다다랐습니다. 돌푸스가 가혹한 보복을 명령하면서 다수의 저명한 공산주의 지도자들이 체포되었습니다. 사태의 고조를 지켜본 빌헬름 라이히는 이를 호기로 활용하며 모든 노동자들의 봉기를 부르짖고 있습니다."
-
-austria.9.a:0 "빨갱이들을 완전히 내쫓을 시간이다."
-
 austria.coup.t:0 "오스트리아 의회의 자기파괴" 
-
 austria.coup.d:0 "이번 선거에서 조국전선이 거둔 성공은 돌푸스가 오스트리아 정부 전체를 완전히 장악하고 있음을 뜻했습니다. 사회민주당은 패하고 공산주의자들은 독일로 도망쳤으며, 보수주의자들은 우리와 함께 하거나 공개적으로 말하는 것을 두려워합니다. 이것이 의미하는 것은 돌푸스가 마침내 그가 항상 원했던 것을 얻을 수 있는 기회를 가지게 되었다는 것입니다. 바로 극단적인 오스트리아 말입니다. \n 오늘 아침, "국민과 제국의 고난을 치유하는 법"이라는 개정안이 도입되어 정부를 근본적으로 개혁하게 되었습니다. 그것은 국회에서 재의결될 때까지 적어도 4년 동안 총리에게 비상권을 주도록 하는 헌법 개정안이였습니다. 투표는 거의 만장일치로 그 법에 찬성했고, 이후 첫 번째 조치로 돌푸스는 선거를 협동주의적으로 새롭게 대체했고, 이는 향후 확장될 것입니다. 지금, 오스트리아에서는 민주주의가 죽었습니다. 조국전선이 집권당으로 군림하면서 새로운 시대가 시작됐습니다. 그것이 시대의 시험을 받을지 아닌지는 지켜봐야 할 것입니다."
-
 austria.coup.a:0 "오랜 잿더미에서 새 나라가 일어나리라"
 
 austria.1.t:0 "프란츠 페르디난트가 회의를 소집하다" 
-
 austria.1.d:0 "오스트리아에서 정치상황의 저항이 고조되는 것을 보고, 황제 프란츠 페르디난트는 오스트리아 의회 내의 반항적인 목소리를 토의하고 해결할 목적으로 왕족과 저명한 정치인으로 구성된 회의를 소집했습니다."
-
 austria.1.a:0 "그들에게 행운이 따르길!"
 
+austria.2.t:0 "The Revolt, put down!"
+austria.2.d:0 "Miscontent with the current government had reached it's maxima and we had fallen to civil war, but today all the bloodshed has ended as the leaders of the revolt have been captured and their paramilitaries disbanded."
+austria.2.a:0 "Peace Reigns!"
+
+austria.3.t:0 "Hmmm you're a stinky AI, atleast only an AI should see this tee hee"
+austria.3.d:0 "Haha if you're not an AI, what if... we kissed behind the Parlamentsgebäude, haha, no... unless? no, haha. but what if?...\n\nAnyway, to more serious business the AUS should get all ASC controlled states and then AUS should change to the ideology of the ASC, at least thats what i think should happen, like i coded it like that to happen, if it didn't happen then i guess im a failure of a dev, bye."
+austria.3.a:0 "REPORT THIS AS A BUG"
+
+austria.4.t:0 "Anschluss Referendum" 
+austria.4.d:0 "Our relationship with [GER.GetNameDef] has always been a tender one, now more than ever. As our governments are now aligned along the same path, a referendum has been called to decide upon our future, as many of our people are clamouring for unification with our northern brothers, to join the torchbearer of the revolution and to be at the vanguard of the liberation of the workers of the world. But there does exist an equal yet opposite voice decrying the unification, calling it an attack on Austrian autonomy and a betrayal of the socialist principles of self-determination, and instead advocating for solidarity and cooperation with [GER.GetNameDef], to fight in the struggle for peoples liberation!\nWhat will the referendums outcome be?"
+austria.4.a:0 "Our place is in [GER.GetNameDef], prepare the anschluss."
+austria.4.b:0 "We shall maintain our independence, and work in solidarity!"
+
+austria.7.t:0 "빨갱이 학살" 
+austria.7.d:0 "전쟁과 그 여파로 제국의 많은 부분을 잃은 후 군주의 지위는 많은 정치권에서 큰 논쟁의 대상이 되었습니다. \n 황제 오토 프란츠가 자신의 가문 일원들과 오스트리아 사회의 엘리트들, 그리고 오스트리아의 미래 속에서 왕정이 어디에 위치하는지를 논의하기 위해 기독사회당의 선도적인 파벌을 부른 것은 이러한 강도 높은 논의와 반대되는 것이였습니다. \n 두 시간 동안의 건조한 대화가 지나가고 난 후, 복도 정문에 배정된 두 명의 근위대가 난입하여 통계학자인 브레이스키가 전하는 이야기를 중단시켰습니다. 뒤이어 일어난 일은 우리 사회의 근간을 강타했습니다. \n 근위대 중 한 명이 앉아 있는 합스부르크 가문원에게 총을 쏘았고, 다른 한 명은 문을 잠그고 대학살에서 도망치는 이에게 총기를 난사했습니다. \n 총격은 몇 분 안에 대응한 지역 경찰들에게 다른 경비원들이 알려주었습니다. 두 명의 총잡이들은 그들의 위치를 확고히 했고 급하게 전개한 포위망 속에 갇혔습니다. 경찰이 복도에 침입하여 무장대원들을 무력화시킬 수 있을 때쯤에는 여러 명의 무고한 민간인들이 십자 포화에 휘말리거나 잘못 식별되었습니다. \n 오스트리아에 대한 합스부르크의 지배를 물리적으로 끝내려는 시도에도 불구하고, 세 명의 왕족들은 무장대원들의 분노를 피했습니다. \n 오토 대공, 로베르트, 여대공 아델하이트. 이 세 사람은 보호를 위해 재빨리 고국으로 옮겨졌습니다. 왕실의 시체가 홀 밖으로 반출되기도 전에, 많은 사람들이 자신들이 보기에 책임있다고 생각하는 사람들을 손가락질하기 시작했고 죽은 왕족들은 부활한 군주론자들에 의해 순교자가 되었습니다.\n 모든 기치 하의 오스트리아인들은 합스부르크 왕실의 죽음에 대해 다른 사람들에게 책임을 전가하며 대부분의 사람들은 근위병들이 공산주의에 동조했다는 의혹에 초점을 맞추고 있는 반면 많은 좌파들은 보국단이 사주했을 가능성을 의심하고 있습니다. \n 슈쉬니크는 막강한 비상권한을 국가적인 비극으로 정당화하였으며 이에 우파는 기세등등해졌으며 동시에 좌파의 분노를 샀습니다. 수상이 정치 장악을 강화한 것에 대한 대응으로 사회주의자들은 연방 의회를 떠났고 붉은 여단은 새로 수립된 슈쉬니크 정권에 맞서 싸우기 위해 거리로 나섰습니다. \n 이 분열된 시기에 오스트리아인들이 모두 동의할 수 있는 것이 있다면 그것은 황제와 함께 평화가 죽었다는 것입니다." 
+austria.7.a:0 "국민들이 동요하고 있다."
+
+austria.8.t:0 "빨갱이 학살" 
+austria.8.d:0 "전쟁과 그 여파로 제국의 많은 부분을 잃은 후 군주의 지위는 많은 정치권에서 큰 논쟁의 대상이 되었습니다. \n 황제 오토 프란츠가 자신의 가문 일원들과 오스트리아 사회의 엘리트들, 그리고 오스트리아의 미래 속에서 왕정이 어디에 위치하는지를 논의하기 위해 기독사회당의 선도적인 파벌을 부른 것은 이러한 강도 높은 논의와 반대되는 것이였습니다. \n 두 시간 동안의 건조한 대화가 지나가고 난 후, 복도 정문에 배정된 두 명의 근위대가 난입하여 통계학자인 브레이스키가 전하는 이야기를 중단시켰습니다. 뒤이어 일어난 일은 우리 사회의 근간을 강타했습니다. \n 근위대 중 한 명이 앉아 있는 합스부르크 가문원에게 총을 쏘았고, 다른 한 명은 문을 잠그고 대학살에서 도망치는 이에게 총기를 난사했습니다. \n 총격은 몇 분 안에 대응한 지역 경찰들에게 다른 경비원들이 알려주었습니다. 두 명의 총잡이들은 그들의 위치를 확고히 했고 급하게 전개한 포위망 속에 갇혔습니다. 경찰이 복도에 침입하여 무장대원들을 무력화시킬 수 있을 때쯤에는 여러 명의 무고한 민간인들이 십자 포화에 휘말리거나 잘못 식별되었습니다. \n 오스트리아에 대한 합스부르크의 지배를 물리적으로 끝내려는 시도에도 불구하고, 세 명의 왕족들은 무장대원들의 분노를 피했습니다. \n 오토 대공, 로베르트, 여대공 아델하이트. 이 세 사람은 보호를 위해 재빨리 고국으로 옮겨졌습니다. 왕실의 시체가 홀 밖으로 반출되기도 전에, 많은 사람들이 자신들이 보기에 책임있다고 생각하는 사람들을 손가락질하기 시작했고 죽은 왕족들은 부활한 군주론자들에 의해 순교자가 되었습니다.\n 모든 기치 하의 오스트리아인들은 합스부르크 왕실의 죽음에 대해 다른 사람들에게 책임을 전가하며 대부분의 사람들은 근위병들이 공산주의에 동조했다는 의혹에 초점을 맞추고 있는 반면 많은 좌파들은 보국단이 사주했을 가능성을 의심하고 있습니다. \n 슈쉬니크는 막강한 비상권한을 국가적인 비극으로 정당화하였으며 이에 우파는 기세등등해졌으며 동시에 좌파의 분노를 샀습니다. 수상이 정치 장악을 강화한 것에 대한 대응으로 사회주의자들은 연방 의회를 떠났고 붉은 여단은 새로 수립된 슈쉬니크 정권에 맞서 싸우기 위해 거리로 나섰습니다. \n 이 분열된 시기에 오스트리아인들이 모두 동의할 수 있는 것이 있다면 그것은 황제와 함께 평화가 죽었다는 것입니다."
+austria.8.a:0 "빨갱이들을 완전히 내쫓을 시간이다"
+
+austria.9.t:0 "빨갱이들이 사회주의 국가를 선언하다" 
+austria.9.d:0 "50명 이상의 경찰이 그라츠에서 인부들에 의해 살해당하면서 봉기는 새로운 국면에 다다랐습니다. 돌푸스가 가혹한 보복을 명령하면서 다수의 저명한 공산주의 지도자들이 체포되었습니다. 사태의 고조를 지켜본 빌헬름 라이히는 이를 호기로 활용하며 모든 노동자들의 봉기를 부르짖고 있습니다."
+austria.9.a:0 "빨갱이들을 완전히 내쫓을 시간이다."
+
 austria.10.t:0 "오스트리아의 지도층이 반동주의적 사상을 수용하다" 
-
 austria.10.d:0 "오스트리아 지도부가 영국에 접근하면서, 그들은 최근에 "실용적이고 현실적인 형태의 정부에 대한 프랑스의 반대는 어리석음에 지나지 않는다"고 주장했습니다."
-
 austria.10.a:0 "이 망할 반동분자들!"
 
 austria.11.t:0 "독일의 모략꾼들이 발각되다!" 
-
 austria.11.d:0 "오랫동안 우리는 정보를 수집하고 그것을 준비하면서 우리 당 내부에서 우리 정권에 반대하는 목소리가 발견되었습니다. 몇몇 독일 정치인들은 룀이 돌푸스의 정권을 전복시키도록 설득하려고 시도하고 있습니다."
-
 austria.11.a:0 "그들을 즉시 체포하라!"
-
 austria.11.b:0 "돌푸스는 예전에는 필요했을지 몰라도, 이제 우리는 앞으로 나아가야 한다."
 
-austria.12.t:0 "내부로부터의 음모 가능성..." 
-
+austria.12.t:0 "내부로부터의 음모 가능성..."
 austria.12.d:0 "독일 이민자들은 반역자들에게 큰 도움을 주었고, 그들은 우리 당이 성공하기 위해 필요한 정치적, 비군사적 힘을 제공했습니다. 최근, 독일 군소 정치인들이 돌푸스의 영광스러운 지도력에 맞서 싸우고 있다는 의혹이 제기되고 있습니다. 아직 확실히 알기엔 너무 이릅니다"
-
 austria.12.a:0 "우린 신중해야만 한다...."
 
-
-austria.13.t:0 "오스트리아가 지원을 요청하다" 
-
+austria.13.t:0 "오스트리아가 지원을 요청하다"
 austria.13.d:0 "한동안 오스트리아는 독일 침략의 위협을 받아왔습니다. 이 지역의 미묘한 힘의 균형을 감안할 때, 정복당한 오스트리아는 중앙 유럽으로 세력권을 확장하는 우리의 기회를 망칠 수도 있습니다. 독일군의 공격이 있을 경우 지원 요청에 응답해야 할까요?"
 austria.13.a:0 "물론이지! 빨갱이보단 나을 테니까..."
-
 austria.13.b:0 "우리는 지금 당장 외국의 독재자들과 싸우는 위험을 무릅쓸 수 없다."
 
-austria.14.t:0 "강철 조약" 
-
+austria.14.t:0 "강철 조약"
 austria.14.d:0 "오스트리아 외교관들이 도착하여 우리의 관계를 더욱 발전시키고 상호 방위 조약을 선포할 것을 요청했습니다. 그들은 또한 독일을 무너뜨리기 위한 대규모 연합을 통해 주변국들에게 압력을 가하고 영향을 끼치기 위한 외교적 노력이 진보하기를 원했습니다."
 austria.14.a:0 "괜찮군. 서명하라."
 austria.14.b:0 "우리는 오스트리아가 필요하지 않다."
@@ -486,6 +506,10 @@ austria.29.d:0 "여기엔 많은 것이 걸려 있습니다./n 슈쉬니크가 �
 austria.29.a:0 "슈쉬니크가 권력을 지켜내며 기사당이 정권을 잡았다!"
 austria.29.b:0 "하이에크와 WP가 큰 표차로 이겼다!"
 austria.29.c:0 "자이츠와 사민당이 보수권을 박살냈다!"
+
+austria.30.t:0 "Emperor Otto I von Habsburg-Lothringen"
+austria.30.d:0 "In true keeping with Austria's past, Otto von Habsburg-Lothringen has been crowned Austrian Emperor. The Empire's glory may be diminished, but the Habsburgs rule is eternal, Heil Kaiser dir."
+austria.30.a:0 "Heil Kaiser dir."
 
 austria.64.t:0 "오스트리아가 원조를 요청하다" 
 austria.64.desc:0 "For a while now austria has been under threat of german invasion, given the delicate balance of power in the region, austria being conquered may ruin our chances on expanding our sphere of influence to central europe. Should we answer their request for assistance in case of a german attack?"
