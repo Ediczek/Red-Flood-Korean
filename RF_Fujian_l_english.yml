@@ -3,7 +3,7 @@ POLITICS_SA_ZHEN_BING_DESC:0 "“사전빙은 사회주의를 잘 알았기에 �
 
 #COUNTRY NAME#
 
-#PARTIES#
+
 FJN_vanguard_socialism_party:0 "WPC"
 FJN_libertarian_marxism_party:0 "PPC"
 FJN_revolutionary_anarchism_party:0 "CAM"
@@ -28,11 +28,15 @@ FJN_right_authoritarianism_party_long:0 "사 가문"
 FJN_despotism_party_long:0 "복건 비적단"
 FJN_reactionism_party_long:0 "국민당 원로회"
 FJN_accelerationism_party_long:0 "중국청년당"
-
+#PARTIES#
 #LEADER DESCRITIONS#
-
-
 #IDEAS#
+FJN_jiaoren_faction:0 "자오런 충성 파벌"
+FJN_jiaoren_faction_desc:0 ""
+FJN_rival_government:0 "경쟁정부"
+FJN_rival_government_desc:0 ""
+FJN_socialist_policies:0 "사회주의 정책 시험"
+FJN_socialist_policies_desc:0 ""
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
