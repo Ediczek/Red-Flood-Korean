@@ -33,9 +33,9 @@ CZE_czechoslovakia_despotism_ADJ:0 "Czechoslovakian"
 CZE_czechoslovakia_reactionism:0 "Czechoslovak State"
 CZE_czechoslovakia_reactionism_DEF:0 "Czechoslovak State"
 CZE_czechoslovakia_reactionism_ADJ:0 "Czechoslovakian"
-CZE_czechoslovakia_accelerationism:0 "Samos State"
-CZE_czechoslovakia_accelerationism_DEF:0 "Samos State"
-CZE_czechoslovakia_accelerationism_ADJ:0 "Samos"
+CZE_czechoslovakia_accelerationism:0 "사모스국"
+CZE_czechoslovakia_accelerationism_DEF:0 "사모스국"
+CZE_czechoslovakia_accelerationism_ADJ:0 "사모스"
 
 #PARTIES#
 CZE_vanguard_socialism_party:0 "체코슬로바키아 공산당"
