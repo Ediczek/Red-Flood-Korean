@@ -133,6 +133,64 @@ news.25.a:0 "끈덕지게 권력에 달라붙으려는 또 다른 자취일 뿐�
 news.25.b:0 "암흑의 대륙에서 온 축복받을 소식이로다."
 news.25.c:0 "살짝 비틀린 구 질서일 뿐."
 
+news.26.t:0 "Mercenaries Seize Power in the Amazon"
+news.26.desc:0 "In a turn of events that seems entirely unsurprising to outside observers, secessionist academics in the Amazon have been overturned by their mercenary bodyguards. Although beginning optimistically enough, the mercenaries, long chafing under poor conditions and seeming indifference from their paymasters have decided to take their fate, and the country, into their own hands. Whether the newborn Amazon Independent Garrison will play any large role in the chaos in Brazil remains to be seen, however."
+news.26.a:0 "Is the pen really mightier than the sword?"
+
+news.27.t:0 "Uprising in Macapá"
+news.27.desc:0 "Reports from the Amazonian Scientific Territory indicate that yesterday renegade mercenaries have risen up in the city of Macapá. After a night-long firefight the mutineers were defeated and killed to a man by forces loyal to the Defense Council. This leaves the Scientific Territory fully under the control of dedicated indigenist Orlando Villas-Boas. Villas-Boas declared the Amazon independent from Brazil, and committed himself to the preservation of its native peoples. What his triumph over his internal detractors means for the war torn South American nation remains to be seen. Much of the Scientific Territory’s garrison has been killed in fighting, and its future is not certain."
+news.27.a:0 "Haven’t we had enough of intellectuals?"
+
+news.28.t:0 "A Blue Drought?"
+news.28.desc:0 "A new altenerate history novel is causing a ruckus in Britain, its reputation is spreading around the world as a pro-French and pro-German propaganda piece. “Blue Drought”. The synopsis alone has caused outrage, and reads as follows:\nAt the last moment, the Great Powers averted war in 1914. Diplomacy won and revolution were prevented. The hopeful cheer and optimism has since turned to ash in the people’s mouths. 22 Years later, the period now recognised as “The Long Peace” has soured. The people of the West have sunk into malaise, no longer confident of their friends and foes, or their nation’s place in the world. The ties that bind have eroded, in their places stagnation has taken hold. As a result, the old order is breaking at the seams as radical ideologies are gaining traction. Now more than ever the “Moderate Leadership” band together against a growing threat from Marxists, Ultra-Nationalists, Darwinists, Absurdists, Anarchists and more. Will the great Empires sink beneath the waves, or will they learn to swim against the tide?"
+news.28.a:0 "What fanciful nonsense!"
+news.28.b:0 "What a precient piece of art!"
+news.28.c:0 "Who cares?"
+news.28.d:0 "Sounds like propaganda to me."
+
+news.29.t:0 "Vacant Throne No Longer"
+news.29.desc:0 "After twenty years of regency, the Russian crown rests upon a princely head once more. Following the Summer Coup the Tsarist forces in Russia have finally chosen a holy leader. [RUS.GetLeader] has taken up the royal mantle, the tragedy of Nicholas and Alexei is put aside for a new reign and Russia's bright future. However, as anti-tsarist forces gather on her borders, Russia must take care not to let their new leader face the same fate as Grand Duke Michael did at Tsarskoye Selo in 1919."
+news.29.a:0 "Pray they learn from history"
+
+news.30.t:0 "Vacant Throne No Longer"
+news.30.desc:0 "After twenty years of regency, the Russian crown rests upon a princely head once more. Following the Summer Coup the Tsarist forces in Russia have finally chosen a holy leader. [SRU.GetLeader] has taken up the royal mantle, the tragedy of Nicholas and Alexei is put aside for a new reign and Russia's bright future. However, as anti-tsarist forces gather on her borders, Russia must take care not to let their new leader face the same fate as Grand Duke Michael did at Tsarskoye Selo in 1919."
+news.30.a:0 "Pray they learn from history"
+
+news.31.t:0 "The Smell of Money"
+news.31.desc:0 "Across Russia, there is a smell of blood, and money. From Harbin to Moscow, there is a great feeling of optimism for a future which was stolen for centuries by Russian autocrats which robbed the Russian individual's will to power. At least, that is what Alisa Rosenbaum says. Through \"volunteering\" armies across the Yakutian lands, the Siberian wastes, the great Steppes, and finally the heartland of Russia as she reclaimed the Russian Democratic Republic's legacy. Subsequently, she crusaded her armies from every single city in the Russian countryside to the biggest cities, and began slowly disintegrating every element of social security and dismantling every element of government, except for the most minimal things such as police to protect individual will."
+news.31.a:0 "And so, Atlas Shrugged."
+
+news.32.t:0 "The Scream of Liberty"
+news.32.desc:0 "Vasily Chapayev, a man who despises intellectualism, was very brief in his speech when he took Moscow, with most of the \"Speech\" being drunken rabble and celebrations, along with loud singing from soldiers. This is a great representation of daily life in the new Russia, where people sing drunkenly in freedom and joy, with violence and ignorance being widespread across the \"Free People of Russia\". This state, built on anti-Cossack sentiment, anti-intellectualism, anarchism, socialism, and several other conflicting ideas, are barely regulated by soldiers in a volunteer army, all led by a single figure; Vasily Chapayev, who moves all of the Free People of Russia with discordant freedom."
+news.32.a:0 "Handzya rybka, Handyza ptychka..."
+
+news.33.t:0 "The Revolution Restored"
+news.33.desc:0 "For over 15 years, Trotsky's dream of a unified Socialist revolutionary state in the name of internationalism seemed impossible, yet it all became true in less than 5 years of conquest. Through painful conscription methods and totalitarian industrialization, the Socialist dream of security, bread, freedom for the people of Russia has been achieved. There is much rebuilding to do, but Trotsky's, and peasant's, dreams have been achieved in the name of a war against the oligarchy which has ruled Russia for centuries now. Urbanization, industrialization, and new art blossoms across the Soviet Republic, and a new hope rises after years of pain, from war and from poverty."
+news.33.a:0 "Full speed ahead for the Red State."
+
+news.34.t:0 "The Black Slate"
+news.34.desc:0 "Across Russia, from the corners of the Manchurian taiga to Petrograd, there is a black curtain which had been developing for years now. A state of totalitarian measures unknown to be possible, in inhuman scale. The few reporters allowed in the \"One State\" talk of an utopian society of great scale, but there are reports of defecting refugees from the porous border around Belarus and Ukraine who claim a horrifying level of totalitarianism, to the point where even your humanity is discarded in favour of a hivemind, and placed in the name of a singular, organic metallic body. The state is reportedly, according to these defectors, an impossible feat of totalitarian power."
+news.34.a:0 "What is the truth?"
+
+news.35.t:0 "Democracy Restored in Russia"
+news.35.desc:0 "After decades of Imperial restorations, Soviet rule, Democracies, constitutional and absolutist monarchies, and subsequently a regency, Russia has finally been restored to a Democratic Republic as per the 1917 Constitution. Subsequently, Alexander Kerensky, after decades in exile as a renegade, managed to will himself into power back to Moscow, and establish the rule of huamn rights, democracy, law, and freedom across Russia, from Harbin to Petrograd. The state, though, has received criticism for it's wide corruption, but most people are able to ignore it in favor of seeing Kerensky as a protector of human rights and freedom in Russia, a rarity before under Kolchak's reign."
+news.35.a:0 "Freedom and Bread!"
+
+news.36.t:0 "Black Bloc Unifies Russia"
+news.36.desc:0 "After years of humiliation in the World Stage as a backwater, Holy Russia, as she calls herself, has risen up from the ashes of irrelevancy into a powerful state once more as she has, so her representative, Alexandr Kolchak, say, \"Quelled every rebellion in our Holy territory\". After this claim, it appears that many reporters see it hold true as Turks in Central Asia have their cultures brutally supressed, Liberals are silenced and beat up on the streets, and finally people are not starving on the streets, but many are certainly too poor to afford their own homes and live in indentured servitude to their landlords. None of it matters to Kolchak, who sees these as natural."
+news.36.a:0 "Tradition is the future."
+
+news.37.t:0 "Diterikhs Unify Russia"
+news.37.desc:0 "After a coup by ultra-traditionalist, and radically Orthodox, even by Black Bloc standards, soldiers also known as the shtabs-kapitans, Russia had been seen as a continuing beacon of reaction and lack of progress. But this appears to not ring true as her giant armies ride across the lands and violently convert every single group within Russian borders, and brutally supressing Zheltorossiyan activists, executing everyone who worked on the former Zheltorossiyan government, proclaiming them as \"Bringers of Anti-christ against Holy Russia\". Subsequently, after choosing a new Patriarch and becoming a Theocracy in name and in practice, Russia has risen once more to fight progress."
+news.37.a:0 "God Bless!"
+
+news.38.t:0 "Mladorossi Unify Russia"
+news.38.desc:0 "After a brutal campaign across the entirety of the nominally Russian Realm, Her Holiness, Empress of Russia, Anastasia can confidently say she holds her lands with an iron fist. The People's Oprinchina, the intelligence agency for the Russian Soviet Empire, has become one of the most efficient and powerful intelligence agencies on Earth, and Anastasia has managed to even get collaboration from some former enemies in Zheltorossiya. As a new, Accelerationist power, Russia now seeks to reclaim her old territories, and will do anything in her power to ensure that the Motherland is fully united under a new, progressive system."
+news.38.a:0 "Tsar and Soviets!"
+
+news.39.t:0 "New Course Unifies Russia"
+news.39.desc:0 "Railroads are the future of a nation, so say the managers of the Russian Empire, led by their Emperor. After decades of attempts to colonize and integrate Central Asia, it appears the Russian Empire has finally succeeded, with entire villages disappearing off the map and new ones springing up, entirely composed of ethnic Russians looking for new farming opportunities, all brought in by rail as the trains leave for somewhere unknown. Now with the most complete train system in the World, Russia has become the master of infrastructure across large expanses of land, and has become absurdly wealthy with it. Now, perhaps Russia will truly go from Harbin to Petrograd."
+news.39.a:0 "The smoke went up the chimney just the same."
 
 news.100.t:0 "프랑스가 다시 전쟁에 뛰어들다!"
 news.100.desc:0 "프랑스 정부와 독일 사회주의 공화국 간의 이념적 차이가 마침내 무장분쟁점까지 치달은 듯합니다. 어제, 앙토냉 아르토가 마침내 “독일 사회주의 공화국를 지배하는 마르크스주의라는 퇴폐적 사념에 맞서 미래주의의 대의를 전진시키고, 대전쟁 당시 프랑스인들에게 저질러진 악행에 복수하겠다” 정부는 결정했음을 선언하고, 6시간 후 프랑스군이 국경 넘어 엘자스를 침입했습니다. 격화된 싸움이 다시금 유럽을 전쟁의 화염으로 끌어들이려는 가운데, 몇몇 비평가들은 또 다시 벌어질 끔찍한 살상을 세계가 기다리게 됐음에 공포 속에서 침묵했습니다. 하지만 독일은 이를 자본가 계급이 미래주의 정권에 강권을 쥐고 있단 명확한 증거이자, 세계사회주의라는 꿈에 대한 최후시련으로 보고 있습니다. 오직 시간만이 전쟁의 공포가 유럽 대륙에게 가치가 있는 것이었을지 말해줄 것입니다."
