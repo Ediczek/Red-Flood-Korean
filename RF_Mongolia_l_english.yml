@@ -2,8 +2,8 @@
 #COUNTRY NAME#
 
 #PARTIES#
-MON_reactionism_party:0 "MBP"
-MON_reactionism_party_long:0 "몽골 불교당"
+MON_reactionism_party:0 "MKA"
+MON_reactionism_party_long:0 "몽골 한국 동맹"
 
 MON_vanguard_socialism_party:0 "PVM"
 MON_vanguard_socialism_party_long:0 "몽골 인민전위대"
@@ -23,24 +23,24 @@ MON_social_democratism_party_long:0 "민주당"
 MON_liberalism_party:0 "MFP"
 MON_liberalism_party_long:0 "몽골 자유당"
 
-MON_conservatism_party:0 "ANP"
-MON_conservatism_party_long:0 "안휘 민족당"
+MON_conservatism_party:0 "AMC"
+MON_conservatism_party_long:0 "안휘 군벌"
 
 MON_right_authoritarianism_party:0 "ARP"
 MON_right_authoritarianism_party_long:0 "안휘 공화당"
 
-MON_despotism_party:0 "KA"
-MON_despotism_party_long:0 "칸국 동맹"
+MON_despotism_party:0 "AMF"
+MON_despotism_party_long:0 "안휘 복벽 파벌"
 
 MON_accelerationism_party:0 "AM"
 MON_accelerationism_party_long:0 "촉진 몽골"
 
 #LEADERS/Ministers#
 #MON_Duan_Qirui:0 "돤치루이"
-#MON_Demchugdongrub:0 "뎀축동룹"
+#MON_Demchugdongrub:0 "위안커딩"
 #MON_Wang_Yitang:0 "왕이탕"
 #LEADER DESCRITIONS#
-POLITICS_DEMCHUGDONGRUB_DESC:0 "몽골의 보르지긴 왕, 신 중화제국의 황제"
+POLITICS_KEDING_DESC:0 "첫 번째 총통 위안스카이의 아들이시자 신 중화제국의 황제되신 위안커딩께선 만수하소서."
 POLITICS_DUAN_QIRUI_DESC:0 "군벌의 통치자이자 망명 장수이며 몽골의 사령관인 돤치루이는 위안스카이 대총통과 가까운 동맹 관계를 유지했습니다. 하지만 이후 돤치루이가 북양정권의 유산과 정권을 유지시켜준 원칙들을 고수하면서 둘은 차이를 보이게 됐습니다."
 POLITICS_WANG_YTIANG_DESC:0 "온건 정치가이자 충직한 애국자인 왕이탕이 우리를 다시 하나로 뭉치게 할 대타협을 이끌어낼 겁니다."
 #IDEAS#
@@ -84,7 +84,6 @@ MON_conscription:0 "신 징병제"
 MON_conscription_desc:0 "청년층을 대상으로 한 우리의 새 징병체계는 우리 군을 건설하기 위한 거대한 인력원이 될 것입니다."
 
 #CUSTOM TOOLTIPS AND FLAGS#
-harbin_pact:0 "하얼빈 협약"
 MON_chinese_reclaimation:0 "점령당한 도시들과 벗어난 중국의 핵심 영토들을 되찾을 것입니다."
 
 corrected_the_record:0 "중국은 더 이상 분열하지 않는다"
@@ -145,7 +144,7 @@ Mongolia_anhuirevival_desc:0 "경제가 회복세에 들고, 난타당하고 추
 Mongolia_president:0 "총통"
 Mongolia_president_desc:0 "총통 돤치루이는 지난 몇 년 동안 나라를 유능하게 이끌었으며, 군사지휘부는 혁명 이래 가장 안정된 상태를 유지하고 있습니다. 진정성 있는 총통이 계속 자리에 있을 수 있도록 합시다."
 Mongolia_emperor:0 "황제"
-Mongolia_emperor_desc:0 "군사지휘부가 제 할 일을 해내면서, 인민은 이제 새 황제를 영접할 준비를 마쳤습니다. 크게 인기가 없던 청 왕조 대신 다른 가문이 나서야 했으므로, 몽골 귀족 중 보르지긴의 덕왕 뎀축동룹을 세우고자 합니다. 총통 위안스카이 또한 뎀축동룹에 우호적이니, 평의회는 그를 황제로 옹립할 것입니다."
+Mongolia_emperor_desc:0 "군사지휘부가 제 할 일을 해내면서 이제 인민은 새 황제를 영접할 준비를 마쳤습니다. 크게 인기가 없던 청 왕조 대신 다른 가문이 나서야 했으므로, 총통 위안스카이의 아들 위안커딩이 전면에 나서게 되었습니다. 더 나은 후보가 보이지 않으니, 평의회는 커딩을 황제로 옹립할 것입니다."
 Mongolia_tradebyrail:0 "철도 무역"
 Mongolia_tradebyrail_desc:0 "새 철도선을 부설하고 구 노선을 민간경제 및 군사기동에 맞추어 경신해야 합니다. 전국 단위로 이루어질 이 기획은 간절한 북중국을 하나로 모을 것입니다."
 Mongolia_parliament:0 "의회"
@@ -250,7 +249,7 @@ anhui.1.d:0 "질서를 유지하고 중국을 재건하려면 지금의 상황�
 anhui.1.a:0 "총통 만세!"
 
 anhui.2.t:0 "제정 부활"
-anhui.2.d:0 "지금의 상황이 지속될 수는 없습니다. 질서와 번영을 회복하려면 중국에는 황제가 필요합니다. 뎀축동룹은 단순한 귀족 출생이 아니라 보르지긴 사람입니다! 몽골인들이 덕왕을 지지하고, 총통 위안스카이의 우호로 귀족 역시 그를 선호합니다."
+anhui.2.d:0 "지금의 상황이 지속될 수는 없습니다. 질서와 번영을 회복하려면 중국에는 황제가 필요합니다. 위안커딩은 군벌 지도층에서 가장 선호하는 인물이고, 무엇보다 그의 아버지는 민국의 첫 총통이었습니다. 커딩이라면 이상적인 원수가 될 것입니다."
 anhui.2.a:0 "천자 만세!"
 
 anhui.3.t:0 "총선거"
