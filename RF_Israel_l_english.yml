@@ -2,8 +2,42 @@
 #COUNTRY NAME#
 
 #PARTIES#
+ISR_vanguard_socialism_party:0 "Labour Unity - Right Faction"
+ISR_vanguard_socialism_party_long:0 "Ahdut HaAvoda"
+
+ISR_libertarian_marxism_party:0 "Labour Unity - Left Faction"
+ISR_libertarian_marxism_party_long:0 "Ahdut HaAvoda"
+
+ISR_revolutionary_anarchism_party:0 "Hebrew Communists"
+ISR_revolutionary_anarchism_party_long:0 "Komunistim Ivrim"
+
+ISR_revisionist_socialism_party:0 "Mapai"
+ISR_revisionist_socialism_party_long:0 "Workers' Party of the Land of Israel"
+
+ISR_social_democratism_party:0 "Paole Zion"
+ISR_social_democratism_party_long:0 "Jewish Social Democratic Labour Party"
+
+ISR_liberalism_party:0 "General Zionists"
+ISR_liberalism_party_long:0 "HaTzionim HaKlaliym"
+
+ISR_conservatism_party:0 "Union of Israel"
+ISR_conservatism_party_long:0 "Agudat Yisrael"
+
+ISR_right_authoritarianism_party:0 "Hatzohar"
+ISR_right_authoritarianism_party_long:0 "Hatzohar"
+
+ISR_reactionism_party:0 "Mizrachi Workers"
+ISR_reactionism_party_long:0 "Hapoel HaMizrachi"
+
+ISR_despotism_party:0 "Irgun"
+ISR_despotism_party_long:0 "Hā-ʾIrgun Ha-Tzvaʾī Ha-Leūmī b-Ērētz Yiśrāʾel"
+
+ISR_accelerationism_party:0 "Lehi"
+ISR_accelerationism_party_long:0 "Lohamei Herut Israel – Lehi"
 #LEADER DESCRITIONS#
+
 #IDEAS#
+
 #MINISTERS#
 taas:0 "타아스"
 rothschildcompany:0 "로스차일드 C. 펀드"
@@ -12,10 +46,25 @@ ISR_dori:0 "아코프 도리"
 ISR_sternchief:0 "야이르 쉬테른"
 
 #CUSTOM TOOLTIPS AND FLAGS#
+JOR_spawn:0 "Jordanian Army"
 #TRAITS#
 small_elite_leader:0 "특화 지도자"
 ISR_dayan_trait:0 "행정학파"
 
+#EVENTS#
+ISR.victory.t:0 "Arabs In Retreat"
+ISR.victory.desc:0 ""
+ISR.victory.a:0 "Sweet Victory."
+
+ISR.3.t:0 "Zionist Activity Rising"
+ISR.3.desc:0 ""
+ISR.3.a:0 "We must find a solution!"
+
+ISR.4.t:0 "Zionists Threaten Secession"
+ISR.4.desc:0 ""
+ISR.4.a:0 "Grant special status on the plains."
+ISR.4.b:0 "Crush the Zionists, damn the British!"
+ISR.4.c:0 "Establish Israel."
 #DECISIONS (1.5 Update)#
 #FOCUSES#
 ISR_thesterngang:0 "쉬테른 패거리"
