@@ -1,5 +1,52 @@
 ﻿l_english:
 #COUNTRY NAME#
+RUS_revolutionary_anarchism:0 "Russian Anarchist Front"
+RUS_revolutionary_anarchism_DEF:0 "Russia"
+RUS_revolutionary_anarchism_ADJ:0 "Russian"
+
+RUS_vanguard_socialism:0 "Russian Federal Socialist Republic"
+RUS_vanguard_socialism_DEF:0 "Russia"
+RUS_vanguard_socialism_ADJ:0 "Russian"
+
+RUS_libertarian_marxism:0 "Russian Federal Socialist Republic"
+RUS_libertarian_marxism_DEF:0 "Russia"
+RUS_libertarian_marxism_ADJ:0 "Russian"
+
+RUS_revisionist_socialism:0 "Russian Republic"
+RUS_revisionist_socialism_DEF:0 "Russia"
+RUS_revisionist_socialism_ADJ:0 "Russian"
+
+RUS_social_democratism:0 "Russian Republic"
+RUS_social_democratism_DEF:0 "Russia"
+RUS_social_democratism_ADJ:0 "Russian"
+
+RUS_liberalism:0 "Russian Republic"
+RUS_liberalism_DEF:0 "Russia"
+RUS_liberalism_ADJ:0 "Russian"
+
+RUS_conservatism:0 "Russian Empire"
+RUS_conservatism_DEF:0 "Russia"
+RUS_conservatism_ADJ:0 "Russian"
+
+RUS_right_authoritarianism:0 "Russian Empire"
+RUS_right_authoritarianism_DEF:0 "Russia"
+RUS_right_authoritarianism_ADJ:0 "Russian"
+
+RUS_despotism:0 "Russian Empire"
+RUS_despotism_DEF:0 "Russia"
+RUS_despotism_ADJ:0 "Russian"
+
+RUS_reactionism:0 "Russian Empire"
+RUS_reactionism_DEF:0 "Russia"
+RUS_reactionism_ADJ:0 "Russian"
+
+RUS_accelerationism:0 "Russian Union Empire" #Союзная Российская Империя
+RUS_accelerationism_DEF:0 "Russia"
+RUS_accelerationism_ADJ:0 "Russian"
+
+RUS_POLISH_PUPPET_despotism:0 "Russian General Governorate"
+RUS_POLISH_PUPPET_despotism_DEF:0 "Russian General Governorate"
+RUS_POLISH_PUPPET_despotism_ADJ:0 "Russian"
 
 #Bookmarks#
 KOLCHAK_RUSSIAN_DESC:0 "키예프에서 벌어진 니콜라이 2세 살해는 러시아를 뒤흔들었습니다. 스톨리핀 총리가 이끄는 자신감 넘치는 정부는 나라를 안정시키고 2차 조국전쟁 또한 이겨냈습니다. 그러나 전쟁은 러시아 국민의 정신을 무너트렸습니다. 반역적인 진보주의자들과 함께 사회주의자들은 나라를 혼란에 빠뜨렸습니다. 다행히 맹세를 충실히 지킨 장교와 백성들의 노력으로 나라의 멸망은 막아냈습니다. 이제 10년이 지났고 러시아는 회복되었습니다. 알렉산드르 콜차크는 조타를 단단히 잡았지만 러시아 전역에 구름이 짙어졌습니다. 제독은 다가오는 홍수를 견뎌낼까요, 아니면 개울물이 러시아를 바위 위로 날려버릴까요?"
@@ -30,6 +77,9 @@ RUS_accelerationism_party_long:0 "믈라도로시 연합"
 
 RUS_despotism_party_emperor_long:0 "러시아 국가단결 평의회"
 RUS_despotism_party_emperor:0 "SGOR"
+
+RUS_despotism_party_alt:0 "Polish Administratory Council"
+RUS_despotism_party_alt_long:0 "Polish Administratory Council"
 #LEADER DESCRITIONS AND BOOKMARKS#
 RUSSIAN_EMPIRE_DESC:0 ""
 
@@ -187,6 +237,8 @@ RUS_shtabs_sergius:0 "총대주교 세르게이"
 RUS_shtabs_alexius:0 "총대주교 알렉세이"
 
 #MINISTERS#
+RUS_alexander_nechvolodov_hog_aut:0 "Alexander Nechvolodov"
+RUS_alexander_guchkov_hog_aut:0 "Alexander Guchkov"
 RUS_Anton_V_Turkul_hog_rau_des_rea:0 "안톤 V. 투르쿨"
 RUS_Pyotr_Balashov_hog_rau_des_rea:0 "표트르 발라쇼프"
 RUS_Nikolay_Markov_hog_rea:0 "니콜라이 마르코프"
@@ -194,28 +246,36 @@ RUS_Vladimir_Vostokov_hog_rau_des:0 "블라디미르 보스토코프"
 RUS_Aleksandr_L_Kazembek_hog_acc:0 "알렉산드르 L. 카젬베크"
 RUS_Vladimir_Kappel_hog_lib_con_rau:0 "블라디미르 카펠"
 
+RUS_alexander_nechvolodov_for_aut:0 "Alexander Nechvolodov"
+RUS_Pavel_Georgievsky_for_aut:0 "Pavel Georgievsky"
 RUS_Vasily_Shulgin_for_rau_des_rea:0 "바실리 슐긴"
-RUS_Sergei_Taboritsky_for_rea:0 "세르게이 타보리타츠키"
+RUS_Sergei_Taboritsky_for_rea:0 "세르게이 타보리츠키"
+SRU_Sergei_Taboritsky_for_des:0 "세르게이 타보리츠키"
 RUS_Ivan_Solonevich_for_rau_des:0 "이반 솔로네비치"
 RUS_Kirill_Elita_Vilchkovsky_for_acc:0 "키릴 엘리타-빌치콥스키"
 RUS_Mikhail_Braykevich_for_lib_con_rau:0 "미하일 브라이케비치"
 
-RUS_Pyotr_B_Struve_eco_rau_des_rea:0 "표트르 B. 스트루베"
-RUS_Vladimir_Zaleski_eco_rea:0 "블라디미르 잘레스키"
+SRU_Pyotr_B_Struve_eco_rau_des_rea:0 "표트르 B. 스트루베"
+SRU_Vladimir_Zaleski_eco_rea:0 "블라디미르 잘레스키"
 RUS_Sergei_Bulgakov_eco_rau_des:0 "세르게이 불가코프"
 RUS_Vladimir_Krasinsky_eco_acc:0 "블라디미르 크라신스키"
 RUS_Mikhail_A_Taube_eco_lib_con_rau:0 "미하일 A. 타우베"
 
 RUS_Nikolay_Muratov_sec_rau_des_rea:0 "니콜라이 무라토프"
+SRU_Nikolay_Muratov_sec_rau_des_rea:0 "Nikolay Muratov"
 RUS_Nikolai_A_Maklakov_sec_rea:0 "니콜라이 A. 마클라코프"
+SRU_Nikolai_A_Maklakov_sec_des:0 "Nikolai A. Maklakov"
 RUS_Pyotr_Gendrikov_sec_lib_con_rau_des:0 "표트르 겐드리코프"
 RUS_Georgy_Graf_sec_acc:0 "게오르기 그라프"
+RUS_Nikolay_Astrov_sec_lib_con_rau:0 "Nikolay Astrov"
 
+RUS_Nikolay_Batyushin_int_rau_des_rea:0 "Nikolay Batyushin"
 RUS_Klavdiy_Foss_int_rau_des_rea:0 "클라우디 포스"
 RUS_Vladimir_Vitkovsky_int_rea:0 "블라디미르 비토콥스키"
 RUS_Mikhail_Diterikhs_int_rau_des:0 "미하일 디테리흐스"
 RUS_Sergei_Obolensky_int_acc:0 "세르게이 오볼렌스키"
 RUS_Vladimir_Kappel_int_lib_con_rau:0 "블라디미르 카펠"
+RUS_Pavel_Shatilov_int_lib_con_rau:0 "Pavel Shatilov"
 
 #CUSTOM TOOLTIPS AND FLAGS#
 RUS_expand_okhrana_tooltip:0 "Modify §Y궐위§! 가\n소비재 공장: §Y-5%§!\n일일 전제주의 변화: §R-0.03§!\n안정도: §R-5.00%§!"
@@ -225,6 +285,37 @@ RUS_illusion_order_tooltip:0 "§Y황제의 귀환§!을 §Y제국의 부흥§!�
 improve_previous_tooltip:0 "\n§Y본 중점은 선행하는 국민정신을 개선할 것입니다.§!"
 rus_coup_one_victory:0 "러시아의 영혼을 위한 싸움에서 우리편이 이겼습니다."
 
+#COMPANIES
+putilov:0 "Putilov"
+oktava:0 "Oktava"
+branobel:0 "Branobel"
+#### Weapons Manufacturer ####
+degtyaryov:0 "Degtyarov"
+izjevskij_mekhanitsjeskij:0 "Izhevskiy Mekhanitsieskiy"
+sestroretskiy_oruzheynyy:0 "Sestroretskiy Oruzheiniy"
+tulsky_oruzheiny:0 "Tulsky Oruzheniny"
+#### Heavy Equipment Manufacturer ####
+gosudarstvennyy_obukhovskiy:0 "Gosudarstveniy Obukhovskiy"
+motovilikha:0 "Motovilikha"
+russko_baltiisky:0 "Russko-Baltiskiy"
+nizhegorodsky_avtomobilny:0 "Nizhegorodsky Avtomobilny"
+uralmash:0 "Uralmash"
+uralvagonzavod:0 "Uralvagonzavod"
+chelyabinskiy_traktornyy:0 "Chelyabinskiy Traktorniy"
+avtomobilnoe_moskovskoe:0 "Avtomobilnoe Moskovnoe"
+#### Air and Naval Manufacturer ####
+mikoyan_gurevich:0 "Mikoyan Gurevich"
+lavochkin:0 "Lavochkin"
+dux:0 "DUX"
+yakovlev:0 "Yakovlev"
+tupolev:0 "Tupolev"
+seversky_aircraft:0 "Seversky Aircraft"
+sukhoi:0 "Sukhoi"
+ilyushin:0 "Ilyushin"
+sikorsky_aircraft:0 "Sikorsky Aircraft"
+baltiysky_verfi:0 "Baltisky Verfi"
+admiralteiskie_verfi:0 "Admiralteiskiy Verfi"
+rubin:0 "Rubin"
 #DECISIONS#
 RUS_mladorossi_unification:0 "러시아지 재통일"
 RUS_south_eastern_union:0 "남동연합을 향한 최후통첩"
@@ -406,6 +497,10 @@ russia.23.b:0 "저들의 요구를 물리친다."
 russia.24.t:0 "잔치"
 russia.24.desc:0 "The room is bathed in the sounds of music not yet heard under these vaults, vaults strictly classical, and at the same time subtle and luxurious - enough to hint at more. The music is bright, full-faced and ruddy-cheeked, like a young woman from a cloth hall, brave and impudent like a curly young man in a brand new fur coat, who deftly and boldly drives his three-horses chaise, and it seems like he will crush everything that will not be lucky to happen on his way. The music then falls, as if diving into the depths of the blue sea, and then soars, as if into the sky, deep, strong, but… quite old-fashioned. \nThis \"Russian dance\" is coming to an end, but the couples continue to waltz, and the sound of boots rings in the ears. In the center of the hall, on a shiny parquet, dancing beautiful pairs of mother-of-pearl and crimson silk - ladies in embroidered kokoshniks and old-fashioned sundresses (oh, how many seamstresses and shoemakers worked on them!), and gentlemen in high kaftans, girded with colorful belts. Lubochnaya greatness, as if the time of Alexei Mikhailovich returned, for a moment, from its bed, covered with a sable fur coat of past epochs - returned to hide in the folds of classical canopies and modern waltzes of French courtiers. Where have you disappeared, a beautiful epoch of peace and idyll! ... Here is the master of the ball, the old Count Turov dancing with his respectable, furry-sabled wife, himself like a boyar from the epics. Senior Turov, Sasha, a dandy and a fashionista, with a thin black mustache and a quick look, is nearby. His partner, the young Sofia Troekurova, a model of pure youth, not yet tarnished with the storm of life, completely languished. Maybe it is too hot in a heavy dress or maybe look of Sasha too sensual. They are a beautiful couple. Here is a thin and strict stereotype of the Ostsee German, Andrew von Wenkenbach, trying to look as always decent, but still embarrassed under the stubborn pressure of Countess Ukhtomskaya. The ladies whisper with smiles that the Countess seems to have decided to stop being an old maid, she flatters the embarrassed Mr. Andrew so much. Not everyone dances - junior Turov, Roman, stood without a partner and participate in the sluggish conversations between those who do not dance. He is not in his plate, he is squeezed by the collar of his kaftan, even this room is squeezing him, to be honest. Roman would rather be in St. Petersburg again, among his non-noble friends, rather than these disheveled antiquities. But whatever, he promised his father, it would be very bad to embarrass him and not show up. Eventually, he and Alina will need this damn money, sooner rather than later. \nAnd then the music fades again, and this time finally. The couples mix and go aside, while a servant comes out on the center, and solemnly announces\:"
 russia.24.a:0 "And now the waltz, ladies, and gentlemen!"
+
+russia.25.t:0 "A terrible day to have a curse"
+russia.25.desc:0 "Great portrait of Her Highness Tsaritsa Anastasia hang on the town hall tower. In fact four of them looked down on the town from each side of the tower like faces of ancient idols slavs build for their gods. There was no place to hide from Her soft, motherly gaze. She was beautiful. Youthful like spring but with knowing smile betraying wisdom of a woman beyond human age. Every detail of those massive portraits were in downright mathematical meticulousness chosen to soothe fears and anxieties of Her loyal subjects and bring fear in those hiding something from her blue gaze. Did she really look like that? Few really seen her up close. None would dare to deny. \n\nYuri sat in his chair, the old piece of bug-infested furniture creaked uncomfortably. He was a man in his late twenties but harsh winters and even harsher factory work gave him a face and hands of someone twice his age. Lack of sleep didn’t help neither. But how can one sleep when there are leaflets to print? Truth to spread? None of this even mattered anymore. They knew what he was doing. They took Sasha yesterday. By now he told them everything they could ever want to know and more. How did they figured them out? Was there a traitor among them? None of this even mattered anymore. Yuri rested his tired face in his cold hands. He didn’t even feel like crying. He didn’t feel like anything. He just wanted it to be over with. He won’t give those animals satisfaction of chasing him like a helpless rabbit. Chasing down prey is all they are good at. No sense in trying them. Those sick dogs like it. \n\nAt first there was this strange stillness. Untraceable air of incoming doom like that before a storm. But people still walked the streets, fat saleswoman still stood by her cart offering sweets to them. Children dressed in furry hats still stared hungrily at candy, their noses and cheeks red from the cold. Then the growl began. Monstrous, devilish noise made by packs of hungry dogs chasing after their prey. Primal and hateful, unfit for bustle of a city nor any place where civilized men dwelt. But also metallic and unnatural, not one any of God’s creatures can make. But people on the street knew what that noise was. It was way worse than howl of a hungry wolf or laughter of Devil himself. It was song of motorcycle engines of Her Majesty’s attack dogs. People moved aside. Some to make room for the incoming machines, some to press their faces against the wall and not see, not hear those black dogs, those hellhounds. \n\nRumors about them were too fantastical to believe but too frighting to ignore. They were dead warriors dug out of ancient kurhans and resurrected by some unknown science. They were demons bound by some saint into service to the crown. They were werewolves dressed like men and set to do government's bidding. They ate human flesh, they couldn’t be killed by normal weapons, they bleed engine oil and fire. \n\nYuri heard the roar of engines. They were coming. They didn’t worry he will run. No one will help him him. A man with Oprychnina on his back was a cursed man. The horde of savages clad in black leather, furs and animal skulls was able to sniff him everywhere and chase up to corners of the Empire. To help him was to sign your death warrant. To hide him was to condemn your family to prisons and worse. Yuri knew that they were after him. None of this even mattered anymore. \n\nWhen oprychniks barged into his room they only found a still fresh corpse hanging from a rope..."
+russia.25.a:0 "...and the face of Tsaritsa smiling from outside of the window."
 
 #Patriarch#
 russia.480.t:0 "새 총대주교"
@@ -765,33 +860,33 @@ RUS_ix_duma_election_desc:0 "After a little break, it seems Kolchak is ready to 
 
 ###Crisis###
 RUS_hollow_victory:0 "공허한 승리"
-RUS_hollow_victory_desc:0 ""
+RUS_hollow_victory_desc:0 "The guns are silent, the cannons are being polished, the tanks stopped moving the the soldiers are returning home. The civil war is over, and our third Rome, just like the original one, destroyed a large chunk of itself in a dispute between two different cliques, pointing their guns at themselves and not at a foreign enemy. This is a victory, but a hollow one, where not even a single centimeter of foreign land was annexed, but hundreds of kilometers of our land are burning."
 RUS_bread_monopoly:0 "빵 독점 회복"
-RUS_bread_monopoly_desc:0 ""
+RUS_bread_monopoly_desc:0 "During the dark times of the great war, the tsarist government introduced the Razvyorstka in 1916, a policy to confiscate grain from private producers to better distribute it to our people and to our army on such trying times since the price controls failed to take hold. The current state of the country requires the Razvyorstka to be restored to prevent our families from getting out of control like during the civil war."
 RUS_starving_commission:0 "기아 지역을 위한 위원회 조직"
-RUS_starving_commission_desc:0 ""
+RUS_starving_commission_desc:0 "It's difficult to properly distribute the food on our current post civil war state, especially since every single province is under different levels of famine, and as such we shall set up a comission in our capital to properly research which places should receive food first and on which quantity to garantee that the least amount of people shall starve."
 RUS_food_to_cities:0 "도시 배식 제공"
-RUS_food_to_cities_desc:0 ""
+RUS_food_to_cities_desc:0 "The civil war devastated our food production, especially due the damage in our little russian provinces where most of the grain is provided, and as such our major cities are starving and causing a urban exodus. We cannot allow such a state of affairs to continue, and so the first priority of the bread monopoly shall be to garantee that our pearls of russian progress, our might cities does not starve."
 RUS_crush_peasant_riots:0 "농민반란 진압"
-RUS_crush_peasant_riots_desc:0 ""
+RUS_crush_peasant_riots_desc:0 "Peasant dissent has always been a problem in Russia, to the point that not a single government since Ivan IV went without a peasant revolt. The restoration of the bread monopoly and the overral damage of the civil war meant that again they are revolting instead of producing more food to help with the current crisis, and so the army, police and orkhanka shall kindly convinces them to restore the food production back to the pre civil war levels."
 RUS_end_famine:0 "기근의 끝"
-US_end_famine_desc:0 ""
+RUS_end_famine_desc:0 "Thanks to our policies, the famine is over. Every farm, city and village has access to enought food to prevent our people from starving, while the agricultural output reaches and even surpasses the pre civil war levels."
 RUS_industrial_reconstruction:0 "산업재건 실시"
-RUS_industrial_reconstruction_desc:0 ""
+RUS_industrial_reconstruction_desc:0 "With the infrastruture rebuilt, the famine over and the economy recovering, it's time to rebuild our industrial base. Russia shall have the strongest industrial base in europe and everybody shall take part on building it."
 RUS_emergency:0 "긴급사태"
-RUS_emergency_desc:0 ""
+RUS_emergency_desc:0 "As far back as the roman era it was widely accepted that the democratic system is not proper to solve crisis like that. As such we are temporalily closing the Duma and appointing interventors to allow our country to lick it's wounds as this moment. No political bickering at times of crisis."
 RUS_crack_down_socialists:0 "사회주의자 진압"
-RUS_crack_down_socialists_desc:0 ""
+RUS_crack_down_socialists_desc:0 "Socialism is a cabal, always behind every single act of discordy that happens to our people, and as such every single opportunity to crack down on it shall be taken. The Orkhanka, the police, the black hundreds and armed mobs shall march in our rebuilding cities to find any socialist and treat them with fire and fury."
 RUS_special_regulations:0 "해외요원들에 대한 특별 규제"
-RUS_special_regulations_desc:0 ""
+RUS_special_regulations_desc:0 "Before the war it seemed that Russia was going to enter a new golden age, but with our cities now needing repairs and our army exausted, our scars are shown to the world. We must limit as much we can the rights of foreign immigrants and tourists for the time being to prevent any of our enemies from stealing any intel they might try on these trying times."
 RUS_purge_traitors:0 "반역자 숙청"
-RUS_purge_traitors_desc:0 ""
+RUS_purge_traitors_desc:0 "With the civil war over, we shall punish all the upstarts who brought so much pain and suffering to our country through their betrayal, a public show trial will be held, covered by all major media outlets, while other simultaneous trials shall purge the less relevant traitors, there is nothing under the sun that the Orkhanka cannot do."
 RUS_oath_of_loyalty:0 "충성맹세"
-RUS_oath_of_loyalty_desc:0 ""
+RUS_oath_of_loyalty_desc:0 "To prevent more civil wars, the government shall install a oath of loyalty towards the russian government, the russian army and the russian church to dissuade any traitor toughts from our people. It shall be obligatory for every soldier and every government official.\"I swear by God this holy oath, that I want to ever loyally and sincerely serve my people and motherland and be prepared as a brave and obedient soldier to risk my life for this oath at any time.\""
 RUS_order_restored:0 "회복된 질서"
-RUS_order_restored_desc:0 ""
+RUS_order_restored_desc:0 "The dissent is crushed, our cities are pacified, the opposition is non existent. Our hold is secure and no more civil wars shall happen in Russia, and thus most of the repressive measures can be revocked and the status quo will be restored, but also enforced by our courts and soldiers."
 RUS_wind_changes:0 "변화의 바람"
-RUS_wind_changes_desc:0 ""
+RUS_wind_changes_desc:0 "The economy is rebuilt, the public order is restored, our enemies are defeated and our people accepted our rule. It's time to return to our normal order of business. 러시아 만세!"
 
 ###Reconciliation###
 RUS_on_way_reconciliation:0 "화해의 길에서"
@@ -904,11 +999,11 @@ RUS_oil_flow_desc:0 ""
 RUS_thrushes:0 "새떼를 이끄는 개똥지빠귀들"
 RUS_thrushes_desc:0 ""
 RUS_destroy_populists:0 "위험 대중주의자 파괴"
-RUS_destroy_populists_desc:0 ""
+RUS_destroy_populists_desc:0 "Russia has had a colorful history of political change and chaos, and one of the worst things to come out of that was the populistic forces of the left and the right. We must deal with neo-Bolshevik, neo-Menshevik, as soon as possible if we are to create a stable and wealthy Russia."
 RUS_ensure_loyalty:0 "육군 충성심 확보"
-RUS_ensure_loyalty_desc:0 ""
+RUS_ensure_loyalty_desc:0 "The Army harbors an unstable alliance with our government, and, like the wildcard that they are, we need to control the military to secure our regime."
 RUS_death_councilists:0 "평의회주의자들에게 죽음을"
-RUS_death_councilists_desc:0 ""
+RUS_death_councilists_desc:0 "The Hunnic menace has once again begun posturing at our border, this time not as a fight between nations, but a fight for the Survival of nations against the vile populistic machinations of Councilism. We must destroy socialist elements within our nation if we are to fight Germany and their clique in the future."
 RUS_death_traitors:0 "우리 중 반역자들에게 죽음을"
 RUS_death_traitors_desc:0 ""
 RUS_revival_motherland:0 "모국의 부흥"
