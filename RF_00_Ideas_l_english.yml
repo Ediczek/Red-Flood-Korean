@@ -381,7 +381,7 @@ l_english:
  partial_economic_mobilisation:0 "Partial Mobilization"
  war_economy:0 "War Economy"
  tot_economic_mobilisation:0 "Total Mobilization"
- idea_group_mobilization_laws:0 "Conscription Laws"
+ idea_group_RF_mobilization_laws:0 "Conscription Laws"
  disarmed_nation:0 "Disarmed Nation"
  volunteer_only:0 "Volunteer Only"
  limited_conscription:0 "Limited Conscription"
@@ -480,8 +480,8 @@ l_english:
  idea_group_air_warfare_desc:0 "Ideas and people that boost air warfare research and engagements"
  idea_group_medium_aircraft_manufacturer:0 "Medium Aircraft Manufacturer"
  idea_group_heavy_aircraft_manufacturer:0 "Heavy Aircraft Manufacturer"
- idea_group_trade_laws:0 "Trade Laws"
- idea_group_trade_laws_desc:0 "Chose a Trade Law for our nation"
+ idea_group_RF_trade_laws:0 "Trade Laws"
+ idea_group_RF_trade_laws_desc:0 "Chose a Trade Law for our nation"
  free_trade:0 "Free Trade"
  export_focus:0 "Export Focus"
  limited_exports:0 "Limited Exports"
@@ -2592,7 +2592,7 @@ l_english:
  ARY_rss_militias:0 "RSS miltias"
  ARY_rss_militias_desc:0 "Created in 1925 by K.B. Hedgewar to promote the Hindtuva ideology the Rashtriya Swayamsevak Sangh is the biggest and most powerful paramilitary organization in the Indian subcontinent and thanks to Hedgewar admiration for Savarkar they have lend us their full support. Thanks to this we have RSS members and volunteers fighting together with our army and in separate militia units, helping on logistics as well as on military public works and most important helping to increase recruitment by being able to reach the corners of society we cannot."
  ARY_ethnic_tensions:0 "Etnhic tensions" 
- ARY_ethnic_tensions_desc:0 "Our Hindu nationalist government and its polices have caused considerable pushback from the Muslim community, with many withing the community radicalizing, and so we have been seen increasing conflicts between Hindus and Muslims as well as terrorist attacks by the Muslim League, which operates illegally in the country. If we want to tap into the Muslim community for the war effort and guarantee stability at home we must find a way to pacify this conflict"
+ ARY_ethnic_tensions_desc:0 "Our Hindu nationalist government and its polices have caused considerable pushback from the Muslim community, with many withing the community radicalizing, and so we have been seening increasing conflicts between Hindus, widespread insubordination by muslim conscripts and Muslims as well as terrorist attacks by the Muslim League, which operates illegally in the country. If we want to tap into the Muslim community for the war effort and guarantee stability at home we must find a way to pacify this conflict"
  ARY_abhinav_bharat_society:0 "The Abhinav Bharat Society"
  ARY_abhinav_bharat_society_desc:0 "The Abhinav Bharat Society is a secret society created by Vinayak Damodar Savarkar and his brother Ganesh Damodar Savarkar in 1904. Initially it was a small revolutionary society with the aim of ending the British rule over India by means of assassinations and espionage but after the fall of the Raj and the rise of Vinayak, the society has been expanded and now serves as an unofficial secret police serving as the eyes and ears of Vinayak, withing Aryavarta as well as internationally, as well as working to neutralize any threat to his rule and government by all means necessary."
  POR_divided_republic:0 "Divided Republic"
@@ -2603,10 +2603,22 @@ l_english:
  POR_political_chaos_desc:0 "Thanks to our political and economic situation Portugal has served as a breeding ground for radicalism, from nationalist and communist paramilitary groups fighting in the streets to constant strikes called by the anarchist dominated trade unions. These events have made any sense of normality in the country disappear and showed the instability of the Portuguese system to all"
  CEY_theosophical_subversion:0 "Theosophical Subversion of the State"
  CEY_theosophical_subversion_desc:0 "Since the day that the Theosophical society in India proclaimed the rise of the "World Teacher" at the beginning of the Indian civil war with the intent of unifying the continent under his rule, The powerfull and influent Theosophical society in Ceylon has been carrying out subversive and terrorist activities to take control of the government and united itself with the Order in India. A formal ban of the organization as well as a series of repressive measures taken against suspected members have been unable to stop the growth of the secret society both because its anti-colonialist appeal as well as strong connections with Buddhist organizations and temples all over Ceylon"
-
-
-
-
+ ORS_religious_fanaticism:0 "Religious Fanaticism"
+ ORS_inexperienced_administration:0 "Inexperienced Administration"
+ MYS_prospering_state:0 "Prosperous State"
+ MYS_refugee_crisis:0 "Refugee Crisis"
+ MYS_refuge_of_the_elites:0 "Refuge of the Elites"
+ TRA_political_agitation:0 "Political Agitations"
+ TRA_feudal_economy:0 "Feudal Economy"
+ HYD_MIM_militias:0 "Majlis-e-Ittehadul Muslimeen Militias"
+ HYD_widespread_insurgence:0 "Widespread insurgence"
+ PNJ_autoritarian_minority_rule:0 "Autoritarian Minority Rule"
+ PNJ_elite_sikh_army:0 "Elite Sikh Army"  
+ RSR_popular_mobilization:0 "Popular Mobilization" 
+ RSR_industrialization_program:0 "Industrialization program"
+ RSR_princely_resistence:0 "Princely Resistence"
+ 
+ 
 
 #################################################################
 
