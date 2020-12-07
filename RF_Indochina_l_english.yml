@@ -13,9 +13,9 @@ DAI_JAP_right_authoritarianism_ADJ:0 "인도차이나"
 
 #ANTI-JAP FRONT#
 
-DAI_UAF_conservatism:0 "United Anti-Japanese Front"
-DAI_UAF_conservatism_DEF:0 "the UA-JF"
-DAI_UAF_conservatism_ADJ:0 "United Anti-Japanese Front"
+DAI_UAF_conservatism:0 "항일 통합전선"
+DAI_UAF_conservatism_DEF:0 "UA-JF"
+DAI_UAF_conservatism_ADJ:0 "항일 통합전선"
 
 #PARTIES#
 DAI_vanguard_socialism_party:0 "PRUP"
@@ -36,7 +36,7 @@ DAI_revolutionary_anarchism_party_long:0 "Union of Farmer's Communes"
 DAI_revisionist_socialism_party_long:0 "인도차이나 사회주의당"
 DAI_social_democratism_party_long:0 "인도차이나 진보시민당"
 DAI_liberalism_party_long:0 "인도차이나 입헌공화당"
-DAI_conservatism_party_long:0 "Indochinese Renaissance Party"
+DAI_conservatism_party_long:0 "인도차이나 Renaissance Party"
 DAI_right_authoritarianism_party_long:0 "People's Dignity Party of Indochina"
 DAI_despotism_party_long:0 "응우웬조 충성파 잔존군"
 DAI_reactionism_party_long:0 "까오다이회"
@@ -44,25 +44,25 @@ DAI_accelerationism_party_long:0 "The Harmony and Future Party of Indochina"
 
 #LEADER DESCRITIONS#
 #IDEAS#
-DAI_acolonialstate:0 "A Colonial State"
+DAI_acolonialstate:0 "식민국가"
 DAI_acolonialstate_desc:0 "We are a colonial state, as a result few people see our government as legitimate, and fewer still think of us as something worth dying for."
-DAI_united:0 "Unified by Colonialism"
+DAI_united:0 "식민주의에 의한 통합"
 DAI_united_desc:0 "Dozens of ethnic groups, religions, and languages are united under one banner, and none of them seem happy about it - however it seems like more and more people are willing to put aside their differences in order to fight off the colonists."
 
 #EVENTS#
 
-dainam.1.t:0 "Collapse of Colonial Government"
+dainam.1.t:0 "식민정부 붕괴"
 dainam.1.desc:0 ""
-dainam.1.a:0 "Form the Anti-Japanese Front!"
-dainam.1.b:0 "Japan saved us from ruin, stay loyal! (play as the SMC)"
+dainam.1.a:0 "항일 전선을 구축한다!"
+dainam.1.b:0 "일본이 우리를 멸망에서 구원하리라. 오직 충성! (사이공 군벌로 플레이)"
 
-dainam.99.t:0 "Indo-China in 1936"
+dainam.99.t:0 "1936년의 인도차이나"
 dainam.99.desc:0 "France fell, and its most far-flung colonies suddenly found themselves alone and without any support from the French state. Governors fled, leaving the peninsula to fend for itself. And from there, the Japanese came, offering to take control of Indo-China. The Laotians, Vietnamese, and Cambodians that once were under French rule, breathed a sigh of relief. Finally, people like themselves, helping Indo-China become a true, modern state. And then the Japanese colonial forces came over. They mocked them for their fumbling attempts at Japanese, for their smaller stature, for everything the Japanese deemed 'inferior' in the Indo-Chinese. They who had come as liberators soon revealed themselves to be as cruel as the French, as derisive and insulting. And the Indo-Chinese started to foment rebellion, taking pride not in their own individual tribes, but in the nation of Indo-China, in the Cambodians and Vietnamese who stood alongside each other under each oppressor, and had stood strong. They took pride in the commonalities between their otherwise different peoples, and prepared to throw off the shackles of colonialism. Saigon, the capital of Indo-China, and the seat of the Japanese colonial administration, is firmly in Japanese hands. Soldiers march up and down the streets of Saigon, through the many districts and suburbs of the. Gia Dinh, the industrial district, smells of coke and coal, smelting iron and burning charcoal. Tan Binh, a district intended to be the new headquarters of the administration, as the original beating heart of the city has grown too crowded, is full of aristocrats and old guard, determining the lives of thousands with quotas and laws. Thu Duc-Nha Be is full of Japanese ships, moving back and forth between the ports of the colony and mainland, where fishermen try to compete with vast nets, undercut at ever chance by their Japanese overlords. It is in these environments that rebellion is smoldering, ready to ignite."
-dainam.99.a:0 "Freedom comes at a price."
+dainam.99.a:0 "자유에는 대가가 따르는 법."
 
-dainam.100.t:0 "Saigon protest"
+dainam.100.t:0 "사이공 시위"
 dainam.100.desc:0 "Today, the Japanese Colonial Administration’s headquarters, a large building in central Saigon, was attacked. Hundreds of armed protestors and rioters, with everything ranging from simple bamboo polls to outdated (but still deadly) firearms. The Japanese soldiers, with their bolt-action arisakas, fought to the death, but the crowd seemed to grow. Every shot taken, two more Vietnamese would join the crowd. Every martyr bleeding on the street inspired dozens more to join.\n\nEven as the soldiers retreated into the building, locking doors and barricading themselves within the administrative building, they were followed. Rickshaws were filled with stones and pushed by straining crowds, smashing into doors and windows. Molotov cocktails prepared from old rice-wine bottles smashed against walls and chairs. \n\nInside, Lieutenant Imaeda Soseki prepared for the end. He and the twenty remaining guards accepted that today was the day they died. Shots of sake were poured. Bayonets were fixed. And Imaeda let out a long, haggard sigh.\n\n“Tenno heika banzai,” he whispered coldly. The soldiers around him repeated, louder. He rose his voice. “Tenno heika banzai!” He shouted. The soldiers around him repeated, louder. And soon, a harmony of twenty one men, ready to die, and die painfully, rose to a fever pitch. They charged the crowd that was now pouring through the embassy, screaming their warcry, only to be met by the louder, clearer, and more determined shouts of:\n\n “Dong Duong Mai Mai Truong Ton!”"
-dainam.100.a:0 "We will weather the storm."
+dainam.100.a:0 "우리는 폭풍을 이겨내리라."
 
 
 
