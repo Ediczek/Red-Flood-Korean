@@ -3,38 +3,38 @@
 #COUNTRY NAME#
 
 #PARTIES#
-CCD_vanguard_socialism_party:0 "Baku Commissariat"
-CCD_vanguard_socialism_party_long:0 "Council of People's Commissars of Baku Commune"
+CCD_vanguard_socialism_party:0 "바쿠 위원부"
+CCD_vanguard_socialism_party_long:0 "바쿠 코뮌 인민위원평의회"
 
-CCD_libertarian_marxism_party:0 "Adalat"
-CCD_libertarian_marxism_party_long:0 "Adalat"
+CCD_libertarian_marxism_party:0 "에덜래트"
+CCD_libertarian_marxism_party_long:0 "정의당"
 
-CCD_revolutionary_anarchism_party:0 "Anarchists"
-CCD_revolutionary_anarchism_party_long:0 "Anarchist Confederation of Baku"
+CCD_revolutionary_anarchism_party:0 "아나키스트파"
+CCD_revolutionary_anarchism_party_long:0 "바쿠 아나키스트 연맹"
 
-CCD_revisionist_socialism_party:0 "Huntchakians"
-CCD_revisionist_socialism_party_long:0 "Hnch'akyan Khmakts'ut'yun"
+CCD_revisionist_socialism_party:0 "훈차크"
+CCD_revisionist_socialism_party_long:0 "훈차크 사회민주당"
 
-CCD_social_democratism_party:0 "Dashnaks"
-CCD_social_democratism_party_long:0 "Dashnaktsutyun"
+CCD_social_democratism_party:0 "다쉬나크"
+CCD_social_democratism_party_long:0 "다쉬나크당"
 
-CCD_liberalism_party:0 "Musavat"
-CCD_liberalism_party_long:0 "Musavat"
+CCD_liberalism_party:0 "뮈새배트"
+CCD_liberalism_party_long:0 "평등당"
 
-CCD_conservatism_party:0 "Ittihad"
-CCD_conservatism_party_long:0 "Ittihad"
+CCD_conservatism_party:0 "이티해드"
+CCD_conservatism_party_long:0 "연합당"
 
-CCD_right_authoritarianism_party:0 "Armenian Collaborationists"
-CCD_right_authoritarianism_party_long:0 "Armenian Collaborationists"
+CCD_right_authoritarianism_party:0 "아르메니아 협력파"
+CCD_right_authoritarianism_party_long:0 "아르메니아 협력파"
 
-CCD_despotism_party:0 "Armenian Administration"
-CCD_despotism_party_long:0 "Emergency Armenian Military Administration"
+CCD_despotism_party:0 "아르메니아 행정부"
+CCD_despotism_party_long:0 "아르메니아 긴급군사행정부"
 
-CCD_reactionism_party:0 "Turkish Collaborationists"
-CCD_reactionism_party_long:0 "Young Turks of Baku"
+CCD_reactionism_party:0 "터키 협력파"
+CCD_reactionism_party_long:0 "바쿠 청년 튀르크당"
 
-CCD_accelerationism_party:0 "Caspian Muse"
-CCD_accelerationism_party_long:0 "Artistic Federation 'Caspian Muse'"
+CCD_accelerationism_party:0 "카스피야 무사이"
+CCD_accelerationism_party_long:0 "'카스피야 무사이' 예술연방"
 
 #LEADER DESCRITIONS#
 #IDEAS#
