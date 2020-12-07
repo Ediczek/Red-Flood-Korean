@@ -51,6 +51,8 @@ People's Republic/ Popular Republic - 인민공화국
 
 Syncretism - 습합주의
 
+Syndicate - 조합 (혹은 명사형인 신디컷)
+
 
 <목록: 고유명사>
 
