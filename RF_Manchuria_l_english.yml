@@ -9,25 +9,25 @@ MAN_JAP_right_authoritarianism:0 "만철"
 MAN_JAP_right_authoritarianism_DEF:0 "만철"
 MAN_JAP_right_authoritarianism_ADJ:0 "만철"
 
-MAN_JAP_despotism:0 "Mantetsu"
-MAN_JAP_despotism_DEF:0 "Mantetsu"
-MAN_JAP_despotism_ADJ:0 "Mantetsu"
+MAN_JAP_despotism:0 "만철"
+MAN_JAP_despotism_DEF:0 "만철"
+MAN_JAP_despotism_ADJ:0 "만철"
 
-MAN_JAP_accelerationism:0 "Reformist Japan"
-MAN_JAP_accelerationism_DEF:0 "Reformist Empire of Japan"
-MAN_JAP_accelerationism_ADJ:0 "Japanese"
+MAN_JAP_accelerationism:0 "Reformist 일본"
+MAN_JAP_accelerationism_DEF:0 "일본 Reformist 제국"
+MAN_JAP_accelerationism_ADJ:0 "일본"
 
-MAN_north_china:0 "North China Governorate"
-MAN_north_china_DEF:0 "Japanese Mandate of North China"
-MAN_north_china_ADJ:0 "Sino-Japanese"
+MAN_north_china:0 "북중국 총독부"
+MAN_north_china_DEF:0 "북중국 일본 위임령"
+MAN_north_china_ADJ:0 "일본령 중국"
 
-MAN_national_govt:0 "Fengtian Government"
-MAN_national_govt_DEF:0 "Fengtian Government"
-MAN_national_govt_ADJ:0 "Fengtian"
+MAN_national_govt:0 "봉천 정부"
+MAN_national_govt_DEF:0 "봉천 정부"
+MAN_national_govt_ADJ:0 "봉천"
 
-MAN_unity_govt:0 "Republic of China"
-MAN_unity_govt_DEF:0 "United Republic of China"
-MAN_unity_govt_ADJ:0 "Chinese"
+MAN_unity_govt:0 "중화민국"
+MAN_unity_govt_DEF:0 "중화United민국"
+MAN_unity_govt_ADJ:0 "중국"
 
 #PARTIES#
 
@@ -52,15 +52,15 @@ MAN_despotism_party_long:0 "관동 군정"
 MAN_reactionism_party:0 "복벽주의파"
 MAN_reactionism_party_long:0 "청 복벽전선"
 MAN_accelerationism_party:0 "CYP-M"
-MAN_accelerationism_party_long:0 "China Youth Party - Manchuria"
+MAN_accelerationism_party_long:0 "중국청년당 - 만주"
 
 MAN_JAP_accelerationism_party:0 "Kakushin Kanryō"
 MAN_JAP_accelerationism_party_long:0 "Reformist Technocrats"
 
 MAN_FNG_right_authoritarianism_party:0 "FC-G"
-MAN_FNG_right_authoritarianism_party_long:0 "Fengtian Clique - Governorate"
+MAN_FNG_right_authoritarianism_party_long:0 "봉천 군벌 총독부"
 MAN_FNG_despotism_party:0 "FMC"
-MAN_FNG_despotism_party_long:0 "Fengtian Military Clique"
+MAN_FNG_despotism_party_long:0 "봉천 군벌"
 #LEADER DESCRITIONS#
 
 #IDEAS#
@@ -127,12 +127,12 @@ MAN_the_impossible_task:0 "Mantetsu Governorate will attempt to hold on..."
 
 MAN_SETTING_SUN_DESC:0 "The South Manchurian Governorate, better known by the company name Mantetsu, is a major lifeline for the Empire of Japan. The colony is dominated by corporate interests, with the Zaibatsus and Japanese Government co-operating on daily operations. The situation is fragile however; the remains of the Fengtian Army as well as exiled Japanese radicals threaten to upset business in the region."
 #Ministers#
-MAN_zhang_jinghui_hog:0 "Zhang Jinghui"
-MAN_zuolin_hog:0 "Zhang Zuolin"
+MAN_zhang_jinghui_hog:0 "장징후이"
+MAN_zuolin_hog:0 "장줘린"
 MAN_minobe_hog:0 "Minobe Tatsukichi"
 MAN_nobosuke_kishi_hog:0 "Kishi Nobosuke"
 
-MAN_yanqing_for:0 "Zhang Yanqing"
+MAN_yanqing_for:0 "장옌칭"
 MAN_yosuke_matsuoka_for:0 "Matsuoka Yōsuke"
 
 MAN_nobosuke_kishi_eco:0 "Kishi Nobosuke"
@@ -140,18 +140,18 @@ MAN_takuo_godo_eco:0 "Godō Takuo"
 MAN_ikeda_shigeaki_eco:0 "Ikeda Shigeaki"
 MAN_yosuke_matsuoka_eco:0 "Matsuoka Yōsuke"
 
-MAN_dogmeat_sec:0 "Zhang Zongchang"
+MAN_dogmeat_sec:0 "장중창"
 
-MAN_jinghui_cos:0 "Zhang Jinghui"
+MAN_jinghui_cos:0 "장징후이"
 MAN_itagaki_cos:0 "Itagaki Seishirō"
-MAN_xueliang_cos:0 "Zhang Xueliang"
-MAN_haipeng_cos:0 "Zhang Haipeng"
+MAN_xueliang_cos:0 "장쉐량"
+MAN_haipeng_cos:0 "장하이펑"
 
-MAN_ishiwara_cao:0 "Ishiwara Kanji"
-MAN_doihara_cao:0 "Doihara Kenji"
+MAN_ishiwara_cao:0 "이시와라 칸지"
+MAN_doihara_cao:0 "도이하라 켄지"
 MAN_kanin_cao:0 "Kan'in Kotohito"
-MAN_xueliang_cao:0 "Zhang Xueliang"
-MAN_haipeng_cao:0 "Zhang Haipeng"
+MAN_xueliang_cao:0 "장쉐량"
+MAN_haipeng_cao:0 "장하이펑"
 
 #DECISIONS (1.5 Update)#
 
@@ -160,7 +160,7 @@ man.1.t:0 "Imperial Family Flees to Manchuria"
 man.1.d:0 "With Revolutionary forces quickly overrunning loyalist forces, and the fall of the capital, the Imperial family has seen fit to flee the country to escape persecution at the hands of socialist forces. The governors in the former dominion of Manchuria have welcomed them, as they docked in Dalian aboard an unassuming ship. Not only do the family seek to preserve their lives, but to also form an imperial government in exile to oppose the revolution which has bloodily seized Japan."
 man.1.a:0 "He who fights and runs away..."
 
-man.2.t:0 "Northern Intervention"
+man.2.t:0 "북방 개입"
 man.2.d:0 ""
 man.2.a:0 "Their oppression of our brothers shall end."
 
@@ -168,31 +168,31 @@ man.3.t:0 "Execution of Zhang"
 man.3.d:0 ""
 man.3.a:0 "Good ridance to a mad dog."
 #KMT reconciliation
-man.4.t:0 "Reconiliation with the Nanjing Government"
+man.4.t:0 "남경 정부와의 화해"
 man.4.d:0 ""
 man.4.a:0 "United we stand."
 #MON reconciliation
-man.5.t:0 "Reconiliation with the Anhui Clique"
+man.5.t:0 "안휘 군벌과의 화해"
 man.5.d:0 ""
 man.5.a:0 "United we stand."
 #GDP reconciliation
-man.6.t:0 "Reconiliation with the Liangguang Clique"
+man.6.t:0 "양광 군벌과의 화해"
 man.6.d:0 ""
 man.6.a:0 "United we stand."
 #SHA reconciliation
-man.7.t:0 "Reconiliation with the Zhili Clique"
+man.7.t:0 "직례 군벌과의 화해"
 man.7.d:0 ""
 man.7.a:0 "United we stand."
 
-man.8.t:0 "The White Terror"
+man.8.t:0 "백색 테러"
 man.8.d:0 ""
 man.8.a:0 "The reds will bleed."
 
-man.9.t:0 "The Jinzhou Declaration"
+man.9.t:0 "진저우 선언"
 man.9.d:0 ""
 man.9.a:0 "We are generous masters."
 
-man.10.t:0 "The Exploitation Ends"
+man.10.t:0 "착취의 끝"
 man.10.d:0 ""
 man.10.a:0 "The Empire's ways will never return."
 
@@ -204,7 +204,7 @@ man.12.t:0 "Technocrats Purged Again"
 man.12.d:0 ""
 man.12.a:0 "Good ridance to bad rubbish."
 
-man.13.t:0 "The Emperor From Japan"
+man.13.t:0 "일본에서 온 천황"
 man.13.d:0 ""
 man.13.a:0 "Yasuhito keeps his title."
 
@@ -234,24 +234,24 @@ man.18.a:0 "Is the labour worth the bloody price?"
 man.19.t:0 "The Siege Of Mukden"
 man.19.d:0 "The military takeover is complete, yet the Chinese persist. There is now a serious Fengtian force massing near Mukden, the Kwantung Army is not in position and the garrison is under-supplied. Should they take the city the colony will effectively cease to exist, Shinkyo and Jinzhou are already cut off by bandits. The crisis has arrived, Mantetsu's end is nigh."
 man.19.a:0 "Someone stop them!"
-
 man.19.b:0 "Welcome home brothers."
+
 man.20.t:0 "The Status Of The Aristocracy"
 man.20.d:0 "Many of the Japanese aristocracy have sought solace and refuge in Manchuria, the problem now is whether to maintain their status. As Japanese citizens they already enjoy many privileges, but are destitute in comparison to their lavish lifestyles in the home islands. The petitions are now daily, with tithes and bribes becoming widespread. We must decide how to proceed, do we maintain the aristocracy, strip it of power but maintain special status, or eliminate their privliges altogether?"
 man.20.a:0 "Maintain their position."
-
 man.20.b:0 "Do away with these titles."
 man.20.c:0 "Let them keep the titles but strip their powers."
-man.21.t:0 "The Status Of The Manchus"
+
+man.21.t:0 "만주인들의 지위"
 man.21.d:0 "There have been repeated suggestions and initiatives to involve the native Manchurians in government and military matters as a means of legitimising our rule of the region. By exaggerating ethnic tensions between the Chinese poeple's and involving the North's natives we can build a stronger base of support, but risk losing control of certain departments to nativist opposition. The alternative is far less savoury but would guarantee loyalties with an all-japanese staff. Of course the ever-present ideas of a reformist compromise linger as a potential solution, with a promotion of Manchu culutre and language ahead of Han Chinese presenting an opportunity to build a 5th column within the Chinese."
 man.21.a:0 "We are cousins after all."
-
 man.21.b:0 "They are no better than the Han."
 man.21.c:0 "They are the better of the two peoples."
-man.22.t:0 "The Marco Polo Bridge Incident" #usurping the BYJ
+
+man.22.t:0 "노구교 사건" #usurping the BYJ
 man.22.d:0 "How hard could it be to provoke a warlord into rash action? Not hard at all, it seems. The mutual distrust between Fengtian and Shanxi has resulted in a prime opportunity to instigate a coup. Through cunning and guile Fengtian troops have been permitted passage into Beijing to guard a party of officials, they arrived to settle a trade dispute, but little did they know they were part of a bigger design. Once the Fengtian entourage crossed the Marco Polo Bridge, a bomb was detonated, obviously the Shanxi had attacked Fengtian troops and officials on a diplomatic mission. Outrageous! With confusion in the Shanxi ranks, several Fengtian divisions mobilised and entered Beijing as a relief force. The ensuing fight quickly descended into a siege with the Shanxi officials as hostages. The outcome remains unclear, a war to enact vengeance could be called, or the young marshal could rally a diplomatic response and force the many bickering Beiyang Generals to abandon the Shanxi for the Fengtian. If the coup works, the Fengtian would become the dominant force in the North."
-man.22.a:0 "Declare War."
-man.22.b:0 "Begin the coup."
+man.22.a:0 "전쟁 선포."
+man.22.b:0 "정변 개시."
 
 man.23.t:0 "The Failing Fugu Plan"
 man.23.d:0 "At its conception the Fugu Plan was a wild venture, importing jews from various parts of Russia and Asia to join a fledgling Jewish colony in Manchuria sounds like a pipedream. Nontheless the Japanese authroities had committed to the plan, now however, with their grip on the colony slipping away, the Jews in Sunkiang have petitioned the Russian Republic for aid."
@@ -262,7 +262,7 @@ man.24.d:0 "The notorious Zhang Zongchang is once more afoot in Northern China. 
 man.24.a:0 "What a ridiculous suggestion!"
 man.24.b:0 "Fine, let him go and bother someone else for a week or two."
 
-man.241.t:0 "A Week In Le Soleil"
+man.241.t:0 "르 솔레유에서의 한 주"
 man.241.d:0 "The arrival of the Dogmeat General’s entourage into Le Soleil was a sight to behold, more than a dozen cars and several luggage cases brimming with who-knows-what strapped to their roofs. The General wasted no time taking in the sights and pleasures of Le Soleil with his concubines and retinue. After a tour of the city, including the new le musée d'art futuriste, he and his party occupied a theatre in the old Île de la Cité. Several party-goers reported high-level French officials enthusiastically partaking in heavy opium smoking and dancing with Zhang’s women. Before long - they say - the General retired to a French brothel for the night, hiring the entire establishment for himself and his party. This typified his week.\nOn the morning of the duel he was found in a spa on the outskirts of the city, nursing a severe hangover and surrounded by French escorts.\nFor all his decadence he was surprisingly lucid during the duel itself, his uniform was pristine too, as translators scrambled to reconstruct Khlebnikov’s verses into Russian, then French, then finally Chinese, Zhang stood smiling and smoking a comically large cigar.\nWhen his parry came it was brutal, efficient and yet deft. The French observers choked on their laughter, the retort which would later be titled “A severe burn” appeared to flumox Khlebnikov. Who attempted to continue combat before stammering on his final line. Zhang’s reply was a killing blow - “This skinny shit is wasting time, he is but a little man with a little cock, end this parade so I can fuck some more.”\n“Such a man!”\n“So powerful.”\n“He pushes the boundaries with every line.”\n“Velimir never stood a chance against his manhood.”\nThe celebrations of his victory lasted the weekend, and quotations headlined the Le Soleil morning editions of Le Jet de Sang. By the time he set about leaving the city he had become a French celebrity. His last words before boarding his plane were “I’ll be back, first I have to go kill some bastard communists at home.”"
 man.241.a:0 "Why could he not stay?!"
 man.241.b:0 "He is needed elsewhere."
