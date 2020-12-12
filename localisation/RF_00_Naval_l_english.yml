@@ -6,16 +6,16 @@ NAME_THEME_ROYAL_BARGE:0 "Royal Barge"
 NAME_THEME_ROYAL_HOUSES:0 "Royal Houses & Nobilities"
 
 ### Folders ###
-escort_ships_folder:0 "Ship Designs"
+escort_ships_folder:0 "선박 설계"
 escort_ships_folder_desc:0 "A naval fleet is a crucial part of any country."
-escort_ships_nonmtg_folder:0 "Ship Designs"
+escort_ships_nonmtg_folder:0 "선박 설계"
 escort_ships_nonmtg_desc:0 "An naval fleet is a crucial part of any country."
 
 ### Titles and Class Descriptions ###
-submarine:0 "Submarine"
+submarine:0 "잠수함"
 submarine_desc:0 "Submarines are stealthy raiding vessels. Heavy submarines are larger and more powerful, with a longer operational range, and some surface-to-surface and shore bombardment capability."
 
-destroyer:0 "Destroyer"
+destroyer:0 "구축함"
 destroyer_desc:0 "The lightest screening vessel. Its job is to defend larger ships and to find and destroy submarines, and it can also menace unescorted capital ships."
 
 light_cruiser:0 "Escort Cruiser"
