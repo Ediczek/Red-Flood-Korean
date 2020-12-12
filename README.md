@@ -1,4 +1,4 @@
-# 본 번역은 카이저라이히 갤러리 번역팀 소속임. 해당 디스코드(https://discord.gg/fGPdPFP)에 가입한 후 application란에 깃헙 정보를 입력해야 참여 가능함을 알림 #
+# 본 번역은 카이저라이히 갤러리 번역팀 소속임. 해당 디스코드( https://discord.gg/fGPdPFP )에 가입한 후 application란에서 깃헙 정보를 입력해야 참여 가능함을 알림 #
 
 ::레드 플러드 국역화 현장 탐방 안내서: 바깥말의 옮김에 대하여::
 
@@ -49,7 +49,9 @@ Hegemony - 패권
 
 People's Republic/ Popular Republic - 인민공화국
 
-└ 슬라브어계의 Narodna Republika 등도 이에 포함한다
+└ 슬라브어계의 Narodna Republika 등도 이에 포함한다.
+
+Scandal - 추문
 
 Syncretism - 습합주의
 
