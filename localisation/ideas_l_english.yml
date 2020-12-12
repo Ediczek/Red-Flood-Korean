@@ -1,6 +1,6 @@
 ﻿l_english:
- received_attache:0 "Received attaché"
- received_attache_desc:0 "Foreign military attachés residing in our country."
+ received_attache:0 "파견고문단"
+ received_attache_desc:0 "외국 군사고문단이 자국에 주재 중입니다."
  ATTACHE_LIST:0 "We received military attachés from $LIST$. And they give us the following effects:"
  undisturbed_isolation:0 "Undisturbed Isolation"
  undisturbed_isolation_desc:0 "Still recovering from the Great Depression and the Dust Bowl famine, the nation is slowly rebuilding its infrastructure. America's industries are in most cases working at half capacity, and will keep doing so unless major events rouse the nation from torpor."
