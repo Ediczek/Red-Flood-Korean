@@ -130,15 +130,15 @@ MAN_SETTING_SUN_DESC:0 "The South Manchurian Governorate, better known by the co
 MAN_zhang_jinghui_hog:0 "장징후이"
 MAN_zuolin_hog:0 "장줘린"
 MAN_minobe_hog:0 "Minobe Tatsukichi"
-MAN_nobosuke_kishi_hog:0 "Kishi Nobosuke"
+MAN_nobosuke_kishi_hog:0 "키시 노부스케"
 
 MAN_yanqing_for:0 "장옌칭"
-MAN_yosuke_matsuoka_for:0 "Matsuoka Yōsuke"
+MAN_yosuke_matsuoka_for:0 "마츠오카 요스케"
 
-MAN_nobosuke_kishi_eco:0 "Kishi Nobosuke"
+MAN_nobosuke_kishi_eco:0 "키시 노부스케"
 MAN_takuo_godo_eco:0 "Godō Takuo"
 MAN_ikeda_shigeaki_eco:0 "Ikeda Shigeaki"
-MAN_yosuke_matsuoka_eco:0 "Matsuoka Yōsuke"
+MAN_yosuke_matsuoka_eco:0 "마츠오카 요스케"
 
 MAN_dogmeat_sec:0 "장중창"
 
@@ -156,15 +156,15 @@ MAN_haipeng_cao:0 "장하이펑"
 #DECISIONS (1.5 Update)#
 
 #EVENTS#
-man.1.t:0 "Imperial Family Flees to Manchuria"
+man.1.t:0 "Imperial Family가 만주로 도망치다"
 man.1.d:0 "With Revolutionary forces quickly overrunning loyalist forces, and the fall of the capital, the Imperial family has seen fit to flee the country to escape persecution at the hands of socialist forces. The governors in the former dominion of Manchuria have welcomed them, as they docked in Dalian aboard an unassuming ship. Not only do the family seek to preserve their lives, but to also form an imperial government in exile to oppose the revolution which has bloodily seized Japan."
 man.1.a:0 "He who fights and runs away..."
 
 man.2.t:0 "북방 개입"
 man.2.d:0 ""
-man.2.a:0 "Their oppression of our brothers shall end."
+man.2.a:0 "우리 형제들에 대한 억압은 끝나게 될 것이다."
 
-man.3.t:0 "Execution of Zhang"
+man.3.t:0 "Zhang 처형"
 man.3.d:0 ""
 man.3.a:0 "Good ridance to a mad dog."
 #KMT reconciliation
