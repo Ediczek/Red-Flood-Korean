@@ -530,7 +530,7 @@ PRS_Soldier_Kaiserin_desc:0 "빅토리아 루이제 여제께선 프로이센이
 PRS_Enlight_Despotism:0 "계몽전제주의"
 PRS_Enlight_Despotism_desc:0 "여제께선 그분의 치세가 진보의 한 조각이 되어야 한다 선언하셨습니다. 그분께선 프로이센이 자신의 뿌리를 기억하여 미래를 향해 더 힘찬 발걸음을 내딛을 수 있도록 하실 예정이십니다. 폐하께서 프로이센에 적용된 여러 사회개혁안들을 철회하심이 우리의 정치와 문화에 큰 영향을 끼칠 것은 명확합니다."
 
-PRS_Integrate_Junta:0 "군사위원회 통합"
+PRS_Integrate_Junta:0 "군사위원회 흡수"
 PRS_Integrate_Junta_desc:0 "여제께서 그분의 황좌를 지키고자 하신다면 오랜 질서를 새 구조로 합쳐야 합니다. 시간과 노력이 필요하더라도 말입니다."
 
 PRS_Kaiser_Vision:0 "전망을 가진 황제시여!"
@@ -947,7 +947,7 @@ PRS_offer_arrangement_desc:0 "미래주의자들과 싸우는 동안 여왕께�
 PRS_eastern_crusade:0 "동방 십자군"
 PRS_eastern_crusade_desc:0 "프로이센의 운명은 유라시아 초열강으로서의 러시아의 지위를 빼앗는 것입니다. 군은 준비됐습니다. 이제 공격할 때입니다!"
 PRS_crown_empress_eurasia:0 "유라시아 여제로서의 즉위"
-PRS_crown_empress_eurasia_desc:0 "여제 빅토리아 루이제께선 정복자의 권리로서 러시아의 제위를 차지하셨습니다. 로마와 러시아와 프로이센의 후예로서, 폐하께선 유라시아 제국이라는 이름으로 그분의 작위들을 통합하실 것입니다."
+PRS_crown_empress_eurasia_desc:0 "여제 빅토리아 루이제께선 정복자의 권리로서 러시아의 제위를 차지하셨습니다. 로마와 러시아와 프로이센의 후예로서, 폐하께선 유라시아 제국이라는 이름으로 그분의 작위들을 합하실 것입니다."
 PRS_majesty_army:0 "폐하의 육군"
 PRS_majesty_army_desc:0 "우리 주군께선 신민 하나하나를 각별히 여기십니다. 모든 병사들은 자신들이 프로이센을 위해 싸우는 것이 곧 여왕 폐하를 위해 싸우는 것과 같으며, 죽어서나 살아서나 그분의 영원한 은총 안에 있음을 알고 있습니다. 우리의 사랑받는 전제군주를 향한 이러한 헌신은 우리 병사들로 하여금 여왕의 적에게 자살에 가까운 열기를 갖고 싸우게 만듭니다."
 PRS_women_army:0 "여성 입대"
@@ -1072,7 +1072,7 @@ PRS_beat_up_the_commie_bastards:0 "Beat up the Commie Bastards"
 PRS_beat_up_the_commie_bastards_desc:0 ""
 PRS_brawl_with_the_bear:0 "Brawl with the Bear"
 PRS_brawl_with_the_bear_desc:0 ""
-PRS_over_the_rhine:0 "Over the Rhine"
+PRS_over_the_rhine:0 "라인 너머"
 PRS_over_the_rhine_desc:0 ""
 #Economy
 PRS_prussian_economy:0 "프로이센 경제"
