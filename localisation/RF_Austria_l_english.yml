@@ -199,9 +199,9 @@ AUS_britainlove:0 "오스트리아의 외교"
 AUS_reactionaryscum:0 "반동 쓰레기"
 
 #CUSTOM TOOLTIPS AND FLAGS#
-AUS_civilwar:0 "§RThe civil war is raging.§!"
-AUS_socialistswon:0 "§RThe Reds won.§!"
-AUS_conservativeswon:0 "§RThe Conservatives won.§!"
+AUS_civilwar:0 "§R내전이 맹위를 떨치고 있습니다.§!"
+AUS_socialistswon:0 "§R적색파가 승리했습니다.§!"
+AUS_conservativeswon:0 "§R보수파가 승리했습니다.§!"
 
 #DECISIONS (1.5 Update)#
 AUS_hitler_speeches:0 "히틀러의 연설"
@@ -398,18 +398,18 @@ austria.1.t:0 "프란츠 페르디난트가 회의를 소집하다"
 austria.1.d:0 "오스트리아에서 정치상황의 저항이 고조되는 것을 보고, 황제 프란츠 페르디난트는 오스트리아 의회 내의 반항적인 목소리를 토의하고 해결할 목적으로 왕족과 저명한 정치인으로 구성된 회의를 소집했습니다."
 austria.1.a:0 "그들에게 행운이 따르길!"
 
-austria.2.t:0 "The Revolt, put down!"
+austria.2.t:0 "반란 진압!"
 austria.2.d:0 "Miscontent with the current government had reached it's maxima and we had fallen to civil war, but today all the bloodshed has ended as the leaders of the revolt have been captured and their paramilitaries disbanded."
 austria.2.a:0 "Peace Reigns!"
 
-austria.3.t:0 "Hmmm you're a stinky AI, atleast only an AI should see this tee hee"
+austria.3.t:0 "좆같은 ai 새끼. 근데 ai만 볼 수 있으니까 ㄲㄲ"
 austria.3.d:0 "Haha if you're not an AI, what if... we kissed behind the Parlamentsgebäude, haha, no... unless? no, haha. but what if?...\n\nAnyway, to more serious business the AUS should get all ASC controlled states and then AUS should change to the ideology of the ASC, at least thats what i think should happen, like i coded it like that to happen, if it didn't happen then i guess im a failure of a dev, bye."
-austria.3.a:0 "REPORT THIS AS A BUG"
+austria.3.a:0 "이거 버그니까 신고해 빨리"
 
-austria.4.t:0 "Anschluss Referendum" 
+austria.4.t:0 "합병 국민투표" 
 austria.4.d:0 "Our relationship with [GER.GetNameDef] has always been a tender one, now more than ever. As our governments are now aligned along the same path, a referendum has been called to decide upon our future, as many of our people are clamouring for unification with our northern brothers, to join the torchbearer of the revolution and to be at the vanguard of the liberation of the workers of the world. But there does exist an equal yet opposite voice decrying the unification, calling it an attack on Austrian autonomy and a betrayal of the socialist principles of self-determination, and instead advocating for solidarity and cooperation with [GER.GetNameDef], to fight in the struggle for peoples liberation!\nWhat will the referendums outcome be?"
 austria.4.a:0 "Our place is in [GER.GetNameDef], prepare the anschluss."
-austria.4.b:0 "We shall maintain our independence, and work in solidarity!"
+austria.4.b:0 "우리의 독립을 지키고 연대로써 나아가리라!"
 
 austria.7.t:0 "빨갱이 학살" 
 austria.7.d:0 "전쟁과 그 여파로 제국의 많은 부분을 잃은 후 군주의 지위는 많은 정치권에서 큰 논쟁의 대상이 되었습니다. \n 황제 오토 프란츠가 자신의 가문 일원들과 오스트리아 사회의 엘리트들, 그리고 오스트리아의 미래 속에서 왕정이 어디에 위치하는지를 논의하기 위해 기독사회당의 선도적인 파벌을 부른 것은 이러한 강도 높은 논의와 반대되는 것이였습니다. \n 두 시간 동안의 건조한 대화가 지나가고 난 후, 복도 정문에 배정된 두 명의 근위대가 난입하여 통계학자인 브레이스키가 전하는 이야기를 중단시켰습니다. 뒤이어 일어난 일은 우리 사회의 근간을 강타했습니다. \n 근위대 중 한 명이 앉아 있는 합스부르크 가문원에게 총을 쏘았고, 다른 한 명은 문을 잠그고 대학살에서 도망치는 이에게 총기를 난사했습니다. \n 총격은 몇 분 안에 대응한 지역 경찰들에게 다른 경비원들이 알려주었습니다. 두 명의 총잡이들은 그들의 위치를 확고히 했고 급하게 전개한 포위망 속에 갇혔습니다. 경찰이 복도에 침입하여 무장대원들을 무력화시킬 수 있을 때쯤에는 여러 명의 무고한 민간인들이 십자 포화에 휘말리거나 잘못 식별되었습니다. \n 오스트리아에 대한 합스부르크의 지배를 물리적으로 끝내려는 시도에도 불구하고, 세 명의 왕족들은 무장대원들의 분노를 피했습니다. \n 오토 대공, 로베르트, 여대공 아델하이트. 이 세 사람은 보호를 위해 재빨리 고국으로 옮겨졌습니다. 왕실의 시체가 홀 밖으로 반출되기도 전에, 많은 사람들이 자신들이 보기에 책임있다고 생각하는 사람들을 손가락질하기 시작했고 죽은 왕족들은 부활한 군주론자들에 의해 순교자가 되었습니다.\n 모든 기치 하의 오스트리아인들은 합스부르크 왕실의 죽음에 대해 다른 사람들에게 책임을 전가하며 대부분의 사람들은 근위병들이 공산주의에 동조했다는 의혹에 초점을 맞추고 있는 반면 많은 좌파들은 보국단이 사주했을 가능성을 의심하고 있습니다. \n 슈쉬니크는 막강한 비상권한을 국가적인 비극으로 정당화하였으며 이에 우파는 기세등등해졌으며 동시에 좌파의 분노를 샀습니다. 수상이 정치 장악을 강화한 것에 대한 대응으로 사회주의자들은 연방 의회를 떠났고 붉은 여단은 새로 수립된 슈쉬니크 정권에 맞서 싸우기 위해 거리로 나섰습니다. \n 이 분열된 시기에 오스트리아인들이 모두 동의할 수 있는 것이 있다면 그것은 황제와 함께 평화가 죽었다는 것입니다." 
@@ -507,9 +507,9 @@ austria.29.a:0 "슈쉬니크가 권력을 지켜내며 기사당이 정권을 �
 austria.29.b:0 "하이에크와 WP가 큰 표차로 이겼다!"
 austria.29.c:0 "자이츠와 사민당이 보수권을 박살냈다!"
 
-austria.30.t:0 "Emperor Otto I von Habsburg-Lothringen"
+austria.30.t:0 "황제 오토 1세 폰 합스부르크-로트링언"
 austria.30.d:0 "In true keeping with Austria's past, Otto von Habsburg-Lothringen has been crowned Austrian Emperor. The Empire's glory may be diminished, but the Habsburgs rule is eternal, Heil Kaiser dir."
-austria.30.a:0 "Heil Kaiser dir."
+austria.30.a:0 "황제 폐하 만세!"
 
 austria.64.t:0 "오스트리아가 원조를 요청하다" 
 austria.64.desc:0 "For a while now austria has been under threat of german invasion, given the delicate balance of power in the region, austria being conquered may ruin our chances on expanding our sphere of influence to central europe. Should we answer their request for assistance in case of a german attack?"
