@@ -2,26 +2,26 @@
 #COUNTRY NAME#
 
 #PARTIES#
-ISR_vanguard_socialism_party:0 "Labour Unity - Right Faction"
+ISR_vanguard_socialism_party:0 "노동단결 - 우익 파벌"
 ISR_vanguard_socialism_party_long:0 "Ahdut HaAvoda"
 
-ISR_libertarian_marxism_party:0 "Labour Unity - Left Faction"
+ISR_libertarian_marxism_party:0 "노동단결 - 좌익 파벌"
 ISR_libertarian_marxism_party_long:0 "Ahdut HaAvoda"
 
-ISR_revolutionary_anarchism_party:0 "Hebrew Communists"
-ISR_revolutionary_anarchism_party_long:0 "Komunistim Ivrim"
+ISR_revolutionary_anarchism_party:0 "히브리 공산파"
+ISR_revolutionary_anarchism_party_long:0 "히브리 공산파"
 
-ISR_revisionist_socialism_party:0 "Mapai"
-ISR_revisionist_socialism_party_long:0 "Workers' Party of the Land of Israel"
+ISR_revisionist_socialism_party:0 "마파이"
+ISR_revisionist_socialism_party_long:0 "이스라엘지 노동자당"
 
 ISR_social_democratism_party:0 "Paole Zion"
-ISR_social_democratism_party_long:0 "Jewish Social Democratic Labour Party"
+ISR_social_democratism_party_long:0 "유대 사회민주노동당"
 
 ISR_liberalism_party:0 "General Zionists"
 ISR_liberalism_party_long:0 "HaTzionim HaKlaliym"
 
-ISR_conservatism_party:0 "Union of Israel"
-ISR_conservatism_party_long:0 "Agudat Yisrael"
+ISR_conservatism_party:0 "아구다트"
+ISR_conservatism_party_long:0 "이스라엘 연합"
 
 ISR_right_authoritarianism_party:0 "Hatzohar"
 ISR_right_authoritarianism_party_long:0 "Hatzohar"
@@ -29,10 +29,10 @@ ISR_right_authoritarianism_party_long:0 "Hatzohar"
 ISR_reactionism_party:0 "Mizrachi Workers"
 ISR_reactionism_party_long:0 "Hapoel HaMizrachi"
 
-ISR_despotism_party:0 "Irgun"
+ISR_despotism_party:0 "이르군"
 ISR_despotism_party_long:0 "Hā-ʾIrgun Ha-Tzvaʾī Ha-Leūmī b-Ērētz Yiśrāʾel"
 
-ISR_accelerationism_party:0 "Lehi"
+ISR_accelerationism_party:0 "레히"
 ISR_accelerationism_party_long:0 "Lohamei Herut Israel – Lehi"
 #LEADER DESCRITIONS#
 
@@ -52,13 +52,13 @@ small_elite_leader:0 "특화 지도자"
 ISR_dayan_trait:0 "행정학파"
 
 #EVENTS#
-ISR.victory.t:0 "Arabs In Retreat"
+ISR.victory.t:0 "아랍인들의 후퇴"
 ISR.victory.desc:0 ""
-ISR.victory.a:0 "Sweet Victory."
+ISR.victory.a:0 "달콤한 승리로고."
 
-ISR.3.t:0 "Zionist Activity Rising"
+ISR.3.t:0 "시온주의자 활동 증가"
 ISR.3.desc:0 ""
-ISR.3.a:0 "We must find a solution!"
+ISR.3.a:0 "해결책을 찾아야 해!"
 
 ISR.4.t:0 "Zionists Threaten Secession"
 ISR.4.desc:0 ""
@@ -179,7 +179,7 @@ ISR_socialistmeritocracy:0 "사회주의 능력정"
 ISR_socialistmeritocracy_desc:0 ""
 ISR_aglobalthirdinternational:0 "국제 3차 인터내셔널"
 ISR_aglobalthirdinternational_desc:0 ""
-ISR_promotearabintegration:0 "아랍 통합 촉진"
+ISR_promotearabintegration:0 "아랍인 흡수 촉진"
 ISR_promotearabintegration_desc:0 ""
 ISR_rehabilitatethearmycadets:0 "육군 생도단의 복권"
 ISR_rehabilitatethearmycadets_desc:0 ""
@@ -267,7 +267,7 @@ ISR_industrialcenters:0 "산업중심지"
 ISR_industrialcenters_desc:0 ""
 ISR_revisionededucation:0 "개정교육"
 ISR_revisionededucation_desc:0 ""
-ISR_integratethepalmach:0 "팔마흐 통합"
+ISR_integratethepalmach:0 "팔마흐 흡수"
 ISR_integratethepalmach_desc:0 ""
 ISR_negotiateoverthesinai:0 "시나이에 관한 협상"
 ISR_negotiateoverthesinai_desc:0 ""
