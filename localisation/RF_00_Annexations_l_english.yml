@@ -180,7 +180,7 @@ annexation_SPA_CONQ_desc:0 "In the aftermath of the recent conflicts, we ended u
 annex.19.a:0 "Hand them over to our Catholic brothers, the Carlists."
 annex.19.b:0 "Restore control to the Bourbons."
 annex.19.c:0 "Restore control to the CNT-FAI."
-annex.19.e:0 "Establish an independent Spanish Republic."
+annex.19.e:0 "독립 에스파냐 공화국을 수립한다."
 annex.19.f:0 "Military occupation is the only answer."
 
 annexation_BLR_CONQ:0 "벨라루스의 운명"
@@ -191,8 +191,8 @@ annex.20.c:0 "Give it to our Russian allies."
 
 annexation_LIT_CONQ:0 "리투아니아의 운명"
 annexation_LIT_CONQ_desc:0 "Lithuania has been brought under our leadership and our troops occupy the area. We must now decide what to do with it."
-annex.21.a:0 "Release a loyal Lithuania."
-annex.21.b:0 "Reintegrate the Lithuanian lands."
+annex.21.a:0 "충성스러운 리투아니아로 풀어준다."
+annex.21.b:0 "리투아니아지를 재흡수한다."
 
 annexation_UKR_CONQ:0 "우크라이나의 운명"
 annexation_UKR_CONQ_desc:0 "After a long fight with the Breadbasket of Europe, we have launched a full offensive and forced the Ukrainian Army to surrender. Kiev is now in our hands!"
