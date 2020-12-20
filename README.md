@@ -37,9 +37,17 @@ Commissar - 위원
 
 └ Military Commissar - 군사위원 (황러시아 및 러시아계 세력 관련 번역에서 특히 참고하라)
 
+Commune - 코뮌
+
+└ 중국계 세력에서 쓰일 땐 공사(公社)라고 한다.
+
 Council - 평의회
 
 Coup d'etat -  정변
+
+Democracy - 민주정
+
+└ Democratism, 혹은 동북아 관련 세력의 연관 맥락 번역에서만 "민주주의"라고 쓴다.
 
 League - 연맹 (태양연맹(Solar League)의 예시를 참고하라)
 
