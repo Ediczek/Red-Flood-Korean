@@ -12,6 +12,7 @@
 
 1. 순서는 로마자 철자순
 1. └ 는 관련 용어
+1. ▶는 사용 빈도가 높은 단어
 1. 단어의 목록은 '목록: 일반명사', '목록: 고유명사'순
 
 
@@ -37,19 +38,15 @@ Commissar - 위원
 
 └ Military Commissar - 군사위원 (황러시아 및 러시아계 세력 관련 번역에서 특히 참고하라)
 
-Commune - 코뮌
+Commune - 코뮌 (중국계 세력에서 쓰일 땐 공사(公社)라고 한다.)
 
-└ 중국계 세력에서 쓰일 땐 공사(公社)라고 한다.
+▶ Council - 평의회
 
-Council - 평의회
+▶ Coup d'etat -  정변
 
-Coup d'etat -  정변
+▶ Deed - 행업, 위업 (굳이 제시된 단어들이 아니더라도 단순한 "행동", "행위"와는 구별되도록 한다.)
 
-Deed - 행업, 위업 (굳이 제시된 단어들이 아니더라도 단순한 "행동", "행위"와는 구별되도록 한다.)
-
-Democracy - 민주정
-
-└ Democratism, 혹은 동북아 관련 세력의 연관 맥락 번역에서만 "민주주의"라고 쓴다.
+▶ Democracy - 민주정 (Democratism, 혹은 동북아 관련 세력의 연관 맥락 번역에서만 "민주주의"라고 쓴다.)
 
 League - 연맹 (태양연맹(Solar League)의 예시를 참고하라)
 
@@ -61,7 +58,7 @@ People's Republic/ Popular Republic - 인민공화국
 
 └ 슬라브어계의 Narodna Republika 등도 이에 포함한다.
 
-Scandal - 추문
+▶ Scandal - 추문
 
 Syncretism - 습합주의
 
