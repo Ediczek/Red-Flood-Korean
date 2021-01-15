@@ -28,7 +28,7 @@ DAI_conservatism_party:0 "IRP"
 DAI_right_authoritarianism_party:0 "IPDP"
 DAI_despotism_party:0 "응우웬 잔존파"
 DAI_reactionism_party:0 "까오다이"
-DAI_accelerationism_party:0 "Harmony and Future Party"
+DAI_accelerationism_party:0 "화래당"
 
 DAI_vanguard_socialism_party_long:0 "People's Red Utopia Party"
 DAI_libertarian_marxism_party_long:0 "인도차이나 인민당"
@@ -36,18 +36,18 @@ DAI_revolutionary_anarchism_party_long:0 "Union of Farmer's Communes"
 DAI_revisionist_socialism_party_long:0 "인도차이나 사회주의당"
 DAI_social_democratism_party_long:0 "인도차이나 진보시민당"
 DAI_liberalism_party_long:0 "인도차이나 입헌공화당"
-DAI_conservatism_party_long:0 "인도차이나 Renaissance Party"
+DAI_conservatism_party_long:0 "인도차이나 부흥당"
 DAI_right_authoritarianism_party_long:0 "인도차이나 People's Dignity Party"
 DAI_despotism_party_long:0 "응우웬조 충성파 잔존군"
 DAI_reactionism_party_long:0 "까오다이회"
-DAI_accelerationism_party_long:0 "인도차이나 Harmony and Future Party"
+DAI_accelerationism_party_long:0 "인도차이나 화래당"
 
 #LEADER DESCRITIONS#
 #IDEAS#
 DAI_acolonialstate:0 "식민국가"
-DAI_acolonialstate_desc:0 "We are a colonial state, as a result few people see our government as legitimate, and fewer still think of us as something worth dying for."
+DAI_acolonialstate_desc:0 "식민국가인 우리 정부를 정통으로 보는 이들은 소수이며, 우리를 위해 죽기를 각오할 이들은 그보다도 적습니다."
 DAI_united:0 "식민주의에 의한 통합"
-DAI_united_desc:0 "Dozens of ethnic groups, religions, and languages are united under one banner, and none of them seem happy about it - however it seems like more and more people are willing to put aside their differences in order to fight off the colonists."
+DAI_united_desc:0 "수십의 종족, 종교, 언어 집단들은 하나의 기치 아래 통일되어 있지만 누구도 이에 만족하지 않습니다. 하지만 점점 더 많은 사람들이 식민주의자들을 몰아내고자 서로의 차이는 기꺼이 제쳐두고자 합니다."
 
 #EVENTS#
 
@@ -57,7 +57,7 @@ dainam.1.a:0 "항일 전선을 구축한다!"
 dainam.1.b:0 "일본이 우리를 멸망에서 구원하리라. 오직 충성! (사이공 군벌로 플레이)"
 
 dainam.99.t:0 "1936년의 인도차이나"
-dainam.99.desc:0 "France fell, and its most far-flung colonies suddenly found themselves alone and without any support from the French state. Governors fled, leaving the peninsula to fend for itself. And from there, the Japanese came, offering to take control of Indo-China. The Laotians, Vietnamese, and Cambodians that once were under French rule, breathed a sigh of relief. Finally, people like themselves, helping Indo-China become a true, modern state. And then the Japanese colonial forces came over. They mocked them for their fumbling attempts at Japanese, for their smaller stature, for everything the Japanese deemed 'inferior' in the Indo-Chinese. They who had come as liberators soon revealed themselves to be as cruel as the French, as derisive and insulting. And the Indo-Chinese started to foment rebellion, taking pride not in their own individual tribes, but in the nation of Indo-China, in the Cambodians and Vietnamese who stood alongside each other under each oppressor, and had stood strong. They took pride in the commonalities between their otherwise different peoples, and prepared to throw off the shackles of colonialism. Saigon, the capital of Indo-China, and the seat of the Japanese colonial administration, is firmly in Japanese hands. Soldiers march up and down the streets of Saigon, through the many districts and suburbs of the. Gia Dinh, the industrial district, smells of coke and coal, smelting iron and burning charcoal. Tan Binh, a district intended to be the new headquarters of the administration, as the original beating heart of the city has grown too crowded, is full of aristocrats and old guard, determining the lives of thousands with quotas and laws. Thu Duc-Nha Be is full of Japanese ships, moving back and forth between the ports of the colony and mainland, where fishermen try to compete with vast nets, undercut at ever chance by their Japanese overlords. It is in these environments that rebellion is smoldering, ready to ignite."
+dainam.99.desc:0 "France fell, and its most far-flung colonies suddenly found themselves alone and without any support from the French state. Governors fled, leaving the peninsula to fend for itself. 이에 일본은 인도차이나의 통제권을 제의했습니다. 한때 프랑스 치하에 있던 라오스인, 베트남인, 캄보디아인들은 안도의 숨을 내쉬었습니다. Finally, people like themselves, helping Indo-China become a true, modern state. 그리곤 일본 식민군이 들어왔습니다. They mocked them for their fumbling attempts at Japanese, for their smaller stature, for everything the Japanese deemed 'inferior' in the Indo-Chinese. 해방자라며 들어왔던 이들은 모욕스러운 조롱과도 같이, 곧 프랑스만큼이나 잔인한 이들임을 스스로 드러내보였습니다. And the Indo-Chinese started to foment rebellion, taking pride not in their own individual tribes, but in the nation of Indo-China, in the Cambodians and Vietnamese who stood alongside each other under each oppressor, and had stood strong. They took pride in the commonalities between their otherwise different peoples, and prepared to throw off the shackles of colonialism. 인도차이나의 수도이자 일본 식민행정부가 자리한 사이공은 is firmly in Japanese hands. Soldiers march up and down the streets of Saigon, through the many districts and suburbs of the. Gia Dinh, the industrial district, smells of coke and coal, smelting iron and burning charcoal. Tan Binh, a district intended to be the new headquarters of the administration, as the original beating heart of the city has grown too crowded, is full of aristocrats and old guard, determining the lives of thousands with quotas and laws. Thu Duc-Nha Be is full of Japanese ships, moving back and forth between the ports of the colony and mainland, where fishermen try to compete with vast nets, undercut at ever chance by their Japanese overlords. It is in these environments that rebellion is smoldering, ready to ignite."
 dainam.99.a:0 "자유에는 대가가 따르는 법."
 
 dainam.100.t:0 "사이공 시위"
