@@ -3,10 +3,10 @@
 
 #PARTIES#
 ISR_vanguard_socialism_party:0 "노동단결 - 우익 파벌"
-ISR_vanguard_socialism_party_long:0 "Ahdut HaAvoda"
+ISR_vanguard_socialism_party_long:0 "노동단결 - 우익 파벌"
 
 ISR_libertarian_marxism_party:0 "노동단결 - 좌익 파벌"
-ISR_libertarian_marxism_party_long:0 "Ahdut HaAvoda"
+ISR_libertarian_marxism_party_long:0 "노동단결 - 우익 파벌"
 
 ISR_revolutionary_anarchism_party:0 "히브리 공산파"
 ISR_revolutionary_anarchism_party_long:0 "히브리 공산파"
@@ -14,26 +14,26 @@ ISR_revolutionary_anarchism_party_long:0 "히브리 공산파"
 ISR_revisionist_socialism_party:0 "마파이"
 ISR_revisionist_socialism_party_long:0 "이스라엘지 노동자당"
 
-ISR_social_democratism_party:0 "Paole Zion"
+ISR_social_democratism_party:0 "포알레 치욘"
 ISR_social_democratism_party_long:0 "유대 사회민주노동당"
 
-ISR_liberalism_party:0 "General Zionists"
-ISR_liberalism_party_long:0 "HaTzionim HaKlaliym"
+ISR_liberalism_party:0 "일반 시온주의파"
+ISR_liberalism_party_long:0 "일반 시온주의파"
 
 ISR_conservatism_party:0 "아구다트"
 ISR_conservatism_party_long:0 "이스라엘 연합"
 
-ISR_right_authoritarianism_party:0 "Hatzohar"
-ISR_right_authoritarianism_party_long:0 "Hatzohar"
+ISR_right_authoritarianism_party:0 "하초하르"
+ISR_right_authoritarianism_party_long:0 "수정주의 시온주의파"
 
-ISR_reactionism_party:0 "Mizrachi Workers"
-ISR_reactionism_party_long:0 "Hapoel HaMizrachi"
+ISR_reactionism_party:0 "미즈라히 노동당"
+ISR_reactionism_party_long:0 "미즈라히 노동당"
 
 ISR_despotism_party:0 "이르군"
-ISR_despotism_party_long:0 "Hā-ʾIrgun Ha-Tzvaʾī Ha-Leūmī b-Ērētz Yiśrāʾel"
+ISR_despotism_party_long:0 "이스라엘의 땅의 민족군사기구"
 
 ISR_accelerationism_party:0 "레히"
-ISR_accelerationism_party_long:0 "Lohamei Herut Israel – Lehi"
+ISR_accelerationism_party_long:0 "이스라엘의 자유를 위한 투사들"
 #LEADER DESCRITIONS#
 
 #IDEAS#
@@ -46,7 +46,7 @@ ISR_dori:0 "아코프 도리"
 ISR_sternchief:0 "야이르 쉬테른"
 
 #CUSTOM TOOLTIPS AND FLAGS#
-JOR_spawn:0 "Jordanian Army"
+JOR_spawn:0 "요르단군"
 #TRAITS#
 small_elite_leader:0 "특화 지도자"
 ISR_dayan_trait:0 "행정학파"
@@ -60,11 +60,11 @@ ISR.3.t:0 "시온주의자 활동 증가"
 ISR.3.desc:0 ""
 ISR.3.a:0 "해결책을 찾아야 해!"
 
-ISR.4.t:0 "Zionists Threaten Secession"
+ISR.4.t:0 "시온주의자들의 분리 위협"
 ISR.4.desc:0 ""
-ISR.4.a:0 "Grant special status on the plains."
+ISR.4.a:0 "평원에 특수 지위 부여"
 ISR.4.b:0 "Crush the Zionists, damn the British!"
-ISR.4.c:0 "Establish Israel."
+ISR.4.c:0 "이스라엘 수립"
 #DECISIONS (1.5 Update)#
 #FOCUSES#
 ISR_thesterngang:0 "쉬테른 패거리"
@@ -93,7 +93,7 @@ ISR_benyehudaaproach:0 "벤 예후다의 접근"
 ISR_benyehudaaproach_desc:0 ""
 ISR_preserveyiddishladinoandaramaic:0 "이디쉬, 라디노, 아람어 보존"
 ISR_preserveyiddishladinoandaramaic_desc:0 ""
-ISR_therevisionistzionistsplit:0 "수정시온주의자들의 이별"
+ISR_therevisionistzionistsplit:0 "수정주의 시온주의파와의 이별"
 ISR_therevisionistzionistsplit_desc:0 ""
 ISR_fundurbanization:0 "도시화 자금지원"
 ISR_fundurbanization_desc:0 ""
@@ -135,7 +135,7 @@ ISR_coverttransportfleet:0 "비밀 수송함대"
 ISR_coverttransportfleet_desc:0 ""
 ISR_buildschools:0 "학교 건설"
 ISR_buildschools_desc:0 ""
-ISR_asternruleinzion:0 "슈테른의 시온 통치!"
+ISR_asternruleinzion:0 "쉬테른의 시온 통치!"
 ISR_asternruleinzion_desc:0 ""
 ISR_immigrationfromyemen:0 "예멘에서의 이민"
 ISR_immigrationfromyemen_desc:0 ""
