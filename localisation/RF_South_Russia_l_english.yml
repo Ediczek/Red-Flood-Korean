@@ -39,3 +39,11 @@ SRU_postwar_ADJ:0 "러시아"
 
 #DECISIONS (1.5 Update)#
 #FOCUSES#
+SRU_prepare:0 "의회를 위한 준비"
+SRU_build:0 "산업 재건"
+SRU_gun:0 "하리코프 무기제조소 확장"
+SRU_troll:0 "드로즈돕스키의 얄타 방문"
+
+sru.1.t:0 "좆까"
+sru.1.d:0 "넌 이제 러시아로 갈 거다"
+sru.1.a:0 "히히히힛"
