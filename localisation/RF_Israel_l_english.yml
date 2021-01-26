@@ -47,6 +47,7 @@ ISR_sternchief:0 "야이르 쉬테른"
 
 #CUSTOM TOOLTIPS AND FLAGS#
 JOR_spawn:0 "요르단군"
+LEB_spawn:0 "레바논 주둔 프랑스군"
 #TRAITS#
 small_elite_leader:0 "특화 지도자"
 ISR_dayan_trait:0 "행정학파"
@@ -55,6 +56,7 @@ ISR_dayan_trait:0 "행정학파"
 ISR.victory.t:0 "아랍인들의 후퇴"
 ISR.victory.desc:0 ""
 ISR.victory.a:0 "달콤한 승리로고."
+ISR.victory.b:0 "레바논 날씨가 더 좋을 수도 있겠는데?"
 
 ISR.3.t:0 "시온주의자 활동 증가"
 ISR.3.desc:0 ""
