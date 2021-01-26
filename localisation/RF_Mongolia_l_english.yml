@@ -84,15 +84,24 @@ MON_conscription:0 "신 징병제"
 MON_conscription_desc:0 "청년층을 대상으로 한 우리의 새 징병체계는 우리 군을 건설하기 위한 거대한 인력원이 될 것입니다."
 
 #CUSTOM TOOLTIPS AND FLAGS#
+harbin_pact:0 "하르빈 협약"
 MON_chinese_reclaimation:0 "점령당한 도시들과 벗어난 중국의 핵심 영토들을 되찾을 것입니다."
 
-corrected_the_record:0 "중국은 더 이상 분열하지 않는다"
+corrected_the_record:0 "중국의 분열도 끝입니다."
 
 JGJ_annexed:0 "정국군 합병"
 FJN_annexed:0 "푸젠 합병"
 KMT_annexed:0 "난징 합병"
 
 MON_SETTING_SUN_DESC:0 "내전을 거치며 북양 정부는 분열됐습니다. 돤치루이는 자신의 안휘 군벌을 이끌고 국민당을 상대로 소기의 성과를 거두었습니다만, 그것도 그의 군이 몽골로 쫓겨나기 전까지였습니다. 옛 동맹인 옌시샨이 베이징을 통제하는 지금, 안휘 군벌은 살아남기 위해 몽골 주변의 군벌과 우호하고 중국의 잠재적 지도자로서의 자리를 노려야 합니다."
+
+MON_china_empire:0 "중화제국"
+MON_china_empire_DEF:0 "중화제국"
+MON_china_empire_ADJ:0 "중국"
+
+MON_china_republic:0 "중화민국"
+MON_china_republic_DEF:0 "중화민국"
+MON_china_republic_ADJ:0 "중국"
 #DECISIONS (1.5 Update)#
 #FOCUSES#
 Mongolia_armyofexiles:0 "추방자들의 군대"
