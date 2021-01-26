@@ -1,8 +1,10 @@
 ﻿l_english:
 #COUNTRY NAME#
-
-
 KCK_subject:0 "야쿠티야"
+
+KCK_empire_in_exhile:0 "망명 일본 제국"
+KCK_empire_in_exhile_DEF:0 "망명 일본 제국"
+KCK_empire_in_exhile_ADJ:0 "일본"
 #PARTIES#
 KCK_vanguard_socialism_party:0 "야쿠티야 RSDRP"
 KCK_vanguard_socialism_party_long:0 "야쿠티야 러시아 사회민주노동당"
@@ -38,6 +40,8 @@ KCK_kolyma_gold_prospectors:0 "Kolyma Gold Prospectors"
 KCK_kolyma_gold_prospectors_1:0 "Kolyma Gold Prospectors"
 KCK_greater_east_asian_co_prosperity_sphere:0 "Greater East Asian Co-Prosperity Sphere"
 KCK_coastal_guard_volunteers:0 "Coastal Guard Volunteers"
+KCK_cold_comforts:0 "Cold Comforts"
+KCK_cold_comforts_desc:0 "While our land has little to recommend it, it seems to offer a stability - something rarer than even our gold in Russia now. Both of these things are attracting a large number of settlers, relative to our tiny population, from the chaotic lands of western Russia." 
 #CUSTOM TOOLTIPS AND FLAGS#
 KCK_JOIN_SIBERIAN_FACTION_TT:0 "Unlocks decision to §YSign the Treaty of Regional Cooperation§!."
 KCK_WAIT_FOR_REUNIFICATION_TT:0 "Unlocks decision to §YJoin Our Rightful Masters§!."
@@ -59,6 +63,9 @@ KCK_decision_create_magadan:0 "마가단 설립"
 KCK_decision_create_eastport:0 "Eastport 설립"
 KCK_decision_create_dezhnevsk:0 "Dezhnevsk 설립"
 KCK_decision_create_showaichi:0 "Showaichi 설립"
+KCK_remilitarize:0 "Remove Demilitarized Zones"
+KCK_remilitarize_aldan:0 "Remilitarize Aldan"
+KCK_remilitarize_okhost:0 "Remilitarize Okhotsk"
 #EVENTS#
 kck.1.title:0 "한 제독의 삶"
 kck.1.desc:0 "It was another freezing day all across the rump Far-Eastern General Governorate, as new investors come in through the port of Petropavlovsk-Kamchatsky and arrive in Yakutsk to discuss business. People played in the streets, some sang, some sold things. Things appeared good, until it seemed something was wrong. Very wrong. The Yakut workers across Yakutsk began to stop working; it almost felt like a subconscious movement that spanned every Yakut and other opressed group within the Governorate. But it was not subconscious; they had been planning this revolt for months, and it seemed like the most likely to succeed. Regardless, if it did not, dying for the dream of a free Yakutia is better than living under Russia, in the eyes of many. As this strike occured, it appeared that thousands of Yakuts began marching towards Yakutsk, the capital of the Governorate, and proclaimed in Russian and Yakut \"No more!\", resulting in massive, brutal response by the local police. However, the Yakuts, with their fighting and hunting experience, began to force the Russian police away from them. As they continued to march on the capital of Yakutsk, more reinforcements arrived from the northern areas, as more Russian officers came to the aid of their policemen. This revolt wasn't like the others. Regardless, the Yakut National Congress began to speak in front of a podium a few streets across from the Capital Building, and proclaimed that Yakutia would become a free nation opposed to Russian imperialism. Ksenofontov, aware of what is going on, quickly gets to work in keeping the act of neutrality, whilst Russian officers continue to attack violently against the Yakuts. Eventually, one group manages to win out, when..."
@@ -196,7 +203,7 @@ KCK_pretend_we_were_neutral:0 "Pretend We Were Neutral"
 KCK_pretend_we_were_neutral_desc:0 ""
 KCK_most_loyal_subject:0 "Most Loyal Subject"
 KCK_most_loyal_subject_desc:0 ""
-KCK_proclaim_empire_in_exile:0 "Proclaim Empire in Exhile"
+KCK_proclaim_empire_in_exile:0 "망명 제국 선포"
 KCK_proclaim_empire_in_exile_desc:0 ""
 KCK_red_sailors_mutiny:0 "Red Sailors' Mutiny"
 KCK_red_sailors_mutiny_desc:0 ""
