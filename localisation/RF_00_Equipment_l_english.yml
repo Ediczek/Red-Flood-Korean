@@ -1427,6 +1427,22 @@ ARM_infantry_equipment_0:0 "Vintovka Mosina obr.1891"
 ARM_infantry_equipment_0_short:0 "Mosina 1891"
 
 ###
+### Centrocaspia ###
+###
+
+### Land ###
+CCD_infantry_equipment_0:0 "Vintovka Mosina obr.1891"
+CCD_infantry_equipment_0_short:0 "Mosina 1891"
+
+###
+### Azerbaijan ###
+###
+
+### Land ###
+AZR_infantry_equipment_0:0 "Vintovka Mosina obr.1891"
+AZR_infantry_equipment_0_short:0 "Mosina 1891"
+
+###
 ### Australia ###
 ###
 
@@ -2706,7 +2722,7 @@ CNT_infantry_equipment_1_short:0 "Mauser M1916"
 CNT_infantry_equipment_2:0 "Labora-Fontbernat M1938"
 CNT_infantry_equipment_2_short:0 "LF M1938"
 CNT_infantry_equipment_3:0 "MAS Modèle 1940/42"
-CNT_infantry_equipment_3_short:0 "MAS-40/42"
+CNT_infantry_equipment_3_short:0 "MAS-41"
 
 CNT_gw_tank_equipment:0 "Renault FT"
 CNT_gw_tank_equipment_short:0 "FT"
@@ -2918,8 +2934,8 @@ CSA_EQUIPMENT_VERSION_13:0 "A9A4"
 CSA_infantry_equipment_0:0 "Springfield Model 1903"
 CSA_infantry_equipment_0_short:0 "M1903 Springfield"
 CSA_infantry_equipment_0_desc:0 "The Model 1903 was developed at Springfield Arsenal when, following the Spanish-American war, the United States deemed the Krag–Jørgensen rifle inadequate on account of its weak action; at its core, the 1903 was an attempt to combine beneficial features of both the Krag and captureds Spanish Mausers. The rifle was gradually adopted along with the .30-06 cartridge both before and while the rest of the world waged the Great War."
-CSA_infantry_equipment_1:0 "Springfield Model 1903A1"
-CSA_infantry_equipment_1_short:0 "M1903A1 Springfield"
+CSA_infantry_equipment_1:0 "M1 Garand"
+CSA_infantry_equipment_1_short:0 "M1 Garand"
 CSA_infantry_equipment_2:0 "Auto-Ordnance Model 1"
 CSA_infantry_equipment_2_short:0 "M1 Auto-Ordnance"
 CSA_infantry_equipment_2_desc:0 "The Auto-Ordnance company had designed and submitted its own semi-automatic rifle to the pre-civil war trials which would eventually be won by John Garand. Though this design was an abject failure, following the outbreak of the civil war, the reorganised Auto-Ordnance Cooperative would drastically simplify the design for use by Syndicalist forces."
@@ -4151,18 +4167,6 @@ MAN_super_heavy_tank_equipment_1:0 "Type 2604"
 MAN_super_heavy_tank_equipment_1_short:0 "Type 2604"
 
 ###
-### Patagonia ###
-###
-
-### Land ###
-FOP_infantry_equipment_0:0 "Fusil Mauser Modelo 1895"
-FOP_infantry_equipment_0_short:0 "Modelo 1895"
-FOP_infantry_equipment_0_desc:0 "In response to an aggressive Argentinian armament program, Chile adopted a modified Mauser 1893 (commonly known as the Spanish Mauser) chambered in 7x57mm Mauser, and contracted the German company DWM (Deutsche Waffen und Munitionsfabriken) for more than 100,000 rifles and carbines on the pattern. The Chilean Mauser 1895 has earned a reputation for reliability under even the harshest conditions, one which it maintains decades after its adoption. It it mainly with these Chilean Mausers that the revolutionary government in Patagonia is equipped."
-FOP_infantry_equipment_1:0 "Carabina Steyr Modelo 1912/35"
-FOP_infantry_equipment_1_short:0 "Modelo 1912/35"
-FOP_infantry_equipment_1_desc:0 "Shortly before the Great War, Chile contracted the Austrian arms manufacturer Steyr for a new Carbine variant of the German Mauser 1898 chambered in 7x57mm like older Chilean rifles. Many of these carbines eventually fell into the hands of the Chilean Carabinieros, who found the rifle unsatisfactory and lobbied for its replacement. In 1935, a new pattern with improved ergonomics and a new larger magazine with more robust feed lips and loader was approved and entered into production shortly thereafter. A few months after its initial production, the rifles began to trickle into Patagonia."
-
-###
 ### France ###
 ###
 
@@ -4186,13 +4190,14 @@ FRA_EQUIPMENT_VERSION_13:0 "série M"
 
 FRA_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
 FRA_infantry_equipment_0_short:0 "Lebel Mle M93"
-FRA_infantry_equipment_1:0 "MAS Modèle 1936"
-FRA_infantry_equipment_1_short:0 "MAS-36"
-FRA_infantry_equipment_2:0 "MAS Modèle 1938"
+FRA_infantry_equipment_1:0 "Fusil à répétition 7 mm 5 M. 35"
+FRA_infantry_equipment_1_short:0 "MAS-35"
+FRA_infantry_equipment_1_desc:0 "Learning from their experiences in the trenches of the western front in WWI, the French military spent much of the late 1920's standardising on arms and ammunition. Part of this program was the early adoption and produciton of the MAS-35, a carbine length bolt-action rifle intended to combine the best characteristics of French rifles from the previous war with new machining and material innovations."
+FRA_infantry_equipment_2:0 "Pistolet Mitrailleur de 7,65mm MAS modèle 38 "
 FRA_infantry_equipment_2_short:0 "MAS-38"
-FRA_infantry_equipment_3:0 "MAS Modèle 1940/42"
-FRA_infantry_equipment_3_short:0 "MAS-40/42"
-FRA_infantry_equipment_3_desc:0 "The MAS-40/42 is the latest in a series of Communard semi-automatic rifles. Unlike its predecessors, however, the MAS-40/42 was found to be exceptionally reliable in French military testing. The original five round internal magazine, however, was deemed insufficient and a new variant of the MAS-40/42, the 40/42, was developed featuring a detachable ten round box magazine."
+FRA_infantry_equipment_3:0 "Fusil semi-automatique 7 mm 5 M. 41"
+FRA_infantry_equipment_3_short:0 "MAS-41"
+FRA_infantry_equipment_3_desc:0 "The MAS-41 is one of the first, most widely adopted semi-automatic service rifles in Europe. Unlike many of its peers the MAS-41 was found to be extremely reliable and allowed greater volume of fire and faster reloads in testing thanks to its detachable 20-round magazine."
 FRA_support_weapons:0 "FM Chauchat & Stokes mortar"
 FRA_support_weapons2:0 "Hotchkiss M1926 & Brandt Mle 27/31"
 FRA_support_weapons3:0 "Hotchkiss 26/37 & Brandt Mle 35/38"
@@ -4491,6 +4496,14 @@ KAV_infantry_equipment_0:0 "Vintovka Mosina 1891 obr.1891"
 KAV_infantry_equipment_0_short:0 "Mosina 1891"
 
 ###
+### Assyria ###
+###
+
+### Land ###
+ASY_infantry_equipment_0:0 "Vintovka Mosina 1891 obr.1891"
+ASY_infantry_equipment_0_short:0 "Mosina 1891"
+
+###
 ### German Socialist Republic ###
 ###
 
@@ -4504,7 +4517,7 @@ GER_infantry_equipment_1:0 "Karabiner 98k"
 GER_infantry_equipment_1_short:0 "Karabiner 98k"
 GER_infantry_equipment_2:0 "Selbstladegewehr 40"
 GER_infantry_equipment_2_short:0 "Selbstlader 40"
-GER_infantry_equipment_2_desc:0 "Designed by the Mauser company in response to a German Army desire for a self-loading rifle with a backup bolt action, the Selbstladegewehr 40 was a massive leap forward in German small arms design. While initial prototypes were highly inaccurate, heavy, and prone to jamming, the German army eventually dropped some its other specific requirements for the rifle, and the end result, the predecessor the rifle that would ultimately be adopted, proved effective."
+GER_infantry_equipment_2_desc:0 "Designed by the Mauser company in response to the Volkswehr's desire for a self-loading rifle with a backup bolt action, the Selbstladegewehr 40 was a massive leap forward in German small arms design. While initial prototypes were highly inaccurate, heavy, and prone to jamming, the German army eventually dropped some its other specific requirements for the rifle, and the end result, the predecessor the rifle that would ultimately be adopted, proved effective."
 GER_infantry_equipment_3:0 "Maschinenkarabiner 42"
 GER_infantry_equipment_3_short:0 "MKb 42"
 GER_infantry_equipment_3_desc:0 "The MKb 42 is a revolutionary design chambered for a new intermediate cartridge, developed by famous German arms designer Hugo Schmeisser in conjunction with the Haenel Union. While the first prototype of the rifle was prone to jamming, both the military and even the Kaiser himself were extremely enthusiastic about the project and immense resources were concentrated on improving the design, with the rifle deemed ready for adoption in 1942."
@@ -4930,10 +4943,10 @@ TAI_gw_armored_car_equipment_short:0 "Osaka"
 
 TAI_artillery_equipment_1:0 "Type 95 75 mm"
 TAI_artillery_equipment_1_short:0 "Type 95 75 mm"
-GDP_artillery_equipment_2:0 "75mm Pajiang Xuangtong Type 28 Howitzer"
-GDP_artillery_equipment_2_short:0 "75mm Pajiang Type 28"
-GDP_artillery_equipment_3:0 "105mm Pajiang Xuantong Type 29 Howitzer"
-GDP_artillery_equipment_3_short:0 "105mm Pajiang Type 29"
+TAI_artillery_equipment_2:0 "75mm Pajiang Xuangtong Type 28 Howitzer"
+TAI_artillery_equipment_2_short:0 "75mm Pajiang Type 28"
+TAI_artillery_equipment_3:0 "105mm Pajiang Xuantong Type 29 Howitzer"
+TAI_artillery_equipment_3_short:0 "105mm Pajiang Type 29"
 
 TAI_anti_tank_equipment_1:0 "Type 94 37 mm"
 TAI_anti_tank_equipment_1_short:0 "Type 94 37 mm"
@@ -5023,8 +5036,8 @@ HAW_EQUIPMENT_VERSION_13:0 "A9A4"
 HAW_infantry_equipment_0:0 "Springfield Model 1903"
 HAW_infantry_equipment_0_short:0 "M1903 Springfield"
 HAW_infantry_equipment_0_desc:0 "The Model 1903 was developed at Springfield Arsenal when, following the Spanish-American war, the United States deemed the Krag–Jørgensen rifle inadequate on account of its weak action; at its core, the 1903 was an attempt to combine beneficial features of both the Krag and captureds Spanish Mausers. The rifle was gradually adopted along with the .30-06 cartridge both before and while the rest of the world waged the Great War."
-HAW_infantry_equipment_1:0 "Springfield Model 1903A1"
-HAW_infantry_equipment_1_short:0 "M1903A1 Springfield"
+HAW_infantry_equipment_1:0 "M1 Garand"
+HAW_infantry_equipment_1_short:0 "M1 Garand"
 HAW_support_weapons:0 "M1917 Browning MG & Stokes mortar"
 HAW_support_weapons2:0 "M1919 Browning MG & SBML two-inch mortar"
 
@@ -6463,18 +6476,54 @@ NGR_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
 ###
 
 ### Land ###
-NIC_infantry_equipment_0:0 "Springfield Krag–Jørgensen Modelo 1898"
-NIC_infantry_equipment_0_short:0 "Springfield M1898"
-NIC_infantry_equipment_0_desc:0 "The Krag–Jørgensen rifle was adopted by the United States in 1892 to replace the aging Springfield Model 1884. While the Krags proved superior at close ranges to comparable Mauser designs in the Spanish-American war, the rifle's flimsy action in comparison to newer bolt designs necessitated a replacement a mere decade after its adoption. During the American occupations of several Central American nations in the early 20th century, many stockpiled Krag rifles, mostly of the 1898 rifle pattern, were given to local forces along with droves of surplus ammunition."
-NIC_infantry_equipment_1:0 "Carabina del Pueblo Modelo 1934"
-NIC_infantry_equipment_1_short:0 "Carabina M1934"
-NIC_infantry_equipment_1_desc:0 "With the socialist revolution, Nicaragua found itself with a rapidly aging stock of surplus American Krags and little ammunition to supply its meager arsenal. To alleviate these problems, in 1934, it began an ambitious effort to retrofit and convert its Krag rifles to carbines chambered in 7.5×54mm French, which had successfully been smuggled into the country in large quantities."
-NIC_infantry_equipment_2:0 "Metralleta Modelo 1935"
-NIC_infantry_equipment_2_short:0 "Metralleta M1935"
-NIC_infantry_equipment_2_desc:0 "While Nicaragua had yet to formally adopt a submachine prior to the socialist revolution, many Model 1921 Thompsons had entered the country along with the capability of domestic manufacturers to produce .45 ACP ammunition. The Metralleta Model 1935 is a Nicaraguan modified Thompson 1921 with several upgrades and a simplified manufacturing process."
-NIC_infantry_equipment_3:0 "MAS Modèle 1940/42"
-NIC_infantry_equipment_3_short:0 "MAS-40/42"
-NIC_infantry_equipment_3_desc:0 "The MAS-40/42 is the latest in a series of Communard semi-automatic rifles. Unlike its predecessors, however, the MAS-40/42 was found to be exceptionally reliable in French military testing. The original five round internal magazine, however, was deemed insufficient and a new variant of the MAS-40/42, the 40/42, was developed featuring a detachable ten round box magazine. A small number of MAS-40/42 rifles were smuggled into Nicaragua along with production tooling specifications."
+
+NIC_EQUIPMENT_VERSION_1:0 "A1"
+NIC_EQUIPMENT_VERSION_2:0 "A2"
+NIC_EQUIPMENT_VERSION_3:0 "A3"
+NIC_EQUIPMENT_VERSION_4:0 "A4"
+NIC_EQUIPMENT_VERSION_5:0 "A5"
+NIC_EQUIPMENT_VERSION_6:0 "A6"
+NIC_EQUIPMENT_VERSION_7:0 "A7"
+NIC_EQUIPMENT_VERSION_8:0 "A8"
+NIC_EQUIPMENT_VERSION_9:0 "A9"
+NIC_EQUIPMENT_VERSION_10:0 "A9A1"
+NIC_EQUIPMENT_VERSION_11:0 "A9A2"
+NIC_EQUIPMENT_VERSION_12:0 "A9A3"
+NIC_EQUIPMENT_VERSION_13:0 "A9A4"
+
+#Infantry Equip
+
+NIC_infantry_equipment_0:0 "Springfield Model 1903"
+NIC_infantry_equipment_0_short:0 "M1903 Springfield"
+NIC_infantry_equipment_0_desc:0 "The Model 1903 was developed at Springfield Arsenal when, following the Spanish-American war, the United States deemed the Krag–Jørgensen rifle inadequate on account of its weak action; at its core, the 1903 was an attempt to combine beneficial features of both the Krag and captureds Spanish Mausers. The rifle was gradually adopted along with the .30-06 cartridge both before and while the rest of the world waged the Great War."
+NIC_infantry_equipment_1:0 "M1 Garand"
+NIC_infantry_equipment_1_short:0 "M1 Garand"
+NIC_support_weapons:0 "M1917 Browning MG & Stokes mortar"
+NIC_support_weapons2:0 "M1919 Browning MG & SBML two-inch mortar"
+
+#Artillery
+
+NIC_artillery_equipment_1:0 "75 mm Gun M1897"
+NIC_artillery_equipment_1_short:0 "75 mm Gun M1897"
+
+NIC_anti_tank_equipment_1:0 "37 mm Gun M3"
+NIC_anti_tank_equipment_1_short:0 "37 mm Gun M3"
+
+NIC_anti_air_equipment_1:0 "37 mm Gun M1"
+NIC_anti_air_equipment_1_short:0 "37 mm Gun M1"
+NIC_anti_air_equipment_2:0 "40 mm M1"
+
+#Tanks
+NIC_gw_tank_equipment:0 "Ford M1921"
+NIC_gw_tank_equipment_short:0 "M1921"
+NIC_gw_tank_equipment_desc:0 "Without any tanks by the time of France's capitulation in the Great War, the United States scrambled to develop a stopgap vehicle in the face of the rapidly changing international order. What was ultimately adopted was a Ford-designed near copy of the French FT tank designated the Model of 1921."
+
+NIC_light_tank_equipment_1:0 "M2"
+NIC_light_tank_equipment_1_short:0 "M2"
+NIC_light_tank_equipment_1_desc:0 "Alarmed by the rapid evolution of tanks during the Great War, the United States developed several experimental light tanks during and immediately after the war. While these designs would ultimately lead nowhere, the lessons learned would form the basis for the development of the M2. The M2 possesses many features copied directly from Canadian tanks and is armed with a single high-velocity 37mm cannon."
+
+NIC_heavy_tank_equipment_1:0 "M1" #delete eventually when we get a new icon
+NIC_heavy_tank_equipment_1_short:0 "M1"
 
 ###
 ### Norway ###
@@ -6694,210 +6743,6 @@ OMA_infantry_equipment_1:0 "Karabiner 98k"
 OMA_infantry_equipment_1_short:0 "Karabiner 98k"
 
 ###
-### Ottoman Empire ###
-###
-
-### Land ###
-
-OTT_EQUIPMENT_VERSION_1:0 "K1"
-OTT_EQUIPMENT_VERSION_2:0 "K2"
-OTT_EQUIPMENT_VERSION_3:0 "K3"
-OTT_EQUIPMENT_VERSION_4:0 "K4"
-OTT_EQUIPMENT_VERSION_5:0 "K5"
-OTT_EQUIPMENT_VERSION_6:0 "K6"
-OTT_EQUIPMENT_VERSION_7:0 "K7"
-OTT_EQUIPMENT_VERSION_8:0 "K8"
-OTT_EQUIPMENT_VERSION_9:0 "K9"
-OTT_EQUIPMENT_VERSION_10:0 "K10"
-OTT_EQUIPMENT_VERSION_11:0 "K11"
-OTT_EQUIPMENT_VERSION_12:0 "K12"
-OTT_EQUIPMENT_VERSION_13:0 "K13"
-OTT_EQUIPMENT_VERSION_14:0 "K14"
-OTT_EQUIPMENT_VERSION_15:0 "K15"
-OTT_EQUIPMENT_VERSION_16:0 "K16"
-OTT_EQUIPMENT_VERSION_17:0 "K17"
-OTT_EQUIPMENT_VERSION_18:0 "K18"
-OTT_EQUIPMENT_VERSION_19:0 "K19"
-OTT_EQUIPMENT_VERSION_20:0 "K20"
-OTT_EQUIPMENT_VERSION_21:0 "K21"
-OTT_EQUIPMENT_VERSION_22:0 "K22"
-OTT_EQUIPMENT_VERSION_23:0 "K23"
-
-#Infantry equip
-
-OTT_infantry_equipment_0:0 "Mauser G98 M1903"
-OTT_infantry_equipment_0_short:0 "Mauser G98"
-OTT_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ottoman Army during the Great War. The Ottoman M1903, chambered in 7.65mm, was the most common variant of Mauser in use. Pronounced 'Mavzer' by the Ottomans, this iconic rifle achieved great fame and became deeply ingrained in the Turkish subconscious.\n'One side of me withered from sorrows / the other from a Mavzer wound'"
-OTT_infantry_equipment_1:0 "Ankara ATF M38"
-OTT_infantry_equipment_1_short:0 "ATF M38"
-OTT_infantry_equipment_1_desc:0 "Ankara ATF M38 was the name given to the Ottoman modification of Mauser Gewehr 98. Starting in 1933, the Ottoman Empire updated their old rifles to a common configuration known as the Model of 1938 and all in 8x57 Mauser cartridge. The standardisation of all Mausers in Ottoman inventory helped ease the logistical nightmare of having to supply 4 different types of rifle ammunition to all units."
-OTT_infantry_equipment_2:0 "Kırıkkale T-60"
-OTT_infantry_equipment_2_short:0 "T-60"
-OTT_infantry_equipment_2_desc:0 "Kırıkkale T-60 Semi Automatic Rifle was based on the receiver of the Gewehr 41, the T-60 is issued with a lighter build and shortened stock, emphasising reliability and speed over range and accuracy. This rifle saw wide use across all branches of service in the Ottoman Military."
-OTT_infantry_equipment_3:0 "Yıldıray 64"
-OTT_infantry_equipment_3_short:0 "YDR-64"
-OTT_infantry_at:0 "K30 Boru"
-OTT_infantry_at2:0 "K39 Kanun"
-OTT_support_weapons:0 "Maksim MG08 & Piyade Havanı"
-OTT_support_weapons2:0 "Kırıkkale M1358 & 60mm FH Havan"
-OTT_support_weapons3:0 "Kırıkkale M1361 & 100mm FH Havan"
-OTT_support_weapons4:0 "Kırıkkale M1364 & 120mm FH Havan"
-
-#Motorised
-
-OTT_motorized_equipment_1:0 "Opel Şimşek"
-OTT_motorized_equipment_1_short:0 "Opel Şimşek"
-OTT_mechanized_equipment_1:0 "Muhassas Paletli Araba 358"
-OTT_mechanized_equipment_1_short:0 "MPA 358"
-OTT_mechanized_equipment_1_desc:0 "The MPA 358 (Muhassas Paletli Araba - Special Tracked Vehicle) was a German inspired half-track that saw widespread use in the suppression of Arabian revolts. It could carry eight troops in addition to towing a gun or trailer."
-OTT_mechanized_equipment_2:0 "Muhassas Paletli Araba 361"
-OTT_mechanized_equipment_2_short:0 "MPA 361"
-OTT_mechanized_equipment_2_desc:0 "The MPA 361 half-track was an armoured fighting vehicle designed and built by the Uzel company during the 2nd Great War, based on the German Sd.Kfz.251 vehicle."
-OTT_mechanized_equipment_3:0 "Muhassas Paletli Araba 361/24"
-OTT_mechanized_equipment_3_short:0 "MPA 361/24"
-OTT_mechanized_equipment_3_desc:0 "An updated version of the MPA 361 fitted with a F360-K2 'Baykuş' infrared spotlight."
-OTT_motorized_rocket_equipment_1:0 "U-34 Dombra"
-OTT_motorized_rocket_equipment_1_short:0 "Dombra"
-
-#Artillery
-
-OTT_artillery_equipment_1:0 "Tophane Nu. 37/52"
-OTT_artillery_equipment_1_short:0 "Tophane 37/52"
-OTT_artillery_equipment_2:0 "Tophane Nu. 54/60"
-OTT_artillery_equipment_2_short:0 "Tophane 54/60"
-OTT_artillery_equipment_3:0 "Tophane Nu. 58/68"
-OTT_artillery_equipment_3_short:0 "Tophane 58/68"
-
-OTT_anti_tank_equipment_1:0 "Tophane-Kırıkkale Tanksavar 53"
-OTT_anti_tank_equipment_1_short:0 "TAS 53"
-OTT_anti_tank_equipment_2:0 "Tophane-Kırıkkale Tanksavar 60"
-OTT_anti_tank_equipment_2_short:0 "TAS 60"
-OTT_anti_tank_equipment_3:0 "Tophane-Kırıkkale Tanksavar 64"
-OTT_anti_tank_equipment_3_short:0 "TAS 64"
-
-OTT_anti_air_equipment_1:0 "MKE 30mm Kuşçu Tayyare Topu"
-OTT_anti_air_equipment_1_short:0 "30mm Kuşçu"
-OTT_anti_air_equipment_2:0 "MKE 60mm Kuşçu Tayyare Topu"
-OTT_anti_air_equipment_2_short:0 "60mm Kuşçu"
-OTT_anti_air_equipment_3:0 "MKE 90mm Kuşçu Tayyare Topu"
-OTT_anti_air_equipment_3_short:0 "90mm Kuşçu"
-
-OTT_rocket_artillery_equipment_1:0 "Tophane-MKE Roket Havanı RH 58"
-OTT_rocket_artillery_equipment_1_short:0 "RH 58"
-OTT_rocket_artillery_equipment_2:0 "Tophane-MKE Roket Havanı RH 61"
-OTT_rocket_artillery_equipment_2_short:0 "RH 61"
-
-#Tanks
-
-OTT_gw_tank_equipment:0 "Muharebe Tankı 18"
-OTT_gw_tank_equipment_short:0 "MT-18"
-OTT_gw_tank_equipment_desc:0 "During the Great War, Ottoman army captured Mark II and FT tanks then refitted them into service, dubbing them 'Zırhlı II' and 'MT-18'. After French forces surrendered in 1919, Ottoman Empire received a large number of FTs as spoils of war. The MT-18 tank was popular among armoured corps. Though more advanced tanks replaced the MT-18 eventually, army still used these for training its tank crews."
-OTT_light_tank_equipment_1:0 "Muharebe Tankı 52 'Sekban'"
-OTT_light_tank_equipment_1_short:0 "MT-52 Sekban"
-OTT_light_tank_equipment_1_desc:0 "MT-52 Sekban project was the first attempt to reorganise and reform the Ottoman Armoured Corps that was included in Harb-i Yıldırım military reforms. The initial plan was to have the MT-52 to replace old MT-18s, however field tests proved that MT-52 wasn't ready for the battlefield and concluded that further development was needed."
-OTT_light_tank_equipment_2:0 "Muharebe Tankı 55 'Beylik'"
-OTT_light_tank_equipment_2_short:0 "MT-55 Beylik"
-OTT_light_tank_equipment_2_desc:0 "MT-55 Beylik was the second significant effort to modernise the Ottoman Armoured Corps. Errors and reliability problems of MT-52 were mostly fixed while additional modifications were made to the cannon, hull and engine."
-OTT_light_tank_equipment_3:0 "I. Hafif ZMV 'Tatar'"
-OTT_light_tank_equipment_3_short:0 "Tatar"
-OTT_light_tank_equipment_3_desc:0 "I. Hafif ZMV 'Tatar' was a lighter variant of the II. ZMV Uygur. It was designed for scouting and flanking purposes."
-OTT_light_tank_artillery_equipment_1:0 "MT-52T Sekban Seyyar Topçu"
-OTT_light_tank_artillery_equipment_1_short:0 "Sekban Seyyar Topçu"
-OTT_light_tank_artillery_equipment_2:0 "MT-52T Beylik Seyyar Topçu"
-OTT_light_tank_artillery_equipment_2_short:0 "Beylik Seyyar Topçu"
-OTT_light_tank_artillery_equipment_3:0 "I. HZKMT Osmaniye"
-OTT_light_tank_artillery_equipment_3_short:0 "Osmaniye"
-OTT_light_tank_destroyer_equipment_1:0 "MT-52TS Sekban Seyyar Ciritçi"
-OTT_light_tank_destroyer_equipment_1_short:0 "Sekban Seyyar Ciritçi"
-OTT_light_tank_destroyer_equipment_2:0 "MT-55TS Beylik Seyyar Ciritçi"
-OTT_light_tank_destroyer_equipment_2_short:0 "Beylik Seyyar Ciritçi"
-OTT_light_tank_destroyer_equipment_3:0 "I. HZKMTS Sezercik"
-OTT_light_tank_destroyer_equipment_3_short:0 "Sezercik"
-OTT_light_tank_aa_equipment_1:0 "MT-52US Sekban Seyyar Kuşçu"
-OTT_light_tank_aa_equipment_1_short:0 "Sekban Seyyar Kuşçu"
-OTT_light_tank_aa_equipment_2:0 "MT-55US Beylik Seyyar Kuşçu"
-OTT_light_tank_aa_equipment_2_short:0 "Beylik Seyyar Kuşçu"
-OTT_light_tank_aa_equipment_3:0 "I. HZKMUS Tuva"
-OTT_light_tank_aa_equipment_3_short:0 "Tuva"
-
-OTT_medium_tank_equipment_1:0 "I. Zırhlı Muharebe Vasıtası 'Uygur'"
-OTT_medium_tank_equipment_1_short:0 "Uygur"
-OTT_medium_tank_equipment_1_desc:0 "First proposed in the Harb-i Yıldırım military reforms, the I. Zırhlı Muharebe Vasıtası (First Armoured Battle Vehicle) 'Uygur' is a bulkier version of MT-55. It had a thicker hull and also had improved cannon and armour design. I. ZMV had many variants thanks to the fact that its chassis was easily upgradeable, as demanded by Commissioner Ömer Fahrettin Pasha who wanted its design and parts to be simple and easily interchangeable."
-OTT_medium_tank_equipment_2:0 "II. Zırhlı Muharebe Vasıtası 'Kuman'"
-OTT_medium_tank_equipment_2_short:0 "Kuman"
-OTT_medium_tank_equipment_2_desc:0 "The II. ZMV 'Kuman' medium tank is an updated version of I. ZMV. It was intended to withstand the harshest conditions while retaining a decent combat efficiency. It had 7.7 cm ÇVT main armament and M1358 coaxial MGs. Experimental sloped armour and armoured skirts were also introduced in an attempt to counter incoming enemy AT rounds."
-OTT_medium_tank_equipment_3:0 "III. Zırhlı Muharebe Vasıtası 'Altay'"
-OTT_medium_tank_equipment_3_short:0 "Altay"
-OTT_medium_tank_equipment_3_desc:0 "Altay is the common name of a medium tank deployed by Ottoman Empire during Second Great War and late stages of Second Arab Revolt. It was intended for standardising tank production, and as a replacement for the I. ZMV and II. ZMV. While never replacing the latter due to complex design, it served alongside it and the heavier Arslan tanks until the end of the war. The Germans dubbed the Altay Tank 'Clausewitz Pasha' because its design was heavily influenced by the German Panzerkampfwagen V von Clausewitz."
-OTT_medium_tank_artillery_equipment_1:0 "I. ZKMT Cihadiye"
-OTT_medium_tank_artillery_equipment_1_short:0 "Cihadiye"
-OTT_medium_tank_artillery_equipment_1_desc:0 "I. Zırhlı Kundağı Motorlu Topçu Cihadiye is a self propelled medium artillery 125mm cannon mounted on a I. ZMV's chassis, I. ZKMT SPG packs respectable firepower while still being quite mobile."
-OTT_medium_tank_artillery_equipment_2:0 "II. ZKMT Mehmediye"
-OTT_medium_tank_artillery_equipment_2_short:0 "Mehmediye"
-OTT_medium_tank_artillery_equipment_2_desc:0 "Mehmediye is a SPG with improved 128mm cannon mounted on II. ZMV's chassis, production started during early stages of Arab Revolt."
-OTT_medium_tank_artillery_equipment_3:0 "III. ZKMT Hamidiye"
-OTT_medium_tank_artillery_equipment_3_short:0 "Hamidiye"
-OTT_medium_tank_artillery_equipment_3_desc:0 "Hamidiye is a prototype medium SPG on a Altay tank chassis, this advanced medium SPG that had good range and firepower. However due to complexity of its design, the Altay project needed to be abandoned along with the other variant types of it."
-OTT_medium_tank_destroyer_equipment_1:0 "I. ZKMTS Tevfik"
-OTT_medium_tank_destroyer_equipment_1_short:0 "Tevfik"
-OTT_medium_tank_destroyer_equipment_2:0 "II. ZKMTS Kemal"
-OTT_medium_tank_destroyer_equipment_2_short:0 "Kemal"
-OTT_medium_tank_destroyer_equipment_3:0 "III. ZKMTS Selçuk"
-OTT_medium_tank_destroyer_equipment_3_short:0 "Selçuk"
-OTT_medium_tank_aa_equipment_1:0 "I. ZKMUS Yörük"
-OTT_medium_tank_aa_equipment_1_short:0 "Yörük"
-OTT_medium_tank_aa_equipment_1_desc:0 "I. Zırhlı Kundağı Motorlu Tayyare Topu Yörük is medium SPAA developed during Harb-i Yıldırım military reforms. It was intended for escorting armoured assault battalions against incoming enemy aircraft, while also providing fire support to friendly forces if necessary."
-OTT_medium_tank_aa_equipment_2:0 "II. ZKMUS Çerkez"
-OTT_medium_tank_aa_equipment_2_short:0 "Çerkez"
-OTT_medium_tank_aa_equipment_2_desc:0 "Çerkez is a mobile anti-air artillery mounted on a II. ZMV chassis. It's main armament consists of four 30mm Kuşçu AA guns on open turret and M35 as coaxial MG."
-OTT_medium_tank_aa_equipment_3:0 "III. ZKMUS Türkmen"
-OTT_medium_tank_aa_equipment_3_short:0 "Türkmen"
-OTT_medium_tank_aa_equipment_3_desc:0 "Prototype SP anti air artillery that was designed during Altay project. However project itself had to be cancelled due to its costly and complex design."
-
-OTT_heavy_tank_equipment_1:0 "AV-22 'Gazi'"
-OTT_heavy_tank_equipment_1_short:0 "Gazi"
-OTT_heavy_tank_equipment_2:0 "AV-42 'Arslan'"
-OTT_heavy_tank_equipment_2_short:0 "Arslan"
-OTT_heavy_tank_equipment_3:0 "AV-44 'Azap'"
-OTT_heavy_tank_equipment_3_short:0 "Azap"
-OTT_heavy_tank_artillery_equipment_1:0 "AV-22T 'Gazi Seyyar Topçu'"
-OTT_heavy_tank_artillery_equipment_1_short:0 "Gazi Seyyar Topçu"
-OTT_heavy_tank_artillery_equipment_2:0 "AV-42T 'Arslan Seyyar Topçu'"
-OTT_heavy_tank_artillery_equipment_2_short:0 "Arslan Seyyar Topçu"
-OTT_heavy_tank_artillery_equipment_3:0 "AV-44T 'Azap Seyyar Topçu'"
-OTT_heavy_tank_artillery_equipment_3_short:0 "Azap Seyyar Topçu"
-OTT_heavy_tank_destroyer_equipment_1:0 "AV-22TS 'Gazi Seyyar Ciritçi'"
-OTT_heavy_tank_destroyer_equipment_1_short:0 "Gazi Seyyar Ciritçi"
-OTT_heavy_tank_destroyer_equipment_2:0 "AV-42TS 'Arslan Seyyar Ciritçi'"
-OTT_heavy_tank_destroyer_equipment_2_short:0 "Arslan Seyyar Ciritçi"
-OTT_heavy_tank_destroyer_equipment_3:0 "AV-44TS 'Azap Seyyar Ciritçi'"
-OTT_heavy_tank_destroyer_equipment_3_short:0 "Azap Seyyar Ciritçi"
-OTT_heavy_tank_aa_equipment_1:0 "AV-22US 'Gazi Seyyar Kuşcu'"
-OTT_heavy_tank_aa_equipment_1_short:0 "Gazi Seyyar Kuşcu"
-OTT_heavy_tank_aa_equipment_2:0 "AV-42US 'Arslan Seyyar Kuşçu'"
-OTT_heavy_tank_aa_equipment_2_short:0 "Arslan Seyyar Kuşçu"
-OTT_heavy_tank_aa_equipment_3:0 "AV-44US 'Azap Seyyar Kuşçu'"
-OTT_heavy_tank_aa_equipment_3_short:0 "Azap Seyyar Kuşçu"
-
-OTT_super_heavy_tank_equipment_1:0 "AAV-56 'Sangal'"
-OTT_super_heavy_tank_equipment_1_short:0 "Sangal"
-OTT_super_heavy_tank_artillery_equipment_1:0 "AAV-56T 'Şahi'"
-OTT_super_heavy_tank_artillery_equipment_1_short:0 "Şahi"
-OTT_super_heavy_tank_destroyer_equipment_1:0 "AAV-56TS 'Tepegöz'"
-OTT_super_heavy_tank_destroyer_equipment_1_short:0 "Tepegöz"
-OTT_super_heavy_tank_aa_equipment_1:0 "AAV-56US 'Kumay'"
-OTT_super_heavy_tank_aa_equipment_1_short:0 "Kumay"
-OTT_modern_tank_equipment_1:0 "Z-52 Altınordu"
-OTT_modern_tank_equipment_1_short:0 "Altınordu"
-OTT_modern_tank_artillery_equipment_1:0 "Z-32 Altınsapan"
-OTT_modern_tank_artillery_equipment_1_short:0 "Altınsapan"
-OTT_modern_tank_destroyer_equipment_1:0 "Z-26 Altınmızrak"
-OTT_modern_tank_destroyer_equipment_1_short:0 "Altınmızrak"
-OTT_modern_tank_destroyer_equipment_1_desc:0 "An updated version of the 3. Zırh Avcısı, the Altınmızrak is faster and better armoured"
-OTT_modern_tank_aa_equipment_1:0 "Z-23 Altınok"
-OTT_modern_tank_aa_equipment_1_short:0 "Altınok"
-
-###
 ### Palestine ###
 ###
 
@@ -6969,12 +6814,12 @@ PHI_EQUIPMENT_VERSION_13:0 "A9A4"
 PHI_infantry_equipment_0:0 "Springfield Model 1903"
 PHI_infantry_equipment_0_short:0 "M1903 Springfield"
 PHI_infantry_equipment_0_desc:0 "The Model 1903 was developed at Springfield Arsenal when, following the Spanish-American war, the United States deemed the Krag–Jørgensen rifle inadequate on account of its weak action; at its core, the 1903 was an attempt to combine beneficial features of both the Krag and captureds Spanish Mausers. The rifle was gradually adopted along with the .30-06 cartridge both before and while the rest of the world waged the Great War."
-PHI_infantry_equipment_1:0 "Springfield Model 1903A1"
-PHI_infantry_equipment_1_short:0 "M1903A1 Springfield"
-PHI_infantry_equipment_2:0 "Johnson Model 1"
-PHI_infantry_equipment_2_short:0 "M1 Johnson"
-PHI_infantry_equipment_3:0 "Johnson Model 3"
-PHI_infantry_equipment_3_short:0 "M3 Johnson"
+PHI_infantry_equipment_1:0 "M1 Garand"
+PHI_infantry_equipment_1_short:0 "M1 Garand"
+PHI_infantry_equipment_2:0 "Thompson Model 1"
+PHI_infantry_equipment_2_short:0 "M1 Thompson"
+PHI_infantry_equipment_3:0 "Model 2 Carbine"
+PHI_infantry_equipment_3_short:0 "M2 Carbine"
 PHI_infantry_at:0 "M2 Anti-Mechanization Weapon"
 PHI_infantry_at2:0 "M18 Recoilless Rifle"
 PHI_support_weapons:0 "M1917 Browning MG & Stokes mortar"
@@ -7259,75 +7104,6 @@ ROM_medium_tank_destroyer_equipment_2:0 "Maresal"
 ROM_medium_tank_destroyer_equipment_2_short:0 "Maresal"
 
 ###
-### Royalist Romania ###
-###
-
-RRM_EQUIPMENT_VERSION_1:0 "A"
-RRM_EQUIPMENT_VERSION_2:0 "B"
-RRM_EQUIPMENT_VERSION_3:0 "C"
-RRM_EQUIPMENT_VERSION_4:0 "D"
-RRM_EQUIPMENT_VERSION_5:0 "E"
-RRM_EQUIPMENT_VERSION_6:0 "F"
-RRM_EQUIPMENT_VERSION_7:0 "G"
-RRM_EQUIPMENT_VERSION_8:0 "H"
-RRM_EQUIPMENT_VERSION_9:0 "I"
-RRM_EQUIPMENT_VERSION_10:0 "J"
-RRM_EQUIPMENT_VERSION_11:0 "K"
-RRM_EQUIPMENT_VERSION_12:0 "L"
-RRM_EQUIPMENT_VERSION_13:0 "M"
-RRM_EQUIPMENT_VERSION_14:0 "N"
-RRM_EQUIPMENT_VERSION_15:0 "O"
-RRM_EQUIPMENT_VERSION_16:0 "P"
-
-### Land ###
-RRM_infantry_equipment_0:0 "Mannlicher Model 1895"
-RRM_infantry_equipment_0_short:0 "Mannlicher M1895"
-RRM_infantry_equipment_1:0 "Puška Model 1924"
-RRM_infantry_equipment_1_short:0 "Puška M1924"
-RRM_infantry_equipment_2:0 "Orita Model 1941"
-RRM_infantry_equipment_2_short:0 "Orita M1941"
-RRM_infantry_equipment_3:0 "Orita Carbine"
-RRM_infantry_equipment_3_short:0 "Orita Carbine"
-
-RRM_anti_tank_equipment_1:0 "47 mm Concordia 1936"
-RRM_anti_tank_equipment_1_short:0 "47mm Concordia 36"
-RRM_anti_tank_equipment_2:0 "75 mm Concordia 97/38"
-RRM_anti_tank_equipment_3:0 "75 mm Resita Model 1943"
-
-RRM_anti_air_equipment_1:0 "TA calibru 37mm model 1939"
-RRM_anti_air_equipment_1_short:0 "Astra 37mm"
-RRM_anti_air_equipment_2:0 "75mm Vickers-Resita M1936"
-RRM_anti_air_equipment_3:0 "9cm Resita 12/30"
-
-RRM_artillery_equipment_1:0 "105mm Concordia M1913"
-RRM_artillery_equipment_1_short:0 "105mm Concordia 13"
-RRM_artillery_equipment_2:0 "150mm Resita M1934"
-RRM_artillery_equipment_3:0 "155mm Concordia M1917"
-
-RRM_motorized_equipment_1:0 "Praga RV"
-RRM_mechanized_equipment_1:0 "Transportoare Blindate Md.1939 Malaxa"
-RRM_mechanized_equipment_1_short:0 "TB Md.1939"
-RRM_mechanized_equipment_2:0 "Transportoare Blindate Md.1942 Malaxa"
-RRM_mechanized_equipment_2_short:0 "TB Md.1942"
-RRM_mechanized_equipment_3:0 "Transportoare Blindate Md.1944 Malaxa"
-RRM_mechanized_equipment_3_short:0 "TB Md.1944"
-
-RRM_gw_tank_equipment:0 "Renault FT"
-RRM_gw_tank_equipment_short:0 "FT"
-RRM_light_tank_equipment_1:0 "R-1"
-RRM_light_tank_equipment_1_short:0 "R-1"
-RRM_light_tank_destroyer_equipment_1:0 "TACAM R-1"
-RRM_light_tank_destroyer_equipment_1_short:0 "TACAM R-1"
-RRM_light_tank_equipment_2:0 "R-2"
-RRM_light_tank_equipment_2_short:0 "R-2"
-RRM_light_tank_destroyer_equipment_2:0 "TACAM R-2"
-RRM_light_tank_destroyer_equipment_2_short:0 "TACAM R-2"
-RRM_light_tank_destroyer_equipment_3:0 "TACAM T-60"
-RRM_light_tank_destroyer_equipment_3_short:0 "TACAM T-60"
-RRM_medium_tank_destroyer_equipment_2:0 "Maresal"
-RRM_medium_tank_destroyer_equipment_2_short:0 "Maresal"
-
-###
 ### Russia ###
 ###
 
@@ -7445,6 +7221,125 @@ RUS_modern_tank_equipment_1_short:0 "T-45"
 
 RUS_super_heavy_tank_equipment_1:0 "Putilov T-107"
 RUS_super_heavy_tank_equipment_1_short:0 "T-107"
+
+###
+### Novorossiya ###
+###
+
+### Land ###
+
+#Infantry Equip
+
+SRU_infantry_equipment_0:0 "Vintovka Mosina 1891 obr.1891"
+SRU_infantry_equipment_0_short:0 "Mosina 1891"
+SRU_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
+SRU_infantry_equipment_1_short:0 "Mosina 1891/1930"
+SRU_infantry_equipment_2:0 "Tokarev obr.1940"
+SRU_infantry_equipment_2_short:0 "SVT-40"
+SRU_infantry_equipment_3:0 "Sudarev obr.1942"
+SRU_infantry_equipment_3_short:0 "AS-42"
+SRU_infantry_at:0 "PTRS-41"
+SRU_infantry_at2:0 "RPG-42"
+SRU_support_weapons:0 "Maxim-Tokarev obr.1924 & Dyakonov 40,5mm GV"
+SRU_support_weapons2:0 "Degtyarev DP-29M & 82mm BM obr.1938"
+SRU_support_weapons3:0 "Degtyarev DS-39 & Taubin 40,5mm AG-2"
+SRU_support_weapons4:0 "Goryunov SG-43 & 120mm PM obr.1943"
+SRU_night_vision:0 "Ts-3"
+SRU_night_vision2:0 "NSP-2"
+
+#Motorised
+
+SRU_motorized_equipment_1:0 "AMO-6"
+SRU_motorized_equipment_1_short:0 "AMO-6"
+
+SRU_motorized_rocket_equipment_1:0 "BM-13 Orkestr"
+SRU_motorized_rocket_equipment_1_short:0 "BM-13 Orkestr"
+
+SRU_mechanized_equipment_1:0 "BTR-40"
+SRU_mechanized_equipment_1_short:0 "BTR-40"
+SRU_mechanized_equipment_2:0 "BTR-42"
+SRU_mechanized_equipment_2_short:0 "BTR-42"
+SRU_mechanized_equipment_3:0 "BTR-42MT"
+SRU_mechanized_equipment_3_short:0 "BTR-42MT"
+
+SRU_amphibious_mechanized_equipment_1:0 "PTP" 
+SRU_amphibious_mechanized_equipment_1_short:0 "PTP"
+SRU_amphibious_mechanized_equipment_2:0 "PBTR" 
+SRU_amphibious_mechanized_equipment_2_short:0 "PBTR"
+
+#Amphibious
+SRU_amphibious_tank_equipment_1:0 "T-40"
+SRU_amphibious_tank_equipment_2:0 "PT-43"
+
+#Armored Car
+SRU_gw_armored_car_equipment:0 "NAZ BA-20"
+SRU_gw_armored_car_equipment_short:0 "BA-20"
+SRU_armored_car_equipment_1:0 "Izhorskiye BA-10"
+SRU_armored_car_equipment_1_short:0 "BA-10"
+SRU_armored_car_equipment_2:0 "NAZ BA-64"
+SRU_armored_car_equipment_2_short:0 "BA-64"
+SRU_armored_car_at_equipment:0 "NAZ BA-64E-37"
+SRU_armored_car_at_equipment_short:0 "BA-64E-37"
+
+#Artillery
+
+SRU_artillery_equipment_1:0 "76mm obr.1902/1930"
+SRU_artillery_equipment_1_short:0 "76mm obr.1902/1930"
+SRU_artillery_equipment_2:0 "107mm obr.1940"
+SRU_artillery_equipment_2_short:0 "107mm obr.1940"
+SRU_artillery_equipment_3:0 "152mm MT-1 obr.1944"
+SRU_artillery_equipment_3_short:0 "152mm MT-1"
+
+SRU_anti_tank_equipment_1:0 "45mm 19-K obr.1931"
+SRU_anti_tank_equipment_1_short:0 "45mm 19-K"
+SRU_anti_tank_equipment_2:0 "57mm AMO-2 obr.1940"
+SRU_anti_tank_equipment_2_short:0 "57mm AMO-2"
+SRU_anti_tank_equipment_3:0 "100mm OB-3 obr.1943"
+SRU_anti_tank_equipment_3_short:0 "100mm OB-3"
+
+SRU_anti_air_equipment_1:0 "37mm 61-K obr.1932"
+SRU_anti_air_equipment_1_short:0 "37mm 61-K"
+SRU_anti_air_equipment_2:0 "85mm 52-K obr.1938"
+SRU_anti_air_equipment_2_short:0 "85mm 52-K"
+SRU_anti_air_equipment_3:0 "100mm VT-19 obr.1943"
+SRU_anti_air_equipment_3_short:0 "100mm VT-19"
+
+SRU_rocket_artillery_equipment_1:0 "132mm M-8-24"
+SRU_rocket_artillery_equipment_1_short:0 "132mm M-8-24"
+SRU_rocket_artillery_equipment_2:0 "302mm M-20-12"
+SRU_rocket_artillery_equipment_2_short:0 "302mm M-20-12"
+
+#Tanks
+
+SRU_gw_tank_equipment:0 "Putilov T-19"
+SRU_gw_tank_equipment_short:0 "T-19"
+
+SRU_light_tank_equipment_1:0 "Obukhov T-26"
+SRU_light_tank_equipment_1_short:0 "T-26"
+SRU_light_tank_equipment_2:0 "AMO BT-10"
+SRU_light_tank_equipment_2_short:0 "BT-10"
+SRU_light_tank_equipment_3:0 "AMO BT-20"
+SRU_light_tank_equipment_3_short:0 "BT-20"
+
+SRU_medium_tank_equipment_1:0 "Putilov T-28"
+SRU_medium_tank_equipment_1_short:0 "T-28"
+SRU_medium_tank_equipment_2:0 "Obukhov T-43"
+SRU_medium_tank_equipment_2_short:0 "T-43"
+SRU_medium_tank_equipment_3:0 "Obukhov T-43-2"
+SRU_medium_tank_equipment_3_short:0 "T-43-2"
+
+SRU_heavy_tank_equipment_1:0 "Putilov T-76"
+SRU_heavy_tank_equipment_1_short:0 "T-76"
+SRU_heavy_tank_equipment_2:0 "ChTZ T-85"
+SRU_heavy_tank_equipment_2_short:0 "T-85"
+SRU_heavy_tank_equipment_3:0 "ChTZ T-120"
+SRU_heavy_tank_equipment_3_short:0 "T-120"
+
+SRU_modern_tank_equipment_1:0 "Obukhov T-45"
+SRU_modern_tank_equipment_1_short:0 "T-45"
+
+SRU_super_heavy_tank_equipment_1:0 "Putilov T-107"
+SRU_super_heavy_tank_equipment_1_short:0 "T-107"
 
 ###
 ### Rwanda ###
@@ -8064,6 +7959,122 @@ SIB_modern_tank_equipment_1_short:0 "T-45"
 
 SIB_super_heavy_tank_equipment_1:0 "Putilov T-107"
 SIB_super_heavy_tank_equipment_1_short:0 "T-107"
+
+###
+### Yakutia ###
+###
+
+#Infantry Equip
+
+KCK_infantry_equipment_0:0 "Vintovka Mosina 1891 obr.1891"
+KCK_infantry_equipment_0_short:0 "Mosina 1891"
+KCK_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
+KCK_infantry_equipment_1_short:0 "Mosina 1891/1930"
+KCK_infantry_equipment_2:0 "Tokarev obr.1940"
+KCK_infantry_equipment_2_short:0 "SVT-40"
+KCK_infantry_equipment_3:0 "Sudarev obr.1942"
+KCK_infantry_equipment_3_short:0 "AS-42"
+KCK_infantry_at:0 "PTRS-41"
+KCK_infantry_at2:0 "RPG-42"
+KCK_support_weapons:0 "Maxim-Tokarev obr.1924 & Dyakonov 40,5mm GV"
+KCK_support_weapons2:0 "Degtyarev DP-29M & 82mm BM obr.1938"
+KCK_support_weapons3:0 "Degtyarev DS-39 & Taubin 40,5mm AG-2"
+KCK_support_weapons4:0 "Goryunov SG-43 & 120mm PM obr.1943"
+KCK_night_vision:0 "Ts-3"
+KCK_night_vision2:0 "NSP-2"
+
+#Motorised
+
+KCK_motorized_equipment_1:0 "AMO-6"
+KCK_motorized_equipment_1_short:0 "AMO-6"
+
+KCK_motorized_rocket_equipment_1:0 "BM-13 Orkestr"
+KCK_motorized_rocket_equipment_1_short:0 "BM-13 Orkestr"
+
+KCK_mechanized_equipment_1:0 "BTR-40"
+KCK_mechanized_equipment_1_short:0 "BTR-40"
+KCK_mechanized_equipment_2:0 "BTR-42"
+KCK_mechanized_equipment_2_short:0 "BTR-42"
+KCK_mechanized_equipment_3:0 "BTR-42MT"
+KCK_mechanized_equipment_3_short:0 "BTR-42MT"
+
+KCK_amphibious_mechanized_equipment_1:0 "K-40" 
+KCK_amphibious_mechanized_equipment_1_short:0 "K-40"
+KCK_amphibious_mechanized_equipment_2:0 "MT-LB" 
+KCK_amphibious_mechanized_equipment_2_short:0 "MT-LB"
+
+#Armored Car
+KCK_gw_armored_car_equipment:0 "NAZ BA-20"
+KCK_gw_armored_car_equipment_short:0 "BA-20"
+KCK_armored_car_equipment_1:0 "Izhorskiye BA-10"
+KCK_armored_car_equipment_1_short:0 "BA-10"
+KCK_armored_car_equipment_2:0 "NAZ BA-64"
+KCK_armored_car_equipment_2_short:0 "BA-64"
+KCK_armored_car_at_equipment:0 "NAZ BA-64E-37"
+KCK_armored_car_at_equipment_short:0 "BA-64E-37"
+
+#Amphibious
+KCK_amphibious_tank_equipment_1:0 "T-40"
+
+#Artillery
+
+KCK_artillery_equipment_1:0 "76mm obr.1902/1930"
+KCK_artillery_equipment_1_short:0 "76mm obr.1902/1930"
+KCK_artillery_equipment_2:0 "107mm obr.1940"
+KCK_artillery_equipment_2_short:0 "107mm obr.1940"
+KCK_artillery_equipment_3:0 "152mm MT-1 obr.1944"
+KCK_artillery_equipment_3_short:0 "152mm MT-1"
+
+KCK_anti_tank_equipment_1:0 "45mm 19-K obr.1931"
+KCK_anti_tank_equipment_1_short:0 "45mm 19-K"
+KCK_anti_tank_equipment_2:0 "57mm AMO-2 obr.1940"
+KCK_anti_tank_equipment_2_short:0 "57mm AMO-2"
+KCK_anti_tank_equipment_3:0 "100mm OB-3 obr.1943"
+KCK_anti_tank_equipment_3_short:0 "100mm OB-3"
+
+KCK_anti_air_equipment_1:0 "37mm 61-K obr.1932"
+KCK_anti_air_equipment_1_short:0 "37mm 61-K"
+KCK_anti_air_equipment_2:0 "85mm 52-K obr.1938"
+KCK_anti_air_equipment_2_short:0 "85mm 52-K"
+KCK_anti_air_equipment_3:0 "100mm VT-19 obr.1943"
+KCK_anti_air_equipment_3_short:0 "100mm VT-19"
+
+KCK_rocket_artillery_equipment_1:0 "132mm M-8-24"
+KCK_rocket_artillery_equipment_1_short:0 "132mm M-8-24"
+KCK_rocket_artillery_equipment_2:0 "302mm M-20-12"
+KCK_rocket_artillery_equipment_2_short:0 "302mm M-20-12"
+
+#Tanks
+
+KCK_gw_tank_equipment:0 "Putilov T-19"
+KCK_gw_tank_equipment_short:0 "T-19"
+
+KCK_light_tank_equipment_1:0 "Obukhov T-26"
+KCK_light_tank_equipment_1_short:0 "T-26"
+KCK_light_tank_equipment_2:0 "AMO BT-10"
+KCK_light_tank_equipment_2_short:0 "BT-10"
+KCK_light_tank_equipment_3:0 "AMO BT-20"
+KCK_light_tank_equipment_3_short:0 "BT-20"
+
+KCK_medium_tank_equipment_1:0 "Putilov T-28"
+KCK_medium_tank_equipment_1_short:0 "T-28"
+KCK_medium_tank_equipment_2:0 "Obukhov T-43"
+KCK_medium_tank_equipment_2_short:0 "T-43"
+KCK_medium_tank_equipment_3:0 "Obukhov T-43-2"
+KCK_medium_tank_equipment_3_short:0 "T-43-2"
+
+KCK_heavy_tank_equipment_1:0 "Putilov T-76"
+KCK_heavy_tank_equipment_1_short:0 "T-76"
+KCK_heavy_tank_equipment_2:0 "ChTZ T-85"
+KCK_heavy_tank_equipment_2_short:0 "T-85"
+KCK_heavy_tank_equipment_3:0 "ChTZ T-120"
+KCK_heavy_tank_equipment_3_short:0 "T-120"
+
+KCK_modern_tank_equipment_1:0 "Obukhov T-45"
+KCK_modern_tank_equipment_1_short:0 "T-45"
+
+KCK_super_heavy_tank_equipment_1:0 "Putilov T-107"
+KCK_super_heavy_tank_equipment_1_short:0 "T-107"
 
 ###
 ### Fiume ###
@@ -8699,6 +8710,110 @@ SWE_modern_tank_equipment_1:0 "Stridsvagn 81"
 SWE_modern_tank_equipment_1_short:0 "Strv 81"
 
 ###
+### Occupied Norway ###
+###
+
+### Land ###
+
+NRO_EQUIPMENT_VERSION_1:0 "S I"
+NRO_EQUIPMENT_VERSION_2:0 "S II"
+NRO_EQUIPMENT_VERSION_3:0 "S III"
+NRO_EQUIPMENT_VERSION_4:0 "S IV"
+NRO_EQUIPMENT_VERSION_5:0 "S V"
+NRO_EQUIPMENT_VERSION_6:0 "S VI"
+NRO_EQUIPMENT_VERSION_7:0 "S VII"
+NRO_EQUIPMENT_VERSION_8:0 "S VIII"
+NRO_EQUIPMENT_VERSION_9:0 "S IX"
+NRO_EQUIPMENT_VERSION_10:0 "S X"
+NRO_EQUIPMENT_VERSION_11:0 "S XI"
+NRO_EQUIPMENT_VERSION_12:0 "S XII"
+NRO_EQUIPMENT_VERSION_13:0 "S XIII"
+
+#Infantry Equip
+
+NRO_infantry_equipment_0:0 "Mauser Gevär m/1896"
+NRO_infantry_equipment_0_short:0 "Gevär m/96"
+NRO_infantry_equipment_1:0 "Mauser Gevär m/1938"
+NRO_infantry_equipment_1_short:0 "Gevär m/38"
+NRO_infantry_equipment_2:0 "Automatgevär Pelo"
+NRO_infantry_equipment_2_short:0 "AG Pelo"
+NRO_infantry_equipment_2_desc:0 "Though his initial designs were deemed prohibitively expensive by the Finnish Army in the early 1930s, Carl Pelo's long-recoil semi-automatic rifle caught the attention of Finland's neighbour - Sweden. A team of skilled Swedish arms designers ultimately managed to reduce the production costs of the rifle, and it was ultimately adopted by the Swedes despite still being quite complex."
+NRO_infantry_equipment_3:0 "Carl Ljungman Automatgevär m/1942"
+NRO_infantry_equipment_3_short:0 "AG m/42"
+NRO_infantry_at:0 "Pansarvärnsgevär m/38"
+NRO_infantry_at2:0 "Carl Gustav Pvg m/42"
+NRO_support_weapons:0 "Schwarzlose Ksp m/14 & 6 cm Granatkastare m/18"
+NRO_support_weapons2:0 "Browning Ksp m/36 & 4,7 cm Granatkastare m/40"
+NRO_support_weapons3:0 "SAV Ksp m/40 & 8 cm Granatkastare m/29"
+NRO_support_weapons4:0 "Browning Ksp m/42 & 12 cm Granatkastare m/41"
+
+#Motorised
+
+NRO_motorized_equipment_1:0 "Scania-Vabis 335"
+NRO_mechanized_equipment_1:0 "Volvo TVB"
+NRO_mechanized_equipment_1_short:0 "Volvo TVB"
+NRO_mechanized_equipment_2:0 "Volvo HBT"
+NRO_mechanized_equipment_2_short:0 "Volvo HBT"
+NRO_mechanized_equipment_3:0 "Terrängbil m/42 KP"
+NRO_mechanized_equipment_3_short:0 "Tgbil m/42"
+
+#Artillery
+
+NRO_artillery_equipment_1:0 "10,5 cm kanon m/34"
+NRO_artillery_equipment_1_short:0 "10.5 cm m/34"
+NRO_artillery_equipment_2:0 "10,5 cm Haubits m/40"
+NRO_artillery_equipment_3:0 "12 cm Haubits m/14"
+
+NRO_anti_tank_equipment_1:0 "Bofors 37mm pansarvärnskanon"
+NRO_anti_tank_equipment_1_short:0 "Bofors 37mm"
+NRO_anti_tank_equipment_2:0 "57mm pansarvärnskanon"
+NRO_anti_tank_equipment_2_short:0 "57mm pvkan."
+NRO_anti_tank_equipment_3:0 "75mm pansarvärnskanon m/43"
+NRO_anti_tank_equipment_3_short:0 "75mm pvkan m/43"
+
+NRO_anti_air_equipment_1:0 "8mm Luftvärnskulspruta m/36"
+NRO_anti_air_equipment_1_short:0 "8mm Lvksp m/36"
+NRO_anti_air_equipment_1_desc:0 "From what we saw during the Great War, automatic fire is the bane of aircraft. A double mount of heavy machineguns chambered in 8x63mm will provide some decent anti-air capabilities for the time being."
+NRO_anti_air_equipment_2:0 "Bofors 20mm Automatkanon"
+NRO_anti_air_equipment_2_short:0 "20mm Lvakan m/40"
+NRO_anti_air_equipment_2_desc:0 "Instead of a machinegun, a dedicated anti-air cannon will serve our forces much good. The invention of a mobile small-calibre cannon that fires explosive shells will come in handy when we have to swat enemy flies out of the sky."
+NRO_anti_air_equipment_3:0 "Bofors 40mm Automatkanon"
+NRO_anti_air_equipment_3_short:0 "40mm Lvakan m/48"
+NRO_anti_air_equipment_3_desc:0 "Death from above is becoming an increasingly common way to describe air strikes, but in this case death also comes from below. A 40mm cannon will not only do devastating damage against all aircraft, but can also be turned to decimate ground forces."
+
+#Tanks
+
+NRO_gw_tank_equipment:0 "Stridsvagn m/21"
+NRO_gw_tank_equipment_short:0 "Strv m/21"
+
+NRO_light_tank_equipment_1:0 "Stridvagn m/31"
+NRO_light_tank_equipment_1_short:0 "Strv m/31"
+NRO_light_tank_equipment_2:0 "Stridsvagn m/38"
+NRO_light_tank_equipment_2_short:0 "Strv m/38"
+NRO_light_tank_equipment_3:0 "Stridsvagn m/40K"
+NRO_light_tank_equipment_3_short:0 "Strv m/40K"
+
+NRO_medium_tank_equipment_1:0 "Stridsvagn m/41"
+NRO_medium_tank_equipment_1_short:0 "Strv m/41"
+NRO_medium_tank_equipment_2:0 "Landsverk Lago"
+NRO_medium_tank_equipment_2_short:0 "Lago"
+NRO_medium_tank_equipment_3:0 "Stridsvagn m/42"
+NRO_medium_tank_equipment_3_short:0 "Strv m/42"
+
+NRO_heavy_tank_equipment_1:0 "Landsverk Leo"
+NRO_heavy_tank_equipment_1_short:0 "Leo"
+NRO_heavy_tank_equipment_2:0 "Emil I"
+NRO_heavy_tank_equipment_2_short:0 "Emil I"
+NRO_heavy_tank_equipment_3:0 "Emil II"
+NRO_heavy_tank_equipment_3_short:0 "Emil II"
+
+NRO_super_heavy_tank_equipment_1:0 "Kranvagn"
+NRO_super_heavy_tank_equipment_1_short:0 "Kranvagn"
+
+NRO_modern_tank_equipment_1:0 "Stridsvagn 81"
+NRO_modern_tank_equipment_1_short:0 "Strv 81"
+
+###
 ### Switzerland ###
 ###
 
@@ -8724,6 +8839,16 @@ SWI_support_weapons3:0 "Solothurn S2-200 & 81mm Mw33/38"
 SYR_infantry_equipment_0:0 "Mauser G98 M1903"
 SYR_infantry_equipment_0_short:0 "Mauser G98"
 SYR_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ottoman Army during the Great War. The Ottoman M1903, chambered in 7.65mm, was the most common variant of Mauser in use. Pronounced 'Mavzer' by the Ottomans, this iconic rifle achieved great fame and became deeply ingrained in the Turkish subconscious.\n'One side of me withered from sorrows / the other from a Mavzer wound'. Freed from Ottoman control, the Mashriqi army possess a large number of these rifles."
+
+###
+### Al-Jazira ###
+###
+
+### Land ###
+ALJ_infantry_equipment_0:0 "Mauser G98 M1903"
+ALJ_infantry_equipment_0_short:0 "Mauser G98"
+ALJ_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ottoman Army during the Great War. The Ottoman M1903, chambered in 7.65mm, was the most common variant of Mauser in use. Pronounced 'Mavzer' by the Ottomans, this iconic rifle achieved great fame and became deeply ingrained in the Turkish subconscious.\n'One side of me withered from sorrows / the other from a Mavzer wound'. Freed from Ottoman control, the Mashriqi army possess a large number of these rifles."
+
 
 ###
 ### Sichuan Clique ###
@@ -8906,8 +9031,8 @@ TEX_EQUIPMENT_VERSION_13:0 "A9A4"
 TEX_infantry_equipment_0:0 "Springfield Model 1903"
 TEX_infantry_equipment_0_short:0 "M1903 Springfield"
 TEX_infantry_equipment_0_desc:0 "The Model 1903 was developed at Springfield Arsenal when, following the Spanish-American war, the United States deemed the Krag–Jørgensen rifle inadequate on account of its weak action; at its core, the 1903 was an attempt to combine beneficial features of both the Krag and captureds Spanish Mausers. The rifle was gradually adopted along with the .30-06 cartridge both before and while the rest of the world waged the Great War."
-TEX_infantry_equipment_1:0 "Springfield Model 1903A1"
-TEX_infantry_equipment_1_short:0 "M1903A1 Springfield"
+TEX_infantry_equipment_1:0 "M1 Garand"
+TEX_infantry_equipment_1_short:0 "M1 Garand"
 TEX_infantry_equipment_2:0 "Colt Model 1937"
 TEX_infantry_equipment_2_short:0 "M1937 Colt"
 TEX_infantry_equipment_3:0 "Williams Model 1942"
@@ -9145,8 +9270,121 @@ TRI_modern_tank_equipment_1_short:0 "A44 'Brock'"
 ###
 
 ### Land ###
-TRK_infantry_equipment_0:0 "Vintovka Mosina obr.1891"
+
+### Land ###
+
+#Infantry Equip
+
+TRK_infantry_equipment_0:0 "Vintovka Mosina 1891 obr.1891"
 TRK_infantry_equipment_0_short:0 "Mosina 1891"
+TRK_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
+TRK_infantry_equipment_1_short:0 "Mosina 1891/1930"
+TRK_infantry_equipment_2:0 "Tokarev obr.1940"
+TRK_infantry_equipment_2_short:0 "SVT-40"
+TRK_infantry_equipment_3:0 "Sudarev obr.1942"
+TRK_infantry_equipment_3_short:0 "AS-42"
+TRK_infantry_at:0 "PTRS-41"
+TRK_infantry_at2:0 "RPG-42"
+TRK_support_weapons:0 "Maxim-Tokarev obr.1924 & Dyakonov 40,5mm GV"
+TRK_support_weapons2:0 "Degtyarev DP-29M & 82mm BM obr.1938"
+TRK_support_weapons3:0 "Degtyarev DS-39 & Taubin 40,5mm AG-2"
+TRK_support_weapons4:0 "Goryunov SG-43 & 120mm PM obr.1943"
+TRK_night_vision:0 "Ts-3"
+TRK_night_vision2:0 "NSP-2"
+
+#Motorised
+
+TRK_motorized_equipment_1:0 "AMO-6"
+TRK_motorized_equipment_1_short:0 "AMO-6"
+
+TRK_motorized_rocket_equipment_1:0 "BM-13 Orkestr"
+TRK_motorized_rocket_equipment_1_short:0 "BM-13 Orkestr"
+
+TRK_mechanized_equipment_1:0 "BTR-40"
+TRK_mechanized_equipment_1_short:0 "BTR-40"
+TRK_mechanized_equipment_2:0 "BTR-42"
+TRK_mechanized_equipment_2_short:0 "BTR-42"
+TRK_mechanized_equipment_3:0 "BTR-42MT"
+TRK_mechanized_equipment_3_short:0 "BTR-42MT"
+
+TRK_amphibious_mechanized_equipment_1:0 "PTP" 
+TRK_amphibious_mechanized_equipment_1_short:0 "PTP"
+TRK_amphibious_mechanized_equipment_2:0 "PBTR" 
+TRK_amphibious_mechanized_equipment_2_short:0 "PBTR"
+
+#Amphibious
+TRK_amphibious_tank_equipment_1:0 "T-40"
+TRK_amphibious_tank_equipment_2:0 "PT-43"
+
+#Armored Car
+TRK_gw_armored_car_equipment:0 "NAZ BA-20"
+TRK_gw_armored_car_equipment_short:0 "BA-20"
+TRK_armored_car_equipment_1:0 "Izhorskiye BA-10"
+TRK_armored_car_equipment_1_short:0 "BA-10"
+TRK_armored_car_equipment_2:0 "NAZ BA-64"
+TRK_armored_car_equipment_2_short:0 "BA-64"
+TRK_armored_car_at_equipment:0 "NAZ BA-64E-37"
+TRK_armored_car_at_equipment_short:0 "BA-64E-37"
+
+#Artillery
+
+TRK_artillery_equipment_1:0 "76mm obr.1902/1930"
+TRK_artillery_equipment_1_short:0 "76mm obr.1902/1930"
+TRK_artillery_equipment_2:0 "107mm obr.1940"
+TRK_artillery_equipment_2_short:0 "107mm obr.1940"
+TRK_artillery_equipment_3:0 "152mm MT-1 obr.1944"
+TRK_artillery_equipment_3_short:0 "152mm MT-1"
+
+TRK_anti_tank_equipment_1:0 "45mm 19-K obr.1931"
+TRK_anti_tank_equipment_1_short:0 "45mm 19-K"
+TRK_anti_tank_equipment_2:0 "57mm AMO-2 obr.1940"
+TRK_anti_tank_equipment_2_short:0 "57mm AMO-2"
+TRK_anti_tank_equipment_3:0 "100mm OB-3 obr.1943"
+TRK_anti_tank_equipment_3_short:0 "100mm OB-3"
+
+TRK_anti_air_equipment_1:0 "37mm 61-K obr.1932"
+TRK_anti_air_equipment_1_short:0 "37mm 61-K"
+TRK_anti_air_equipment_2:0 "85mm 52-K obr.1938"
+TRK_anti_air_equipment_2_short:0 "85mm 52-K"
+TRK_anti_air_equipment_3:0 "100mm VT-19 obr.1943"
+TRK_anti_air_equipment_3_short:0 "100mm VT-19"
+
+TRK_rocket_artillery_equipment_1:0 "132mm M-8-24"
+TRK_rocket_artillery_equipment_1_short:0 "132mm M-8-24"
+TRK_rocket_artillery_equipment_2:0 "302mm M-20-12"
+TRK_rocket_artillery_equipment_2_short:0 "302mm M-20-12"
+
+#Tanks
+
+TRK_gw_tank_equipment:0 "Putilov T-19"
+TRK_gw_tank_equipment_short:0 "T-19"
+
+TRK_light_tank_equipment_1:0 "Obukhov T-26"
+TRK_light_tank_equipment_1_short:0 "T-26"
+TRK_light_tank_equipment_2:0 "AMO BT-10"
+TRK_light_tank_equipment_2_short:0 "BT-10"
+TRK_light_tank_equipment_3:0 "AMO BT-20"
+TRK_light_tank_equipment_3_short:0 "BT-20"
+
+TRK_medium_tank_equipment_1:0 "Putilov T-28"
+TRK_medium_tank_equipment_1_short:0 "T-28"
+TRK_medium_tank_equipment_2:0 "Obukhov T-43"
+TRK_medium_tank_equipment_2_short:0 "T-43"
+TRK_medium_tank_equipment_3:0 "Obukhov T-43-2"
+TRK_medium_tank_equipment_3_short:0 "T-43-2"
+
+TRK_heavy_tank_equipment_1:0 "Putilov T-76"
+TRK_heavy_tank_equipment_1_short:0 "T-76"
+TRK_heavy_tank_equipment_2:0 "ChTZ T-85"
+TRK_heavy_tank_equipment_2_short:0 "T-85"
+TRK_heavy_tank_equipment_3:0 "ChTZ T-120"
+TRK_heavy_tank_equipment_3_short:0 "T-120"
+
+TRK_modern_tank_equipment_1:0 "Obukhov T-45"
+TRK_modern_tank_equipment_1_short:0 "T-45"
+
+TRK_super_heavy_tank_equipment_1:0 "Putilov T-107"
+TRK_super_heavy_tank_equipment_1_short:0 "T-107"
 
 ###
 ### Transylvania ###
@@ -9645,12 +9883,12 @@ USA_EQUIPMENT_VERSION_13:0 "A9A4"
 USA_infantry_equipment_0:0 "Springfield Model 1903"
 USA_infantry_equipment_0_short:0 "M1903 Springfield"
 USA_infantry_equipment_0_desc:0 "The Model 1903 was developed at Springfield Arsenal when, following the Spanish-American war, the United States deemed the Krag–Jørgensen rifle inadequate on account of its weak action; at its core, the 1903 was an attempt to combine beneficial features of both the Krag and captureds Spanish Mausers. The rifle was gradually adopted along with the .30-06 cartridge both before and while the rest of the world waged the Great War."
-USA_infantry_equipment_1:0 "Springfield Model 1903A1"
-USA_infantry_equipment_1_short:0 "M1903A1 Springfield"
-USA_infantry_equipment_2:0 "Johnson Model 1"
-USA_infantry_equipment_2_short:0 "M1 Johnson"
-USA_infantry_equipment_3:0 "Johnson Model 3"
-USA_infantry_equipment_3_short:0 "M3 Johnson"
+USA_infantry_equipment_1:0 "M1 Garand"
+USA_infantry_equipment_1_short:0 "M1 Garand"
+USA_infantry_equipment_2:0 "Thompson Model 1"
+USA_infantry_equipment_2_short:0 "M1 Thompson"
+USA_infantry_equipment_3:0 "Model 2 Carbine"
+USA_infantry_equipment_3_short:0 "M2 Carbine"
 USA_infantry_at:0 "M2 Anti-Mechanization Weapon"
 USA_infantry_at2:0 "M18 Recoilless Rifle"
 USA_support_weapons:0 "M1917 Browning MG & Stokes mortar"
