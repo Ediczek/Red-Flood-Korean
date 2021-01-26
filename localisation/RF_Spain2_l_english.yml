@@ -2,8 +2,28 @@
 #COUNTRY NAME#
 
 #PARTIES#
-SPA_accelerationism_party:0 "FG"
-SPA_accelerationism_party_long:0 "장성당"
+SPA_vanguard_socialism_party:0 "JONS"
+SPA_libertarian_marxism_party:0 "PCE"
+SPA_revolutionary_anarchism_party:0 "FAI-CNT"
+SPA_revisionist_socialism_party:0 "PSOE"
+SPA_social_democratism_party:0 "PRR"
+SPA_liberalism_party:0 "PAE"
+SPA_conservatism_party:0 "RE"
+SPA_right_authoritarianism_party:0 "CEDA"
+SPA_despotism_party:0 "JDN"
+SPA_reactionism_party:0 "FE"
+SPA_accelerationism_party:0 "MR"
+SPA_vanguard_socialism_party_long:0 "Juntas de Ofensiva Nacional-Sindicalista"
+SPA_libertarian_marxism_party_long:0 "Partido Comunista Español"
+SPA_revolutionary_anarchism_party_long:0 "Federación Anarquista Ibérica-Confederación Nacional del Trabajo"
+SPA_revisionist_socialism_party_long:0 "Partido Socialista Obrero Español"
+SPA_social_democratism_party_long:0 "Partido Republicano Radical"
+SPA_liberalism_party_long:0 "Partido Agrario Español"
+SPA_conservatism_party_long:0 "Renovación Española"
+SPA_right_authoritarianism_party_long:0 "Confederación Española de Derechas Autónomas"
+SPA_despotism_party_long:0 "Junta de Defensa Nacional"
+SPA_reactionism_party_long:0 "Falange Española"
+SPA_accelerationism_party_long:0 "Movimiento Regeneracionista"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
