@@ -3,8 +3,6 @@
 
 #PARTIES#
 
-
-
 PER_vanguard_socialism_party:0 "밀림당"
 PER_vanguard_socialism_party_long:0 "밀림당"
 PER_libertarian_marxism_party:0 "CPoI"
@@ -28,8 +26,13 @@ PER_reactionism_party_long:0 "이란 민족사회주의 노동자당"
 PER_accelerationism_party:0 "테헤란회"
 PER_accelerationism_party_long:0 "테헤란 협회"
 
-#LEADER DESCRITIONS#
+#LEADER DESCRIPTIONS#
+SHAH_SNR_DESC:0 ""
+SHAH_JNR_DESC:0 ""
 #IDEAS#
+PER_APOC:0 "영국-페르시아 석유사"
 #CUSTOM TOOLTIPS AND FLAGS#
+PER_MENU_DESC:0 ""
 #DECISIONS (1.5 Update)#
+
 #FOCUSES#
