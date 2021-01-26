@@ -1,6 +1,39 @@
 ﻿l_english:
  
 #COUNTRY NAME#
+FIN_RUS_vanguard_socialism:0 "핀란드 사회주의 노동자 공화국"
+FIN_RUS_vanguard_socialism_DEF:0 "핀란드 사회주의 노동자 공화국"
+FIN_RUS_vanguard_socialism_ADJ:0 "핀란드"
+FIN_RUS_libertarian_marxism:0 "핀란드 사회주의 노동자 공화국"
+FIN_RUS_libertarian_marxism_DEF:0 "핀란드 사회주의 노동자 공화국"
+FIN_RUS_libertarian_marxism_ADJ:0 "핀란드"
+FIN_RUS_revolutionary_anarchism:0 "핀란드 자유령"
+FIN_RUS_revolutionary_anarchism_DEF:0 "핀란드 자유령"
+FIN_RUS_revolutionary_anarchism_ADJ:0 "핀란드"
+FIN_RUS_revisionist_socialism:0 "핀란드 사회주의 노동자 공화국"
+FIN_RUS_revisionist_socialism_DEF:0 "핀란드 사회주의 노동자 공화국"
+FIN_RUS_revisionist_socialism_ADJ:0 "핀란드"
+FIN_RUS_social_democratism:0 "핀란드 공화국"
+FIN_RUS_social_democratism_DEF:0 "핀란드 공화국"
+FIN_RUS_social_democratism_ADJ:0 "핀란드"
+FIN_RUS_liberalism:0 "핀란드 공화국"
+FIN_RUS_liberalism_DEF:0 "핀란드 공화국"
+FIN_RUS_liberalism_ADJ:0 "핀란드"
+FIN_RUS_conservatism:0 "핀란드 공화국"
+FIN_RUS_conservatism_DEF:0 "핀란드 공화국"
+FIN_RUS_conservatism_ADJ:0 "핀란드"
+FIN_RUS_right_authoritarianism:0 "핀란드 왕국"
+FIN_RUS_right_authoritarianism_DEF:0 "핀란드 왕국"
+FIN_RUS_right_authoritarianism_ADJ:0 "핀란드"
+FIN_RUS_despotism:0 "핀란드 대공국"
+FIN_RUS_despotism_DEF:0 "핀란드 대공국"
+FIN_RUS_despotism_ADJ:0 "핀란드"
+FIN_RUS_reactionism:0 "핀란드국"
+FIN_RUS_reactionism_DEF:0 "핀란드국"
+FIN_RUS_reactionism_ADJ:0 "핀란드"
+FIN_RUS_accelerationism:0 "핀란드"
+FIN_RUS_accelerationism_DEF:0 "핀란드"
+FIN_RUS_accelerationism_ADJ:0 "핀란드"
 
 #PARTIES#
 FIN_vanguard_socialism_party:0 "SKP-P"
@@ -31,7 +64,11 @@ FIN_despotism_party_monarchy_long:0 "민족연정당 - 군주주의파"
 #Kansallinen Kokoomus - Kuningasmieliset would be name for Despotic party once Seyn is executed
 
 #TOOLTIPS#
+FIN_DESC_MENU:0 "Near the end of the Great War, Russia fell to civil war between those loyal to the monarchy, and Republican factions. Finland, an autonomous duchy within the Empire, was not spared, with red and pro-independence factions rising up from the swamps of Karelia and fighting against the Pro-Russian loyalists. After years of fighting and tens of thousands dead, the Communist movement was defeated and Finland remained a de jure territory of the Russian Empire. However, outside of the Finnish nobility, there are few that wish to remain puppets of the Russians, and only time will tell if the people of Finland will make their voices heard."
+
 FIN_CARVE_TOOLTIP:0 "Gains claim on: §YRevel§! , §YYuriev§! , §YLuga§! and §Y14§! others.\n§Y러시아어 분쇄§! 디시전이 해제됩니다."
+
+ASPA_EGYPT_TOOLTIP:0 "The §BPharaoh§! of the §RRed Lands§! and the §bBlack Lands§! of §CFenno-Egypt§! will be proclaimed, and thusly begin the true Thirty-Fourth Dynasty."
 
 FIN_LANDS_SET_TOOLTIP:0 "Gains claim on: §YRevel§! , §YYuriev§! , §YLuga§! and §Y14§! others.\n§Y모스크바 떼거리 거세§! 디시전이 해제됩니다."
 
@@ -54,6 +91,17 @@ FIN_englishallies:0 "동맹으로 영국을 택했습니다"
 FIN_prussianallies:0 "동맹으로 프로이센을 택했습니다"
 
 #LEADER DESCRITIONS#
+POLITICS_ALBERT_SEYN_DESC:0 "Franz Albert Seyn is not a particularly proud man, but nor is he a man who has nothing to be proud of. Governor-General of Finland since 1909, Seyn has done a better job of governing Finland than any Russian authorities expected, or cared for that matter. However, the respect of his superiors has come at the cost of the support of Finland's people. Though some might say that a Russian warlord should care little for his subjects, Seyn knows that, should his clique fall, the Russian army will likely not see Finland as worth saving. Therefore, if he does not consolidate support soon, he will be at the mercy of whatever political force decides to replace him."
+POLITICS_KEKKONEN_DESC:0 "While many have heard this man's name and the innumerable tales surrounding it, few can comprehend the truths behind the man. Sometimes, when he sits alone on the balcony of the Supreme Leader's Palace, he feels as though he is the only one who knows everything about himself. And even then, Kekkonen's trust in himself falters. After all, what's left for a man after everyone around him has fallen into madness, and begun worshipping him as a god? Is it more sane to call out, to try and stop all of this? Or is it better to simply embrace the madness?"
+POLITICSILMARI_DESC:0 "Despite being entirely German, Ilmari I now finds himself King of Finland. Thrust into power in a strange land, this Ilmari knows that his situation is as strange as it is brimming with opportunity. After all, a strong German monarchy has not existed in Europe since the Vaterland fell to godless councilism. Even Ilmari's noble allies in Prussia have only managed to establish a military junta, lacking a proper heir to the throne. But now, there is a German who stands strong above his Kingdom. And this German just may have the stones to reclaim Berlin."
+POLITICS_KARL_WILKAMA_DESC:0 "With Seyn deposed, the position of Finnish leadership has fallen temporarily in Finnish General Karl Fredrik Wilkama. Interestingly, though Finland does not yet have an officially established state, this Mark's the first time in nearly 700 years when Finland was entirely independent. Thusly, Wilkama has been given the unofficial title "Father of Finland" by the press and general populace."
+POLITICS_ASPA_DESC:0 "Depending on who you ask, Sigurd Wettenhovi-Aspa is either a power-mad dictator, a visionary with ambitious plans for Finland, or just plain crazy. Aspa is obsessed with the idea that Finland and its people were descended from Ancient Egyptians, and he seeks to reconnect Finland with its ancient legacy. Meanwhile, the world desperately clings to their disbelief in his theories, all the while his state's legitimacy and continued existence forces humanity to ask whether common sense truly governs the truth at this point. Hell, even if he's wrong, isn't that reality more exciting?"
+POLITICS_FURUHJELM_DESC:0 "Ragnar Furuhjelm never imagined he would ever lead Finland, much less having the honor of ushering in its independence. Despite having served Russia, Furuhjelm has always had Finnish sympathies, and a desire to see his people out from under the Russian boot. Now that he has been thrust into power, Furuhjelm looks forward to the day when he can resign and serve a truly free Finland."
+POLITICS_PAASIKIVI_DESC:0 "A Conservative Nationalist, Juho Kusti Paasikivi has earned the title of First President of Finland. For much of Finland's recent history, Finland's democrats have merely focused on freedom, resolving to discuss political minutia once peace and liberty reigned over Finland. And now that time has come, a time which Paasikivi has long been preparing for. Paasikivi's national plan includes Finlandization, the opening of protected Finnish markets, establishment and strengthening of the Finnish army, and political liberalization."
+POLITICS_VALNO_TANNER_DESC:0 ""
+POLITICS_KALLIO_DESC:0 "A Liberal Progressive, Kyosti Kallio has earned the title of First President of Finland. Until now, Finnish liberals have happily cooperated with conservatives, content to wait until Finland is ready for democracy. Now, that time has come, and Kyosti Kallio can finally turn his long-held dreams into reality: a liberal democratic Finland, free of all foreign occupation. Kallio's plan for Finland includes fully free markets, De-Russification, military funding, and mass liberalization."
+
+
 #IDEAS#
 
 prusso_finnish_alliance:0 "프로이센-핀란드 동맹"
@@ -433,7 +481,7 @@ fin.12.a:0 "Welcome!"
 fin.12.b:0 "No."
 
 fin.999.t:0 "The Cosmic Connection"
-fin.999.desc:0 "The port of Helsinki was packed with families, some shaking with tears as their loved ones disembarked, perhaps never to return. As the ships left the port, only one thing occupied the minds of those aboard: Their historic mission to throw off the yoke of Arab and Anglo oppression in Egypt and once again unite with Finland’s true brothers in the Red Land, and now various Fenno-Egyptian divisions have risen up against the ruling pro-Arab and pro-Anglo government in Egypt in the name of uniting in cosmic and spiritual unity the two formerly disconnected peoples of the Black Lands and the Red Lands. Now, various Coptic militias have risen up with us led by Taha Husssein in rebellion against the government aswell, bolstering our numbers and our legitimacy. It appears that things are becoming evermore wonderful for us. All that is left is to remove the Anglo scum from Luxor and other cities, and save them from their thousand-year yoke of opression!"
+fin.999.desc:0 "The port of Helsinki was packed with families, some shaking with tears as their loved ones disembarked, perhaps never to return. As the ships left the port, only one thing occupied the minds of those aboard: Their historic mission to throw off the yoke of Arab and Anglo oppression in Egypt and once again unite with Finland's true brothers in the Red Land, and now various Fenno-Egyptian divisions have risen up against the ruling pro-Arab and pro-Anglo government in Egypt in the name of uniting in cosmic and spiritual unity the two formerly disconnected peoples of the Black Lands and the Red Lands. Now, various Coptic militias have risen up with us led by Taha Husssein in rebellion against the government aswell, bolstering our numbers and our legitimacy. It appears that things are becoming evermore wonderful for us. All that is left is to remove the Anglo scum from Luxor and other cities, and save them from their thousand-year yoke of opression!"
 fin.999.a:0 "Cosmic freedom is within arm's reach."
 
 fin.77777.t:0 "We're losing to the Finns"
