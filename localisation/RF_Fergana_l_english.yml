@@ -2,38 +2,38 @@
 #COUNTRY NAME#
 
 #PARTIES#
-KOK_revolutionary_anarchism_party:0 "Leaderless Bandits"
-KOK_revolutionary_anarchism_party_long:0 "Leaderless Bandits"
+KOK_revolutionary_anarchism_party:0 "무지도층 비적파"
+KOK_revolutionary_anarchism_party_long:0 "무지도층 비적파"
 
 KOK_vanguard_socialism_party:0 "SCS"
-KOK_vanguard_socialism_party_long:0 "Supreme Council of Soldiers"
+KOK_vanguard_socialism_party_long:0 "군인 최고평의회"
 
 KOK_libertarian_marxism_party:0 "SCW"
-KOK_libertarian_marxism_party_long:0 "Supreme Council of Workers"
+KOK_libertarian_marxism_party_long:0 "노동자 최고평의회"
 
 KOK_revisionist_socialism_party:0 "SCP"
-KOK_revisionist_socialism_party_long:0 "Supreme Council of Peasants"
+KOK_revisionist_socialism_party_long:0 "농민 최고평의회"
 
 KOK_social_democratism_party:0 "SDWPF"
-KOK_social_democratism_party_long:0 "Social Democratic Workers' Party of Fergana"
+KOK_social_democratism_party_long:0 "페르가나 사회민주노동자당"
 
-KOK_liberalism_party:0 "Jadidists"
-KOK_liberalism_party_long:0 "Jadidists"
+KOK_liberalism_party:0 "자디드주의파"
+KOK_liberalism_party_long:0 "자디드주의파"
 
-KOK_conservatism_party:0 "Jadidists"
-KOK_conservatism_party_long:0 "Jadidists"
+KOK_conservatism_party:0 "자디드주의파"
+KOK_conservatism_party_long:0 "자디드주의파"
 
-KOK_right_authoritarianism_party:0 "Monstrov's Army"
-KOK_right_authoritarianism_party_long:0 "Monstrov's Army"
+KOK_right_authoritarianism_party:0 "몬스트로프 군벌"
+KOK_right_authoritarianism_party_long:0 "몬스트로프 군벌"
 
-KOK_despotism_party:0 "Basmachi"
-KOK_despotism_party:0 "Basmachi"
+KOK_despotism_party:0 "바스마치"
+KOK_despotism_party:0 "바스마치"
 
-KOK_reactionism_party:0 "Basmachi"
-KOK_reactionism_party_long:0 "Basmachi"
+KOK_reactionism_party:0 "바스마치"
+KOK_reactionism_party_long:0 "바스마치"
 
 KOK_accelerationism_party:0 "CLT"
-KOK_accelerationism_party_long:0 "Committee for Liberation of Turkestan"
+KOK_accelerationism_party_long:0 "투르케스탄 해방 위원회"
 
 #LEADER DESCRITIONS#
 #IDEAS#
