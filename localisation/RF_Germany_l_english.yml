@@ -9,6 +9,7 @@ GER_red_unification_libertarian_marxism_ADJ:0 "프롤레타리아"
 
 #Bookmark#
 DEUTSCHE_RATEREPUBLIK_DESC:0 "1918년의 혁명과 내전 이후 독일은 고립되었습니다. 많은 국가들이 독일과의 교류를 거부하고 프로이센을 독일의 정통국가로 선포했습니다. 그러나 붉은 독일은 리프크네히트와 그의 후계자 레비의 아래에서 번영했습니다. 1936년까지의 몇 년 동안 공산당은 엄청난 진전을 이루어 냈습니다. 독일의 경제를 회복시키고 코민테른을 결성했으며, 독일에서 자신들의 입지를 강화하는 데 성공했습니다. 불경기가 다가오고, 러시아, 프랑스, 영국이 사활을 걸고 경제문제와 씨름할 때 독일은 아무런 영향을 받지 않았습니다. 충성스러운 군대, 국민의 지지, 그리고 세상을 개편하려는 열망을 가진 독일은 실로 무시할 수 없는 존재입니다."
+
 #PARTIES#
 GER_vanguard_socialism_party:0 "NMAPD/KPD(A)"
 GER_vanguard_socialism_party_kpda:0 "KPD(A)"
@@ -38,6 +39,7 @@ GER_right_authoritarianism_party_long:0 "자유군단"
 GER_despotism_party_long:0 "제정 충성파"
 GER_reactionism_party_long:0 "독일 국민당"
 GER_accelerationism_party_long:0 "독일 미래주의 아방가르드"
+
 #LEADER DESCRITIONS#
 GER_volksfuhrer:0 "인민지도자"
 
@@ -103,7 +105,7 @@ GER_gesellschaft_1_desc:0 "과거 '카이저 빌헬름 협회"로 알려졌던 D
 GER_gesellschaft_2:0 "독일 과학 진흥 협회"
 GER_gesellschaft_2_desc:0 "과거 '카이저 빌헬름 협회"로 알려졌던 DGFW는 이제 우리의 영광스러운 공화국의 과학을 지원하기 위해 설립된 단체입니다."
 GER_gesellschaft_3:0 "독일 과학 진흥 협회"
-GER_gesellschaft_3_desc:0 "과거 "카이저 빌헬름 협회"로 알려졌던 DGFW는 이제 우리의 영광스러운 공화국의 과학을 지원하기 위해 설립된 단체입니다."
+GER_gesellschaft_4_desc:0 "과거 "카이저 빌헬름 협회"로 알려졌던 DGFW는 이제 우리의 영광스러운 공화국의 과학을 지원하기 위해 설립된 단체입니다."
 
 GER_komitee_landnutzung:0 "토지사용 위원회"
 GER_komitee_landnutzung_desc:0 "독일의 영토는 많은 잠재력을 가지고 있습니다. 이미 많은 잠재력을 가져다 사용하고 있지만, 아직 많은 잠재력이 숨어있습니다."
@@ -290,6 +292,9 @@ GER_german_support_desc:0 "독일의 스페인 지원"
 GER_anti_futurist_aktion:0 "반미래주의 행동"
 GER_anti_futurist_aktion_desc:0 "반미래주의 행동이라고? 테러리즘이겠지!"
 
+GER_military_mission:0 "독일 군사고문단"
+GER_military_mission_desc:0 "Germany has sent us a small attache of military experts."
+
 #EVENTS#
 germany.1.t:0 "레비의 결정"
 germany.1.desc:0 "오늘 파울 레비 인민위원회의 위원장이 차기 선거에서 후보로 출마하지 않겠다고 선언했습니다. 이번 선언으로 독일의 정치적 지형은 뒤흔들렸습니다. 레비는 인기있는 후보일 뿐만 아니라, 그가 없다면 다음 선거에서 KPD는 선거에서 패배할 가능성도 있습니다. 정치국에서는 이미 새로운 후보가 선출되었다고 발표했지만, NMAPD나 USPD는 더 이상 정부에서 그리 멀지 않은 것으로 보입니다."
@@ -371,6 +376,9 @@ hamburger_artikel_desc:0 "전쟁의 참상은 병사가 장교에게 대항할 �
 
 kpd_split:0 "독일 공산당은 파울 레비의 은퇴로 인하여 분열하였습니다."
 
+GER_worldrev_decisions:0 "Unlock Decisions to support the world Revolution"
+GER_networks:0 "Unlock decisions to expand Internationalist networks"
+GER_class_warfare_decisions:0 "Unlock decisions to promote class warfare"
 #FACTIONS#
 LEAGUE_OF_NATIONS:0 "국제연합"
 Third_International:0 "제 3인터내셔널"
@@ -384,9 +392,37 @@ establish_committee_russian_desc:0 ""
 GER_export_revolution_TAG:0 "혁명 수출"
 GER_anti_futurist_action:0 "반미래주의 행동"
 
-
 support_monthly_addition:0 "월간 조직력과 계획 이득"
 
+GER_worldrevolution_decisions:0 "세계혁명 디시전"
+
+political_mission_norway:0 "Political Mission to Norway"
+supply_norway:0 "Supply Mission to Norway"
+military_mission_norway:0 "Military Mission to Norway"
+
+political_mission_bulgaria:0 "Political Mission to Bulgaria"
+supply_bulgaria:0 "Supply Mission to Bulgaria"
+military_mission_bulgaria:0 "Military Mission to Bulgaria"
+
+political_mission_armenia:0 "Political Mission to Armenia"
+supply_armenia:0 "Supply Mission to Armenia"
+military_mission_armenia:0 "Military Mission to Armenia"
+
+political_mission_red_finland:0 "Political Mission to Red Finland"
+supply_red_finland:0 "Supply Mission to Red Finland"
+military_mission_red_finland:0 "Military Mission to Red Finland"
+
+political_mission_zhelto:0 "Political Mission to Zheltorossiya"
+supply_zhelto:0 "Supply Mission to Zheltorossiya"
+military_mission_zhelto:0 "Military Mission to Zheltorossiya"
+
+political_mission_greece:0 "Political Mission to Greece"
+supply_greece:0 "Supply Mission to Greece"
+military_mission_greece:0 "Military Mission to Greece"
+
+political_mission_turkwr:0 "Political Mission to Turkey"
+supply_turkwr:0 "Supply Mission to Turkey"
+military_mission_turkwr:0 "Military Mission to Turkey"
 #MINISTERS#
 
 for_proletarian:0 "프롤레타리아"
@@ -442,6 +478,7 @@ GER_paul_wegmann_int:0 "파울 베크만"
 GER_willy_lehmann_int:0 "빌리 레만"
 
 GER_harry_kessler_for_lib:0 "하리 그라프 케슬러"
+
 #FOCUSES#
 GER_nordseehfen:0 "북해 항구"
 GER_nordseehfen_desc:0 ""
