@@ -27,7 +27,7 @@ TUR_reactionism_party_long:0 "진보당"
 #LEADER DESCRITIONS#
 #IDEAS#
 TUR_treaty_of_Konstantinopolis:0 "콘스탄티니예 조약"
-TUR_treaty_of_Konstantinopolis_desc:0 "오스만 제국이 대전쟁에서 패배한 결과 우리는 주요 제재 대상이 되었습니다. 영국과 러시아는 우리 영토에 소수민족들이 대다수를 차지하는 국가들을 설립하고 그들의 안전을 보장했습니다."
+TUR_treaty_of_adrianople_desc:0 "오스만 제국이 대전쟁에서 패배한 결과 우리는 주요 제재 대상이 되었습니다. 영국과 러시아는 우리 영토에 소수민족들이 대다수를 차지하는 국가들을 설립하고 그들의 안전을 보장했습니다."
 TUR_loser:0 "기만당한 민족"
 TUR_loser_desc:0 "터키 민족은 수년 동안 종교와 거짓말에 기만당해왔습니다. 거짓말쟁이들과 배신자들 덕분에 우리의 아름다운 아나돌루의 대부분을 잃었습니다."
 TUR_treaty_of_thessaloniki:0 "테살로니키 조약"
@@ -38,6 +38,8 @@ TUR_Blow_up_north_idea:0 "자급"
 TUR_Blow_up_north_idea_desc:0 ""
 TUR_Never_stops_Wolf_Machine_idea:0 "무엇도 늑대떼를 막을 수 없다"
 TUR_Never_stops_Wolf_Machine_idea_desc:0 "싸워라, 죽여라, 몰아라, 동화시켜라"
+
+TUR_Hero_of_Gallipoli:0 "겔리볼루의 영웅"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
