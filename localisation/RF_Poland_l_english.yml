@@ -72,7 +72,7 @@ POL_revisionist_socialism_party:0 "PSL(W)"
 POL_revisionist_socialism_party_long:0 "폴란드 인민당 (해방파)"
 POL_revolutionary_anarchism_party:0 "PZZ"
 POL_revolutionary_anarchism_party_long:0 "노조협약"
-#LEADER DESCRITIONS#
+#LEADER DESCRIPTIONS#
 POL_GATHERING_STORM_DESC:0 "대전쟁 직후 이어진 독일과 러시아의 붕괴에 따라, 폴란드는 몇 세기에 걸친 외세의 지배라는 잿더미 속에서 다시 태어났습니다. 피우수트스키 장군이 이끄는 폴란드는 이른바 "인테르마리움"이라는 동유럽 방위협약을 형성함으로써 독일, 러시아, 체코슬로바키아에 이르는 주변의 위협을 물리치고 이겨냈습니다. 하지만 이것도 15년 전이니, 피우수트스키는 이제 늙었습니다. 암 투병으로 병상에 누운 그가 얼마나 버틸 진 알 수 없습니다만, 대원수가 자신의 최후의 전투에서 패배하는 것도 시간 문제에 불과합니다."
 #IDEAS#
 POL_dreamofzadruga:0 "자드루가의 꿈"
@@ -197,6 +197,11 @@ poland.17.a:0 "새해 복 많이 받으세요!"
 poland.18.t:0 "창공의 애첩"
 poland.18.desc:0 "단순히 여성이라는 이유로 숙련된 조종사들의 조종을 불허하는 병과 같은 국소한 사상이 세계 곳곳에서 나타나도, 폴란드에서 여성 조종사는 새로울 게 아닙니다. 진정한 실력자의 등장과 에이스의 탄생은 언제나 축하할 거리지만, 그럼에도 우리 공군 내의 기라성과 같은 조종사들이 여성인 경우는 극히 드뭅니다. 그런 가운데, 대폴스카에서 온 사려깊고도 소심한 여성 한 명이 비범한 용맹과 능력을 뽐내며 수석으로 훈련 과정을 마쳤습니다. 언제든 전투기 조종간을 잡을 준비가 된 그녀입니다."
 poland.18.a:0 "수리처럼 날아가기를."
+
+poland.19.t:0 "Use of Łacinka in Mińsk and other territories"
+poland.19.desc:0 "To further distance ourselves and our Belarusian subjects from Russian and other East Slavic languages, The Wojskowa Rada Ocalenia Narodowego, or WRON, has decided to make into law the only recognized alphabet of Belarusian to be Łacinka, the Belarusian Latin Alphabet. This alphabet was made by Belarusian intellectuals some decades ago and is a good way of making our rule be more positive for the people of Belarus, or at least appear to be. As new schools prop up with Polish as Lingua Franca, many Belarusian students also learn Łacinka together with Polish, to slowly integrate themselves further into our regime, especially the wealthier elements of society."
+poland.19.a:0 "Liubimaja Bielaruś znachodzicca pad poĺskim krylom."
+
 #FOCUSES#
 POL_death_marshal:0 "원수의 죽음"
 POL_death_marshal_desc:0 ""
