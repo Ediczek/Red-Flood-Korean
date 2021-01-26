@@ -2,8 +2,28 @@
 #COUNTRY NAME#
 
 #PARTIES#
-FAL_reactionism_party:0 "팔랑헤"
-FAL_reactionism_party_long:0 "에스파냐 팔랑헤당"
+FAL_vanguard_socialism_party:0 "JONS"
+FAL_libertarian_marxism_party:0 "PCE"
+FAL_revolutionary_anarchism_party:0 "FAI-CNT"
+FAL_revisionist_socialism_party:0 "PSOE"
+FAL_social_democratism_party:0 "PRR"
+FAL_liberalism_party:0 "PAE"
+FAL_conservatism_party:0 "RE"
+FAL_right_authoritarianism_party:0 "CEDA"
+FAL_despotism_party:0 "JDN"
+FAL_reactionism_party:0 "FE"
+FAL_accelerationism_party:0 "MR"
+FAL_vanguard_socialism_party_long:0 "Juntas de Ofensiva Nacional-Sindicalista"
+FAL_libertarian_marxism_party_long:0 "Partido Comunista Español"
+FAL_revolutionary_anarchism_party_long:0 "Federación Anarquista Ibérica-Confederación Nacional del Trabajo"
+FAL_revisionist_socialism_party_long:0 "Partido Socialista Obrero Español"
+FAL_social_democratism_party_long:0 "Partido Republicano Radical"
+FAL_liberalism_party_long:0 "Partido Agrario Español"
+FAL_conservatism_party_long:0 "Renovación Española"
+FAL_right_authoritarianism_party_long:0 "Confederación Española de Derechas Autónomas"
+FAL_despotism_party_long:0 "Junta de Defensa Nacional"
+FAL_reactionism_party_long:0 "Falange Española"
+FAL_accelerationism_party_long:0 "Movimiento Regeneracionista"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
