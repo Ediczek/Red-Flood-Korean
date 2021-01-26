@@ -39,6 +39,10 @@ BLR_accelerationism:0 "벨라루스 민족집산체"
 BLR_accelerationism_DEF:0 "벨라루스"
 BLR_accelerationism_ADJ:0 "벨라루스"
 
+BLR_SR:0 "주권공화국 연합"
+BLR_SR_DEF:0 "주권공화국 연합"
+BLR_SR_ADJ:0 "주권주의파"
+
 BLR_ruthenia:0 "루테니아 제국"
 BLR_ruthenia_DEF:0 "루테니아 제국"
 BLR_ruthenia_ADJ:0 "루테니아"
@@ -166,6 +170,8 @@ Hydroaeronautics_Club:0 "수상비행학회"
 
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
+BLR_capitalmoving:0 "천도?"
+BLR_declarerussia:0 "주권공화국 연합 선포"
 #FOCUSES#
 BLR_fiefdom_ataman:0 "아타만의 봉토"
 BLR_fiefdom_ataman_desc:0 "러시아의 통치가 무너진 이래 벨라루스 지역은 아타만이 이끌어왔습니다. 민주정인 우크라이나나 리투아니아, 혹은 (원수 숭배를 동반한) 폴란드와 다르게, 진짜 독재국가인 벨라루스는 단 한 사람, 아타만만의 무쇠와 같은 의지로서 통치파벌이 권력을 잡고 있습니다."
