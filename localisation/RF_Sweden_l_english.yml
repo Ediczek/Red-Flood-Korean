@@ -1,5 +1,35 @@
 ﻿l_english:
 #COUNTRY NAME#
+SWE_swenor_vanguard_socialism:0 "스웨덴-노르웨이 인민공화국"
+SWE_swenor_vanguard_socialism_ADJ:0 "스웨덴-노르웨이"
+SWE_swenor_vanguard_socialism_DEF:0 "스웨덴-노르웨이"
+SWE_swenor_revolutionary_anarchism:0 "스웨덴-노르웨이 자유령"
+SWE_swenor_revolutionary_anarchism_ADJ:0 "스웨덴-노르웨이"
+SWE_swenor_revolutionary_anarchism_DEF:0 "스웨덴-노르웨이"
+SWE_swenor_libertarian_marxism:0 "스웨덴-노르웨이 인민공화국"
+SWE_swenor_libertarian_marxism_ADJ:0 "스웨덴-노르웨이"
+SWE_swenor_libertarian_marxism_DEF:0 "스웨덴-노르웨이"
+SWE_swenor_revisionist_socialism:0 "스웨덴-노르웨이 인민공화국"
+SWE_swenor_revisionist_socialism_ADJ:0 "스웨덴-노르웨이"
+SWE_swenor_revisionist_socialism_DEF:0 "스웨덴-노르웨이"
+SWE_swenor_social_democratism:0 "스웨덴-노르웨이"
+SWE_swenor_social_democratism_DEF:0 "스웨덴-노르웨이 연합"
+SWE_swenor_social_democratism_ADJ:0 "스웨덴-노르웨이"
+SWE_swenor_liberalism:0 "스웨덴-노르웨이"
+SWE_swenor_liberalism_DEF:0 "스웨덴-노르웨이 왕국"
+SWE_swenor_liberalism_ADJ:0 "스웨덴-노르웨이"
+SWE_swenor_conservatism:0 "스웨덴-노르웨이"
+SWE_swenor_conservatism_DEF:0 "스웨덴-노르웨이 왕국"
+SWE_swenor_conservatism_ADJ:0 "스웨덴-노르웨이"
+SWE_swenor_right_authoritarianism:0 "스웨덴-노르웨이"
+SWE_swenor_right_authoritarianism_DEF:0 "스웨덴-노르웨이 왕국"
+SWE_swenor_right_authoritarianism_ADJ:0 "스웨덴-노르웨이"
+SWE_swenor_reactionism:0 "대스웨덴"
+SWE_swenor_reactionism_DEF:0 "스웨덴-노르웨이 왕국"
+SWE_swenor_reactionism_ADJ:0 "스웨덴-노르웨이"
+SWE_swenor_accelerationism:0 "스칸디나비아 기술국"
+SWE_swenor_accelerationism_DEF:0 "스칸디나비아"
+SWE_swenor_accelerationism_ADJ:0 "스칸디나비아"
 
 #PARTIES#
 #LEADER DESCRITIONS AND BOOKMARK#
@@ -32,7 +62,7 @@ SWE_conservatives_rule_flag:0 "사회보수당이 선거에서 승리하다."
 SWE_forest_tt:0 "§!삼림훈련 §W에 따라 전 삼림 지역에서의 전투 능력이 향상될 것입니다.\n"
 
 #CUSTOM TECH#
-SWE_forest_warfare_effect:0 "Enables §H삼림훈련§!\n§HAll legged units\n    Forest§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n\n"
+SWE_forest_warfare_effect:0 "§H삼림훈련§! 활성화\n§H모든 보도 이동 병종\n    삼림§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n\n"
 
 #DECISIONS (1.5 Update)#
 #EVENTS#
