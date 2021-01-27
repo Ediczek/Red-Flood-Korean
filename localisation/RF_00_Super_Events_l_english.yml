@@ -1,10 +1,9 @@
 ﻿l_english:
-
 get_super_event_title:0 "-"
-GFX_SPEVNT_japanese_invasion_of_china:0 "일본의 중국 침공"
-GFX_SPEVNT_japanese_invasion_of_china_TEXT:0 "\"세계를 꿰뚫는 바다와 같이 만 인류는 형제이다. 그럼 바람과 파도는 어찌 그리 격하게도 부딪히는가?\"\n-히로히토"
-GFX_SPEVNT_brazil_collapse:0 "브라질의 비극"
-GFX_SPEVNT_brazil_collapse_TEXT:0 "\"그대가 자는 새 천사들이 통곡함은\n그대가 죽었다 말한 것이 아직 태어나지 않은 탓이다\"\n-미상"
+
+#####################
+#RUSSIAN UNIFICATION#
+#####################
 GFX_SPEVNT_rusuni_rosenbaum:0 "러시아의 통일"
 GFX_SPEVNT_rusuni_rosenbaum_TEXT:0 "\"그대를 아낄 줄 알라는 건 그대의 행복을 위해 싸우라는 말이다.\"\n-알리사 로젠바움"
 GFX_SPEVNT_rusuni_chapayev:0 "러시아의 통일"
@@ -23,4 +22,77 @@ GFX_SPEVNT_rusuni_mladorossi:0 "러시아의 통일"
 GFX_SPEVNT_rusuni_mladorossi_TEXT:0 "\"천만 인민의 역사가 그리하여 붉게 물들고 혁명적이게 되었으니, 그런 거대한 역사적 폭풍의 요소들에 맞서는 건 무용하고 재앙적이었다.\"\n-블라디미르 솔로우힌"
 GFX_SPEVNT_rusuni_diterikhs:0 "러시아의 통일"
 GFX_SPEVNT_rusuni_diterikhs_TEXT:0 "\"자치정부의 주요 단위는 사목구이다. \n 비신자들은 시민권을 박탈당해 추방될 것이다.\"\n-미하일 디테리흐스"
-
+GFX_SPEVNT_rusuni_savinkov:0 "Russian Unification"
+GFX_SPEVNT_rusuni_savinkov_TEXT:0 "\"And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth.\"\n-Revelations 6:8"
+GFX_SPEVNT_rusuni_ruthenia:0 "Ruthenian Unification"
+GFX_SPEVNT_rusuni_ruthenia_TEXT:0 "\"The enemy of Poland and Russia\nSincerely multiplied the mounds -\nThere was no Belarus,\nOnly 'The land that was taken away.'\"\n-Yanka Kupala"
+GFX_SPEVNT_rusuni_blackhundreds:0 "Russian Unification"
+GFX_SPEVNT_rusuni_blackhundreds_TEXT:0 "\"The Holy Russian cause is the extermination of the rebels. You know who they are and where to find them.\"\n-Black Hundred Creed"
+GFX_SPEVNT_rusuni_solidarists:0 "Russian Unification"
+GFX_SPEVNT_rusuni_solidarists_TEXT:0 "\"Let Russia be glorified, let our names burn!\"\n-Victor Baydalakov"
+GFX_SPEVNT_rusuni_scythia:0 "Russian Unification"
+GFX_SPEVNT_rusuni_scythia_TEXT:0 "\"We are the Scythian people, and we want to turn the world upside down - like an old barrel!\"\n-Pavel Gorgulov"
+GFX_SPEVNT_rusuni_eurasia:0 "Russian Unification"
+GFX_SPEVNT_rusuni_eurasia_TEXT:0 "\"Any nationalism is a synthesis of chauvinism and cosmopolitanism, a reconciliation of these two opposites.\"\n-Nikolay Trubetskoy"
+GFX_SPEVNT_rusuni_kornilov:0 "Russian Unification"
+GFX_SPEVNT_rusuni_kornilov_TEXT:0 "\"Our demands - restoration of citizens' rights, of press freedom and of property rights, and an equality of citizens before law.\"\n-Lavr Kornilov"
+GFX_SPEVNT_rusuni_gulidov:0 "Russian Unification"
+GFX_SPEVNT_rusuni_gulidov_TEXT:0 "\"For Russia's sacred cause, we will spill the Russian blood honestly.\"\n-Farewell of Slavianka, a Russian veterans' song"
+GFX_SPEVNT_dor:0 "Death of Russia"
+GFX_SPEVNT_dor_TEXT:0 "\"Russia is ruled directly by the Lord God. Otherwise, it is impossible to imagine how this state still exists.\"\n-Johann Ernst Minich"
+#######################
+#CONGOLEGE UNIFICATION#
+#######################
+GFX_SPEVNT_NBE_unification:0 "Congolese Unification"
+GFX_SPEVNT_NBE_unification_TEXT:0 "\"I shall grasp the soul's skirt with my hand and stamp on the world's head with my foot. I shall trample Matter and Space with my horse, beyond all Being I shall utter a great shout, and in that moment... I shall whisper secrets to all mankind.\"\n-Attar of Nishapur"
+GFX_SPEVNT_KIV_unification:0 "Congolese Unification"
+GFX_SPEVNT_KIV_unification_TEXT:0 "\"The elephants fight, but it is the grass that suffers.\"\n-Rwandan Proverb"
+GFX_SPEVNT_CFS_unification:0 "Congolese Unification"
+GFX_SPEVNT_CFS_unification_TEXT:0 "\"Without dignity there is no liberty, without justice there is no dignity, and without independence there are no free men.\"\n-Patrice Lumumba"
+GFX_SPEVNT_PCN_unification:0 "Congolese Unification"
+GFX_SPEVNT_PCN_unification_TEXT:0 "\"We civilised men do our utmost to check the process of elimination; we build asylums for the imbecile... And with vaccination, the weak members of civilised societies propagate their kind.\"\n-Charles Darwin"
+GFX_SPEVNT_PCN_unification_brody:0 "Congolese Unification"
+GFX_SPEVNT_PCN_unification_brody_TEXT:0 "\"Despite all the difficulties in which the natives find themselves under foreign rule, they cling with all their energy and conviction to Germany.\"\n-Martin Dibobe"
+####################
+#INDIAN UNIFICATION#
+####################
+GFX_SPEVNT_UPI_Churchill:0 "The Unification of India"
+GFX_SPEVNT_UPI_Churchill_TEXT:0 "\"The rescue of India from ages of barbarism, tyranny, and internecine war and its slow but ceaseless forward march to civilisation constitute upon the whole the finest achievement of our history\"\n-Winson Churchill"
+GFX_SPEVNT_UPI_Kali:0 "Kali Kult Reigns"
+GFX_SPEVNT_UPI_Kali_TEXT:0 "\"Now I am become Death, the destroyer of worlds.\"\n-Bhagavad Gita"
+########
+#FRANCE#
+########
+GFX_SPEVNT_etat_irreal:0 "État Irréal Proclaimed"
+GFX_SPEVNT_etat_irreal_TEXT:0 "\"The fault lies with your mouldy systems, your logic of 2 plus 2 equals 4. You manufacture engineers, magistrates, doctors, who know nothing of the true mysteries of the body or the cosmic laws of existence.\"\n-Antonin Artaud"
+#######
+#ITALY#
+#######
+GFX_SPEVNT_ITA_0:0 "Italy Victorious"
+GFX_SPEVNT_ITA_0_TEXT:0 "\"Sit Romana potens Itala virtute propago\"\n-Virgil"
+GFX_SPEVNT_ITA_1:0 "Il Duce Reigns over Europe"
+GFX_SPEVNT_ITA_1_TEXT:0 "\"The Romans never allowed a trouble spot to remain simply to avoid going to war over it, because they knew that wars don't just go away, they are only postponed to someone else's advantage.\"\n-Niccolo Machiavelli, The Prince"
+GFX_SPEVNT_ITA_2:0 "Liberty Reborn"
+GFX_SPEVNT_ITA_2_TEXT:0 "\"Liberty is slow fruit. It is never cheap; it is made difficult because freedom is the accomplishment and perfectness of man\"\n-Ralph Waldo Emerson"
+#####
+#USA#
+#####
+GFX_SPEVNT_usauni_bodin:0 "American Unification"
+GFX_SPEVNT_usauni_bodin_TEXT:0 "\"Perhaps death is not an enemy of life; perhaps it is just another form of it.\"\n-Edward Longstreet Bodin"
+GFX_SPEVNT_usauni_sinclair:0 "American Unification"
+GFX_SPEVNT_usauni_sinclair_TEXT:0 "\"The American people will take Socialism, but they won't take the label.\"\n-Upton Sinclair"
+######
+#MISC#
+######
+GFX_SPEVNT_USA_collapse:0 "The American Collapse"
+GFX_SPEVNT_USA_collapse_TEXT:0 "\"Nothing is more unpredictable than the mob, nothing more obscure than public opinion, nothing more deceptive than the whole political system.\"\n-Suetonius"
+GFX_SPEVNT_DEV_civil_war:0 "Agartha Discovered"
+GFX_SPEVNT_DEV_civil_war_TEXT:0 "\"It's real.\"\nt. Anon"
+GFX_SPEVNT_SPA_civil_war:0 "The Spanish Civil War"
+GFX_SPEVNT_SPA_civil_war_TEXT:0 "\"Here lies half of Spain. It died of the other half.\"\n-Mariano Jose de Larra"
+GFX_SPEVNT_japanese_invasion_of_china:0 "Japanese Invasion of China"
+GFX_SPEVNT_japanese_invasion_of_china_TEXT:0 "\"All men are brothers, like the seas throughout the world; So why do winds and waves clash so fiercely everywhere?\"\n-Emperor Hirohito"
+GFX_SPEVNT_brazil_collapse:0 "The Brazilian Tragedy"
+GFX_SPEVNT_brazil_collapse_TEXT:0 "\"Princeps legibus solutus est.\"\n-Gnaeus Domitius Annius Ulpianus"
+GFX_SPEVNT_ww2:0 "A Sea Of Blood"
+GFX_SPEVNT_ww2_TEXT:0 "\"Therefore the red flood arose, and sprang down unto our door; therefore it will rise and spread further and further, drowning everything along the way.\"\n-Ignas Seinius"
