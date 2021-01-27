@@ -62,6 +62,7 @@ UPI_social_democratism_party_second:0 "INC (UP)"
 UPI_social_democratism_party_long_second:0 "인도 국민회의 (우타르 프라데시)"
 
 #LEADER DESCRITIONS#
+UPI_DESC_MENU:0 "대전쟁이 끝난 직후 , the British hold India slipped away. As the collapse of the Raj started to build momentum and get worse and worse, Winston Churchill (who was moved to the region following the military fiasco that was the Gallipoli campaign) carved out his personal fiefdom from the ruins of the Raj, swearing to unify the continent under British rule. His policies have not been kind to the native Indian population, with hundreds of thousands dead following crackdowns on movements for majority rule. As the regime becomes less and less popular, a decision will need to be made on the path that the United Provinces will take."
 UPI_brutal_colonizer:0 "잔혹한 식민주의자"
 UPI_brutal_colonizer_desc:0 "한 명의 시위자를 보느니 12명의 시체를 보는 게 낫다는 잔혹한 사내, 그것이, 대화 대신 폭력으로 연합주의 반란들을 진압하겠다는 윈스턴 처칠의 특기입니다."
 
@@ -209,11 +210,15 @@ UPI_BRITISH_DOMINION:0 "British Raj"
 UPI_BRITISH_DOMINION_DEF:0 "British Raj"
 UPI_BRITISH_DOMINION_ADJ:0 "British Indian"
 
-UPI_DEATH_KNELL_TOOLTIP:0 "Adds claims on §Ythe entire world§!. \n\nSets §Yall of India§! as our cores. \n\nDeclares war on §Revery Indian country§!."
+UPI_DEATH_KNELL_TOOLTIP:0 "Sets §Yall of India§! as our cores. \n\nDeclares war on §Revery Indian country§!."
 
 UPI_REALM_OF_AVATAR:0 "Realm of Avatar"
 UPI_REALM_OF_AVATAR_DEF:0 "Realm of Avatar"
 UPI_REALM_OF_AVATAR_ADJ:0 "Savitrian"
+
+RF_churchill_despotic:0 "United Provinces: Part 2"
+RF_churchill_election:0 "United Provinces: The Aftermath"
+RF_kali_cult:0 "Savitr Presana"
 #DECISIONS (1.5 Update)#
 
 ### Focuses ###
@@ -1046,58 +1051,58 @@ UPI.302.desc:0 "The United Provinces have now been fully integrated, and it is o
 UPI.302.a:0 "We’re saved!"
 
 UPI.303.t:0 "Aryavartan soldiers step in"
-UPI.303.desc:0 "Soldiers from Aryavatra have stormed into the United Provinces, securing places of control across the entire area. It’s a matter of time before the horrific reign of Churchill is but a distant memory, but few are certain what the future holds."
+UPI.303.desc:0 "Soldiers from Aryavatra have stormed into the United Provinces, securing places of control across the entire area. It's a matter of time before the horrific reign of Churchill is but a distant memory, but few are certain what the future holds."
 UPI.303.a:0 "At least we won’t get gassed."
 UPI.303.b:0 "It's time for this land to be recalied."
 
-UPI.304.t:0 "The Fate of Uttar Pradesh"
+UPI.304.t:0 "우타르 프라데시의 운명"
 UPI.304.desc:0 "It is official - annexation is the fate of the United Provinces. It was to be expected, but now the deals have been confirmed, and all that matters is the paperwork. Life may soon return to...not normal, that shall never return. But peace."
 UPI.304.a:0 "Peace..."
 
-UPI.305.t:0 "Avatar seizes control of United Provinces"
-UPI.305.desc:0 "A radical cult of militants, screaming nonsense about the “Kali Yuga’s coming” and some “Blood-Goddess” has taken control of key administrative points across the entire United Provinces. Few are swayed by their rhetoric, but fewer still are bold enough to oppose them. The Avatar, their enigmatic leader, has soldiers in almost every town, and the bizarre conduct of the soldiers, the rantings and ravings of their scarified members, leaves everyone unsure of what shall happen."
+UPI.305.t:0 "화신이 연합주의 통제권을 차지하다"
+UPI.305.desc:0 "A radical cult of militants, screaming nonsense about the “Kali Yuga's coming” and some “Blood-Goddess” has taken control of key administrative points across the entire United Provinces. Few are swayed by their rhetoric, but fewer still are bold enough to oppose them. The Avatar, their enigmatic leader, has soldiers in almost every town, and the bizarre conduct of the soldiers, the rantings and ravings of their scarified members, leaves everyone unsure of what shall happen."
 UPI.305.a:0 "The Divine Avatar shall Rise!"
 
 UPI.600.t:0 "Hello England, it's Churchill"
-UPI.600.desc:0 "The letter was simple as it sat on the PM’s desk. It contained a lot of fluff, but the basic gist was obvious. \n\n “After securing control of India, save the Madras presidency, his Honourable Winston Churchill wishes for an envoy to come to India and examine his rulership of the nation, and if God is willing, to join the British Empire once more.” A simple request, a simple letter, and a hard choice."
+UPI.600.desc:0 "The letter was simple as it sat on the PM's desk. It contained a lot of fluff, but the basic gist was obvious. \n\n “After securing control of India, save the Madras presidency, his Honourable Winston Churchill wishes for an envoy to come to India and examine his rulership of the nation, and if God is willing, to join the British Empire once more.” A simple request, a simple letter, and a hard choice."
 UPI.600.a:0 "Do not send the Envoy"
 UPI.600.b:0 "Send the Envoy"
 
-UPI.601.t:0 "The British Betrayed Us!"
-UPI.601.desc:0 "Churchill shook with mighty rage as he heard the response. Britain had...abandoned him? After all this?! After everything he had done, everything he had sacrificed, every good man who died, they were just abandoning him here, in the heart of darkness itself?! No, no, no this would not do, this could not do! \n\n If Britain wasn’t going to help him, if Britain thought India was a lost cause, if they did not want the jewel of the Empire, carved in his image, then they would have nothing! The plans would be drawn up - though the generals protested, he insisted that he could fight the British to a draw at the very least. He knew the land better, and they probably wouldn’t even commit too many men. It was time for him to fight."
+UPI.601.t:0 "영국이 우릴 배신했다!"
+UPI.601.desc:0 "Churchill shook with mighty rage as he heard the response. Britain had...abandoned him? After all this?! After everything he had done, everything he had sacrificed, every good man who died, they were just abandoning him here, in the heart of darkness itself?! No, no, no this would not do, this could not do! \n\n If Britain wasn't going to help him, if Britain thought India was a lost cause, if they did not want the jewel of the Empire, carved in his image, then they would have nothing! The plans would be drawn up - though the generals protested, he insisted that he could fight the British to a draw at the very least. He knew the land better, and they probably wouldn't even commit too many men. It was time for him to fight."
 UPI.601.a:0 "Goodbye, Britain. A new empire shall rise."
 
-UPI.602.t:0 "Hopeful Forecast"
+UPI.602.t:0 "낙관적 전망"
 UPI.602.desc:0 "The British are sending an envoy! We simply must prepare everything, make everything pristine. Of course, they might not truly understand everything we do, to not understand all the context we have, to not understand what we had to do. So we just...move people away from the streets, clear everything out, set aside days and impose curfews. They cannot report on what they do not see, after all."
 UPI.602.a:0 "This shall go well, I am certain."
 
-UPI.603.t:0 "Horrors of Churchill"
+UPI.603.t:0 "처칠의 공포"
 UPI.603.desc:0 "Churchill cannot hide what he did to India. As the British envoy rolls through the cities, the people look in fear, hide in their rooms, and do not come out. India, so bustling and populous, looks like a ghost town to any observer. Mass plots of recently turned earth, explained as rice fields or some other such thing, emanate a smell so foul, the only proper response is to cover your nose and gag. Churchill received his visitors with great and wonderful fanfare, but there was a coldness in every house, in every room, they dined in, spoke in. His liveliness could not hide it. His explanations could not be believed. The envoy left with a simple message - do not give him the governorship."
 UPI.603.a:0 "He must be condemned, removed."
 UPI.603.b:0 "Do we have a choice?"
 
-UPI.604.t:0 "Churchill's Resignation Demanded"
-UPI.604.desc:0 "The resignation of Churchill was demanded in most dramatic fashion by the British. This was...something he wouldn’t accept. Not after all this time, not after all this blood was spilt, not after everything that he sacrificed. He would rally his men, defend his claim like so many emperors and kings of old, and if need be, he would die defending what was his! No Empire across the sea could declare who was and was not legitimate, no King from across the Ocean could dictate his policy! It would be his India, or no one’s India!"
+UPI.604.t:0 "처칠이 사임을 요구받다"
+UPI.604.desc:0 "The resignation of Churchill was demanded in most dramatic fashion by the British. This was...something he wouldn't accept. Not after all this time, not after all this blood was spilt, not after everything that he sacrificed. He would rally his men, defend his claim like so many emperors and kings of old, and if need be, he would die defending what was his! No Empire across the sea could declare who was and was not legitimate, no King from across the Ocean could dictate his policy! It would be his India, or no one's India!"
 UPI.604.a:0 "Rally the soldiers!"
 
-UPI.605.t:0 "Churchill Declared Secretary of India"
-UPI.605.desc:0 "Churchill’s rule has been legitimized by Britain. They...will remain very hands off, of course. No one wants to touch what he’s done, the fragile balance he has struck, and for good reason. No one could secure India like him, no one could make everything work the way he has. There is no reason for British interference, merely British complacency. Most working men didn’t care what happened to Indians, and as far as Churchill was concerned, they didn’t need to care or hear what was going on. So long as he could keep everything stable, so long as he could keep his rule going, the British need not cast their gaze upon him."
+UPI.605.t:0 "처칠이 Secretary of India울 선언하다"
+UPI.605.desc:0 "Churchill's rule has been legitimized by Britain. They...will remain very hands off, of course. No one wants to touch what he's done, the fragile balance he has struck, and for good reason. No one could secure India like him, no one could make everything work the way he has. There is no reason for British interference, merely British complacency. Most working men didn't care what happened to Indians, and as far as Churchill was concerned, they didn't need to care or hear what was going on. So long as he could keep everything stable, so long as he could keep his rule going, the British need not cast their gaze upon him."
 UPI.605.a:0 "The sun never sets..."
 
-UPI.699.t:0 "War Against the Madman"
+UPI.699.t:0 "광인에 맞선 전쟁"
 UPI.699.desc:0 "The bastard Churchill has decided to go against Britain itself! The entire Empire has been told, in no uncertain terms, that our rejection of him is a rejection of (to quote his angry message) “Supreme English Law and the Right of Superior races.” Whatever forces he can muster have been mobilized, and we cannot let him secure our one foothold in Asia!"
 UPI.699.a:0 "To war!"
 
-UPI.700.t:0 "The Peace of Amsterdam"
+UPI.700.t:0 "암스터르담 화약"
 UPI.700.desc:0 "The peace talks were concluded. The diplomats went home, congratulating each other or cursing each other for not getting concessions as the case may be. As it stood, though, the balance of power in India had forever changed, the balance of power for Asia had changed. This night, during the peace of Amsterdam, had changed the world forever."
 UPI.700.a:0 "And at least one side went home mourning."
 UPI.700.b:0 "And at least one side went home mourning."
 UPI.700.c:0 "And at least one side went home mourning."
 UPI.700.d:0 "And at least one side went home mourning."
 
-UPI.701.t:0 "Churchill's Empire"
-UPI.701.desc:0 "The Empire of Churchill, the Raj. India - under his control, under his thumb. After so much sacrifice, after so much toil, after so much work, he knew he had won it all. He ignored the gunshots ringing out from the nearby military base, a near constant timer of minutes through the hour, his eyes glazed over reading military reports, understanding that his position was, at this moment, secure. \n\n His methods wre firm, brutal even, but justified in this wasteland. His methods were effective, few could deny that, and even as he did things that made the impotent diplomats and connections with Europe hem and haw and protest, he knew that everything had been worth it. If it wasn’t, if he had erred, then he would know. But the sunset, blessing him and his own Empire, assured him that he had done everything just in the world. \n\n Perhaps now, watching the sun set over Uttar Pradesh, he could rest, relax. Let the tension in his body fade away. For he had won, and the Indians of future generations, the English of this generation, would learn to speak his name with reverence, awe, and aspiration. He had won. Another series of gunshots marked another five minute interval, and there was only one thought on his mind."
-UPI.701.a:0 "Now...calls for a drink."
+UPI.701.t:0 "처칠의 제국"
+UPI.701.desc:0 "The Empire of Churchill, the Raj. India - under his control, under his thumb. After so much sacrifice, after so much toil, after so much work, he knew he had won it all. He ignored the gunshots ringing out from the nearby military base, a near constant timer of minutes through the hour, his eyes glazed over reading military reports, understanding that his position was, at this moment, secure. \n\n His methods wre firm, brutal even, but justified in this wasteland. His methods were effective, few could deny that, and even as he did things that made the impotent diplomats and connections with Europe hem and haw and protest, he knew that everything had been worth it. If it wasn't, if he had erred, then he would know. But the sunset, blessing him and his own Empire, assured him that he had done everything just in the world. \n\n Perhaps now, watching the sun set over Uttar Pradesh, he could rest, relax. Let the tension in his body fade away. For he had won, and the Indians of future generations, the English of this generation, would learn to speak his name with reverence, awe, and aspiration. He had won. Another series of gunshots marked another five minute interval, and there was only one thought on his mind."
+UPI.701.a:0 "이제... 한 잔 할 차례군."
 
 UPI.702.t:0 "One Sun Sets, the Other Rises"
 UPI.702.desc:0 "“Men and women and children of India” Churchill said over the radio. “Today ends an epic struggle between the titans of the world - the visionaries here, the soldiers here, and the great men who fought and died in the plains and in the jungles and in the cities, who fought on the beaches and in the streets and against all odds, and came out victorious. The British Empire has declined over these many years, and this has been apparent to all observers, to all who might seek to understand it. In the corpse of empires, there are maggots, warlords who feast upon the corpse and give back nothing but more chaos and grime and filth. But there are also figures of great repute who stand to hold back the tide. We men of India, we soldiers of the Raj, are such figures. A new Charlemagne, a new Napoleon, a new Bismark, has risen in India, and the sun of the British Empire has set. Ours, however, has just begun rising. God bless India. God bless us all.”"
@@ -1106,3 +1111,7 @@ UPI.702.a:0 "Now...on to dealing with the Rabble."
 UPI.703.t:0 "신세계의 탄생"
 UPI.703.desc:0 "We are ready - as ready as can be, for we are here to birth a new world. In fire, sword, destruction. By bullet, shell, and bomb, we shall force this new world to emerge, shall force it to wriggle its way from the void and impose itself upon our rotten corpse of a world. It shall be beautiful, as a fire burning a home. It shall be deadly, as the hawk diving upon the rabbit. It shall be unrelenting as the sea, as unstoppable as the tide, and it shall ensure that all are swept up in it."
 UPI.703.a:0 "죽음을 향해!"
+
+UPI.704.t:0 "Radio Silence"
+UPI.704.desc:0 "The unbelievable had come to pass. Britain, his home, his native land was... Destroyed. All his efforts in unifying and pacifying this dreaded subcontinent... Were they for nothing? After all, what would it mean to be a noble servant of the British Crown, if the crown was no longer there? Churchill struggled to keep his upper lip stiff, and took a sip from his whiskey. No, Churchill would not succumb to defeat. Not again. Not after a victory of this caliber. Brittania might not rule no more. But the Briton would never, ever be a slave, even without his dear homeland. The isles of Brittania had fallen, but the Briton, his spirit, his courage, lived on far from home, in the Raj. He was already wasting time. Churchill would ensure the Raj would be a shining light of Anglo civilisation, and that would require fully re-unifying this land, once and for all."
+UPI.704.a:0 "Onwards, lads!"
