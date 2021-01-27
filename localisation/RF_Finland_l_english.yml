@@ -34,12 +34,12 @@ FIN_RUS_reactionism_ADJ:0 "핀란드"
 FIN_RUS_accelerationism:0 "핀란드"
 FIN_RUS_accelerationism_DEF:0 "핀란드"
 FIN_RUS_accelerationism_ADJ:0 "핀란드"
-FIN_EGY:0 "Thirty-Fourth Dynasty"
-FIN_EGY_DEF:0 "The Black Lands"
-FIN_EGY_ADJ:0 "Fenno-Egyptian"
-FIN_EGY_FINAL:0 "Thirty-Fourth Dynasty"
-FIN_EGY_FINAL_DEF:0 "The Black and Red Lands"
-FIN_EGY_FINAL_ADJ:0 "Fenno-Egyptian"
+FIN_EGY:0 "제 34왕조"
+FIN_EGY_DEF:0 "흑지"
+FIN_EGY_ADJ:0 "핀-이집트"
+FIN_EGY_FINAL:0 "제 34왕조"
+FIN_EGY_FINAL_DEF:0 "흑홍지"
+FIN_EGY_FINAL_ADJ:0 "핀-이집트"
 
 #PARTIES#
 FIN_vanguard_socialism_party:0 "SKP-P"
@@ -72,11 +72,11 @@ FIN_despotism_party_monarchy_long:0 "민족연정당 - 군주주의파"
 #TOOLTIPS#
 FIN_DESC_MENU:0 "Near the end of the Great War, Russia fell to civil war between those loyal to the monarchy, and Republican factions. Finland, an autonomous duchy within the Empire, was not spared, with red and pro-independence factions rising up from the swamps of Karelia and fighting against the Pro-Russian loyalists. After years of fighting and tens of thousands dead, the Communist movement was defeated and Finland remained a de jure territory of the Russian Empire. However, outside of the Finnish nobility, there are few that wish to remain puppets of the Russians, and only time will tell if the people of Finland will make their voices heard."
 
-FIN_CARVE_TOOLTIP:0 "Gains claim on: §YRevel§! , §YYuriev§! , §YLuga§! and §Y14§! others.\n§Y러시아어 분쇄§! 디시전이 해제됩니다."
+FIN_CARVE_TOOLTIP:0 "다음에 대한 영유권 주장: §YRevel§! , §YYuriev§! , §YLuga§! and §Y14§! others.\n§Y러시아어 분쇄§! 디시전이 해제됩니다."
 
 ASPA_EGYPT_TOOLTIP:0 "The §BPharaoh§! of the §RRed Lands§! and the §bBlack Lands§! of §CFenno-Egypt§! will be proclaimed, and thusly begin the true Thirty-Fourth Dynasty."
 
-FIN_LANDS_SET_TOOLTIP:0 "Gains claim on: §YRevel§! , §YYuriev§! , §YLuga§! and §Y14§! others.\n§Y모스크바 떼거리 거세§! 디시전이 해제됩니다."
+FIN_LANDS_SET_TOOLTIP:0 "다음에 대한 영유권 주장: §YRevel§! , §YYuriev§! , §YLuga§! and §Y14§! others.\n§Y모스크바 떼거리 거세§! 디시전이 해제됩니다."
 
 #DECISIONS#
 FIN_destroyrussianlanguage:0 "러시아어 분쇄"
