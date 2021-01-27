@@ -17,24 +17,22 @@ worldnews.4.b:0 "당장 가서 한 권 사오도록!"
 
 #############################################################################
 news.intro.t:0 "레드 플러드에 오신 걸 환영합니다"
-news.intro.d:0 "레드 플러드는 \"만약 1차 세계대전에서 누구도 이기지 못 했다면?\"이라는 발상에서 시작된 대체역사 시나리오입니다. 1905년 러시아가 러일전쟁에서 '승리'하고, 1911년 차르 니콜라이 2세가 암살될 때까지 군주정은 강화됐습니다. 이 일련의 역동적인 사건 연쇄가 2차 발칸 전쟁 이후인 1913년 1차 세계대전의 발발로 이어지며 오스트리아-헝가리와 러시아를 끌어들여 맞부딪히게 했습니다. 3중 협상과 중앙국은 몇 년에 걸쳐 싸움을 벌였지만 결국 흐지부지 끝나버렸습니다. 프랑스군은 붕괴했으며, 러시아는 차르 알렉세이 2세의 암살로 혼돈에 빠지고 독일에선 스파르타쿠스주의 봉기가 군주정을 타도했습니다. 영국은 찢어져버린 대륙을 공포 속에 홀로 바라보는 가운데, 그 제국은 극도로 불안정해지고 있습니다. 동방에선일본이 식민제국을 채갔지만 그 과정의 과도한 팽창은 감당하기 어려운 것이었으며, 미국은 정세에 경악하며 고립주의를 한층 강화했습니다. \n종전 이래 새 운동이 유럽 전역을 휩쓸었으니, 그 이름 촉진주의였습니다. 고도로 예술적이며 쇼뱅주의적인 이 극단적 근대주의 정치 선언은 이탈리아 급진파가 1919년 피우메 시를 점거하면서 성장하기 시작했으며, 그 이래 마르크스주의자, 군주주의자, 온건파의 목구멍의 가시와 같은 존재가 되어있습니다. 1934년 프랑스는 국내 촉진주의 운동의 영향력 아래 떨어졌으니, 이제 아방가르드국의 지도자 앙토냉 아르토는 프랑스와 나머지 세계를 무력으로써 미래로 이끌고자 준비하고 있습니다."
-news.intro.a:0 "고마워요 레드 플러드 팀!"
-news.intro.b:0 "설정 좆까, 더 빠.르.게!"
-news.intro.c:0 "무슨 마약을 하길래 이런 생각을 하셨어요?"
-
-news.1.t:0 "친절하시긴, 저희가 다 고맙죠."
-news.1.d:0 "레드 플러드가 모드 작업과 커뮤니티에 영향을 주고받는 진짜 사람들이 자발적으로 모인 팀의 작품이라는 걸 기억해주세요. 디스코드(활발한 곳이에요. 링크는 스팀 페이지를 참조해주세요.)와 서브레딧에서 피드백과 의견을 나눠주시면 고마울 거예요."
-news.1.a:0 "재밌게 하세요!"
-
-news.2.t:0 "오께 속력박이"
-news.2.d:0 "속력에 너무 심취하지는 말게. 레드 플러드는 그냥 가상 시간대일 뿐이니까요. 우리 설정 때문에 목숨 거는 사람은 없어요. 그런 사람이 있다면 작가들이 졸라 잘해줬다는 뜻이니까, 우리는 신경 안 쓸 거예요."
-news.2.a:0 "에야 에야 알랄랄랄라!"
-
-news.3.t:0 "할 말 없습니다"
-news.3.d:0 "우리 개발자 중 몇은 되게 많이 읽었지만 몇몇은 정신문제가 있고, 또 다른 몇몇은 역사에 관심이 있어서 자기네 모국어로도 되어있지 않은 모호한 위키피디아 문서나 읽은 사람이에요. 전체적으로 보면 우리는 이상하고도 뛰어난 짐승무리고, 둔부의 단맛... 아니 노동의 단맛을 즐긴다고요! 그냥 역사가 이상하다는 것만 기억해두세요. 우리 시간대에서도 실패한 예술가 하나가 독재자가 돼선 개인숭배로 한 국가를 전 세계의 정상급에 올려뒀잖아요. 그리고 그 독재자는, 가장 잔혹한 독재체제 중 하나인 국가에서 집권한 캅카스 출신의 전직 사제이자 깡패한테 도박을 걸었다가 져버렸고요."
-news.3.a:0 "역사 자체가 졸라 이상하거든요..."
-
+news.intro.d:0 "1905년 러시아가 러일전쟁에서 간신히 승리를 거두고, 1911년 차르 니콜라이 2세가 암살될 때까지 군주정은 강화됐습니다. 이 일련의 역동적인 사건 연쇄가 2차 발칸 전쟁 이후인 1913년 1차 세계대전의 발발로 이어지며 오스트리아-헝가리와 러시아를 끌어들여 맞부딪히게 했습니다. 3중 협상과 중앙국은 몇 년에 걸쳐 싸움을 벌였지만 결국 흐지부지 끝나버렸습니다. 프랑스군은 붕괴했으며, 러시아는 차르 알렉세이 2세의 암살로 혼돈에 빠지고 독일에선 스파르타쿠스주의 봉기가 군주정을 타도했습니다. 영국은 찢어져버린 대륙을 공포 속에 홀로 바라보는 가운데, 그 제국은 극도로 불안정해지고 있습니다. 동방에선일본이 식민제국을 채갔지만 그 과정의 과도한 팽창은 감당하기 어려운 것이었으며, 미국은 정세에 경악하며 고립주의를 한층 강화했습니다. \n종전 이래 새 운동이 유럽 전역을 휩쓸었으니, 그 이름 촉진주의였습니다. 고도로 예술적이며 쇼뱅주의적인 이 극단적 근대주의 정치 선언은 이탈리아 급진파가 1919년 피우메 시를 점거하면서 성장하기 시작했으며, 그 이래 마르크스주의자, 군주주의자, 온건파의 목구멍의 가시와 같은 존재가 되어있습니다. 1934년 프랑스는 국내 촉진주의 운동의 영향력 아래 떨어졌으니, 이제 아방가르드국의 지도자 앙토냉 아르토는 프랑스와 나머지 세계를 무력으로써 미래로 이끌고자 준비하고 있습니다."
+news.intro.a:0 "재밌게 하세요!"
 #############################################################################
+
+news.1.t:0 ""
+news.1.d:0 ""
+news.1.a:0 ""
+
+news.2.t:0 ""
+news.2.d:0 ""
+news.2.a:0 ""
+
+news.3.t:0 ""
+news.3.d:0 ""
+news.3.a:0 ""
+
 news.4.t:0 "프랑스 민족평의회 개최"
 news.4.d:0 "1934년 이래 프랑스는 군주주의자를 포함한 보수주의자, 혁명민족주의자, 반보수주의자들을 포함한 느슨한 연계의 집단을 비롯하여, 1934년 정변을 지원했던 군과의 합동 연정의 통치를 받아왔습니다. 계엄령에 대한 불만이 임계점에 달하자, 반사회주의 정부는 프랑스를 통치할 집단을 결정하기 위해 베르사유에 모였습니다."
 news.4.a:1 "영원한 프랑스를 위해 기도하자."
@@ -65,6 +63,16 @@ news.9.a:0 "가서 하나 사와, 당장!"
 news.10.t:0 "동방에서 내전이 벌어지다!"
 news.10.desc:0 "일본에서 무장 혁명가들이 황정에 맞선 투쟁을 시작했다는 보고가 들어왔습니다. 해군 장교들과 수병들 간의 정면대결에서 시작해, 일본 전위당에 충성하는 사회주의 민병대는 무너져가는 황국에서 도시들의 통제권을 쥐려 시도하는 중입니다. 식민지의 총독들은 각자도생을 위해 분주하고 대륙에 있던 일본 전초지들은 \"외세\"에게 점거됐습니다. 심지어 타이완조차 일본의 손에서 벗어났습니다!"
 news.10.a:0 "황국에 무엇이 남을 텐가?"
+
+news.1010.t:0 "황국이 살아남다"
+news.1010.desc:0 "The Imperial Loyalists in Japan have defeated the revolutionaries, putting an end to their civil war. As the dust settles the full consequences are laid bare. Revolutionary leaders are now on the run, with many fleeing to China in search of friendly regimes. Once a nation divided, it is now - in part - devastated. The path forwards first requires a rebuilding period, but beyond that the future is uncertain. The question remains as to whether the empire will stay the course or make corrections for its past mistakes..."
+news.1010.a:0 "좋아, 혁명분자들을 향한 또 다른 한 방이군."
+news.1010.b:0 "망할, 혁명이 흔들렸다."
+
+news.102.t:0 "일본이 혁명에 쓰러지다"
+news.102.desc:0 "The Revolution in Japan is victorious! Against all odds the upstart naval rebellion has resulted in the total collapse of Asia's only native hegemon. The civil war is over, and as the remaining Imperials flee to the former colonies and elsewhere, the reconstruction begins at home. There are still unresolved factional issues among the revolutionaries themselves however, this will no doubt shape their foreign policy going forward. Is Asia in store for a new brand of red imperialism, or a new, more gentle hand from Japan?"
+news.102.a:0 "좋아, 반동분자들을 향한 또 다른 한 방이군."
+news.102.b:0 "망할, 빨갱이들이 또 한 발 앞섰군."
 
 news.11.t:0 "황러시아의 기근"
 news.11.desc:0 "기아가 망명공화국의 삶 속으로 들어오며, 러시아 공화국에선 비운이 끊이지 않는 듯합니다. 악천후, 부패, 실정이 뒤엉켜 농업 부문을 파괴해버렸습니다. 뼈만 남은 아이들의 사진이 모든 신문지면에서 이 참상을 대변하고 있는 가운데, 식량 기부가 쏟아지고 있다지만 인민의 배고픔을 채우기엔 턱없이 부족합니다. 기아로 크게 불안해진 국가는 이제 이 재앙을 케렌스키의 탓으로 돌리고 있습니다. 케렌스키의 사임을 요구하는 목소리가 커지면서, 정치인, 사업가, 군인, 심지어 관료들조차 권력을 잡겠다며 뛰어드는 상황입니다. 황러시아의 미래는 어느때보다 어둑하니, 완전 사유화, 국가사회주의, 기술관료정, 무정부와 같은 극단적 수단이 공개적으로 논의되는 판국입니다."
@@ -192,11 +200,163 @@ news.39.t:0 "신로가 러시아를 통일하다"
 news.39.desc:0 "철도가 민족의 미래라고, 황제의 지도 아래 있는 러시아 제국의 관리인들은 말합니다. After decades of attempts to colonize and integrate Central Asia, it appears the Russian Empire has finally succeeded, with entire villages disappearing off the map and new ones springing up, entirely composed of ethnic Russians looking for new farming opportunities, all brought in by rail as the trains leave for somewhere unknown. 이제 세계에서 가장 완벽한 열차체계를 갖춘 러시아는 광역에 걸친 기반시설의 주인이 되었으며, 그에 따라 어마어마한 부를 거머쥐게 되었습니다. 이제, 러시아는 진정으로 하르빈에서 페트로그라드까지 갈 수 있게 될 것입니다."
 news.39.a:0 "굴뚝에서 나는 연기는 이전과 같으리라."
 
+news.40.t:0 "Prussian Kongo unifies the Congo"
+news.40.desc:0 "Once the abandoned vestige of Freikorps forces in a treacherous and landlocked territory, the Prussian Congo has risen to African powerhouse in the matter of a few years, becoming rapidly industrialized by German capitalists formerly in exile, now living in the Prussian Kongo. An unprecendented situation in the World Stage, Hüttig's grand dreams of a totalitarian state in the name of the German Race against Councilism are noble to some, and horrifying to others. Regardless, celebrations by white settlers has been ecstatic as new settlers arrive from Prussia and Germany, along with several Anglo capitalists to exploit these new virging lands."
+news.40.a:0 "Perhaps the Safari has been tamed."
+
+news.41.t:0 "Belgian Army remnants unify the Congo"
+news.41.desc:0 "In perhaps one of the most strange and unpredictable twists of the Century, the local Belgian Army garissons in the Congo have managed to unify the colony into their rule once more. Despite this initial belief of security, no information seems to be leaving the Colony, with only a reserved and simple statement made by the Governor, Pierre Ryckmans, that \"Our homeland shines bright again\". Regardless, it seems that practically no information that doesn't come directly from the Government has arrived outside of the Congo, however important new policies are quickly spilling out of the fledging colony, namely the creation of a \"Nouvelle Belgique\" dialect, a mixture of Flemish, native Kongo words, French, and Walloon, as an attempt to unify all colonial forces in the new \"nation\"."
+news.41.a:0 "Seems order has been restored in the Congo."
+
+news.42.t:0 "The Terror of the Muzungu"
+news.42.desc:0 "The Kivu Cult, once a minor rogue state in the fringes of Africa, found itself taking over more and more territory with sheer numbers compared to quality of soldiers and weapons. With tens of thousands of white settlers fleeing or disappearing, there are many that report things to give horror in anyone: White people or white sympathisers are reported to be exterminated, and anyone following European culture or European mannerisms is lynched by mobs. Cities are razed down to the ground, and behind it all is a man mysteriously called \"Our Protector\", a self-described disciple of Marx, as per translated by fleeing colonial administrators. Regardless, celebrations are reportedly being held as grand discordant rituals and singing, and nothing else but that seems to come from the new rogue Socialist state."
+news.42.a:0 "The White man trembles."
+
+news.43.t:0 "The Évolués unify the Congo"
+news.43.desc:0 "During colonial rule by the Belgians, thousands of Congolese sought to rise through the ranks from mediocrity to becoming fully \"Evolved\" peoples, which wished to be on par with their European administrators. Leopoldville, the center of said Évolués, seized various lands surrounding the area in the name of creating a democratic and \"civilized\" Republic under the great guise of the French language and education for the few who wished to rise above their state of misery. Considered by some governments as the legitimate authority in the Congo, the Congolese Republic has managed to defeat all enemies, resulting in a deeply industrialized and conservative Republic, which seeks to open up trade with fellow democratic nations (even if by name only)."
+news.43.a:0 "Light arises from darkness."
+
+news.44.t:0 "Prussian Kongo unifies the Congo"
+news.44.desc:0 "Once the abandoned vestige of Freikorps forces in a treacherous and landlocked territory, the Prussian Congo has risen to African powerhouse in the matter of a few years, becoming rapidly industrialized by German capitalists formerly in exile, now living in the Prussian Kongo. An unprecedented situation in the World Stage, the appointment of Louis Brody for the Prime Ministership of the Prussian Kongo has resulted in the first black person in a place of power in the Congo's territory since before the Belgian colonziation, and subsequently Brody has done many efforts to create a grand welfare state and fierce democratic operations across the untamed lands of the Kongo."
+news.44.a:0 "Good things arising from the Congo, it seems."
+
+news.45.t:0 "Proclamation of the État Irréal"
+news.45.desc:0 "Considered by many to be the beacon of a new world, and by many more the scourge of Europe, Patron of France, Antonin Artaud, has apparently proclaimed the end of France itself, and subsequently the creation of the \"État Irréal\", a direct, according to him, declaration of war against Reality itself. To the chagrin of liberals, socialists, communists, anarchists, reactionaries, and many others, the new State has begun doing multiple efforts to counter the forces of the engine of Reality. For instance, every single element of society is considered now an extension of Artaud himself, something which has resulted in tears of joy and horror across the former state of France as the peak of the Futurist experiment centered around Artaud's cult of personality, has reached it's endpoint; the very destruction of Reality itself."
+news.45.a:0 "Dear God."
+news.45.b:0 "Après la pluie, le beau temps."
+
+news.46.t:0 "The Unification of India"
+news.46.desc:0 "India's reunification under Churchill was unexpected - from a bloated, drunk old man who had washed up between a dozen or so administrative jobs after the failures of Gallipoli, to the icon of determination, perseverance, and violent rule, he has decisively proven all his doubters wrong. \n\n India stands on the cusp of a future few predicted, once more under British rule of a sort, and those outside observers who report on it have described it as a nightmare, as totalitarian, as a state that invokes names such as Leopold in its administration. It is a dark day for India, yet unable to escape the colonial gaze."
+news.46.a:0 "And it is an exceptionally bright day for Churchill."
+
+news.47.t:0 "The Unification of India"
+news.47.desc:0 "The Indian subcontinent has been unified, and once again, it found itself under sovereignty of the British crown. What was formerly known as Madras Presidency, now streches from Pakistan to Bangladesh as the second British Raj. \nHowever, vast majority of the unification wasn't done by the British. It was the feat of a brutal colonizer by the name of Winston Churchill. Locals, especially the residents of Lucknow, describe acts of his administration as horrific, totalitarian, and invoking names such as Leopold. \nAfter witnessing the massacre created by Lord Admiral, the British demanded his resignation. Winston refused, and shortly after, troops of United Kingdom have stormed his fortress in the city of Lucknow. Churchill is now being transfered to London, where he will face a trial. As for India, it was left with wounds from which it might never recover."
+news.47.a:0 "And it is an exceptionally dark day for all."
+
+news.48.t:0 "The Kali Cult Reigns over Asia!"
+news.48.desc:0 "Horrific news trickling out from Asia - a cult, lead by the enigmatic “Avatar”, has taken over much of the continent. Unknown to the world before the collapse of Churchill's fiefdom in the fractured India, now spreads bloodshed in every direction. Avatar is obsessed with, even addicted to the Hindu idea of Kali Yuga, and believes, contrary to practically all orthodox Hinduism, that it must be hastened and brought about as soon as possible, that her holy mission is to annihilate all traces of sin and vice and rot and corruption in blood, sword, and fire. What little is known about her theocratic state paints a picture of ritual human sacrifice, callous uncaring for the lives of men, and even cannibalistic adherents attacking whoever, and whatever, they want."
+news.48.a:0 "God help us."
+
+news.49.t:0 "Savinkov Unifies Russia!"
+news.49.desc:0 "Strange news have arrived from Russia as the tiny state of Belarus has managed to conquer all of Russia, one way or another, and has proclaimed the Union of Sovereign Republics, as by Boris Savinkov's designs. This Union has sought to create equal members within it's territory, including an expanded Belarus. Thousands march in celebration as the socialist dream has returned to Russia, even if it took Savinkov to do it under a pile of terrorism, which slowly weighs on the population of his territory, with Black Cat partisans helping the Government destroy any opposition within the cities. Perhaps Socialism is here to stay for Russia as a whole."
+news.49.a:0 "Slava!"
+
+news.50.t:0 "...Ruthenian Unification?"
+news.50.desc:0 "Something bizarre has just occured within the reaches of Eastern Europe: A small despotic state with the former name of Belarus, has managed to conquer all of Russia in one fell swoop as it's armies dared to cross every river, and take Moscow. The Ruthenian Empire, as it is called by supporters, is an amalgamation, and dare one say, a mess of cosmopolitan experiments, absolute monarchism, progressivism, oligarchism and aristocracy, yet it is a fiercely powerful one, becoming one of the largest, if not the largest nation in the World. With it's massive armies destroying insurrections across Russian territory and placing its gaze elsewhere, the Ruthenian Empire, an \"Union of Five Races\", those being Tatars, Poles, Belarusians, Muscovites, and Ashkenazi Jews, has become an undoubted World Power."
+news.50.a:0 "Artificiality is determined by lack of will."
+
+news.51.t:0 "Death of Russia"
+news.51.desc:0 "May it be called impossible, may it be dreaded, the state of Russia, and the privilege of Russians as the masters of their land, is now gone forever. As foreign troops from across several fronts brutally occupy Russian lands and slowly change them to the designs of their culture or ethnicity, it appears the Russian culture is now destined to fall to a mere rump and minority by a couple decades. After decades of constant corruption, scheming, and civil wars, it appears that the Russian Government could not handle the conquests of \"National Liberation\" done by it's neighbors, and now only a few Russian-governed states remain. It appears that the rebirth of Russia as a state of any importance is extremely unlikely."
+news.51.a:0 "Goodnight, Rodina."
+
+news.52.t:0 "The American Collapse"
+news.52.desc:0 "The United States went through it's harshest political transformations in this 20th Century after the election of James Renshaw Cox after the loss of Andrew Mellon by overwhelming numbers after his extremely economically liberal politics. Cox's main platform was getting rid of the Dustbowl. However, his entire political machine fell apart in a moment, as he was assasinated by allegedly a Klan member. Subsequently, after picking Elizabeth Gurley Flynn as Vice-President, the first woman to have the post, as a form of compromise with the IWW. However, her Presidency was nothing short of chaotic, with a latent end of the Dustbowl and extreme policies towards making America \"more just\". After several states proclaimed her as tyrannical, she retorted by proclaiming the \"American Commonwealth\", resulting in the end of the American Experiment."
+news.52.a:0 "And so the Great Experiment ends."
+
+news.53.t:0 "Thirty-Fourth Dynasty invades Egypt!"
+news.53.desc:0 "Once thought to be a nation of insanity, a barely clinging-on regime made by a single madman with a few soldiers to his side, the self-proclaimed Thirty-Fourth Dynasty of the Red Lands and the Black Lands has been able to defy every single expectation, every single bet against them, and every single insult thrown at their belief that the Finns are the true Egyptians. Not only has this theory received outmatched popular support in Finland itself, but even some Egyptian intellectuals, such as Taha Hussein, have decided to side with the Finns in creating a new national myth for the Egyptian people. Not only this, but the Dynasty, under Pharaoh Aspa, or better known as Sihathor Wahneferhotep-Ankhkhaf, has prepared an invasion against Egypt itself, preparing to seize their \"Red Homeland\" from the British. Despite everything, some hope for a better future under Finland."
+news.53.a:0 "Hopefully the British can deal with this."
+news.53.b:0 "Good order must return! Finland's gone mad!"
+news.53.c:0 "Colonialists fight one another."
+news.53.d:0 "The battle of cosmic reality begins!"
+news.53.e:0 "On kauniina muistona Karjalan maa..."
+
+news.54.t:0 "The Malagasy Civil War"
+news.54.desc:0 "Believed to be a beacon of traditionalist thought and governance, Madagascar has fallen to a charateristic trait of ancient times; many revolts.\n With the lack of a direct sucessor to Ranavolona III, aristocrats within the Government had declared a Regency, where the aristocrats would maintain their positions and some receive promotions - resulting in a Monarchy without a Monarch, akin to Russia. This enraged several monarchists across the country and resulted in local civil strife, which slowly escalated into revolution across all sides of Madagascar, with the IBoina kingdom proclaiming a new Malagasy Kingdom, and the remaining Hova dynasty rebelled in the south, proclaiming a rival Imerina Kingdom to the current Regency. What will come out of the bloodshed is unknown, with casualties already reporting by the thousands."
+news.54.a:0 "Madagascar bleeds."
+
+news.55.t:0 "Spanish Civil War Begins"
+news.55.desc:0 "Tragedy has struck today, as the unstable Spanish Republic has ruptured atwain, in what international observers call, \"The result of Ramon Franco's ineffective despotism.\" Many are wondering if something could have been done to prevent this bloodshed, as a ragtag group of government opponents under the leadership of Ramón Gómez de la Serna have taken up arms against the republic, now headed by Alejandro Lerroux. Stranger yet, the North African territories have broken free under the rule of the young Francisco Franco, general of Morocco and brother to the infamous ex-dictator. Among all the chaos however there lies at least one solid truth, and that is only God himself knows where the fate of Spain lies."
+news.55.a:0 "Et Lacrimatus Est Iesus"
+
+news.56.t:0 "Anarchists Rise Up In Spain"
+news.56.desc:0 "More news today from the Spanish Civil War, as it appears that the Republican forces have shattered, as leader of the Partido Comunista de España, José Díaz, has lead a coup against former Prime Minister Alejandro Lerroux. This change in leadership was not without protest however, as the Federación Anarquista Ibérica and other anarchist groups lead in part by Buenaventura Durruti have splintered off, denouncing Díaz's authoritarian views and admiration for Lenin as a \"bleak pastiche of leftist values, and a betrayal of the revolution.\" It appears that things may continue to get worse in Spain, as the conflict breaks down even close ties."
+news.56.a:0 "This is getting out of hand."
+
+news.57.t:0 "National Front Splits"
+news.57.desc:0 "Breaking news from the frontlines of Spain, as now the National Front has split as well! While the unorthodox Regenerationist government had gathered a shaky coalition of those to its left and right, it appears that the differences between internal factions was not enough under greater pressure, as the Juntas de Ofensiva Nacional-Sindicalista lead by Ramiro Ledesma Ramos have entered the fray on their own terms, exclaiming themselves to be free of the \"pseudo-artistic madmen of Spain.\" Only time will tell if this decision was a wise one, or the fatal blow to the anti-Republican forces."
+news.57.a:0 "Now there are two of them!"
+
+news.58.t:0 "Syndical State Turns To Reactionism"
+news.58.desc:0 "We once again return to the bloody streets of Spain, as it appears that the former Syndicalist State has been deposed by those among its own ranks. This new group, calling themselves the Falange Española. They claim to represent \"true national syndicalism for the Spanish Man\", and denounce Ledesma's \"pseudo-councilism\" as nothing but falsehoods sold to the Spanish worker to keep him placated. Although the coup has been mostly bloodless, the shockwaves this has sent throughout the War in Iberia are not to be underestimated, as loyalties and ideologies change once more in the ever-shifting sands of Spain."
+news.58.a:0 "What is happening over there?"
+
+news.59.t:0 "Anarchist Victory In The Spanish Civil War!"
+news.59.desc:0 "The impossible has happened yet again! The ruins that once was Spain are now completely lawless, and all across the Peninsula citizens hide in fear. Anarchist warbands have torn down every single statist organization through brutal reprisals against the bourgeoise and other counter-revolutionary elements, leaving only chaos in their path. However, behind the frontlines, in the fields of Iberia, small communes of free workers blossom, completely oblivious to the bloodbath in the cities. Is the future a new utopia of freemen, or a land of bandits and revolutionary terror?"
+news.59.a:0 "A thousand years of Anarchy!"
+
+news.60.t:0 "Communist Victory In The Spanish Civil War!"
+news.60.desc:0 "José Díaz’s Communists have won a decisive victory in the civil war against both Anarchists and the Bourgeoise. The triumphant march of PCE militias across every major Spanish city shows the Left that Leninism is still a force to be reckoned with despite the Councilists’ unchallenged dominance until today. Now, the world curiously examines the Spanish experiment, a radical new political form in Europe that challenges stablished socialist orthodoxy."
+news.60.a:0 "Peace, Land, and Bread!"
+
+news.61.t:0 "Republican Victory In The Spanish Civil War!"
+news.61.desc:0 "President Lerroux has declared this awful, fratricide war to finally be over! Captive and disarmed, the National Front’s forces have been defeated, and no longer will the countryside tremble with the whistling of bullets. Far-left radicals have been expelled from power and swiftly silenced so that a true democracy can flourish again in Spain. Yet international critics point out that Lerroux’s blatant disregard for proper democratic form, espousing a brand of violent populism and promoting a cult of personality towards himself. Spanish democracy has survived, but its fragility must be addressed soon or risk disappearing for the foreseeable future."
+news.61.a:0 "Just like Pericles!"
+
+news.62.t:0 "Falangist Victory In The Spanish Civil War!"
+news.62.desc:0 "José Antonio Primo de Rivera enters Madrid as a liberator, surrounded by his close circle of thinkers and poets. After side-lining the most leftist elements in the party and integrating willing JONS collaborators into the Falange, José Antonio sits upon a solid base for extensive social reforms, an extremely necessary requisite to enact his new system. However, his large support among high-ranking politicians and intellectuals means he must juggle the needs of many opposing interest groups, left and right, proletarian and aristocratic, oldshirts and opportunists. This balancing act might prove a real challenge for the Falangist regime, and if poorly managed, its downfall."
+news.62.a:0 "In Spain the sun begins to rise!"
+
+news.63.t:0 "Syndicalist Victory In The Spanish Civil War!"
+news.63.desc:0 "Ramiro Ledesma Ramos stands as the sole undisputed leader of the Syndical State, a radical new system that challenges both leftist and rightist conventions. Highly popular among workers does not mean stable or successful, however. The massive extent that the total revolution still has to go is a sign that maybe Spain’s stability is all but guaranteed. Who can foresee the future of national-syndicalism?"
+news.63.a:0 "¡Arriba los Sindicatos!"
+
+news.64.t:0 "Regenerationist Victory In The Spanish Civil War!"
+news.64.desc:0 "To the world’s shock and horror, another European nation has joined the madman’s troupe that is Accelerationism. Gómez de la Serna has somehow managed to keep the united front together and defeat the old Republic, and spontaneous ecstasy fills every street and village in the National Front’s control. However, Spain’s future is uncertain, as whispers in the dark speak of a possible resignation from de la Serna. Because of his general lack of interest in organized politics and his purely symbolic role in leading the right, it is sooner than later that we can expect a designation of a successor, whoever that might be."
+news.64.a:0 "The avant-garde fire of Spain burns bright!"
+
+news.65.t:0 "Black Hundreds Unify Russia!"
+news.65.desc:0 "Troll"
+news.65.a:0 "Dear God..."
+
+news.66.t:0 "Solidarists Unify Russia!"
+news.66.desc:0 "Troll"
+news.66.a:0 "Dear God.."
+
+news.67.t:0 "Scythists Unify Russia!"
+news.67.desc:0 "Troll"
+news.67.a:0 "Dear God.."
+
+news.68.t:0 "Eurasianists Unify Russia!"
+news.68.desc:0 "Troll"
+news.68.a:0 "Dear God.."
+
+news.69.t:0 "Kornilov Unifies Russia!"
+news.69.desc:0 "Troll"
+news.69.a:0 "Dear God.."
+
+news.70.t:0 "Gulidov Unifies Russia!"
+news.70.desc:0 "Troll"
+news.70.a:0 "Dear God.."
+
+news.71.t:0 "Italy Thrashes the League"
+news.71.desc:0 "In an epic turnabout, the Kingdom of Italy has successfully defended itself from a joint attack by the League Solar, successfully retaking Fiume in the process. France has offered significant territories to Italy in exchange for an end to hostilities, as Germany seems poised to take advantage of a weakened France. \nMilitary and political pundits across the globe are shocked at Italian military effectiveness after a mixed performance in the Great War and the widely recognized culture of corruption and nepotism that had been integral to Italian high command. As Italy celebrates, policy makers around the world are changing their plans to accommodate the expanded role the Kingdom will doubtless play in world affairs."
+news.71.a:0 "Italy won? Life really is stranger than fiction."
+
+news.72.t:0 "The Kingdom of Italy Conquers Europe"
+news.72.desc:0 "Duce Italo Balbo has finally ordered the Italian war machine to halt as the Kingdom of Italy consolidates its conquest of the European continent and surrounding isles. Through a combination of opportunism, luck, and sheer military power, Balbo’s forces swept aside all opposition in the world’s industrial heart. Ancient empires and newborn republics alike have been utterly crushed as Italianization programs relentlessly pulverize local identities and drag hundreds of millions to cultural and linguistic homogeneity. \nThe world quakes in terror, but Balbo has shown little indication of wishing to continue his conquests. Rather, the Italian Alexander seeks to consolidate his new empire. Peace returns for now, but as the years pass, who can say where the new Master of Europe will next cast his hungry gaze?"
+news.72.a:0 "Once again, the Latins break the world."
+
+news.73.t:0 "Wars of Liberation have come to an End"
+news.73.desc:0 "Italian Prime Minister Francesco Saverio Nitti announced today that Italy has completed its campaigns of liberation in Europe and elsewhere, signalling the start of an era of extensive economic and political rebuilding. With democracy newly introduced or reintroduced to many nations, Italy must now successfully coordinate their redevelopment and the strengthening of new liberal institutions without comprising its ideals of self-determination and liberty. Critics have called these efforts thinly-disguised empire building, but Italian troops have been withdrawn from several key areas, an encouraging sign for many in the new “sister republics”. As Italian authorities seek to expand the scope of the Treaty of European States, the world wonders whether the Italian Federation can maintain its lofty ideals, and whether Europe can regain any of its former strength, prosperity, and prestige."
+news.73.a:0 "Liberalism was never really dead, only biding its time."
+
+news.333.t:0 "Agartha Found"
+news.333.desc:0 "The world has been shaken today, as a German chicken farmer named Heinrich Himmler has apparently found an entrance to what he calls \"Agartha\", an underground advanced civilization living inside of Earth. It appeasrs that our planet is infact hollow, and that these Agarthans have been living here for many millenia, using a force known as Vril to develop strange abilities which can only be described as supernatrual. Himmler's discovery has left scientists around the world baffled, as by all logic this should not be possible, yet it clearly appears that humanity may not be the only sentient creatures living on, or in this case, under the Earth's surface."
+news.333.a:0 "The Power of the Vril..."
+
 news.100.t:0 "프랑스가 다시 전쟁에 뛰어들다!"
 news.100.desc:0 "프랑스 정부와 독일 사회주의 공화국 간의 이념적 차이가 마침내 무장분쟁점까지 치달은 듯합니다. 어제, 앙토냉 아르토가 마침내 “독일 사회주의 공화국를 지배하는 마르크스주의라는 퇴폐적 사념에 맞서 미래주의의 대의를 전진시키고, 대전쟁 당시 프랑스인들에게 저질러진 악행에 복수하겠다” 정부는 결정했음을 선언하고, 6시간 후 프랑스군이 국경 넘어 엘자스를 침입했습니다. 격화된 싸움이 다시금 유럽을 전쟁의 화염으로 끌어들이려는 가운데, 몇몇 비평가들은 또 다시 벌어질 끔찍한 살상을 세계가 기다리게 됐음에 공포 속에서 침묵했습니다. 하지만 독일은 이를 자본가 계급이 미래주의 정권에 강권을 쥐고 있단 명확한 증거이자, 세계사회주의라는 꿈에 대한 최후시련으로 보고 있습니다. 오직 시간만이 전쟁의 공포가 유럽 대륙에게 가치가 있는 것이었을지 말해줄 것입니다."
 news.100.a:0 "비극이로다!"
 
 news.101.t:0 "프랑스가 다시 전쟁에 뛰어들다"
 news.101.desc:0 "여리고 허약한 유럽의 균형은 마침내, 프랑스의 파트롱 앙토냉 아르토께서 르 솔레유에서 공포하신 대영 선전포고를 통해 땅바닥에 쳐박혔습니다. 아르토께선 다음 문장으로 연설을 시작하셨습니다.\n"동지들, 전사시인들, 강철마의 기수들, 전쟁사제들과 예술 애호가들이여!"\n아르토께선 당신의 지팡이를 내려놓곤 스카프를 고쳐매셨습니다.\n"이 중대한 순간은 영국 위에 위대한 그림을 그릴 우리의 기회이다! 우리의 폭탄으로, 우리의 자동차로 저들의 피를 페인트 삼아 칠하자. 금권적이며 반동적인 영국의 체제는 영국 문화의 불모에 맞서 억압받는 아시아인들, 아프리카인들, 유럽인들을 보호할 숙명을 우리에게 주었다! 세계의 암이며, 비창조성과 부르주아 가치의 중심지는 런던이다!"\n아르토께선 격앙된 목소리로 지팡이로 땅바닥을 내려치시며 극적이고 해소적이며, 교감적인 몸짓을 내보이셨습니다.\n"우리 부대는 태세를 갖추었다. 아세팔은 제례와 희생제를 마쳤다고 알려왔으니, 암흑의 켈트 신들께서 우리의 침공을 도우시길 희망하자!"\n그러더니 연설대를 벗어나신 아르토께선 양측에 확성기가 달린 비행기를 타곤 하늘로 날아오르며 소리치셨습니다.\n"앵글인들은 자기네 여자들을 만족시킨다는 가장 중요한 역사적 위업을 달성하는 데 실패했다! 우리가 그들을 도와야 한다!" 파트롱의 혜언이 우리의 수도 르 솔레유 전역에 메아리쳤습니다. "승리의 전쟁이 끝나고 나면, 우린 앵글 인종을 오쟁이 진 무리라는 새로운 역사적 자리에 앉힐 것이다!\n 런던으로 향하는 첫 비행폭격대는 해협 너머 미래의 부인들을 위해 우리 군의 변태적 사진들과 연애편지를 뿌릴 것이다."\n이어 장미를 뿌리며 공중으로 총을 쏘아대신 아르토께선 도시 주민들의 떠들썩한 외침과 찬사를 향해 멀리 날아가셨습니다.""
-news.101.a:0 "땅과 여자를 정복하라!"
+news.101.a:0 "비극은 시작된다."
 
+news.103.t:0 "Imperial Remnants Reclaim Japan"
+news.103.desc:0 "Japanese Imperial Loyalists based in Korea have, by some miracle, managed to not only recover from their catastrophic failures in 1936, but have reconcquered the Japanese Home Islands and reforged the Empire anew. Under the careful guidance of [IKR.GetLeader], the former colony has achieved the impossible and scored a major victory over socialist movements in the East. As the region reels from the events unfolding in Japan, questions now form as to what the new Japan has planned. Could the Imperialism of the past make a return? Or have the Japanese become humbled by their experiences?"
+news.103.a:0 "Unbelievable!"
+
+news.104.t:0 "Imperial Remnants Reclaim Japan"
+news.104.desc:0 "Japanese Imperial Loyalists based in Manchuria have, by some miracle, managed to not only recover from their catastrophic failures in 1936, but have reconcquered the Japanese Home Islands and reforged the Empire anew. Under the careful guidance of [MAN.GetLeader], the former colony has achieved the impossible and scored a major victory over socialist movements in the East. As the region reels from the events unfolding in Japan, questions now form as to what the new Japan has planned. Could the Imperialism of the past make a return? Or have the Japanese become humbled by their experiences?"
+news.104.a:0 "Unbelievable!"
