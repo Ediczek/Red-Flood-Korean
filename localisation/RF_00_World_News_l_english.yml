@@ -306,28 +306,28 @@ news.64.desc:0 "To the world’s shock and horror, another European nation has j
 news.64.a:0 "The avant-garde fire of Spain burns bright!"
 
 news.65.t:0 "Black Hundreds Unify Russia!"
-news.65.desc:0 "Troll"
-news.65.a:0 "Dear God..."
+news.65.desc:0 "Maybe God is in the side of the Black Hundreds.\nSeemingly reduced to the ashes of Harbin after the collapse of Zheltorossiya, the local chapter of the reactionary, ultra-nationalist group has somehow succeeded to reunify Zheltorossiya, and then further, taking over all of Russia in the proccess. Religious people across Russia call it an act of God, and socialists call it a nightmare - but it's undebatable that in one way or another, the Black Hundreds, now even more radical than before, have managed to retake Holy Russia for themselves."
+news.65.a:0 "God saved Russia - for no-one else could."
 
 news.66.t:0 "Solidarists Unify Russia!"
-news.66.desc:0 "Troll"
-news.66.a:0 "Dear God.."
+news.66.desc:0 "Born out of urban movements within Siberia, the Russian Union of Solidarists has managed to create a fully progressive and civic-nationalist society out of Russia, unifying from Kiev to the Pacific, and evermore going forwards technologically. Considered some of the more moderate Accelerationists, the Solidarists are seen as a rising non-aligned power, with immense manpower pools and great stability. And so, begins a new age for Russia - one of a synchronized, syncretic society."
+news.66.a:0 "A society synchronized as one."
 
 news.67.t:0 "Scythists Unify Russia!"
-news.67.desc:0 "Troll"
-news.67.a:0 "Dear God.."
+news.67.desc:0 "Despite joking comments from thousands across large cities of Russia and many other nations, it seems that one of the most unlikely outcomes of Russian Unification has occured; Pavel Gorgulov's Great Scythia experiment, which sought to rejuvenate Russian culture into a new, reformed Slavic-Scythian culture, has succeeded in creating a highly technological, ultranationalist society spanning from the northern reaches of Russia to the Pacific, if not even further. Impressively enough, Gorgulov's personality cult has held together his massive empire and will most likely do so for many generations. It is unclear what is the future of Great Scythia, but it is certainly filled with glory and blood."
+news.67.a:0 "The Scythian Suite begins."
 
 news.68.t:0 "Eurasianists Unify Russia!"
-news.68.desc:0 "Troll"
-news.68.a:0 "Dear God.."
+news.68.desc:0 "From humble beginnings as a small polity in the fringes of Russia, the Steppe-born Eurasianist state has succeeded in unifying all of it's claimed lands. Born from intellectuals in cities like Orsk and Orenburg, the new state sought to create a new perspective in Russian identity and reshape the idea of Russians as Muscovites into Eurasians. Albeit distancing itself from Accelerationist movements and Reactionaries, the new movement is authoritarian in nature, and yet somewhat liberalized. Regardless, it is now a force to be reckoned with for the future."
+news.68.a:0 "A continent united!"
 
 news.69.t:0 "Kornilov Unifies Russia!"
-news.69.desc:0 "Troll"
-news.69.a:0 "Dear God.."
+news.69.desc:0 "After a coup by the Shtabs-Kapitans in Russia and the creation of an ultra-Orthodox theocracy, it appears that experiment was destroyed by none other than a polity in the Steppes, which quickly proclaimed a comparatively moderate Russian Republic after seizing Petrograd with a long bloody battle. Despite how unlikely it all was, it seems Kornilov's ambitions to save Russia from theocracy worked."
+news.69.a:0 "A very strange Russian Republic."
 
 news.70.t:0 "Gulidov Unifies Russia!"
-news.70.desc:0 "Troll"
-news.70.a:0 "Dear God.."
+news.70.desc:0 "Russia certainly is a hotbed of strange, unlikely things - and one of them is a Romanov pretender state which formed out of the fringes of Russia, taking over Petrograd and unifying the Russian lands towards the Pacific. Despite the unlikelihood of it all, a coup taken against Lavr Kornilov's division by his own soldiers resulted in higher ambitions than anyone could have expected - and now, it seems a small, veteran division rules behind a Monarch, now with all of Russia in it's hands."
+news.70.a:0 "An unexpected twist on the expected."
 
 news.71.t:0 "Italy Thrashes the League"
 news.71.desc:0 "In an epic turnabout, the Kingdom of Italy has successfully defended itself from a joint attack by the League Solar, successfully retaking Fiume in the process. France has offered significant territories to Italy in exchange for an end to hostilities, as Germany seems poised to take advantage of a weakened France. \nMilitary and political pundits across the globe are shocked at Italian military effectiveness after a mixed performance in the Great War and the widely recognized culture of corruption and nepotism that had been integral to Italian high command. As Italy celebrates, policy makers around the world are changing their plans to accommodate the expanded role the Kingdom will doubtless play in world affairs."
@@ -340,6 +340,30 @@ news.72.a:0 "Once again, the Latins break the world."
 news.73.t:0 "Wars of Liberation have come to an End"
 news.73.desc:0 "Italian Prime Minister Francesco Saverio Nitti announced today that Italy has completed its campaigns of liberation in Europe and elsewhere, signalling the start of an era of extensive economic and political rebuilding. With democracy newly introduced or reintroduced to many nations, Italy must now successfully coordinate their redevelopment and the strengthening of new liberal institutions without comprising its ideals of self-determination and liberty. Critics have called these efforts thinly-disguised empire building, but Italian troops have been withdrawn from several key areas, an encouraging sign for many in the new “sister republics”. As Italian authorities seek to expand the scope of the Treaty of European States, the world wonders whether the Italian Federation can maintain its lofty ideals, and whether Europe can regain any of its former strength, prosperity, and prestige."
 news.73.a:0 "Liberalism was never really dead, only biding its time."
+
+news.74.t:0 "A Spiritual America"
+news.74.desc:0 "After the collapse of the United States of America through a rollercoaster of changing governments and worsening economic situation despite attempts by every President to improve the situation, it appears that America has once again been reunified. Led by one Edward Longstreet Bodin, the Spiritual Realm of America is the strangest incarnation of an unified America since it's founding. Governed by the "Bell Line" and "State Spiritualism", it appears that the fledging nation has a lot of rebuilding to do."
+news.74.a:0 "The Americans find peace."
+
+news.75.t:0 "Sinclairists Unify America!"
+news.75.desc:0 "Despite the fears of millions of Americans during the Flynn presidency that their livelihood and way of life would be destroyed, socialism became a large movement that spanned and surpassed borders of petty warlords in America. This is what allowed Upton Sinclair to reunify the United States under his ideals of an agrarian-minded, moderate and slightly religious-leaning Socialism. Rebuilding will take years, but the feeling of a better future is soon to arrive captures the heart of many Americans."
+news.75.a:0 "They have a glowing dream!"
+
+news.76.t:0 "Milyukov Unifies Russia!"
+news.76.desc:0 "Kolchak's power seemed so perfectly entrenched so many years ago, and now it all seems to have come down from enemies within and without - the Kadets, Russia's main liberal party, was exiled to Manchuria after the Russian Civil War, only to re-emerge from the chaos of several polities breaking off to become the sole authority across the entire Russian Realm. Firmly based on Republican ideals, the new Russia seeks to open up trade with Britain and other liberal nations, even if that seems evermore unlikely to continue in a world plagued by radicalism."
+news.76.a:0 "Liberalism in Russia? Strange..."
+
+news.77.t:0 "Spiridnova Unifies Russia!"
+news.77.desc:0 "Russian Anarchism was largely irrelevant for many decades - yet, with the impressive charisma of a figurehead, and the power of liberty, it seems that Russia has been unified under the black and red banners. People across Russia organize in open communes, sharing their property and living as a freedom-loving collective. Despite everything, the new society is thriving, and will do so for many decades onwards."
+news.77.a:0 "Anarchiya Mama!"
+
+news.78.t:0 "The Triumverate Unifies Russia!"
+news.78.desc:0 "While socialists across Russia imagined that soon Kolchak's power would fall and a Socialist Republic would be instated, they never expected this to happen.\nDecided as a compromise, the Triumverate was picked as the leader of the Russian Republic as a compromise between Kerenskyites and outright socialists. Lead by Fyodir Dan, a self-proclaimed Revisionist, Nikolay Avksentyev, the more democratic member, and Lev Kamenev, the new state has sought to create a new socialist society in Russia based on ignoring Bolshevik concepts and looking towards a more agrarian-minded, moderate socialism. This approach, known for being controversial, has nonetheless resulted in the total success of the Russian Republic's plans to unify from Moscow to Harbin, with little protest from any political faction. It seems Russia will seek a path of moderation, in the face of a world of radicals."
+news.78.a:0 "Even in desperate times, one can call for the land."
+
+news.79.t:0 "Kamenev Unifies Russia!"
+news.79.desc:0 "The Socialist Revolution has returned to Russia, but in a way few would expect: A perfectly Libertarian variant of Socialism has been brought to Moscow and Harbin, and with it a new age of an unified Russian state. Lev Kamenev, Chairman of the Councils, has succeeded in creating a new Russian Revolution based on the German ideals, bringing the Russian Republic out of exile from Manchuria. It is unknown what are Kamenev's future designs, but one thing is for certain - Russia is now firmly based on the ideals of Councilism."
+news.79.a:0 "Marx sheds a tear of joy."
 
 news.333.t:0 "Agartha Found"
 news.333.desc:0 "The world has been shaken today, as a German chicken farmer named Heinrich Himmler has apparently found an entrance to what he calls \"Agartha\", an underground advanced civilization living inside of Earth. It appeasrs that our planet is infact hollow, and that these Agarthans have been living here for many millenia, using a force known as Vril to develop strange abilities which can only be described as supernatrual. Himmler's discovery has left scientists around the world baffled, as by all logic this should not be possible, yet it clearly appears that humanity may not be the only sentient creatures living on, or in this case, under the Earth's surface."
