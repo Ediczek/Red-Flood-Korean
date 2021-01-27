@@ -34,6 +34,12 @@ FIN_RUS_reactionism_ADJ:0 "핀란드"
 FIN_RUS_accelerationism:0 "핀란드"
 FIN_RUS_accelerationism_DEF:0 "핀란드"
 FIN_RUS_accelerationism_ADJ:0 "핀란드"
+FIN_EGY:0 "Thirty-Fourth Dynasty"
+FIN_EGY_DEF:0 "The Black Lands"
+FIN_EGY_ADJ:0 "Fenno-Egyptian"
+FIN_EGY_FINAL:0 "Thirty-Fourth Dynasty"
+FIN_EGY_FINAL_DEF:0 "The Black and Red Lands"
+FIN_EGY_FINAL_ADJ:0 "Fenno-Egyptian"
 
 #PARTIES#
 FIN_vanguard_socialism_party:0 "SKP-P"
