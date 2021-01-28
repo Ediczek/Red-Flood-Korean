@@ -198,9 +198,9 @@ poland.18.t:0 "창공의 애첩"
 poland.18.desc:0 "단순히 여성이라는 이유로 숙련된 조종사들의 조종을 불허하는 병과 같은 국소한 사상이 세계 곳곳에서 나타나도, 폴란드에서 여성 조종사는 새로울 게 아닙니다. 진정한 실력자의 등장과 에이스의 탄생은 언제나 축하할 거리지만, 그럼에도 우리 공군 내의 기라성과 같은 조종사들이 여성인 경우는 극히 드뭅니다. 그런 가운데, 대폴스카에서 온 사려깊고도 소심한 여성 한 명이 비범한 용맹과 능력을 뽐내며 수석으로 훈련 과정을 마쳤습니다. 언제든 전투기 조종간을 잡을 준비가 된 그녀입니다."
 poland.18.a:0 "수리처럼 날아가기를."
 
-poland.19.t:0 "Use of Łacinka in Mińsk and other territories"
-poland.19.desc:0 "To further distance ourselves and our Belarusian subjects from Russian and other East Slavic languages, The Wojskowa Rada Ocalenia Narodowego, or WRON, has decided to make into law the only recognized alphabet of Belarusian to be Łacinka, the Belarusian Latin Alphabet. This alphabet was made by Belarusian intellectuals some decades ago and is a good way of making our rule be more positive for the people of Belarus, or at least appear to be. As new schools prop up with Polish as Lingua Franca, many Belarusian students also learn Łacinka together with Polish, to slowly integrate themselves further into our regime, especially the wealthier elements of society."
-poland.19.a:0 "Liubimaja Bielaruś znachodzicca pad poĺskim krylom."
+poland.19.t:0 "민스크 및 기타 영토에서의 라친카 사용"
+poland.19.desc:0 "러시아어 및 기타 동슬라브어족에게서 우리의 벨라루스 속민들을 떨어뜨려 놓고자, WRON, The Wojskowa Rada Ocalenia Narodowego는 벨라루스식 라틴 문자인 라친카만을 벨라루스어의 유일한 공인문자로 설정할 법률 제정을 결정했습니다. 수십 년 전 벨라루스 지식인들이 만든 라친카는 is a good way of making our rule be more positive for the people of Belarus, or at least appear to be. As new schools prop up with Polish as Lingua Franca, many Belarusian students also learn Łacinka together with Polish, to slowly integrate themselves further into our regime, especially the wealthier elements of society."
+poland.19.a:0 "사랑하는 벨라루스를 폴란드의 날개 안에 품으리라."
 
 #FOCUSES#
 POL_death_marshal:0 "원수의 죽음"
