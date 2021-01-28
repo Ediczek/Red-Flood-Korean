@@ -40,7 +40,7 @@ Alliance - 동맹
 
 Carnalism - 육욕주의 (쾌락주의 Hedonism, 감각주의 Sensualism 등과는 구분되도록 한다)
 
-Circle - 회, 모임, 파 (원어 그대로 읽어도 좋다 (예: Cercle Artaud 세르클 아르토))
+Circle - 회, 모임, 파 (원어 그대로 읽어도 좋다 (예: Cercle Artaud 세르클 아르토)) - ¡ 추후 변경 예정
 
 Commissar - 위원
 
