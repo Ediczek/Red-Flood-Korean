@@ -1,5 +1,5 @@
 ﻿l_english:
-ASY_DESC_MENU:0 "Created by retreating Caucasus Army forces of the Russian Empire, Assyria is a state dominated by Russians, Assyrians, and other Christians, while non-Christian demographics have practically little representation. Despite it's weakness as a structure of state, Assyria is peaceful, and developing well. Its Patriarch, Shimun XXI Eshai, protects his people's nationhood that they were taken away from by Ottoman forces, and hopefully it will stay that way."
+ASY_DESC_MENU:0 "러시아 제국의 퇴각한 캅카스군이 설립한 아시리아는 러시아인, 아시리아인, 기타 기독교인들이 지배하는 국가이자, 비기독교인 인구에겐 실질적인 정치대표권이 주어지지 않는 곳입니다. 국가구조로서의 나약함에도 아시리아는 평화롭고 상당히 발전된 편입니다. 아시리아의 총대주교 쉬문 21세 에샤이는 오스만군이 앗아갔던 아시리안들의 민족성을 지켜내고 있으며, 앞으로도 그렇길 바랍니다."
 #PARTIES#
 ASY_vanguard_socialism_party:0 "GSA"
 ASY_libertarian_marxism_party:0 "GSA"
@@ -56,9 +56,9 @@ ASY_assyrian_repatriation:0 "아시리아인 송환"
 ASY_dominance_of_the_assyrian_church_of_the_east_5:0 "아시리아 동방교회의 교세"
 ASY_dominance_of_the_assyrian_church_of_the_east_5_desc:0 "아시리아 동방교회의 총대주교들은 수 세기 동안 우리 사람들을 이끌어왔습니다. 하지만 어린 우리 국가에서 이들이 갖는 지도적 역할은 다른 종교의 신봉자들과 공화국 선언 지지자들에게 불만요소가 되었습니다."
 #DECISIONS (1.5 Update)#
-ASY_return_to_nineveh:0 "Return to Nineveh"
-ASY_retake_mosul:0 "Retake Mosul"
-ASY_retake_erbil:0 "Retake Erbil"
+ASY_return_to_nineveh:0 "느네베로의 귀환"
+ASY_retake_mosul:0 "마우실 탈환"
+ASY_retake_erbil:0 "아르벨라 탈환"
 #FOCUSES#
 
 ASY_administration_of_liberated_territories:0 "해방지 행정"
@@ -112,7 +112,7 @@ ASY_gsa_wins_desc:0 "The results of the election have confirmed a victory for th
 ASY_help_the_poor:0 "빈민 지원"
 ASY_help_the_poor_desc:0 "As it was said by the Patriarchs of old, from Basil of Caesarea to even Jesus Christ. The poor and the poverty stricken are those that must be assisted by us if we are to set an example for all others to march on into the divine Kingdom of God.  Those who are hungry we shall give me food to eat. Those who are thirsty, we shall give drink. To those who are strangers, we shall take in. To those who are naked, we shall clothe. Those who are sick, we shall visit. And those who are in prison, we shall come to."
 ASY_his_holiness_is_dead:0 "성하의 승하"
-ASY_his_holiness_is_dead_desc:0 "Tragedy has struck our beloved nation of Assyria today as our beloved holiness Benyamen XIX Shimun has unfortunately passed away and a council of both parishes, priests and politicians have got together and announced a state of mourning for the nation."
+ASY_his_holiness_is_dead_desc:0 "사랑하는 벤야민 19세 쉬문 성하의 안타까운 승하라는 비극이 우리 아시리아 민족에게 닥쳤습니다. 교구, 사제, 정치인들로 구성된 평의회는 전국적 애도기를 선포했습니다."
 ASY_holy_rule_is_secured:0 "성치의 확보"
 ASY_holy_rule_is_secured_desc:0 "Under the leadership of our dear Patriarch Shimun, Assyria has come far. Our situation now is far more advanced than what it used to be. Political stability has returned even if we did need to get our hands a little dirty, the issue of Kurdish separatism has been largely solved and Assyria seems set to march onto a new and prosperous future under the watch of our Lord God."
 ASY_import_artillery:0 "대포 수입"
@@ -120,7 +120,7 @@ ASY_import_artillery_desc:0 "Artillery is far harder to make than mere guns, and
 ASY_incorporate_tribal_militias:0 "부족민병대 흡수"
 ASY_incorporate_tribal_militias_desc:0 "A not insignificant number of men that could be in the armies are instead part of Tribal militias. It would be unwise however to take away these men and force them into our ranks, a revolt is the last thing we need. So we shall instead opt a more moderate route. We shall negotiate with tribal leaders. In exchange for prestige and wealth, their marauding bands shall be incorporated into our armed forces and trained to be a capable and professional army."
 ASY_invest_in_agriculture:0 "농업 투자"
-ASY_invest_in_agriculture_desc:0 "The land of Assyria is not the best land to grow crops. Certainly a far cry from the fertile soil of the Tigris and the Euphrates that we used to control. One shudders to imagine how desperate and devastating the situation would surely become if the rain did not come for too long. To counter this dreadful hypothetical, we shall sink some money into the agrarian population of Assyria."
+ASY_invest_in_agriculture_desc:0 "아시리아 땅은 작물을 키우기에 좋은 곳이 아닙니다. Certainly a far cry from the fertile soil of the Tigris and the Euphrates that we used to control. One shudders to imagine how desperate and devastating the situation would surely become if the rain did not come for too long. To counter this dreadful hypothetical, we shall sink some money into the agrarian population of Assyria."
 ASY_invite_the_russian_capitalists:0 "러시아 자본가 초청"
 ASY_invite_the_russian_capitalists_desc:0 "Our country is in dire need of foreign investments, and it would certainly seem that Russian businessmen are the men for the job. Most have grown concerned with the situation in Russia not thinking it to be a particularly profitable region for the time being due to the turbulent politics of the country. But we shall show them that in Assyria, there is nothing but opportunity!"
 ASY_liberate_the_homeland:0 "고국 해방"
@@ -144,7 +144,7 @@ ASY_proclaim_equality_of_all_citizens_desc:0 "It’d be a lie to say that Assyri
 ASY_progressive_taxation:0 "진보적 세제"
 ASY_progressive_taxation_desc:0 "Within our country, 1% of the population controls as much as 80% of its wealth. The vast inequality corrupting our beautiful state has been somewhat mitigated by our moves to socialise the Assyrian land. But this can only go so far. These oligarchs will still control great amounts of wealth even if the land is owned by the people. Thus to counter their oppressive hold on society we shall establish new tax rates. The poorer the man, the less he shall pay in taxes and the richer the man the more he shall give to society, instead of growing fat off of the labour of those beneath him."
 ASY_promote_conversion_of_muslims:0 "무슬림의 개종 장려"
-ASY_promote_conversion_of_muslims_desc:0 "As it was said in the Holy Bible: “Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”"
+ASY_promote_conversion_of_muslims_desc:0 "성경에선 말합니다. “Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”"
 ASY_put_end_to_the_kavkazs_madness:0 "캅카스의 광기 종결"
 ASY_put_end_to_the_kavkazs_madness_desc:0 "The greatest military threat was without a doubt the Armenian state. But ideologically speaking, the madness that rules in the Kavkaz society is far more twisted and dangerous to us. Luckily, we can be happy in knowing that they will likely not be able to put up much of a fight. But we should not let this fact get the better of us. They have the mountains to rely on after all. Thus, let us see to it that we remain vigilant, and reclaim our rightful territory."
 ASY_reorganize_the_caucasian_voluntary_army:0 "캅카스 의용군 개편"
