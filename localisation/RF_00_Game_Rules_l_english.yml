@@ -101,7 +101,7 @@ RULE_OPTION_UKR_DICTATORSHIP:0 "£RF_game_rule_flag_UKR2_despotism  영구군사
 RULE_OPTION_UKR_DICTATORSHIP_DESC:0 "스코로파드스키가 의회와 군사평의회를 모두 해체하고 헤트만에 오릅니다."
 RULE_OPTION_UKR_REPUBLIC:0 "£RF_game_rule_flag_UKR  권위공화정"
 RULE_OPTION_UKR_REPUBLIC_DESC:0 "미하일로 오멜랴노비치-파블렌코가 우크리아나를 민주정 없는 공화국으로 바꿉니다."
-RULE_OPTION_UKR_MONARCHY:0 "£RF_game_rule_flag_UKR2_despotism  RF_game_rule_flag_UKR3_despotism  우크라이나의 군주정"
+RULE_OPTION_UKR_MONARCHY:0 "RF_game_rule_flag_UKR3_despotism  우크라이나의 군주정"
 RULE_OPTION_UKR_MONARCHY_DESC:0 "이반 오멜랴노비치-파블렌코가 공화정을 폐하고 군주정을 선포합니다."
 RULE_OPTION_UKR_COSSACKS:0 "£RF_game_rule_flag_UKR  자유 카자크들"
 RULE_OPTION_UKR_COSSACKS_DESC:0 "이반 폴타바베츠-오스트랴니치아와 그의 반동 카자크들이 집권합니다."
