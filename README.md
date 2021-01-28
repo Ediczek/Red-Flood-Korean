@@ -37,6 +37,10 @@ Agreement - 협정 (기타 외교 용어들은 http://www.mofa.go.kr/www/wpge/m_
 
 Alliance - 동맹
 
+Carnalism - 육욕주의 (쾌락주의 Hedonism, 감각주의 Sensualism 등과는 구분되도록 한다)
+
+Circle - 회, 모임, 파 (원어 그대로 읽어도 좋다 (예: Cercle Artaud 세르클 아르토))
+
 Commissar - 위원
 
 └ Political Commissar - 정치위원
@@ -65,9 +69,11 @@ Hegemony - 패권
 
 └ Hegemon - 패자(覇者)
 
-▶ Nation - 민족, 국가, 국민, 전국 (맥락에 따라 다르게 할 수 있으나, 대체로 "민족"을 쓸 것을 권한다. 특히, "국민"이 국가에 매인 것과 달리 nation이 반드시 그렇진 않다는 점에서 무조건 "국민"으로 쓰는 것은 지양한다)
-
 League - 연맹 (태양연맹(Solar League)의 예시를 참고하라)
+
+Model - 모델, 모형, -형
+
+▶ Nation - 민족, 국가, 국민, 전국 (맥락에 따라 다르게 할 수 있으나, 대체로 "민족"을 쓸 것을 권한다. 특히, "국민"이 국가에 매인 것과 달리 nation이 반드시 그렇진 않다는 점에서 무조건 "국민"으로 쓰는 것은 지양한다)
 
 People's Republic/ Popular Republic - 인민공화국
 
