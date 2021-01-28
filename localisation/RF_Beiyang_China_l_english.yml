@@ -48,13 +48,13 @@ BYJ_SETTING_SUN_DESC:0 "북양 정부는 중국의 주도 세력으로, 수십 �
 
 #EVENTS#
 byj.1.t:0 "만철의 붕괴"
-byj.1.d:0 "The Japanese have paid dearly for their arrogance, their empire is now collapsing around them, the corporate interests in Mantetsu are running scared or preparing their private armies for a stand in the name of the Emperor. We can easily wipe them aside and reclaim a portion of Southern Manchuria for ourselves. One piece at a time we will reclaim all of China."
-byj.1.a:0 "We should take advantage of the situation!"
+byj.1.d:0 "일본은 자신들의 오만에 막대한 값을 치르게 되었습니다. 제국은 그들 주변에서 무너져가는 한편, 만철의 기업들은 겁을 집어먹거나 천황의 이름으로 맞설 사병을 준비하는 중입니다. 놈들 따위야 쉽게 쓸어버리고 남만주를 수복하는 건 일도 아닙니다. 그리고 한 번에 하나씩, 우리는 중국 전역을 수복할 것입니다."
+byj.1.a:0 "상황을 우리의 이점으로 이용해야 한다!"
 
 byj.2.t:0 "반란"
-byj.2.d:0 "Yan's failures have brought a reckoning upon the Shanxi Clique, the various Northern factions are now in open revolt against the perceived weakness of Taiyuan and its leaders. Yan Xishan may be gone but Fu Xuiyang is not popular enough to be the man to peacefully unify the government."
+byj.2.d:0 "옌시샨의 실패는 산서 군벌에게 심판이 되어 던져졌습니다. 타이위안과 그 지도층의 나약함을 알게 된 다양한 북방 파벌들이 이제 대놓고 반란을 일으켰습니다. 옌시샨이 사라졌다지만 평화로이 정부를 통합할 만큼 푸수이양의 인기가 높은 것도 아닙니다."
 byj.2.a:0 "옌시샨의 권세도 이제 끝났다, 제거해라."
 byj.2.b:0 "황사회에 가담한다."
-byj.2.c:0 "국민국에 가담한다."
+byj.2.c:0 "국민군에 가담한다."
 
 #FOCUSES#
