@@ -525,7 +525,7 @@ austria.66.desc:0 ""
 austria.66.a:0 "우리가 알아서 해야 한다."
 
 #IDEAS#
-AUS_emergency_conscription:0 "긴급 징집"
+AUS_emergency_conscription:0 "비상징집"
 AUS_unrelenting_progress:0 "끊임없는 진보"
 AUS_neutrallity:0 "중립의 선포"
 AUS_stable_once_more:0 "다시 한 번 안정을"
