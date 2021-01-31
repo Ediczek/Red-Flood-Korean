@@ -99,8 +99,8 @@ SIB_synchronization_economy1:0 "시베리아 경제 일체화"
 SIB_synchronization_economy2:0 "시베리아 경제 일체화"
 SIB_SVSNK:0 "Sibirskiy Verkhovnyi Soviet Narodnogo Khozyaistva"
 SIB_solidarism_idea:0 "러시아 연대주의"
-SIB_russian_rebirth_idea:0 "Russian Rebirth"
-SIB_russian_rebirth_idea1:0 "Russian Rebirth"
+SIB_russian_rebirth_idea:0 "러시아의 소생"
+SIB_russian_rebirth_idea1:0 "러시아의 소생"
 
 #MINISTERS#
 SIB_Vladimir_Krutovsky_hog:0 "Vladimir Krutovsky"
@@ -152,9 +152,9 @@ SIB_UKRAINE_CORES_TOOLTIP:0 "We will set all of §Y[UKR.GetNameDef]§! as our co
 
 ### DECISIONS ###
 # Solidarists #
-SIB_reclaiming_the_homeland:0 "Reclaiming the Homeland"
-SIB_burn_false_rome:0 "Burn the False Rome"
-SIB_move_to_kiev:0 "Move the seat of power to Kiev"
+SIB_reclaiming_the_homeland:0 "고국 수복"
+SIB_burn_false_rome:0 "거짓된 로마 소거"
+SIB_move_to_kiev:0 "권좌를 키예프로 이동"
 
 # Autonomists #
 SIB_european_union:0 "European Union"
@@ -180,9 +180,9 @@ SIB_collective_defence_charter:0 "Sign the Collective Defence Charter"
 SIB_sign_free_trade_zone_charter:0 "Sign the Free Trade Zone Charter"
 
 ### FOCUSES ###
-SIB_siberian_troubles:0 "Siberian Troubles"
+SIB_siberian_troubles:0 "시베리아의 동란"
 SIB_siberian_troubles_desc:0 "One may say for sure - Russia can’t sort out its own mess. Whatever stability Siberia projects to the outside world is an illusion, and the aftermath of the November Strike of 1935 is evident."
-SIB_rampant_crime:0 "Rampant Crime"
+SIB_rampant_crime:0 "날뛰는 범죄자들"
 SIB_rampant_crime_desc:0 "How could one claim that Siberia is “stable”, when there’s so much crime committed on our streets? Our reputation as Russia's giant prison camp doesn’t help it, as those inmates who are released or who escape often end up returning to organized crime."
 SIB_separatist_agitators:0 "분리주의 선동가들"
 SIB_separatist_agitators_desc:0 "Moderates in Siberian Duma claim to have nothing to do with various radicals preaching separation from Russia in small towns and distant villages, but facts point to contrary - all democratic forces in our general-governorate serve a different cause from ours."
@@ -386,15 +386,15 @@ SIB_solidarist_coup_desc:0 "In the wake of this stupid civil war, it seems that 
 SIB_return_to_normalcy:0 "Return to Normalcy"
 SIB_return_to_normalcy_desc:0 "Once again, all is well. No need to panic milord, Siberia is in normal condition."
 
-SIB_for_the_republic:0 "For the Republic, for Socialism!"
+SIB_for_the_republic:0 "공화국을 위해, 사회주의를 위해!"
 SIB_for_the_republic_desc:0 "For the Republic! For Socialism! For Siberia! Wait, I mean, we can keep our autonomy once we re...okay, I guess that part of our agenda needs to be kept hidden."
 SIB_revolt_of_the_masses:0 "Revolt of the Masses"
 SIB_revolt_of_the_masses_desc:0 "Siberian people are fed up. Rise up Siberians, for Reactionaries won’t purge themselves if we don’t do it ourselves!"
 SIB_seize_arms:0 "Seize Arms from Old Regime's lackeys"
 SIB_seize_arms_desc:0 "Every Cossack, every Policeman, every Noble shall have their rifles and pistols seized from them and given to the People’s Army. We won’t want a counter-revolutionary insurrection behind our frontlines, won’t we?"
-SIB_wartime_reforms:0 "Wartime Reforms"
+SIB_wartime_reforms:0 "전시개혁"
 SIB_wartime_reforms_desc:0 "Some of our program’s points can be enacted right during the war. It doesn’t matter whether it will harm our efforts - for those efforts would be rewarded in the long term."
-SIB_arm_the_peasantry:0 "Arm the Peasantry"
+SIB_arm_the_peasantry:0 "향민층 무장"
 SIB_arm_the_peasantry_desc:0 "Peasants are our natural allies. We shall arm our army and guarantee a citizens’ watch in frontline towns."
 SIB_history_is_on_our_side:0 "History is on Our Side"
 SIB_history_is_on_our_side_desc:0 "It doesn’t matter how hard our enemies resist, for history will always be in our favor."
@@ -501,9 +501,9 @@ SIB_population_growth:0 "Internal Migration from Central Russia"
 SIB_population_growth_desc:0 "Since the beginning of the 20th Century, Siberia has been a destination for internal migration in Russia, voluntary or otherwise. Given our robust food supply and abundant land, the chaos of the Summer Coup War and the instability and political changes which followed have seen this trend escalate."
 
 #FACTIONS#
-EUROPEAN_UNION:0 "European Union"
-RUSSIAN_NATIONALFRONT:0 "Russian National Front"
-RUSSIAN_PATRIOTICFRONT:0 "Russian Patriotic Front"
+EUROPEAN_UNION:0 "유럽 연합"
+RUSSIAN_NATIONALFRONT:0 "러시아 민족전선"
+RUSSIAN_PATRIOTICFRONT:0 "러시아 애국전선"
 
 #EVENTS#
 sib.1.title:0 "Grishin-Almazov’s Breakdown"
