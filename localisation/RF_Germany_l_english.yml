@@ -284,16 +284,16 @@ GER_united_worship_desc:0 ""
 
 GER_grossdeutschland:0 "대독일"
 GER_grossdeutschland_desc:0 ""
-GER_local_beliefs:0 "토착 종교 수용"
+GER_local_beliefs:0 "토착종교 수용"
 
 GER_german_support:0 "독일의 지원"
-GER_german_support_desc:0 "독일의 스페인 지원"
+GER_german_support_desc:0 "독일의 에스파냐 지원"
 
 GER_anti_futurist_aktion:0 "반미래주의 행동"
 GER_anti_futurist_aktion_desc:0 "반미래주의 행동이라고? 테러리즘이겠지!"
 
 GER_military_mission:0 "독일 군사고문단"
-GER_military_mission_desc:0 "Germany has sent us a small attache of military experts."
+GER_military_mission_desc:0 "독일이 우리에게 소규모 군사전문가 고문단을 보냈습니다."
 
 #EVENTS#
 germany.1.t:0 "레비의 결정"
