@@ -106,3 +106,12 @@ MNS_invite_japanese_scientists:0 "Invite Japanese Scientists"
 MNS_invite_japanese_scientists_desc:0 ""
 MNS_manchu_rule_undisputed:0 "Manchu Rule Undisputed"
 MNS_manchu_rule_undisputed_desc:0 ""
+
+#IDEAS
+
+#MINISTERS
+MNS_zaitao_hog:0 "Zaitao"
+MNS_zaitao_for:0 "Zaitao"
+MNS_aisin_gioro_xiqia_eco:0 "Aisin-Gioro Xiqia"
+MNS_yinchang_sec:0 "Yinchang"
+MNS_zaixun_int:0 "Zaixun"
