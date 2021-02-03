@@ -1,42 +1,100 @@
 ﻿l_english:
  
 #COUNTRY NAME#
+FIN_revolutionary_anarchism:0 "핀란드 연합코뮌"
+FIN_revolutionary_anarchism_DEF:0 "핀란드 연합코뮌"
+FIN_revolutionary_anarchism_ADJ:0 "핀란드"
+
+FIN_vanguard_socialism:0 "핀란드 사회주의 노동자 공화국"
+FIN_vanguard_socialism_DEF:0 "핀란드 사회주의 노동자 공화국"
+FIN_vanguard_socialism_ADJ:0 "핀란드"
+
+FIN_libertarian_marxism:0 "핀란드 사회주의 노동자 공화국"
+FIN_libertarian_marxism_DEF:0 "핀란드 사회주의 노동자 공화국"
+FIN_libertarian_marxism_ADJ:0 "핀란드"
+
+FIN_revisionist_socialism:0 "핀란드 사회주의 노동자 공화국"
+FIN_revisionist_socialism_DEF:0 "핀란드 사회주의 노동자 공화국"
+FIN_revisionist_socialism_ADJ:0 "핀란드"
+
+FIN_social_democratism:0 "핀란드 공화국"
+FIN_social_democratism_DEF:0 "핀란드 공화국"
+FIN_social_democratism_ADJ:0 "핀란드"
+
+FIN_liberalism:0 "핀란드 공화국"
+FIN_liberalism_DEF:0 "핀란드 공화국"
+FIN_liberalism_ADJ:0 "핀란드"
+
+FIN_conservatism:0 "핀란드 공화국"
+FIN_conservatism_DEF:0 "핀란드 공화국"
+FIN_conservatism_ADJ:0 "핀란드"
+
+FIN_right_authoritarianism:0 "핀란드 공화국"
+FIN_right_authoritarianism_DEF:0 "핀란드 공화국"
+FIN_right_authoritarianism_ADJ:0 "핀란드"
+
+FIN_despotism:0 "핀란드 왕국"
+FIN_despotism_DEF:0 "핀란드 왕국"
+FIN_despotism_ADJ:0 "핀란드"
+
+FIN_reactionism:0 "핀란드 민족국
+FIN_reactionism_DEF:0 "핀란드 민족국"
+FIN_reactionism_ADJ:0 "핀란드"
+
+FIN_accelerationism:0 "제34왕조"
+FIN_accelerationism_DEF:0 "흑지와 홍지의 제34왕조"
+FIN_accelerationism_ADJ:0 "핀-이집트"
+
+
+
+FIN_RUS_revolutionary_anarchism:0 "핀란드 연합코뮌"
+FIN_RUS_revolutionary_anarchism_DEF:0 "핀란드 연합코뮌"
+FIN_RUS_revolutionary_anarchism_ADJ:0 "핀란드"
+
 FIN_RUS_vanguard_socialism:0 "핀란드 사회주의 노동자 공화국"
 FIN_RUS_vanguard_socialism_DEF:0 "핀란드 사회주의 노동자 공화국"
 FIN_RUS_vanguard_socialism_ADJ:0 "핀란드"
+
 FIN_RUS_libertarian_marxism:0 "핀란드 사회주의 노동자 공화국"
 FIN_RUS_libertarian_marxism_DEF:0 "핀란드 사회주의 노동자 공화국"
 FIN_RUS_libertarian_marxism_ADJ:0 "핀란드"
-FIN_RUS_revolutionary_anarchism:0 "핀란드 자유령"
-FIN_RUS_revolutionary_anarchism_DEF:0 "핀란드 자유령"
-FIN_RUS_revolutionary_anarchism_ADJ:0 "핀란드"
+
 FIN_RUS_revisionist_socialism:0 "핀란드 사회주의 노동자 공화국"
 FIN_RUS_revisionist_socialism_DEF:0 "핀란드 사회주의 노동자 공화국"
 FIN_RUS_revisionist_socialism_ADJ:0 "핀란드"
+
 FIN_RUS_social_democratism:0 "핀란드 공화국"
 FIN_RUS_social_democratism_DEF:0 "핀란드 공화국"
 FIN_RUS_social_democratism_ADJ:0 "핀란드"
+
 FIN_RUS_liberalism:0 "핀란드 공화국"
 FIN_RUS_liberalism_DEF:0 "핀란드 공화국"
 FIN_RUS_liberalism_ADJ:0 "핀란드"
+
 FIN_RUS_conservatism:0 "핀란드 공화국"
 FIN_RUS_conservatism_DEF:0 "핀란드 공화국"
 FIN_RUS_conservatism_ADJ:0 "핀란드"
+
 FIN_RUS_right_authoritarianism:0 "핀란드 왕국"
 FIN_RUS_right_authoritarianism_DEF:0 "핀란드 왕국"
 FIN_RUS_right_authoritarianism_ADJ:0 "핀란드"
+
 FIN_RUS_despotism:0 "핀란드 대공국"
 FIN_RUS_despotism_DEF:0 "핀란드 대공국"
 FIN_RUS_despotism_ADJ:0 "핀란드"
+
 FIN_RUS_reactionism:0 "핀란드국"
 FIN_RUS_reactionism_DEF:0 "핀란드국"
 FIN_RUS_reactionism_ADJ:0 "핀란드"
+
 FIN_RUS_accelerationism:0 "핀란드"
 FIN_RUS_accelerationism_DEF:0 "핀란드"
 FIN_RUS_accelerationism_ADJ:0 "핀란드"
+
 FIN_EGY:0 "제34왕조"
 FIN_EGY_DEF:0 "흑지"
 FIN_EGY_ADJ:0 "핀-이집트"
+
 FIN_EGY_FINAL:0 "제34왕조"
 FIN_EGY_FINAL_DEF:0 "흑홍지"
 FIN_EGY_FINAL_ADJ:0 "핀-이집트"
@@ -70,13 +128,13 @@ FIN_despotism_party_monarchy_long:0 "민족연정당 - 군주주의파"
 #Kansallinen Kokoomus - Kuningasmieliset would be name for Despotic party once Seyn is executed
 
 #TOOLTIPS#
-FIN_DESC_MENU:0 "대전쟁이 끝날 무렵, 러시아에서 왕당파와 공화파 간의 내전이 일어났습니다. 제국의 자치 공국인 핀란드도 내전으로부터 안전하지 않았습니다. 사회주의 독립운동가들이 카렐리아 늪지에서 들고일어나 친러파 세력과 전투를 벌였습니다. 수년 간의 전쟁으로 많은 사람들이 죽어나간 끝에 공산주의 운동은 진압되었고 핀란드는 러시아 제국의 법적 영토로 남았습니다. 그러나 핀란드 귀족층을 제외하면 러시아의 속국으로 남는 것을 바라는 이는 극히 드물며, 핀란드인들이 목소리를 낼지는 오직 시간만이 알려줄 것입니다.."
+FIN_DESC_MENU:0 "대전쟁이 끝날 무렵, 러시아는 군주정에 충성하는 자들과 공화파 간의 내전 속으로 추락했습니다. 카랼라 늪지에서 빨갱이들과 독립주의 세력이 친러시아 충성파에 맞서 봉기하면서, 제국의 자치 공국인 핀란드도 무사하진 못 했습니다. 수년간의 전쟁으로 많은 사람들이 죽어나간 끝에 공산주의 운동은 진압되고 핀란드는 러시아 제국의 실질 영토로 남았습니다. 하지만 핀란드 귀족층을 제외하면 러시아의 속국으로 남는 것을 바라는 이는 극히 드뭅니다. 핀란드인들이 목소리를 낼지는 오직 시간만이 알려줄 것입니다."
 
-FIN_CARVE_TOOLTIP:0 "다음에 대한 영유권 주장: §Y레벨§! , §Y유리예프§! , §Y루가§!를 포함한 §Y17§!개의 주.\n§Y러시아어 분쇄§! 디시전이 해제됩니다."
+FIN_CARVE_TOOLTIP:0 "다음에 대한 영유권 주장: §Y레벨§! , §Y유리예프§! , §Y루가§! 및 기타 §Y14§!개 주.\n§Y러시아어 분쇄§! 디시전이 해제됩니다."
 
-ASPA_EGYPT_TOOLTIP:0 "핀-이집트의 §R적색 지대§!와 §b흑색 지대§!의 §B파라오§!임을 선포하여 진정한 제34왕조가 시작될 것입니다."
+ASPA_EGYPT_TOOLTIP:0 "핀-이집트의 §R홍지§!와 §b흑지§!의 §B파라오§!임을 선포하여 진정한 제34왕조가 시작될 것입니다."
 
-FIN_LANDS_SET_TOOLTIP:0 "다음에 대한 영유권 주장: §Y레벨§! , §Y유리예프§! , §Y루가§!를 포함한 §Y17§!개의 주.\n§Y모스크바 떼거리 거세§! 디시전이 해제됩니다."
+FIN_LANDS_SET_TOOLTIP:0 "다음에 대한 영유권 주장: §Y레벨§! , §Y유리예프§! , §Y루가§! 및 기타 §Y14§!개 주.\n§Y모스크바 떼거리 거세§! 디시전이 해제됩니다."
 
 #DECISIONS#
 FIN_destroyrussianlanguage:0 "러시아어 분쇄"
@@ -86,7 +144,7 @@ FIN_removerussiansfromkarelia:0 "카랼라 러시아인 추방"
 FIN_endrussianinarkangelin:0 "아르캉엘리 내 러시아어 분쇄"
 FIN_endrussianinurals:0 "우랄 내 러시아어 분쇄"
 FIN_integrateestonia:0 "에스토니아인 흡수"
-FIN_massmigrationtopetrograd:0 "Spay Petrograd"
+FIN_massmigrationtopetrograd:0 "페트로그라드 중성화"
 FIN_cleanseallkarelia:0 "카랼라 전역 청소"
 FIN_sterilizerussiansinarkhangelskandvologda:0 "아르한겔스크 및 볼로그다로의 대규모 이주"
 FIN_colonisationofurals:0 "우랄 식민화"
@@ -97,9 +155,9 @@ FIN_englishallies:0 "동맹으로 영국을 택했습니다"
 FIN_prussianallies:0 "동맹으로 프로이센을 택했습니다"
 
 #LEADER DESCRITIONS#
-POLITICS_ALBERT_SEYN_DESC:0 "Franz Albert Seyn is not a particularly proud man, but nor is he a man who has nothing to be proud of. Governor-General of Finland since 1909, Seyn has done a better job of governing Finland than any Russian authorities expected, or cared for that matter. However, the respect of his superiors has come at the cost of the support of Finland's people. Though some might say that a Russian warlord should care little for his subjects, Seyn knows that, should his clique fall, the Russian army will likely not see Finland as worth saving. Therefore, if he does not consolidate support soon, he will be at the mercy of whatever political force decides to replace him."
+POLITICS_ALBERT_SEYN_DESC:0 "프란츠 알베르트 지인은 특별히 자긍심이 높은 이가 아니지만, 그렇다고 자긍심을 품을 거리가 없는 이도 아닙니다. 1909년 이래 핀란드 총독으로 재직한 지인은 어느 러시아 당국보다도 핀란드 통치에서, 혹은 사안에 관심을 기울이는 데 더 나은 성과를 보였습니다. 하지만, 지인을 향한 상부의 존중은 핀란드인들의 지지와 맞바꾼 대가였습니다. 일부에선 지인이 신민을 향한 관심을 줄여야 한다 말하겠지만, 지인 군벌이 무너지고 나면 러시아군이 핀란드를 구할 가치가 없다 판단할 것임은 지인도 알고 있습니다. 서둘러 지지세를 굳히지지 않는다면, 지인의 운명은 그의 자리를 대체할 정치세력의 자비에 달리게 될 것입니다."
 POLITICS_KEKKONEN_DESC:0 "While many have heard this man's name and the innumerable tales surrounding it, few can comprehend the truths behind the man. Sometimes, when he sits alone on the balcony of the Supreme Leader's Palace, he feels as though he is the only one who knows everything about himself. And even then, Kekkonen's trust in himself falters. After all, what's left for a man after everyone around him has fallen into madness, and begun worshipping him as a god? Is it more sane to call out, to try and stop all of this? Or is it better to simply embrace the madness?"
-POLITICSILMARI_DESC:0 "Despite being entirely German, Ilmari I now finds himself King of Finland. Thrust into power in a strange land, this Ilmari knows that his situation is as strange as it is brimming with opportunity. After all, a strong German monarchy has not existed in Europe since the Vaterland fell to godless councilism. Even Ilmari's noble allies in Prussia have only managed to establish a military junta, lacking a proper heir to the throne. But now, there is a German who stands strong above his Kingdom. And this German just may have the stones to reclaim Berlin."
+POLITICSILMARI_DESC:0 "평생을 독일인으로 살아왔음에도, 일마리는 이제 핀란드 국왕이 된 자신을 마주하게 되었습니다. 낯선 땅의 권좌로 밀어넣어진 일마리는, 그득한 기획만큼이나 상황이 기묘함을 알고 있습니다. 어쨌거나, 강력한 독일식 군주정 같은 건 조국이 불경한 평의회주의에게 쓰러진 이래 존재하지 않았으니 말입니다. 프로이센에 있는 일마리의 고귀한 동맹조차 적자를 권좌에 올리지 못하고 군사평의회를 설립하는 데 그쳤을 정도였습니다. 그러나 이제, 자신의 왕국 위에 우뚝 선 독일인이 있습니다. 그리고 이 독일인은 베를린을 수복할 반석이 될지도 모릅니다."
 POLITICS_KARL_WILKAMA_DESC:0 "With Seyn deposed, the position of Finnish leadership has fallen temporarily in Finnish General Karl Fredrik Wilkama. Interestingly, though Finland does not yet have an officially established state, this Mark's the first time in nearly 700 years when Finland was entirely independent. Thusly, Wilkama has been given the unofficial title "Father of Finland" by the press and general populace."
 POLITICS_ASPA_DESC:0 "Depending on who you ask, Sigurd Wettenhovi-Aspa is either a power-mad dictator, a visionary with ambitious plans for Finland, or just plain crazy. Aspa is obsessed with the idea that Finland and its people were descended from Ancient Egyptians, and he seeks to reconnect Finland with its ancient legacy. Meanwhile, the world desperately clings to their disbelief in his theories, all the while his state's legitimacy and continued existence forces humanity to ask whether common sense truly governs the truth at this point. Hell, even if he's wrong, isn't that reality more exciting?"
 POLITICS_FURUHJELM_DESC:0 "Ragnar Furuhjelm never imagined he would ever lead Finland, much less having the honor of ushering in its independence. Despite having served Russia, Furuhjelm has always had Finnish sympathies, and a desire to see his people out from under the Russian boot. Now that he has been thrust into power, Furuhjelm looks forward to the day when he can resign and serve a truly free Finland."
@@ -230,12 +288,12 @@ FIN_independent_reactionism:0 "핀란드 민족국"
 FIN_independent_reactionism_DEF:0 "핀란드 민족국"
 FIN_independent_reactionism_ADJ:0 "핀란드"
 
-FIN_independent_accelerationism:0 "제 34왕조"
-FIN_independent_accelerationism_DEF:0 "제 34왕조"
+FIN_independent_accelerationism:0 "제34왕조"
+FIN_independent_accelerationism_DEF:0 "제34왕조"
 FIN_independent_accelerationism_ADJ:0 "핀-이집트"
 
 #LEADER TRAITS#
-FIN_pharaoh:0 "제 34왕조의 파라오"
+FIN_pharaoh:0 "제34왕조의 파라오"
 FIN_paallikko:0 "우리의 위대한 지도자 케코넨"
 
 #DECISIONS (1.5 Update)#
