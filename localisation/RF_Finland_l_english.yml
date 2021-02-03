@@ -34,10 +34,10 @@ FIN_RUS_reactionism_ADJ:0 "핀란드"
 FIN_RUS_accelerationism:0 "핀란드"
 FIN_RUS_accelerationism_DEF:0 "핀란드"
 FIN_RUS_accelerationism_ADJ:0 "핀란드"
-FIN_EGY:0 "제 34왕조"
+FIN_EGY:0 "제34왕조"
 FIN_EGY_DEF:0 "흑지"
 FIN_EGY_ADJ:0 "핀-이집트"
-FIN_EGY_FINAL:0 "제 34왕조"
+FIN_EGY_FINAL:0 "제34왕조"
 FIN_EGY_FINAL_DEF:0 "흑홍지"
 FIN_EGY_FINAL_ADJ:0 "핀-이집트"
 
@@ -70,29 +70,29 @@ FIN_despotism_party_monarchy_long:0 "민족연정당 - 군주주의파"
 #Kansallinen Kokoomus - Kuningasmieliset would be name for Despotic party once Seyn is executed
 
 #TOOLTIPS#
-FIN_DESC_MENU:0 "Near the end of the Great War, Russia fell to civil war between those loyal to the monarchy, and Republican factions. Finland, an autonomous duchy within the Empire, was not spared, with red and pro-independence factions rising up from the swamps of Karelia and fighting against the Pro-Russian loyalists. After years of fighting and tens of thousands dead, the Communist movement was defeated and Finland remained a de jure territory of the Russian Empire. However, outside of the Finnish nobility, there are few that wish to remain puppets of the Russians, and only time will tell if the people of Finland will make their voices heard."
+FIN_DESC_MENU:0 "대전쟁이 끝날 무렵, 러시아에서 왕당파와 공화파 간의 내전이 일어났습니다. 제국의 자치 공국인 핀란드도 내전으로부터 안전하지 않았습니다. 사회주의 독립운동가들이 카렐리아 늪지에서 들고일어나 친러파 세력과 전투를 벌였습니다. 수년 간의 전쟁으로 많은 사람들이 죽어나간 끝에 공산주의 운동은 진압되었고 핀란드는 러시아 제국의 법적 영토로 남았습니다. 그러나 핀란드 귀족층을 제외하면 러시아의 속국으로 남는 것을 바라는 이는 극히 드물며, 핀란드인들이 목소리를 낼지는 오직 시간만이 알려줄 것입니다.."
 
-FIN_CARVE_TOOLTIP:0 "다음에 대한 영유권 주장: §YRevel§! , §YYuriev§! , §YLuga§! and §Y14§! others.\n§Y러시아어 분쇄§! 디시전이 해제됩니다."
+FIN_CARVE_TOOLTIP:0 "다음에 대한 영유권 주장: §Y레벨§! , §Y유리예프§! , §Y루가§!를 포함한 §Y17§!개의 주.\n§Y러시아어 분쇄§! 디시전이 해제됩니다."
 
-ASPA_EGYPT_TOOLTIP:0 "The §BPharaoh§! of the §RRed Lands§! and the §bBlack Lands§! of §CFenno-Egypt§! will be proclaimed, and thusly begin the true Thirty-Fourth Dynasty."
+ASPA_EGYPT_TOOLTIP:0 "핀-이집트의 §R적색 지대§!와 §b흑색 지대§!의 §B파라오§!임을 선포하여 진정한 제34왕조가 시작될 것입니다."
 
-FIN_LANDS_SET_TOOLTIP:0 "다음에 대한 영유권 주장: §YRevel§! , §YYuriev§! , §YLuga§! and §Y14§! others.\n§Y모스크바 떼거리 거세§! 디시전이 해제됩니다."
+FIN_LANDS_SET_TOOLTIP:0 "다음에 대한 영유권 주장: §Y레벨§! , §Y유리예프§! , §Y루가§!를 포함한 §Y17§!개의 주.\n§Y모스크바 떼거리 거세§! 디시전이 해제됩니다."
 
 #DECISIONS#
 FIN_destroyrussianlanguage:0 "러시아어 분쇄"
 FIN_castratemuscovitehorde:0 "모스크바 떼거리 거세"
 FIN_razepetrograd:0 "페트로그라드 소각"
 FIN_removerussiansfromkarelia:0 "카랼라 러시아인 추방"
-FIN_endrussianinarkangelin:0 "Destroy Russian in Arkangelin"
+FIN_endrussianinarkangelin:0 "아르캉엘리 내 러시아어 분쇄"
 FIN_endrussianinurals:0 "우랄 내 러시아어 분쇄"
 FIN_integrateestonia:0 "에스토니아인 흡수"
 FIN_massmigrationtopetrograd:0 "Spay Petrograd"
 FIN_cleanseallkarelia:0 "카랼라 전역 청소"
-FIN_sterilizerussiansinarkhangelskandvologda:0 "Mass migration to Arkhangelsk and Vologda"
+FIN_sterilizerussiansinarkhangelskandvologda:0 "아르한겔스크 및 볼로그다로의 대규모 이주"
 FIN_colonisationofurals:0 "우랄 식민화"
 FIN_integrateestonia1:0 "에스토니아인 흡수"
 
-FIN_kinglives:0 "국왕 Ilmari is alive."
+FIN_kinglives:0 "국왕 일마리가 살아있습니다"
 FIN_englishallies:0 "동맹으로 영국을 택했습니다"
 FIN_prussianallies:0 "동맹으로 프로이센을 택했습니다"
 
