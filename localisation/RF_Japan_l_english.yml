@@ -505,6 +505,16 @@ japan.37.d:0 "While the Japanese Empire may have died, the Pan-Asian ambitions o
 japan.37.a:0 "Very well."
 japan.37.b:0 "Never!"
 
+japan.371.t:0 "Pan-Asian Japan Demands Federalisation"
+japan.371.d:0 "While the Japanese Empire may have died, the Pan-Asian ambitions of the Sunset Isles lives on in their revolutionary cause. The Pan-Asianist Vanguard is pursuing a policy of domination throuhout the East, forging a socialist Empire. Their offer is simple, join their revolutionary cause or be toppled."
+japan.371.a:0 "Very well."
+japan.371.b:0 "Never!"
+
+japan.372.t:0 "Pan-Asian Japan Demands Federalisation"
+japan.372.d:0 "While the Japanese Empire may have died, the Pan-Asian ambitions of the Sunset Isles lives on in their revolutionary cause. The Pan-Asianist Vanguard is pursuing a policy of domination throuhout the East, forging a socialist Empire. Their offer is simple, join their revolutionary cause or be toppled."
+japan.372.a:0 "Very well."
+japan.372.b:0 "Never!"
+
 japan.38.t:0 "Pan-Asian Japan Demands Federalisation"
 japan.38.d:0 "While the Japanese Empire may have died, the Pan-Asian ambitions of the Sunset Isles lives on in their revolutionary cause. The Pan-Asianist Vanguard is pursuing a policy of domination throuhout the East, forging a socialist Empire. Their offer is simple, join their revolutionary cause or be toppled."
 japan.38.a:0 "Very well."
@@ -818,7 +828,7 @@ JAP_the_future_of_the_sunrise_kingdom_desc:0 ""
 #JAP_free_the_mantetsus_desc:0 "The Manchus will be free to unite the North for themselves, under our supervision. We couldn't hope to hold onto those unstable lands on our own without problems anyway."
 
 #JAP_japanese_oversight:0 "Japanese Oversight"
-#JAP_japanese_oversight_desc:0 ""
+#JAP_japanese_oversight_desc:0 "The Manchus must be guided more closely than others, their lands are in disarray with banditry being rife in the countryside. We must occupy the area for now and pacify it by force and by word of the revolution, class consciousness for the Manchus!"
 
 #JAP_rebuild_the_nation:0 "국가재건"
 #JAP_rebuild_the_nation_desc:0 "The Revolution may have been gloriously won with blood, grit and steel, but the Nation was left damaged none-the-less. A recinstruction initiative will help get the economy repaired and create work for the people in more devastated regions."
@@ -949,7 +959,7 @@ JAP_mount_fiji_training_camp_desc:0 ""
 JAP_anti_tank_production:0 "대전차 수단 생산"
 JAP_anti_tank_production_desc:0 ""
 
-AP_design_new_firearms:0 "신형 화기 설계"
+JAP_design_new_firearms:0 "신형 화기 설계"
 JAP_design_new_firearms_desc:0 "New designs for new times and new wars, modern combat takes place at close range, it is prudent to prioritise compact firepower over long-range accuracy."
 
 JAP_the_emperors_soldiers:0 "폐하의 군대"
