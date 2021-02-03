@@ -591,9 +591,9 @@ kor.301.t:0 "빨갱이들이 수락하다"
 kor.301.d:0 "Rather than continue the brother war, the revolutionaries have chosen unity and the strength of a united Korea. We welcome them with open arms, though we must be vigilant not to allow our politics to slip into radicalism."
 kor.301.a:0 "환영하오, 형제들이여!"
 
-kor.301.t:0 "빨갱이들이 거부하다"
-kor.301.d:0 "The revolutionaries have rejected our overtures, alas their ideological posession has blinded them to the plight they will bring upon their own brothers and sisters. But since there is seemingly no path forward between us now, the solution is clear. Man the borders and load the guns..."
-kor.301.a:0 "조상들께서 우릴 용서하시길."
+kor.302.t:0 "빨갱이들이 거부하다"
+kor.302.d:0 "The revolutionaries have rejected our overtures, alas their ideological posession has blinded them to the plight they will bring upon their own brothers and sisters. But since there is seemingly no path forward between us now, the solution is clear. Man the borders and load the guns..."
+kor.302.a:0 "조상들께서 우릴 용서하시길."
 
 kor.31.t:0 "마침내 조국이라!"
 kor.31.d:0 "How many years has it been? How many times this dream has invaded my thoughts waking and sleeping? It must be years at least. That fresh sea breeze feels different on foreign soil, it enters the lungs less fully, one doesn't trust it so much. After all the toil, all the blood spilled, standing at last on this familiar shore..."
@@ -610,11 +610,11 @@ kor.321.a:0 "망할 놈들."
 
 kor.33.t:0 "Public Order 36"
 kor.33.d:0 "Overnight the typists and presses have worked tirelessly to produce and distribute the fliers, papers and official documents of denunciation. Or otherwise known as Public Order 36. \n'The leaders of the provisional government of the republic of Korea are hearby listed as traitors to the people and the people's republic. Their treacheries are numerous and severe, including plans among reactionaries to sell our dear nation to the Americans and British. The people's justice shall be wrought upon those responsible for the attempt against our nation. Be noble and forthright citizens, while soldiers and police may aprehend many of the traitors, the burden of catching them all falls upon each and every good Korean. So long as these seditious individuals are roaming the country, we will never be safe and prosperous.'"
-kor.33.c:0 "반역자들을 !"
+kor.33.a:0 "반역자들을 매달아라!"
 
 kor.34.t:0 "망명 천황"
-kor.34.d:0 "Having escaped the revolution, Yasuhito now sits as the Emperor of a lost empire, the remains are gathered mostly in Korea, biding time and awaiting the day of return, if it ever comes."
-kor.34.a:0 "A much humbled Emperor."
+kor.34.d:0 "혁명에서 탈출한 Yasuhito now sits as the Emperor of a lost empire, the remains are gathered mostly in Korea, biding time and awaiting the day of return, if it ever comes."
+kor.34.a:0 "볼품 없는 천황이로군."
 #FOCUSES#
 #######################################
 ###############KOR#####################
@@ -1022,7 +1022,7 @@ JKR_centralised_democracy_desc:0 ""
 JKR_korean_selfdetermination:0 "조선 자결"
 JKR_korean_selfdetermination_desc:0 "While the national revolution decries us as sullying the noble works of Sin Chaeho, there is merit to his Juche principle. Self-determination is an important step in making Korea strong, material wealth being one of the most important, next to political self-determination; thankfullly, that step is already taken care of."
 JKR_appease_the_agrarian_factions:0 "Agrarian Factions 충족"
-JKR_appease_the_agrarian_factions_desc:0 "The alliance with the agrarian socialists has been fraut but reliable in the face of external threats. Now however, matters come to a head, Cho Man-sik's party is in open rebellion, demanding concessions and Pak Hon-yong's resignation."
+JKR_appease_the_agrarian_factions_desc:0 "농업사회주의자들과의 동맹은 불안하지만, 외부의 위협과 맞닥뜨렸을 땐 믿을 만합니다. 하지만 이제, 사안의 진척과 동시에 조만식의 파벌은 공개적으로 반발하며 양보와 박헌영의 사임을 요구하고 잇습니다."
 JKR_the_prelude:0 "The Prelude"
 JKR_the_prelude_desc:0 "In order to make Korea truly safe from counter-revolutionary activity, it must push beyond the borders set by it's oppressors. This is merely the prelude to a wider Korean participation in the world-revolution that is asuredly coming."
 JKR_return_favours:0 "보은"
