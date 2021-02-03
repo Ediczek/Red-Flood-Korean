@@ -49,7 +49,7 @@ KCK_SIGN_TREATY_OF_COOPERATION_TT:0 "Unlocks decision to §YSign the Treaty of R
 
 KCK_trade_usa_can:0 "북태평양 무역"
 KCK_eu_culture:0 "유럽 문화"
-KCK_britannia_scheme:0 "브리태니어 Scheme"
+KCK_britannia_scheme:0 "브리태니어 책략"
 KCK_remain_independent:0 "Promises of Independence"
 KCK_japan:0 "일본의 영향력"
 KCK_japan2:0 "일본의 영향력"
@@ -93,6 +93,9 @@ kck.7.desc:0 "Our territory has always been more focused on naval matters than m
 kck.7.a:0 "야쿠티야가 태평양을 지배하라라!"
 kck.7.b:0 "We must protect our trade."
 kck.7.c:0 "I like the ambitious ones."
+kck.8.title:0 "브리태니어 책략"
+kck.8.desc:0 "Thousands of British investors and adventurers have arrived to Yakutia as per an agreement with the Republic of Yakutia and the United Kingdom, resulting in the eventual creation of a strong British community in a place otherwise unexpected to have them. This has resulted in great pride among the British public, who have proudly stated that they are now friends of the Yakutian people."
+kck.8.a:0 "새 이스트포트에서 보낼 휴가가 기대되는군!"
 kck.9.title:0 "페트로그라드에서의 소식"
 kck.9.desc:0 "As much as we try to focus on keeping loyal to Russia, it appears that pressure might be taken off our backs as the Russian heartland has begun fighting brutally over the attempted coup against Kolchak's clique, who are now fighting the putschists. As we go on, it might be best to stick to neutrality in the conflict, but regardless to many Russians it is very upsetting to see their Empire tear itself apart."
 kck.9.a:0 "새들의 다툼 속에 깃털이 여기까지 왔구나."
