@@ -551,16 +551,16 @@ japan.431.d:0 "In order to finance the new recovery initiatives a new levy tax h
 japan.431.a:0 "Short term pain for long term gain."
 japan.431.b:0 "We are hurting enough as it is."
 
-japan.44.t:0 "The Debt Crisis"
+japan.44.t:0 "채무 위기"
 japan.44.d:0 "The banks are growing weary of our lack of payments, with little sympathy being reserved for the war damages. To have any hope of paying back, a debt restructuring is required, the banks will have their money eventually either way."
 japan.44.a:0 "We'll have to dig our way out of this."
 
-japan.45.t:0 "The Palace Reforms"
+japan.45.t:0 "궁정개혁"
 japan.45.d:0 "After much toil and hardship, the economy is now recovering well. Government revenues must now be invested into new economic programs in order to make debt payments, the question is into which sector should the money be invested? The military companies are aching to stay afloat and are stoking revanchist factions to promote their cause, meanwhile many civilian sectors are still in the process of recovery and re-building."
 japan.45.a:0 "Invest in arms to make the payments"
 japan.45.b:0 "Invest in civilian goods to make the payments"
 
-japan.46.t:0 "The New Economic School"
+japan.46.t:0 "신 경제학파"
 japan.46.d:0 "The economic crisis has pushed a number of aspiring young students into financial studies. Their new ideas and the shortage in the civil service means many are being fast-tracked into new positions, there are still conflicting ideas about where investments into recovery should go. There are those that warn against re-starting the military-economic dependencies but equally those factory jobs are good for the employment rate."
 japan.46.a:0 "Continue domestic market development."
 japan.46.b:0 "Divert funds to re-start arms industry."
@@ -605,24 +605,24 @@ JAP_fushimi_hiroyasu_con:0 "Fushimi Hiroyasu"
 
 #COMPANIES
 #ind
-kawasaki:0 "Kawasaki"
-sumitomo:0 "Sumitomo"
+kawasaki:0 "카와사키"
+sumitomo:0 "스미토모"
 idemitsu_kosan:0 "Idemitsu Kosan"
 #weapons
 nambu_arms:0 "Nambu Arms"
-tokyo_arsenal:0 "Tokyo Arsenal"
-osaka_arsenal:0 "Osaka Arsenal"
+tokyo_arsenal:0 "토쿄 병기창"
+osaka_arsenal:0 "오사카 병기창"
 #air
 yokosuka_air:0 "Yokosuka Aeronautics"
-mitsubishi:0 "Mitsubishi"
-nakajima:0 "Nakajima"
-aichi:0 "Aichi"
+mitsubishi:0 "미츠비시"
+nakajima:0 "나카지마"
+aichi:0 "아이치"
 #naval
-maizura:0 "Maizura"
+maizura:0 "마이즈라"
 kure:0 "Kure Naval Works"
-osaka_iron_works:0 "Osaka Iron Works"
+osaka_iron_works:0 "오사카 제철소"
 #heavy
-osaka_arsenal_arty:0 "Osaka Arsenal"
+osaka_arsenal_arty:0 "오사카 병기창"
 nissan_motor:0 "Nippon Motor Company"
 ishikawajima_motor_works:0 "Ishikawajima Motor Works"
 hino_motors:0 "Hino Motors"
@@ -858,7 +858,7 @@ JAP_pro_zaibatsu_focus_1_desc:0 ""
 JAP_pro_zaibatsu_focus_2:0 "죽음과 세금은"
 JAP_pro_zaibatsu_focus_2_desc:0 ""
 
-JAP_pro_zaibatsu_focus_3:0 "Debts To Be Paid"
+JAP_pro_zaibatsu_focus_3:0 "빚은 갚아야 하는 법"
 JAP_pro_zaibatsu_focus_3_desc:0 ""
 
 JAP_pro_zaibatsu_focus_4:0 "Institute the Palace Reforms"
@@ -910,7 +910,7 @@ JAP_pacific_war_machine_desc:0 ""
 JAP_costal_defense:0 "해안방어"
 JAP_costal_defense_desc:0 ""
 
-JAP_machines_of_the_future:0 "Machines of the Future"
+JAP_machines_of_the_future:0 "미래의 기계들"
 JAP_machines_of_the_future_desc:0 ""
 
 JAP_kiniro_no_council:0 "Kin'iro-no Council"
