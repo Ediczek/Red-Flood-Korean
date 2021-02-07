@@ -35,24 +35,24 @@ GFX_SPEVNT_rusuni_scythia_TEXT:0 "\"우리는 스키티아인이며, 세상이 �
 GFX_SPEVNT_rusuni_eurasia:0 "러시아의 통일"
 GFX_SPEVNT_rusuni_eurasia_TEXT:0 "\"모든 민족주의는 쇼뱅주의와 세계시민주의의 합산이고, 대립하는 두 개념의 화해이다.\"\n-니콜라이 트루베츠코이"
 GFX_SPEVNT_rusuni_kornilov:0 "러시아의 통일"
-GFX_SPEVNT_rusuni_kornilov_TEXT:0 "\"Our demands - restoration of citizens' rights, of press freedom and of property rights, and an equality of citizens before law.\"\n-Lavr Kornilov"
+GFX_SPEVNT_rusuni_kornilov_TEXT:0 "\"시민권리의, 언론의 자유의, 재산권의, 법 앞에서의 시민간 평등의 회복을 우리는 요구한다.\"\n-라브르 코르닐로프"
 GFX_SPEVNT_rusuni_gulidov:0 "러시아의 통일"
-GFX_SPEVNT_rusuni_gulidov_TEXT:0 "\"For Russia's sacred cause, we will spill the Russian blood honestly.\"\n-Farewell of Slavianka, a Russian veterans' song"
+GFX_SPEVNT_rusuni_gulidov_TEXT:0 "\"러시아의 정당한 대의를 위해 우리는 기꺼이 러시아의 피를 흘리리라.\"\n-슬라브 여인의 작별사, 러시아 참전병들의 노래"
 GFX_SPEVNT_rusuni_libs:0 "러시아의 통일"
 GFX_SPEVNT_rusuni_libs_TEXT:0 "\"역사는 멈추지 않는다. 러시아와 전 세계에서 정해진 대로 흘러간다.\"\n-파벨 밀류코프"
 GFX_SPEVNT_rusuni_oln:0 "러시아의 통일"
 GFX_SPEVNT_rusuni_oln_TEXT:0 "\"평의회의 권력은 그 혼돈스러운 본성에도 의회나 제헌대회, 그 어떤 이회보다도 분명하게 낫다.\"\n-마리아 스피리도노바"
 GFX_SPEVNT_rusuni_tri:0 "러시아의 통일"
-GFX_SPEVNT_rusuni_tri_TEXT:0 "\"By their criticism of the existing system, the Internationalist opposition is preparing minds for the acceptance of the positive platform of Social-Democracy among the Russian people.\"\n-the Harbin Proclamations"
+GFX_SPEVNT_rusuni_tri_TEXT:0 "\"현존하는 체제에 대한 자신들의 비판에 따라, 국제주의 야당은 러시아인들 사이에 사회민주정의 긍정적 발판을 수용할 마음의 채비를 갖추었다.\"\n-하르빈 포고"
 GFX_SPEVNT_rusuni_kamenev:0 "러시아의 통일"
 GFX_SPEVNT_rusuni_kamenev_TEXT:0 "\"우리 혁명에 돌아갈 길이란 없다.\"\n-례프 카미녜프"
 GFX_SPEVNT_dor:0 "러시아의 죽음"
-GFX_SPEVNT_dor_TEXT:0 "\"러시아는 주님게서 직접 다스리시는 곳이다. 그렇지 않고선 러시아가 어떻게 유지되는지 알 길이 없다.\"\n-요한 에른스트 미니히"
+GFX_SPEVNT_dor_TEXT:0 "\"러시아는 주님께서 직접 다스리시는 곳이다. 그렇지 않고선 러시아가 어떻게 유지되는지 알 길이 없다.\"\n-요한 에른스트 미니히"
 #######################
 #CONGOLEGE UNIFICATION#
 #######################
 GFX_SPEVNT_NBE_unification:0 "콩고의 통일"
-GFX_SPEVNT_NBE_unification_TEXT:0 "\"나는 영혼의 치마를 내 손으로 쥐고서 세상의 머리 위를 내 발로 찍어내릴 것이다. I shall trample Matter and Space with my horse, beyond all Being I shall utter a great shout, and in that moment... I shall whisper secrets to all mankind.\"\n-Attar of Nishapur"
+GFX_SPEVNT_NBE_unification_TEXT:0 "\"나는 영혼의 치마를 내 손으로 쥐고서 세상의 머리 위를 내 발로 찍어내릴 것이다. 말을 타고 나는 질료와 공간을 짓뭉갤 것이며, 모든 존재 너머로 나는 고함을 내지를 것이고, 그 순간에... 나는 모든 인류를 향해 비밀들을 속삭이리라.\"\n-니섀푸르의 앳터르"
 GFX_SPEVNT_KIV_unification:0 "콩고의 통일"
 GFX_SPEVNT_KIV_unification_TEXT:0 "\"코끼리들이 싸우면 아픈 건 잔디들이다.\"\n-르완다 속담"
 GFX_SPEVNT_CFS_unification:0 "콩고의 통일"
@@ -67,7 +67,7 @@ GFX_SPEVNT_PCN_unification_brody_TEXT:0 "\"Despite all the difficulties in which
 GFX_SPEVNT_UPI_Churchill:0 "인도의 통일"
 GFX_SPEVNT_UPI_Churchill_TEXT:0 "\"The rescue of India from ages of barbarism, tyranny, and internecine war and its slow but ceaseless forward march to civilisation constitute upon the whole the finest achievement of our history\"\n-윈스턴 처칠"
 GFX_SPEVNT_UPI_Kali:0 "칼리 숭배단의 치세"
-GFX_SPEVNT_UPI_Kali_TEXT:0 "\"Now I am become Death, the destroyer of worlds.\"\n-Bhagavad Gita"
+GFX_SPEVNT_UPI_Kali_TEXT:0 "\"이제 나는 죽음, 세계들의 파괴자가 되었노라.\"\n-바가바드 기타"
 ########
 #FRANCE#
 ########
@@ -77,7 +77,7 @@ GFX_SPEVNT_etat_irreal_TEXT:0 "\"2 더하기 2가 4라는 너희식 논리는 �
 #ITALY#
 #######
 GFX_SPEVNT_ITA_0:0 "승리한 이탈리아"
-GFX_SPEVNT_ITA_0_TEXT:0 "\"Sit Romana potens Itala virtute propago\"\n-Virgil"
+GFX_SPEVNT_ITA_0_TEXT:0 "\"Sit Romana potens Itala virtute propago\"\n-웨르길리우스"
 GFX_SPEVNT_ITA_1:0 "두체가 유럽을 군림하다"
 GFX_SPEVNT_ITA_1_TEXT:0 "\"The Romans never allowed a trouble spot to remain simply to avoid going to war over it, because they knew that wars don't just go away, they are only postponed to someone else's advantage.\"\n-니콜로 마키아벨리, 군주론"
 GFX_SPEVNT_ITA_2:0 "다시 태어난 자유"
@@ -95,12 +95,12 @@ GFX_SPEVNT_usauni_sinclair_TEXT:0 "\"미국인들은 사회주의를 가질 테�
 GFX_SPEVNT_USA_collapse:0 "미국의 붕괴"
 GFX_SPEVNT_USA_collapse_TEXT:0 "\"군중보다 예상할 수 없는 게 없으며, 여론보다 방해되는 것이 없고, 온 정치체제보다 기만스러운 것이 없다.\"\n-수에토니우스"
 GFX_SPEVNT_DEV_civil_war:0 "아가르타 발견"
-GFX_SPEVNT_DEV_civil_war_TEXT:0 "\"진짜였어.\"\nt. 무명"
+GFX_SPEVNT_DEV_civil_war_TEXT:0 "\"진짜였어.\"\n-무명"
 GFX_SPEVNT_SPA_civil_war:0 "에스파냐 내전"
 GFX_SPEVNT_SPA_civil_war_TEXT:0 "\"에스파냐의 반이 여기 있다. 나머지 반이 여기 죽어있다.\"\n-마리아노 호세 데 라라"
 GFX_SPEVNT_japanese_invasion_of_china:0 "일본의 중국 침공"
-GFX_SPEVNT_japanese_invasion_of_china_TEXT:0 "\"All men are brothers, like the seas throughout the world; So why do winds and waves clash so fiercely everywhere?\"\n-히로히토"
+GFX_SPEVNT_japanese_invasion_of_china_TEXT:0 "\"세상을 뒤덮은 바다와 같이 만인은 형제이다. 헌데 온곳에서 바람과 파도가 그토록 사납게 부딪힘은 무슨 연유란 말인가?\"\n-히로히토"
 GFX_SPEVNT_brazil_collapse:0 "브라질의 비극"
-GFX_SPEVNT_brazil_collapse_TEXT:0 "\"Princeps legibus solutus est.\"\n-그나이우스 도미티우스 안니우스 울피아누스"
+GFX_SPEVNT_brazil_collapse_TEXT:0 "\"군주는 법에 의해 지배받지 아니한다.\"\n-그나이우스 도미티우스 안니우스 울피아누스"
 GFX_SPEVNT_ww2:0 "피바다"
 GFX_SPEVNT_ww2_TEXT:0 "\"그리하여 붉은 홍수가 일더니 우리의 문 앞으로 들이닥쳤다. 그리하여 파도가 일어 멀리멀리 번지며 가는 길의 모든 것을 잠기게 했다.\"\n-이그나스 셰이니우스"
