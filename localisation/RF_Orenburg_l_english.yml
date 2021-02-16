@@ -43,8 +43,8 @@ ORE_accelerationism_party:0 "믈라도로시"
 ORE_accelerationism_party_long:0 "청년 러시아 오렌부르크 잉걸불"
 
 #LEADER DESCRIPTIONS#
-ORE_DESC_MENU:0 "The advent of the civil war had shown all parties that the military districts had been too inefficient. From these conditions was born the Orenburg military district, led by Alexander Dutov and his autonomous band of Cossacks. Meant to be a neutral force, Dutov threw in his lot with Kolchak during the conflict. Following the crushing of Kazakh protests, Alash parties started to actively oppose Dutov. The situation became worse following the famine of 1932-33 which led to a Pro-Communist Peasants revolt. While it seems that the troubles of the Orenburg Military District are largely over, it shall be seen if the vultures circling the nation will make themselves known."
-POLITICS_ALEX_DUTOV_DESC:0 "Alexander Dutov has plentiful experience commanding cossack regiments, giving him the skills necessary to govern the Orenburg Cossacks. Dutov has two simple tasks: keep the Orenburg Territory under Russian control, and kill anyone who stands in his way. Being a hardened Russian military man, Dutov is glad to oblige on both accounts."
+ORE_DESC_MENU:0 "내전의 발발은 군사지구가 너무나 비효율적임을 모든 정당들 앞에 보여주었습니다. 알렉산드르 두토프가와 그의 카자키 자치대가 이끄는 오렌부르크 군사지구는 이런 상황 속에서 태어났습니다. 중립을 유지했어야 했을 두토프는 분쟁 당시 콜차크에게 자신의 몫을 걸었습니다. 카자흐 시위가 진압된 이후 알라쉬 정당들은 대놓고 두토프에 반대하기 시작했습니다. 1932년과 33년의 기근이 친공산주의 향민 봉기로 이어지며 상황은 악화됐습니다. 오렌부르크 군사지구의 동란은 대체로 끝난 듯해도, 오렌부르크 위로 날아들 독수리들이 모습을 드러낼진 지켜볼 일입니다."
+POLITICS_ALEX_DUTOV_DESC:0 "알렉산드르 두토프가 가진 풍부한 카자크 연대 지휘 경험은 오렌부르크 카자키 통치에 필요한 재주를 그에게 주었습니다. 두토프의 업무는 두 가지입니다. 오렌부르크 영토를 러시아의 통제하에 두고, 그에 맞서는 이는 모두 죽이는 것. 단련된 러시아 군인으로서, 두토프는 두 직무를 기꺼이 수행해내고 있습니다."
 #IDEAS#
 ORE_kazakh_republic:0 "카자흐 공화국"
 ORE_kirghiz_nation:0 "키르기즈 민족"
