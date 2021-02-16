@@ -234,23 +234,23 @@ JKR_bullet_desc:0 "There is no place in Korea for traitors to ou people."
 JKR_threadbare:0 "Threadbare Campaigning"
 JKR_threadbare_desc:0 "No war of resistance was won with plentitude, all great revolutions start with more spirit than ammo."
 
-JKR_andong:0 "Looking North"
-JKR_andong_desc:0 "Our ancestral lands have been robbed, we should move to secure them once more."
+JKR_andong:0 "북을 바라보며"
+JKR_andong_desc:0 "우리는 우리 조상들의 오랜 땅이었던 북을 강탈당했습니다. 다시금 되찾아야 합니다."
 
 JKR_no_nihon:0 "탈일본화"
-JKR_no_nihon_desc:0 "The Japanese influence on Korea must be expunged totally."
+JKR_no_nihon_desc:0 "일본이 조선이 남겼던 모든 것은 흔적도 없이 씻겨나갈 것입니다."
 
 JKR_two_alphabets:0 "국한문"
-JKR_two_alphabets_desc:0 "The Hangul and Hanja must both be taught, so as to give Koreans a fuller understanding of their people's ways and destiny." 
+JKR_two_alphabets_desc:0 "한글과 한자를 모두 가르쳐야만 조선인들에게 인민의 방식과 운명에 관한 이해를 온전히 심어줄 수 있습니다." 
 
 JKR_buyeo:0 "부여를 넘어서"
-JKR_buyeo_desc:0 "We must strikeout, beyond the Buyeo Kongdom's lands in South Manchuria. Our destiny lies to the North and West."
+JKR_buyeo_desc:0 "We must strikeout, beyond the Buyeo Kongdom's lands in South Manchuria. 북과 서에서 운명이 우리를 기다립니다."
 
 JKR_taegeuk:0 "태극 문양"
 JKR_taegeuk_desc:0 "The great national symbol, a truer representation of Korea than there ever was. The Taeguk is balance, it is the universe and it is man's nature."
 
-JKR_korean_propaganda:0 "Korean Propaganda"
-JKR_korean_propaganda_desc:0 "The Koreans are spreading propaganda to the natives of central manchuria, some strange phenomenon, they are encouraged to reject Chinese or Russian identities for some ancient Korean one."
+JKR_korean_propaganda:0 "조선의 선전"
+JKR_korean_propaganda_desc:0 "중앙 만주의 원주민들에게 조선인들은 기묘한 말들을 선전과 함께 퍼뜨리며, 고대 조선의 무언가를 위해 중국과 러시아의 정체성을 거부하라 속삭일 것입니다."
 
 JKR_com_dem:0 "집중민주제"
 JKR_com_dem_desc:0 ""
@@ -259,34 +259,34 @@ JKR_favours:0 "보은"
 JKR_favours_desc:0 ""
 
 JKR_lateral_power:0 "수평권력"
-JKR_lateral_power_desc:0 "The chairman in Pyongyang is no better or more powerful than the councillor in Hamhung. The people that till the earth have no more or less say over the matters of their district than the councillor they elected, this is absolute democracy."
+JKR_lateral_power_desc:0 "평양의 주석은 함흥의 councillor보다 더 낫거나 강하지도 않습니다. The people that till the earth have no more or less say over the matters of their district than the councillor they elected, this is absolute democracy."
 
-JKR_volunteers:0 "Volunteerism"
+JKR_volunteers:0 "자원제"
 JKR_volunteers_desc:0 "Compelling people is not our way, the people do as they want to do, safe in the knowledge that the fruits of their labour are theirs."
 
 JKR_classlessness:0 "무계급사회"
 JKR_classlessness_desc:0 "There is no rich or poor, there are no destitute or opulent. We are equal."
 
 JKR_full_dem:0 "참여민주정"
-JKR_full_dem_desc:0 "Democracy is not true unless the people and not their representatives are the one to decide. Frequent plebicite is preferrable to government tyrrany."
+JKR_full_dem_desc:0 "인민과 대리자들이 결정을 위해 하나가 되지 않는 한 민주정은 진실된 것이 아닙니다. 정부의 폭정보단 잦은 국민투표가 더 낫습니다."
 
 JKR_free_rel:0 "종교의 자유"
 JKR_free_rel_desc:0 "Creed matters not, only that you do not impede the freedoms of your comrades."
 
 JKR_com_kim:0 "김좌진 헌장"
-JKR_com_kim_desc:0 "Comrade Kim's charter makes clear that the position of leader is ceremonial, his role is the voice of the collective, the millions cry out and he speaks on their behalf to the world."
+JKR_com_kim_desc:0 "김 동지의 헌장은 makes clear that the position of leader is ceremonial, his role is the voice of the collective, the millions cry out and he speaks on their behalf to the world."
 
-JKR_kropotkin:0 "Korea Anarchist Code"
+JKR_kropotkin:0 "조선 무정부주의자 Code"
 JKR_kropotkin_desc:0 "A true document of doctrine will be an example for others to follow."
 
 JKR_air_camouflage:0 "위장"
-JKR_air_camouflage_desc:0 "Can't hit what you can't see."
+JKR_air_camouflage_desc:0 "보이지 않는 건 때릴 수도 없지요."
 
 JKR_turtle:0 "거북선"
 JKR_turtle_desc:0 "The legacy of Gang Il-sun is not forgotten."
 
 JKR_harassment:0 "폭격기 요격"
-JKR_harassment_desc:0 "No enemy pilot shall fly comfortably above Korea."
+JKR_harassment_desc:0 "그 어떤 적대 비행사도 조선의 항공을 마음놓고 날아다닐 수 없을 겁니다."
 
 JKR_dogfighting:0 "공중근접전의 계보"
 JKR_dogfighting_desc:0 "Building a strong tradition of flying aces is a boon for our future defence."
@@ -437,11 +437,11 @@ kor.7.b:0 "무슨 일이 벌어지기 전에 늦추도록 한다."
 kor.7.c:0 "현 수준의 이주를 유지한다."
 
 kor.100.t:0 "저항 격화"
-kor.100.d:0 "With news of Japan's misfortunes spreading throughout the empire, many brazen acts of insurrection have taken place in major cities across Korea. Soldiers have already engaged Koran partisans in the North and the Garrisons in Keijo are pleading Pusan for help with riots. Things are quickly spiralling out of control..."
+kor.100.d:0 "본국에서 벌어진 불운이 제국 전역에 퍼지며 조선 전국의 주요 도시들에서의 수많은 역란을 촉발시켰습니다. 군은 이미 북에서 조선 유격대와 싸우는 중이며 케이조의 주둔군은 폭동 진압을 위해 후산 당국에 도움을 청한 상태입니다. 돌아가는 형국이 급속도로 우리 통제를 벗어나고 있습니다..."
 kor.100.a:0 "아 이런."
 
 kor.101.t:0 "대한혁명"
-kor.101.d:0 "A declaration is made on the radio, then by telegram, then in print. 'The Korean Republic is born today' A rally cry from Seoul to all loyal sons and daughters of the country to take up arms and fight for their freedom. Reports of Japanese officials committing seppuku scarcely have chance to reach Ugaki's desk before a second declaration comes through, this time from partisan fighters in Shirotsu, 'The Korean People's Republic' has declared its independence from Japan and has started its glorious revolution for the people. With a hastily annotated map adorning the Officers table, Ugaki begins to plot the downfall of these upstarts. But his forces are stretched thin, with few soldiers and fewer friends, the Korean Civil War begins."
+kor.101.d:0 "라디오를 통해 전해진 선언은 곧 전보로, 인쇄물로 퍼져나갔습니다. '오늘 대한민국은 태어난다'. 조국의 충성스러운 아들딸들은 자유를 위해 싸우고자 구호를 외치며 무기를 들었습니다. 몇몇 일본인 관료들이 할복했다는 보고가 우가키의 탁상 위로 올라가기도 전에 두 번째 선언은 전해졌습니다. 이번엔 성진의 유격대원들이 '조선인민공화국'의 독립을 선포하며 인민을 위한 영광스러운 혁명을 개시했다는 소식이었습니다. 탁상 위에 올려진 지도에 급히 표시들을 남긴 우가키는 이 불량선인들을 진압할 계획을 세우기 시작했습니다. 하지만 황군은 너무 얇게 퍼져 있었고, 병사들은 적은 데다 친구는 그보다 더 적었습니다. 그리하여 내전은 시작되었습니다."
 kor.101.a:0 "대한민국 만세!"
 kor.101.b:0 "황국 향한 이 충정 가실 줄 있으랴."
 kor.101.c:0 "공화국에 영광 있으라!"
@@ -492,8 +492,8 @@ kor.17.d:0 "The national spirit of our people must be reborn, our subjugation to
 kor.17.a:0 "우리 민족, 우리 인민!"
 
 kor.171.t:0 "A New Order of Knights"
-kor.171.d:0 "In ancient times, Korea called upon brave and noble horsemen known as Flower Knights or Hwarang. Not just mere soldiers, they were artists, scholars and pious Buddhist learners. Made strong and fair with their dress, training and impeccable conduct. In order to properly revive the Minjok and reforge Korean culture for the new age, the Flower Knights shall return, the pinacle of Korean culture and martial prowess. They will bring Juche to all Koreans and defend it from the impure outsiders."
-kor.171.a:0 "The Gukseon (Grand Master) is the ideal Knight of Juche!"
+kor.171.d:0 "고대기 조선에는 화랑, 꽃의 전사들이라 불리는 용맹하고 고귀한 기수들이 있었습니다. 이들은 그저 군인이 아니라, 예술가이자 학자이며, 불가의 신실한 수행자들이었습니다. Made strong and fair with their dress, training and impeccable conduct. In order to properly revive the Minjok and reforge Korean culture for the new age, the Flower Knights shall return, the pinacle of Korean culture and martial prowess. They will bring Juche to all Koreans and defend it from the impure outsiders."
+kor.171.a:0 "국선께선 주체의 the ideal Knight이시다!"
 
 kor.172.t:0 "주체와 종교"
 kor.172.d:0 "While the doctrine of Juche is a righteous program of national renewal, pride of people and continual reinvention, it is not a panacea. A key component of reviving Korea's soul is Korean Buddhism and Shamanic culture, by propagandising the people and funding the restoration of many temples, the renaissance of Korean Buddhism can begin in full. Naturally, this campaign must appeal to the people's popular sentiments, by injecting the ubiquitous Taegeuk symbol into our messaging, we can promote Buddhism and reigious scholarship to the people as a demonstration of national and ethnic pride, in line with Juche's ideals; rather than the dangerous nature of reactionary Goryeo era submissiveness, which led to the embarassing Joseon period.\nWe must be cautious however, to characterise this as Korean movement, any dreaded Chinese, Tibetan or Mongol influence would be unacceptable according to Sin's teachings. As the old orders had revered masters, the new Buddhism will know only one master and it's name is Juche."
@@ -501,11 +501,11 @@ kor.172.a:0 "인민의 정신이 다시 타오른다."
 
 kor.173.t:0 "한국-핀란드 정상회담"
 kor.173.d:0 "Despite apparent large differences in platform, ideology and culture, Finland and Korea have developed amicable relations lately. Both stand almost alone, surrounded by much more powerful and belligerent neighbours that have subjected their people to evils in their recent past. The first round of what is to be four major summits establishing Finno-Korean friendship has taken place in Pyongyang. The summits will discuss further diplomatic and economic co-operation between the two nations. Throughout history both peoples have reached highs never yet matched, perhaps together they can surpass their forebears as brothers."
-kor.173.a:0 "Blessed leaders, unlikely friends."
+kor.173.a:0 "축복받은 지도자들이며, 예상치 못한 친구들이라."
 
 kor.174.t:0 "한국-핀란드 정상회담"
 kor.174.d:0 ""
-kor.174.a:0 "Blessed leaders, unlikely friends."
+kor.174.a:0 "축복받은 지도자들이며, 예상치 못한 친구들이라."
 
 kor.175.t:0 "한국-핀란드 전쟁"
 kor.175.d:0 "In ancient myth there are tales of a war that shaped Northern Eurasia. A war that was to be the demise of an ancient Korean civilisation, and an ancient Finnic civilisation. The notion is scoffed at by historians, but among those who know the folklore it is a cautionary tale. This tale it seems has not had its message heard, as now thousands, maybe millions more will perish as they did in the old days. May the spirits forgive us."
@@ -532,11 +532,11 @@ kor.202.a:0 "우리가 필요하던 바로 그거야."
 
 kor.201.t:0 "전위주의파가 국민투표에서 승리하다"
 kor.201.d:0 "After a tense voting period following the turmoil of the revolution, the Korean Poeple's Vanguard has won the confidence of the congress. Pak Hon-yong remains in control of Revolutionary Korea."
-kor.201.a:0 "Pak's vanguard triumph once more."
+kor.201.a:0 "박헌영의 전위당이 다시금 승리하는군."
 
 kor.203.t:0 "무정부주의 공사가 국민투표에서 승리하다"
 kor.203.d:0 "After a tense voting period following the turmoil of the revolution, a clear winner of the election has emerged. Kim Chwa-Chin’s anarcho-communes have secured a safe majority, their libertarian rhetoric about self-governing communes, union representation for all and broad civil and economic liberties enticed many to vote for him. With the election won, he will make a speech in the capital later today about what will be done in the coming times."
-kor.203.a:0 "A serious victory for socialism."
+kor.203.a:0 "사회주의를 위한 중대한 승리로다."
 #Exiles event chain
 kor.21.t:0 "The Prisoners"
 kor.21.d:0 "As dawn broke, there was a clatter of gunfire, no 21 gun salute, not the scatter-shot of battle. No, that was the synchronised, rythmic crack of a firing squad. It seemed to go on for some time. Eventually the barking of the staff-sergeant could be heard telling the men to stand down. By then the sun was up, the tea was going cold and the bodies of dead prisoners were beginning to attract flies. The trucks hauled them away, but the sensation that something heinous had just been committed was still hanging in the air like mist. \"Did I really have to do that?\""
@@ -556,15 +556,15 @@ kor.25.a:0 "어쩌다 이렇게 된 거야?"
 #Depression chain
 kor.26.t:0 "전언"
 kor.26.d:0 "There was a knock at the door to Ugaki's office. He could tell from the rhythm that it was Ryoshi - his secretary. Good, that means it's not another partisan report from Jirō. Ryoshi slid the door open and came inside as though he preferred not to make a noise. Peculiar, thought Ugaki, normally Ryoshi wouldn't be so sheepish. The young man paced forward, bowed and then came to Ugaki's side, he whispered in his ear while passing him an un-addressed letter. The seal was that of the Emperor, though a bit rougher than usual; the wax was cracked and the seal itself uneven, as though it had been made by a most shaky hand. Ugaki unsealed the letter and withdrew the paper, he glanced at Ryoshi before reading, measuring his response, he seemed unfazed. 'Honourable Governor-General' -the letter began - 'Your tireless duty to the Empire has not gone unnoticed in this trying time, by the will of the Emperor you are hereby appointed as his prime-minister-in-absentia. Your first issued command is to offer punishment as you see fit upon the traitors to the Empire, be they of noble Japanese or peasant Korean blood, all traitors must be punished. The punishment should continue until resistance is no more.' Ugaki paused before turning back to Ryoshi."
-kor.26.a:0 "Fetch the typewriter, Ryoshi, and a bottle of sake."
+kor.26.a:0 "타자기 갖고 와, 료시. 사케 한 병이랑 같이."
 
 kor.27.t:0 "저항의 지속"
 kor.27.d:0 "Despite thousands of imprisonments, hours upon hours of torture and confessions, hundreds of executions and a few prisoner 'suicides', Ugaki's mandated punishments have yet to bear any fruit. His subordinates begin to wonder why the garrisons should bother rounding up so-called dissenters at all when nothing seems to come of it. Resistance in the country is still rampant, the partisans cross between Manchuria and Korea with seeming impunity and the army cannot contain them all, let alone the amateur terror attacks in major cities against Japanese citizens and soldiers."
-kor.27.a:0 "They never learn... (홀짝)"
+kor.27.a:0 "배우는 게 없구만... (홀짝)"
 
 kor.28.t:0 "역란이 진압되다"
 kor.28.d:0 "At last a decisive engagement, or so the rebels thought. Two divisions of Japanese troops had attempted to ambush a column of Korean guerillas in the eastern hills, when a counter-trap was sprung. One side weary and lacking sleep, the other short of training and ammunition. The ensuing fight was bloodier than any to that point, with machine guns and rifles running dry in mere hours, much of the fighting devolved into a quagmire of katanas, clubs, pistols and mud. Eventually the army gained an upper hand of sorts - the artillery batteries from one of the other divisions came into range before the infantry could arrive - shells began to rain on the Korean lines of approach, though it was not certain excatly where they were. Stray shells peppered the remaining combatants along the 'frontlines' (chiefly foxholes and grenade craters). After more than a day of fighting the Army cleared the area and the Koreans retreated. Ugaki came out to inspect the battlefield and decorate his troops in a rare public showing. The cleanup had barely begun when he arrived and the stench of death hung in the air like a fog. The Japanese troops would naturally all recieve full funerals and honours - at least those with bodies to be found - the issue of the partisans however was a final chance to send a message to the rebels."
-kor.28.a:0 "Leave them to the carrion. (홀짝)"
+kor.28.a:0 "고기에 파리 붙는 게 뭔 대수라고. (홀짝)"
 
 kor.22.t:0 "일본령 자치령"
 kor.22.d:0 "As a result of the battle now known as The Battle of Red Valley the guerilla activity in Korea has reduced substantially, whether out of demoralisation, exhaustion or loss of personel, the rebels have been defeated. At least for now. Ugaki can breathe a sigh of relief, his orders have been fulfilled, he has honoured his Emperor and all of Japan with his victory."
