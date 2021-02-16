@@ -217,7 +217,7 @@ steppe.114.b:0 "Send in the Cossacks - they've been loyal so far (§R-1 Steppe i
 steppe.114.c:0 "The Alash can police their own, hopefully. (Influence remains the same)"
 
 #LEADER DESCRITIONS#
-POLITICS_KORNILOV_DESC:0 "Among Russian military officers, few men have more notoriety than Lavr Kornilov. Fitting, then, that he should be in charge of the "Wild West" of Russia: the steppe. However, him being a Siberian Cossack governing a Russian territory mostly consisting of peoples who wouldn't mind being free from Russian rule may prove to be a challenge. But if anyone is up to the task, it's him."
+POLITICS_KORNILOV_DESC:0 "러시아 장교진 가운데 라브르 코르닐로프보다 악명 높은 이는 그리 많지 않습니다. 그에 걸맞게도 코르닐로프는 러시아의 "서부 황야"라 할 곳, 대초원에 자리하고 있습니다. 하지만, 시비리 카자크인 그에게 러시아의 통치에서 벗어난 이들로 가득한 러시아 영토를 다스리는 것은 일종의 도전입니다. 그럼에도 일을 맡을 건 코르닐로프뿐입니다."
 #IDEAS#
 STE_cooperatives:0 "농경협동조합"
 STE_decentralization:0 "비중앙화"
