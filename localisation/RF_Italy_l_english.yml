@@ -929,7 +929,7 @@ italy.130.a:0 "One sixth of the earth, sworn to freedom’s cause- just like tha
 ITA_transforismo_36:0 "36년 변혁주의"
 ITA_transforismo_36_desc:0 "It’s that time again. Soon the left wing of the party will hand power back to the right wing once again. Unity and democracy continue apace. Here’s to our grand coalition!"
 ITA_forgone_conclusion:0 "뻔한 결과"
-ITA_forgone_conclusion_desc:0 "The Trasformato has gone forward as planned. The right wing of the party prepares to assume power."
+ITA_forgone_conclusion_desc:0 "변혁은 계획대로 진행됐습니다. 당내 우익이 집권할 준비를 마쳤습니다."
 ITA_trasformato:0 "변혁"
 ITA_trasformato_desc:0 "The transfer is complete-- Luigi Sturzo is prime minister, and it seems we can expect a moderate policy package of reforms to stabilize Italy’s economy, diplomatic status and empire."
 ITA_the_economy:0 "경제"
@@ -1045,7 +1045,7 @@ ITA_global_italy_desc:0 "Italy is usually thought of as a regional, European pow
 
 #SocLib
 ITA_partido_radical:0 "급진당"
-ITA_partido_radical_desc:0 "The Italian Radical Party has triumphed on a comprehensive social liberal reform plan. It appears that the moderation of the old party is going right out the window."
+ITA_partido_radical_desc:0 "이탈리아 급진당이 포괄적인 사회자유개혁안에 관해 승리를 거두었습니다. 옛 당의 온건화가 내던져졌음은 이제 명확합니다."
 ITA_incandescent_majority:0 "An Incandescent Majority"
 ITA_incandescent_majority_desc:0 "After a stellar campaign, the Partito Radicale Italiano has secured a majority in Parliament, no coalition necessary. We can’t let this spectacular achievement go to waste!"
 ITA_15_points:0 "The 15 Points"
@@ -1367,7 +1367,7 @@ ITA_motor_mechanism_desc:0 "말은 차로 대체될 것이며, 기사의 판금�
 ITA_modern_cavalry:0 "근대의 기병대"
 ITA_modern_cavalry_desc:0 "막강한 종마들의 말발굽이 그랬듯 전차의 무한궤도로 적의 뭉개버릴 것입니다!"
 ITA_learn_prussians:0 "프로이센에게서의 학습"
-ITA_learn_prussians_desc:0 "프로이센인들은 제국을 건설하고 혁명에서 살아남아 여전히 강고히 서있습니다. 프로이센의 강점을 배워야 합니다."
+ITA_learn_prussians_desc:0 "프로이센인들은 제국을 벼려내고 혁명에서 살아남아 여전히 강고히 서있습니다. 프로이센의 강점을 배워야 합니다."
 ITA_culture_innovation:0 "혁신의 문화"
 ITA_culture_innovation_desc:0 "혁신의 문화는 강제되어야 합니다. 옛것은 내던지고 새것을 들입시다!"
 ITA_air_staff:0 "공군참모총장의 보고"
