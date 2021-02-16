@@ -628,43 +628,43 @@ UPI.1.desc:0 "“친애하는 제독성장, 공작 윈스턴 처칠 님께. \n\n
 UPI.1.a:0 "편지의 얼룩은 여인의 눈물이었던가, 사내의 것이었던가? 기억할 수조차 없었다."
 
 UPI.2.t:0 "두 번째 편지"
-UPI.2.desc:0 "“It has become apparent that, due to the shortcomings in strategy and a lack of results, that Sir Winston Churchill, Lord of the Admiralty, is deeply incompetent. After repeated mistakes in the assaults on the Dardanelles, including the complete misjudging of the situation regarding mines, the safety of the soldiers to land, and the lack of artillery support provided, despite no less than five battleships being within firing range, resulting in nearly a hundred-thousand casualties within the first four days  of landing, the only course that can be reasonably seen that Churchill is a liability in this role.” \n\n Attached to the back, was the official letter, telling Winston in plain terms that there was little more that could be said, and that the King has officially revoked his role as Lord of the Admiralty. This, he thought, was a memento mori. Not for himself, no. The skull on his table, its phrenological markings a newer addition to the dusty thing, was reminder enough of looming death. This was the death-memory of a career, a career which flung itself into wild adventures it was not ready for. He would never, never, repeat the mistake of Gallipoli, never again send men into the fray without deep, careful consideration. \n\n Assuming he could actually get out of this damned place."
+UPI.2.desc:0 "“전략상 미흡과 결과의 부실에 따라 제독성장 윈스턴 처칠 경이 심히 무능함은 자명해졌다. 지뢰와 상륙한 병사들의 안전에 관한 상황의 철저한 오판, 사거리 내의 전함이 다섯 척보다 적지 않았음에도 벌어진 포격지원 제공의 미비를 비롯한 다르다넬리아 강습에서의 반복된 실수 이후, 상륙 후 나흘 동안 거의 10만 명의 사상자가 발생하게 된 결과는 처칠이 지금의 직책을 맡고 있음에 따른 귀책으로 보는 것이 합당할 것이다.” \n\n 공식서한의 뒷면엔 윈스턴에게 더 이상 할 말이 없다면서, 국왕이 제독성장을 파직했음이 평이한 어투로 쓰여 있었습니다. 처칠은 이 서한을 죽음의 상기라고 여겼습니다. 자신의 죽음을 가리키는 건 결코 아니었습니다. 처칠의 고물들 중 새 추가품이자 골상학적 표식인 탁상 위의 해골은, 번뜩이는 죽음을 상기하기엔 더 없이 족했습니다. 이것은 경력, 준비되지 않은 광란의 모험으로 스스로를 내던져버린 경력의 죽음에 관한 상기였습니다. 그는 다시는, 다시는 갈리폴리의 실수를 반복하지 않을 것이며, 두 번 다시는 숙고와 심고 없이 부하들을 사지로 내몰지 않을 것입니다. \n\n 이 망할 곳에서 정말 벗어날 수 있기라도 하는 양 말입니다."
 UPI.2.a:0 "수년 간 바다의 소금이나 생선의 냄새조차도 맡아보지 못한 그였다. 해안이란 것을 거의 잊고 있었다."
 
 UPI.3.t:0 "세 번째 편지"
-UPI.3.desc:0 "“윈스턴 처칠 경, \n\n 영국 정부 내에서의 자네의 위치에 대해 세 차례나 질문받았네. 던져버린 편지들에 대해선 말할 것도 없겠지만, 15통이나 보낸다고 우체국 업무가 빨라지는 건 아니야, 윈스턴! 자네를 완전한 기피인물이라 결정하진 않았네. 대신 우리는 자네에게 대영제국 식민지들 중 한 곳에 자리를 주기로 했지. 자네가 원한다면 영국령 인도의 러크나우 지사로 있을 수 있게 해줌세.” \n\n 편지의 나머지 부분은 끔찍할 정도로 무의미했습니다. 하지만 전부 처칠에 관한 내용이었습니다. 편지를 통해 그 전부를, 처칠이 지나온 인생을 바라보았습니다. 인도에서의 역할 수락. 쿠르디스탄 이후, 갈리폴리 이후. 대영제국의 이름으로 행해진 수많은 죽음과 파괴와 공포 이후, 제국은 여전히 처칠을 어딘가에서 쓰고자 했습니다. 좋은 신호였거나, 혹은 곧 폭발해버릴 라자의 현실을 알고서도 다가올 싸움에서 처칠이 죽길 바랐던 것일 수도 있었습니다. \n\n 하지만 꿋꿋했던 그는 살아남았습니다. 그리고 그랬듯 앞으로도 그럴 것입니다."
+UPI.3.desc:0 "“윈스턴 처칠 경, \n\n 영국 정부 내에서의 자네의 위치에 대해 세 차례나 질문받았네. 던져버린 편지들에 대해선 말할 것도 없겠지만, 15통이나 보낸다고 우체국 업무가 빨라지는 건 아니야, 윈스턴! 자네를 완전한 기피인물이라 결정내리진 않았네. 우리는 대신 대영제국 식민지들 중 한 곳에 자리를 주기로 했지. 원한다면 영국령 인도의 러크나우 지사로 있을 수 있게 해줌세.” \n\n 편지의 나머지 부분은 끔찍할 정도로 무의미했습니다. 하지만 전부 처칠에 관한 내용이었습니다. 편지를 통해 그 전부를, 처칠이 지나온 인생을 바라보았습니다. 인도에서의 역할 수락. 쿠르디스탄 이후, 갈리폴리 이후. 대영제국의 이름으로 행해진 수많은 죽음과 파괴와 공포 이후, 제국은 여전히 처칠을 어딘가에서 쓰고자 했습니다. 좋은 신호였거나, 혹은 곧 폭발해버릴 라자의 현실을 알고서도 다가올 싸움에서 처칠이 죽길 바랐던 것일 수도 있었습니다. \n\n 하지만 꿋꿋했던 그는 살아남았습니다. 그리고 그랬듯 앞으로도 그럴 것입니다."
 UPI.3.a:0 "피, 사방에 피가 가득했다. 떨어지는 매 방울이 그의 정신을 더럽혀갔다. 여느 도살자들이 그렇듯 진홍빛으로 빨갛게, 뾰로통한 얼굴을 하게 될 때까지."
 
 UPI.4.t:0 "걱정하는 하녀"
-UPI.4.desc:0 "“각하.” 인도 혈통의 하녀가 처칠의 아침 차와 위스키 소다를 들고 방에 들어왔습니다. 한때 ‘입가심’이라 불렸던 소량의 위스키는 이제 소다만큼 늘었습니다. Some days, he just wanted it undiluted. \n\n “들어와.” 처칠이 웅얼댔습니다. “침대 옆에 둬.” he gestured to his side, where he had scarcely woken up before having his breakfast. Of the few perks this post had, getting breakfast in bed was an undeniable one. He picked up the crystal glass, swirled it around, pretending to care about taste and smell before gulping down the drink. The maid watched, her mouth agape in horror at the wreck of a man before her. \n\n “뭐야? 하고 싶은 말이라도 있나?” 하녀의 심려를 알아챈 처칠이 으르렁댔습니다. \n\n “그게, 각하, 무례를 범하려는 건 아닙니다만...” 처칠은 기다렸습니다. 하녀는 기다렸습니다. 공기가 숨을 들이막았습니다. 마치 전투가 벌어지기 전처럼, 첫 탄환이 발사되기 전처럼. “저와 다른 하녀들은... 각하께서 조금이나... 술을 줄이실 수 있을까 해서요. 술로는 마음을...” \n\n 반 파운드치의 단단한 수정잔이 하녀의 눈에 부딪혀 깨졌습니다. 찢어진 눈꺼풀에서 피가 쏟아내며 하녀는 소리를 내질렀습니다. 하녀가 벽에 기대 몸을 웅크리며 눈물을 참으려는 사이, 처칠은 풀려난 지옥의 야수 마냥 하녀를 항해 고함쳤습니다."
+UPI.4.desc:0 "“각하.” 인도 혈통의 하녀가 처칠의 아침 차와 위스키 소다를 들고 방에 들어왔습니다. 한때 ‘입가심’이라 불렸던 소량의 위스키는 이제 첨가한 소다만큼 늘었습니다. 어떤 날엔 소다에 희석하지 않고 그만큼을 마시기도 했습니다. \n\n “들어와.” 처칠이 웅얼댔습니다. “침대 옆에 둬.” 아침식사를 위해 간신히 눈을 뜬 그는 자신의 옆으로 손짓했습니다. 이 직책에 있으며 누릴 수 있는 것들 중 침대에서 하는 아침식사는 부정할 수 없는 것이었습니다. 맛과 향을 즐기기라도 하는 양, 집어든 수정잔을 휘저은 처칠은 곧장 위스키를 꿀꺽 삼켰습니다. 바라보던 하녀는 사내의 입에 생긴 균열에 공포 빠져 입을 닫지 못 했습니다. \n\n “뭐야? 하고 싶은 말이라도 있나?” 하녀의 심려를 알아챈 처칠이 으르렁대는 소리였습니다. \n\n “그게, 각하, 무례를 범하려는 건 아닙니다만...” 처칠은 기다렸습니다. 하녀는 기다렸습니다. 공기가 숨을 들이막았습니다. 마치 전투가 벌어지기 전처럼, 첫 탄환이 발사되기 전처럼. “저와 다른 하녀들은... 각하께서 조금이나... 술을 줄이실 수 있을까 해서요. 술로는 마음을...” \n\n 반 파운드치의 단단한 수정잔이 하녀의 눈에 부딪혀 깨졌습니다. 찢어진 눈꺼풀에서 피를 쏟아내며 하녀는 소리를 내질렀습니다. 하녀가 벽에 기대 몸을 웅크리며 눈물을 참으려는 사이, 처칠은 풀려난 지옥의 야수 마냥 하녀를 향해 고함쳤습니다."
 UPI.4.a:0 "“누가 좆도 도와달라고 한 줄 알아! 개같은 위스키나 더 내놔!”"
 
 UPI.5.t:0 "걱정하는 군인"
-UPI.5.desc:0 "“각하!” 한 사내가 처칠의 도서관으로 들어와 경례했습니다. 사내는 20살도 안 된 젊은 잉글랜드인 군인이었습니다. 각이 잡히고 빳빳히 서서, 넓은 어깨와 가슴을 가진 이런 인물이라면 원주민들이 난동을 부릴 때 옳을 일을 맡길 수 있을 테였습니다. 병사는 신이 버리고 태양으로 지져진 이 땅에서 얻을 수 있는 최고의 총인 엔필드-마티니를 잘 관리한 상태로 들고 있었습니다. 모범병사라 할 만했습니다. 처칠은 건성으로 경례를 받았습니다. \n\n “보고 드립니다, 각하. 말씀하신 대로 마당에서 열병식을 진행할 예정입니다. 그리고, 제가 판단이나 명령을 내릴 자리에 있는 건 아닙니다만, 각하, 직접 행사에 자리하셔 달라는 랜덜 대령의 말을 전해드립니다. 대령은 햇빛을 쬐면 나아지실 것이라 했습니다. 각하.” \n\n 잠시 멈춘 처칠은 경비대원을 바라보았습니다. 얼굴을 찡그린 그는 병사의 이름을 물었습니다. \n\n “이병 조지 스테이섬.” \n\n “이병이라고? 잘 들어 젊은이, 다시는 그 문제로 나한테 말하지 마.” 처칠은 말을 내뱉었습니다. \n\n “각하, 저는 그저...” \n\n “그래, 알아, 자넨 명령에 따를 뿐이지. 한 마디 더 하지. 그 핏기 없는 하얀 궁둥이를 들고 당장 하룻동안 러크나우 거리로 나가 봐. 그럼 내가 왜 안 나가는지 알게 될 테니까. 지휘관한테 가서 자네를 경비대에서 해직하고 군경으로 재배치한다고 전해. 내 명령이라고.” \n\n “그렇지만 각하!” \n\n “나가!”"
-UPI.5.a:0 "“누구 머리 하나를 쪼개버리기 전까진 돌아올 생각도 하지 말라고!”"
+UPI.5.desc:0 "“각하!” 한 사내가 처칠의 도서관으로 들어와 경례했습니다. 사내는 20살도 안 된 젊은 잉글랜드인 군인이었습니다. 각이 잡히고 빳빳이 서서, 넓은 어깨와 가슴을 가진 이런 인물이라면 원주민들이 난동을 부릴 때 옳을 일을 맡길 수 있을 테였습니다. 병사는 신이 버리고 태양으로 지져진 이 땅에서 얻을 수 있는 최고의 총인 엔필드-마티니를 잘 관리한 상태로 들고 있었습니다. 모범병사라 할 만했습니다. 처칠은 건성으로 경례를 받았습니다. \n\n “보고 드립니다, 각하. 말씀하신 대로 마당에서 열병식을 진행할 예정입니다. 그리고, 제가 판단이나 명령을 내릴 자리에 있는 건 아닙니다만, 각하, 직접 행사에 자리하셔 달라는 랜덜 대령의 말을 전해드립니다. 대령은 햇빛을 쬐면 나아지실 것이라 했습니다. 각하.” \n\n 잠시 멈춘 처칠은 경비대원을 바라보았습니다. 얼굴을 찡그린 그는 병사의 이름을 물었습니다. \n\n “이병 조지 스테이섬.” \n\n “이병이라고? 잘 들어 젊은이, 다시는 그 문제로 나한테 말하지 마.” 처칠은 말을 내뱉었습니다. \n\n “각하, 저는 그저...” \n\n “그래, 알아, 자넨 명령에 따를 뿐이지. 한 마디 더 하지. 그 핏기 없는 하얀 궁둥이를 들고 당장 하룻동안 러크나우 거리로 나가 봐. 그럼 내가 왜 안 나가는지 알게 될 테니까. 지휘관한테 가서 자네를 경비대에서 해직하고 군경으로 재배치한다고 전해. 내 명령이라고.” \n\n “그렇지만 각하!” \n\n “가 봐!”"
+UPI.5.a:0 "“누구 머리 하나를 쪼개버리기 전까진 돌아올 생각도 말라고!”"
 
 UPI.6.t:0 "도서관에서의 하룻밤"
-UPI.6.desc:0 "바닥으로 떨어지며 격렬히 튀기는 방울들의 빗소리는 고요한 궁에서 나는 유일한 소리였습니다. \n\n “생각하는 데 비가 도움이 될지도 몰라.” 관심을 잃고 취한 처칠이 창문을 바라보며 생각했습니다. 늙은 부왕은 중얼거렸습니다. 무언가로 도서관을 찾은 그였지만 그게 무엇이었는지 기억할 수 없었습니다. 그저 책 한 권을 집으려던 것이었을까요? 스미스가 내어준 오랜 지혜의 조각이라면 라자를 제대로 되돌려놓는 데 유용할 수도 있겠죠. 셰익스피어의 고전 몇 편이라면 처칠의 불면증을 완화하는 데 도움이 될지도 모르겠죠. 안락한 의자에서 위스키나 한 잔 하려고 온 것이었을까요? 뭐, 항상 마시면서 관저의 모든 의자에 앉아 술을 마시는 처칠이니까요. \n\n 아니면 아무것도 안 하는 게 지루해서 책상에 올라온 보고서들을 살피려던 걸 수도 있겠네요. 이 시점에선 그게 무엇이든 가능성이 있었습니다. \n\n “자야겠어.” 처칠은 결정했습니다. 처칠의 무거운 발을 품고 융단 위를 쓰는 슬리퍼의 시끄러운 소리가 지루함으로 그의 마음을 채웠습니다. 매 걸음마다 61년이란 평생의 세월이 그를 향해 다가오는 것 같았습니다. 그 멍청했던 갈리폴리 작전을 제의했을 당시 가졌던 열정을 다시 갖길 노인은 바라고 있었습니다. 실패의 요란한 공명조차 지금의 우울한 상황보다 더 많은 생명력을 그의 안에 채워놓고 있었습니다."
+UPI.6.desc:0 "바닥으로 떨어지며 격렬히 튀기는 방울들의 빗소리는 고요한 궁에서 나는 유일한 소리였습니다. \n\n “생각하는 데 비가 도움이 될지도.” 관심을 잃고 취한 처칠은 창문을 바라보며 생각했습니다. 늙은 부왕은 중얼거렸습니다. 무언가로 도서관을 찾은 그였지만 그게 무엇이었는지 기억할 수 없었습니다. 그저 책 한 권을 집으려던 것이었을까요? 스미스가 내어준 오랜 지혜의 조각이라면 라자를 제대로 되돌려놓는 데 유용할 수도 있겠죠. 셰익스피어의 고전 몇 편이라면 처칠의 불면증을 완화하는 데 도움이 될지도 모르겠죠. 안락한 의자에서 위스키나 한 잔 하려고 온 것이었을까요? 뭐, 항상 마시면서, 관저의 모든 의자에 앉아 술을 마시는 처칠이니까요. \n\n 아니면 아무것도 안 하는 게 지루해서 책상에 올라온 보고서들을 살피려던 걸 수도 있겠네요. 이 시점에선 그게 무엇이든 그럴 법했습니다. \n\n “자야겠어.” 처칠은 결정했습니다. 처칠의 무거운 발을 품고 융단 위를 쓰는 슬리퍼의 시끄러운 소리가 지루함으로 그의 마음을 채웠습니다. 매 걸음마다 61년이란 평생의 세월이 그를 향해 다가오는 것 같았습니다. 그 멍청했던 갈리폴리 작전을 제의했을 당시 가졌던 열정을 다시 갖길 노인은 바라고 있었습니다. 실패의 요란한 공명조차 지금의 우울한 상황보다 더 많은 생명력을 그의 안에 채워놓고 있었습니다."
 UPI.6.a:0 "“내 인생도 제대로 통제 못하던 거였나?”"
 
 UPI.7.t:0 "처칠의 선택"
-UPI.7.desc:0 "It’s clear now. After many bottles, after many cigars, after lively debate, and not a small amount of requests he ‘sleep it off,’ Churchill has seen that there’s only three paths left for him. Four, if you count ‘shoving a gun down my throat and pulling the trigger.’ But as that is off the table, three it is. \n\n First, he can go forwards as he had before, attempt to contact Britain. It will require just a little bit of shoving people out of the way, but it is entirely possible. He could do it. Just…get past those socialist warlords in Bihar, and taste the salt of the sea once more. Yes, yes he could do that. He could do that. \n\n Next, he could double down. Become worse. If the Indians are already putting up posters declaring his monsterhood, then he could very well become a monster. Order, at all costs. Order, in all times. Reunite the provinces of India, form a new Raj, one that could last a thousand years, as long as Britain, until every trace of this disgusting continent is gone, and all that is left is a Britain he loves. \n\n Or…or he could be a politician again. The warlord life never suited him. No, he loves democracy too much, he loves freedom too much, to think about being a warlord. Introduce reforms, install a new electoral system. If he will create a new Raj, it will be through peace. If he creates a new Raj, it could be with words, not weapons. \n\n But which way forwards? Which way?"
-UPI.7.a:0 "“어쩌면 이런 폭정의 길은 버려져야 할지도...”"
+UPI.7.desc:0 "이젠 분명합니다. 수많은 술병 이후, 수많은 시가 이후, 뜨거운 토론 이후, 그리고 결코 적지 않았던 ‘술잠’ 이후, 처칠은 자신에게 남은 것이 세 가지뿐임을 알게 되었습니다. ‘총구멍을 입에 쑤셔넣고 방아쇠를 당긴다’를 포함하면 네 가지겠지만요. 그렇지만, 논제를 벗어난 네 번째를 빼면 남는 건 세 가지입니다. \n\n 우섡은 전에 그랬듯 앞으로 가 영국과의 접촉을 시도하는 것입니다. 몇몇 이들을 밀쳐내야 하겠지만 가능은 합니다. 처칠은 할 수 있습니다. 그저... 비하르의 사회주의자 군벌들을 지나야 바다의 소금기를 다시 맛볼 수 있겠지만 말이죠. 예, 그럼요, 할 수 있고 말고요. 할 수 있어요. \n\n 다음은 힘을 좀 쓰는 것입니다. 최악이 되겠죠. 인도인들이 처칠을 괴물로 표현한 선전물을 잔뜩 붙여놨으니, 처칠이 괴물이 되어주지 못할 것도 없을 테니까요. 모든 것을 감수할 질서. 때를 가리지 않을 질서. 인도의 주들을 재합하고, 영국과 더불어 천 년을, 이 역겨운 대륙의 모든 흔적이 사라지고 영국이 사랑하는 것들만 남을 때까지 지속할 새 라자를 세우는 것. \n\n 아니면... 아니면 다시 정치인이 될 수도 있겠죠. 군벌의 삶은 결코 맞지 않았잖아요. 아니죠, 군벌이 되는 길을 생각하기에 처칠은 민주정을 너무나 사랑하고, 처칠은 자유를 너무나 사랑하죠. 개혁을 도입하고 새 선거제를 설치하는 거요. 새 라자는 평화로써 세워질 것입니다. 새 라자는 무기가 아닌 대화로써 세워질 수 있습니다. \n\n 그렇지만 어떤 길로 나아가야 하는 걸까요? 어떤 길로요?"
+UPI.7.a:0 "“어쩌면 이런 폭정의 방식을 버려야 할지도...”"
 UPI.7.b:0 "“영국과의 접촉만 되찾으면 그만이야. 할 수 있다고!”"
 UPI.7.c:0 "“됐어! 무슨 수를 써서라도 이 똥통에 질서를 가져와 보이지!”"
 
 
 
 UPI.8.t:0 "노선변경"
-UPI.8.desc:0 "예, 처칠은 깨달았습니다. 죄다 망쳐놓고 있었다는 것을요. In India, I am here for a reason. That reason, he reasoned, was not to dole death and chaos out on an unruly population. No, the Indians were merely uneducated, untaught, uncouth people – and people like that couldn’t be too terribly different from the impoverished Smoggies his fellows would court for election. \n\n 아뇨, 처칠이 실수했다면, 그건 인도인들이 자유로이 숨쉴, 민주정과 평화를 얻을, 무엇보다 처칠이 한때 영국 시민으로서, 영국 정치인으로서 가졌던 오랜 가치들을 얻어야 했다는 뜻일 겁니다. 예, 실로 이 인도인들에게 필요했던 건 독재의 강권이 아니라, 민주정의 사려깊고 따스한 손길이었습니다! Now, the form that democracy would take, and how much say the Indians would actually have..."
+UPI.8.desc:0 "예, 처칠은 깨달았습니다. 자신이 죄다 망쳐놓고 있었다는 것을요. 인도에 그가 있는 데엔 이유가 있습니다. 처칠을 이해시킨 그 이유는 제멋대로 구는 사람들에게 한탄스러운 죽음과 혼돈을 지우기 위한 것이 아닙니다. 아뇨, 인도인들은 그저 교육 못 받고, 못 배우고, 못 씻는 사람들입니다. 처칠의 동료들이 선거를 위해 환심을 사야했던 찢어지게 가난한 스모기들과 절대 다르지 않을 부류의 것들이요. \n\n 아뇨, 처칠이 실수했다면, 그건 인도인들이 자유로이 숨쉴, 민주정과 평화를 얻을, 무엇보다 처칠이 한때 영국 시민으로서, 영국 정치인으로서 가졌던 오랜 가치들을 얻어야 했다는 뜻일 겁니다. 예, 실로 이 인도인들에게 필요했던 건 독재의 강권이 아니라, 민주정의 사려깊고 따스한 손길이었습니다! 이제, 가져야 했을 민주정을 세웠을 때 인도인들이 그 민주정을 얼마나 가지게 될지 한번 봅시다..."
 UPI.8.a:0 "훌륭한 발상입니다, 각하! 이제 더 이상 온종일 비틀대지 않으시겠다는 말씀이시죠?"
 
 UPI.9.t:0 "폭탄에서 곤봉으로"
-UPI.9.desc:0 "“총은 안 돼.” 서장의 말에 안드레이는 믿을 수 없다는 듯 코웃음쳤습니다. \n\n “잘 못 들었습니다?” \n\n “처칠의 명령이야. 총은 안 돼. Take a nightstick if you need it, but we’re only to break out these,” 서장은 산탄총을 두드렸습니다. “When we’re actually being threatened. Otherwise, it’s too aggressive. Part of his liberalization reforms.” \n\n “What, so when a bunch of thugs come and wanna gut me for fucking with them a few weeks ago, I just stand there and get shanked?” \n\n “No, you call for help, idiot.” The chief crossed his arms, glaring at the officer. “Your entire job is to protect and serve the people of our nation, not shoot and plunder the people. Churchill is trying to rehabilitate his image among the people, and you are a representative of Churchill. That means we’re part of this rehabilitation too.” \n\n “Yeah, yeah, I get it. I’ll be nice to the thieves tonight, don’t worry.”"
+UPI.9.desc:0 "“총은 안 돼.” 서장의 말에 안드레이는 믿을 수 없다는 듯 코웃음쳤습니다. \n\n “잘 못 들었습니다?” \n\n “처칠의 명령이야. 총은 안 돼. 필요하다면 곤봉을 써. 그 외에 우리가 꺼낼 수 있는 건 이것뿐이야.” 서장은 산탄총을 두드렸습니다. “정말로 목숨이 오갈 때의 얘기지. 그런 게 아니면 너무 공격적이니까. 처칠의 자유화 개혁의 일환이야.” \n\n “뭐, 몇 주 전까지 제 내장을 끄집어내려던 잡배가 다시 왔을 때 그 자리에서 몸이나 쑤셔지라고요?” \n\n “아니, 지원을 요청해야지 멍청아.” 서장은 팔짱을 낀 채 경관을 바라봤습니다. “네 일은 인민을 보호하고 섬기는 거지 쏘고 터는 게 아니야. 처칠은 인민에게 자신의 상을 바로 세우려 하고 있고 넌 처칠의 대리자야. 말인 즉 너도 똑바로 행동하라는 거고.” \n\n “예, 예, 알겠습니다. 오늘밤엔 도둑놈들한테 잘해주겠습니다, 걱정마십시오.”"
 UPI.9.a:0 "풋, ‘인민은 절박해요’라는 게 무슨 소리야! 법은 법이야."
 
 UPI.10.t:0 "검열할 시간이에요!"
-UPI.10.desc:0 "17명이 후진적인 어느 촌락에 있습니다. 러크나우 교외엔 5만 4천 명이 삽니다. 95%가 힌두교인이고, 5% 정도가 무슬림에, 무시해도 될 수준의 자이나교, 기독교, 유대교, 시크교인이 있습니다. 여성이 101명에서 100명으로. 지루해요, 지루해요, 지루해! 호구조사관은 자신의 가슴에 달린 처칠 인장을 본 사람들이 계란을 던지지 않길 바라며 집집마다 문을 두드렸습니다.  \n\n 조사관은 아주 작은 진흙벽돌 오두막, 아무 가치도 없고 필연적인 종말만 기다리는 달리타들이 살 법한 오두막에 접근했습니다. 쓸모 없는 이들이라 해도, 쓸모 없는 대로 표시는 해야 했습니다. 조사관은 문을 두드리고 기다렸습니다. 문을 열고 나온 여자는 조사관을 환영하다가도, 가슴에 달린 인장을 알아보았습니다. 들어선 집안의 분위기는 무척이나 무거워 숨이 막힐 정도였습니다. 의자에 앉은 남자는 눈에 붕대를 두르고, 온몸에는 클로린 가스로 인한 상처들이 뒤덮여 있었습니다. 여자가 입을 열었습니다. \n\n “도와드릴까요?”"
+UPI.10.desc:0 "후진적인 어느 촌락에 17명. 러크나우 교외에 5만 4천 명. 95%가 힌두교인, 5%가 무슬림, 무시해도 될 수준의 자이나교, 기독교, 유대교, 시크교인. 여성이 101명에서 100명으로. 지루해요, 지루해요, 지루해! 호구조사관은 자신의 가슴에 달린 처칠 인장을 본 사람들이 계란을 던지지 않길 바라며 집집마다 문을 두드렸습니다. \n\n 조사관은 아주 작은 진흙벽돌 오두막, 아무 가치도 없고 필연적인 종말만 기다리는 달리타들이 살 법한 오두막에 접근했습니다. 쓸모 없는 이들이라 해도, 쓸모 없는 대로 표시는 해야 했습니다. 조사관은 문을 두드리고 기다렸습니다. 문을 열고 나온 여자는 조사관을 환영하다가도, 가슴에 달린 인장을 알아보았습니다. 들어선 집안의 분위기는 무척이나 무거워 숨이 막힐 정도였습니다. 의자에 앉은 남자는 눈에 붕대를 두르고, 클로린 가스로 인한 상처들이 온몸을 뒤덮고 있었습니다. 여자가 입을 열었습니다. \n\n “도와드릴까요?”"
 UPI.10.a:0 "여자 2명, 남자 1명. 세 남자아이가 있었음. 있었음."
 
 UPI.11.t:0 "새 헌법"
@@ -714,9 +714,9 @@ UPI.18.a:0 "“진심인 것 같군...”"
 UPI.18.b:0 "“거짓말쟁이 새끼.”"
 UPI.18.c:0 "“사랑하는 사람한테 매번 클로린 가스를 뿌리나 보지?”"
 
-UPI.19.t:0 "Churchill Accosted"
+UPI.19.t:0 "마주하게 된 처칠"
 UPI.19.desc:0 "“살인마! 살인마! 살인마!” That seemed to be the only English word these people knew. Churchill was in a car, a car that was rickety and old and needed repair, one that hadn’t had a tune-up since Ford discovered mass production. An egg smashed against the window, pale yolk dribbling down the glass. Churchill felt, for perhaps the first time in years, threatened. Hated. Not like after Gallipoli, no. After that, he knew he could make amends. In Kurdistan, that is what he tried to do. It failed, obviously. But here, amends were not possible. And so he cowered, hoping that there wasn’t an egg aiming for him, or better, a bullet."
-UPI.19.a:0 "Damned sava...damned malcontents..."
+UPI.19.a:0 "Damned sava... damned malcontents..."
 UPI.19.b:0 "뭐, 옳진 않지만... 이해는 하네."
 UPI.19.c:0 "다른 반응을 기대하진 말았어야지."
 
@@ -728,21 +728,21 @@ UPI.20.c:0 "Waste? That’s an orchard!"
 
 UPI.21.t:0 "후보들과의 대담"
 UPI.21.desc:0 "The meeting was boring for good old Winston Churchill. It was comprised upstarts who thought Churchill was irresponsible, or a murderer, or some sort of Indian mass-criminal, responsible for everything from rising crime in Lucknow (how could he be blamed for that! It’s not like he told others to steal, they did it themselves!) to the villages around Delhi. Something about him creating ‘desperate conditions.’ He didn’t register what was said, it was too ridiculous, like some clown walking on to stage and saying he had abused rubber animal rights. It was...too much. The liberals were alright, but the social democrats, the labour party, they were unbearable. Not to mention the fringes, the fringes he could ignore because some French woman was claiming to represent all of India. What foolishness."
-UPI.21.a:0 "Further proof the Indian cannot lead..."
-UPI.21.b:0 "Oh...shit. We might need some more reforms to handle some of these weirdos."
-UPI.21.c:0 "An interesting group of people. India has more secrets than we realized."
+UPI.21.a:0 "인도인은 이끌 수 없다는 또 다른 증거로군..."
+UPI.21.b:0 "아... 씹. 이 괴짜들을 다루려면 더 많은 개혁이 필요하겠어."
+UPI.21.c:0 "흥미로운 사람들이야. 인도엔 우리가 알던 것보다 비밀이 더 많군."
 
 UPI.22.t:0 "선거유세 입안"
 UPI.22.desc:0 "The people of the United Provinces adore Churchill, that is obvious, that is something that really isn’t in dispute. But they’ll hear other people, other ideas, other things that lead them astray and lead them into things that will lead to a destruction of India, and worse than that, lead to Churchill being out of power. That can’t be allowed – we must bring a commitment to India first and foremost to the table, we must convince every person who could possibly vote for us that not only are we the best option, we are the only option. The campaign starts now."
-UPI.22.a:0 "“We are stability!”"
-UPI.22.b:0 "“We are peace!”"
-UPI.22.c:0 "“We are reform!”"
+UPI.22.a:0 "“우리가 안정이다!”"
+UPI.22.b:0 "“우리가 평화다!”"
+UPI.22.c:0 "“우리가 개혁이다!”"
 
 UPI.23.t:0 "처칠의 연설"
 UPI.23.desc:0 "“India, India, yes. I love India. I wish to bring democracy to India, to bring the way of life that the Brits paved for us, though forces conspired to never allow it to bloom. Now, it shall. I will bring bread, I will bring shelter, I will ensure each and every person in India has naan enough to fill their stomach, and every Indian woman has a house to tend, and every man shall work.” Churchill’s voice mumbled into the microphone. \n\n “When you see India, you see a home. When you see India, you see something worth preserving. So do I. So do I, people of the United Provinces, people of India. That is why I, above all others, will be the one to lead the United Provinces into the future.”"
-UPI.23.a:0 "“India forwards, Churchill leading!”"
-UPI.23.b:0 "“He’s not the only one who wants to lead.”"
-UPI.23.c:0 "“Showboating and lies.”"
+UPI.23.a:0 "“처칠이 이끌고 인도는 전진한다!”"
+UPI.23.b:0 "“이끌고 싶어하는 사람이 지 혼자인 줄 아나.”"
+UPI.23.c:0 "“연기에 거짓말 뿐.”"
 
 UPI.24.t:0 "처칠의 후원자들"
 UPI.24.desc:0 "“My good Lords, my Princes, I ask you tonight for your support. Under my rule, I have stopped the Socialists from overthrowing you as they have in the West and East. I stopped the nationalists from gutting your power, I stopped the savage and uneducated from determining their own fate, and took your council always. I will continue to do so as I rule, I will continue to see you as equals, as nobles and aristocrats in a world increasingly hostile to our kind.” Those leaders of the Princely states all nodded in agreement, murmuring among themselves that Churchill had, for his faults, done more for them than they could expect from the liberals or social democrats, or the socialists to the West should the instability allow them to step in. And so, once Churchill’s speech was done, the old money and entrenched power of the Princely states backed him wholeheartedly."
