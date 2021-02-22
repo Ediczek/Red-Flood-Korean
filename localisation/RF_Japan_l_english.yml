@@ -121,7 +121,7 @@ JAP_abolished_zaibs:0 "독점 분쇄"
 JAP_abolished_zaibs_desc:0 ""
 JPR_abolished_zaibs:0 "환율 개선"
 JPR_abolished_zaibs_desc:0 ""
-JAP_champions_day:0 "Champion's Day"
+JAP_champions_day:0 "영웅절"
 JAP_champions_day_desc:0 ""
 JPR_sailors_union:0 "Sailor's Union"
 JPR_sailors_union_desc:0 ""
@@ -839,14 +839,14 @@ JAP_the_future_of_the_sunrise_kingdom_desc:0 ""
 #JAP_sieze_factories:0 "공장 몰수"
 #JAP_sieze_factories_desc:0 "The capitalists and land-owners who kept the profits of industry for themselves will have their property redistributed, a compensation will be paid to those who accept our generous terms, consquences await those who refuse..."
 
-#JAP_devalue_the_zen:0 "Devalue the Zen"
-#JAP_devalue_the_zen_desc:0 "In order to improve the conditions of the people we should take the drastic measure of printing Zen in large quantities, distribute the money to the people and take advantage of the new lower exhange rate to encourage business from our comrades abroad."
+#JAP_devalue_the_zen:0 "엔 평가절하"
+#JAP_devalue_the_zen_desc:0 "인민의 요건을 개선하려면, 엔화를 대량으로 발행해 인민에게 돈을 분배하고 절하된 교환값으로 해외 동지들을 상대하는 우리 사업을 도와야 합니다."
 
 #JAP_abolish_the_zaibatsu:0 "재벌 해체"
 #JAP_abolish_the_zaibatsu_desc:0 "The Zaibatsus were the beating heart of the exploitative capitalist machine that drove Japan into chaos, they must never return! The companies are hearby dissolved, their assets re-distributed and their structure made illegal so that the mistakes may never be repeated."
 
-#JAP_champions_day:0 "Champion's Day"
-#JAP_champions_day_desc:0 "A new naitonal day of commemoration, mourning, rememberance and celebration, Champion's Day, the day of the Revolution's Victory."
+#JAP_champions_day:0 "영웅절"
+#JAP_champions_day_desc:0 "기념, 애도, 추모, 축하의 새 국경일인 영웅절은 혁명의 승리를 위한 날입니다."
 
 #crash tree#
 JAP_sunset_stock_crash:0 "일몰 주식붕괴"
