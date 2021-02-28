@@ -199,7 +199,7 @@ RULE_OPTION_BLR_EMPIRE_DESC:0 "아타만의 독재가 뒤집어지고 군주정�
 RULE_OPTION_BLR_SAVINKOV:0 "£RF_game_rule_flag_BLR  페트로그라드를 향한 복수"
 RULE_OPTION_BLR_SAVINKOV_DESC:0 "보리스 사빈코프가 국가수반이 됩니다."
 RULE_OPTION_BLR_VITUSKA:0 "£RF_game_rule_flag_BLR_reactionism  복고"
-RULE_OPTION_BLR_VITUSKA_DESC:0 "미하우 비투쉬카가 국가수반이 됩니다."
+RULE_OPTION_BLR_VITUSKA_DESC:0 "미할 비투쉬카가 국가수반이 됩니다."
 RULE_OPTION_BLR_BOGDANOV:0 "£RF_game_rule_flag_BLR_accelerationism  건신자들"
 RULE_OPTION_BLR_BOGDANOV_DESC:0 "알략산드르 바흐다나우가 국가수반이 됩니다."
 
