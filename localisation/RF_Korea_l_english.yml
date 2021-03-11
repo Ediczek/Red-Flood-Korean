@@ -117,12 +117,12 @@ JKR_accelerationism_party_long:0 "조선민족혁명당"
 KOR_SETTING_SUN_DESC:0 "일본 제국의 보석인 조선, 혹은 한국은 중대한 식민정책과 산업화 노력의 산물입니다. 하지만 희생이 없진 않습니다. 1919년 만세 '폭동' 이래 조선에서의 독립활동은 점차 커지고 있습니다. 조선 내의 활동가들, 중국 및 만주의 친국민당 유격대가 조선을 쥔 일본의 손아귀를 노리고 있습니다."
 
 POLITICS_Ugaki_Kazushige_DESC:0 ""
-POLITICS_RHEE_DESC:0 "이승만 박사는 is one of the veterans of the Korean Nationalist movement, he has spent most of his adult life campaigning for it, having built strong ties in America and China to do so. But he is by far one of the most conservative and ruthless of the movement's leaders, leading to his ostracisation by most forward-thinking, moderate and leftist elements. He still keeps the company of the national conservatives, but the influence of Ahn Changho is beginning to outstrip his own."
-POLITICS_AHN_DESC:0 "안창호는 명석한 한국계 미국인 기독교인이자 한국 독립운동사의 이정표와 같습니다. One-time president of the provisional government-in-exile, his educated background and connections in America have made him a formidable political leader in the struggle to liberate Korea."
-POLITICS_KOO_DESC:0 "호인 \"백범\"으로도 유명한 김구는 has made the independence of a Korean Republic his mission in life, and has stood as vice president of the republic-in-exile for years. One of the leaders of the Donghak Movement and a prominent figure among Korean independence acitivsts since the March 1st Movement, his long career has brought him the respect of his peers in the patriotic groups. His ardent anti-communist stance makes him a polarising figure to some in the fatherland, but his position is also considered too soft by the likes of Syngman Rhee."
-POLITICS_YUH_DESC:0 "여운형은 may come from a well-to-do family, but he has been a force for popular democratic left-wing nationalism among Korean independence activists for years. A true believer in the spirit of self-determination and co-operation, he is one of the few in the Korean Republic who do not see the more radical leftist elements in the North as enemies, rather as brothers in the same struggle to unite Korea. Though in the end, he may not get his way, as war between the two sides is highly likely regardless of his soothing words of brotherhood."
-POLITICS_CHOE_DESC:0 "최창익은 is among the younger political leaders of the Korean Revolution, having been a student at the time of the March 1st Movement. But all the same he has become a prominent voice among Internationalist circles of the Korean Independence Movement."
-POLITICS_CHO_DESC:0 "조만식은 commands a great deal of respect among leftists in the Korean Independence Movement. He was arrested in the March 1st crackdowns by the Japanese, but went on to become an important figure in organising people's committees and promoting agricultural programs of self-sufficiency. While his Christian faith is a problem for some among the Korean socialists, he remains an important figure, crucial to the success of a socialist Korea."
+POLITICS_RHEE_DESC:0 "한국 민족운동의 노장들 중 한 명인 이승만 박사는 성인이 된 후로 삶의 대부분을 독립에 바치며 미국과 중국에서 강력한 연줄을 확보했습니다. 그러나 또한 독립지도자들 중 가장 보수적이며 잔혹한 이들 중 한 명이라는 사실은, 임정의 장래를 고려한 온건파와 좌익에 의한 이승만의 탄핵으로 이어졌습니다. 이승만은 여전히 민족보수파의 일원으로 남아있지만, 안창호의 영향력이 이미 그의 것을 압도하기 시작했습니다."
+POLITICS_AHN_DESC:0 "안창호는 명석한 한국계 미국인 기독교인이자 한국 독립운동사의 이정표와 같습니다. 망명임시정부의 일시 주석이었던 그는 미국에서 교육받으며 인맥을 확보해 대한의 해방을 위한 투쟁에서 확고한 정치지도자로 떠오르게 되었습니다."
+POLITICS_KOO_DESC:0 "호인 \"백범\"으로도 유명한 김구는 대한민국의 독립을 평생의 사명으로 삼았으며, 수년 간 망명정부의 부주석으로 재직했습니다. 동학 봉기의 지도자들 중 한 명이자 3.1 운동 이래 주요 독립운동가가 된 그의 기나긴 이력은 애국집단 내 동료들에게 존경을 불러일으켰습니다. 비록 그의 단호한 반공주의적 태세가 조국의 일부에서 그를 정치극단화를 일으킬 인물로 분류하게 만들었다지만, 이승만의 시점에서 김구의 입장은 오히려 유약하게만 보입니다."
+POLITICS_YUH_DESC:0 "여운형이 유복한 집안에서 태어났다곤 해도, 그는 수년 간 한국 독립운동가들 사이에서 대중적인 민주 좌익민족주의를 이끈 기둥입니다. 자결과 협력의 정신을 진정으로 신봉하는 여운형은 더 급진적인 북의 좌익 세력을 적이 아닌, 통일 대한을 위한 같은 투쟁에 투신한 형제로서 받아들이는, 대한민국에 몇 안 되는 인물들 중 하나입니다. 하지만 그의 우애적인 감언에도 양측 간의 긴장감이 높아짐에 따라, 여운형이 바라던 바를 이루는 것은 불가능해질 듯합니다."
+POLITICS_CHOE_DESC:0 "최창익은 대한혁명에서 가장 어린 정치지도들 중 하나로, 3.1 운동 당시엔 학생에 불과했습니다. 그러나 그는 지금 독립운동 내 국제주의파에서 큰 목소리를 내는 인물이 되었습니다."
+POLITICS_CHO_DESC:0 "조만식은 조선 독립운동 내 좌익들에게서 크게 존경받는 인물입니다. 3.1 운동이 진압당하는 과정에서 일본에게 체포당하기도 했지만, 이후 인민위원회를 조직하고 자급 농업구안책을 장려하며 조만식은 요인으로 떠올랐습니다. 조선의 사회주의자들 중 일부가 그의 기독교 신앙을 문제삼아도, 조만식은 사회주의 조선의 성공에 없어선 안 될 핵심입니다."
 POLITICS_KIM_DESC:0 "아나키스트 지도자라는 개념 자체가 형용모순적이라 해도, 김좌진은 만주 남동부의 한인 지역에서 아나키스트 유격대의 수장과 같은 존재가 되었습니다. His arrival in Korea for the revolution signals a shift in intent, having tested the means and methods of Korean anarchism in the countryside borderlands between Mantetsu and Zheltorossiya, the Korean anarchist faction is now a leading component of the revolutionary political scene. Kim has been repeatedly voted as the chairman of the council, making him now the most experienced statesman among them."
 POLITICS_PAK_DESC:0 "박헌영은 is seemingly ever-present where the Korean socialist cause is concerned, he has made it his business to be involved in any and all activities that may lead to a communist Korea, right down to helping to organise the Worker's Party in 1925. Despite his relative youth among his peers, he is a senior leader and well read on the German Revolution, having even spent time abroad among Chinese communists during the late 20's. During the early 1930's he has made himself busy with clandestine meetings, arangements and deal brokering between the various socialist movements in Korea, in an attempt to build a coalition that can pose a serious threat to Japanese rule in Korea."
 POLITICS_SIN_DESC:0 "1910년대와 20년대, 단재 신채호는 한국 민족주의 조직들의 귀인이었습니다. He advocated for the Korean national and ethnic people viscerally, but this fervour brought him under the close watch of the Japanese authorities. He exiled himself to Manchuria, co-operating with Korean anarchists in the region and formulating his writings into a cogent ideological viewpoint. Today, his ideology is known as Juche, his program of national rebirth and ethnic nationalism under a kind of anarcho-syndicalism has become one of the more popular ideologies in Northern Korea. However, in order to enact his program he must first over come the internal differences in Korea and then the occupying powers in Manchuria. He is by far the most ambitious of Korea's revolutionary leaders, and perhaps the most dangerous too, the bounty on his head is considerable even to this day."
@@ -130,13 +130,13 @@ POLITICS_SIN_DESC:0 "1910년대와 20년대, 단재 신채호는 한국 민족�
 #Kor
 #starting tree#
 KOR_jap_colony:0 "일본 식민화"
-KOR_jap_colony_desc:0 "Japanese settlements have been slowly building for the past 25 years with no sign of letting up. The existing Japanese population in Korea has a disroporitionate level of influence and control. Efforts to suppress Korean Nationalism and cultural influence are active among the ruling class in spite of fierct opposition."
+KOR_jap_colony_desc:0 "일본인의 정착은 지난 25년 간 늦춰질 기색도 없이 천천히 진행되어왔습니다. 조선 내 일본인들은 인구수에 비해 지나치게 많은 영향력과 통제력을 갖고 있습니다. 조선 민족주의와 문화적 영향력을 억압하려는 노력은, 그에 대한 조선인들의 격렬한 저항에도 지배층의 머리속을 떠나지 않고 있습니다."
 
 KOR_nationalists_divided:0 "분열된 민족주의 운동"
-KOR_nationalists_divided_desc:0 "The Korean Nationalist movements are a disjointed collection of different ideologies with the only shared thread being a disdain for Japanese rule."
+KOR_nationalists_divided_desc:0 "조선의 민족주의 운동들은 일본의 통치에 대한 반감만을 공유할 뿐인, 상치되는 이념들의 집합체입니다."
 
 KOR_republicanism:0 "공화주의"
-KOR_republicanism_desc:0 "There is little appetite for a restoration of Korean monarchy, with the general association between Korean monarchists and Japanese collaborators making the position deeply unpopular."
+KOR_republicanism_desc:0 "조선 복벽파와 일본 협력자들 간의 협업이 조선인들 사이에서 큰 반감을 사며 이씨 왕조가 다시 설 가능성마저 앗아갔습니다."
 
 KOR_land_lords:0 "억압적인 지주들"
 KOR_land_lords_desc:0 "강권은 일본인 지주들이 한국의 농민들을 억누르기 위해 쓸 수 있는 유일한 수단에 불과합니다."
@@ -169,28 +169,28 @@ KOR_echo_three:0 "국민당의 영향"
 KOR_echo_three_desc:0 "국민당이 우리의 망명 지도자들을 환대한 수년 간, 우리 역시 그들에게서 많은 것을 배웠습니다."
 
 KOR_KCIA:0 "중앙정보부"
-KOR_KCIA_desc:0 "Dissidents will come to fear the KCIA's operatives almost as much as they did the Kenpeitai."
+KOR_KCIA_desc:0 "반대자들은 헌병대 만큼이나 중앙정보부 요원들을 두려워하게 될 것입니다."
 
 KOR_white_terror:0 "백색 테러"
 KOR_white_terror_desc:0 "대한민국에서 사회주의 빨갱이들을 위한 자리는 없습니다. 힘으로 놈들을 찍어누를 것입니다."
 
 KOR_trade_ties:0 "국제무역 연계"
-KOR_trade_ties_desc:0 "In the spirit of a free and fair society, we should seek greater economic co-operation with like-minded nations of the world."
+KOR_trade_ties_desc:0 "자유와 공정 사회의 정신 속에서, 우리는 우리와 비슷한 생각을 가진 세계의 민족과 더 큰 경제적 협력을 이루고자 해야 합니다."
 
 KOR_korean_dem:0 "한국식 민주정"
-KOR_korean_dem_desc:0 "Our hard-won democratic rights must be cherished."
+KOR_korean_dem_desc:0 "힘겹게 얻어낸 우리의 민주적 권리를 반드시 수호해야 합니다."
 
-KOR_liberalisation:0 "Liberalisation"
-KOR_liberalisation_desc:0 "The liberalisation of the economy can only be a good thing in the long-run."
+KOR_liberalisation:0 "자유화"
+KOR_liberalisation_desc:0 "경제의 자유화만이 장기적으로 좋은 결과를 도출해낼 수 있습니다."
 
 KOR_centrism_1:0 "극좌 대항"
-KOR_centrism_1_desc:0 "Uncooperative radicals cannot be allowed to pit brother against brother."
+KOR_centrism_1_desc:0 "비협조적인 급진주의자들이 형제들 간의 싸움을 부추기도록 두어선 안 됩니다."
 
 KOR_centrism_2:0 "양익 극단주의 대항"
-KOR_centrism_2_desc:0 "Neither side can be allowed to cause a brother-war among Koreans."
+KOR_centrism_2_desc:0 "어느 쪽이든 한국인들 간의 골육상쟁을 일으키도록 둘 순 없습니다."
 
 KOR_education:0 "교육 "
-KOR_education_desc:0 "Education is vital to prosperity, it should be encouraged as much as possible."
+KOR_education_desc:0 "번영에 심대한 영향을 끼치는 교육은 가능한 많은 이들에게 장려되어야 합니다."
 
 KOR_air_camouflage:0 "위장"
 KOR_air_camouflage_desc:0 "보이지 않는 건 때릴 수도 없지요."
@@ -202,7 +202,7 @@ KOR_harassment:0 "폭격기 요격"
 KOR_harassment_desc:0 "그 어떤 적대 비행사도 대한의 항공을 마음놓고 날아다닐 수 없을 겁니다."
 
 KOR_dogfighting:0 "공중근접전의 계보"
-KOR_dogfighting_desc:0 "Building a strong tradition of flying aces is a boon for our future defence."
+KOR_dogfighting_desc:0 "강력한 에이스 전통 설립이 우리 방위의 미래를 책임질 것입니다."
 
 KOR_promote_pl:0 "유격 지도층 진급"
 KOR_promote_pl_desc:0 "Those plucky rebels in their jumpsuits, with their captured weapons and weasel tactics, they will make a fine future general staff."
@@ -229,10 +229,10 @@ JKR_juche_education:0 "주체교육"
 JKR_juche_education_desc:0 "The youth must be educated in the ways of Juche, to view Korea as a great eye and the world as the land it surveys."
 
 JKR_bullet:0 "부역자들에겐 총알뿐"
-JKR_bullet_desc:0 "There is no place in Korea for traitors to ou people."
+JKR_bullet_desc:0 "조선에서 인민을 배신한 반역자들이 설 곳은 없습니다."
 
 JKR_threadbare:0 "Threadbare Campaigning"
-JKR_threadbare_desc:0 "No war of resistance was won with plentitude, all great revolutions start with more spirit than ammo."
+JKR_threadbare_desc:0 "어떤 저항전도 수량으로는 이길 수 없습니다. 위대했던 모든 혁명들은 준비된 탄약이 아닌 정신으로 시작됐습니다."
 
 JKR_andong:0 "북을 바라보며"
 JKR_andong_desc:0 "우리는 우리 조상들의 오랜 땅이었던 북을 강탈당했습니다. 다시금 되찾아야 합니다."
@@ -244,7 +244,7 @@ JKR_two_alphabets:0 "국한문"
 JKR_two_alphabets_desc:0 "한글과 한자를 모두 가르쳐야만 조선인들에게 인민의 방식과 운명에 관한 이해를 온전히 심어줄 수 있습니다." 
 
 JKR_buyeo:0 "부여를 넘어서"
-JKR_buyeo_desc:0 "We must strikeout, beyond the Buyeo Kongdom's lands in South Manchuria. 북과 서에서 운명이 우리를 기다립니다."
+JKR_buyeo_desc:0 "남만주의 옛 부여 땅을 넘어 우리는 뛰쳐가야 합니다. 북과 서에서 운명이 우리를 기다립니다."
 
 JKR_taegeuk:0 "태극 문양"
 JKR_taegeuk_desc:0 "The great national symbol, a truer representation of Korea than there ever was. The Taeguk is balance, it is the universe and it is man's nature."
@@ -277,7 +277,7 @@ JKR_com_kim:0 "김좌진 헌장"
 JKR_com_kim_desc:0 "김 동지의 헌장은 makes clear that the position of leader is ceremonial, his role is the voice of the collective, the millions cry out and he speaks on their behalf to the world."
 
 JKR_kropotkin:0 "조선 무정부주의자 Code"
-JKR_kropotkin_desc:0 "A true document of doctrine will be an example for others to follow."
+JKR_kropotkin_desc:0 "진정한 교리서는 만인이 따를 예범이 될 것입니다."
 
 JKR_air_camouflage:0 "위장"
 JKR_air_camouflage_desc:0 "보이지 않는 건 때릴 수도 없지요."
@@ -294,11 +294,11 @@ JKR_dogfighting_desc:0 "Building a strong tradition of flying aces is a boon for
 JKR_promote_pl:0 "유격 지도층 진급"
 JKR_promote_pl_desc:0 "Those plucky rebels in their jumpsuits, with their captured weapons and weasel tactics, they will make a fine future general staff."
 #Ikr
-IKR_depression:0 "Depression"
-IKR_sake:0 "Sake"
-IKR_whispers:0 "Whispers"
-IKR_dissenters:0 "Dissenters"
-IKR_rebels_dead:0 "Dead Rebels"
+IKR_depression:0 "우울"
+IKR_sake:0 "사케"
+IKR_whispers:0 "속삭임들"
+IKR_dissenters:0 "반대자들"
+IKR_rebels_dead:0 "죽은 반군들"
 ############################
 IKR_ODC:0 "The ODC"
 IKR_land_reset:0 "Land Resettlement" 
@@ -320,7 +320,7 @@ IKR_crush_comm:0 "분쇄된 공산주의자들"
 IKR_cheap_labour:0 "저가노동"
 IKR_zainichi:0 "재일조선인"
 IKR_keynes:0 "케인즈주의 모형"
-IKR_agri_assoc:0 "Agricultural Association"
+IKR_agri_assoc:0 "농회"
 IKR_crush_lords:0 "지주제 폐지"
 IKR_expats:0 "재외민"
 IKR_busan_pyongyang:0 "평부선" 
@@ -409,7 +409,7 @@ kor.2.a:0 "다가올 폭풍을 이겨내리라."
 kor.2.b:0 "뇌격은 폭군을 향하리."
 
 kor.3.t:0 "평등주의 실험"
-kor.3.d:0 "일본령 조선이 붕괴에 다다르자 일본 정부는 불가능한, 생각할 수도 없는, 믿기조차 어려운 발상을 강제당했습니다. 반도 내 여성시민권리 증진. While women in Japan are not exactly equal with their male counterparts in the eyes of the law, the position of Korean women is even less so. Korean women are often assigned to Japanese soldiers as “comfort women”, which is basically a form of involuntary prostitution. This has become the main focus of the women’s rights debate, as even the most chauvinistic among the Japanese ruling class have come to see this system as somewhat brutal. Another issue which is emerging from the Diet’s more progressive members is allowing women into the workforce. While this idea is strongly opposed by the vast majority of those who believe in Japanese traditional society, the idea of doubling the workforce in both Korea and Japan, effectively doubling industrial productivity, is attractive on a practical level. All that remains is to see what the Diet decides…"
+kor.3.d:0 "일본령 조선이 붕괴에 다다르자 일본 정부는 불가능한, 생각할 수도 없는, 믿기조차 어려운 발상을 강제당했습니다. 반도 내 여성시민권리 증진이 그것이었습니다. 내지의 여성들조차 법 앞에서 남성과 완전하게 평등하지 못했으니, 조선의 여성은 말할 필요도 없었습니다. 조선의 여성들은 사실상 강제 매춘이나 다름 없는 “위안부”로서 일본 병사들에게 던져졌습니다. 이는 일본 지도층 가운데서도 가장 쇼뱅주의적인 이들에게조차 잔혹한 체계라 여겨지며 여성권리에 관한 논의의 주요 중점으로 떠올랐습니다. 또 다른 사안은 의회의 더 진보적인 의원들이 제기한 것으로, 여성들의 취직 허용에 관한 안건입니다. 일본 전통사회를 지지하는 대다수는 이러한 관념에 크게 반대하지만, 실용적인 수준에서, 조선과 내지 모두에서 노동력과 동시에 생산성을 두 배로 올린다는 관념이 매력적임에는 틀림이 없습니다. 남은 건 의회의 결정 뿐입니다."
 kor.3.a:0 "헛소리! 더 나은 발상은 없나?"
 kor.3.b:0 "최소한 성노예제 정도는 멈출 수 있겠지..."
 kor.3.c:0 "이곳 조선에서 우선 실험해보고, 후일 내지에도 적용해보지."
@@ -426,7 +426,7 @@ kor.5.b:0 "현 정책을 유지한다."
 kor.5.c:0 "기아의 위험성이 너무 높으므로 물린다."
 
 kor.6.t:0 "토지소유 문제"
-kor.6.d:0 "Since the colonization of Korea in 1910, land ownership has been exclusively available to Japanese colonists, creating a strong class divide between the landowning Japanese and the peasant farmers of Korea. However, some of these peasant farmers have been fortunate enough to accumulate their own wealth, and now seek to become landowners themselves. The government in Korea is deeply opposed to this idea, given that a vast majority of politicians in Korea are Japanese landowners themselves. However, as the ties between Japan and the crown jewel of her empire become more and more frayed, it is being increasingly seen as an alternative to outright Korean revolt. There is no doubt among the ruling government that the Koreans are almost unanimous in their support of this legislation, and to block it would alienate the entirety of the colony’s native population. However, some of the more hardline aristocrats see the risk as worth taking, if it means defending the status quo that they have worked so hard to maintain for the past two and a half decades. After much debate over the pragmatism of avoiding open rebellion versus the idealist principles of the colonists, the government has finally decided…"
+kor.6.d:0 "1910년 조선의 식민화 이래 토지소유는 엄격히 일본 식민인들에게만 허용되며 일본인 지주와 조선 농민이라는 강력한 계급 구분을 만들어냈습니다. 그럼에도, 부를 충분히 쌓을 재간이 있던 농민들은 이제 자신들이 지주가 되고자 합니다. 조선 내 정치인들의 다수가 일본인 지주인 만큼, 총독부에서는 당연히 이러한 관념에 크게 반대하고 있습니다. 하지만 내지와 황국의 보석인 조선 사이의 연계가 점차 틀어지면서, 조선에 잠재된 봉기의 가능성을 억누르려는 대안으로서의 토지소유권 개정의 존재감은 더욱 커져가는 상황입니다. 조선인들이 이 법안에 만장일치에 가까운 반응을 보일 테고, 만일 거부한다면 조선인 전부를 유리시키는 헛짓이 될 것임을 총독부는 잘 알고 있습니다. 그럼에도 일부 강경 화족들은, 지난 25년 간 유지하고자 노력한 것을 지키기 위해서라면 감수할 만한 위험이라 보고 있습니다. 활개칠 반란을 피할 실용주의와 식민주의자들의 이상주의적 원칙들 간의 수많은 토론 끝에 총독부는 결정에 다다랐으니..."
 kor.6.a:0 "토지개혁 법안이 가결되다."
 kor.6.b:0 "토지개혁 법안이 부결되다."
 
@@ -447,23 +447,23 @@ kor.101.b:0 "황국 향한 이 충정 가실 줄 있으랴."
 kor.101.c:0 "공화국에 영광 있으라!"
 
 kor.8.t:0 "아나키스트 민병대가 대의에 동참하다"
-kor.8.d:0 "The Korean People’s Association in Manchuria is a somewhat obscure Anarchist project which has set up an autonomous zone in the province of Mudanjiang as a sort of base of operations for their actions in Korea proper. Although they have so far not been able to affect much change, the outbreak of a civil war has afforded these radicals with an indispensable opportunity. There is now a coalition in Korea itself which seeks to establish socialism and fights against the Imperial Loyalists in the North and is sizing up their rival republicans in the South. These radical republicans consist of communists, socialists, as well as fellow anarchists who have allied together in the hopes of finding a place for themselves in the new revolutionary era. The KPAM has enthusiastically committed to sending their militias to assist the communist-led forces, but some wonder whether this is truly a wise decision, as history has shown that Marxists and Anarchists do not always tend to find much common ground. Some, on the other hand, are suggesting that this is the beginning of the true anarchist revolution for which they have been waiting, and have called to disband the KPAM in order to totally commit to this conflict. It is unclear what the majority opinion is, but it seems the KPAM is here to stay, for now at least."
+kor.8.d:0 "재만한인총연합회는 is a somewhat obscure Anarchist project which has set up an autonomous zone in the province of Mudanjiang as a sort of base of operations for their actions in Korea proper. 비록 재만회 자체로 많은 변화를 일으키진 못했으나, 내전의 발발은 이 급진주의자들에게 결코 놓칠 수 없는 절호의 기회를 내주었습니다. There is now a coalition in Korea itself which seeks to establish socialism and fights against the Imperial Loyalists in the North and is sizing up their rival republicans in the South. These radical republicans consist of communists, socialists, as well as fellow anarchists who have allied together in the hopes of finding a place for themselves in the new revolutionary era. The KPAM has enthusiastically committed to sending their militias to assist the communist-led forces, but some wonder whether this is truly a wise decision, as history has shown that Marxists and Anarchists do not always tend to find much common ground. Some, on the other hand, are suggesting that this is the beginning of the true anarchist revolution for which they have been waiting, and have called to disband the KPAM in order to totally commit to this conflict. It is unclear what the majority opinion is, but it seems the KPAM is here to stay, for now at least."
 kor.8.a:0 "자유를 위해 일어서라!"
 
 kor.9.t:0 "러시아인 퇴출"
 kor.9.d:0 "러시아인들은 지난 수십간 만주에서 우리 형제들을 학대하고 쫓아냈습니다. 우리 조상들의 땅을 되찾고 저 슬라브 야만인들을 몰아낼 때가 왔습니다. First a rally to the persecuted, then while they deal with the inner turmoil, we invade. Drive them back to the Amur river and make our people whole again."
 kor.9.a:0 "유럽인 침략자들을 몰아낸다."
 
-kor.10.t:0 "통일된 민국"
-kor.10.d:0 "After much deliberation and consternation, a power sharing deal has been agreed. The Governments of the North and South will become one. Our differences put aside, our brothers reunited. Korea stands as one, stronger together once and for all."
+kor.10.t:0 "통일 조선"
+kor.10.d:0 "After much deliberation and consternation, a power sharing deal has been agreed. 남과 북의 정부는 하나가 될 것입니다. 서로의 차이를 제쳐둔 형제들은 다시 서로를 안을 것입니다. 하나가 되어 선 조선은 이제와 같이 앞으로도 더 굳건히 남을 것입니다."
 kor.10.a:0 "마침내!"
 
 kor.11.t:0 "선박 요청"
 kor.11.d:0 "In order to safeguard the Korean coastline we need ships, a request put to our comrades in Japan could yield results, after all, they commandeered much of the IJN. Surely Shumei's sailors can spare a few destoryers?"
 kor.11.a:0 "배를 움직일 연료가 없을 텐데."
 
-kor.111.t:0 "The Korean's Request Ships"
-kor.111.b:0 "The Revolution in Korea is a promising development, their leadership have reached out to us about a purchase of 4 destroyers to defend their coast and facilitate coastal bombardment against their counter-revolutionary foes."
+kor.111.t:0 "조선이 선박을 요청하다"
+kor.111.b:0 "조선에서의 혁명이 상당한 발전을 이룩하는 가운데, 조선의 혁명지도부가 우리에게 반혁명분자들에 맞서 해안을 보호하고자 구축함 4척과 해안포격시설 장비 구입을 제안해왔습니다."
 kor.111.a:0 "당연히 도와야지."
 kor.111.b:0 "줄 만한 배는 없지만 장교들을 고문관으로 보내줄 순 있지."
 
@@ -472,20 +472,20 @@ kor.12.d:0 "The Russian Republic's modest army is rather well equipped, that is,
 kor.12.a:0 "쓸모가 많을 거야."
 
 kor.13.t:0 "고문단 요청"
-kor.13.d:0 "The Russian Republic watches our progress intently, their military expertise from the civil war is still valuable insight in these dark times for our people. A request for military training and advice would be prudent."
+kor.13.d:0 "러시아 공화국이 의도를 갖고 우리의 진보를 지켜보고 있다 해도, 내전을 통해 축적한 러시아의 군사 경험은 이 어두운 때에 우리 인민에게 여전히 값진 통찰력이 될 것입니다. A request for military training and advice would be prudent."
 kor.13.a:0 "지원에 감사하지."
 
 kor.14.t:0 "러시아의 지원 탐색"
-kor.14.d:0 "Since the Russian Republic is one of the few regimes in the region friendly to our cause, we should seek their doctrinal, material and logistical aid against the counter-revolutionary forces. First things first the repatriation of Korean leftists on their turf should bring us a boon of men and expertise."
+kor.14.d:0 "역내에서 우리의 대의에 호감을 갖는 몇 안 되는 체제인 러시아 공화국에게 반혁명분자들에게 맞설 교리, 물질, 병참상의 원조를 요청해야 합니다. First things first the repatriation of Korean leftists on their turf should bring us a boon of men and expertise."
 kor.14.a:0 "해외 역란을 지원한다고 우리한테 해가 되진 않아."
 
 kor.15.t:0 "국민당 좌익과의 협력"
 kor.15.d:0 "The Left-Kuomintang has been most hospitable to our leaders in their exile. Since they have continued to offer us support in return for help in future, we should increase our level of diplomatic co-operation and establish formal ties."
 kor.15.a:0 "우리는 투쟁을 공유하고 있다."
 
-kor.16.t:0 "황가가 조선으로 도주하다"
-kor.16.d:0 "With Revolutionary forces quickly overtaking the country, and the fall of the capital, the Imperial family has seen fit to flee the country to escape persecution at the hands of socialist forces. The former dominion of Korea has welcomed them, they landed in Pusan aboard an unmarked plane in the early hours of the day. Not only do the family seek to preserve their lives, but to also form an imperial government in exile to oppose the revolution which has bloodily seized Japan."
-kor.16.a:0 "Catch them if you can."
+kor.16.t:0 "황실이 조선으로 도주하다"
+kor.16.d:0 "혁명군이 빠르게 나라를 삼키고 수도가 함락된 가운데, 황실은 사회주의 세력의 손아귀 안에서 겪게 될 탄압을 벗어나 몽진했습니다. The former dominion of Korea has welcomed them, they landed in Pusan aboard an unmarked plane in the early hours of the day. Not only do the family seek to preserve their lives, but to also form an imperial government in exile to oppose the revolution which has bloodily seized Japan."
+kor.16.a:0 "할 수 있다면 잡아오도록."
 
 kor.17.t:0 "민족부흥"
 kor.17.d:0 "The national spirit of our people must be reborn, our subjugation to the Japanese and Chinese must end once and for all. Our people are our own, we are no slaves, subjects or inferor people, we are proud Koreans!"
@@ -512,7 +512,7 @@ kor.175.d:0 "고대의 전설에 따르면 북방 유라시아를 빚어낸 전�
 kor.175.a:0 "진정 문명의 충돌이군."
 
 kor.18.t:0 "농민파"
-kor.18.d:0 "농업사회주의자들이 make up a large portion of the People's Party base, frayed loyalties and percieved failings to the peasants have resulted in a belligerent fracture in among the communists widening into a full blown internal power struggle."
+kor.18.d:0 "인민당의 지지 기반의 다수를 차지한 농업사회주의자들이 frayed loyalties and percieved failings to the peasants have resulted in a belligerent fracture in among the communists widening into a full blown internal power struggle."
 kor.18.a:0 "조가 놈을 정부에서 축출한다."
 kor.18.b:0 "조만식 파벌을 수용한다."
 
@@ -539,16 +539,16 @@ kor.203.d:0 "After a tense voting period following the turmoil of the revolution
 kor.203.a:0 "사회주의를 위한 중대한 승리로다."
 #Exiles event chain
 kor.21.t:0 "The Prisoners"
-kor.21.d:0 "As dawn broke, there was a clatter of gunfire, no 21 gun salute, not the scatter-shot of battle. No, that was the synchronised, rythmic crack of a firing squad. It seemed to go on for some time. Eventually the barking of the staff-sergeant could be heard telling the men to stand down. By then the sun was up, the tea was going cold and the bodies of dead prisoners were beginning to attract flies. The trucks hauled them away, but the sensation that something heinous had just been committed was still hanging in the air like mist. \"Did I really have to do that?\""
-kor.21.a:0 "개자식들이 우리를 배신했다!"
+kor.21.d:0 "As dawn broke, there was a clatter of gunfire, no 21 gun salute, not the scatter-shot of battle. No, that was the synchronised, rythmic crack of a firing squad. It seemed to go on for some time. Eventually the barking of the staff-sergeant could be heard telling the men to stand down. By then the sun was up, the tea was going cold and the bodies of dead prisoners were beginning to attract flies. The trucks hauled them away, but the sensation that something heinous had just been committed was still hanging in the air like mist. \"꼭 그래야만 하는가?\""
+kor.21.a:0 "개자식들이 우리를 배신했어!"
 
-kor.23.t:0 "Was This Ever The Way?"
+kor.23.t:0 "이 길이 맞긴 했던 걸까?"
 kor.23.d:0 "Their names rattled about in his head like so many frantic bees about the rose garden in Summer. He tried again to remember them all, he had known them. But since they no longer patrolled his halls, waiting on his beck and call, he couldn't picture them correctly. They had betrayed him, that was the line. Traitors. But perhaps he had acted rashly. Did they really deserve the bullet? Another missive had arrived on his desk as he stared off into space, another list with another familiar name on it. Surely not him as well? How could so many have failed to keep faith and moved against him? Perhaps this has all gone too far."
 kor.23.a:0 "I'm so sorry."
 
-kor.24.t:0 "Burning Conscience"
+kor.24.t:0 "썩어가는 양심"
 kor.24.d:0 "Nothing quite measures up to a mother's forgiveness, her compassion or understanding. Her children have her trust and she has theirs, so why now, can he not write the words down? the weight of the guilt is crushing and yet when reprieve lies before him he cannot drop the burden. His hands begin to shake, another sake for the nerves perhaps? The nightmares have stopped, so why is it now so hard to face up to what has happened? Why can't he accept the losses as necessary as he had before? the feeling gnaws at him. He cannot sleep, he wonders what it will take to be free of the guilt."
-kor.24.a:0 "How can I put this right?"
+kor.24.a:0 "도대체 어찌 바로잡아야 한단 말인가?"
 
 kor.25.t:0 "슬픔에 잠긴 통화"
 kor.25.d:0 "\"무슨 일이에요, 여보?\" \"...\" \n그는 답할 수 없었습니다. 얼굴엔 땀이 흐르고, 손은 수신기를 단단히 쥐었습니다. \"나, 난 부끄럽소. 너무나 부끄럽소. 끔찍한 일들을 명령하고 저질렀단 말이오. 어찌 바로잡아야 할지 모르겠소. 내게 그럴 힘이 있는지도...\" \n\"여보, 누구도, 당신 형제들이나 아버지, 할아버지 혹은 그 이전 대의 누구도 당신이 마주한 일들을 겪어본 적 없어요. 우리 모두 실수를 저지르잖아요. 어쩔 땐 좀 더 심각하기도 하고요. 당신의 실수도 허락된 만큼만 심각할 뿐이에요. 희망, 빛은 아직 있어요. 바로 잡으실 수 있어요. 이겨내실 거예요. 해내실 거라 저는 믿어요. 어떻게 해야 할진 이미 아실 테잖아요, 그렇죠?\""
@@ -596,7 +596,7 @@ kor.302.d:0 "The revolutionaries have rejected our overtures, alas their ideolog
 kor.302.a:0 "조상들께서 우릴 용서하시길."
 
 kor.31.t:0 "마침내 조국이라!"
-kor.31.d:0 "How many years has it been? How many times this dream has invaded my thoughts waking and sleeping? It must be years at least. That fresh sea breeze feels different on foreign soil, it enters the lungs less fully, one doesn't trust it so much. After all the toil, all the blood spilled, standing at last on this familiar shore..."
+kor.31.d:0 "몇 년이나 흘렀던가? 몇 번이나 이 꿈은 나의 사고에 침입하고, 나를 깨우고 잠들게 했던가? 적어도 몇 년은 그랬을 터. 외지에서 다르게 느껴지는 신선한 바다의 미풍이 조금은 모자라게, 바람을 믿지 못하는 폐에 든다. 쏟은 모든 땀, 모든 피 끝에, 이 익숙한 해안에 마침내 서니..."
 kor.31.a:0 "이제 부끄러움 한 점 없다."
 
 kor.32.t:0 "조선 존황파가 동맹을 제안하다"
@@ -608,12 +608,12 @@ kor.321.t:0 "동맹이 거절당하다"
 kor.321.d:0 "우리의 친구란 것들이 협력을 위한 우리의 제의를 거절했습니다. 투쟁에서 놈들의 원조를 바랄 수 없게 됐습니다."
 kor.321.a:0 "망할 놈들."
 
-kor.33.t:0 "Public Order 36"
-kor.33.d:0 "Overnight the typists and presses have worked tirelessly to produce and distribute the fliers, papers and official documents of denunciation. Or otherwise known as Public Order 36. \n'The leaders of the provisional government of the republic of Korea are hearby listed as traitors to the people and the people's republic. Their treacheries are numerous and severe, including plans among reactionaries to sell our dear nation to the Americans and British. The people's justice shall be wrought upon those responsible for the attempt against our nation. Be noble and forthright citizens, while soldiers and police may aprehend many of the traitors, the burden of catching them all falls upon each and every good Korean. So long as these seditious individuals are roaming the country, we will never be safe and prosperous.'"
+kor.33.t:0 "사회질서조치 36호"
+kor.33.d:0 "타자수들과 식자공들은 밤이 새도록 쉼없이 공식 고발문을 담은 선전물과 종이들을 찍어내고 날랐습니다. 다른 이름으로는, 사회질서조치 36호라 불리는 문서였습니다. \n'대한민국 임시정부의 수괴들은 인민과 인민공화국을 배신한 반역자들로 간주된다. 이들은 사랑하는 우리 조국을 영미 제국주의자들에게 팔아넘기려 하는 등, 수많은 중죄와 배반을 저질렀다. 우리 민족에 맞서려 감히 시도한 데 대한 응분의 대가로서 인민의 심판이 저들에게 내려질 것이다. 시민들은 고결함과 올곧음을 유지하라. 병사들과 경찰이 수많은 반역자들을 잡아들이고 그 무게가 선한 조선인들의 어깨를 무겁게 할지라도. 간악한 개인들이 우리나라에 배회하는 한 안전과 번영은 결코 우리의 것이 되지 못할 것이다.'"
 kor.33.a:0 "반역자들을 매달아라!"
 
 kor.34.t:0 "망명 천황"
-kor.34.d:0 "혁명에서 탈출한 야스히토는 이제 잃어버린 황국의 천황으로서 권좌에 앉아, the remains are gathered mostly in Korea, biding time and awaiting the day of return, if it ever comes."
+kor.34.d:0 "혁명의 손길에서 탈출한 야스히토는 이제 잃어버린 황국의 천황으로서 권좌에 앉아, 대부분 조선으로 모인 잔존자들과 함께 시간이나 보내며, 혹여나 다가올 귀환의 때만을 기다리고 있습니다."
 kor.34.a:0 "볼품 없는 천황이로군."
 #FOCUSES#
 #######################################
@@ -652,11 +652,11 @@ KOR_appoint_rhee_as_prime_minister_desc:0 "독립투사이자 빛나는 지성, 
 KOR_echo_the_three_principles:0 "삼민주의 재창"
 KOR_echo_the_three_principles_desc:0 "아시아 대부분 지역에서 반제국주의적 사고의 중요한 부분을 차지한 손문 선생의 삼민주의가 한국이라 해서 예외가 되진 않습니다. 민족주의, 민주정, 민생은 대한민국 건설을 위한 토대의 핵심 요소들입니다."
 KOR_go_ahead_with_elections:0 "선거 실시"
-KOR_go_ahead_with_elections_desc:0 "Democracy waits for no man, the greatest danger to Korea has passed, now free and fair elections to determine it's future can take place. 집권 중이 보수파가 권력을 유지하거나, 다른 정당들에게 넘기게 될 것입니다."
+KOR_go_ahead_with_elections_desc:0 "이제 민주정을 막을 건 아무것도 없습니다. 한국을 향한 지대한 위협이 지나갔으니, 한국의 미래를 결정할 자유롭고 공정한 선거가 자리할 차례입니다. 결과에 따라 집권 중인 보수파가 권력을 유지하거나, 다른 정당들에게 넘기게 될 것입니다."
 KOR_kims_presidency:0 "김구의 취임"
 KOR_kims_presidency_desc:0 "대한의 주요 독립운동가이자 간교한 지도자인 김구가 승리하면서 한국의 자유민주파가 관직을 차지하게 됐습니다. 소상공인 지원과 영속할 산업기반 건설을 주장한 이들의 경제계획이 세 후보들 가운데 가장 와닿은 듯합니다."
 KOR_the_moderates:0 "온건파의 우세"
-KOR_the_moderates_desc:0 "여운형의 사회민주당이 승리했습니다. Their approach to the lingering socialist elements is far more reconciliatory and the character of Mr. Yuh has captured the hearts of many."
+KOR_the_moderates_desc:0 "여운형의 사회민주당이 승리했습니다. 훨씬 유연한 사민당의 사회주의적 접근법과 여운형의 인성이 많은 이들을 감복시켰습니다."
 KOR_changho_stays_in_power:0 "안창호의 권력 유지"
 KOR_changho_stays_in_power_desc:0 "The incumbent president Mr. Ahn Changho has won the confidence of the Korean people through his stoic leadership and nationalist platform, his promises will aim to align Korea more closesly with the USA."
 KOR_confidence_in_the_conservatives:0 "보수파를 향한 자신감"
