@@ -123,9 +123,9 @@ POLITICS_KOO_DESC:0 "호인 \"백범\"으로도 유명한 김구는 대한민국
 POLITICS_YUH_DESC:0 "여운형이 유복한 집안에서 태어났다곤 해도, 그는 수년 간 한국 독립운동가들 사이에서 대중적인 민주 좌익민족주의를 이끈 기둥입니다. 자결과 협력의 정신을 진정으로 신봉하는 여운형은 더 급진적인 북의 좌익 세력을 적이 아닌, 통일 대한을 위한 같은 투쟁에 투신한 형제로서 받아들이는, 대한민국에 몇 안 되는 인물들 중 하나입니다. 하지만 그의 우애적인 감언에도 양측 간의 긴장감이 높아짐에 따라, 여운형이 바라던 바를 이루는 것은 불가능해질 듯합니다."
 POLITICS_CHOE_DESC:0 "최창익은 대한혁명에서 가장 어린 정치지도들 중 하나로, 3.1 운동 당시엔 학생에 불과했습니다. 그러나 그는 지금 독립운동 내 국제주의파에서 큰 목소리를 내는 인물이 되었습니다."
 POLITICS_CHO_DESC:0 "조만식은 조선 독립운동 내 좌익들에게서 크게 존경받는 인물입니다. 3.1 운동이 진압당하는 과정에서 일본에게 체포당하기도 했지만, 이후 인민위원회를 조직하고 자급 농업구안책을 장려하며 조만식은 요인으로 떠올랐습니다. 조선의 사회주의자들 중 일부가 그의 기독교 신앙을 문제삼아도, 조만식은 사회주의 조선의 성공에 없어선 안 될 핵심입니다."
-POLITICS_KIM_DESC:0 "아나키스트 지도자라는 개념 자체가 형용모순적이라 해도, 김좌진은 만주 남동부의 한인 지역에서 아나키스트 유격대의 수장과 같은 존재가 되었습니다. His arrival in Korea for the revolution signals a shift in intent, having tested the means and methods of Korean anarchism in the countryside borderlands between Mantetsu and Zheltorossiya, the Korean anarchist faction is now a leading component of the revolutionary political scene. Kim has been repeatedly voted as the chairman of the council, making him now the most experienced statesman among them."
-POLITICS_PAK_DESC:0 "박헌영은 is seemingly ever-present where the Korean socialist cause is concerned, he has made it his business to be involved in any and all activities that may lead to a communist Korea, right down to helping to organise the Worker's Party in 1925. Despite his relative youth among his peers, he is a senior leader and well read on the German Revolution, having even spent time abroad among Chinese communists during the late 20's. During the early 1930's he has made himself busy with clandestine meetings, arangements and deal brokering between the various socialist movements in Korea, in an attempt to build a coalition that can pose a serious threat to Japanese rule in Korea."
-POLITICS_SIN_DESC:0 "1910년대와 20년대, 단재 신채호는 한국 민족주의 조직들의 귀인이었습니다. He advocated for the Korean national and ethnic people viscerally, but this fervour brought him under the close watch of the Japanese authorities. He exiled himself to Manchuria, co-operating with Korean anarchists in the region and formulating his writings into a cogent ideological viewpoint. Today, his ideology is known as Juche, his program of national rebirth and ethnic nationalism under a kind of anarcho-syndicalism has become one of the more popular ideologies in Northern Korea. However, in order to enact his program he must first over come the internal differences in Korea and then the occupying powers in Manchuria. He is by far the most ambitious of Korea's revolutionary leaders, and perhaps the most dangerous too, the bounty on his head is considerable even to this day."
+POLITICS_KIM_DESC:0 "아나키스트 지도자라는 개념 자체가 형용모순적이라 해도, 김좌진은 만주 남동부의 한인 지역에서 아나키스트 유격대의 수장과 같은 존재가 되었습니다. 혁명을 위한 조선으로의 귀환이라는 그의 선택은, 조선 아나키스트 세력이 혁명 정치의 전면에 나서게 된 현재, 만철과 황러시아 사이의 국경지대 벽촌에 자리했던 조선 아나키즘의 수단과 방식을 시험해보리란 신호였습니다. 반복해서 총연합회 주석으로 선출된 경험이 있는 김좌진은 아나키스트 세력에서 가장 노련한 정치인입니다."
+POLITICS_PAK_DESC:0 "박헌영은 조선의 사회주의 대의가 자리한 곳이라면 어디서든 모습을 드러낸 인물로, 1925년 노동당 조직에 협조한 것을 비롯해 공산 조선을 만들 모든 활동에 가담했습니다. 동료들 가운데선 상대적으로 어린 나이라 해도 그는 독일 혁명에 관해 숙독한 고위지도자로서, 20년대 후반에는 해외에서 중국 공산주의자들과 함께 지내기도 했습니다. 1930년대 초 동안 박헌영은 일본의 지배에 심각한 위협이 될 연합 구성을 위해 조선 내의 다양한 사회주의 운동 간의 비밀협약, 주선, 거래 중계를 설정하는 데 분주했습니다."
+POLITICS_SIN_DESC:0 "1910년대와 20년대, 단재 신채호는 조선 민족주의 조직들의 귀인이었습니다. 단재는 오장육부에서 올라온 감정으로 조선 민족을 열렬히 변호했지만, 이러한 열성은 일본 당국이 그를 긴밀히 감시하게 되는 계기가 되었습니다. 만주로 망명한 신채호는 일대의 조선 아나키스트들과 협력하며 자신의 저술을 타당한 이념적 관점으로 확립했습니다. 오늘, 일종의 아나코 생디칼리슴 아래서 이루어질 민족소생과 종족민족주의 계획을 포함하는, 주체라 알려진 그의 이념은 조선 북부에서 가장 인기 높은 사상들 중 하나가 되었습니다. 하지만 자신의 계획을 실행하려면 신채호는 우선 조선 내의 차이를 극복하고 만주의 점령자들을 꺾어야 합니다. 그는 조선의 혁명지도자들 가운데 가장 야망 넘치는 인물이며, 오늘날까지도 그의 머리에 걸린 현상금이 상당한 수준으로 가장 위험한 인물이라고도 할 수 있을 것입니다."
 #IDEAS#
 #Kor
 #starting tree#
@@ -151,7 +151,7 @@ KOR_taebek:0 "태백 참호선 구축"
 KOR_taebek_desc:0 "대한의 강산이 신성하니, 한치도 넘겨줄 수 없습니다."
 
 KOR_masses_rally:0 "대중집회"
-KOR_masses_rally_desc:0 "As the scale of the struggle becomes clear, more people will flock to the banners, the revolution may not be in your town yet, but it will be."
+KOR_masses_rally_desc:0 "투쟁의 규모가 더 명확해지고 더 많은 사람들이 기치로 모여들면, 지금 그대가 혁명 틈에 없다고 그리 되고야 말 것입니다."
 
 KOR_liberation_effort:0 "해방 중점"
 KOR_liberation_effort_desc:0 "사람방패, 노예제, 살인, 교화, 체포, 고문, 더 심한 짓거리들. 이 모든 게 우리가 맞서 싸우는 것들입니다. 다시는 우리 인민이 폭정 아래 신음하게 두지 않을 것입니다!"
@@ -492,7 +492,7 @@ kor.17.d:0 "The national spirit of our people must be reborn, our subjugation to
 kor.17.a:0 "우리 민족, 우리 인민!"
 
 kor.171.t:0 "A New Order of Knights"
-kor.171.d:0 "고대기 조선에는 화랑, 꽃의 전사들이라 불리는 용맹하고 고귀한 기수들이 있었습니다. 이들은 그저 군인이 아니라, 예술가이자 학자이며, 불가의 신실한 수행자들이었습니다. Made strong and fair with their dress, training and impeccable conduct. In order to properly revive the Minjok and reforge Korean culture for the new age, the Flower Knights shall return, the pinacle of Korean culture and martial prowess. They will bring Juche to all Koreans and defend it from the impure outsiders."
+kor.171.d:0 "고대기 조선에는 화랑, 꽃의 전사들이라 불리는 용맹하고 고귀한 기수들이 있었습니다. 이들은 그저 군인이 아니라, 예술가이자 학자이며, 불가의 신실한 수행자들이었습니다. Made strong and fair with their dress, training and impeccable conduct. 민족을 부흥시키고 신시대에 맞게 조선 문화를 다시 빚으려면, 조선 문화와 무예의 정점인 화랑도를 부활시킴은 마땅한 일입니다. 이들이 만 조선인에게 주체를 가져오고 불순한 외인들에게서 주체를 지켜낼 것입니다."
 kor.171.a:0 "국선께선 주체의 the ideal Knight이시다!"
 
 kor.172.t:0 "주체와 종교"
@@ -583,16 +583,16 @@ kor.291.b:0 "보수파가 인민의 자신을 얻다."
 kor.291.c:0 "사회민주파가 크게 이기다."
 
 kor.30.t:0 "남에서의 손길"
-kor.30.d:0 "민국 선거에서 승리한 사회민주파가 즉각 우리와의 화해를 위해 나섰습니다. While unification is truly both our agendas, neither has been willing to conceed anything to the other until Mr. Yuh. He makes an admittedly tantalising offer, the two Koreas shall unite, with each of our factions recieving parliamentary representation and ministerial roles up for grabs to those that collaborate. Yuh shall remain President as per the will of the people in the Republic, but we shall not be left as the minor party entirely."
+kor.30.d:0 "민국 선거에서 승리한 사회민주파가 즉각 우리와의 화해를 위해 나섰습니다. 통일은 실로 양측 모두의 의제였지만, 여운형이 움직이기 전까진 누구도 기꺼이 서로에게 무엇도 양보할 기미가 없었습니다. 여운형은 우리의 각 파벌에게 의회 입석은 물론 정부 입각까지 포함한, 두 조선의 통일을 위한 꽤 감질나는 제안을 내놓았습니다. 남측 인민의 의지에 따라 여운형이 대통령직을 유지할 테지만, 우리 역시 완전히 군소정당으로 전락하진 않게 됩니다."
 kor.30.a:0 "수락하지. (대한민국으로 전환)"
 kor.30.b:0 "절대 안 돼. 여가 놈이 정신이 나갔구만!"
 
 kor.301.t:0 "빨갱이들이 수락하다"
-kor.301.d:0 "Rather than continue the brother war, the revolutionaries have chosen unity and the strength of a united Korea. We welcome them with open arms, though we must be vigilant not to allow our politics to slip into radicalism."
+kor.301.d:0 "골육상잔을 지속하는 대신, 혁명분자들은 통일 한국의 단결과 힘을 선택했습니다. 우리 정치가 급진주의로 휩쓸리는 것을 경계하되, 두 팔 벌려 저들을 환영합시다."
 kor.301.a:0 "환영하오, 형제들이여!"
 
 kor.302.t:0 "빨갱이들이 거부하다"
-kor.302.d:0 "The revolutionaries have rejected our overtures, alas their ideological posession has blinded them to the plight they will bring upon their own brothers and sisters. But since there is seemingly no path forward between us now, the solution is clear. Man the borders and load the guns..."
+kor.302.d:0 "혁명분자들이 우리의 손길을 거부했습니다. 오호, 이념적 집착이 같은 형제자매에게 화를 입히도록 저들의 눈을 멀게 한 모양입니다. 그러나 이제 우리 사이에 나아갈 길이 없는 듯하니, 해결책은 명확합니다. 국경을 보강하고 총포를 장전하는 것뿐..."
 kor.302.a:0 "조상들께서 우릴 용서하시길."
 
 kor.31.t:0 "마침내 조국이라!"
@@ -696,7 +696,7 @@ KOR_new_spiritual_awakening_desc:0 "The growth of christianity in Korea has spur
 KOR_union_under_syncretism:0 "습합주의 아래 단결"
 KOR_union_under_syncretism_desc:0 "공자나 부처의 오랜 가르침들을 따르든 혹은 그리스도의 새로운 가르침을 따르든, 한국인은 모두 한국인입니다. 민족이 우선하는 가운데, 신앙은 개개인을 사사로이 엮고 삶을 더 풍족하게 해주는 역할을 합니다."
 KOR_democracy_with_korean_characteristics:0 "한국식 민주정"
-KOR_democracy_with_korean_characteristics_desc:0 "Democracy is such a broad term, among the Anglo-sphere it is taken to mean parliamentarianism, in America it is the plebicite of leadership, 다른 곳에선 좀 더 대중주의적 특성을 가진 다른 형태를 띄고 있습니다. 한국에서도 민주정은 그만의 뜻을 가질 테지만, 귀하긴 매한가지입니다."
+KOR_democracy_with_korean_characteristics_desc:0 "민주정은 일종의 포괄어로, 앵글권에선 의회주의를 뜻하지만 미국에서는 국민투표를 통한 지도층 선출을 가리키며, 다른 곳에선 좀 더 대중주의적 특성을 가진 다른 형태를 띄고 있습니다. 한국에서도 민주정은 그만의 뜻을 가질 테지만, 귀하긴 매한가지입니다."
 KOR_popular_rule:0 "민치"
 KOR_popular_rule_desc:0 "우리의 민주정은 선거 때마다 높은 선거율을 기록할 정도로 인민 사이에서 인기가 높습니다. 투표를 통한 민주정 참여는 시민의 의무입니다."
 KOR_extend_the_liberalisation:0 "자유화 확대"
@@ -712,7 +712,7 @@ KOR_against_the_left_desc:0 "The middle-ground is a constant flux of ideas, we m
 KOR_against_the_right:0 "항우"
 KOR_against_the_right_desc:0 "The middle-ground is a constant flux of ideas, we must act against the extremes to come to consensus and the most agreeable path forward. The reactionaries, and even many conservatives, are wrong."
 KOR_rehabilitate_the_communists:0 "공산주의자 교화"
-KOR_rehabilitate_the_communists_desc:0 "Our brothers are not beyond redemption, Korea has a bright future if we can only overcome our ideological differences. We need not spill more blood upon this pleasant land, hard won already from the evils of war. Come home Koreans, be as one."
+KOR_rehabilitate_the_communists_desc:0 "우리 형제들은 구원받을 수 없는 악마가 아닙니다. 서로의 이념 차이를 넘어서야만 한국에겐 밝은 미래가 있을 것입니다. 전쟁의 참화 속에서 힘겨운 승리를 얻고도 금수강산 위에 우리의 피를 더 뿌릴 이유는 없습니다. 오라 겨레여, 가자 하나로."
 KOR_suppress_the_leftists:0 "좌익 탄압"
 KOR_suppress_the_leftists_desc:0 ""
 KOR_reach_out_to_the_west:0 "서방을 향한 접근"
@@ -720,7 +720,7 @@ KOR_reach_out_to_the_west_desc:0 ""
 KOR_emphasis_on_education:0 "교육 역점"
 KOR_emphasis_on_education_desc:0 "교육은 가난을 벗어나는 큰길이자 사회유동성이란 바퀴를 굴러가게 만드는 기름칠과 같습니다. 교육은 주어져야 하고, 바라야 하며, 의무여야 합니다."
 KOR_gyeongseong_university:0 "경성대학"
-KOR_gyeongseong_university_desc:0 "In order to create our own base for higher education in as many fields as we need, the existing university in Gyeongseong must be expanded, with new departments and teachers to bring the wealth of knowledge of the world to Korean fingertips."
+KOR_gyeongseong_university_desc:0 "수많은 분야 만큼이나 우리가 필요로 하는 고등교육을 위한 우리만의 기반을 만들기 위해선 현존하는 경성대학을 확대해야 합니다. 새 학부를 설립하고 선생들을 초빙해 세상에 널린 지식의 부를 한국의 손 안에 담을 것입니다."
 KOR_establish_the_chaebols:0 "재벌 수립"
 KOR_establish_the_chaebols_desc:0 "한국엔 이미 많은 회사와 산업체가 자리하고 있지만, 대부분은 일본의 착취를 등에 업고 성장한 이들입니다. 새 정부의 후원계획으로 신생 사업체들을 근대 경제기계를 작동시키는 톱니바퀴로 만들 것입니다. 가족 중심의 이 사업체들은 아시아의 사업의 빛나는 예범이자 주도자들이 될 것입니다."
 KOR_overseas_trade_ties:0 "해외교역 연계"
