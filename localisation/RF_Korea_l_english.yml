@@ -276,7 +276,7 @@ JKR_free_rel_desc:0 "동지의 자유를 가로막지 않는 한, 신조는 중�
 JKR_com_kim:0 "김좌진 헌장"
 JKR_com_kim_desc:0 "김 동지의 헌장은 지도자의 지위가 의전직이며, 그 자리에 앉은 이는 집합일 수백만의 목소리로서 그들의 편에 서 세상을 향해 말할 것임을 분명히 했습니다."
 
-JKR_kropotkin:0 "조선 무정부주의자 Code"
+JKR_kropotkin:0 "조선 무정부주의자 규약"
 JKR_kropotkin_desc:0 "진정한 교리서는 만인이 따를 예범이 될 것입니다."
 
 JKR_air_camouflage:0 "위장"
@@ -301,8 +301,8 @@ IKR_dissenters:0 "반대자들"
 IKR_rebels_dead:0 "죽은 반군들"
 ############################
 IKR_ODC:0 "동양척식주식회사"
-IKR_land_reset:0 "Land Resettlement" 
-IKR_refugee_work:0 "Refugee Work Program"
+IKR_land_reset:0 "토지개척"
+IKR_refugee_work:0 "난민 노동 계획"
 ##########################
 IKR_autarky:0 "자급제"
 IKR_pension:0 "신연금계획"
@@ -414,13 +414,12 @@ kor.3.a:0 "헛소리! 더 나은 발상은 없나?"
 kor.3.b:0 "최소한 성노예제 정도는 멈출 수 있겠지..."
 kor.3.c:0 "이곳 조선에서 우선 실험해보고, 후일 내지에도 적용해보지."
 
-kor.4.t:0 "조선 문화보존"
-kor.4.d:0 "As is the case in most colonial empires, one of the biggest problems that colonised nations face is the erasure of their native culture by their overlord. This is precisely why Prince Yi Un has decided to pre-empt the erasure of his culture, and by extension his claim to the throne of Korea, by petitioning the Japanese government to ensure that Korean culture is safeguarded by a new Cultural Preservation Program in the peninsula. Korea has already been affected by Japanese cultural imperialism to some degree, with mass proliferation of Japanese language texts in Korea, as well as all official documents being printed in Japanese. However, the relatively weak presence of the Japanese in Korea seems to have all but halted the process of Nihonisation, at least for now. Regardless, the Korean Prince still sees the looming threat of Korean destruction as one to be taken seriously, and is not backing down on this issue. The Korean exiles in other nations, such as Republicans in China and even the Anarchists and Councilists in Manchuria, have praised Prince Yi’s stalwart defense of his nation, even under the boot of imperialism. Most of the native population, on the other hand, has been silent, either out of disinterest in high-minded politics or a fear of retribution from Japanese authorities. Japan is now left with a decision to make; give their subjects what they want, or face the potentially revolutionary consequences."
+kor.4.d:0 "대부분의 식민제국들 아래서 겪게 되듯, 식민화된 민족들이 마주하는 가장 큰 문제들 중 하나는 식민주의자들에 의한 원주문화의 소멸입니다. 이것이, 영친왕 이은이 한국 문화 소멸 방지를 위한 예비책이자 대한제국 제위 주장의 연장으로서 반도 내 새 문화보존계획 시행을 통한 문화 보존을 일본 정부에 탄원한 이유였습니다. 모든 공문서가 일본어로 인쇄되는 데 더해 조선 내 일본 문어의 대규모 일상화는 일본의 문화제국주의에 조선이 어느 정도 영향을 받게 만들었습니다. 하지만 상대적으로 미약한 조선 내 일본어 사용 수준은, 당장의 황민화를 멈춰서게 했습니다. 어쨌거나 이 조선 왕족은 조선 문화의 파괴라는 위협을 진지하게 여기며 물러설 기미를 보이지 않고 있습니다. 중국의 공화파와 만주의 아니키스트들과 평의회주의파와 같이 타국에 망명한 조선인들은 제국주의의 군화 아래서도 민족을 위해 당당히 맞서는 이공을 찬미하고 있습니다. 한편으로 대부분의 조선인들은 고고한 정치에 관한 무관심, 혹은 일본 당국의 보복에 대한 공포로 인해 침묵을 지키고 있습니다. 이제 일본이 선택할 차례입니다. 새 신민들에게 원하는 것을 내어주거나, 혁명으로 이어질 잠재성을 감수하는 것."
 kor.4.a:0 "당체 이해할 수가 없군."
 kor.4.b:0 "좋아, 계획을 시행하도록."
 
 kor.5.t:0 "산업할당량 확대"
-kor.5.d:0 "Yet again, an issue whose discussion was meant to be a formality with a predetermined conclusion has raised hell amongst the Japanese Diet. This week’s screaming match is over Japan’s plans for Korean industrialization. On one hand, the Korean economy is in poor shape. Much of the country is still very rural, with many Korean farmers still having not moved beyond subsistence agriculture. On the other, however, the present colonial status quo has already uprooted the lives of many Koreans, and they would surely not respond well to more aggressive policies. Although many politicians are dedicated to defending their positions and ideals, many burned out ministers are simply desperate for some kind of consensus and an end to the constant bickering. After much feuding and mud-slinging, the Japanese Diet has finally agreed…"
+kor.5.d:0 "그리고 다시, 이미 정해진 결론에 격식이 있었어야 할 사안에 관한 토의는 의회를 아수라장으로 만들었습니다. 이번 주에 벌어진 고함 대회에선 조선공업화에 관한 일본의 계획이 올라왔습니다. 보건대 조선의 경제는 크게 낙후됐습니다. 나라의 대부분이 여전히 농촌사회를 유지하고 있으며, 조선 농민의 다수는 최저 농업 수준을 넘지 못하고 있습니다. 하지만 한편으로 지금의 식민 현상유지는 이미 수많은 조선인들의 삶을 송두리째 뽑아버렸으니, 더 공격적인 정책에 조선인들이 가만히 있을 리는 없을 것입니다. 수많은 정치인들이 자신의 지위와 이상을 지키려 헌신하는 가운데, 엉덩이에 불이 붙은 장관들은 그저 어떤 합의와 계속되는 논쟁의 끝을 간절히 바라고 있습니다. 수많은 논쟁과 추태 끝에, 일본 의회가 마침내 동의에 다다랐으니..."
 kor.5.a:0 "할당량을 두 배로 늘린다."
 kor.5.b:0 "현 정책을 유지한다."
 kor.5.c:0 "기아의 위험성이 너무 높으므로 물린다."
@@ -431,7 +430,7 @@ kor.6.a:0 "토지개혁 법안이 가결되다."
 kor.6.b:0 "토지개혁 법안이 부결되다."
 
 kor.7.t:0 "일본 의회가 조선 이주정책에 대해 논의하다"
-kor.7.d:0 "Today was supposed to be a rather routine day for the Japanese Imperial Diet, discussing their foreign affairs policies going forward, which were supposed to remain largely the same. However, an uproar began when the issue of migration to the Korean peninsula was brought up, with those favoring de-escalation of colonization policies hurling insults at those who thought it time to double the Japanese settlement efforts. The opposition has rationalized that increasing migration to Korea will be seen as an aggressive move by the native population, who will turn against their overlords even more than they already have. However, those in favor argue that Korea’s issue is not with dissatisfaction, but uncivilization. By observing the examples of noble Japanese colonists, the Korean people would learn to respect their betters and mind themselves. After seemingly endless debating and mud-slinging, the bickering Diet members managed to conclude that…"
+kor.7.d:0 "일본 제국의회에게 오늘은, 여지껏 크게 다를 것 없는 외무정책의 진전을 논의하기 위한 다소 평범한 날이 될 예정이었습니다. 하지만 조선 반도 이주 문제가 튀어나오자, 식민화 정책의 저조화를 지지하는 이들과 일본인 정착을 두 배로 늘릴 때라 여기는 이들 간의 목소리가 높아지며 고함까지 들려왔습니다. 반대파는 조선 이주 증가가 조선인들에게 적대 행동으로 비치며 이미 심각한 그들의 대 일본 적개심이 더 깊어질 것이라 경고했습니다. 하지만 이주를 찬성하는 이들은 조선 문제가 불만이 아닌 미개의 문제라면서, 고귀한 일본인 식민가들을 관찰함으로써 조선인들이 자신들보다 나은 이들을 존중하고 자기 위치를 깨달을 수 있을 것이라 주장했습니다. 끝이 없을 것 같던 토론과 헐뜯기 끝에 의원들은 결론에 도달했으니..."
 kor.7.a:0 "황민화를 확대한다."
 kor.7.b:0 "무슨 일이 벌어지기 전에 늦추도록 한다."
 kor.7.c:0 "현 수준의 이주를 유지한다."
@@ -496,11 +495,11 @@ kor.171.d:0 "고대기 조선에는 화랑, 꽃의 전사들이라 불리는 용
 kor.171.a:0 "국선께선 주체의 이상이시다!"
 
 kor.172.t:0 "주체와 종교"
-kor.172.d:0 "While the doctrine of Juche is a righteous program of national renewal, pride of people and continual reinvention, it is not a panacea. A key component of reviving Korea's soul is Korean Buddhism and Shamanic culture, by propagandising the people and funding the restoration of many temples, the renaissance of Korean Buddhism can begin in full. Naturally, this campaign must appeal to the people's popular sentiments, by injecting the ubiquitous Taegeuk symbol into our messaging, we can promote Buddhism and reigious scholarship to the people as a demonstration of national and ethnic pride, in line with Juche's ideals; rather than the dangerous nature of reactionary Goryeo era submissiveness, which led to the embarassing Joseon period.\nWe must be cautious however, to characterise this as Korean movement, any dreaded Chinese, Tibetan or Mongol influence would be unacceptable according to Sin's teachings. As the old orders had revered masters, the new Buddhism will know only one master and it's name is Juche."
+kor.172.d:0 "주체의 교리는 민족소생, 인민의 긍지, continual reinvention에 관한 의로운 사상이지만, 만능약은 아닙니다. 조선의 영을 되살리기 위한 핵심 요소는 조선의 불교와 무속 문화로, 인민을 선동하고 수많은 사찰 복원에 자금을 지원하면 조선 불교의 부흥기가 온전히 다가오게 될 것입니다. 당연히 this campaign must appeal to the people's popular sentiments, by injecting the ubiquitous Taegeuk symbol into our messaging, we can promote Buddhism and reigious scholarship to the people as a demonstration of national and ethnic pride, in line with Juche's ideals; rather than the dangerous nature of reactionary Goryeo era submissiveness, which led to the embarassing Joseon period.\nWe must be cautious however, to characterise this as Korean movement, any dreaded Chinese, Tibetan or Mongol influence would be unacceptable according to Sin's teachings. 오랜 종파들에게 존경받는 거사들이 있었듯, 새 불교에는 주체라는 이름의 단 하나의 거사만이 있을 것입니다."
 kor.172.a:0 "인민의 정신이 다시 타오른다."
 
 kor.173.t:0 "조선-핀란드 정상회담"
-kor.173.d:0 "Despite apparent large differences in platform, ideology and culture, Finland and Korea have developed amicable relations lately. Both stand almost alone, surrounded by much more powerful and belligerent neighbours that have subjected their people to evils in their recent past. The first round of what is to be four major summits establishing Finno-Korean friendship has taken place in Pyongyang. The summits will discuss further diplomatic and economic co-operation between the two nations. Throughout history both peoples have reached highs never yet matched, perhaps together they can surpass their forebears as brothers."
+kor.173.d:0 "근간, 이념, 문화상의 큰 차이에도, 조선과 핀란드는 최근 아주 친근한 관계를 수립해왔습니다. Both stand almost alone, surrounded by much more powerful and belligerent neighbours that have subjected their people to evils in their recent past. The first round of what is to be four major summits establishing Finno-Korean friendship has taken place in Pyongyang. The summits will discuss further diplomatic and economic co-operation between the two nations. Throughout history both peoples have reached highs never yet matched, perhaps together they can surpass their forebears as brothers."
 kor.173.a:0 "축복받은 지도자들이며, 예상치 못한 친구들이라."
 
 kor.174.t:0 "조선-핀란드 정상회담"
@@ -521,21 +520,21 @@ kor.19.d:0 "비밀작전, 분할정복 전술, 오랜 방식의 선전에 따라
 kor.19.a:0 "좌익은 허튼 수작 부리지 말라."
 
 kor.20.t:0 "혁명연정"
-kor.20.d:0 "The Korean Revolutionaries may have secured their collective position, but the internal differences between the various groups remains stark. The leading Vanguardist People's Party are at hard odds with the Nationalist Revolution and Anarcho-Communists, in order to settle the internal disagreements without bloodshed, a series of congressional votes and plebicites have been organised. The division of the parties looks to be unbreakable, but if the coalition breaks with one of the three main partners, a strong basis for rule could be established."
+kor.20.d:0 "조선의 혁명가들이 집합적 지위를 지켜냈다 해도, 다양한 집단들 간의 내부적 차이는 짙게 남아있습니다. 연정을 주도하는 전위주의 인민당이 민족혁명당이나 아나코 공산주의자들과 뜻을 달리 하니, 참극 없이 내부의 불협을 진정시키고자 일련의 국회투표와 국민투표가 개최될 예정입니다. 각 정당의 분열은 막을 수 없을 듯하지만, 세 동업자들 중 하나가 연정을 깨고 나온다면 통치를 위한 강력한 기반이 만들어질 것입니다."
 kor.20.a:0 "노동당을 고수한다."
-kor.20.b:0 "민족혁명이 인민을 이끌 것이다."
-kor.20.c:0 "Revolutionary Unionist만이 진정한 혁명을 세울 수 있다."
+kor.20.b:0 "민족혁명당이 인민을 이끌 것이다."
+kor.20.c:0 "혁명연맹만이 진정한 혁명을 세울 수 있다."
 
 kor.202.t:0 "민족혁명이 국민투표에서 승리하다"
-kor.202.d:0 "After a tense voting period following the turmoil of the revolution, a clear winner of the election has emerged. Sin Chaeho’s National Revolution party originally failed to secure a majority, but after negotiations with Pak and Chwa-Chin, they will form a coalition government. their rhetoric about building a new and better Korea through radical and highly unusual policies enticed many.. With the election won, Sin will make a speech in the capital later today about what will be done in the coming times."
+kor.202.d:0 "혁명의 분규 직후 이어진 격렬한 투표기간 끝에 선거의 승자는 나타났습니다. 신채호의 민족혁명당은 본디 과반을 지키는 데 실패했지만, 박헌영과 김좌진 간의 협상 끝에 연정이 형성됐습니다. 새롭고 더 나은 조선을 건설하기 위한 급진적이며 극히 비범한 정책들은 부르짖는 이들의 수사법이 수많은 이들을 혹하게 했습니다. 선거 승리에 따라 신채호는 다가올 날들에 무엇을 이루어 낼 것인지에 관해 오늘 오후 수도에서 연설할 예정입니다."
 kor.202.a:0 "우리가 필요하던 바로 그거야."
 
 kor.201.t:0 "전위주의파가 국민투표에서 승리하다"
-kor.201.d:0 "After a tense voting period following the turmoil of the revolution, the Korean Poeple's Vanguard has won the confidence of the congress. Pak Hon-yong remains in control of Revolutionary Korea."
+kor.201.d:0 "혁명의 분규 직후 이어진 격렬한 투표기간 끝에 조선인민전위당이 국회의 신임을 얻었습니다. 박헌영이 혁명 조선을 계속해서 이끌 것입니다."
 kor.201.a:0 "박헌영의 전위당이 다시금 승리하는군."
 
 kor.203.t:0 "무정부주의 공사가 국민투표에서 승리하다"
-kor.203.d:0 "After a tense voting period following the turmoil of the revolution, a clear winner of the election has emerged. Kim Chwa-Chin’s anarcho-communes have secured a safe majority, their libertarian rhetoric about self-governing communes, union representation for all and broad civil and economic liberties enticed many to vote for him. With the election won, he will make a speech in the capital later today about what will be done in the coming times."
+kor.203.d:0 "혁명의 분규 직후 이어진 격렬한 투표기간 끝에 선거의 승자는 나타났습니다. 김좌진의 무정부주의 공사가 have secured a safe majority, their libertarian rhetoric about self-governing communes, union representation for all and broad civil and economic liberties enticed many to vote for him. With the election won, he will make a speech in the capital later today about what will be done in the coming times."
 kor.203.a:0 "사회주의를 위한 중대한 승리로다."
 #Exiles event chain
 kor.21.t:0 "죄수들"
@@ -543,7 +542,7 @@ kor.21.d:0 "동이 트자 총성은 울려퍼졌습니다. 21문 예포도 아�
 kor.21.a:0 "개자식들이 우리를 배신했다고!"
 
 kor.23.t:0 "이 길이 맞긴 했던 걸까?"
-kor.23.d:0 "이름들은 한여름 장미 정원을 찾은 so many frantic 벌들처럼 그의 머리속에서 rattled댔습니다. 알았던 그 이름들을 다시 기억해내려 했습니다. But since they no longer patrolled his halls, waiting on his beck and call, he couldn't picture them correctly. They had betrayed him, that was the line. Traitors. But perhaps he had acted rashly. Did they really deserve the bullet? Another missive had arrived on his desk as he stared off into space, another list with another familiar name on it. Surely not him as well? How could so many have failed to keep faith and moved against him? Perhaps this has all gone too far."
+kor.23.d:0 "이름들은 한여름 장미 정원을 찾아 날뛰는 수많은 벌들처럼 그의 머리속에서 rattled댔습니다. 알았던 그 이름들을 다시 기억해내려 했습니다. But since they no longer patrolled his halls, waiting on his beck and call, he couldn't picture them correctly. They had betrayed him, that was the line. Traitors. But perhaps he had acted rashly. Did they really deserve the bullet? Another missive had arrived on his desk as he stared off into space, another list with another familiar name on it. Surely not him as well? How could so many have failed to keep faith and moved against him? Perhaps this has all gone too far."
 kor.23.a:0 "정말 미안하네."
 
 kor.24.t:0 "썩어가는 양심"
@@ -555,11 +554,11 @@ kor.25.d:0 "\"무슨 일이에요, 여보?\" \"...\" \n그는 답할 수 없었�
 kor.25.a:0 "어쩌다 이렇게 된 거지?"
 #Depression chain
 kor.26.t:0 "전언"
-kor.26.d:0 "There was a knock at the door to Ugaki's office. He could tell from the rhythm that it was Ryoshi - his secretary. Good, that means it's not another partisan report from Jirō. Ryoshi slid the door open and came inside as though he preferred not to make a noise. Peculiar, thought Ugaki, normally Ryoshi wouldn't be so sheepish. The young man paced forward, bowed and then came to Ugaki's side, he whispered in his ear while passing him an un-addressed letter. The seal was that of the Emperor, though a bit rougher than usual; the wax was cracked and the seal itself uneven, as though it had been made by a most shaky hand. Ugaki unsealed the letter and withdrew the paper, he glanced at Ryoshi before reading, measuring his response, he seemed unfazed. 'Honourable Governor-General' -the letter began - 'Your tireless duty to the Empire has not gone unnoticed in this trying time, by the will of the Emperor you are hereby appointed as his prime-minister-in-absentia. Your first issued command is to offer punishment as you see fit upon the traitors to the Empire, be they of noble Japanese or peasant Korean blood, all traitors must be punished. The punishment should continue until resistance is no more.' Ugaki paused before turning back to Ryoshi."
+kor.26.d:0 "누군가 우가키의 집무실 문을 두드렸습니다. 두드리는 박자감으로 보아 자신의 비서인 료시임을 그는 알았습니다. 다행이죠, 지로에게서 전해받은 또 다른 유격대 보고가 아니라는 뜻이니까요. 평소에도 소리내길 좋아하지 않는 료시였지만, 미닫이문을 여는 그를 보며 총독은 평소보다 머뭇대는 듯한 자세를 알아차렸습니다. 앞으로 나아간 청년은 절을 한 뒤 우가키의 옆으로 와 아무런 표식이 없는 편지를 전하며 귓속말을 속삭였습니다. 인장은 천황의 것이었지만 모양새는 평소보다 다소 흐트러져 있었습니다. 쥐고 있던 손이 크게 떨기라도 한 듯 밀랍은 갈라지고 직인은 흔들렸습니다. 편지의 봉인을 풀고 편지를 든 우가키는 읽기 전 료시를 바라보며 그의 반응을 보려 했지만, 료시는 놀라지 않은 듯했습니다. '경애하는 총독께.' 그와 같은 문구로 편지는 시작됐습니다. 'Your tireless duty to the Empire has not gone unnoticed in this trying time, by the will of the Emperor you are hereby appointed as his prime-minister-in-absentia. Your first issued command is to offer punishment as you see fit upon the traitors to the Empire, be they of noble Japanese or peasant Korean blood, all traitors must be punished. The punishment should continue until resistance is no more.' 료시 쪽을 돌아보기 전 우가키는 잠시 입을 다물었습니다."
 kor.26.a:0 "타자기 갖고 와, 료시. 사케 한 병이랑 같이."
 
 kor.27.t:0 "저항의 지속"
-kor.27.d:0 "Despite thousands of imprisonments, hours upon hours of torture and confessions, hundreds of executions and a few prisoner 'suicides', 우가키가 지시한 처벌들은 아직 결실을 맺지 못하고 있습니다. His subordinates begin to wonder why the garrisons should bother rounding up so-called dissenters at all when nothing seems to come of it. Resistance in the country is still rampant, the partisans cross between Manchuria and Korea with seeming impunity and the army cannot contain them all, let alone the amateur terror attacks in major cities against Japanese citizens and soldiers."
+kor.27.d:0 "수천 건의 체포와 수십 시간을 이어가는 고문과 자백, 수백 건의 처형과 일부 죄수들의 '자살'에도, 우가키가 지시한 처벌들은 아직 결실을 맺지 못하고 있습니다. 총독의 수하들은 도대체 왜 수비군이 아무 소득도 건지지 못하면서 이른바 불령인들을 처리하고 있어야 하는지 의문하기 시작했습니다. 저항은 여전히 전국에서 격렬한 데다, 아무런 제지 없이 만주와 조선을 넘나드는 유격대를 군은 완전히 처리해내지 못하고 있으며, 주요 도시들에선 일본 시민들과 병사들을 상대로 한 어설픈 테러 공격들이 이어지고 있는데 말입니다."
 kor.27.a:0 "배우는 게 없구만... (홀짝)"
 
 kor.28.t:0 "역란이 진압되다"
@@ -577,7 +576,7 @@ kor.29.b:0 "안창호의 보수파가 권력을 유지하다."
 kor.29.c:0 "여운형의 사회민주파가 승리를 거머쥐다."
 
 kor.291.t:0 "선거의 다음 장"
-kor.291.d:0 "한국의 선거주기는 긴 만큼이나 계속됩니다. 다시 주요 세 집단이 대한의 인민을 향해 앞으로 나섰으니, 공공은 누가 premiership를 지키고 빼앗을 것인지 그 결과만을 기다리고 있습니다."
+kor.291.d:0 "한국의 선거주기는 긴 만큼이나 계속됩니다. 다시 주요 세 집단이 대한의 인민을 향해 앞으로 나섰으니, 공공은 누가 총리직을 지키고 빼앗을 것인지 그 결과만을 기다리고 있습니다."
 kor.291.a:0 "자유파의 승리."
 kor.291.b:0 "보수파가 인민의 자신을 얻다."
 kor.291.c:0 "사회민주파가 크게 이기다."
@@ -809,7 +808,7 @@ IKR_entrust_the_odc:0 "동척 신뢰"
 IKR_entrust_the_odc_desc:0 ""
 IKR_begin_the_autarky_policy:0 "자급정책 "
 IKR_begin_the_autarky_policy_desc:0 ""
-IKR_begin_mass_land_resettlement:0 "Begin Mass Land Resettlement"
+IKR_begin_mass_land_resettlement:0 "대규모 토지개척 개시"
 IKR_begin_mass_land_resettlement_desc:0 "The once controversial move to transfer land away from exclusive Japanese ownnership is a touch more patelable in these times. With a more pacified peninsula and the loyalties of the owners vetted, the move to open up more land for development is now a formality."
 IKR_for_the_emperor:0 "천황 폐하 만세!"
 IKR_for_the_emperor_desc:0 ""
