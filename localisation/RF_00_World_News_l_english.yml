@@ -309,7 +309,7 @@ news.65.desc:0 "하느님께선 흑백단의 편에 서신 듯합니다.\n황러
 news.65.a:0 "하느님께선 러시아를 보우하시길. 그분 외엔 누구도 할 수 없을 테니."
 
 news.66.t:0 "연대주의파가 러시아를 통일하다!"
-news.66.desc:0 "시베리아 내 도회운동의 바깥에서 태어난 러시아 연대주의 연합이 러시아 바깥에서 완전히 진보적이며 시민민족주의적인, 키예프에서부터 태평양까지 이르고 기술적으론 그 어느 때보다 발전한 국가를 수립해냈습니다. 좀 더 온건한 일부 촉진주의자들 사이에선 연대주의자들을 막대한 인력원과 큰 안정성을 갖춘 떠오르는 비동맹 세력이라 여깁니다. 그렇게, 러시아를 위한 새 시대, 일체화됐으며 습합적인 사회가 시작되었습니다."
+news.66.desc:0 "시베리아 내 도회운동의 바깥에서 태어난 러시아 연대주의 연합이 러시아 바깥에서 완전히 진보적이며 시민민족주의적인, 키예프에서부터 태평양까지 이르고 기술적으론 그 어느 때보다 발전한 국가를 수립해냈습니다. 좀 더 온건한 일부 촉진주의자들 사이에선 연대주의자들을 막대한 인력원과 큰 안정성을 갖춘 떠오르는 비동맹 세력이라 여깁니다. 그렇게, 러시아를 위한 새 시대, 동기화됐으며 습합적인 사회가 시작되었습니다."
 news.66.a:0 "일체화된 사회."
 
 news.67.t:0 "스키티아주의파가 러시아를 통일하다!"
@@ -333,11 +333,11 @@ news.71.desc:0 "In an epic turnabout, the Kingdom of Italy has successfully defe
 news.71.a:0 "이탈리아가 이겼다고? 삶은 정말 가상보다 기이하군."
 
 news.72.t:0 "이탈리아 왕국이 유럽을 정복하다"
-news.72.desc:0 "Duce Italo Balbo has finally ordered the Italian war machine to halt as the Kingdom of Italy consolidates its conquest of the European continent and surrounding isles. Through a combination of opportunism, luck, and sheer military power, Balbo’s forces swept aside all opposition in the world’s industrial heart. Ancient empires and newborn republics alike have been utterly crushed as Italianization programs relentlessly pulverize local identities and drag hundreds of millions to cultural and linguistic homogeneity. \nThe world quakes in terror, but Balbo has shown little indication of wishing to continue his conquests. Rather, the Italian Alexander seeks to consolidate his new empire. Peace returns for now, but as the years pass, who can say where the new Master of Europe will next cast his hungry gaze?"
+news.72.desc:0 "두체 이탈로 발보가 마침내 이탈리아 전쟁기계로 하여금 이탈리아 왕국의 유럽 대륙과 일대 도서 정복지들을 지켜내도록 명령했습니다. 기회주의, 운, 순전한 군사력을 조합하여, 발보의 군세는 세계 산업 중심지에서 모든 반대를 쓸어냈습니다. 고대의 제국들과 신생 공화국들은 현재 정체성들을 완전히 깨부수고 수천만을 문화와 언어에서 단일한 집단으로 만들겠다는 이탈리아화 구안에 따라 철저히 파괴되었습니다. \n세계가 공포 속에 떨지만, 발보는 자신의 정복을 계속하겠다는 바람을 그리 크게 보이고 있지 않습니다. 그보다, 이 이탈리아의 알렉산드로스는 자신의 새 제국을 강고히하는 데 관심이 더 큽니다. 당장은 평화가 다시 찾아왔지만, 몇 년이 지나고서 유럽의 새 주인이 그 굶주린 시선을 던지게 될 곳이 어디가 되리라 누가 말할 수 있겠습니까?"
 news.72.a:0 "다시금 라틴인들이 세계를 깨부수었다."
 
 news.73.t:0 "해방전쟁이 끝을 맞이하다"
-news.73.desc:0 "Italian Prime Minister Francesco Saverio Nitti announced today that Italy has completed its campaigns of liberation in Europe and elsewhere, signalling the start of an era of extensive economic and political rebuilding. With democracy newly introduced or reintroduced to many nations, Italy must now successfully coordinate their redevelopment and the strengthening of new liberal institutions without comprising its ideals of self-determination and liberty. Critics have called these efforts thinly-disguised empire building, but Italian troops have been withdrawn from several key areas, an encouraging sign for many in the new “sister republics”. As Italian authorities seek to expand the scope of the Treaty of European States, the world wonders whether the Italian Federation can maintain its lofty ideals, and whether Europe can regain any of its former strength, prosperity, and prestige."
+news.73.desc:0 "이탈리아 총리 프란체스코 사베리오 니티가 announced today that Italy has completed its campaigns of liberation in Europe and elsewhere, signalling the start of an era of extensive economic and political rebuilding. With democracy newly introduced or reintroduced to many nations, Italy must now successfully coordinate their redevelopment and the strengthening of new liberal institutions without comprising its ideals of self-determination and liberty. Critics have called these efforts thinly-disguised empire building, but Italian troops have been withdrawn from several key areas, an encouraging sign for many in the new “sister republics”. As Italian authorities seek to expand the scope of the Treaty of European States, the world wonders whether the Italian Federation can maintain its lofty ideals, and whether Europe can regain any of its former strength, prosperity, and prestige."
 news.73.a:0 "Liberalism was never really dead, only biding its time."
 
 news.74.t:0 "영성 미국"
@@ -365,7 +365,7 @@ news.79.desc:0 "The Socialist Revolution has returned to Russia, but in a way fe
 news.79.a:0 "마르크스가 기쁨의 눈물을 흘린다."
 
 news.333.t:0 "아가르타 발견"
-news.333.desc:0 "The world has been shaken today, as a German chicken farmer named Heinrich Himmler has apparently found an entrance to what he calls \"Agartha\", an underground advanced civilization living inside of Earth. It appeasrs that our planet is infact hollow, and that these Agarthans have been living here for many millenia, using a force known as Vril to develop strange abilities which can only be described as supernatrual. Himmler's discovery has left scientists around the world baffled, as by all logic this should not be possible, yet it clearly appears that humanity may not be the only sentient creatures living on, or in this case, under the Earth's surface."
+news.333.desc:0 "하인리히 힘러라는 이름의 독일 양계농이 \"아가르타\"라 불리는 지구 내부에 자리한 선진 문명으로 가는 입구를 분명히 찾으면서 오늘 전 세계가 뒤흔들렸습니다. 우리 행성이 실은 비어있음이 명확해졌으며, 이 아가르타인들은 초자연적인 힘이라고 밖엔 할 수 없는 이 브릴이란 기묘한 능력을 발달시켜 수천 년을 살아왔습니다. 상식적으로 불가능하지만 인류가 이 지구 위를 걸어다니는, 이 경우엔 지구에 거주하는 유일한 지성체가 아니라는 점이 힘러의 발견에 따라 밝혀지면서 전 세계의 과학자들은 할 말을 잃고 말았습니다."
 news.333.a:0 "브릴의 힘이여..."
 
 news.100.t:0 "프랑스가 다시 전쟁에 뛰어들다!"
