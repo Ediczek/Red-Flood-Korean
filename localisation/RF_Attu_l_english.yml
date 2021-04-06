@@ -62,3 +62,7 @@ POLITICS_BACKWARDS_TEXT_DESC:0 "\"히페르보레아가 닿은 내게 주어진 
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
+ATU_max_presidency:0 "Max's Presidency"
+ATU_max_presidency_desc:0 ""
+ATU_commissioner_is_calling:0 "The Commissioner is Calling"
+ATU_commissioner_is_calling_desc:0 ""
