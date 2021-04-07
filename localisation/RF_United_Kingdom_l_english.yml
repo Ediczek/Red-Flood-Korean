@@ -95,6 +95,9 @@ ENG_volunteer_corps:0 "커먼웰스 의용군단"
 #CUSTOM TOOLTIPS AND FLAGS#
 #MISC#
 Commonwealth_of_Nations:0 "커먼웰스"
+ENG_CIF_LOC:0 "The Investment Fund Binds the Commonwealth Together"
+ENG_tackle_the_giant:0 "Tackle the Giant"
+ENG_pressure_the_dutch:0 "Pressure the Dutch"
 #Ministers#
 austen_chamberlain:0 "오스틴 체임벌린"
 mark_sykes:0 "마크 사익스"
@@ -896,6 +899,19 @@ eng.46.a:0 "그게 인생이야!"
 eng.47.t:0 "55"
 eng.47.d:0 "헨리 아이신 교로의 새 영화는... 분류하기 다소 어렵습니다. - it begins suddenly with a man screaming while he bleeds out from a bullet wound, only to slowly die in pain through a grueling 5 minutes of audio and video which many believed were real sounds of death. After this, flowers appear on the screen where the blood used to be, and colors spring up from an increasingly darkening background where former sounds of shooting and high-caliber weapons could be heard. As more sounds come, more flowers appear, some with different colors - all mixed in with the sounds of pain, horror, and violence. The movie eventually ends with the sounds of common German imperial songs such as \"Schwarzbraun ist die Haselnuss\" and British imperial songs, then shows many bloodied flags flying in the wind. Many believe the film is an enactment of the Boxer Rebellion, but they aren't too sure."
 eng.47.a:0 "어쩌면 헨리가 미친 걸지도?"
+
+eng.48.t:0 "Britain Demands Japan Stands Down"
+eng.48.d:0 "Britain and its Commonwealth allies have placed increasing pressure on us to stand down from expansion into Asia. With sanctions already in place and the threat of war looming, we must choose between peace and our continued expansion into Asia."
+eng.48.a:0 "Very well, Anglo."
+eng.48.b:0 "Never! The West has no place here."
+
+
+eng.49.t:0 "The Gates of the Orient"
+eng.49.d:0 "The soldiers of Britannia bled at Gallipoli, and at the end of the Great War, we oversaw the creation of the Straits Commission to ensure their sacrifice would not be in vain, and to ensure free navigation to the Black Sea. While things have worked well so far, the vile Turks greedily eye the city of Constantine - and a not-insignificant number of the residents of the Commission might wish to rejoin the state of their yokel kinsmen in Central Anatolia.\nAbsent a clear threat, the public may not be especially keen to deploy British troops to what is technically not an Imperial possession. But we would be foolish not to take steps against Turkish irredentism, especially with Russia, the other guarantor of the Commission, expressing serious signs of weakness since last November.\n Luckily, our Greek allies view the territorial integrity of the Commission - and the protection of Constantinople - as a leading p iority for their nation, and have no qualms about fighting the Turks. We need only ensure they have the means.\nAs they are rather seriously outnumbered, we should take pains to ensure they very excellent means available indeed. By selectively canceling their debts and transferring advisors and materiel, we have the ability to do just that, while also ensuring our arms manufacturers have the steady flow of orders to needed to maintain their enterprises."
+eng.49.a:0 "The straits are important, I suppose"
+eng.49.b:0 "Defending our Mediterranean interests is essential - support the Armenians as well."
+eng.49.c:0 "The Eastern Mediterranean is the gateway to the Empire - take no chances"
+eng.49.e:0 "Never another Gallipoli! Pull out all the stops"
 
 eng.1000.t:0 "The Yanks Reach Out Again"
 eng.1000.d:0 "There have been a number of reasons why the great powers of the world have turned to protectionism in the past few years. Initially, the response of many to the start of the Great Depression was to rush to protect domestic markets and farmers, and then the Franco-Russian repudiation of war debts made relying on others even less attractive. We are no exception to that rule. Keeping the Commonwealth together economically and politically has been our main priority, especially after what happened in India. \n\nAnd now the Americans, somewhere near rock bottom, are asking if we would like to expand free trade between them and our bloc. \n\nThere is just too much Parliamentary opposition to the deal. The potential impacts on Canadian and British agricultural interests are too great. Concerns about displacing our own battered industry are also rife. Together, much of Labour and the Tories are too reluctant to pursue this avenue. Not while we are worried about rocking our own boat."
