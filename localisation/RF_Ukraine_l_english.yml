@@ -806,6 +806,10 @@ ukraine.35.desc:0 ""
 ukraine.35.a:0 "준다."
 ukraine.35.b:0 "가진다."
 
+ukraine.36.t:0 "금송아지"
+ukraine.36.desc:0 "Illya Ilf and Yevhen Petrov, a Ukrainian-Jewish writer duo from Odessa (who wrote in Russian before meeting in 1925 and switching to Ukrainian while working with Semenko and Tychyna) famous for their extremely popular satirical novel \"The Twelve Chairs\", have recently announced a new novel, set in the same universe - \"The Golden Calf\". \n\nAccording to the plot, the main character Ostap Bender, who is described as an enigmatic conman, self-proclaimed \"Turkish subject\", and an overall magnificent fellow, not only survived his own assassination by a Drozdovite spy Kisa Vorobyaninov (the kill scene with which \"The Twelve Chairs\" ended), but even managed to assemble his team again. This time, Bender’s goal was the tracking down of an elusive \"underground millionaire\" Koreiko. From there on, the story unfolds on a truly epic scale, with Ostap’s adventures across the Black Sea coast and Steppes leading him to a certainly unusual finale, which the authors asked not to reveal prematurely in any newspaper reviews. As usual, readers should expect a lot of Odessite humour, lots of interesting characters and funny situations, and an answer to a question which was already stated by many fans of the writer duo - what are Ostap Bender’s real motives, and would there ever be a part three of this epic story?"
+ukraine.36.a:0 "Good to know that the saga continues."
+
 # DECISIONS #
 UKR_foreign_policy:0 "외교정책"
 UKR_demand_lwow:0 "리위우 요구"
