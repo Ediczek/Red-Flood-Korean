@@ -27,12 +27,84 @@ PER_accelerationism_party:0 "테헤란회"
 PER_accelerationism_party_long:0 "테헤란 협회"
 
 #LEADER DESCRIPTIONS#
-SHAH_SNR_DESC:0 ""
-SHAH_JNR_DESC:0 ""
+
 #IDEAS#
-PER_APOC:0 "영국-페르시아 석유사"
+
+#Ministers#
+
+PER_Fazlollah_Zahedi:0 "Fazlollah Zahedi"
+
+PER_William_Fraser:0 "William Fraser"
+
+PER_Iraj_Eskandari:0 "Iraj Eskandari"
+
+PER_Mirza_Kuchik_Khan:0 "Mirza Kuchik Khan"
+
+PER_Hasan_Arfa:0 "Hasan Arfa"
+
+PER_John_Le_Rougetel:0 "John Le Rougetel"
+
+PER_Reza_Radmanesh:0 "Reza Radmanesh"
+
+PER_Jafar_Pishevari:0 "Jafar Pishevari"
+
+PER_Hossein_Ala:0 "Hossein Ala"
+
+PER_Neville_Gass:0 "Neville Gass"
+
+PER_Mohammad_Bahrami:0 "Mohammad Bahrami"
+
+PER_Heshmat_Taleqani:0 "Heshmat Taleqani"
+
+PER_Eric_Carlberg:0 "Eric Carlberg"
+
+PER_Anders_Anden:0 "Anders Anden"
+
+PER_Noureddin_Alamouti:0 "Noureddin Alamouti"
+
+PER_Hassan_Pakravan:0 "Hassan Pakravan"
+
+PER_Boris_Moller:0 "Boris Moller"
+
+PER_Soleiman_Eskandari:0 "Soleiman Eskandari"
+
+PER_Haydar_Khan:0 "Haydar Khan"
+
+PER_Amanullah_Jahanbani_staff:0 "Amanullah Jahanbani"
+
+PER_Edgar_Myles_staff:0 "Edgar Myles"
+
+PER_Ehsanollah_Khan_staff:0 "Ehsanollah Khan"
+
+PER_Hasan_Arfa_carm:0 "Hasan Arfa"
+
+PER_Thomas_Riversdale_carm:0 "Thomas Riversdale"
+
+PER_Haydar_Khan_carm:0 "Haydar Khan"
+
+PER_Gholamali_Bayandor_con:0 "Gholamali Bayandor"
+
+PER_Rudolf_Burmester_con:0 "Rudolf Burmester"
+
+PER_Alexei_Dombrowski_con:0 "Alexei Dombrowski"
+
+PER_Effat_Tejaratchi_coaf:0 "Effat Tejaratchi"
+
+PER_Edgar_Ludlow_Hewitt_coaf:0 "Edgar Ludlow"
+
+PER_Abdossamad_Kambakhsh_coaf:0 "Abdossamad Kambakhsh"
+
+PER_Per_Glimstedt_theorist:0 "Per Glimstedt"
+
+PER_Arthur_Sullivan_theorist:0 "Arthur Sullivan"
+
+PER_Fereydoun_Keshavarz_theorist:0 "Fereydoun Kashavarz"
+
 #CUSTOM TOOLTIPS AND FLAGS#
-PER_MENU_DESC:0 ""
+PER_SETTING_SUN_DESC:0 "The Shahdom of Persia has suffered humiliation and the bitter curse of its oil wealth. during the Russian Civil War the roaming armies and nationalist factions rolled over the western part of the country, forming rebel states and tearing at the Shah's power. Russian and British interests and the Shah's luxurious tastes have rendered the state a mere slave to the Anglo-Persian Oil Company. This misfortune and shame has set the stage for a radical shake-up in Persia, one that the Shahdom would do well to survive."
+
 #DECISIONS (1.5 Update)#
+    
+#EVENTS#
 
 #FOCUSES#
