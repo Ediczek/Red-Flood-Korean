@@ -21,6 +21,10 @@ MAN_north_china:0 "북중국 총독부"
 MAN_north_china_DEF:0 "북중국 일본 위임령"
 MAN_north_china_ADJ:0 "일본령 중국"
 
+MAN_JAP_reclaimed:0 "일본 제국"
+MAN_JAP_reclaimed_DEF:0 "일본 제국"
+MAN_JAP_reclaimed_ADJ:0 "일본"
+
 MAN_national_govt:0 "봉천 정부"
 MAN_national_govt_DEF:0 "봉천 정부"
 MAN_national_govt_ADJ:0 "봉천"
