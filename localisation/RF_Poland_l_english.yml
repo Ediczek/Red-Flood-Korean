@@ -63,16 +63,16 @@ POL_conservatism_party:0 "ChD"
 POL_conservatism_party_long:0 "기독민주당"
 POL_liberalism_party:0 "PSL(P)"
 POL_liberalism_party_long:0 "폴란드 인민당 (피아스트)"
-POL_libertarian_marxism_party:0 "ChSR"
-POL_libertarian_marxism_party_long:0 "급진농민당"
+POL_libertarian_marxism_party:0 "SRChR"
+POL_libertarian_marxism_party_long:0 "노농급진당"
 POL_vanguard_socialism_party:0 "KPP"
 POL_vanguard_socialism_party_long:0 "폴란드 공산당"
 POL_reactionism_party:0 "KN"
 POL_reactionism_party_long:0 "인민연맹"
 POL_revisionist_socialism_party:0 "PSL(W)"
 POL_revisionist_socialism_party_long:0 "폴란드 인민당 (해방파)"
-POL_revolutionary_anarchism_party:0 "PZZ"
-POL_revolutionary_anarchism_party_long:0 "노조협약"
+POL_revolutionary_anarchism_party:0 "AW"
+POL_revolutionary_anarchism_party_long:0 "해방행동"
 
 #LEADER DESCRIPTIONS#
 POL_GATHERING_STORM_DESC:0 "대전쟁 직후 이어진 독일과 러시아의 붕괴에 따라, 폴란드는 몇 세기에 걸친 외세의 지배라는 잿더미 속에서 다시 태어났습니다. 피우수트스키 장군이 이끄는 폴란드는 이른바 "인테르마리움"이라는 동유럽 방위협약을 형성함으로써 독일, 러시아, 체코슬로바키아에 이르는 주변의 위협을 물리치고 이겨냈습니다. 하지만 이것도 15년 전이니, 피우수트스키는 이제 늙었습니다. 암 투병으로 병상에 누운 그가 얼마나 버틸 진 알 수 없습니다만, 대원수가 자신의 최후의 전투에서 패배하는 것도 시간 문제에 불과합니다."
@@ -124,6 +124,8 @@ POL_antoni_lomnicki_eco:0 "안토니 웜니츠키"
 #CUSTOM TOOLTIPS AND FLAGS#
 pilsudski_death:0 "사랑받던 원수께서 서거하셨습니다"
 POL_has_right_authoritarianism_gov:0 "군이 권력을 장악했습니다"
+POL_has_accelerationism_gov:0 "NNK가 권력을 장악했습니다"
+POL_has_social_democratism_gov:0 "PPS가 권력을 장악했습니다"
 
 #DECISIONS (1.5 Update)#
 
