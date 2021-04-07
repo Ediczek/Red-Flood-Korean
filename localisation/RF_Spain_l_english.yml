@@ -32,7 +32,7 @@ SPR_accelerationism_party_long:0 "재건주의 운동"
 spain_cw:0 "에스파냐 내전이 진행 중입니다"
 #DECISIONS (1.5 Update)#
 #EVENTS#
-pain.1.t:0 "내전의 발발"
+spain.1.t:0 "내전의 발발"
 spain.1.desc:0 "에에에에 큰일 났대요"
 spain.1.a:0 "공화뽕 100퍼로 간다"
 spain.1.b:0 "마스크맨으로 간드앗"
