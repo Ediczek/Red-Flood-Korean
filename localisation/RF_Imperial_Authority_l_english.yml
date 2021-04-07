@@ -28,6 +28,10 @@ TAN_accelerationism_party_long:0 "청년 러시아 투바 잉걸불"
 
 TAN_realm_of_living_buddha_reactionism:0 "생불의 영토"
 TAN_realm_of_living_buddha_reactionism_DEF:0 "생불의 영토"
+
+MNS_TAN_QING:0 "Great Qing"
+MNS_TAN_QING_DEF:0 "the Great Qing Empire"
+MNS_TAN_QING_ADJ:0 "Qing"
 #Leader(s)#
 POLITICS_Roman_von_Ungern-Sternberg_DESC:0 "러시아 제국 출신의 발트 독일인 귀족으로서 오스트리아에서 태어난 니콜라스 로베르트 막시밀리안 폰 운게른-쉬테른베르크는 훈장까지 받은 러시아 제국의 기병장교로, 대전쟁 동안 캅카스에서 차르를 위해 복무했습니다. 러시아가 붕괴하자 운게른은 시베리아의 백군에 가담해 자신의 잔인한 다국적의 기병들로 혁명세력들을 패퇴시키며 이름을 날렸습니다. 러시아가 혼란해지고 중국의 공화주의자들의 상황이 악화되자, 이 '미친 남작'은 러시아와 몽골의 경계에 있는 바이칼 호 근처의 투바 지방에 스스로 작은 왕국을 세웠습니다. 남작은 러시아 정교회에서 길러졌지만 중국과 몽골의 심원의 불교에 매혹되어 뭔가 이상한 종교적 믿음을 가지게 되었습니다. 권좌에 없는 차르와 더 이상 존재하지 않는 제국을 향한 스스로의 충성심을 결합하여, 쉬테른베르크는 이제 종교융합적 유라시아 제국이라는 자신의 꿈을 완수하는 데 매진하고 있습니다."
 #Decisions#
@@ -39,6 +43,7 @@ TAN_become_mahakala:0 "대흑천 현현"
 TAN_become_mahakala_desc:0 ""
 TAN_restore_bamiyan:0 "바미얀 석불 복원"
 TAN_restore_bamiyan_desc:0 "바미얀 석불은 호러선의 옛 불교 지도자들이 주재하던 웅대한 사찰이었습니다. 무슬림들의 손에 수 세기간 학대받고 방치당한 이래 사찰은 가엾은 처지에 놓였습니다. 우리의 부흥에 걸맞게 사찰을 새로이 할 때가 됐습니다. 지상 모든 불교 기념물을 수호하고 유지할 영구 호위대를 설립할 것입니다."
+TAN_restore_the_qing:0 "Restore the Qing"
 #tooltips
 TAN_roman_unity_cores:0 "아무르에서 히말라야까지의 지역들을 핵심주로 삼습니다"
 
@@ -141,6 +146,10 @@ TAN_SETTING_SUN_DESC:0 "황권은 러시아와 중국의 경계에 자리한 군
 #Misc#
 
 #Events#
+mongolia.1.t:0 "Militarisation of the Mongol Youth"
+mongolia.1.d:0 "Many of the pastoral people of Mongolia would make fine warriors, as their ancestors did. A new campaign to put rifles in the hands of the tribes and encourage a youth cadet system for the orphaned, outcast and delinquent will yield us soldiers in due course."
+mongolia.1.a:0 "Loyal sons heed the call to arms!"
+
 mongolia.2.t:0 "쉬테른베르크가 동료 불교도를 부르다"
 mongolia.2.d:0 "이른바 몽골의 미친 남작이 자신의 열광적인 회전에 가담할 이들을 찾고자 아시아의 불교 국가들에게 접근해왔습니다. 국내 급진 요소들이 자기네 싸움을 찾아 떠나도록 두든지, 아니면 국경을 닫아 놈들을 더 주의깊게 감시할 수도 있을 것입니다."
 mongolia.2.a:0 "의용병들의 남작 가담을 허용한다."
