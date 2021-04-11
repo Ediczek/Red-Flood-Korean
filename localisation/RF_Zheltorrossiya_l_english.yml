@@ -861,15 +861,15 @@ ZHR.21.desc:0 "There have been extremely worrying reports coming from the countr
 ZHR.21.a:0 "아, 안 돼."
 
 ZHR.22.t:0 "대기근"
-ZHR.22.desc:0 "An old man was sitting at a table, before him lay a small piece of old and dried as rock bread. 그게 노인의 하루 식사의 전부였습니다. 이 노인에게 얼마나 끔찍한 삶이란 말입니까. 황러시아의 거대한 지역을 휩쓴 대기아에 자식들과 아내를 이미 잃은 후였습니다.\n Even as he started, eating tears started swelling in his eyes. 아이들, 불쌍한 아이들. They did not deserve this fate, they did not deserve to die such a horrible death. 그의 카테리나, 한때 아름다웠던 아내의 빼빼마른 몸은 여전히 노인의 꿈에 나타나며 괴롭게 했습니다. \n As he finished the last piece of bread he went outside, if he doesn't find something to eat then surely he will be next. And despite some of his drunk claims, death is something that he fears more than anything. 하지만 생각 하나가 배고픔으로 가득 찬 그의 정신에 여전히 남아있었습니다."
+ZHR.22.desc:0 "늙은 사내는 돌빵 마냥 말라붙은 작은 빵 조각이 올려진 탁자 앞에 앉았습니다. 그게 노인의 하루 식사의 전부였습니다. 이 노인에게 얼마나 끔찍한 삶이란 말입니까. 황러시아의 거대한 지역을 휩쓴 대기아에 자식들과 아내를 이미 잃은 후였습니다.\n 빵 조각이 입에 들어가기도 전에 솟구치는 눈물이 그의 입가를 먼저 적셨습니다. 아이들, 불쌍한 아이들. 이런 운명을 맞아서도, 그런 끔찍한 죽음을 당해서도 안 됐습니다. 그의 카테리나, 한때 아름다웠던 아내의 빼빼마른 몸은 여전히 노인의 꿈에 나타나며 괴롭게 했습니다. \n 노인은, 다른 먹을 것을 찾지 못 한다면 마지막이 될 빵 조각을 다 먹고 밖으로 나섰습니다. 술에 절어도 죽음은 여전히 공포스러운 것이었습니다. 하지만 생각 하나가 배고픔으로 가득 찬 그의 정신에 여전히 남아있었습니다."
 ZHR.22.a:0 "영원히 저주받아라 케렌스키 개자식아!"
 
 ZHR.23.t:0 "볼디례프가 황러시아를 모스크바에 바치다"
-ZHR.23.desc:0 "The Military Commissar of Vladivostok Vasily Boldyrev has managed to wrestle control of the far-east from the Republic and Revolutionary traitors. He has revoked the Republic's existence and has formally requeste we recognise Zheltorossiya as the Far-East Goernorate of the Russian Empire."
-ZHR.23.a:0 "Excellent!"
+ZHR.23.desc:0 "블라디스토크 군사위원 바실리 볼디례프가 공화국과 혁명 반역자들에게서 극동의 통제권을 빼앗는 데 성공했습니다. 공화국의 존재를 타파한 볼디례프는 황러시아를 러시아 제국 극동 총독부로 공식 명명했습니다."
+ZHR.23.a:0 "훌륭하군!"
 
 ZHR.100.t:0 "유대아국 사안"
-ZHR.100.desc:0 "As the Japanese Empire collapses, so too does the colonial administration in Mantetsu. There is however the issue of the Japanese Fugu Plan, the Jewish settlements on our border have banded together and asked that we support them in a bid to throw off the Japanese shackles. We could annex the territory directly, alternatively they could be given autonomy. Some have even suggested granting them full independence and 'allowing' our own Jews to live there under our protection."
+ZHR.100.desc:0 "일본 제국이 붕괴해감에 따라 만주의 식민행정부인 만철 역시 무너져 갑니다. 그 가운데, 일본의 후구 계획에 따라 이주해 온 우리 국경 일대의 유대인 정착지들이 단합해 일본의 족쇄를 벗어던질 수 있도록 자신들을 도와달라 우리에게 호소해왔습니다. 일대를 합병할 수도 있겠지만, 대신 자치권을 줄 수도 있습니다. 일부는 이들에게 완전한 독립을 부여하고 우리네 유대인들이 가서 살며 우리의 보호 아래 살도록 '허락'하자고 주장합니다."
 ZHR.100.a:0 "북방을 점령하라."
 ZHR.100.b:0 "유대아국을 설립하라."
 ZHR.100.c:0 "동양의 이스라엘이여! (유대아국으로 플레이)"
@@ -879,12 +879,12 @@ ZHR.24.desc:0 "알렉산드르 케렌스키의 지혜는 실로 끝이 없습니
 ZHR.24.a:0 "진정으로 러시아의 로베스피에르로군!"
 
 ZHR.25.t:0 "케렌스키 동지의 연설"
-ZHR.25.desc:0 "ROSTA의 창설은 공화국민에게 케렌스키의 정부가 존경받고 신뢰받을 수 있도록 하고자 내무국의 대체적 승인 아래 이루어졌습니다. Republican values must be defended through the pen as well as the sword, and this includes posters, music, and of course, radio. Testing the new program, Kerenky gave a speech today on the evils of Bolshevism and the necessity to crush it.\n“Radicals, anarchists, Marxists; they are all the same. They seek to destroy what we have built here in favour of a regimented dictatorship. They hate our republic, and wish to subjugate you to the worst kinds of slavery and terror. I shall not allow it; every Bolshevik terrorist and his ilk will be put to the sword or the spade! They shall either work for you or die for you! Your liberty is dependent upon their subjugation or their destruction. Make no mistake citizens, for while this may seem cruel, it is mercy. For they would do far, far worse if they had even a single finger upon a pistol. We know how this song and dance ends; you have all read about what has happened in Germany after their revolution, or the fate of the generals in Hungary, or the current sufferings of the Brazillian people. This shall not happen here.”\n“Me and the Directorate shall represent and defend you at every cost. The Russian fatherland must be governed not with mere talk, but with a firm hand and a steadfast march. Kolchak, Trotsky, Drozdovsky; all shall be thrown out of this country. The new Republican Russia shall rise forth and liberate the world from tyranny! We are the standard bearers of an order never before seen! The chains shall be thrown off, and the people shall stand victorious!”"
+ZHR.25.desc:0 "ROSTA의 창설은 공화국민에게 케렌스키의 정부가 존경받고 신뢰받을 수 있도록 하고자 내무국의 대체적 승인 아래 이루어졌습니다. 공화주의의 가치는 검 뿐만 아니라, 포스터, 음악, 당연히 라디오를 비롯한 펜으로써도 지켜내야 하는 것입니다. Testing the new program, Kerenky gave a speech today on the evils of Bolshevism and the necessity to crush it.\n“Radicals, anarchists, Marxists; they are all the same. They seek to destroy what we have built here in favour of a regimented dictatorship. They hate our republic, and wish to subjugate you to the worst kinds of slavery and terror. I shall not allow it; every Bolshevik terrorist and his ilk will be put to the sword or the spade! They shall either work for you or die for you! Your liberty is dependent upon their subjugation or their destruction. Make no mistake citizens, for while this may seem cruel, it is mercy. For they would do far, far worse if they had even a single finger upon a pistol. We know how this song and dance ends; you have all read about what has happened in Germany after their revolution, or the fate of the generals in Hungary, or the current sufferings of the Brazillian people. This shall not happen here.”\n“Me and the Directorate shall represent and defend you at every cost. The Russian fatherland must be governed not with mere talk, but with a firm hand and a steadfast march. Kolchak, Trotsky, Drozdovsky; all shall be thrown out of this country. The new Republican Russia shall rise forth and liberate the world from tyranny! We are the standard bearers of an order never before seen! The chains shall be thrown off, and the people shall stand victorious!”"
 ZHR.25.a:0 "위대한 연설이군!"
 
 ZHR.26.t:0 "케렌스키의 전망"
 ZHR.26.desc:0 "Leading this country is hard work. Everyday, there are deals that have to be made, enemies of the state to be killed, bills to pass, and so many other things. As he let his head lay on the pillow of his bed, Kerensky felt exhausted from the constant work. Sleep was the only time he could sit down and relax. Truly, he was a martyr, suffering on the behalf of the Russian people; at least, that’s what he thought.\nBut as he drifted off into slumber, he saw the most wonderful thing. He saw a map of the current world, but it started to move and change. Kingdoms and empires became republics, the accelerationist governments fell into disarray, and the Bolshevik menace in Berlin toppled. It was a world of fraternal republics, and it was beautiful. Kerensky realized his purpose in that moment; it wasn’t just to save Russia, but to bring about the End of History. His republic was the final form that all other powers would emulate; the radical changes and uprisings of years past would be replaced with slow and steady reform and change. These republics, lead by a Directorate and a powerful leader, could save the world.\nKerensky had a greater purpose than ever before. His armies and strength would plunge into darkness and come out victorious, cutting of the heads of Bolshevism and monarchism. Fraternal republics would stand free and sovereign once more! When he woke from his slumber, he knew what he was. As Nietzsche said"
-ZHR.26.a:0 "I am no mere man, I am dynamite!"
+ZHR.26.a:0 "나는 그저 사내가 아니라 다이너마이트다!"
 
 ZHR.27.t:0 "신 공화국 병사"
 ZHR.27.desc:0 "As a part of Glorious Leader Kerensky’s efforts to depoliticize the revolutionary army, a new campaign has begun promoting the ideals of the new army and the role of the soldier in it. According to Kerensky, the new army’s job is to spread the ideals of democracy and republican government to Russia and the entire world. 러시아를 섬기는 병사는 반드시 케렌스키와 내무국, 인민에게 충성해야 하고, 민족을 위한 복무에서 이타심을 갖춰야 합니다. They must keep themselves detached from all political parties, and should only have the nation in mind when they charge into battle, and not just some foreign ideology exported from France or Berlin.\nKerensky evoked the role of the Levée en masse of the French Revolution when speaking about the nature of the new army. “Thousand were conscripted to serve, and in spite of everything, they won. The monarchist dogs were repelled and France was saved. We are in the same spot, and thus, require the same dedication and willingness to serve. Otherwise, we shall perish!”"
@@ -901,7 +901,7 @@ ZHR.40.t:0 "In the name of Pacific Security."
 
 ZHR.401.t:0 "북태평양 조약이 체결되다"
 ZHR.401.desc:0 "With the American Technate on side, we will have a free hand in uniting the Far-East and make fending off the hungry eyes to the West and South much easier."
-ZHR.401.a:0 "Our natural allies."
+ZHR.401.a:0 "타고난 우리 동맹이지."
 
 ZHR.88.t:0 "황러시아가 복종을 요구하다"
 ZHR.88.desc:0 ""
@@ -909,9 +909,9 @@ ZHR.88.a:0 "알았다."
 ZHR.88.b:0 "절대 안 돼!"
 
 ZHR.101.t:0 "우리의 시도가 실패하다"
-ZHR.101.desc:0 "Our attempt at couping the Yakutian government has failed; perhaps it's better to look elsewhere and invade Transbaikal instead, going into Siberia for our reconquest of Russia."
+ZHR.101.desc:0 "야쿠티야 정부를 전복하려던 우리의 시도가 실패했습니다. 차라리 자바이칼을 침공하거나 러시아 정복을 위해 시비리로 향하는 게 나을 듯합니다."
 ZHR.101.a:0 "전진, 캄차카를 향해!"
-ZHR.101.b:0 "AI 전용 - 저는 개븅신이에오. 나를 뭉개줘오"
+ZHR.101.b:0 "AI 전용 - 저는 개븅신이에오 나를 뭉개줘오"
 
 ZHR.102.t:0 "기근 구제 중점"
 ZHR.102.desc:0 "Many proposals to relieve the famine have been tabled, some have been enacted, others have not. The pain and suffering continues at pace in many areas of the country. The continued comfort of the leadership in Harbin is causing a distinct sense of resentment from the outlying towns and far off cities such as Khabarovsk. If something is not done, the Revolutionary Republic may see an uprising of its own."
@@ -920,6 +920,6 @@ ZHR.102.b:0 "이 썩어빠진 공화국은 뭣도 안 돼..."
 ZHR.102.c:0 "저는 AI고 붕괴가 조아오"
 ZHR.102.d:0 "저는 AI고 붕괴가 시러오"
 
-ZHR.1931.t:0 "It all comes crashing down."
+ZHR.1931.t:0 "모든 게 무너져 간다"
 ZHR.1931.desc:0 "Harbin has been wrought with protests and riots, even from sections of the population that had hitherto seemed entirely apolitical. Popular discontent congregates and marches flow down the streets towards governmental buildings, to shout at us and what few soldiers we have sullied to hunker down inside. Multiple government officials in Harbin and around the country have been kidnapped or vanished, and while some of their captors have come forth with demands, it seems many simply met the mob’s pitchforks.\n Our gracious efforts to bring this nation to greatness have backfired. Our decision to withhold aid from the countryside following the drought was not met with stoic courage and acceptance as expected but with petulant rebellion and non-cooperation. Urban garbage and rural hayseeds alike now wander about town spouting off about how much more sensibly and compassionately they could govern. Most economic activity in our capital has been brought to a standstill as people mill around and make scenes in public as if the whole city were their tavern, while fattening themselves on looted surplus.\n Emboldened by watching our policemen gradually desert, rioters are now shouting to the remaining officials holed up in halls of government that they must give themselves up or be burned alive inside. Perhaps we let the writhing worm that is our populous starve for too long, perhaps we should have disciplined it better, but it is too late for all that. After a few suicides most government men submit and are subjected to public humiliation. Our agricultural minister was dismembered, forced to watch his limbs be buried and watered with his blood as if they were being propagated, and asked if he now saw the benefit of resuming farming subsidies. Another crazed mob got a hold of our economic minister and gave him a less poetic, more pagan death of being burned alive in a wicker man."
-ZHR.1931.a:0 "Oops."
+ZHR.1931.a:0 "이런."
