@@ -277,7 +277,7 @@ news.57.desc:0 "Breaking news from the frontlines of Spain, as now the National 
 news.57.a:0 "이젠 둘이나 되는군!"
 
 news.58.t:0 "생디칼리스트국이 반동주의로 접어들다"
-news.58.desc:0 "We once again return to the bloody streets of Spain, as it appears that the former Syndicalist State has been deposed by dissent from within its own ranks. This new group, calling themselves the Falange Española, claims to represent \"true national syndicalism for the Spanish Man\", and denounce Ledesma's \"pseudo-councilism\" as nothing but falsehoods sold to the Spanish worker to keep him placated. Although the coup has been mostly bloodless, the shockwaves this has sent throughout the War in Iberia are not to be underestimated, as loyalties and ideologies change once more in the ever-shifting sands of Spain."
+news.58.desc:0 "옛 생디칼리스트국이 안에서의 반대로 축출되며 우리는 다시 피로 물든 에스파냐의 거리를 보게 되었습니다. 스스로를 에스파냐 팔랑헤라 부르는 이 새 집단은 자신들이 \"에스파냐인을 위한 진정한 민족생디칼리슴\"을 대변한다 주장하면서, 자신의 안위를 위해 에스파냐 노동자를 팔아 만든 거짓에 불과한 레데스마의 \"유사 평의회주의\"를 부정했습니다. 정변은 대체로 무혈의 양태를 보이지만, 충성심과 이념들이 어느 때보다 불안정한 에스파냐의 정국 속에 뒤바뀌면서, 이베리아에서 벌어진 전쟁을 꿰뚫은 그 충격파는 무시할 수 없는 요소로 작용하고 있습니다."
 news.58.a:0 "도대체 어떻게 돼가는 거야?"
 
 news.59.t:0 "아나키스트파가 에스파냐 내전에서 승리하다!"
@@ -301,7 +301,7 @@ news.63.desc:0 "라미로 레데스마 라모스가 생디칼리스트국, 좌�
 news.63.a:0 "조합 만세!"
 
 news.64.t:0 "재건주의파가 에스파냐 내전에서 승리하다!"
-news.64.desc:0 "세계에겐 충격적이며 공포스럽게도, 또 다른 유럽 국가가 촉진주의라는 광인의 대열에 가담했습니다. 고메스 델라 세르나가 연합전선을 계속 유지시키고 구 공화국을 패퇴시키면서, 민족전선의 통제하에 있는 모든 거리와 촌락는 희열로 가득찼습니다. However, Spain’s future is uncertain, as whispers in the dark speak of a possible resignation from de la Serna. Because of his general lack of interest in organized politics and his purely symbolic role in leading the right, it is sooner than later that we can expect a designation of a successor, whoever that might be."
+news.64.desc:0 "세계에겐 충격적이며 공포스럽게도, 또 다른 유럽 국가가 촉진주의라는 광인의 활극에 가담했습니다. 고메스 델라 세르나가 연합전선을 계속 유지시키고 구 공화국을 패퇴시키면서, 민족전선의 통제하에 있는 모든 거리와 촌락는 희열로 가득찼습니다. 하지만, 델라 세르나의 사임 가능성에 관한 어두운 이야기들이 귓가를 간질이며 에스파냐의 미래를 불확실하게 합니다. 정치의 조직화에 관한 델라 세르나의 대체적 무관심과 우익을 이끄는 상징적 역할에 한정된 그의 위치로 인해, 누가 됐든 언제라도 후계자가 지명되리란 것은 자명한 일이 되었습니다."
 news.64.a:0 "에스파냐 아방가르드의 불은 밝게 타오른다!"
 
 news.65.t:0 "흑백단이 러시아를 통일하다!"
@@ -321,7 +321,7 @@ news.68.desc:0 "From humble beginnings as a small polity in the fringes of Russi
 news.68.a:0 "통일된 대륙!"
 
 news.69.t:0 "코르닐로프가 러시아를 통일하다!"
-news.69.desc:0 "After a coup by the Shtabs-Kapitans in Russia and the creation of an ultra-Orthodox theocracy, it appears that experiment was destroyed by none other than a polity in the Steppes, which quickly proclaimed a comparatively moderate Russian Republic after seizing Petrograd in a long, bloody battle. Despite how unlikely it all was, it seems Kornilov's ambitions to save Russia from theocracy worked."
+news.69.desc:0 "러시아에서 준위단이 정변을 일으키고 극단 정교 신정이 설립된 이후, 다른 누구도 아닌 대초원의 정치체가 이 실험을 끝장낸 뒤 길고 잔혹한 전투 끝에 페트로그라드를 차지하곤 재빨리 상대적으로 온건한 러시아 공화국을 선포했습니다. 그 모든 게 얼마나 말이 안 되든 간에, 신정에게서 러시아를 구하겠다는 코르닐로프의 야심이 통하는 것처럼 보입니다."
 news.69.a:0 "매우 기이한 러시아 공화국이군."
 
 news.70.t:0 "굴리도프가 러시아를 통일하다!"
@@ -337,15 +337,15 @@ news.72.desc:0 "두체 이탈로 발보가 마침내 이탈리아 전쟁기계�
 news.72.a:0 "다시금 라틴인들이 세계를 깨부수었다."
 
 news.73.t:0 "해방전쟁이 끝을 맞이하다"
-news.73.desc:0 "이탈리아 총리 프란체스코 사베리오 니티가 announced today that Italy has completed its campaigns of liberation in Europe and elsewhere, signaling the start of an era of extensive economic and political rebuilding. With democracy newly introduced or reintroduced to many nations, Italy must now successfully coordinate their redevelopment and the strengthening of new liberal institutions without comprising its ideals of self-determination and liberty. Critics have called these efforts thinly-disguised empire building, but Italian troops have been withdrawn from several key areas, an encouraging sign for many in the new \"sister republics\". As Italian authorities seek to expand the scope of the Treaty of European States, the world wonders whether the Italian Federation can maintain its lofty ideals, and whether Europe can regain any of its former strength, prosperity, and prestige."
+news.73.desc:0 "이탈리아 총리 프란체스코 사베리오 니티가 오늘 이탈리아가 유럽 등지에서의 해방전쟁을 완료했음을 발표하며, 광범위한 경제 및 정치재건의 시대를 시작할 신호탄을 쏘아올렸습니다. 수많은 국가들에서 민주정이 새로이, 혹은 재도입되며, 이제 이탈리아는 이들의 재개발을 성공적으로 조율하고 자결권과 자유의 이상에 대한 타협 없이 새 자유주의적 제도들을 공고히 만들어야 합니다. Critics have called these efforts thinly-disguised empire building, but Italian troops have been withdrawn from several key areas, an encouraging sign for many in the new \"sister republics\". As Italian authorities seek to expand the scope of the Treaty of European States, the world wonders whether the Italian Federation can maintain its lofty ideals, and whether Europe can regain any of its former strength, prosperity, and prestige."
 news.73.a:0 "자유주의는 절대 죽지 않는다. 오직 때를 기다릴 뿐."
 
-news.74.t:0 "영성 미국"
-news.74.desc:0 "Following the long years of economic turmoil and the subsequent slide into chaos under the Flynn Administration, few international observers were optimistic about America's prospects for renewed international relevance. They have been proven wrong, as Edwart Longstreet Bodin announces today that his so-call Spiritual Realm has 'restored righteous Anglo-Saxon authority to America'. the Spiritualist have no qualms about putting their message on full display, with films depicting their esoteric beliefs produced in the Spiritualist capital of Hollywood having been on display around the world for some time."
+news.74.t:0 "강신 미국"
+news.74.desc:0 "경제분규와 플린 행정부하에서 벌어진 혼돈을 향한 급격한 추락으로 점철된 기나긴 세월 이후, 국제관망자들 가운데 미국이 다시 국제무대에서 중요성을 회복하리란 전망을 낙관한 이들은 얼마 되지 않았습니다. 에드워드 롱스트릿 버딘은 이른바 강신령으로써 '미국에 온당한 앵글로-색슨 권위를 회복'시키며 저들이 틀렸음을 증명해보였습니다. 이 강신술사들은, 강신술의 수도 할리우드에서 자신들의 밀교 신앙을 묘사한 영화들을 제작해 전 세계에 상영하며 자기네 전언을 거리낌 없이 내보이는 중입니다."
 news.74.a:0 "미국에 평화가 깃들다."
 
 news.75.t:0 "싱클레어주의파가 미국을 통일하다!"
-news.75.desc:0 "Despite the fears of millions of Americans during the Flynn presidency that their livelihood and way of life would be destroyed, socialism became a large movement that spanned and surpassed borders of petty warlords in America. This is what allowed Upton Sinclair to reunify the United States under his ideals of an agrarian-minded, moderate and slightly religious-leaning Socialism. Rebuilding will take years, but the feeling of a better future soon to arrive captures the heart of many Americans."
+news.75.desc:0 "플린의 임기 동안 자신들의 생계와 생활방식이 파괴될지도 모른다던 수백만의 미국인들의 공포에도, 사회주의는 미국의 작은 군벌들의 경계를 넘어 전역을 뒤덮을 대규모 운동으로 자라났습니다. 이는 업튼 싱클레어가 자신의 농업 지향적이며 온건하고 약간의 종교친화적 성격을 띈 사회주의의 이상 아래 미합중국을 재합한 덕분입니다. 재건에는 수년이 들 테지만, 더 나은 미래를 향한 느낌이 곧 수많은 미국인들의 마음을 사로잡을 것입니다."
 news.75.a:0 "빛나는 꿈을 품은 자들이여!"
 
 news.76.t:0 "밀류코프가 러시아를 통일하다!"
@@ -353,7 +353,7 @@ news.76.desc:0 "Kolchak's power seemed so perfectly entrenched so many years ago
 news.76.a:0 "러시아에 자유주의가? 기묘하군..."
 
 news.77.t:0 "스피리도노바가 러시아를 통일하다!"
-news.77.desc:0 "Russian Anarchism was largely irrelevant for many decades - yet, with the impressive charisma of a figurehead, and the power of liberty, it seems that Russia has been unified under the black and red banners. People across Russia organize in open communes, sharing their property and living as a freedom-loving collective. Despite everything, the new society is still thriving, and will do so for many decades onwards.\nOr so Spiridnova says."
+news.77.desc:0 "Russian Anarchism was largely irrelevant for many decades - yet, with the impressive charisma of a figurehead, and the power of liberty, it seems that Russia has been unified under the black and red banners. People across Russia organize in open communes, sharing their property and living as a freedom-loving collective. Despite everything, the new society is still thriving, and will do so for many decades onwards.\n스피리도노바가 말한 바는 그렇습니다."
 news.77.a:0 "아나르히야 마마!"
 
 news.78.t:0 "삼두정이 러시아를 통일하다!"
@@ -361,7 +361,7 @@ news.78.desc:0 "While socialists across Russia imagined that soon Kolchak's powe
 news.78.a:0 "Even in desperate times, one can call for the land."
 
 news.79.t:0 "카미녜프가 러시아를 통일하다!"
-news.79.desc:0 "The Socialist Revolution has returned to Russia, but in a way few would expect: A libertarian variant of Socialism has been brought to Moscow and Harbin, and with it a new age of an unified Russian state. Lev Kamenev, Chairman of the Councils, has succeeded in creating a new Russian Revolution based on the German ideals, bringing the Russian Republic out of exile from Manchuria. Kamenev's future designs are presently unknown, but one thing is for certain - The Russian state is now firmly based on the ideals of Councilism."
+news.79.desc:0 "사회주의 혁명이 러시아로 돌아왔지만, 이런 식이 되리라 예상한 이는 많지 않았습니다. 사회주의의 자유지상주의적 분파가 모스크바와 하르빈에 닿으며 통일된 러시아 국가의 새 시대를 가져온 것입니다. 평의회 의장 례프 카미녜프는 독일식 이상에 근간을 둔 새 러시아 혁명을 창조하고 만주로 망명한 러시아 공화국을 꺼내오는 데 성공했습니다. 카미녜프의 미래 설계가 무엇인지 당장은 알 수 없어도 하나만은 분명합니다. 러시아국이 이제 평의회주의의 이상 위에 우뚝 섰다는 것."
 news.79.a:0 "마르크스가 기쁨의 눈물을 흘린다."
 
 news.333.t:0 "아가르타 발견"
@@ -377,11 +377,11 @@ news.101.desc:0 "여리고 허약한 유럽의 균형은 마침내, 프랑스의
 news.101.a:0 "비극은 시작된다."
 
 news.103.t:0 "존황파가 일본을 수복하다"
-news.103.desc:0 "조선의 일본 존황파가 약간의 기적의 힘을 빌어, 1936년의 재변적 실패를 만회하는 데 그치지 않고 일본 본토를 수복하며 황국을 새롭게 벼려냈습니다. [IKR.GetLeader]의 사려 깊은 지도 아래, 옛 식민지는 불가능한 일을 이뤄내며 동에서 사회주의 운동들을 향한 주요 승리를 거두었습니다. As the region reels from the events unfolding in Japan, questions now form as to what the new Japan has planned. Could the Imperialism of the past make a return? Or have the Japanese become humbled by their experiences?"
+news.103.desc:0 "조선의 일본 존황파가 약간의 기적의 힘을 빌어, 1936년의 재변적 실패를 만회하는 데 그치지 않고 일본 본토를 수복하며 황국을 새롭게 벼려냈습니다. [IKR.GetLeader]의 사려 깊은 지도 아래, 옛 식민지는 불가능한 일을 이뤄내며 동에서 사회주의 운동들을 향한 주요 승리를 거두었습니다. 일본에서 벌어진 사건에 관한 역내 뉴스영화들의 보도가 이어지며, 새 일본에게 어떤 계획이 있는가에 관한 의문들은 쌓여갑니다. 과거의 제국주의가 돌아오게 되는 걸까요? 아니면 일본이 자신이 겪은 경험 앞에 겸손해질까요?"
 news.103.a:0 "놀랍군!"
 
 news.104.t:0 "존황파가 일본을 수복하다"
-news.104.desc:0 "만주의 일본 존황파가 약간의 기적의 힘을 빌어, 1936년의 재변적 실패를 만회하는 데 그치지 않고 일본 본토를 수복하며 황국을 새롭게 벼려냈습니다. [MAN.GetLeader]의 사려 깊은 지도 아래, 옛 식민지는 불가능한 일을 이뤄내며 동에서 사회주의 운동들을 향한 주요 승리를 거두었습니다. As the region reels from the events unfolding in Japan, questions now form as to what the new Japan has planned. Could the Imperialism of the past make a return? Or have the Japanese become humbled by their experiences?"
+news.104.desc:0 "만주의 일본 존황파가 약간의 기적의 힘을 빌어, 1936년의 재변적 실패를 만회하는 데 그치지 않고 일본 본토를 수복하며 황국을 새롭게 벼려냈습니다. [MAN.GetLeader]의 사려 깊은 지도 아래, 옛 식민지는 불가능한 일을 이뤄내며 동에서 사회주의 운동들을 향한 주요 승리를 거두었습니다. 일본에서 벌어진 사건에 관한 역내 뉴스영화들의 보도가 이어지며, 새 일본에게 어떤 계획이 있는가에 관한 의문들은 쌓여갑니다. 과거의 제국주의가 돌아오게 되는 걸까요? 아니면 일본이 자신이 겪은 경험 앞에 겸손해질까요?"
 news.104.a:0 "놀랍군!"
 
 news.334.t:0 "유고슬라비아에서 상춘국이 선포되다"
