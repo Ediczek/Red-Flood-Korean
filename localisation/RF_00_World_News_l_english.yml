@@ -146,11 +146,11 @@ news.26.desc:0 "In a turn of events that seems entirely unsurprising to outside 
 news.26.a:0 "정녕 묵필은 칼보다 강한 것인가?"
 
 news.27.t:0 "Macapá에서의 봉기"
-news.27.desc:0 "어머조너스 과학령에서 들어온 보고에 따르면 어제 Macapá 시에서 변절 용병단이 봉기했다고 합니다. After a night-long firefight the mutineers were defeated and killed to a man by forces loyal to the Defense Council. 이에 따라 과학령은 온전히 원주민학자 Orlando Villas-Boas의 통제 아래 놓이게 되었습니다. Villas-Boas는 브라질에게서의 어머조너스의 독립을 선포하며, 원주민들을 보호하려 헌신하는 중입니다. his internal detractors에서 그가 거둔 승리가 한 남아메리카 국가를 찢어발긴 전쟁에서 어떤 의미를 갖게 될지는 아직 지켜볼 일입니다. 과학령의 주둔군 중 많은 수가 싸움 중 죽은 탓에 과학령의 미래 역시 불명확합니다."
-news.27.a:0 "지식인들은 이미 충분하지 않나?"
+news.27.desc:0 "어머조너스 과학령에서 들어온 보고에 따르면 어제 Macapá 시에서 변절 용병단이 봉기했다고 합니다. 밤새도록 이어진 총격전 이후 반란자들은 Defense Council에 충성하는 한 사내의 군세에 패배해 죽음을 당했습니다. 이에 따라 과학령은 온전히 원주민학자 Orlando Villas-Boas의 통제 아래 놓이게 되었습니다. Villas-Boas는 브라질에게서의 어머조너스의 독립을 선포하며, 원주민들을 보호하려 헌신하는 중입니다. his internal detractors에서 그가 거둔 승리가 한 남아메리카 국가를 찢어발긴 전쟁에서 어떤 의미를 갖게 될지는 아직 지켜볼 일입니다. 과학령의 주둔군 중 많은 수가 싸움 중 죽은 탓에 과학령의 미래 역시 불명확합니다."
+news.27.a:0 "지식인들도 이만하면 되지 않았나?"
 
 news.28.t:0 "푸른 가뭄?"
-news.28.desc:0 "영국에서 새 대체역사 소설이 파장을 불러일으켰으니, 이름하여 \"푸른 가뭄\"이었습니다. 이미 그 자체로 분노를 일으킨 줄거리는 다음과 같습니다.\n마지막 순간, 1914년 열강들이 전쟁을 무르면서 외교가 승리하고 비극은 벌어지지 않았습니다. 그러나 희망과 낙관주의는 사람들의 입에서 한낱 티끌에 지나지 않았습니다. 22년 후, 이제 \"긴 평화\"라 알려지게 된 시기는 쓴 맛만 남겼습니다. 서방의 사람들은 더 이상 친구나 적 앞에서, 혹은 세계에서 자신들의 조국이 갖는 지위에 관해 자신감을 갖지 못하고 절망 속으로 빠져들었습니다. 연대감이 요동친 곳엔 침체만이 자리를 지켰습니다. 그 결과 구 질서가 무너지며 급진 이념들이 자리를 얻었습니다. 이제 \"온건 지도부\"는 마르크스주의, 국수주의, 사회진화론, 부조리주의, 아나키스트 기타 등등의 자라나는 위협에 맞서 단결했습니다. 위대한 제국들은 가라앉게 될까요, 아니면 헤엄치게 될까요?"
+news.28.desc:0 "영국에서 새 대체역사 소설이 파장을 불러일으켰으니, 이름하여 \"푸른 가뭄\"이었습니다. 이미 그 자체로 분노를 일으킨 줄거리는 다음과 같습니다.\n마지막 순간, 1914년 열강들이 전쟁을 무르면서 외교가 승리하고 비극은 벌어지지 않았습니다. 그러나 희망과 낙관주의는 사람들의 입에서 한낱 티끌에 지나지 않았습니다. 22년 후, 이제 \"긴 평화\"라 알려지게 된 시기는 쓴 맛만 남겼습니다. 서방의 사람들은 더 이상 친구나 적 앞에서, 혹은 세계에서 자신들의 조국이 갖는 지위에 관해 자신감을 갖지 못하고 절망 속으로 빠져들었습니다. 연대감이 요동친 곳엔 침체만이 자리를 지켰습니다. 그 결과 구 질서가 무너지며 급진 이념들이 자리를 얻었습니다. 이제 \"온건 지도부\"는 마르크스주의, 국수주의, 사회진화론, 부조리주의, 아나키즘과 기타 등등의 자라나는 위협에 맞서 단결했습니다. 위대한 제국들은 가라앉게 될까요, 아니면 헤엄치게 될까요?"
 news.28.a:0 "아주 화려한 개소리로군!"
 news.28.b:0 "선견력이 뛰어난 예술작이야!"
 news.28.c:0 "어쩌라고?"
@@ -165,19 +165,19 @@ news.30.desc:0 "20년의 섭정 끝에 러시아의 황관이 다시금 제후�
 news.30.a:0 "부디 역사에서 배운 것이 있기를."
 
 news.31.t:0 "돈 냄새"
-news.31.desc:0 "러시아 전역에서 냄새를 풍기는 건 피, 그리고 돈입니다. 하르빈에서 모스크바까지, 러시아 인민의 노고를 빨아먹은 기생충들인 러시아 귀족들이 수세기간 빼앗고 있던 번영의 미래를 향한 낙관주의의 커다란 기쁨이 자리를 잡았습니다. 최소한 알리사 로젠바움의 말에 따르면 그랬습니다. 야쿠티야지, 시베리아 황무지, 거대한 대초원 각지에서 몰려든 \"의용\"군들을 통해, 마침내 러시아의 심장부를 움켜쥐며 로젠바움은 러시아 민주공화국의 유산을 되찾았습니다. 그녀의 성전군이 러시아 벽촌에서부터 대도시들에 이르는 모든 도시들을 점령하면서, 사유재산과 영토의 단합성을 유지하기 위한 최소한의 요구에 부응할 체계를 제외한 모든 정부의 강압 및 사회보장 요소들은 점진적인 해체 수순을 밟기 시작했습니다."
+news.31.desc:0 "러시아 전역에서 냄새를 풍기는 건 피, 그리고 돈입니다. 하르빈에서 모스크바까지, 러시아 인민의 노고를 빨아먹은 기생충들인 러시아 귀족들이 수세기 간 빼앗고 있던 번영의 미래를 향한 낙관주의의 커다란 기쁨이 자리를 잡았습니다. 적어도 알리사 로젠바움의 말에 따르면 그랬습니다. 야쿠티야지, 시베리아 황무지, 거대한 대초원 각지에서 몰려든 \"의용\"군들을 통해, 마침내 러시아의 심장부를 움켜쥐며 로젠바움은 러시아 민주공화국의 유산을 되찾았습니다. 그녀의 성전군이 러시아 벽촌에서부터 대도시들에 이르는 모든 도시들을 점령하면서, 사유재산과 영토의 단합성을 유지하기 위한 최소한의 요구에 부응할 체계를 제외한 모든 정부의 강압 및 사회보장 요소들은 점진적인 해체 수순을 밟기 시작했습니다."
 news.31.a:0 "그리하여, 아틀라스는 으쓱였다."
 
 news.32.t:0 "자유의 비명"
-news.32.desc:0 "지성주의를 경멸하는 바실리 차파예프가 모스크바에서 연설을 위해 아주 잠깐의 시간을 가졌습니다. 차파예프의 병사들이 시끄러이 불러댄 노랫소리가 그 직후 이어진 이 \"연설\"은 지금 도시를 휩쓸고 있는 요란한 축연으로 가는 술에 절은 짧은 서문과 같았으니, \"러시아 자유민\" 사이에 널리 퍼진 폭력과 무지와 함께, 술에 취해 자유와 기쁨의 노래를 부르는 새 러시아에서의 일상을 담아낸 위대한 대변이었습니다. 반카자크 정서, 반지성주의, 아나키즘, 사회주의, 상치되는 여러 다른 관념들 위에 세워진 이 국가는 의용군의 병사들에 의해 간신히 규제되고 있으며, 이 자유의 불협화음 속에서 러시아 자유민 모두를 이끄는 건 오직 한 사람, 바실리 차파예프입니다."
+news.32.desc:0 "지성주의를 경멸하는 바실리 차파예프가 모스크바에서 연설을 위해 아주 잠깐의 시간을 가졌습니다. 차파예프의 병사들이 시끄러이 불러댄 노랫소리가 그 직후 이어진 이 \"연설\"은 지금 도시를 휩쓸고 있는 요란한 축연으로 가는 술에 절은 짧은 서문과 같았으니, \"러시아 자유민\" 사이에 널리 퍼진 폭력과 무지와 함께, 술에 취해 자유와 기쁨의 노래를 부르는 새 러시아에서의 일상을 담아낸 위대한 대변이었습니다. 반카자크 정서, 반지성주의, 아나키즘, 사회주의 등, 상치되는 여러 다른 관념들 위에 세워진 이 국가는 의용군의 병사들에 의해 간신히 규제되고 있으며, 이 자유의 불협화음 속에서 러시아 자유민 모두를 이끄는 건 오직 한 사람, 바실리 차파예프입니다."
 news.32.a:0 "작은 물고기 한쟈, 작은 새 한쟈..."
 
 news.33.t:0 "혁명의 복귀"
-news.33.desc:0 "15년 넘게, 국제주의의 이름 아래 통일된 사회주의 혁명국가라는 트로츠키의 꿈은 불가능처럼 보였습니다. 그러나 정복을 시작한 지 5년도 지나지 않아 그 꿈은 현실이 되었습니다. Through painful conscription methods and totalitarian industrialization, the Socialist dream of security, bread, freedom for the people of Russia has been achieved. There is much rebuilding to do, but Trotsky's, and peasant's, dreams have been achieved in the name of a war against the oligarchy which has ruled Russia for centuries now. Urbanization, industrialization, and new art blossoms across the Soviet Republic, and a new hope rises after years of pain, from war and from poverty."
+news.33.desc:0 "15년 넘게, 국제주의의 이름 아래 통일된 사회주의 혁명국가라는 트로츠키의 꿈은 불가능처럼 보였습니다. 그러나 정복을 시작한 지 5년도 지나지 않아 그 꿈은 현실이 되었습니다. 고통스러운 징집 방식과 전체주의적 산업화로써, 러시아 인민을 위한 안보, 빵, 자유라는 사회주의의 꿈은 실현되었습니다. 재건을 위해 해야 할 일이 많지만, 트로츠키의, 그리고 농민들의 꿈은 수세기 간 러시아를 지배했던 과두정을 향한 전쟁의 이름 아래서 이제 이루어졌습니다. 도시화, 산업화, 새 예술이 소비에트 공화국 전역에서 피어나니, 고통의 세월 끝에 전쟁과 빈곤에게서 희망을 떠올랐습니다."
 news.33.a:0 "적색국가를 향해 전속력으로 전진."
 
 news.34.t:0 "검은 칠판"
-news.34.desc:0 "Across Russia, from the corners of the Manchurian taiga to the docks Petrograd, a black curtain which had been growing for years has taken on a dread solidity. A state of totalitarian measures formerly not even dreamed possible has risen, and taken on a horrifyingly inhuman scale. The few reporters allowed in the \"일국\" talk of an utopian society of freedom and abundance, but the reports from defecting refugees crossing the porous border around Belarus and Ukraine unanimously describe an awe-inspiring system of true totalitarianism, under which even your humanity is stripped away in favor of a sterile number and cold logic, and collective behavior described as akin to a hive of bees is rigorously enforced. 귀순자들이 전하는 바에 따르면, 이 국가는 an impossible feat of repression, surveillance, and control."
+news.34.desc:0 "러시아 전역, 만주 타이가의 구석에서부터 페트로그라드의 선착장에 이르기까지, 수년간 자라난 검은 장막이 has taken on a dread solidity. A state of totalitarian measures formerly not even dreamed possible has risen, and taken on a horrifyingly inhuman scale. The few reporters allowed in the \"일국\" talk of an utopian society of freedom and abundance, but the reports from defecting refugees crossing the porous border around Belarus and Ukraine unanimously describe an awe-inspiring system of true totalitarianism, under which even your humanity is stripped away in favor of a sterile number and cold logic, and collective behavior described as akin to a hive of bees is rigorously enforced. 귀순자들이 전하는 바에 따르면, 이 국가는 an impossible feat of repression, surveillance, and control."
 news.34.a:0 "진리란 무엇인가?"
 
 news.35.t:0 "러시아에서 민주정이 복원되다"
@@ -189,7 +189,7 @@ news.36.desc:0 "After years of humiliation in the World Stage as a backwater, Ho
 news.36.a:0 "전통은 곧 미래."
 
 news.37.t:0 "디티리흐스가 러시아를 통일하다"
-news.37.desc:0 "After a coup by ultra-traditionalist and radically Orthodox - even by Black Bloc standards - soldiers known as the shtabs-kapitans, Russia had been seen as a continuing beacon of reaction and opposition to social progress. This description appears to have been an underestimation, as the grand hosts of Russia ride across the lands of Eurasia and violently convert every single group within the Russian borders, brutally suppressing Zheltorossiyan activists and executing the entire leadership structure of the former Zheltorossiyan government, proclaiming them as \"Bringers of Anti-Christ against Holy Russia\". Subsequently, after choosing a new Patriarch and becoming a Theocracy in name and in practice, Russia has risen once more to fight progress."
+news.37.desc:0 "흑권의 기준으로도 국수주의적이며 급진 정교도 병사들의 집단인 준위단의 정변 이후, 러시아는 사회진보를 향한 반대와 반동의 계속되는 등대로 서게 되었습니다. 이러한 표현은 사실, 러시아의 대군이 유라시아 지역을 가로질러 러시아 국경 내의 모든 집단들을 폭력적으로 개종시키고 황러시아의 활동가들을 잔혹하게 진압하며, 구 황러시아 정부 지도부를 \"신성 러시아에 맞선 적그리스도의 초래자들\"이라 칭하곤 전원을 처형해버린 사실을 두고 본다면, 다소 낮춰 부르는 감이 없지 않습니다. 이후, 새 총대주교를 간택하고 명목상으로나 실질상으로나 신정이 된 러시아는 다시금 진보에 맞서 싸우고자 일어섰습니다."
 news.37.a:0 "하느님께서 축복하사!"
 
 news.38.t:0 "믈라도로시가 러시아를 통일하다"
