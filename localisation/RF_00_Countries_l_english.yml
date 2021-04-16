@@ -8130,11 +8130,11 @@ SEG_revolutionary_anarchism:0 "서부 비상사령부"
 SEG_revolutionary_anarchism_DEF:0 "서부 비상사령부"
 SEG_revolutionary_anarchism_ADJ:0 "시애틀"
 
-CAL_accelerationism:0 "영성금령"
-CAL_accelerationism_DEF:0 "영성금령"
-CAL_accelerationism_ADJ:0 "황금"
-CAL_REG_accelerationism:0 "정화서령
-CAL_REG_accelerationism_DEF:0 "정화서령"
+CAL_accelerationism:0 "강신의 황금령"
+CAL_accelerationism_DEF:0 "강신의 황금령"
+CAL_accelerationism_ADJ:0 "황금의"
+CAL_REG_accelerationism:0 "정화의 서방령
+CAL_REG_accelerationism_DEF:0 "정화의 서방령"
 CAL_REG_accelerationism_ADJ:0 "서령"
 CAL_USA_accelerationism:0 "아메리카 강신령"
 CAL_USA_accelerationism_DEF:0 "아메리카 강신령"
