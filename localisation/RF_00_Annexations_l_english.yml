@@ -19,13 +19,13 @@ RF_owned_and_controlled_by_ROOT_or_ally:0 "is owned and controlled by §Y[Root.G
 RF_owned_and_controlled_by_ROOT_or_ally_NOT:0 "is §Rnot§! owned and controlled by §Y[Root.GetNameDef]§! or an ally"
 
 ### Events and Decisions ###
-annexation_start:0 "Annexation Events?"
-annex.event.t:0 "Annexation Events?"
-annex.event.d:0 "Annexation events have been tenuously added to RedFlood, unfortunately due to the shear number of countries and their related annexation events, many bugs are bound to surface.\nAs such this feature has been disabled by default, but if you want to turn it on be aware that it is §RHIGHLY EXPERIMENTAL§!,. And of course we appreciate any and all feedback on this feature to ensure a bugfree smoother feature."
+annexation_start:0 "Post-Annexation Release Events?"
+annex.event.t:0 "Post-Annexation Release Events?"
+annex.event.d:0 "Post-Annexation Release events have been tenuously added to RedFlood, unfortunately due to the shear number of countries and their related release events, many bugs are bound to surface.\nAs such this feature has been disabled by default, but if you want to turn it on be aware that it is §RHIGHLY EXPERIMENTAL§!,. And of course we appreciate any and all feedback on this feature to ensure a bugfree smoother feature."
 annex.event.a:0 "Leave them turned off."
-annex.event.b:0 "§RSTART ANNEXATION EVENTS§!"
+annex.event.b:0 "§RSTART RELEASE EVENTS§!"
 
-annexation_decisions:0 "합병 디시전"
+annexation_decisions:0 "Release Decisions"
 annexation_decisions_desc:0 "Having gained control of new swaths of land we must now work out what to do with it. Occupation can be expensive and destabilizing but it would give us direct access to the riches of this new land. On the other hand, creating a puppet nation would certainly be cheaper, however, our new subjects may not be as reliable as we might think. Either way, the fate of nations rests in our hands."
 
 annex.occupation:0 "군사점령만이 유일한 해법이다."
