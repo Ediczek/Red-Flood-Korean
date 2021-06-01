@@ -1,10 +1,14 @@
 ﻿l_english:
 #COUNTRY NAME#
-
+PRU_great_runas_accelerationism:0 "Great Runas"
+PRU_great_runas_accelerationism_DEF:0 "Kingdom of Great Runas"
+PRU_great_runas_accelerationism_ADJ:0 "Mirror"
 #PARTIES#
-PRU_accelerationism_party:0 "타완티수유우 부흥"
-PRU_accelerationism_party_long:0 "타완티수유우 부흥"
+PRU_accelerationism_party:0 "Tawantisuyu Renascido"
+PRU_accelerationism_party_long:0 "Tawantisuyu Renascido"
 
+PRU_great_runas_accelerationism_party:0 "Picasso Society"
+PRU_great_runas_accelerationism_party_long:0 "Picasso Society"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
