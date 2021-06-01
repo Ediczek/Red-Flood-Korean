@@ -318,9 +318,9 @@ RULE_OPTION_KCK_JAP:0 "£RF_game_rule_flag_KCK_japanese  만철에서의 깜짝 
 RULE_OPTION_KCK_JAP_DESC:0 "만주의 일본군이 야쿠티야를 차지합니다."
 
 # April Fools Content #
-RULE_GROUP_RF_APRIL_FOOLS:0 "April Fools Update"
-RULE_APRIL_FOOLS_2021_CONTENT:0 "April Fools 2021"
-RULE_DISABLE_AF:0 "Disabled"
-RULE_DISABLE_AF_DESC:0 "No silly stuff."
-RULE_ENABLE_AF:0 "Enabled"
-RULE_ENABLE_AF_DESC:0 "This content is part of a joint effort with the Equestria at War April Fools 2021 event. Silliness ahead!"
+RULE_GROUP_RF_APRIL_FOOLS:0 "만우절 업데이트"
+RULE_APRIL_FOOLS_2021_CONTENT:0 "2021년 만우절"
+RULE_DISABLE_AF:0 "해제"
+RULE_DISABLE_AF_DESC:0 "바보 같은 짓 말아."
+RULE_ENABLE_AF:0 "실행"
+RULE_ENABLE_AF_DESC:0 "본 컨텐트는 2021년 만우절 이벤트를 위한 에퀴스트리아 앳 워와의 협작입니다. 바보짓 나가신다!"
