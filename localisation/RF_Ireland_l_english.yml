@@ -1,6 +1,8 @@
 ﻿l_english:
 #COUNTRY NAME#
 
+#I'm sorry#
+
 #PARTIES#
 IRE_vanguard_socialism_party:0 "아일랜드 공화국군"
 IRE_libertarian_marxism_party:0 "신 페인"
@@ -13,7 +15,7 @@ IRE_right_authoritarianism_party:0 "민족연맹당"
 IRE_despotism_party:0 "영국 긴급평의회"
 IRE_reactionism_party:0 "전우 협회"
 IRE_accelerationism_party:0 "아일랜드 미래주의 연맹"
-
+IRE_accelerationism_af_party:0 "The Lone Poet"
 #LEADER DESCRITIONS#
 
 #IDEAS#
@@ -23,9 +25,58 @@ IRE_economic_catastrophe:0 "경제적 파멸"
 IRE_economic_catastrophe_desc:0 "영국 주식시장이 붕괴할 당시 아일랜드의 경제는 해를 입었을지언정 최악은 면했으나, 1934년의 뉴욕 주식거래 붕괴와 “대침체”로 인해 아일랜드 경제는 완전히 무너지고 말았습니다. 실직률은 전례 없을 정도로 상승했으며, 사람들은 영국이나 미국으로 떠나든, 범죄에 손을 담그는 등 이 위기를 이겨내기 위해 갖은 수를 쓰고 있습니다. 경제는 이미 서서히 회복 중이지만 추가적인 변화가 시급합니다."
 IRE_black_and_tans:0 "블랙 앤 탠스"
 IRE_black_and_tans_desc:0 "블랙 앤 탠스가 아일랜드에서 여전히 존속하며 운용되고 있으며, 내전에서는 반IRA 세력을 돕고 있습니다. 영국이 제국의 다른 지역들에 집중하면서 약해졌다고는 하나, 이 경찰대는 여전히 아일랜드의 주요 세력으로서 존재를 유지하고 있습니다. 그 잔혹성과 아일랜드 정부에 대한 잦은 간섭으로 아일랜드에선 대부분이 이들을 싫어합니다. 영국 정부는 블랙 앤 탠스를 효과적인 무력 수단으로 사용하면서도, 또한 균형을 맞추기 위한 행동으로서 이들을 자제시키려 노력하고 있습니다. 이들이 너무 약하다면 IRA에게 이득이 될 것이며, 너무 강하다면 최악만이 남게 될 것입니다."
-
+IRE_spooky_scary_skellingtons:0 "Spooky Scary Skellingtons"
+IRE_spookier_scarier_skellingtons:0 "Spookier, Scarier Skellingtons"
+IRE_spooky_scary_speedy_skellingtons:0 "Spooky, Scary, SPEEDY Skellingtons"
 #CUSTOM TOOLTIPS AND FLAGS#"
-
+IRE_MAGIC_TOOLTIP:0 "§LYeats will prepare his §!§Rfirst magic ritual...§!"
+IRE_HORN_TOOLTIP:0 "§LYeats' power grows, and with it comes§! §Runforseen consequences...§!"
+IRE_ZOMBIE_TOOLTIP:0 "§GIcky!§!"
+IRE_SKELLINGTONS_TOOLTIP:0 "Our §GUndead Soldiers§! grow §Ystronger...§!\nInfantry:\n    Casualty Trickleback: §G+50%§!\n\n"
+IRE_SKELLINGTONS_STAGE_TWO_TOOLTIP:0 "Our §GUndead Soldiers§! grow §Reven stronger...§!\nInfantry:\n    Casualty Trickleback: §G+200%§!\n\n"
+IRE_KAISERREICH_TOOLTIP:0 "§L(it's a reference to Kaiserreich and its shit focus trees LMAO BTFO CRUSHED SEETHE COPE!!!)§!"
+IRE_CORE_TOOLTIP:0 "§LWe shall launch a §GGrand Crusade§! across all the§! §RBritish Isles,§! §Lexpelling the§! §REnglish§! §Lonce and for all!§!"
+IRE_DEATH_TOOLTIP:0 "§RPrepare to die.§!"
+IRE_magic:0 "Yeats has succeeded with first ritual"
+IRE_horn:0 "Yeats' power grows..."
+IRE_books:0 "Where the Hell could those books be?"
 #DECISIONS (1.5 Update)#
 
 #FOCUSES#
+IRE_where_did_i_put_those_damn_books:0 "Where Did I Put Those Damn Books?"
+IRE_where_did_i_put_those_damn_books_desc:0 "Shit, I knew I had them around here somewhere!"
+IRE_strange:0 "Strange..."
+IRE_strange_desc:0 "These formulas are unlike anything I have ever seen... nothing like the Abramelin magicks. I must continue to imbibe this lore, deeply. Indeed."
+IRE_fascinating:0 "Fascinating..."
+IRE_fascinating_desc:0 "I can feel the pull of these rituals. I will resist for now..."
+IRE_incredible:0 "Incredible!"
+IRE_incredible_desc:0 "Fuck me, that's neat!"
+IRE_a_little_experiment:0 "A Little Experiment"
+IRE_a_little_experiment_desc:0 "I need to test it. Time to buy a pig."
+IRE_oh_hell_yeah:0 "OH HELL YEAH!"
+IRE_oh_hell_yeah_desc:0 "Dismiss the servants, buy 50 pigs, it's summoning time! I will bind the souls of the dead, and they will... do my laundry!"
+IRE_skeletons_to_sweep:0 "Skeletons to Sweep"
+IRE_skeletons_to_sweep_desc:0 "Get those mops moving, lazy fuckers! What, you thought I was going to say \"lazy bones\", huh? Pretty smart aren't ya? Come here!"
+IRE_zombies_to_cook:0 "Zombies to Cook"
+IRE_zombies_to_cook_desc:0 "A little morsel of rotting skin adds something unique to the flavor of sauce au poivre, don't you think?"
+IRE_power_corrupts:0 "Power Corrupts"
+IRE_power_corrupts_desc:0 "I can't stop the summonings. I feel something… changing, within me. Something yearning to push out and break free. \n\nHopefully I'm not horribly disfigured and deformed forever."
+IRE_one_people_under_the_horns_shadow:0 "One People Under The Horn's Shadow"
+IRE_one_people_under_the_horns_shadow_desc:0 "My power has grown enough to unite all the Irish under one will-- mine! AHAHAHAHAHAHA!!!"
+IRE_their_leaders_in_thrall:0 "Their Leaders in Thrall"
+IRE_their_leaders_in_thrall_desc:0 "The Irish will bend faster if their leaders accept sweet undeath. Collins and De Valera must be MINE! TEEHEEHEEHEEHEE!!"
+IRE_catholic_vampire_priests:0 "Catholic Vampire Priests"
+IRE_catholic_vampire_priests_desc:0 "*This Focus description was deleted by order of His Holiness Pope Pius XI, Bishop of Rome, Vicar of Jesus Christ, Successor of the Prince of the Apostles, Supreme Pontiff of the Universal Church, Primate of Italy, Archbishop and Metropolitan of the Roman Province, Sovereign of the Vatican City State, Servant of the servants of God.*"
+IRE_shamble_for_ireland:0 "Shamble for Ireland"
+IRE_shamble_for_ireland_desc:0 "Mass undeath conversion is finally taking root! Soon we will be able to reorganize a reanimated army!"
+IRE_not_a_red_flood:0 "Not a Red Flood"
+IRE_not_a_red_flood_desc:0 "But a Kaiserreich! Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it? Get it?"
+IRE_but_a_shamrock_tsunami:0 "But a Shamrock Tsunami"
+IRE_but_a_shamrock_tsunami_desc:0 "No, the Dierish will swarm over the whole world! We only need the love of Daddy Yeats and a big fuck-off whiskey bottle and we can destroy anybody!"
+IRE_tonight_we_dine_on_anglo_rump_steaks:0 "Tonight We Dine on Anglo Rump Steaks"
+IRE_tonight_we_dine_on_anglo_rump_steaks_desc:0 "Nothing like a succulent English *ss to sate one's insane Skellington hunger after a long dootin session doot doot doot."
+IRE_the_doot_doot_foundries:0 "The Doot Doot Foundaries"
+IRE_the_doot_doot_foundries_desc:0 "Our scientists have discovered that the combined power of our doot doot trumpets and zombie groans produces a unique feedback effect that can rapidly reorganize the crystalline structures of certain metallic elements. Truly we live in an age of wonders! Now our undead economy can flourish!"
+IRE_the_second_cooming:0 "The Second Cooming"
+#I'm really sorry#
+IRE_the_second_cooming_desc:0 "Welcome to the Yeats zone \nOnly Yeats inside anime girls \nQuivering Bill, double jointed Butler \nFresh balls, elegant ejaculation \nFirst the kiss, then the Yeats \nMy Artaud is in love with pain \nCo-op William torture \nStuff my Artaud into a furnace \nStitch my William shut \nPressure cook my greasy balls \nYeatsblast me and make it snappy \nYeats, Yeats, Yeats, Yeats, Yeats, Yeats, Yeats, Yeats \nYeats, Yeats, Yeats, Yeats, Yeats, Yeats, Yeats, Yeats \nYeats, Yeats, Yeats, Yeats, Yeats, Yeats, Yeats, Yeats \nYeats, Yeats, Yeats, Yeats, Yeats, Yeats, Yeats, Yeats \nWhat's all the Yeatsmotion? \nMy dad fell into a Yeats shaft \nMy dad glazed my face with Yeats \nFertilize Georges Bataille with hunk spunk \nYeats spunk in my trunk \nYeats craving Maud Gonne \nYeats drippin' cunt \nYeatsmy Rae Jepsen \nYeats me maybe \nYeatsmy bottom boy \nNight of the living Yeats \nNefarious Yeats mastermind \nYeats makes me fearless \nYeats crammer, William slammer \nYeats slammed ya mum \nMail your mums pieces of my Artaud \nBazinga! \nChug the Yeats, Butler ya mum \nFuck my Churchill full of Yeats \nThree little words \nGet fucked, nerd \nYeats stuffer, Yeats huffer \nFuck my Yeats puddle \nBottom stuffer, semen huffer \nWould love a gator to fuck me \nUndercooked Anglos \nHelp my dogs get a huge boner \nWater bong full of cat Yeats \nAccidentally fucked my own ass \nI barely had any Artauds inside me \nWho ate all my Yeats? A mystery \nYeats detective hot on the trail \nBees make honey, I make Yeatsmy"
