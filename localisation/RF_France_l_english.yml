@@ -55,6 +55,7 @@ FRA_evropa_accelerationism:0 "유로파 자유민"
 FRA_evropa_accelerationism_DEF:0 "유로파"
 FRA_evropa_accelerationism_ADJ:0 "유로파"
 
+## French Puppets ##
 GER_FRA_escadron_accelerationism:0 "독일 예술국"
 GER_FRA_escadron_accelerationism_DEF:0 "독일 예술국"
 GER_FRA_escadron_accelerationism_ADJ:0 "독일"
@@ -193,6 +194,7 @@ futurist_revolt_america:0 "미국 미래주의 세력 동원"
 
 FRA_against_councilism_cat:0 "평의회주의에 맞서"
 FRA_against_councilism_cat_desc:0 "적색 패악이 우리 문 앞에 서있습니다. 가련한 바이마르 정부가 우리 손에 몰락한 이래, 빨갱이들은 자신들의 땅과 맞닿은 국경 너머로 그 더럽고 압제적인 이념을 퍼트리고 있습니다. 독일 놈들의 이웃들과 우리의 공통점은 그리 많지 않습니다만, 평의회주의자들을 향한 공통적 혐오는 그들을 협력을 향해 집결시키며 평의회주의 광인들의 패퇴라는 명확한 목적을 위한 동맹으로 만들어줄 것입니다.\n\n협약의 §Y결집력§!:   [?pact_cohesion]%\n\n네덜란드 측의 의견: [?dutch_opinion]"
+founded_anti_councilist_pact:0 "반평의회주의 협약 창립"
 found_pact:0 "반평의회주의 협약 창립"
 first_expansion:0 "1차 반평의회주의 팽창"
 first_expansion_desc:0 "당연히 우리의 첫 표적은 우리와 국경을 맞댄 국가들과 독일이 될 것입니다. 네덜란드와 스위스는 쉽게 우리쪽으로 넘어올 테지만, 그들이 미래주의가 아닌 공산주의를 택한다면 우리가 자신들의 생존에 지대한 위협이 될 수 있음을 저들에게 보여줄 것입니다."
@@ -216,6 +218,9 @@ invite_poles:0 "폴란드에게 협약 가맹 제안"
 invite_poles_desc:0 "\n§Y전제조건§!:\n§Y폴란드§! §W의 대 §! §Y프랑스§! §W의견이 §! §Y100§! §W이거나 그보다 높을 것§!"
 invite_prussians:0 "프로이센에게 협약 가맹 제안"
 invite_prussians_desc:0 "\n§Y전제조건§!:\n§Y프로이센§! §W의 대 §! §Y프랑스§! §W의견이 §! §Y100§! §W이거나 그보다 높을 것§!"
+
+dutch_expansion:0 "네덜란드가 우리 협약에 들었습니다"
+swiss_expansion:0 "스위스가 우리 협약에 들었습니다"
 
 #IDEAS#
 FRA_divided_nation:0 "분열된 국가"
