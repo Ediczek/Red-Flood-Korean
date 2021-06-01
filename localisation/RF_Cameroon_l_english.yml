@@ -1,0 +1,77 @@
+﻿l_english:
+#COUNTRY NAME#
+CMR_revolutionary_anarchism:0 "Cameroonian Free Cooperatives"
+CMR_revolutionary_anarchism_DEF:0 "Cameroonian Free Cooperatives"
+CMR_revolutionary_anarchism_ADJ:0 "Cameroonian"
+
+CMR_vanguard_socialism:0 "Peoples Republic of Cameroon"
+CMR_vanguard_socialism_DEF:0 "Peoples Republic of Cameroon"
+CMR_vanguard_socialism_ADJ:0 "Cameroonian"
+
+CMR_libertarian_marxism:0 "Cameroon Socialist Republic"
+CMR_libertarian_marxism_DEF:0 "Cameroon Socialist Republic"
+CMR_libertarian_marxism_ADJ:0 "Cameroonian"
+
+CMR_revisionist_socialism:0 "Cameroon Social Republic"
+CMR_revisionist_socialism_DEF:0 "Cameroon Social Republic"
+CMR_revisionist_socialism_ADJ:0 "Cameroonian"
+
+CMR_social_democratism:0 "Republic of Cameroon"
+CMR_social_democratism_DEF:0 "Republic of Cameroon"
+CMR_social_democratism_ADJ:0 "Cameroonian"
+
+CMR_liberalism:0 "Republic of Cameroon"
+CMR_liberalism_DEF:0 "Republic of Cameroon"
+CMR_liberalism_ADJ:0 "Cameroonian"
+
+CMR_conservatism:0 "Republic of Cameroon"
+CMR_conservatism_DEF:0 "Republic of Cameroon"
+CMR_conservatism_ADJ:0 "Cameroonian"
+
+CMR_right_authoritarianism:0 "Governorate of Cameroon"
+CMR_right_authoritarianism_DEF:0 "Governorate of Cameroon"
+CMR_right_authoritarianism_ADJ:0 "Cameroonian"
+
+CMR_despotism:0 "Governorate of Cameroon"
+CMR_despotism_DEF:0 "Governorate of Cameroon"
+CMR_despotism_ADJ:0 "Cameroonian"
+
+CMR_reactionism:0 "State of Cameroon"
+CMR_reactionism_DEF:0 "State of Cameroon"
+CMR_reactionism_ADJ:0 "Cameroonian"
+
+CMR_accelerationism:0 "Cameroonian Modernist State"
+CMR_accelerationism_ADJ:0 "Cameroonian"
+CMR_accelerationism_DEF:0 "Cameroonian Modernist State"
+
+CMR_ITALY:0 "Africa Equatoriale"
+CMR_ITALY_DEF:0 "Africa Equatoriale"
+CMR_ITALY_ADJ:0 "Italian-African"
+#PARTIES#
+CMR_revolutionary_anarchism_party:0 "Syndicalistes"
+CMR_revolutionary_anarchism_party_long:0 "Les Syndicalistes"
+CMR_vanguard_socialism_party:0 "UPC"
+CMR_vanguard_socialism_party_long:0 "Union des Populations du Cameroun"
+CMR_libertarian_marxism_party:0 "UPC"
+CMR_libertarian_marxism_party_long:0 "Union des Populations du Cameroun"
+CMR_revisionist_socialism_party:0 "PCC"
+CMR_revisionist_socialism_party_long:0 "Partito Contadino Camerunese"
+CMR_social_democratism_party:0 "SDC"
+CMR_social_democratism_party_long:0 "Social-Democratici Camerunese"
+CMR_liberalism_party:0 "PRI - in Exile"
+CMR_liberalism_party_long:0 "Partito Radicale Italiano in Esilio"
+CMR_conservatism_party:0 "PPI - in Exile"
+CMR_conservatism_party_long:0 "Partito Popolare Italiano - in Esilio"
+CMR_right_authoritarianism_party:0 "MCI"
+CMR_right_authoritarianism_party_long:0 "Mandato Coloniale Italiano"
+CMR_despotism_party:0 "LN - in Exile"
+CMR_despotism_party_long:0 "Lista Nazionale in Esilio"
+CMR_reactionism_party:0 "PNC"
+CMR_reactionism_party_long:0 "Parti Nationale Camérounaise"
+CMR_accelerationism_party:0 "PM"
+CMR_accelerationism_party_long:0 "Parti Moderniste"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
