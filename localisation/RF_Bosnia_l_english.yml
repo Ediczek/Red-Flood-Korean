@@ -11,20 +11,20 @@ BOS_conservatism_party_long:0 "유고슬라비아 무슬림 조직"
 BOS_revolutionary_anarchism_party:0 "MB"
 BOS_revolutionary_anarchism_party_long:0 "'Mlada Bosna' Organizacija"
 BOS_accelerationism_party:0 "UBBH"
-BOS_accelerationism_party_long:0 "Udruženje Bosanskog Bataljona \"Handžar Grupa\""
-BOS_reactionism_party:0 "Društvo Za Ilirsko Jedinstvo \"Handžar Grupa\""
+BOS_accelerationism_party_long:0 "Udruženje Bosanskog Bataljona \"한자르 집단\""
+BOS_reactionism_party:0 "Društvo Za Ilirsko Jedinstvo \"한자르 집단\""
 #LEADER DESCRITIONS#
-POLITICS_HALIM_MALKOC_DESC:0 "Halim Malkoč, a young Imam in his hometown of Bihać, had long wished to rejuvenate and create a new Bosniak identity from Yugoslav inefficiency. It was clear to Halim that the Yugoslav state was not long for this world when it proclaimed State Orthodoxy all across its territory, resulting in immense revolts across the nations of the Balkans, formerly under Crypto-Serbian domination. Now, with the land of a million Bosniaks kept safe from Serbian machinations, the dream of a rejuvenated national identity for Bosniaks, and most importantly a secular one, has resulted in many hailing Halim as a young war hero, and living national symbol of Bosnia's young existence as a Nation."
+POLITICS_HALIM_MALKOC_DESC:0 "자신의 고향인 비하치에선 젊은 이맘이었던 할림 말코치는 had long wished to rejuvenate and create a new Bosniak identity from Yugoslav inefficiency. It was clear to Halim that the Yugoslav state was not long for this world when it proclaimed State Orthodoxy all across its territory, resulting in immense revolts across the nations of the Balkans, formerly under Crypto-Serbian domination. Now, with the land of a million Bosniaks kept safe from Serbian machinations, the dream of a rejuvenated national identity for Bosniaks, and most importantly a secular one, has resulted in many hailing Halim as a young war hero, and living national symbol of Bosnia's young existence as a Nation."
 POLITICS_HALIM_MALKOC_REACTIONARY_DESC:0 "No one would ever expect that an Imam from Bihać, even moreso one so young, would be the new defender of Islam in Europe and subsequently the protector of the authority of Mecca in Europe. Much to the chagrin of surrounding Christians, Bosnia continues to live on as a beacon of Allah's prophet, Muhammad, and His invincible words. Halim, now considered the national living symbol of Bosnia and of Islam in Europe, is hated and beloved by millions, with millions more being expelled from his ever-expanding lands, proclaiming an eternal Jihad to defend Islamic Europe at all costs."
-POLITICS_DIMITRIJE_MITRINOVIC_DESC:0 "Dimitrije Mitrinović never expected to be the head of one of the fledging and most important national-anarchist territories in Europe, and yet here he is. Beloved for his esoteric and unique beliefs regarding the nature of reality, and undoubted love for Bosnia as a free, secular nation, Dimitrije has created a bizarre social experiment, or rather thousands of them, where people live freely and defend their communities by force of arms against outside invaders. This has resulted in a profoundly militaristic society, yet entirely by voluntary means. It is unknown what will be the future designs of the great Anarch of Bosnia and other territories, but they certainly encompass freedoms that were never once thought possible."
+POLITICS_DIMITRIJE_MITRINOVIC_DESC:0 "디미트리예 미트리노비치는 결코 never expected to be the head of one of the fledging and most important national-anarchist territories in Europe, and yet here he is. Beloved for his esoteric and unique beliefs regarding the nature of reality, and undoubted love for Bosnia as a free, secular nation, Dimitrije has created a bizarre social experiment, or rather thousands of them, where people live freely and defend their communities by force of arms against outside invaders. This has resulted in a profoundly militaristic society, yet entirely by voluntary means. It is unknown what will be the future designs of the great Anarch of Bosnia and other territories, but they certainly encompass freedoms that were never once thought possible."
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
-BOS_IOI_accelerationism:0 "National Imamate of Illyria"
-BOS_IOI_accelerationism_DEF:0 "United Imamates of Illyrian Communities"
-BOS_IOI_reactionism:0 "Islamic Caliphate of Illyria"
-BOS_IOI_reactionism_DEF:0 "Most Sacred Islamic Caliphate of Illyria"
-BOS_FT_revolutionary_anarchism:0 "Free Territory of Illyria"
-BOS_FT_revolutionary_anarchism_DEF:0 "National Insurrectionary Army of Free Illyria"
+BOS_IOI_accelerationism:0 "일리리야 민족이맘국"
+BOS_IOI_accelerationism_DEF:0 "일리리야 공동체 통일이맘국"
+BOS_IOI_reactionism:0 "일리리야 이슬람 할리프국"
+BOS_IOI_reactionism_DEF:0 "가장 신성한 일리리야 이슬람 할리파국"
+BOS_FT_revolutionary_anarchism:0 "일리리야 자유령"
+BOS_FT_revolutionary_anarchism_DEF:0 "일리리야 자유민족역란군"
 #DECISIONS (1.5 Update)#
 #FOCUSES#
 #EVENTS#
