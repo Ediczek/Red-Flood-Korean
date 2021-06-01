@@ -1,0 +1,32 @@
+﻿l_english:
+
+#PARTIES#
+INC_vanguard_socialism_party:0 "CPI"
+INC_libertarian_marxism_party:0 "RCPI"
+INC_revolutionary_anarchism_party:0 "ACB"
+INC_revisionist_socialism_party:0 "AIFB"
+INC_social_democratism_party:0 "INC"
+INC_liberalism_party:0 "NPI"
+INC_conservatism_party:0 "APP"
+INC_right_authoritarianism_party:0 "NF"
+INC_despotism_party:0 "FRI"
+INC_reactionism_party:0 "IL"
+INC_accelerationism_party:0 "GRP"
+
+INC_vanguard_socialism_party_long:0 "Communist Party of India"
+INC_libertarian_marxism_party_long:0 "Revolutionary Communist Party of India"
+INC_revolutionary_anarchism_party_long:0 "Anarchist Council of Bihar"
+INC_revisionist_socialism_party_long:0 "All India Forward Bloc"
+INC_social_democratism_party_long:0 "Indian National Congress"
+INC_liberalism_party_long:0 "National Party of India"
+INC_conservatism_party_long:0 "All People's Party"
+INC_right_authoritarianism_party_long:0 "National Front"
+INC_despotism_party_long:0 "Front for the Renew of India"
+INC_reactionism_party_long:0 "Indian Legion"
+INC_accelerationism_party_long:0 "Gujarat Rejuvanists"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
