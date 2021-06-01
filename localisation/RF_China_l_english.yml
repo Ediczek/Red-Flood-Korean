@@ -4,8 +4,14 @@
 #PARTIES#
 #LEADER DESCRITIONS#
 #IDEAS#
-CHI_shared_economy:0 "농업국가"
-CHI_shared_economy_desc:0 "중국 경제는 여전히 농업에 크게 의존하고 있으며, 대부분의 지역에선 산업화는커녕 제대로 된 교육도 이뤄지지 못 했습니다."
+CHI_shared_economy:0 "Civil War Economy"
+CHI_shared_economy_desc:0 "China's economy is a mix-match of Beiyang-backed currency and developing industry, with mostly agricultural exports, combined with a parallel Guomindang currency, industry and mixed exports. The largely market driven economy is fragile, and prone to the whims of foreign demands from the concession cities. While foodstuffs are usually in abundance, hunger is common in battle-torn regions. Meanwhile growing urban industrial centres are modernising a formerly agrarian country into something new and powerful."
+CHI_kmt_dejure:0 "Guomindang Government"
+CHI_kmt_dejure:0 "This government is Guomindang-aligned and will work more closely with its fellow members against opponents."
+CHI_bej_dejure:0 "Beiyang Government"
+CHI_bej_dejure:0 "This government is Beiyang-aligned and will work more closely with its fellow members against opponents."
 #CUSTOM TOOLTIPS AND FLAGS#
+CHI_is_kmt:0 "Is GMD aligned"
+CHI_is_bey:0 "Is Beiyang Aligned"
 #DECISIONS (1.5 Update)#
 #FOCUSES#
