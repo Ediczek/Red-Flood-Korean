@@ -1,0 +1,61 @@
+﻿l_english:
+
+ADR_vanguard_socialism:0 "Andorra"
+ADR_vanguard_socialism_DEF:0 "Andorra"
+ADR_vanguard_socialism_ADJ:0 "Andorran"
+ADR_libertarian_marxism:0 "Andorra"
+ADR_libertarian_marxism_DEF:0 "Andorra"
+ADR_libertarian_marxism_ADJ:0 "Andorran"
+ADR_revolutionary_anarchism:0 "Andorra"
+ADR_revolutionary_anarchism_DEF:0 "Andorra"
+ADR_revolutionary_anarchism_ADJ:0 "Andorran"
+ADR_revisionist_socialism:0 "Andorra"
+ADR_revisionist_socialism_DEF:0 "Andorra"
+ADR_revisionist_socialism_ADJ:0 "Andorran"
+ADR_social_democratism:0 "Andorra"
+ADR_social_democratism_DEF:0 "Andorra"
+ADR_social_democratism_ADJ:0 "Andorran"
+ADR_placeholderism:0 "Andorra"
+ADR_placeholderism_DEF:0 "Andorra"
+ADR_placeholderism_ADJ:0 "Andorran"
+ADR_liberalism:0 "Andorra"
+ADR_liberalism_DEF:0 "Andorra"
+ADR_liberalism_ADJ:0 "Andorran"
+ADR_conservatism:0 "Andorra"
+ADR_conservatism_DEF:0 "Andorra"
+ADR_conservatism_ADJ:0 "Andorran"
+ADR_right_authoritarianism:0 "Andorra"
+ADR_right_authoritarianism_DEF:0 "Andorra"
+ADR_right_authoritarianism_ADJ:0 "Andorran"
+ADR_despotism:0 "Andorra"
+ADR_despotism_DEF:0 "Kingdom of Andorra"
+ADR_despotism_ADJ:0 "Andorran"
+ADR_reactionism:0 "Andorra"
+ADR_reactionism_DEF:0 "Andorra"
+ADR_reactionism_ADJ:0 "Andorran"
+ADR_accelerationism:0 "Andorra"
+ADR_accelerationism_DEF:0 "Andorra"
+ADR_accelerationism_ADJ:0 "Andorran"
+
+#PARTIES#
+
+ADR_social_democratism_party:0 "[DESORGANIZAT]"
+ADR_social_democratism_party_long:0 "Disorganized groups"
+ADR_liberalism_party:0 "[DESORGANIZAT]"
+ADR_liberalism_party_long:0 "Disorganized groups"
+ADR_conservatism_party:0 "[DESORGANIZAT]"
+ADR_conservatism_party_long:0 "Agrupament Nacional Democràtic"
+ADR_right_authoritarianism_party:0 "CG-C"
+ADR_right_authoritarianism_party_long:0 "Consell General d'Andorra - Constitucionalistes"
+ADR_despotism_party:0 "Consell General"
+ADR_despotism_party_long:0 "Consell General d'Andorra"
+ADR_reactionism_party:0 "Anti-Borisites"
+ADR_reactionism_party_long:0 "Anti-Borisites"
+ADR_accelerationism_party:0 "FEAV - A"
+ADR_accelerationism_party_long:0 "French Embassy in Andorra la Vella - Artaudistes"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
