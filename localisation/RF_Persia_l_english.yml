@@ -1,12 +1,12 @@
 ﻿l_english:
 #COUNTRY NAME#
-PER_Iran:0 "Iran"
-PER_Iran_DEF:0 "Shahdom of Iran"
-PER_Iran_ADJ:0 "Iranian"
+PER_Iran:0 "이란"
+PER_Iran_DEF:0 "이란 왕국"
+PER_Iran_ADJ:0 "이란"
 
-PER_APOC_state:0 "Anglo-Persian Oil Company"
-PER_APOC_state_DEF:0 "Anglo-Persian Oil Company"
-PER_APOC_state_ADJ:0 "Anglo-Persian"
+PER_APOC_state:0 "영국-이란 석유사"
+PER_APOC_state_DEF:0 "영국-이란 석유사"
+PER_APOC_state_ADJ:0 "영국-이란"
 #PARTIES#
 
 PER_vanguard_socialism_party:0 "밀림당"
@@ -18,17 +18,17 @@ PER_revolutionary_anarchism_party_long:0 "이란 인민 무자히딘"
 PER_revisionist_socialism_party:0 "MoGWS"
 PER_revisionist_socialism_party_long:0 "경배 사회주의자 운동"
 PER_social_democratism_party:0 "민족전선"
-PER_social_democratism_party_long:0 "Jebhe-ye Melli-ye Irān"
+PER_social_democratism_party_long:0 "이란 민족전선"
 PER_liberalism_party:0 "민족전선"
-PER_liberalism_party_long:0 "Jebhe-ye Melli-ye Irān"
+PER_liberalism_party_long:0 "이란 민족전선"
 PER_conservatism_party:0 "개혁당"
-PER_conservatism_party_long:0 "Hezb-e Eslāhtalabān"
+PER_conservatism_party_long:0 "개혁당"
 PER_right_authoritarianism_party:0 "APOC"
 PER_right_authoritarianism_party_long:0 "영국-페르시아 석유사"
 PER_despotism_party:0 "샤 충성파"
 PER_despotism_party_long:0 "샤 충성파"
-PER_reactionism_party:0 "Devotees of Islam"
-PER_reactionism_party_long:0 "Fadayan-e Islam"
+PER_reactionism_party:0 "이슬람 헌신파"
+PER_reactionism_party_long:0 "이슬람 헌신파"
 PER_accelerationism_party:0 "테헤란회"
 PER_accelerationism_party_long:0 "테헤란 협회"
 
@@ -44,19 +44,19 @@ RT_KASHANI:0 ""
 SD_MOSADDEGH:0 ""
 CN_QAVAM:0 ""
 #IDEAS#
-PER_APOC:0 "Anglo-Persian Oil Company"
+PER_APOC:0 "영국-이란 석유사"
 
-PER_APOC_MOAR:0 "Anglo-Persian Oil Company"
+PER_APOC_MOAR:0 "영국-이란 석유사"
 
-PER_starting_denbts:0 "Anglo-Persian Debt Management"
+PER_starting_denbts:0 "영국-이란 채무관리"
 
-PER_more_denbts:0 "Anglo-Persian Debt Management"
+PER_more_denbts:0 "영국-이란 채무관리"
 
-PER_farsi_kemalism:0 "Secularisation"
+PER_farsi_kemalism:0 "세속화"
 
 PER_SAVAK:0 "SAVAK"
 
-PER_white_terror:0 "White Terror"
+PER_white_terror:0 "백색 테러"
 
 PER_OILgarchy:0 "Oil-garchy"
 
@@ -616,45 +616,45 @@ per.5.desc:0 "The Sadabad Complex had seen better days. Once a great seat of imp
 per.5.a:0 "Nothing to add, continue as you were."
 per.5.b:0 ""
 
-per.51.t:0 "Mohammad Shah"
+per.51.t:0 "모햄매드 섀흐"
 per.51.desc:0 ""
 per.51.a:0 "Shahanshah é ma zende bad"
 per.51.b:0 ""
 
-per.52.t:0 "APOC State"
+per.52.t:0 "APOC 국가"
 per.52.desc:0 ""
-per.52.a:0 "Right chaps, time to drill."
+per.52.a:0 "좋아 자식들아, 드릴 굴릴 시간이다."
 per.52.b:0 ""
 
-per.521.t:0 "Persia Offers It's Wares"
+per.521.t:0 "이란이 상품을 제시하다"
 per.521.desc:0 ""
 per.521.a:0 "Buy oil"
 per.521.b:0 "Buy mercenaries"
 per.521.c:0 "Buy both"
 
-per.522.t:0 "The New Persian State"
+per.522.t:0 "신 이란국"
 per.522.desc:0 ""
-per.522.a:0 "Join the Commonwealth."
-per.522.b:0 "Stand alone."
+per.522.a:0 "커먼웰스에 가담한다."
+per.522.b:0 "홀로 선다."
 
-per.53.t:0 "APOC Asks For The Gulf"
+per.53.t:0 "APOC가 페르시아 만을 요청하다"
 per.53.desc:0 ""
 per.53.a:0 "Cheeky! But ok."
 per.53.b:0 "Cheeky! GFY."
 
-per.531.t:0 "APOC Gets The Gulf"
+per.531.t:0 "APOC가 페르시아 만을 얻다
 per.531.desc:0 ""
 per.531.a:0 "Very based."
 per.531.b:0 ""
 
-per.532.t:0 "APOC Does Not Get The Gulf"
+per.532.t:0 "APOC가 페르시아 만을 얻지 못하다"
 per.532.desc:0 ""
 per.532.a:0 "Not very based."
 per.532.b:0 ""
 
-per.6.t:0 "Red Army Victory"
+per.6.t:0 "홍군의 승리"
 per.6.desc:0 "In a turn of events that many had foreseen since the eruption of tension and opposition to foreign company domination over the Persian nation by rebelling Socialist forces, the Councilist armies and communes of Persia have triumphed over the old reactionary regime of the Shah and his Anglo masters, forcing the Shah into exile in London as well as leading to the dissolution of Anglo-Persian Oil Company. Without their monopoly or even presence in one of the most oil-rich regions of the world their investors have pulled out and the company has gone under, officially ending decades of oppression and exploitation of Persian land and people.\nThe Councilists themselves were hardly a unified force, being composed of a large coalition party made up of the Hezb-e Jangal, the Iran Party and the People’s Mujahideen of Iran. But despite the many splits between the Councilist forces have been largely ignored as the streets of all but the most conservative villages of Persia have been flooded with song, celebrations and much cheer at the downfall of the British puppetry of their nation and that symbol of three thousand years of autocracy known as the Shah. Workers, farmers, minorities, the poets and the artisans have in unison declared the day of national liberation from foreign imperialism, from autocracy and from bourgeois oppression!\nDespite the largely secularist connotations of Socialism, the Persian people have not only praised Socialism for the liberation but also (especially those following the People’s Mujahideen of Iran) have declared that Socialism is indeed the will of God and the true way of Islam. While this may seem inoffensive, it is important to note that this shows that the many factions of Councilist Persia will have to make sure of the path they take and the implications it will have, not just with the expectations of other factions but also the will of the people.\nStill, the question of the exact path that Persia will go down now that it has become the latest stronghold of Socialism in the world is not one on the forefront of many people’s minds. Right now, most people are only concerned about the return of peace and the long overdue liberation of Persia!"
-per.6.a:0 "Long Live the Revolution"
+per.6.a:0 "혁명 만세!"
 per.6.b:0 ""
 
 per.61.t:0 "1st Session of the Worker's Council"
@@ -694,10 +694,10 @@ per.82.b:0 ""
 
 #FOCUSES#
 #STARTING#
-PER_ashes_of_greatness:0 "Ashes of Greatness"
+PER_ashes_of_greatness:0 "위대의 잿더미"
 PER_ashes_of_greatness_desc:0 "The overthrow of the Qajars was supposed to halt the decline of Persia. Instead, though Reza Shah's reforms have succeeded in part, there are still serious issues and seditious elements undermining the country."
 
-PER_more_concessions_to_the_british:0 "Further Concessions to London"
+PER_more_concessions_to_the_british:0 "런던을 위한 추가 양보안"
 PER_more_concessions_to_the_british_desc:0 "Expanding the Gulf Concessions and reducing the Persian Government's oil revenues is not a choice the Persians like, but it is the position of APOC all the same."
 PER_take_more_debts_once_again:0 "Take More Debts Once Again"
 PER_take_more_debts_once_again_desc:0 "Paying for the army, the reconstruction in the 20's and for new industry and infrastructure has cost the treasury dearly. The turmoil of Turkestan, India and more have made international trade ties all the worse. Our debts are mounting and we may need more to pay for further modernisation policies."
@@ -716,16 +716,16 @@ PER_terrorise_disloyal_lands_desc:0 "British mercenaries are cruel. They do not 
 PER_shall_never_die:0 "...Shall Never Die"
 PER_shall_never_die_desc:0 "Those who fight on our side in this damned civil war are the greatest sons of Persia to ever live. Though they may give their lives to the cause and their bodies to their Earth, their spirits shall proudly watch us from Jannah, and their legend shall live on.\nLoyal sons of Persia shall never die!"
 
-PER_british_officers_teachings:0 "British Officer's Teachings"
+PER_british_officers_teachings:0 "영국 장교 교육"
 PER_british_officers_teachings_desc:0 ""
 
-PER_soul_of_loyalty:0 "Soul of Loyalty"
+PER_soul_of_loyalty:0 "충성의 혼령"
 PER_soul_of_loyalty_desc:0 "In our darkest hour, only the most loyal soldiers and citizens remember their oaths and bonds. But those who stand with us, from the poor herdsman on the mountainside to the loyal guardsmen on the palace walls, are the greatest of our nation.\nThey are all we have left. But they will be enough."
 
-PER_persia_shall_not_fall:0 "Persia Shall Not Fall"
+PER_persia_shall_not_fall:0 "이란은 쓰러지지 않는다"
 PER_persia_shall_not_fall_desc:0 ""
 
-PER_apoc_mercenaries_assistance:0 "APOC Mercenaries Assistance"
+PER_apoc_mercenaries_assistance:0 "APOC 용병의 도움"
 PER_apoc_mercenaries_assistance_desc:0 "The Anglo-persian oil company. A parasite that drinks from Persian soil, and refuses us our just share of the profits. But their own revenue depends almost entirely on preserving the integrity of our nation, and they are prepared to commit sizable resources of their own to the campaign against the reds.\nIt is ready to do whatever it takes for its monopoly to continue existing. It is ready to slaughter and burn. Execute and rape. Do we really need their assistance?"
 
 #MAIN#
@@ -923,7 +923,7 @@ PER_repay_the_revolution_desc:0 "The Communists wanted to abolish wage labor –
 PER_open_up_local_governments:0 "Open up Local Governments"
 PER_open_up_local_governments_desc:0 "Most issues which actually affect people on a daily basis are intensely local matters. There is no need for us to maintain an expensive bureaucratic apparatus to centralize matters which can be most efficiently resolves at a community level – and people content with local government will have less reason to worry about far-away matters, such as who exactly controls the state as a whole."
 
-PER_stable_authority:0 "Aryan Brotherhood"
+PER_stable_authority:0 "아리아 형제회"
 PER_stable_authority_desc:0 "We've done it! Despite difficulties, we have finally cemented our authority. The common people accept us as an acceptable - even preferable - alternative, to irresponsible decadence of the old Shah or the destructive incompetence of the communists. Moreover, we have established a strong base of support among the Persians, and our programs of modernization and consumer investment have begun the process of easing the resentment caused by the low-quality government services provided by the prior regime. Relations between the great races of Europe and the Orient have never been better."
 
 PER_sell_shares_to_local_elites:0 "Sell Shares to Persian Elites"
@@ -944,16 +944,16 @@ PER_native_offices_desc:0 "We cannot afford to frustrate the ambitious young men
 PER_new_propaganda_drives:0 "New Propaganda Drives"
 PER_new_propaganda_drives_desc:0 "The APOC is the savior of Persia! It was we who delivered this land from the backwards decadence of the old government, and when the demonic communists rose to destroy Persia and Islam, we sent them back to hell. This message shall be made clear to all, a first line of defense against any recurrence of Marxist thought."
 
-PER_gulf_exploration:0 "Gulf Exploration"
+PER_gulf_exploration:0 "만 탐험"
 PER_gulf_exploration_desc:0 ""
 
-PER_pay_off_royalists:0 "Pay off Royalists"
+PER_pay_off_royalists:0 "왕당파 보상"
 PER_pay_off_royalists_desc:0 ""
 
-PER_soldiers_of_fortune:0 "Soldiers of Fortune"
+PER_soldiers_of_fortune:0 "용병들"
 PER_soldiers_of_fortune_desc:0 ""
 
-PER_desert_tigers:0 "Desert Tigers"
+PER_desert_tigers:0 "사막의 범들"
 PER_desert_tigers_desc:0 ""
 
 PER_investigate_strategic_deterrence:0 "Investigate Strategic Deterrence"
