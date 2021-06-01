@@ -27,5 +27,20 @@ CNT_accelerationism_party_long:0 "재건주의 운동"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
+CNT_CW:0 "이베리아 코뮌"
+CNT_CW_DEF:0 "이베리아 아나키스트 연방"
+CNT_CW_ADJ:0 "이베리아"
+CNT_mutualism:0 "이베리아 연방공화국"
+CNT_mutualism_DEF:0 "이베리아 연방공화국"
+CNT_mutualism_ADJ:0 "이베리아"
+CNT_syndie:0 "이베리아 조합연방"
+CNT_syndie_DEF:0 "이베리아 조합연방"
+CNT_syndie_ADJ:0 "이베리아"
+CNT_anfash:0 "이베리아 자유조합"
+CNT_anfash_DEF:0 "이베리아 자유조합"
+CNT_anfash_ADJ:0 "이베리아"
+CNT_true_anarchy:0 "이베리아 자유령"
+CNT_true_anarchy_DEF:0 "코뮌 자유협회"
+CNT_true_anarchy_ADJ:0 "아나키스트"
 #DECISIONS (1.5 Update)#
 #FOCUSES#
