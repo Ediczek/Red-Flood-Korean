@@ -1,9 +1,33 @@
 ﻿l_english:
- 
-#PARTIES#
 
+#PARTIES#
+AFG_vanguard_socialism_party:0 "ACP/R"
+AFG_vanguard_socialism_party_long:0 "Afghan Communist Party - Right"
+AFG_libertarian_marxism_party:0 "ACP/L"
+AFG_libertarian_marxism_party_long:0 "Afghan Communist Party - Left"
+AFG_revolutionary_anarchism_party:0 "Tribal Revolutionaries"
+AFG_revolutionary_anarchism_party_long:0 "Tribal Revolutionaries"
+AFG_revisionist_socialism_party:0 "ASUP"
+AFG_revisionist_socialism_party_long:0 "Afghan Socialist Union Party"
+AFG_social_democratism_party:0 "ASRP"
+AFG_social_democratism_party_long:0 "Afghan Social Republican Party"
+AFG_liberalism_party:0 "Mohammadzay Reformists"
+AFG_liberalism_party_long:0 "Mohammadzay Reformists"
+AFG_conservatism_party:0 "Mohammadzay Constituionalists"
+AFG_conservatism_party_long:0 "Mohammadzay Constituionalists"
+AFG_right_authoritarianism_party:0 "Mohammadzay Moderates"
+AFG_right_authoritarianism_party_long:0 "Mohammadzay Moderates"
+AFG_despotism_party:0 "Mohammadzay Loyalists"
+AFG_despotism_party_long:0 "Mohammadzay Loyalists"
+AFG_reactionism_party:0 "Saqqawists"
+AFG_reactionism_party_long:0 "Tajik Basmachi"
+AFG_accelerationism_party:0 "Kandahar Society"
+AFG_accelerationism_party_long:0 "Kandahar Society"
 #LEADER DESCRITIONS#
+POLITICS_Habibullah_Kalakani_DESC:0 ""
+POLITICS_Mohammad_Zahir_DESC:0 ""
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
+
 #DECISIONS (1.5 Update)#
 #FOCUSES#
