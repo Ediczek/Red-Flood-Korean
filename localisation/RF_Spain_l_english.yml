@@ -25,12 +25,18 @@ SPR_right_authoritarianism_party_long:0 "에스파냐 자치권 연맹"
 SPR_despotism_party_long:0 "민족방위평의회"
 SPR_reactionism_party_long:0 "에스파냐 팔랑헤"
 SPR_accelerationism_party_long:0 "재건주의 운동"
+SPA_accelerationism_party_af:0 "정신분열당"
+SPA_accelerationism_party_af_long:0 "정신분열당"
 
+SPR_DESC_MENU:0 "에스파냐는 분쟁에 휩싸였습니다. 아나키스트, 미래주의자, 공화주의자 모두 서로의 목을 겨누며 에스파냐를 위한 싸움을 일으키는 중입니다. 유럽인들, 특히 에스파냐인들은 벌어질 사달을 직접 보고 있습니다. 남은 의문은 이 필연적인 분쟁에서 누가 이기고, 누가 그로써 이익을 얻고, 얼마나 많은 남녀가 죽게 되겠냐는 것입니다."
 #LEADER DESCRITIONS#
+
 #IDEAS#
+
 #CUSTOM TOOLTIPS AND FLAGS#
 spain_cw:0 "에스파냐 내전이 진행 중입니다"
 #DECISIONS (1.5 Update)#
+
 #EVENTS#
 spain.1.t:0 "내전의 발발"
 spain.1.desc:0 "에에에에 큰일 났대요"
@@ -64,4 +70,4 @@ spain.7.t:0 "프랑코의 귀환"
 spain.7.desc:0 "프랑코뽕"
 spain.7.a:0 "100퍼"
 
-SPR_DESC_MENU:0 "에스파냐는 분쟁에 휩싸였습니다. 아나키스트, 미래주의자, 공화주의자 모두 서로의 목을 겨누며 에스파냐를 위한 싸움을 일으키는 중입니다. 유럽인들, 특히 에스파냐인들은 벌어질 사달을 직접 보고 있습니다. 남은 의문은 이 필연적인 분쟁에서 누가 이기고, 누가 그로써 이익을 얻고, 얼마나 많은 남녀가 죽게 되겠냐는 것입니다."
+#FOCUSES#
