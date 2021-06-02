@@ -397,6 +397,22 @@ shinjin_motors_tanks:0 "신진자동차"
 chosun_heavy_industries:0 "조선중공업 - 항공"
 chosun_heavy_industries_naval:0 "조선중공업 - 조선"
 #DECISIONS (1.5 Update)#
+JKR_the_prelude_decisions:0 "The Prelude"
+JKR_the_prelude_decisions_desc:0 "The International Revolution is upon us, our moves in the Far East are just part of the inevitable process of revolutionary forces rising up the world-over."
+JKR_japan_white:0 "Spread the Revolution to Japan"
+JKR_japan_red:0 "Spread the Revolution to Japan"
+JKR_HAR:0 "Spread the Revolution to Harbin"
+JKR_PRI:0 "Spread the Revolution to Priamurye"
+JKR_GUK:0 "Spread the Revoluton to Green Ukraine"
+JKR_MNS:0 "Spread the Revolution to the Manchus"
+
+KOR_fending_off_japan_white:0 "Fending Japan"
+KOR_fending_off_japan_white_desc:0 "The Japanese are attempting to force their will upon us once more, we should throw the dogs back into the sea. Sufficient success will force them to give up."
+KOR_japan_white_white_peace:0 "Force a White Peace"
+
+KOR_fending_off_japan_red:0 "Fending Japan"
+KOR_fending_off_japan_red_desc:0 "The Japanese are attempting to force their will upon us once more, we should throw the dogs back into the sea. Sufficient success will force them to give up."
+KOR_japan_red_white_peace:0 "Force a White Peace"
 
 #EVENTS#
 kor.1.t:0 "공격받는 구 양반층"
