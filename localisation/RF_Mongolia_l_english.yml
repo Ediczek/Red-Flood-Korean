@@ -23,17 +23,17 @@ MON_social_democratism_party_long:0 "민주당"
 MON_liberalism_party:0 "MFP"
 MON_liberalism_party_long:0 "몽골 자유당"
 
-MON_conservatism_party:0 "AMC"
-MON_conservatism_party_long:0 "안휘 군벌"
+MON_conservatism_party:0 "ANP"
+MON_conservatism_party_long:0 "안휘 공화당"
 
-MON_right_authoritarianism_party:0 "ARP"
-MON_right_authoritarianism_party_long:0 "안휘 공화당"
+MON_right_authoritarianism_party:0 "AMC"
+MON_right_authoritarianism_party_long:0 "안휘 군벌"
 
 MON_despotism_party:0 "AMF"
-MON_despotism_party_long:0 "안휘 복벽 파벌"
+MON_despotism_party_long:0 "안휘 군주주의 파벌"
 
-MON_accelerationism_party:0 "AM"
-MON_accelerationism_party_long:0 "촉진 몽골"
+MON_accelerationism_party:0 "YMP"
+MON_accelerationism_party_long:0 "청년 몽골당"
 
 #LEADERS/Ministers#
 #MON_Duan_Qirui:0 "돤치루이"
