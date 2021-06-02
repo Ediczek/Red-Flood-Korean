@@ -2,28 +2,32 @@
 #COUNTRY NAME#
 
 #PARTIES#
-SOK_reactionism_party:0 "소코토 술탄국 평의회"
-SOK_reactionism_party_long:0 "소코토 술탄국 평의회"
-
-NGA_vanguard_socialism_party:0 "FNS"
-NGA_libertarian_marxism_party:0 "FNS-LM"
-NGA_revolutionary_anarchism_party:0 "아나키스트파"
-NGA_revisionist_socialism_party:0 "사회주의파"
-NGA_social_democratism_party:0 "노동당"
-NGA_liberalism_party:0 "자유당"
-NGA_conservatism_party:0 "나이지리아 영연방당"
-NGA_right_authoritarianism_party:0 "나이지리아 자유당"
-NGA_despotism_party:0 "나이지리아 군주주의파"
-NGA_reactionism_party:0 "북나이지리아 이슬람주의파"
-NGA_accelerationism_party:0 "나이지리아 기술당"
+NGA_vanguard_socialism_party:0 "RWU"
+NGA_vanguard_socialism_party_long:0 "Railway Workers Union"
+NGA_libertarian_marxism_party:0 "TUCN"
+NGA_libertarian_marxism_party_long:0 "Trade Union Congress of Nigeria"
+NGA_revolutionary_anarchism_party:0 "Anarchists"
+NGA_revisionist_socialism_party:0 "GUC-HF"
+NGA_revisionist_socialism_party_long:0 "Godianist Universal Church - Humanity Faction"
+NGA_social_democratism_party:0 "(various leaderless groups)"
+NGA_liberalism_party:0 "UNIP"
+NGA_liberalism_party_long:0 "United National Independence Party"
+NGA_conservatism_party:0 "NIP-EIC"
+NGA_conservatism_party_long:0 "National Independence Party - Eyo Ita's Clique"
+NGA_right_authoritarianism_party:0 "NIP"
+NGA_right_authoritarianism_party_long:0 "National Independence Party"
+NGA_despotism_party:0 "Crown Colony"
+NGA_reactionism_party:0 "BYM-AG"
+NGA_reactionism_party_long:0 "Borno Youth Movement - Action Group Coalition"
+NGA_accelerationism_party:0 "GUC-RF"
+NGA_accelerationism_party_long:0 "Godianist Universal Church - Rebirth Faction"
 
 #LEADER DESCRITIONS#
+POLITICS_BERNARD_BOURDILLON_DESC:0 "Born in Tasmania, Sir Bernard Henry Bourdillon has always been at the fringes of the British Empire. Governing Ceylon, a remnant of British India until 1932, he was then transferred to Uganda, and remained in Africa for the next couple of years - seeing the collapse of authority in nearby colonies such as Niger, he became more stringent in policy, despite having immense sympathies for the natives. Considering everything, Bourdillon is a good colonial manager, one of the best, even. Maintaining good order and keeping the natives happy is not easy, but Bernard is ready for the job."
 #IDEAS#
+NGA_split_nation:0 "Split Nation"
+NGA_split_nation_desc:0 "Nigeria is a deeply divided, artificial colony of a nation. With regional monarchs numbering in the dozens, Islam in the north, indigenous beliefs and Christianity sharing the south, among hundreds of problems, it appears that Nigeria will forever remain divided in religion, culture, politics, and everything you can think of."
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
 #EVENTS#
-nigeria.1.t:0 "북부 나이지리아에서 이슬람 근본주의자들의 봉기하다!" 
-nigeria.1.desc:0 ""
-nigeria.1.a:0 "망할 광신자들!"
-nigeria.1.b:0 "곧 진정한 독립을 가지리라. (소코토 칼리프령으로 플레이)"
