@@ -27,5 +27,10 @@ SPA_accelerationism_party_long:0 "재건주의 운동"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
-#DECISIONS (1.5 Update)#
+SPA_CW:0 "민족전선"
+SPA_CW_DEF:0 "에스파냐 재건주의국"
+SPA_CW_ADJ:0 "에스파냐"
+#DECISIONS #
 #FOCUSES#
+
+#EVENTS#
