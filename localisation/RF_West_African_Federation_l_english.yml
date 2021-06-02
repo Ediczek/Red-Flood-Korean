@@ -2,21 +2,30 @@
 #COUNTRY NAME#
 
 #PARTIES#
-WAF_vanguard_socialism_party:0 "FLSN"
-WAF_libertarian_marxism_party:0 "FLSN-ML"
-WAF_revolutionary_anarchism_party:0 "아나키스트파"
-WAF_revisionist_socialism_party:0 "사회주의파"
+WAF_vanguard_socialism_party:0 "LCP-L"
+WAF_vanguard_socialism_party_long:0 "League of Coloured Peoples - Leninists"
+WAF_libertarian_marxist_party_long:0 "Gold Coast Students' Association"
+WAF_libertarian_marxism_party:0 "GCSA"
+WAF_revolutionary_anarchism_party:0 "Anarchistes"
+WAF_revisionist_socialism_party_long:0 "Christian Socialists"
+WAF_revisionist_socialism_party:0 "Christian Socialists"
 WAF_social_democratism_party:0 "노동당"
-WAF_liberalism_party:0 "자유당"
-WAF_conservatism_party:0 "영연방 위임통치"
-WAF_right_authoritarianism_party:0 "영연방 위임통치"
-WAF_despotism_party:0 "프랑스 부흥주의파"
-WAF_reactionism_party:0 "프랑스 부흥주의파"
-WAF_accelerationism_party:0 "미래주의파"
+WAF_liberalism_party:0 "UNDP"
+WAF_liberalism_party_long:0 "Union Nationale pour la Démocratie et le Progrès"
+WAF_conservatism_party:0 "커먼웰스 위임통치"
+WAF_right_authoritarianism_party:0 "커먼웰스 위임통치"
+WAF_despotism_party:0 "프랑스 회복파"
+WAF_reactionism_party:0 "프랑스 회복파"
+WAF_accelerationism_party:0 "French Embassy in Porto-Novo"
 #LEADER DESCRITIONS#
-
+POLITICS_ANDREW_COHEN_DESC:0 "Hailing from an Anglo-Jewish family, Cohen has roots to the oldest Ashkenazi family in Britain. Educated in Malvern College, Cohen has created his own vision of colonial policy; one of moderation. No one would be subject to any kind of supremacy, no white man or black man will be put under repression for who they are, and responsible government, law, and human wellbeing are at the forefront of his policy. A kind man, Cohen knows what needs to be done to secure the wellbeing of the West Africans and how to properly introduce them to Democracy."
 #IDEAS#
+WAF_an_experiment:0 "An Experiment in Democracy"
+WAF_an_experiment_desc:0 "The West African Federation is an experiment in creating a new colonial policy for Britain's gigantic realm, which is slowly coming off the seams. However, just because Britain's empire is having troubles doesn't mean they won't intervene swiftly if our democracy begins getting the wrong ideas..."
+WAF_language_division:0 "Language Division"
+WAF_language_division_desc:0 "The former colonies that comprise the West African Federation are disunited in language matters, ethnic matters and finally religious matters - it is clear that, as much as we try, there is no good choice for a lingua franca that spans across all our territory. At least unless something drastic happens..."
 #CUSTOM TOOLTIPS AND FLAGS#
+WAF_an_experiment_tooltip:0 "§RBritain will enter our cities within hours of any outcome they do not like in our political system.§!"
 #DECISIONS (1.5 Update)#
 #FOCUSES#
 #EVENTS#
@@ -28,4 +37,4 @@ waf.1.c:0 "에드워드 아쿠포-아도가 이끄는 충성파가 승리하다!
 waf.2.title:0 "서아프리카 내전!"
 waf.2.desc:0 "아쿠포-아도 휘하의 충성파가 서아프리카 인민들과 전국 각지에서 온 사람들 사이에 거대한 균열을 만들며 둘을 크게 갈라세웠습니다. FLSN, 민족구원전선이라 불리는 대중주의 운동이 서서히 연방을 잠식해가며, 우리는 고작 도시 몇 개만 붙잡고 있는 상황입니다. 내전이 벌어질 것입니다."
 waf.2.a:0 "제국주의에 맞서는 인민의 적에게 죽음을!"
-waf.2.b:0 "영연방을 배신한 반역자들에게 죽음을!"
+waf.2.b:0 "커먼웰스를 배신한 반역자들에게 죽음을!"
