@@ -57,59 +57,34 @@ HAR_accelerationism:0 "하르빈"
 HAR_accelerationism_DEF:0 "하르빈 시"
 HAR_accelerationism_ADJ:0 "하르빈"
 
-#DECISIONS (1.5 Update)#
-#Defeat Decisions
-#BH
-HAR_last_stand:0 "우리의 최후항전"
-HAR_call_for_motherland:0 "모국을 향한 호소"
-HAR_call_for_thrushes:0 "개똥지빠귀들을 향한 호소"
-#LEF
-HAR_cant_beat_join:0 "꺾을 수 없다면 함께해라"
-HAR_join_the_manchus:0 "만주인들과의 동참"
-#KAD
-HAR_unity_against_enemies_of_westernization:0 "서양화의 적들에 맞선 단결"
-HAR_unite_priamurye:0 "프리아무례와의 통합"
-#KWA
-HAR_welcome_our_liberators:0 "우리의 해방자들을 환영하며"
-HAR_join_GUK:0 "녹우크라이나 가담"
-#Foreign Policy Decisions
-HAR_general_foreign_policy:0 "새 외무정책"
-HAR_reclaim_yakutia:0 "야쿠티야 수복"
-HAR_reclaim_siberia:0 "시비리 수복"
-HAR_deal_with_mongolia:0 "몽골 처리"
-HAR_restore_order_in_central_asia:0 "중앙아시아 내 질서 회복"
-HAR_offensive_on_moscow:0 "대 모스크바 공세"
-#
-HAR_unite_russia_kad_lef:0 "좌익이 러시아를 통일하다"
-HAR_young_russia_hail_victorious_decision:0 "젊은 러시아, 승리자시여 찬미 받으소서!"
-#
-HAR_hold_zemsky_sobor:0 "신 차르정"
-HAR_zemsky_sobor_decision:0 "향회 개최"
-#
-HAR_peoples_front:0 "러시아 인민전선"
-HAR_form_russian_popular_front:0 "러시아 대중전선 자금지원"
-HAR_form_russian_peoples_front:0 "러시아 인민전선 설립"
-#
-HAR_united_ukraine_decision:0 "통일 우크라이나를 위한 건배"
-HAR_toast_to_united_ukraine:0 "우리 형제들과의 동참"
-#
-HAR_letter_to_romanovsky:0 "로마놉스키에게 보내는 편지"
-HAR_a_letter_to_lib_RUS:0 "마침내 공화국과의 통합"
-#
 #COMPANIES#
+#Non-War#
 HAR_Tereshchenkos_Consortium_Industrial_Concern:0 "Tereshchenkos Consortium Industrial Concern"
 HAR_Harbin_Radioelectronics_Institute:0 "Harbin Radioelectronics Institute"
+#Guns & Arty#
 HAR_Harbin_Arsenal:0 "Harbin Arsenal"
+HAR_Great_Harbin_Arsenal:0 "National Harbin Arsenal Cooperative"
 HAR_Grabins_Ordnance_Factories_Inc:0 "Grabins Ordnance Factories Inc"
-HAR_Kotin-Mikulin_Engines:0 "Kotin-Mikulin Engines"
+HAR_Great_Harbin_Ordnance:0 "National Harbin Ordnance Factories Cooperative"
+#Tanks & Motors#
+HAR_Kotin_Mikulin_Engines:0 "Kotin-Mikulin Engines"
+HAR_Great_Harbin_Armor:0 "National Harbin Engines Cooperative"
 HAR_Khabarovsk_Motorcar_Factory:0 "Khabarovsk Motorcar Factory"
+HAR_Great_Harbin_Motor:0 "National Harbin Motorcar Cooperative"
+#Botes#
 HAR_Khabarovsk_Hydroaeronautics_Bureau:0 "Khabarovsk Hydroaeronautics Bureau"
+HAR_Great_Harbin_Hydroaeronautics:0 "National Harbin Hydroaeronautics Cooperative"
 HAR_Union_of_Pacific_Shipyards:0 "Union of Pacific Shipyards"
-HAR_Nikolayevsk_Aeronautics_Factory:0 "Nikolayevsk Aeronautics Factory"
+HAR_Great_Harbin_Shipyards:0 "National Harbin Pacific Shipyards Cooperative"
+#Planes#
 HAR_Aerograd_Inc:0 "Aerograd Inc"
+HAR_Great_Harbin_Aeroworks:0 "National Harbin Aeroworks Cooperative"
+HAR_Nikolayevsk_Aeronautics_Factory:0 "Nikolayevsk Aeronautics Factory"
 HAR_Harbin_Strategic_Aircraft_Bureau:0 "Harbin Strategic Aircraft Bureau"
+HAR_Great_Harbin_Strategic_Aircraft:0 "National Harbin Strategic Aircraft Cooperative"
 
 #FOCUSES#
+#Political#
 HAR_protect_individual_liberties:0 "개인자유 보호"
 HAR_protect_individual_liberties_desc:0 ""
 HAR_democracy_from_disaster:0 "재앙에서의 민주정"
@@ -144,37 +119,60 @@ HAR_promote_ukrainian_culture:0 "우크라이나 문화 증진"
 HAR_promote_ukrainian_culture_desc:0 ""
 HAR_letter_to_ukraine:0 "우크라이나에 보내는 편지"
 HAR_letter_to_ukraine_desc:0 ""
-HAR_our_final_push:0 "우리의 마지막 발진"
-HAR_our_final_push_desc:0 ""
-#
-HAR_our_final_push_kad:0 "우리의 마지막 발진"
-HAR_our_final_push_kad_desc:0 ""
-HAR_our_final_push_lef:0 "우리의 마지막 발진"
-HAR_our_final_push_lef_desc:0 ""
-HAR_our_final_push_kwa:0 "우리의 마지막 발진"
-HAR_our_final_push_kwa_desc:0 ""
-##Split for each faction
-#BH
-HAR_we_need_help_bh:0 "도움이 필요해"
-HAR_we_need_help_bh_desc:0 ""
-HAR_we_are_victorious_bh:0 "우리는 승리했다"
-HAR_we_are_victorious_bh_desc:0 ""
-#Kadets
-HAR_we_need_help_kad:0 "도움이 필요해"
-HAR_we_need_help_kad_desc:0 ""
-HAR_we_are_victorious_kad:0 "우리는 승리했다"
-HAR_we_are_victorious_kad_desc:0 ""
-#Leftist
-HAR_we_need_help_lef:0 "도움이 필요해"
-HAR_we_need_help_lef_desc:0 ""
-HAR_we_are_victorious_lef:0 "우리는 승리했다"
-HAR_we_are_victorious_lef_desc:0 ""
-#Kwantung UIA
-HAR_we_need_help_kwa:0 "도움이 필요해"
-HAR_we_need_help_kwa_desc:0 ""
-HAR_we_are_victorious_kwa:0 "우리는 승리했다"
-HAR_we_are_victorious_kwa_desc:0 ""
-##
+
+#Recovery#
+HAR_indoor_farm:0 "Indoor Farms"
+HAR_indoor_farm_desc:0 "Without any free space in the city, we are forced to get creative to counter the food issue. In this time of desperation, luxuries will be sacrificed for necessities! While sports grounds such as football fields can be converted into farmlands, it is not enough. We can secure the abandoned buildings throughout the city and convert them into indoor farms. Remove any furniture and dump the floor with soil, loam, and woodchips. Install lamps if necessary. It may not be pretty but as long as we can grow potatoes or raise poultry, we can live another day!"
+
+HAR_street_runway:0 "Streets Into Runways"
+HAR_street_runway_desc:0 "The streets of Harbin are empty since the new election. Which is perfect. Beyond the outskirts of the city lies a huge length of paved roads, surrounded by unfinished houses. We can convert this strip into a makeshift runway to launch our planes above the accursed Manchus blockading our borders."
+
+HAR_harlift:0 "Harbin Airlift"
+HAR_harlift_desc:0 "With our makeshift airport up and ready, we shall be able to get supplies from our neighbouring states to kickstart our recovery process. And if opportunistic enough, invite men willing to get a fresh start in our quaint little city."
+
+HAR_fortified_city:0 "Fortified City"
+HAR_fortified_city_desc:0 "The Manchus guard the borders beyond our cities, preventing our trucks from getting out of the city and help coming in. We need to prepare for the worst should they antagonise us further. Bunkers will be bult on every major entrance to the city. To compliment our lack of military industry, we shall train our men to build their own makeshift guns to construct their own weapons against our enemies."
+
+HAR_every_possible_business:0 "Centralised Economic Plan"
+HAR_every_possible_business_desc:0 "In this time of trouble, we should not let these private companies run around amok, trampling over our starving citizens. We will grab every major corporation in this city by the collar, forcefully implementing a new economic plan to provide every last hermit on the streets with jobs and coordinate their resources for a greater purpose."
+HAR_new_companies:0 "Core industrial companies will be §Ynationalised§! Improving their efficiency."
+
+HAR_urban_warfare:0 "Urban Guards"
+HAR_urban_warfare_desc:0 "We are but a fortress, surrounded by the fields of Manchuria. We can only defend ourselves from the enemies abroad. But that is enough! We must not fight without even understanding our own backyard. Our troops shall memorise every street and every corner of this city. They shall be able to traverse through the most forgotten alleyways down to the most hidden canal!"
+
+HAR_spark_of_harbin:0 "Spark Of Harbin"
+HAR_spark_of_harbin_desc:0 "Months have passed and our beautiful city is slowly regaining its former glory. What are we left to do now but to improve the lives of our people. The future of Harbin lies beyond our borders. We need to prepare to welcome our former Zheltorossiyan brethrens with open arms and rebuild our former nation."
+
+HAR_sting_of_harbin:0 "Sting Of Harbin"
+HAR_sting_of_harbin_desc:0 "Months have passed and our beautiful city is slowly regaining its former glory. What are we left to do now but to improve the will of our army. The future of Harbin lies beyond our borders. We need to prepare to punish the former Zheltorossiyan traitors decisively and rebuild our former nation."
+
+HAR_manchurian_pearl:0 "The Pearl Of Manchuria"
+HAR_manchurian_pearl_desc:0 "Harbin had seen glories and up until now, the depths of man's mistake. For the past year, we have meticulously break our backs to rebuild this city to its former glory and more. Our people were once starving masses, lying in the slumps on every streets. But now our factories roared with life, our motorcars speeding down the streets once more. It is time we pile our resources and effort one last time to bring this city to greater heights! Buy up every empty lot in this city and shove a tram track down even the most narrow street. We'll make use of every inch of land we have!"
+HAR_harbin_metro:0 "We shall refurbish Harbin from the bottom-up!"
+
+HAR_reorganised_military:0 "Reorganise Military Leadership"
+HAR_reorganised_military_desc:0 "As the days go closer to our inevitable reunification of the former Zheltorossiyan territory, we must ensure our generals are prepared for the worst. They shall fight day and night over the most effective strategy against the Manchu. They shall develop a new theory to cover up our lacking manpower. But most importantly, they must abandon all past ties to the old government that left them to die in our streets. White army? Republican army? Kolchakists? Socialists? No. We are all the people of Harbin."
+
+HAR_challenge_the_dragon:0 "Challenge The Dragon"
+HAR_challenge_the_dragon_desc:0 "Here we are, at the borders of Harbin. Beyond this street lies the Manchu army, once our greatest obstruction, now a mild annoyance. And beyond further that are the plains once owned by former Zheltorossiya. Plains with farmlands for food, and if luckily, loyal Russians, Ukrainians, and various Europeans, suffering under Manchu rule. With a step forward, we shall rush into this land..."
+HAR_occupymanchu:0 ""...and expand our reach into the Manchu borders!""
+
+HAR_our_final_push:0 "우리의 마지막 약진"
+HAR_our_final_push_desc:0 "It is time. Months of recovery, preparation, and training has come to this. Zheltorossiya was an experiment. A failed one to be exact. But we proved our mettle. We weathered the worst, we sacrificed our differences for a shared goal that succeeded. Zheltorossiya is dead. And we will create a new nation from its ashes."
+
+#TRAITS#
+HAR_chaos:0 "Chaos In Harbin"
+HAR_bishop_of_harbin:0 "Bishop Of Harbin"
+HAR_distrusted_record:0 "Poor Record"
+HAR_second_chance:0 "A Second Chance"
+HAR_social_redeemer:0 "Social Redeemer"
+Har_bomb:0 "The Bomb"
+
+##Ideas
+ZHR_Emergency_Directorate_head:0 "Emergency Directorate"
+ZHR_Emergency_Directorate_foreign:0 "Emergency Directorate"
+ZHR_Emergency_Directorate_economy:0 "Emergency Directorate"
+ZHR_Emergency_Directorate_security:0 "Emergency Directorate"
 HAR_milyukov_wins:0 "§YMilyukov의 승리§!가 발생했습니다."
 HAR_myakotin_wins:0 "§YMyakotin의 승리§!가 발생했습니다."
 HAR_zaborovsky_wins:0 "§YZaborovsky의 승리§!가 발생했습니다."
@@ -190,31 +188,79 @@ HAR_DPW2:0 ""공공사업부""
 HAR_last_stand:0 "최후항전"
 HAR_directive_no227:0 "지시 제227호"
 HAR_directive_227_idea:0 "지시 제227호"
-HAR_call_for_motherland:0 "모국을 향한 호소"
-HAR_call_for_thrushes:0 "개똥지빠귀들을 향한 호소"
-HAR_cant_beat_join:0 "꺾을 수 없다면 함께해라"
-HAR_unity_against_enemies_of_westernization:0 "서양화의 적들에 맞선 단결"
-HAR_welcome_our_liberators:0 "우리의 해방자들을 환영하며"
-HAR_new_foreign_policy:0 "새 외무정책"
-HAR_reclaim_yakutia:0 "야쿠티야 수복"
-HAR_reclaim_siberia:0 "시비리 수복"
-HAR_deal_with_mongolia:0 "몽골 처리"
-HAR_restore_order_in_central_asia:0 "중앙아시아 내 질서 회복"
-HAR_offensive_on_moscow:0 "대 모스크바 공세"
-HAR_young_russia_hail_victorious:0 "젊은 러시아, 승자를 찬미하라"
-HAR_hold_zemsky_sobor:0 "향회 개최"
-HAR_form_russian_popular_front:0 "러시아 대중전선 창설"
+HAR_popular_front:0 "대중전선의 친구들"
+
+HAR_civie_1:0 "Basic Civilian Recovery"
+HAR_civie_2:0 "Moderate Civilian Recovery"
+HAR_civie_3:0 "Full Civilian Recovery"
+HAR_civie_4:0 "Refined Prosperity"
+
+HAR_millie_1:0 "Basic Military Recovery"
+HAR_millie_2:0 "Moderate Military Recovery"
+HAR_millie_3:0 "Full Military Recovery"
+HAR_millie_4:0 "Refined Preparedness"
+
+##Decision Categories
+HAR_Salvation_Of_The_Black_Hundreds:0 "Salvation Of The Black Hundreds"
+HAR_The_Revolution_From_The_Ashes:0 "The Revolution From The Ashes"
+HAR_Hail_Young_Russia:0 "Hail Young Russia"
+HAR_For_A_United_Ukraine:0 "For A United Ukraine!"
+
+##Decisions BH
+HAR_call_for_motherland:0 "Call For The Motherland"
+HAR_call_for_thrushes:0 "Call On The Thrushes"
+HAR_reclaim_yakutia_BH:0 "Bless Unto Yakutia"
+HAR_reclaim_siberia_BH:0 "Bless Unto Siberia"
+HAR_deal_with_mongolia_BH:0 "Bless Unto Mongolia"
+HAR_restore_order_in_central_asia_BH:0 "Bless Unto Central Asia"
+HAR_offensive_on_moscow_BH:0 "A Crusade For The Motherland!"
+HAR_zemsky_sobor_decision:0 "Hold The Zemsky Sobor"
+
+##Decisions LEF
+HAR_join_the_manchus:0 "Kneel To The Dragon"
+HAR_reclaim_yakutia_LEF:0 "Yakutian Revolution"
+HAR_reclaim_siberia_LEF:0 "Siberian Revolution"
+HAR_deal_with_mongolia_LEF:0 "Mongolian Revolution"
+HAR_restore_order_in_central_asia_LEF:0 "Steppe Revolution"
+HAR_offensive_on_moscow_LEF:0 "Avenge Against The Kolchakists!"
+HAR_young_russia_hail_victorious_decision_LEF:0 "Declare The Popular Republic"
+HAR_form_russian_popular_front:0 "Our Allies Abroad"
 HAR_form_russian_peoples_front:0 "러시아 인민전선 창설"
-HAR_toast_for_united_ukraine:0 "통일 우크라이나를 위해 건배!""
-HAR_letter_to_romanovsky:0 "로마놉스키에게 보내는 편지"
+ZHR_russian_peoples_front:0 "인민전선"
+
+##Decisions KAD
+HAR_unite_priamurye:0 "Unite With Priamurye"
+HAR_reclaim_yakutia_KAD:0 "Liberate The Yakuts"
+HAR_reclaim_siberia_KAD:0 "Liberate The Siberians"
+HAR_deal_with_mongolia_KAD:0 "Liberate The Asiatics"
+HAR_restore_order_in_central_asia_KAD:0 "Liberate The Steppes"
+HAR_offensive_on_moscow_KAD:0 "Freedom In Moscow!"
+HAR_young_russia_hail_victorious_decision_KAD:0 "Declare The Serene Republic"
+HAR_a_letter_to_lib_RUS:0 "Pledge Allegiance To Romanovsky"
+
+##Decisions OUN
+HAR_join_GUK:0 "Legacy Of The OUN"
+HAR_reclaim_yakutia_KWA:0 "Forward Into The North"
+HAR_reclaim_siberia_KWA:0 "Forward Into Siberia"
+HAR_deal_with_mongolia_KWA:0 "Forward Into Mongolia"
+HAR_restore_order_in_central_asia_KWA:0 "Forward Into Central Asia"
+HAR_toast_to_united_ukraine:0 "A Toast To A United Ukraine"
 
 ##Election Events
+#Regular
 HAR.1.t:0 "The Harbin Directorate Election"
-HAR.1.desc:0 "Hooray...?"
-HAR.1.a:0 "Pavel Milyukov"
-HAR.1.b:0 "Venedikt Myakotin"
-HAR.1.c:0 "Meletiy Zaborovsky"
-HAR.1.d:0 "Grigory Fajda"
+HAR.1.desc:0 "“The Harbin City Election is over! The final votes are being counted. And the winner is...""
+HAR.1.a:0 "The Kadet! Pavel Milyukov!"
+HAR.1.b:0 "The Populist! Venedikt Myakotin!"
+HAR.1.c:0 "The Bishop! Meletiy Zaborovsky!"
+HAR.1.d:0 "The Bomb! Grigory Fajda!"
+#YOU TRAITOR!
+HAR.2.t:0 "The Harbin Directorate Election"
+HAR.2.desc:0 "“Wait.. Did some of them really vote for him...? Anyways! The Harbin City Election is over! The final votes are being counted. And the winner is...”"
+HAR.2.a:0 "...Excuse Me!?"
+HAR.2.b:0 "The Populist! Venedikt Myakotin!"
+HAR.2.c:0 "The Bishop! Meletiy Zaborovsky!"
+HAR.2.d:0 "The Bomb! Grigory Fajda!"
 
 ##Collapse Events
 ##Manchu Leaves
@@ -239,3 +285,13 @@ HAR.13.desc:0 "When our ancestors migrated to this place, encouraged by free lan
 HAR.14.t:0 "야쿠티야가 황러시아에서 이탈하다"
 HAR.14.A:0 "They will march back North, to their only home in this world..."
 HAR.14.desc:0 "News came home quickly of the horrendous sights and sounds that consume the capital of the nation Yakutians have been tentatively calling theirs. A march of sorrow proceeded back to Yakutian heartlands, taking themselves and their sanity far away from Harbin. As soon as they were safely away, all who could sing sang a dirge to their futures in Zheltoroosia. Some met the exodus of Yakutians from Zheltorossian lands with smugness and mockery that they had ever trusted the Harbin government, but most shared in their despair. For a time they had all been happy to slot themselves more firmly into the supply chain of the regional economy and reap the benefits of trading for finished goods with a more developed industrial center. \n Their happiness has turned to ash in their mouths, and while it may be easy to blame one faction or another in the ultimate failure of Zheltorossyia, it is only fitting to blame themselves for throwing their lot in with a corrupt government. Yakutian authorities have formally withdrawn from the Zheltorossian government, and those who negotiated its original entry are drafting their resignation letters."
+
+#Harbin - Manchu Border War
+#Victory Against Manchus
+HAR.20.t:0 "Victory Against The Manchus!"
+HAR.20.desc:0 "Our forces have managed to drive off the Manchu defenses in the countryside! We have made contact with the once Zheltorossiyan peasants of the region, promising them a new life in the pearl that is the newly revived Harbin City. With the plains secured, we have enough land to feed off our families and soldiers."
+HAR.20.a:0 "One Step Towards Reunification!"
+#Loss Against Manchus
+HAR.21.t:0 "Failure Over The Plains."
+HAR.21.desc:0 "Even with our combined efforts, materiel readiness, and training, we were no match against the Manchu forces on their natural turf. Our failure to occupy even a measly pastoral region of its farmlands have made our government the laughing stock of the former Zheltorossiyan cliques. Just as the city of Harbin shone again, fires raged in the streets once more as the public were unhappy that their soldiers, their relatives, fought for naught against a much inferior combatant."
+HAR.21.a:0 "We Bit Off More Than We Could..."
