@@ -564,6 +564,10 @@ japan.46.t:0 "신 경제학파"
 japan.46.d:0 "The economic crisis has pushed a number of aspiring young students into financial studies. Their new ideas and the shortage in the civil service means many are being fast-tracked into new positions, there are still conflicting ideas about where investments into recovery should go. There are those that warn against re-starting the military-economic dependencies but equally those factory jobs are good for the employment rate."
 japan.46.a:0 "Continue domestic market development."
 japan.46.b:0 "Divert funds to re-start arms industry."
+
+japan.47.t:0 "Establishing the Pekin Government"
+japan.47.d:0 ""
+japan.47.a:0 "Glory to the Emperor!"
 #CUSTOM TOOLTIPS AND FLAGS#
 JAP_SETTING_SUN_DESC:0 "일본 제국은 유리로 된 대포라 할 수 있습니다. 1905년의 패배 이래 사회의 분열 심화를 가라앉히고, 태평양을 정복하면서 중국을 착취하던 군의 노력은 부실한 경제라는 결과로 나타났습니다. 만약 중국에서의 회전에서 패배한다면, 일본은 존황파에 맞선 애국전위대의 봉기와 내전이라는 위협을 껴안게 될 것입니다..."
 
@@ -850,22 +854,22 @@ JAP_the_future_of_the_sunrise_kingdom_desc:0 ""
 
 #crash tree#
 JAP_sunset_stock_crash:0 "일몰 주식붕괴"
-JAP_sunset_stock_crash_desc:0 ""
+JAP_sunset_stock_crash_desc:0 "We must act now to avoid bankruptcy, the big four can deal with this mess themselves, it is their fault after all."
 
 JAP_pro_zaibatsu_focus_1:0 "Dealing With The Zaibatsus"
-JAP_pro_zaibatsu_focus_1_desc:0 ""
+JAP_pro_zaibatsu_focus_1_desc:0 "The demands of the corporate suits have led us astray, now they come to us seeking compensation and support, how we proceed is crucial."
 
 JAP_pro_zaibatsu_focus_2:0 "죽음과 세금은"
-JAP_pro_zaibatsu_focus_2_desc:0 ""
+JAP_pro_zaibatsu_focus_2_desc:0 "Government spending needs revenue, and revenue comes from tax. Now is a time of tight belts and much pain, but we must pay up if we are to recover."
 
 JAP_pro_zaibatsu_focus_3:0 "빚은 갚아야 하는 법"
-JAP_pro_zaibatsu_focus_3_desc:0 ""
+JAP_pro_zaibatsu_focus_3_desc:0 "Our debt holders are becoming impatient, if the issue is not resolved, or a path to payment not forged ahead, we may end up defaulting and causing more damage."
 
 JAP_pro_zaibatsu_focus_4:0 "Institute the Palace Reforms"
-JAP_pro_zaibatsu_focus_4_desc:0 ""
+JAP_pro_zaibatsu_focus_4_desc:0 "The direction of a new round of economic reforms will shape the future economy, here was must choose, invest in the economy of violence again or commit to a peacetime economy and risk our rivals' wrath being unstoppable."
 
 JAP_pro_zaibatsu_focus_5:0 "The New Economic School"
-JAP_pro_zaibatsu_focus_5_desc:0 ""
+JAP_pro_zaibatsu_focus_5_desc:0 "Our reforms have progressed and now is the time to re-consider balance between re-armament and the domestic economy, choose wisely."
 
 #JAP_anti_zaibatsu_focus_1:0 "경제개혁"
 #JAP_anti_zaibatsu_focus_1_desc:0 ""
@@ -998,8 +1002,8 @@ JAP_planes_of_the_future_desc:0 ""
 JAP_naval_bomber_effort:0 "해군폭격기 개발"
 JAP_naval_bomber_effort_desc:0 ""
 
-JAP_expand_the_navy:0 "해군 확대"
-JAP_expand_the_navy_desc:0 ""
+JAP_expand_the_navy:0 "해군 혁파"
+JAP_expand_the_navy_desc:0 "The mutiny of the civil war is a betrayal that shall not be forgotten. We must enact sweeping reforms to keep the IJN in line in future."
 
 JAP_floating_fortresses:0 "부양요새"
 JAP_floating_fortresses_desc:0 ""
