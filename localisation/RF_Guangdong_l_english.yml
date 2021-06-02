@@ -3,6 +3,7 @@ POLITICS_Xu_Chong_Zhi_DESC:0 "“흔히들 쉬충즈가 부정적인 사람이�
 
 #COUNTRY NAME#
 
+
 #PARTIES#
 GDP_vanguard_socialism_party:0 "WPC"
 GDP_libertarian_marxism_party:0 "PPC"
@@ -15,7 +16,7 @@ GDP_conservatism_party:0 "KMT - 민주"
 GDP_right_authoritarianism_party:0 "HOG"
 GDP_despotism_party:0 "NRA"
 GDP_reactionism_party:0 "KMT - SSS"
-GDP_accelerationism_party:0 "CYP"
+GDP_accelerationism_party:0 "YCP"
 GDP_vanguard_socialism_party_long:0 "중국노동당"
 GDP_libertarian_marxism_party_long:0 "중국인민당"
 GDP_revolutionary_anarchism_party_long:0 "중국 아나키스트 운동"
@@ -28,8 +29,10 @@ GDP_right_authoritarianism_party_long:0 "황푸 장교단"
 GDP_despotism_party_long:0 "국민혁명군 군사위원회"
 GDP_reactionism_party_long:0 "국민당 원로회"
 GDP_accelerationism_party_long:0 "중국청년당"
+#PARTIES#
 #LEADER DESCRITIONS#
 #IDEAS#
+GDP_kmt_nra_rule:0 "국민혁명군의 통치"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
