@@ -166,6 +166,10 @@ RHI_AUS_protectorate_accelerationism:0 "라인 보호령"
 RHI_AUS_protectorate_accelerationism_DEF:0 "라인 보호령"
 RHI_AUS_protectorate_accelerationism_ADJ:0 "라인"
 
+AUS_freud_accelerationism:0 "오스트리아 성욕국"
+AUS_freud_accelerationism_DEF:0 "오스트리아 성욕국"
+AUS_freud_accelerationism_ADJ:0 "오스트리아"
+
 #PARTIES#
 AUS_vanguard_socialism_party:0 "KPO"
 AUS_libertarian_marxism_party:0 "LS"
