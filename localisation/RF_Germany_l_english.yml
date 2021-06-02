@@ -29,23 +29,23 @@ GER_right_authoritarianism_party:0 "자유군단"
 GER_despotism_party:0 "KRP"
 GER_reactionism_party:0 "DNFP"
 GER_accelerationism_party:0 "FAD"
-GER_vanguard_socialism_party_long:0 "독일 전국가 노동자당/독일 공산당 (전위파)"
+GER_vanguard_socialism_party_long:0 "독일 민족다수노동자당/독일 공산당 (전위파)"
 GER_vanguard_socialism_party_long_kpda:0 "독일 공산당 (전위파)"
-GER_vanguard_socialism_party_long_nmapd:0 "독일 전국가 노동자당"
+GER_vanguard_socialism_party_long_nmapd:0 "독일 민족다수노동자당"
+#NMAPD Split
+GER_vanguard_socialism_party_long_nmapdL:0 "독일 민족다수노동자당 (민족공산파)"
+GER_vanguard_socialism_party_long_nmapdR:0 "독일 민족다수노동자당 (사회주의 이교)"
+#
 GER_libertarian_marxism_party_long:0 "독일 공산당 (스파르타쿠스파)"
 GER_libertarian_marxism_party_long_kpd:0 "독일 공산당"
-GER_revolutionary_anarchism_party_long:0 "Freie Arbeiter-Union Deutschlands"
-GER_revisionist_socialism_party_long:0 "Christliche Arbeiter-und Bauernpartei Deutschlands"
-GER_social_democratism_party_long:0 "Unabhängige Sozialistische Partei Deutschlands"
-GER_liberalism_party_long:0 "Deutsche Demokratische Partei"
 GER_revolutionary_anarchism_party_long:0 "독일 자유 노동자 연합"
-GER_revisionist_socialism_party_long:0 "독일 기독교 노동 농민당"
-GER_social_democratism_party_long:0 "독립 사회당"
+GER_revisionist_socialism_party_long:0 "독일 기독교 노농당"
+GER_social_democratism_party_long:0 "독일 독립사회주의당"
 GER_liberalism_party_long:0 "독일 민주당"
 GER_conservatism_party_long:0 "중앙당"
 GER_right_authoritarianism_party_long:0 "자유군단"
-GER_despotism_party_long:0 "제정 충성파"
-GER_reactionism_party_long:0 "독일 국민당"
+GER_despotism_party_long:0 "충군제국당"
+GER_reactionism_party_long:0 "독일민족 전선당"
 GER_accelerationism_party_long:0 "독일 미래주의 아방가르드"
 
 #LEADER DESCRITIONS#
@@ -121,7 +121,6 @@ GER_komitee_landnutzung_1:0 "토지사용 위원회"
 GER_komitee_landnutzung_1_desc:0 "독일의 영토는 많은 잠재력을 가지고 있습니다. 이미 많은 잠재력을 가져다 사용하고 있지만, 아직 많은 잠재력이 숨어있습니다."
 GER_komitee_landnutzung_2:0 "토지사용 위원회"
 GER_komitee_landnutzung_2_desc:0 "독일의 영토는 많은 잠재력을 가지고 있습니다. 이미 많은 잠재력을 가져다 사용하고 있지만, 아직 많은 잠재력이 숨어있습니다."
-
 
 GER_sonderrat:0 "전시 도덕과 점령에 대한 특별의회"
 GER_sonderrat_desc:0 "전쟁의 공포에 어떻게 대응할 것인가 하는 의문은 우리의 정치적 토론 안에서 널리 퍼져 있습니다. 우리는 친절하고 관대해야 할까요, 아니면 적들이 프롤레타리아에 대해 저지른 죄에 대해 벌을 주어야 할까요?"
@@ -287,12 +286,15 @@ GER_volksding_wieland:0 "인민의회 - 빌란트 추종"
 GER_volksding_ostaria:0 "인민의회 - 오스타리아 추종"
 GER_volksding_rhenus:0 "인민의회 - 레누스 추종"
 GER_volksding_tyr:0 "인민의회 - 티르 추종"
-GER_united_worship:0 "단합된 독일인의 신앙"
+GER_united_worship:0 "단결된 독일인의 신앙"
 GER_united_worship_desc:0 ""
 
 GER_grossdeutschland:0 "대독일"
 GER_grossdeutschland_desc:0 ""
 GER_local_beliefs:0 "토착종교 수용"
+
+GER_german_aid:0 "German Aid"
+GER_german_aid_desc:0 "German support in Hungary"
 
 GER_german_support:0 "독일의 지원"
 GER_german_support_desc:0 "독일의 에스파냐 지원"
@@ -341,7 +343,7 @@ germany.8.desc:0 "오늘, 마이어 동지께서 대중들에게 연설했습니
 germany.8.a:0 "룩셈부르크의 유산은 살아남는다!"
 
 germany.bavaria.t:0 "바이에른을 어찌 해야 하는가?"
-germany.bavaria.desc:0 "After we now know about the ideas to turn Bavaria against us, we cannot ignore it much longer. We have to act fast, before Bavaria destabilises even further! However, there are two ideas brought forth in the Reichsrätekongress: Comrade Georg Engl wants to appease the Bavarians by giving more power to the Peasant’s Councils and highering the standard of living in the Countryside. Comrade Hermann Gartmann, on the other hand, thinks that we should collectivise the Land and use our VkRSS to solve the situation."
+germany.bavaria.desc:0 "After we now know about the ideas to turn Bavaria against us, we cannot ignore it much longer. We have to act fast, before Bavaria destabilises even further! However, there are two ideas brought forth in the Reichsrätekongress: Comrade Georg Engl wants to appease the Bavarians by giving more power to the Peasant's Councils and increasing the standard of living in the Countryside. Comrade Hermann Gartmann, on the other hand, thinks that we should collectivise the Land and use our VkRSS to solve the situation."
 germany.bavaria.a:0 "Engl is right, violence brings us nowhere."
 germany.bavaria.b:0 "Gartmann is right, we need to show strength."
 
@@ -358,8 +360,23 @@ germany.10.c:0 "We don't need such projects!"
 germany.11.t:0 "성 문제"
 germany.11.desc:0 "Since the glorious socialist November Revolution, Homo- and Transsexuality and all other forms of sexual expression have been decriminalized and more and more pushed into normality by pioneers such as comrade Magnus Hirschfeldt. However, similar thing could also be observed in multiple centers of futurist Ideology. Fiume has always been openly accepting of homosexuality while French Escadronists and Röhm even promote it within the army. More and more voices have arisen denouncing “sexual depravity” as “root cause for Futurism” and “the deterioration of the German Youth”. Today, the NMAPD-Faction of the Reichsrätekongress has therefore brought in a call for the re-criminalisation of “sexual deviants”. For this Question, Magnus Hirschfeldt has talked in front of the Congress about their mistake to limit the rights of hard-working, proletarian german gays and “third-Genders” while comrade Maslow from the KPD-Faction denounced the NMAPD for “Non-Marxist” thinking due to their beliefs that “Not Class, but sexuality shapes the Ideology of Man” and has also warned the Recriminalisation would disenfranchise Non-Straight Comrades and would push them towards Futurism."
 germany.11.a:0 "퇴폐를 당장 막아야 한다! 재범죄화시켜!"
-germany.11.b:0 "We cannot take away the rights from so many Proletarians! But the french threat is just as worrying, tell the VKRSS to have an eye on them."
+germany.11.b:0 "We cannot take away rights from so many Proletarians! Just make sure VKRSS suppresses any french influence."
 germany.11.c:0 "This is madness! Our Gay Comrades are just as able as any other!"
+
+germany.12.t:0 "Germany Demands Integration"
+germany.12.desc:0 ""
+germany.12.a:0 "Naturally, we accept."
+germany.12.b:0 "Never!"
+
+germany.13.t:0 "Luxemburgists Push for Union"
+germany.13.desc:0 ""
+germany.13.a:0 "Naturally, we accept."
+germany.13.b:0 "Never!"
+
+germany.14.t:0 "Luxemburgists Push for Union"
+germany.14.desc:0 ""
+germany.14.a:0 "Naturally, we accept."
+germany.14.b:0 "Never!"
 #CUSTOM TOOLTIPS AND FLAGS#
 nmapd_victory:0 "NMAPD가 Reichsrätekongress의 과반을 차지했습니다"
 uspd_victory:0 "USPD가 Reichsrätekongress를 설득했습니다"
@@ -393,6 +410,7 @@ kpd_split:0 "파울 레비의 은퇴로 독일 공산당이 분열되었습니�
 GER_worldrev_decisions:0 "세계혁명 지원 디시전 해제"
 GER_networks:0 "국제주의망 확대 디시전 해제"
 GER_class_warfare_decisions:0 "계급전쟁 증진 디시전 해제"
+GER_core_greater_germany_tooltip:0 "All of Greater Germany will become core territory"
 #FACTIONS#
 LEAGUE_OF_NATIONS:0 "국제연합"
 Third_International:0 "제3인터내셔널"
@@ -437,6 +455,9 @@ military_mission_greece:0 "그리스행 군사고문단"
 political_mission_turkwr:0 "터키행 정치고문단"
 supply_turkwr:0 "터키행 보급수행단"
 military_mission_turkwr:0 "터키행 군사고문단"
+
+GER_red_unification_decisions:0 "Red Unification"
+USCR_core_territory_decision:0 "Unite Europe"
 #MINISTERS#
 
 for_proletarian:0 "프롤레타리아"
@@ -492,6 +513,13 @@ GER_paul_wegmann_int:0 "파울 베크만"
 GER_willy_lehmann_int:0 "빌리 레만"
 
 GER_harry_kessler_for_lib:0 "하리 그라프 케슬러"
+
+#COMPANIES#
+mauser:0 "Production-Comradeship Mauser"
+breslau:0 "Vehicle and Hunting Weapons Production Plant Breslau"
+wiesa:0 "Equipment and Tool Production Wiesa"
+
+
 
 #FOCUSES#
 GER_nordseehfen:0 "북해 항구"
@@ -914,4 +942,4 @@ GER_atreatywithitaly_desc:0 "이탈리아인들은 이 세상에 아직 남아 �
 GER_buypeacewithrussia:0 "러시아와의 평화"
 GER_buypeacewithrussia_desc:0 "우리나 러시아나 모두 알고 있습니다. 전쟁은 비용이 많이 들고 피비린내 날 것입니다. 그런 만큼, 우리는 그들이 동유럽의 작은 국가들을 삼켜버리게 하고 프로이센이 우리를 공격하려 한다면 그들이 우리를 돕게 하는 거래를 중개해야 합니다..."
 GER_jointheleaugeofnations:0 "국제연맹 가입"
-GER_jointheleaugeofnations_desc:0 "일부 국가들은 여전히 세계 혁명이 가능하다고 생각합니다. 하지만 우린 진실을 알고 있습니다. 그리고 우리의 운명은..."
+GER_jointheleaugeofnations_desc:0 "일부 국가들은 여전히 세계 혁명이 가능하다고 생각합니다. 하지만 우린 진실과 우리의 운명을 알고 있습니다..."
