@@ -6,9 +6,9 @@ WAF_vanguard_socialism_party:0 "LCP-L"
 WAF_vanguard_socialism_party_long:0 "League of Coloured Peoples - Leninists"
 WAF_libertarian_marxist_party_long:0 "Gold Coast Students' Association"
 WAF_libertarian_marxism_party:0 "GCSA"
-WAF_revolutionary_anarchism_party:0 "Anarchistes"
-WAF_revisionist_socialism_party_long:0 "Christian Socialists"
-WAF_revisionist_socialism_party:0 "Christian Socialists"
+WAF_revolutionary_anarchism_party:0 "아나키스트파"
+WAF_revisionist_socialism_party_long:0 "기독교 사회주의파"
+WAF_revisionist_socialism_party:0 "기독교 사회주의파"
 WAF_social_democratism_party:0 "노동당"
 WAF_liberalism_party:0 "UNDP"
 WAF_liberalism_party_long:0 "Union Nationale pour la Démocratie et le Progrès"
@@ -20,12 +20,12 @@ WAF_accelerationism_party:0 "French Embassy in Porto-Novo"
 #LEADER DESCRITIONS#
 POLITICS_ANDREW_COHEN_DESC:0 "Hailing from an Anglo-Jewish family, Cohen has roots to the oldest Ashkenazi family in Britain. Educated in Malvern College, Cohen has created his own vision of colonial policy; one of moderation. No one would be subject to any kind of supremacy, no white man or black man will be put under repression for who they are, and responsible government, law, and human wellbeing are at the forefront of his policy. A kind man, Cohen knows what needs to be done to secure the wellbeing of the West Africans and how to properly introduce them to Democracy."
 #IDEAS#
-WAF_an_experiment:0 "An Experiment in Democracy"
+WAF_an_experiment:0 "민주정에서의 실험"
 WAF_an_experiment_desc:0 "The West African Federation is an experiment in creating a new colonial policy for Britain's gigantic realm, which is slowly coming off the seams. However, just because Britain's empire is having troubles doesn't mean they won't intervene swiftly if our democracy begins getting the wrong ideas..."
-WAF_language_division:0 "Language Division"
+WAF_language_division:0 "언어 분열"
 WAF_language_division_desc:0 "The former colonies that comprise the West African Federation are disunited in language matters, ethnic matters and finally religious matters - it is clear that, as much as we try, there is no good choice for a lingua franca that spans across all our territory. At least unless something drastic happens..."
 #CUSTOM TOOLTIPS AND FLAGS#
-WAF_an_experiment_tooltip:0 "§RBritain will enter our cities within hours of any outcome they do not like in our political system.§!"
+WAF_an_experiment_tooltip:0 "§R우리 정치체제에서 마음에 들지 않는 결과가 나온다면 영국은 몇 시간 내로 우리 도시에 진입할 것입니다.§!"
 #DECISIONS (1.5 Update)#
 #FOCUSES#
 #EVENTS#
