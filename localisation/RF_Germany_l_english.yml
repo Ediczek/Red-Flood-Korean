@@ -410,7 +410,7 @@ kpd_split:0 "파울 레비의 은퇴로 독일 공산당이 분열되었습니�
 GER_worldrev_decisions:0 "세계혁명 지원 디시전 해제"
 GER_networks:0 "국제주의망 확대 디시전 해제"
 GER_class_warfare_decisions:0 "계급전쟁 증진 디시전 해제"
-GER_core_greater_germany_tooltip:0 "All of Greater Germany will become core territory"
+GER_core_greater_germany_tooltip:0 "대독일의 전 지역이 핵심영토가 될 것입니다"
 #FACTIONS#
 LEAGUE_OF_NATIONS:0 "국제연합"
 Third_International:0 "제3인터내셔널"
@@ -456,8 +456,8 @@ political_mission_turkwr:0 "터키행 정치고문단"
 supply_turkwr:0 "터키행 보급수행단"
 military_mission_turkwr:0 "터키행 군사고문단"
 
-GER_red_unification_decisions:0 "Red Unification"
-USCR_core_territory_decision:0 "Unite Europe"
+GER_red_unification_decisions:0 "붉은 통일"
+USCR_core_territory_decision:0 "유럽 통합"
 #MINISTERS#
 
 for_proletarian:0 "프롤레타리아"
@@ -515,9 +515,9 @@ GER_willy_lehmann_int:0 "빌리 레만"
 GER_harry_kessler_for_lib:0 "하리 그라프 케슬러"
 
 #COMPANIES#
-mauser:0 "Production-Comradeship Mauser"
-breslau:0 "Vehicle and Hunting Weapons Production Plant Breslau"
-wiesa:0 "Equipment and Tool Production Wiesa"
+mauser:0 "마우저 생산동지회"
+breslau:0 "브레슬라우 차량 및 수렵병기생산공장"
+wiesa:0 "비자 장비 및 도구 생산"
 
 
 
