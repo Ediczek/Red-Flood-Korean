@@ -12,14 +12,14 @@ YDK_JAP_right_authoritarianism_ADJ:0 "유다야"
 
 YDK_vanguard_socialism_party:0 "YVP"
 YDK_vanguard_socialism_party_long:0 "유대아 전위당"
-YDK_libertarian_marxism_party:0 "YMP"
-YDK_libertarian_marxism_party_long:0 "유대아 마르크스주의당"
-YDK_revolutionary_anarchism_party:0 "JPC"
-YDK_revolutionary_anarchism_party_long:0 "유대인민씨족"
+YDK_popular_socialism_party:0 "YMP"
+YDK_popular_socialism_party_long:0 "유대아 마르크스주의당"
+YDK_anarchism_party:0 "JPC"
+YDK_anarchism_party_long:0 "유대인민씨족"
 YDK_revisionist_socialism_party:0 "YSP"
 YDK_revisionist_socialism_party_long:0 "유대아국 사회주의당"
-YDK_social_democratism_party:0 "YFP"
-YDK_social_democratism_party_long:0 "유대아국 자유번영당"
+YDK_progressivism_party:0 "YFP"
+YDK_progressivism_party_long:0 "유대아국 자유번영당"
 YDK_liberalism_party:0 "YRP-L"
 YDK_liberalism_party_long:0 "유대아국 공화당 - 자유파"
 YDK_conservatism_party:0 "YRP-C"
@@ -42,4 +42,3 @@ YDK_accelerationism_party_long:0 "천명 유대아국"
 #DECISIONS (1.5 Update)#
 
 #FOCUSES#
-
