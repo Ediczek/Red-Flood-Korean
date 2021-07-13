@@ -3,16 +3,16 @@
 
 
 #PARTIES#
-PCN_revolutionary_anarchism_party:0 "생디칼리스트파"
-PCN_revolutionary_anarchism_party_long:0 "생디칼리스트파"
+PCN_anarchism_party:0 "생디칼리스트파"
+PCN_anarchism_party_long:0 "생디칼리스트파"
 PCN_vanguard_socialism_party:0 "SRGPK"
 PCN_vanguard_socialism_party_long:0 "프로이센령 콩고 사회혁명 집단"
-PCN_libertarian_marxism_party:0 "PCK"
-PCN_libertarian_marxism_party_long:0 "콩고 공산당"
+PCN_popular_socialism_party:0 "PCK"
+PCN_popular_socialism_party_long:0 "콩고 공산당"
 PCN_revisionist_socialism_party:0 "PSK"
 PCN_revisionist_socialism_party_long:0 "콩고 사회주의당"
-PCN_social_democratism_party:0 "SPK"
-PCN_social_democratism_party_long:0 "콩고 사회민주당"
+PCN_progressivism_party:0 "SPK"
+PCN_progressivism_party_long:0 "콩고 사회민주당"
 PCN_liberalism_party:0 "PPK"
 PCN_liberalism_party_long:0 "프로이센령 콩고 인민당"
 PCN_conservatism_party:0 "DPBPK"
