@@ -7,18 +7,22 @@ PER_Iran_ADJ:0 "이란"
 PER_APOC_state:0 "영국-이란 석유사"
 PER_APOC_state_DEF:0 "영국-이란 석유사"
 PER_APOC_state_ADJ:0 "영국-이란"
+
+PER_republic:0 "이란 자치령"
+PER_republic_DEF:0 "이란 자치령"
+PER_republic_ADJ:0 "이란"
 #PARTIES#
 
 PER_vanguard_socialism_party:0 "밀림당"
 PER_vanguard_socialism_party_long:0 "밀림당"
-PER_libertarian_marxism_party:0 "공산당"
-PER_libertarian_marxism_party_long:0 "이란 공산당"
-PER_revolutionary_anarchism_party:0 "인민 무자히딘"
-PER_revolutionary_anarchism_party_long:0 "이란 인민 무자히딘"
+PER_popular_socialism_party:0 "공산당"
+PER_popular_socialism_party_long:0 "이란 공산당"
+PER_anarchism_party:0 "인민 무자히딘"
+PER_anarchism_party_long:0 "이란 인민 무자히딘"
 PER_revisionist_socialism_party:0 "MoGWS"
 PER_revisionist_socialism_party_long:0 "경배 사회주의자 운동"
-PER_social_democratism_party:0 "민족전선"
-PER_social_democratism_party_long:0 "이란 민족전선"
+PER_progressivism_party:0 "민족전선"
+PER_progressivism_party_long:0 "이란 민족전선"
 PER_liberalism_party:0 "민족전선"
 PER_liberalism_party_long:0 "이란 민족전선"
 PER_conservatism_party:0 "개혁당"
@@ -33,11 +37,41 @@ PER_accelerationism_party:0 "테헤란회"
 PER_accelerationism_party_long:0 "테헤란 협회"
 
 PER_anglopersian_right_authoritarianism_party:0 "조국당"
-PER_anlgopersian_right_authoritarianism_party_long:0 "조국당"
+PER_anglopersian_right_authoritarianism_party_long:0 "조국당"
+
+PER_shah_right_authoritarianism_party:0 "국왕 충성파"
+PER_shah_right_authoritarianism_party_long:0 "국왕 충성파"
+
+#banned
+
+PER_vanguard_socialism_party_banned:0 "§R[BANNED]§!"
+PER_vanguard_socialism_party_long_banned:0 "§R[BANNED]§!"
+PER_popular_socialism_party_banned:0 "§R[BANNED]§!"
+PER_popular_socialism_party_long_banned:0 "§R[BANNED]§!"
+PER_anarchism_party_banned:0 "§R[BANNED]§!"
+PER_anarchism_party_long_banned:0 "§R[BANNED]§!"
+PER_revisionist_socialism_party_banned:0 "§R[BANNED]§!"
+PER_revisionist_socialism_party_long_banned:0 "§R[BANNED]§!"
+PER_progressivism_party_banned:0 "§R[BANNED]§!"
+PER_progressivism_party_long_banned:0 "§R[BANNED]§!"
+PER_liberalism_party_banned:0 "§R[BANNED]§!"
+PER_liberalism_party_long_banned:0 "§R[BANNED]§!"
+PER_conservatism_party_banned:0 "§R[BANNED]§!"
+PER_conservatism_party_long_banned:0 "§R[BANNED]§!"
+PER_right_authoritarianism_party_banned:0 "§R[BANNED]§!"
+PER_right_authoritarianism_party_long_banned:0 "§R[BANNED]§!"
+PER_despotism_party_banned:0 "§R[BANNED]§!"
+PER_despotism_party_long_banned:0 "§R[BANNED]§!"
+PER_reactionism_party_banned:0 "§R[BANNED]§!"
+PER_reactionism_party_long_banned:0 "§R[BANNED]§!"
+PER_accelerationism_party_banned:0 "§R[BANNED]§!"
+PER_accelerationism_party_long_banned:0 "§R[BANNED]§!"
+
 #LEADER DESCRIPTIONS#
 SHAH_SNR_DESC:0 ""
 SHAH_JNR_DESC:0 ""
 RW_CADMAN_DESC:0 ""
+RW_TABATABAI_DESC:0 ""
 VS_KHAN_DESC:0 ""
 LM_RADMANESH:0 ""
 RT_KASHANI:0 ""
@@ -45,60 +79,86 @@ SD_MOSADDEGH:0 ""
 CN_QAVAM:0 ""
 #IDEAS#
 PER_APOC:0 "영국-이란 석유사"
+PER_APOC_desc:0 ""
 
 PER_APOC_MOAR:0 "영국-이란 석유사"
+PER_APOC_MOAR_desc:0 ""
 
 PER_starting_denbts:0 "영국-이란 채무관리"
+PER_starting_denbts_desc:0 ""
 
 PER_more_denbts:0 "영국-이란 채무관리"
+PER_more_denbts_desc:0 ""
 
 PER_farsi_kemalism:0 "세속화"
+PER_farsi_kemalism_desc:0 ""
 
 PER_SAVAK:0 "SAVAK"
+PER_SAVAK_desc:0 ""
 
 PER_white_terror:0 "백색 테러"
+PER_white_terror_desc:0 ""
 
 PER_OILgarchy:0 "Oil-garchy"
+PER_OILgarchy_desc:0 ""
 
 PER_APOC_profit:0 "Diverse Profits"
+PER_APOC_profit_desc:0 ""
 
 PER_oil_serfs:0 "Social Lubrication"
+PER_oil_serfs_desc:0 ""
 
 PER_oil_serfs2:0 "New Labour Policies"
+PER_oil_serfs2_desc:0 ""
 
 PER_loyal_army:0 "Loyal Army"
+PER_loyal_army_desc:0 ""
 
 PER_protect_against_OSS:0 "Protect Against OSS"
+PER_protect_against_OSS_desc:0 "A proper defence against outside agents is crucial to Iran's future security."
 
 PER_womens_rights:0 "Iranian Women's Liberation"
+PER_womens_rights_desc:0 "Reforming a society to follow a more enlightenened Western vision requires the liberation of women. Comprehensive legal reform to give men and women parity in society is a crucial step on the path of progress."
 
 PER_volunteers_idea:0 "Masters of the Proxy War"
+PER_volunteers_idea_desc:0 ""
 
 PER_market_dominance_idea:0 "Market Dominance"
+PER_market_dominance_idea_desc:0 ""
 
 PER_anglo_persian_education:0 "Anglo-Persian Education"
+PER_anglo_persian_education_desc:0 ""
 
 PER_soldiers_of_fortune_idea:0 "Soldiers of Fortune"
+PER_soldiers_of_fortune_idea_desc:0 ""
 
 PER_private_armies:0 "Private Army Market"
+PER_private_armies_desc:0 ""
 
 PER_SAVAK_operation_persopolis:0 "Operation Persopolis"
-
+PER_SAVAK_operation_persopolis_desc:0 ""
 ###############################
 
 RPR_pain:0 "Beyond Pain And Suffering"
+RPR_pain_desc:0 "The fight for Persia is now, we must shake off the Shah and the English, no matter the cost. The pain and suffering of their oppression is worse than the pain of revolution."
 
 PER_RPR_white_terror:0 "White Terror"
+PER_RPR_white_terror_desc:0 "The Shah and his accursed English masters seek to root us out by any means they can. The brutes."
 
 RPR_socialist_education_idea:0 "Socialist Education"
+RPR_socialist_education_idea_desc:0 "The education system should reinforce socialist doctrine, and mold future generations to carry the revolution forward."
 
 RPR_mass_conscription_idea:0 "Mass Conscription"
+RPR_mass_conscription_idea_desc:0 "The defence of the nation requires a national service. Conscription will mean every family has at least one man at arms ready to take the fight to our enemies and defend his home."
 
 RPR_workers_and_peasants:0 "Army of Workers and Peasants"
+RPR_workers_and_peasants_desc:0 "Our army pulls from across society, from herders to engineers, teachers to cotton pickers. All can serve."
 
 RPR_tudeh_reform_egal:0 "Egalitarian Reforms"
+RPR_tudeh_reform_egal_desc:0 "The full emancipation of women and enfranchisement of both sexes is a core tenant of the revolutionary dream. A free and equal society."
 
 RPR_german_advisors:0 "German Military Advisors"
+RPR_german_advisors_desc:0 ""
 
 RPR_tudeh_reform_rahbar:0 "Rahbar"
 
@@ -114,12 +174,17 @@ RPR_mild_reforms:0 "Socialist Reforms"
 
 RPR_call_unity:0 "Class Unity"
 
+RPR_marxist_islam_idea:0 "Marx & Islam"
+RPR_marxist_islam_idea_desc:0 ""
+
 ######################################################
 #Ministers#
 
 PER_Fazlollah_Zahedi:0 "Fazlollah Zahedi"
 
 PER_William_Fraser:0 "William Fraser"
+
+PER_Sayyed_Zia_Tabatabai:0 "Seyyed Zia'eddin Tabataba'i"
 
 PER_Iraj_Eskandari:0 "Iraj Eskandari"
 
@@ -186,26 +251,28 @@ PER_Arthur_Sullivan_theorist:0 "Arthur Sullivan"
 PER_Fereydoun_Keshavarz_theorist:0 "Fereydoun Kashavarz"
 
 #CUSTOM TOOLTIPS AND FLAGS#
-PER_SETTING_SUN_DESC:0 "The Shahdom of Persia has suffered humiliation and the bitter curse of its oil wealth. during the Russian Civil War the roaming armies and nationalist factions rolled over the western part of the country, forming rebel states and tearing at the Shah's power. Russian and British interests and the Shah's luxurious tastes have rendered the state a mere slave to the Anglo-Persian Oil Company. This misfortune and shame has set the stage for a radical shake-up in Persia, one that the Shahdom would do well to survive."
+1000_infantry_equipment:0 "1000 £rifle_texticon"
+1000_infantry_equipment_blocked:0 "§R1000§! £rifle_texticon"
+PER_SETTING_SUN_DESC:0 "The Shahdom of Persia has suffered humiliation and the bitter curse of its oil wealth. during the Russian Civil War the roaming armies and nationalist factions rolled over the western part of the country, forming rebel states and tearing at the Shah's power. The Shah's grand reforms on the late 1920's and early 30's have petered out and costs are mounting. This has combined with increased British interests in the petroleum industry and rendered the state a mere slave to the Anglo-Persian Oil Company. This misfortune and shame has set the stage for a radical shake-up in Persia, one that the Shahdom would do well to survive."
 PER_aryamehr:0 "Aryamehr"
-PER_take_back_lost:0 "Unlock Decisions to reclaim border regions"
-PER_unite_ME:0 "Unlock Decisions to unite the middle-east"
-PER_ESB:0 "Unlock Decisions to strike at the Empire in the Gulf"
-PER_build_an_empire:0 "Unlock Decisions to expand throughout the middle-east"
-PER_liberate_baku:0 "Unlock Decision to 'liberate' Baku"
-APOC_decisions_europe:0 "Unlock Decisions to sell oil and mercenaries in Europe"
-APOC_decisions_americas:0 "Unlock Decisions to sell oil and mercenaries in the Americas"
-APOC_decisions_asia:0 "Unlock Decisions to sell oil and mercenaries in Asia"
-PER_northern_exploration_tooltip:0 "Unlock Decisions to Explore for Oil in the North"
-PER_APOC_northern1:0 "Northern Wells Explored"
-PER_APOC_mercs1_tooltip:0 "British Mercenaries arrive to protect the company's interests."
-PER_APOC_mercs2_tooltip:0 "More British Mercenaries arrive on the payroll of APOC."
-PER_desert_tigers_mercs_tooltip:0 "An American military group called the Desert Tigers arrives in Persia."
-PER_neo_hessians_tooltip:0 "In a revival of old armies-for-hire a group called the Neo-Hessians have formed."
-PER_russian_mercs_tooltip:0 "Russian Mercenaries organised from cossacks, tatars, and Russian political outsiders arrive to join the APOC payroll."
+PER_take_back_lost:0 "§YUnlock Decisions to reclaim border regions§!"
+PER_unite_ME:0 "§YUnlock Decisions to unite the middle-east§!"
+PER_ESB:0 "§YUnlock Decisions to strike at the Empire in the Gulf§!"
+PER_build_an_empire:0 "§YUnlock Decisions to expand throughout the middle-east§!"
+PER_liberate_baku:0 "§YUnlock Decision to 'liberate' Baku§!"
+APOC_decisions_europe:0 "§YUnlock Decisions to sell oil and mercenaries in Europe§!"
+APOC_decisions_americas:0 "§YUnlock Decisions to sell oil and mercenaries in the Americas§!"
+APOC_decisions_asia:0 "§YUnlock Decisions to sell oil and mercenaries in Asia§!"
+PER_northern_exploration_tooltip:0 "§YUnlock Decisions to Explore for Oil in the North§!"
+PER_APOC_northern1:0 "§YNorthern Wells Explored§!"
+PER_APOC_mercs1_tooltip:0 "§YBritish Mercenaries arrive to protect the company's interests.§!"
+PER_APOC_mercs2_tooltip:0 "§YMore British Mercenaries arrive on the payroll of APOC.§!"
+PER_desert_tigers_tooltip:0 "§YAn American military group called the Desert Tigers arrives in Persia.§!"
+PER_neo_hessians_tooltip:0 "§YIn a revival of old armies-for-hire a group called the Neo-Hessians have formed.§!"
+PER_russian_mercs_tooltip:0 "§YRussian Mercenaries organised from cossacks, tatars, and Russian political outsiders arrive to join the APOC payroll.§!"
 #DECISIONS (1.5 Update)#
 PER_mos_empire:0 "Take Back What Was Lost"
-
+PER_mos_empire_desc:0 "The Qajar and Afsharid Dynasties had grand Empires, Persia once stretched from Kabul to Tblisi. No longer, the empire waned as new powers came to influence and eventually dominate central asia and the middle-east. If Iran is to rise to its previous heights, we must reclaim the lost territories."
 #borders#
 
 PER_demandkurdishborder:0 "Demand the Kurdish Border"
@@ -219,6 +286,7 @@ PER_demandbalochistan:0 "Demand Balochistan"
 #conquests#
 
 PER_mos_empire2:0 "Unite The Middle-East"
+PER_mos_empire2_desc:0 "The Cradle of Civilisation, the crossorads of Empires, the middle-east has been a restless place for many years now. Iran's place in it is clear, we are a stabilising force, uniting all Iranian peoples in the region."
 
 PER_azeris:0 "Re-Integrate the Azeris"
     
@@ -243,7 +311,7 @@ PER_fergana:0 "In the Valley"
 PER_iraq:0 "On the Delta"
 #
 PER_mos_empire4:0 "Strike Back at the Empire"
-PER_mos_empire4_desc:0 ""
+PER_mos_empire4_desc:0 "The time has finally come to take our vengeance. The British domination of the Persian Gulf must end. As the world is plunged into war and the great powers concern themselves with one-another, we have a unique opportunity to force the British out of our region."
 
 PER_strike_kuwait_cost_text:0 "£manpower_texticon  §Y4000§! £army_experience  §Y10§! £command_power  §Y10§! £pol_power  §Y50§!"
 PER_strike_kuwait_cost_text_blocked:0 "£manpower_texticon  §R4000§! £army_experience  §R10§! £command_power  §R10§! £pol_power  §R50§!"
@@ -269,11 +337,94 @@ PER_strike_yemen_cost_text:0 "£manpower_texticon  §Y15000§! £army_experience
 PER_strike_yemen_cost_text_blocked:0 "£manpower_texticon  §R15000§! £army_experience  §R25§! £command_power  §R50§! £pol_power  §R75§!"
 PER_strike_yemen:0 "Strike Yemen"
 #
-PER_APOC_decisions1:0 "Liberate Baku Oil Fields"
+PER_APOC_decisions1:0 "Liberate the Baku Oil Fields"
+PER_APOC_decisions1_desc:0 "The richest of all prizes, Baku. The birthplace of the modern petrochemical industry. Conveniently Persians often regard Azerbaijan as rightfully theirs, this claim gives us the perfect justification to seize the oil fields there."
+
+PER_starting_mechanic:0 "APOC Debt Management"
+PER_starting_mechanic_desc:0 "Persia's position is one of insurmountable debt to Britain. Through conniving, confusing treaties, and sheer strongarming Persia finds itself taking in more and more debt. With the rest of our money, we might be able to pay off a little bit of it.\n\nWe have paid [?PER_debts_to_ENG|%Y0]§! of our debt."
+
+PER_denbts_tooltip_5:0 "We will send more money to the British..."
+
+PER_denbts_tooltip_1:0 "No more, our Shah demands!"
+
+PER_FIRE_ON_THE_WORLD_TOOLTIP:0 "Unlocks \"§RFire On The World§!\" decisions, which allow you to fund conflicts across the World."
+
+PER_fire_on_the_world_scw:0 "Fire On The World: Operation Andalusia"
+
+PER_fire_on_the_world_scw_desc:0 "Andalusia, the crown jewel of the Islamic world for the longest time, is now in flames. What shall become of its people will be determined by Persian weapons, all the while a British officer observes in the background, drinking some coffee.\n\n Our Commitment to the Spanish Civil War is: [?PER_commitment_to_spain|%Y0]§!"
+
+PER_sell_guns_to_scw_regen:0 "Sell Guns to the Regenerationists"
+
+PER_sell_guns_to_scw_repub:0 "Sell Guns to the Republicans"
+
+PER_fire_on_the_world_summer_coup:0 "Fire On The World: Operation Bashkir"
+
+PER_fire_on_the_world_summer_coup_desc:0 "The lands of Russia, once dominated by Turkic tribes and slowly had been encroached by Islam, only to repel against it using the mighty Muscovites, now finds itself burning and bleeding. We will help them... end the war quicker.\n\n Our Commitment to the Summer Coup War is: [?PER_commitment_to_summer_coup|%Y0]§!"
+
+PER_sell_guns_to_summer_coup_kolchak:0 "Sell Guns to Kolchakists"
+
+PER_sell_guns_to_summer_coup_drozd:0 "Sell Guns to Drozdovites"
+
+PER_fire_on_the_world_franco_german_war:0 "Fire On The World: Operation Tours"
+
+PER_fire_on_the_world_franco_german_war_desc:0 "The main Western European actors of the Great War once again find themselves grinding against eachother to their destruction. Perhaps it will be useful to us to invest some resources here and there, get something out of it.\n\n Our Commitment to the Franco-German War is: [?PER_commitment_to_FGW|%Y0]§!"
+
+PER_sell_guns_to_germany:0 "Sell Guns to Socialist Germany"
+
+PER_sell_guns_to_france:0 "Sell Guns to Avant-Garde France"
+
+PER_pay_debts:0 "Pay §G5%§! more of our Debt"
+
+PER_default_debts:0 "Default on our Debts"
 
 PER_baku:0 "The Oil Throne in the City of Winds"
+
+500_infantry_equipment_1:0 "500 Infantry Equipment"
+
+RPR_urbanite_tooltip_10:0 "Gain §G5%§! Urbanite influence, remove §R15%§! Farmer influence and gain §G5%§! Industrialist influence."
+
+RPR_industrialists_tooltip_10:0 "Gain §G10%§! Industrialist influence, remove §R15%§! Farmer influence and gain §G5%§! Urbanite influence."
+
+RPR_industrialists:0 "Favored Industrialists"
+
+RPR_farmers:0 "Favored Farmers"
+
+RPR_urbanites:0 "Favored Urban Residents"
+
+RPR_farm_tooltip_10:0 "Gain §G10%§! Farmer influence, remove §R5%§! Industrialist influence and remove §G5%§! Urbanite influence."
+
+PER_fire_on_the_world_zhr_reconquest:0 "Operation Tartaria"
+
+PER_sell_guns_to_siberia:0 "Sell Guns to Siberia"
+
+PER_sell_guns_to_sru:0 "Sell Guns to Drozdovites"
+
+PER_sell_guns_to_rus:0 "Sell Guns to Kolchakists"
+
+PER_fire_on_the_world_zhr_reconquest_desc:0 "The peoples of Russia, diverse and wild, now find themselves bleeding eachother dry in the name of ideologies. It is high time we abuse their suffering.\n\n Our Commitment to the Russian Reconquest is: [?PER_commitment_to_ZHR|%Y0]§!"
+
+PER_fire_on_the_world_fiume_italy:0 "Operation Siqilliya"
+
+PER_fire_on_the_world_fiume_italy_desc:0 "Italy has found itself fighting ideological opponents, even in the same blood. Despite the potentially quick war, we can still get something out of it.\n\n Our Commitment to the Fiume-Italy War is: [?PER_commitment_to_fiw|%Y0]§!"
+
+PER_sell_guns_to_italy:0 "Sell Guns to Italy"
+
+PER_sell_guns_to_fiume:0 "Sell Guns to Fiume"
+
+RPR_class_struggle:0 "Class Struggle"
+
+RPR_class_struggle_desc:0 "Despite our efforts to create a classless society, rifts and divisions in society still occur, and will occur for a very long time. Whilst we deal with this issue, we can also consider exploiting these divisions in society to further our political agenda.\n\n Urbanite Influence: [?RPR_urbanite_influence|%Y0]§!\n\n Farmer Influence: [?RPR_farmer_influence|%Y0]\n\n Industrialist Influence: [?RPR_industrialist_influence|%Y0]"
+
+RPR_favor_industrialists:0 "Favored Industrialists"
+RPR_favor_farmers:0 "Favored Farmers"
+RPR_urbanites:0 "Favored Urbanites"
+RPR_expand_urban_zones:0 "Expanded Urban Zones"
+
+RPR_DECISIONS_TOOLTIP:0 "Unlock \"Class Struggle\" Decisions, which allow you to exploit divisions in Persian Society to further your political goals."
+
 #
 PER_APOC_decisions0:0 "Exploit the Gulf Oil Fields"
+PER_APOC_decisions0_desc:0 "After oil extraction began in Persia and on the Persian side of the Gulf, prospecting for oil on the Arabian side has been underway. Small fields were found and developed in the Trucial states, but there is more work to be done."
 
 PER_gulf_oil_kuwait:0 "Establish Burgan Field"
 
@@ -289,7 +440,7 @@ PER_business_swe:0 "Sell to Sweden"
 PER_business_swe_desc:0 "Sweden is a modern state with modern needs, but no domestic fuel resources. An unmet need, and hence an opportunity."
     
 PER_business_spa:0 "Sell to Spain"
-PER_business_spa_desc:0 "Only three people have ever really understood the recent Spanish business; a German prince (who is dead), a Scottish Painter (who is insane), and I (who has forgotten all about it. In any case, our analysts say their infrastructure is in no shape to meet petroleum needs." 
+PER_business_spa_desc:0 "Only three people have ever really understood the recent Spanish business; a German prince (who is dead), a Scottish Painter (who is insane), and I (who has forgotten all about it). In any case, our analysts say their infrastructure is in no shape to meet petroleum needs." 
     
 PER_business_por:0 "Sell to Portugal"
 PER_business_por_desc:0 "The Portuguese have been our reliable allies for centuries, and one must assume they're in much the same boat as the Spanish." 
@@ -334,6 +485,7 @@ PER_business_jgj:0 "Sell to the Guominjun"
 PER_business_kck:0 "Sell to Yakutia"
 #
 PER_APOC_northern_exploration:0 "Northern Exploration"
+PER_APOC_northern_exploration_desc:0 "The discorvery of the Baku oil fields on the Caspian coast raised a tantalising question for those involved in the Persian petrochemical industry. If the Azeri part of the Caspian coast is rich in oil, is the Persian part also rich in oil? Fortunately the key economic hub in Rasht is ideally placed to support such a burgeoning industry, should any discoveries there be exploited."
 
 PER_explore_the_north1:0 "Find New Northern Wells"
 
@@ -343,6 +495,7 @@ PER_explore_the_north2:0 "Expand Northern Well Infrastructure"
 #reds
 
 PER_RPR_eskandari_decisions:0 "Persification Policies"
+PER_RPR_eskandari_decisions_desc:0 "The disunity of the Iranian peoples is a tragedy, one that can be remedied with establishing Farsi as a lingua franca throughout the country. Local autonomies aside, there must be Farsi standarisation in the bureaucracy, education, economy and military."
 
 RPR_persification_cost_arabs_text:0 "£manpower_texticon  §Y30000§! £pol_power  §Y45§! £command_power  §Y25§!"
 RPR_persification_cost_arabs_text_blocked:0 "£manpower_texticon  §R30000§! £pol_power  §R45§! £command_power  §R25§!"
@@ -386,6 +539,7 @@ RPR_lib_persification_uzbeks:0 "Persification of the Uzbeks"
 #
 
 PER_RPR_tudeh_expansion_decisions:0 "Restore the Old Borders"
+PER_RPR_tudeh_expansion_decisions_desc:0 "As the borders of Persia have shrunk, so has the malaise of our nation grown. People who once were subjects of the Shah became subjects to Tsars and foreign Kings. We have a responsibility not only to these people as cultural brothers, but as comrades-in-arms against imperialist repression."
 
 RPR_tudeh_expansion_iraq:0 "Seize Baghdad and Karbala"
 
@@ -406,6 +560,7 @@ RPR_tudeh_expansion_centrocaspia:0 "Liberate Baku"
 #
 
 PER_RPR_tudeh_liberation_decisions:0 "Liberate the Middle East"
+PER_RPR_tudeh_liberation_decisions_desc:0 "The best policy for not only restoring the might of Iran and her people, but for spreading the revolution and liberating the people of the middle east, is direct military action. Revolutionaries from across the region now call Iran home, we can use their local knowledge and leadership to establish socialist republics across the region."
 
 RPR_tudeh_liberation_turkey:0 "Correct the Turks"
 
@@ -426,6 +581,7 @@ RPR_tudeh_liberation_transcaspia:0 "Friends in Turkestan"
 
 #
 PER_RPR_jangle_expansion_decisions:0 "Expand the Federation"
+PER_RPR_jangle_expansion_decisions_desc:0 "The Iranian Federation can hardly be called Iranian when it is without all the Iranian people. As our history shows, culture and language trump ethnicity, the federation will grow strong and unite our brothers. Only then will we be whole, and secure against foregin powers." 
 
 RPR_afghanis:0 "Expand to Kabul"
 
@@ -452,6 +608,7 @@ RPR_aljazira:0 "Expand to Raqqa"
 RPR_kurdistan:0 "Expand to Erbil"
 #
 PER_RPR_jangle_decisions:0 "Total Federalisation"
+PER_RPR_jangle_decisions_desc:0 "Creating a federal system of republics, autonomous regions and administrative provinces is an arduous task for any fledgling republic. All the more difficult when there are many regional identities to contend with. By sending our own administrative advisors, translators and co-operating with local police and revolutionary committees, we can establish the needed structures that will keep Iran stable and whole."
 
 RPR_jangle_persification_cost_arabs_text:0 "£manpower_texticon  §Y10000§! £pol_power  §Y100§! £command_power  §Y25§!"
 RPR_jangle_persification_cost_arabs_text_blocked:0 "£manpower_texticon  §R10000§! £pol_power  §R100§! £command_power  §R25§!"
@@ -499,12 +656,12 @@ per.101.desc:0 "The latest incident happened in Ilam. A city well known for its 
 per.101.a:0 "Oddly he can feign cluelessness perfectly."
 
 per.1.t:0 "An Unexpected Turn of Events"
-per.1.desc:0 ""
+per.1.desc:0 "\"Your Majesty, we have lost communications with Bandar 'E Abbas.\"\n\n\"What?\" said Zahir Shah, feeling a seething unrest within his body, his throat spilling acid into his mouth. \"If you're lying, I will have you executed - good sir.\"\nHe picked up his phone, talking to APOC representatives in Tehran.\n\n\"They've taken everything. Our administrators are being imprisoned, or worse, executed.\" said the voice behind the speaker.\n\"I... I declare total mobilization! No mercy for the bastards that are destroying our ancient Nation!\" The Shah's thundering voice proclaimed across his palace. And yet, not a single one of the revolutionaries was listening."
 per.1.a:0 "All this over the price of an Onion?"
 per.1.b:0 "Down with the Shah, the English and their onion prices!"
 
 per.2.t:0 "On the Ashes of Greatness"
-per.2.desc:0 "The past few decades have not been kind to the Persian nation. Following the many humiliations and cruel occupations by foreign tyrants such as the rugged Russian bear or that accursed lion of Albion, the once great empire of the Near East has fallen from a regional hegemon and the protector of the Shia faith to just another forgettable and impoverished rump state, crushed under the heel of foreign domination.\nIt was taken for granted that the fall of these giants following the Great War would bring prosperity to Persia. But despite the collapse of the British raj and the Russian Civil War, we fell only further. Revolutionaries, opportunists, secessionists and their marauding bands of thugs and savages, wandered across our lands and carved it up into many different states and nations. British troops, in response to the vacuum left by the collapsing Russian Empire only tightened their grip on Persia, leaving us unable to respond to the injustices in the West.\nThis only intensified in the following years as the loss of the Raj fueled British demand for Iranian oil, leading to the Shah becoming little more than a puppet with the Anglo-Persian Oil Company (APOC) effectively controlling the country. The lack of checks and balances on the influence and strength of the APOC has had the deeply concerning side effect of pushing workers, peasants and nationalists into the hands of Socialist movements in reaction to Capitalist agitation and exploitation of Persian territories. Support for the councilist menace has achieved its strongest forms in ethnically Non-Persian pieces of land that miraculously did not break away in the 20’s. A state of affairs that has made the situation far more dire as it risks not only unacceptable political change, but also risks the territorial integrity of the already beaten and mutilated body of Persia.\nIt seems undeniable to many that in the coming years, the Jewel of the Orient will either fall to the red flood or use it’s conquerors to crush it, even if it may come at the cost of total integration. Nothing however, is ever for certain. And only time will tell what God has in store for us."
+per.2.desc:0 "The past few decades have not been kind to the Persian nation. Following the many humiliations and cruel occupations by foreign tyrants such as the rugged Russian bear or that accursed lion of Albion, the once great empire of the Near East has fallen from a regional hegemon and the protector of the Shia faith to another forgettable and impoverished rump state.\nIt was taken for granted that the fall of these giants following the Great War would bring prosperity to Persia. But despite the collapse of the British raj and the Russian Civil War, we fell only further. Revolutionaries, opportunists, secessionists and their marauding bands of thugs and savages, wandered across our lands and carved it up into many different states and nations. British troops, in response to the vacuum left by the collapsing Russian Empire only tightened their grip on Persia, leaving us unable to respond to the injustices in the West.\nThis only intensified in the following years as the loss of the Raj fueled British demand for Iranian oil, leading to the Shah becoming little more than a puppet with the Anglo-Persian Oil Company (APOC) effectively controlling the country. The lack of checks and balances on the influence and strength of the APOC has had the deeply concerning side effect of pushing workers, peasants and nationalists into the hands of Socialist movements in reaction to Capitalist agitation and exploitation of Persian territories. Support for the councilist menace has achieved its strongest forms in ethnically Non-Persian pieces of land that miraculously did not break away in the 20’s. A state of affairs that has made the situation far more dire as it risks not only unacceptable political change, but also risks the territorial integrity of the already beaten and mutilated body of Persia.\nIt seems undeniable to many that in the coming years, the Jewel of the Orient will either fall to the red flood or use it’s conquerors to crush it, even if it may come at the cost of total integration. Nothing however, is ever for certain. And only time will tell what God has in store for us."
 per.2.a:0 "A dire situation."
 per.2.b:0 ""
 
@@ -514,16 +671,16 @@ per.3.a:0 "What more could they want?"
 per.3.b:0 ""
 
 per.36.t:0 "Iran Demands the Border"
-per.36.desc:0 ""
-per.36.a:0 "Very Well."
-per.36.b:0 "They can take it by force."
+per.36.desc:0 "Our worst fears realised: Tehran has demanded the exit of Kurdish defence forces from Piranshah and the wider East Kurdistan Province, under threat of of invasion. After more than a decade of Kurdish rule, it appears the dreams of many are dashed, as foreign lords seek to return. There is of course the option to resist the Shah, but his battle-hardened army may prove too much for us. But to surrender before a shot is fired could doom us all to subjugation, or worse."
+per.36.a:0 "Comply with the demands."
+per.36.b:0 "They can take it by force!"
 
 per.361.t:0 "Kurdistan Relents"
-per.361.desc:0 ""
+per.361.desc:0 "Kurdistan has capitulated to our diplomatic overtures, strongarming their leader into signing their Persian territory back to our control."
 per.361.a:0 "Great News!"
 
 per.362.t:0 "Kurdistan Stands Defiant"
-per.362.desc:0 ""
+per.362.desc:0 "Kurdistan, a hellish polity in the center of the Levant, has refused to concede their illegitimate control of our lands."
 per.362.a:0 "Bastards!"
 
 per.37.t:0 "Iran Demands the Border"
@@ -558,11 +715,11 @@ per.39.a:0 "We can’t risk an armed conflict. Cede Balochistan!"
 per.39.b:0 "Let’s hope they’re bluffing. No deal with Iran!"
 
 per.391.t:0 "Dinia Stands Down"
-per.391.desc:0 ""
+per.391.desc:0 "Dinia, like the irrelevant polity it is, has given up their territories which comprised our claims."
 per.391.a:0 "Good choice."
 
 per.392.t:0 "Dinia Takes a Stand"
-per.392.desc:0 ""
+per.392.desc:0 "Dinia, a tiny polity in the outer edges of India, has refused to surrender their land to us, a much more powerful adversary."
 per.392.a:0 "Fools!"
 
 per.4.t:0 "A Modest Proposal"
@@ -582,73 +739,73 @@ per.41.a:0 "Accept them… We have no choice."
 per.41.b:0 "Who dies today is safe from tomorrow's sins… We’ll never kneel before the shah!"
 
 per.42.t:0 "Iran Demands Control of Kuwait"
-per.42.desc:0 ""
-per.42.a:0 "Very Well."
+per.42.desc:0 "Worrying news from the Middle East: Iran, under the leadership of the revanchist Mohammed Reza Shah, demands complete control over Kuwait. After losing most of our oil imports from Persia, they once again want to take another territory rich in black gold from us.\nIran after getting rid of the weak Pahlavi Reza fell into civil war, and after a monarchist victory in the conflict, they put the son of the old shah on the throne. Mohammed differed from his father greatly, reclaiming a lot of old lands, which Iran lost through the years. His goal clearly is to restore Iranian hegemony over the Middle East.\nIf we act carefully, we might avoid open conflict with Iran, while also holding onto our colonies… What is our answer to the demands?"
+per.42.a:0 "Very Well then Mr. Pahlavi."
 per.42.b:0 "They can take it by force."
 
 per.43.t:0 "Iran Demands Control of Qatar"
-per.43.desc:0 ""
-per.43.a:0 "Concced the colony."
+per.43.desc:0 "An ultimatum from Tehran: hand over the peninsula of Qatar, or face the armies of Iran.\nThe territories they’re asking for aren’t large, but if we would sway before them, we would hand control over important trading routes in the Persian Gulf. Mohammed Reza Shah, the leader of Iran, seems ready to wage war against us if we dare to stop him from building his hegemony over the region. It seems that the Middle East cannot hold onto peace… What should we do?"
+per.43.a:0 "Concede the colony."
 per.43.b:0 "Throw them into the sea."
 
 per.44.t:0 "Iran Demands Control of Dubai"
-per.44.desc:0 ""
-per.44.a:0 "Conceed the colony."
+per.44.desc:0 "Another ultimatum from the Middle East: Iran demands complete control over the city of Dubai, and the territories around it. This is far from surprising, as Shah Mohammed Reza openly expressed his expansionist views and claims before. Now, he threatens military intervention, if we were to refuse his demands.\nAfter losing the oil deposits of Persia, we can’t let another oil-rich protectorate slip out of our hands… What is our answer to the Shah?"
+per.44.a:0 "Concede the colony."
 per.44.b:0 "Throw them into the sea."
 
 per.45.t:0 "Iranian Troops in Aden"
-per.45.desc:0 ""
+per.45.desc:0 "Today we received a demand from Mohammed Reza Shah: he requests that we hand the city of Aden to them, threatening military action if we don’t accept their ultimatum.\nThe Iranians are closer to their hegemony over the Middle East than ever, it wouldn’t be wise to give them such an important harbor, like Aden.\nBut Iran showed off her military prowess before, who knows if a conflict for one city would be worth it… How do we react to this ultimatum?"
 per.45.a:0 "We cannot hold on."
 per.45.b:0 "This has gone entirely too far."
 #ISR
 per.46.t:0 "Iran Seeks an Agreement"
-per.46.desc:0 ""
+per.46.desc:0 "Iran has sought to create a diplomatic alliance (officially just an agreement) to partition the small, weak polities of the Levant to our favor, especially considering our ardent rhetoric regarding our territorial claims. Tehran has offered to us all lands beyond the Euphrates, whilst we shall not touch or interfere with their territory east of the Euphrates. Should we accept?"
 per.46.a:0 "A sound plan."
 per.46.b:0 "No, we go our own way."
 
 per.47.t:0 "The Crackdown on the Clergy"
-per.47.desc:0 ""
-per.47.a:0 "Allow the Mullahs autonomy."
-per.47.b:0 "Loyalty comes before piety."
+per.47.desc:0 "Today, three mullahs were arrested in Tehran, while protesting against the secular policies of Shah Mohammed Reza.\n\nHamed Radan, a famous mullah from Isfahan, prayed in the main square of Tehran, while his supporters shouted anti-monarchist slogans, one of them even tore a flag of the Pahlavi dynasty apart. Thankfully, only a few joined the protest and the police quickly dispersed the crowd and arrested the participants.\n\nBut Radan mullah isn’t the first one to protest against the reforms of the “white revolution”. Most of the Shia clergy have expressed their objection against the westerizing efforts. Some of them are endorsing the “Fayadan-e Islam”, a radical reactionary movement, which is supposedly behind the anti-monarchist actions, such as Radan’s protest.\n\nWhile a large percentage of mullahs are against secularization, some of them realized the importance of the Shah’s efforts for progress. Mohammed Reza promised that while the radical mullahs and the backers of the Fayadan-e Islam will be silenced, those who are in line with the new policies will have nothing to fear."
+per.47.a:0 "Allow the Mullahs limited autonomy."
+per.47.b:0 "Loyalty must come before piety."
 
 per.5.t:0 "White Army Victory"
 per.5.desc:0 "The Sadabad Complex had seen better days. Once a great seat of imperial power, the main complex was a bombed-out husk. Priceless artefacts, artworks, decorations, even a burnt-out Rolls Royce. It all had been dashed to pieces and all that was left was a pile of smouldering rubble.\nAn officer walked through it, his boots crunching on bits of loose masonry as he looked around. The only red to be seen was in the bloodstained bodies of the fallen. The last red flags had been cast down and the revolution was over. Iran was safe.\nBut not without loss. Much like in the civil war of Russia, much of the old world had been destroyed. The British nor the Shah were not the ones to ultimately restore control, but at the end of the day it had been the solider. Persian or British, it was the man with a rifle in their hand, obeying the commands of his superiors.\nOne such man walked through a door that had been smashed to splinters and found several people bound and standing next to one wall. On the other side were several soldiers with rifles forming an impromptu firing squad.\nThe officer paused and asked “What are you doing?”\n“Executing these men. Looters and suspected revolutionaries. Do you want us to stop?”\nHe frowned and thought back on how he came to be here. The war was over for sure. He’d seen graveyards of broken railway locomotives on his trip back to Tehran. None of the stations his military train had passed through had their lights on. Rubble and trash everywhere, not to mention the twisted remains of artillery pieces and armoured cars.\nThe socialists had done all this. They’d destroyed his country."
 per.5.a:0 "Nothing to add, continue as you were."
 per.5.b:0 ""
 
-per.51.t:0 "모햄매드 섀흐"
-per.51.desc:0 ""
+per.51.t:0 "모햄매드 섀흐가 왕위에 오르다"
+per.51.desc:0 "Reza Khan's men may have defeated the revolutionaries, but his disgrace was completed long before that. As pressure has mounted from the British, the Shah's loyal ministers have rallied around the heir to the throne, Mohammed Reza. The Shah was presented a simple choice, allow his young son to take the throne and cast aside the British, or hold power and await the knock at the door.\nNaturally, the Shah agreed to his ministers ultimatum, and will retire in comfort as his progeny carries his legacy forwards without the harrying from London. He would be lying if he did not feel a twitch of guilt, but also jealousy. Fortune favours Mohammed Reza, may god bless his reign."
 per.51.a:0 "Shahanshah é ma zende bad"
 per.51.b:0 ""
 
 per.52.t:0 "APOC 국가"
-per.52.desc:0 ""
+per.52.desc:0 "The end of the civil war had indeed brought great celebration in Persia (although admittedly mainly from the landed nobility as opposed to any average Persian). These parties and jubilations were inspired more by the end of conflict after months of brutal fighting and the deaths of tens of thousands of soldiers and civilians alike.\n\nBut these celebrations were marred by concern and melancholy. Only the most naive of the nobility could have ignored the undertones of severe crisis within the court of the Shah. Workers and nationalists across the Persian nation were still furious at foreign domination over the Shahdom. Alongside this, the civil war had left the nation battered and bruised, countless cities had been raised to the ground by the constant barrages of shrieking artillery, famine had broken out in many parts of the country leaving as much as 200,000 dead. And perhaps most importantly, the White armies loyal to the Shah are left exhausted, short of supply and under-equipped. The Shah was all too aware that the root of absolutist power throughout history came from the authority of a standing army. With that gone however, the integrity of the Persian nation seemed vulnerable to say the least.\n\nThese fears were quickly confirmed when a few delegates from the United Kingdom and the Anglo-Persian Oil Company arrived in the court of the Shah along with an entourage of a few hundred soldiers guarding them. The delegation approached the Shah with demands to cede considerable amounts of power to the APOC in Iran as a form of guaranteed payment due to the massive debts that the Persian nation had undertaken during the Civil War. The APOC has reasoned that the conditions of Persia are so poor that the state has become functionally insolvent. In order to ensure that the APOC receives its dues, they have outlined demands which amount to Company rule over the entirety of Persia. There will be no facade of independence this time around, no slight checks and balances on the APOC’s influence.\n\nThe delegation had expected that the audience chamber would burst into outrage and fury against them as had happened so many times before, but surprisingly were met with sorrowful silence. The court knew all too well that rebellion against the APOC and Britain would be impossible. The nation had suffered too much from the civil war to offer resistance, the once proud armies of Persia were now disorganized, battered and exhausted messes. It had become all too obvious that resistance would only inflict far more suffering onto Persia.\n\nIt is because of this that the Shah and the rest of the court by only a slim margin and with a heavy heart had agreed to cede to the demands of the APOC. Persia has now been forced into the annals of history and in its place arises the relic of company rule. An idea that was thought to have been dead since the rebellions of 1858 in India. Already industrialists and Capitalists are flooding into the new corporate state in what has been termed as “The Capitalists playground”, sights of extravagant casinos, hotels, and new Civil Lines are already appearing in newspapers across the world, overshadowing the carefully discredited claims of brutal crackdowns. But such is the reality of this new state, whose principal concern is the integrity and profit of the British Empire."
 per.52.a:0 "좋아 자식들아, 드릴 굴릴 시간이다."
 per.52.b:0 ""
 
 per.521.t:0 "이란이 상품을 제시하다"
-per.521.desc:0 ""
+per.521.desc:0 "Persia, now under the control of the Anglo-Persian Oil Company, has sought to offer us mercenaries and access to incredible amounts of oil, in exchange for money, industry, and infrastructure. Shall we accept?"
 per.521.a:0 "Buy oil"
 per.521.b:0 "Buy mercenaries"
 per.521.c:0 "Buy both"
 
 per.522.t:0 "신 이란국"
-per.522.desc:0 ""
+per.522.desc:0 "As a new claimant to Persia, the APOC has considered, especially among the British sectors of government, to join the Commonwealth. However, many foreign violence specialists have sought to create a purely nonaligned polity, which seeks to secure the interests of its higher-ups, and in a way, the people of Persia. Thus, this dilemma has reached to the upper echelons of Government, which will now decide whether to request to join Britain's alliance or not..."
 per.522.a:0 "커먼웰스에 가담한다."
 per.522.b:0 "홀로 선다."
 
 per.53.t:0 "APOC가 페르시아 만을 요청하다"
-per.53.desc:0 ""
+per.53.desc:0 "For The Honourable Prime Minister’s Eyes Only\n\n“Dear  Sir Prime Minister, we first like to open this letter by informing the Anglo-Persian Oil Company (APOC) has successfully overthrown the Shah of Persia and installed a government friendly to the British Empire. This is undoubtedly the greatest victory for a company of the Empire since the East India Trading Company, and as we speak, the petroleum of Persia is being drilled and soon, the first shipment of export-tax free oil will arrive in the English ports in just a few months.\n\nWe, however, do have one simple request. The APOC desires to use the newfound knowledge to better supply the people of Britain with petroleum, therefore we humbly request the temporary possession of the British Possessions in the Arabic side of the Persian gulf, thus using our company wisdom to boost the efficiency of the extraction in these regions. Such a deal would surely benefit the all of the Empire and the people, so we urge a quick answer.\n\nSigned,\n\nChairman of the Anglo-Persian Oil Company\n\nJohn Cadman, 1st Baron Cadman.”"
 per.53.a:0 "Cheeky! But ok."
 per.53.b:0 "Cheeky! GFY."
 
 per.531.t:0 "APOC가 페르시아 만을 얻다
-per.531.desc:0 ""
+per.531.desc:0 "A fine victory for the greatest Trade Company of the British Empire! Our masters at London have graciously accepted our request to give control of their Oil-rich Possessions in the Persian Gulf, given how much better equipped to properly explore the wealth of these regions."
 per.531.a:0 "Very based."
 per.531.b:0 ""
 
 per.532.t:0 "APOC가 페르시아 만을 얻지 못하다"
-per.532.desc:0 ""
+per.532.desc:0 "How utterly bizarre.\nOur employers have denied to our request to take control of the Gulf States, in order to use our teqnique and experience to better explore the rich Oil that lies beneat the sands, and further fuel the engines of the Empire.\n\nTheir loss."
 per.532.a:0 "Not very based."
 per.532.b:0 ""
 
@@ -658,17 +815,17 @@ per.6.a:0 "혁명 만세!"
 per.6.b:0 ""
 
 per.61.t:0 "1st Session of the Worker's Council"
-per.61.desc:0 "While the civil war may have been won and the greatest struggles of the Persian worker are undoubtedly over, there is still much work to be done in consolidating control of the Socialist movement. The people that fought for the Socialist cause were unified in a desire for routing foreign domination over Persia, but this does not mean there was any form of general agreement on a specific ideology within Socialism that the Persian Revolution ought to follow. Now that the celebrations and jolities of liberation from foreign domination have begun to  subside, it is time that we address the issue of leadership.\n\nFor the first time in the nation’s history, Persia had become a true democracy. Not one fitted with the liberal illusions of democracy which seek to only keep the Capitalist in power while giving the illusion of popular will. No, Persia had become a true democracy, one where the old feudal institutions hold no sway over the worker! With such massive upheaval, we could only have hoped to follow the will of the people by holding free, nationwide elections! Naturally, reactionary parties were forbidden from running and those with connections to Pro-Shah forces were not allowed to vote either. But other than those necessary restrictions on anti-worker groups there were no restrictions on who could vote.\nThe elections had been filled with a myriad of different parties and independents. But the election was dominated by two main factions. The Jangal Party, led by Mirza Kochak Khan and the coalition calling itself the Tudeh Party led by Reza Radmanesh. The Jangal Party was originally a sepratist organisation, waging a low-level insurgency in the Northern parts of Persia, now they espouse a morenationalist rhetoric (albeit after severe denunciations of cultural chauvinism), being strong supporters of the idea that one can have pride within their nation and still yearn for the liberation of the people. The Jangal party’s aims are for the immediate development of the productive forces via industrialisation of Iran, so it may rise up from being a feudal desert, into the Tiger of the Orient and (more controversially) the decentralisation of the nation into a socialist federation of all Persian speaking people’s. This platform is further made popular among more conservative minded voters by the party refusing to take a secularist stance. Rather than hold a specific religious doctrine, the Jangal insist that Islam can and will work alongside socialism. The Tudeh meanwhile is a far newer organisation, being formed from various Socialist and Marxist councils, many of whom were the ones that fired the first shots of the Revolution and war of independence against the Anglo dogs. The Tudeh wish to re-take all the lands that broke away from Persia in the last few years while also seeking to create a new type of Socialism, a form of “Syndicalist-Agrarianism”. Unique to the material conditions of Iran. Controversially, the Tudeh also wishes to standardise the Persian language as lingua franca across minority populated regions in order to ensure that such acts of subversion cannot happen again.\n\nAnd so, after weeks of campaigning from both sides, the nation holds its breath as representatives of the worker councils walk into the First Session of the Workers Council."
+per.61.desc:0 "While the civil war may have been won and the greatest struggles of the Persian worker are undoubtedly over, there is still much work to be done in consolidating control of the Socialist movement. The people that fought for the revolution were unified in a desire for routing foreign domination over Persia, but this does not mean there was any form of general agreement on a specific ideology within Socialism that the Persian Revolution ought to follow. Now that the celebrations and jolities of liberation have begun to  subside, it is time that we address the issue of leadership.\n\nFor the first time in the nation’s history, Persia had become a true democracy. Not one fitted with the liberal illusions of democracy which seek to only keep the Capitalist in power while giving the illusion of popular will. No, Persia had become a true democracy, one where the old feudal institutions hold no sway over the worker! With such massive upheaval, we could only have hoped to follow the will of the people by holding free, nationwide elections! Naturally, reactionary parties were forbidden from running and those with connections to Pro-Shah forces were not allowed to vote either. But other than those necessary restrictions on anti-worker groups there were no restrictions on who could vote.\nThe elections had been filled with a myriad of different parties and independents. But the election was dominated by two main factions. The Jangal Party, led by Mirza Kochak Khan and a broad coalition calling itself the Tudeh led by Reza Radmanesh. The Jangal Party was originally a sepratist organisation, waging a low-level insurgency in the Northern parts of Persia, now they espouse a more nationalist rhetoric, being strong supporters of both the liberation of the people and the ideal of an Iranian Republic. The Jangal party’s aims are for the immediate development of the productive forces via industrialisation of Iran, so it may rise up from being a feudal desert, into the Tiger of the Orient. Additionally (and more controversially), the decentralisation of the nation into a socialist federation of all Iranian peoples. This platform is further made popular among more conservative minded voters by the party refusing to take a secularist stance. Rather than hold a specific religious doctrine, the Jangal insist that Islam can and will work alongside socialism. The Tudeh meanwhile is a far newer organisation, being formed from various Socialist and Marxist councils, many of whom were the ones that fired the first shots of the Revolution and war of independence against the Shah and the British. The Tudeh wish to re-take the lands that the Shahdom lost while also seeking to create a new type of Socialism, a form of “Syndicalist-Agrarianism”. Unique to the material conditions of Iran. Controversially, the Tudeh also wishes to standardise the Persian language as lingua franca across minority populated regions in order to ensure that such acts of subversion cannot happen again.\n\nAnd so, after weeks of campaigning from both sides, the nation holds its breath as representatives of the worker councils walk into the First Session of the Workers Council."
 per.61.a:0 "Form the Tudeh Party."
 per.61.b:0 "The Hezb-e Jangal forms a Government."
 
 per.62.t:0 "2nd Session of the Worker's Council"
-per.62.desc:0 ""
+per.62.desc:0 "When the second meeting of the Worker’s Council entered into session following the victory of Eskandari and the Tudeh party earlier this year, one of the more prevalent issues and divisions within the Tudeh had become apparent. Namely, the question of moderation.\nThe approach that the Tudeh had been taking to the question of the management of Persia had been one of moderation. The Tudeh since its inception had been a party that was divided into two camps. The moderates, who argue that because Persia is an agrarian and pre-industrial nation and therefore lacks a dominant industrial and urban proletariat. As a result it is imperative to push for an agrarian based platform and for agrarian reform throughout Persia. And the radical Socialists who believe that if Socialism is to be successfully developed in the nation of Persia, modernisation and industrialisation is a necessary step that must be taken in order to develop the productive forces of Persia as a whole and in doing so, secure the revolution from outside threats and advance the power of the proletariat and the standard of living in the nation as a whole.\nThe Tudeh was therefore forced to toe the line between these two groups, pursuing a more moderate platform in an attempt to reach a settlement between the two factions. In the days before the civil war, this division had not been as dominant. But now, with no immediate foe to unify against, the question of moderation has come up once again, with the current path that Eskandari and the Tudeh had been taking failing to satisfy neither party. The discontent is at this stage so great that the moderates have threatened to split the party if their demands for the addressing of agrarian concerns are not addressed in the next set of economic plans.\n\nEskandari has therefore mandated the total recall of all ministers back to their respective councils, to ensure that there is accurate representation of the will of the councils as a whole. After this process is complete, for now it remains to be seen which of these factions shall end up dominating the Worker’s Councils, but whoever the victor may be, it is certain that the destiny of Tudeh shall be radically altered."
 per.62.a:0 "Maintain moderate platform."
 per.62.b:0 "Encourage more drastic measures."
 
 per.7.t:0 "Constitutional Talks"
-per.7.desc:0 ""
+per.7.desc:0 "Following the dominance of the Jangal after the 1st Session of the Worker’s Council, one of the major debates has been over the path that the Jangal, and consequently, Persia will take. While there has been much agreement over the importance of nationalism, whilst rejecting racial and cultural chauvinism, as a means of serving the revolution and resisting imperialism. There has been much disagreement over the extent that nationalism must be considered and elevated within Persia in relation to Socialism.\n\nMore nationalist factions within the Jangal have argued that as Persia has only ever really developed Feudalism and has not yet even come close to the adoption of Capitalism as the primary mode of production. The countryside is dominated by outdated forces of production such as hand held tools and draft animals, few cities have access to modern industrial production and the situation is generally speaking, totally backwards. Therefore, the current path that the Jangal is taking, of purging and dissolving the Bourgeoisie classes within the nation, is deeply flawed and problematic. These factions preach for working with the National Bourgeoisie to develop the productive forces of Persia and from there establish a Socialist nation.\nMore Orthodox groups within the Jangal however have denounced the nationalist factions of the Jangal as revisionists and even counter-revolutionaries. Citing the fact that the entrusting of the development of the nation to working with the bourgeoisie risks the relapsing of the revolution towards Capitalism as opposed to building a secure road towards Socialism. Orthodox Socialist factions have also argued that a great leap forward from feudalism to Socialism has been proven to be possible, as was observed from the nation of Hungary under the leadership of Leninists such as Bela Kun or the Socialist movements within Bulgaria, who had come from a largely feudal and proto-capitalist condition into a Socialist one within just one or two decades.\nThere are still however many elected representatives that have yet to side with one faction. This lack of a clear majority has led to a small crisis, leading to Mirza Kochak Khan calling for an election within parliament  within the month, with no option to abstain. The decision has been controversial as it was decisive, with protests and complaints being quickly raised in parliament. Nevertheless, the government has made up its mind and all eyes rest on the Jangal to see the road that it will take."
 per.7.a:0 "Nation before class."
 per.7.b:0 "Class before nation."
 #RSR
@@ -678,17 +835,17 @@ per.71.a:0 "Accept."
 per.71.b:0 "Reject."
 #3rdINT'L
 per.8.t:0 "Councilist Iran's Membership Request"
-per.8.desc:0 ""
+per.8.desc:0 "Iran, a formerly backwards land in a hellish feudalist system, has finally broken its chains as a people and risen to the privilege of being one of few nations to participate in the International revolution. Yet, it appears that they haven't been formally adopted into our socialist alliance. Whilst some argue that Iran is not ready to the full commitments of being a member, others argue that we should wholehartedly embrace every attempt at socialism, even if it's from a backwards nation in the Middle East."
 per.8.a:0 "Allow them full membership."
 per.8.b:0 "Give them a limited role."
 
 per.81.t:0 "German-Iranian Treaty Signed"
-per.81.desc:0 ""
+per.81.desc:0 "Iran has been formally signed into the Internationale as a full-time member, now deeply intertwined with one another - as celebrations occur in Tehran and Berlin, both nations begin plans to help defend one another."
 per.81.a:0 "Comrades in arms!"
 per.81.b:0 ""
 
 per.82.t:0 "German-Iranian Commitments Signed"
-per.82.desc:0 ""
+per.82.desc:0 "Germany, reluctant with the way they would defend Iran from outside agressors, sent a telegram today that they will not allow full-time membership, but that Iran is completely welcome to represent its nation in the congresses of the Third International."
 per.82.a:0 "It will have to do."
 per.82.b:0 ""
 
@@ -699,6 +856,7 @@ PER_ashes_of_greatness_desc:0 "The overthrow of the Qajars was supposed to halt 
 
 PER_more_concessions_to_the_british:0 "런던을 위한 추가 양보안"
 PER_more_concessions_to_the_british_desc:0 "Expanding the Gulf Concessions and reducing the Persian Government's oil revenues is not a choice the Persians like, but it is the position of APOC all the same."
+
 PER_take_more_debts_once_again:0 "Take More Debts Once Again"
 PER_take_more_debts_once_again_desc:0 "Paying for the army, the reconstruction in the 20's and for new industry and infrastructure has cost the treasury dearly. The turmoil of Turkestan, India and more have made international trade ties all the worse. Our debts are mounting and we may need more to pay for further modernisation policies."
 
@@ -742,22 +900,22 @@ PER_pearsa_braa_aaranaan:0 "Pearsi braa irani"
 PER_pearsa_braa_aaranaan_desc:0 "Persia, the exonym for the Shahdom represents the colonial history and humiliation of the past, the new Persia will go by the endonym - Iran."
 
 PER_a_new_shah_for_a_new_age:0 "A New Shah For a New Age"
-PER_a_new_shah_for_a_new_age_desc:0 "Times of Reza Shah has come to an end. He is too old to properly rule the state he was given. All this suffering is all his fault. It is time to crown the new Shah. One who will lead Persia into new brighter future. All hail Mohammed Reza Pahlavi. All hail the new Shah."
+PER_a_new_shah_for_a_new_age_desc:0 "The rule of Reza Shah has come to an end. He is too old to properly rule the state he was given. All this suffering is all his fault. It is time to crown the new Shah. One who will lead Persia into new brighter future. All hail Mohammed Reza Pahlavi. All hail the new Shah."
 
 PER_get_the_hell_out_of_here:0 "Get the Hell out of Here"
-PER_get_the_hell_out_of_here_desc:0 "Iranian soil belong to Iranian people. Brits occupy its soil should be thrown to waters they belong in. Let them rot in their marshes. Iranian is no slave of western power."
+PER_get_the_hell_out_of_here_desc:0 "Iranian soil belongs to Iranian people. The Brits occupying its soil should be thrown to gulf where they belong. Iran is no longer a slave to western powers."
 
 PER_nationalise_apoc:0 "Nationalise APOC"
-PER_nationalise_apoc_desc:0 "Anglo-Persian oil company. Bane of our existence. Taking our resources while not giving anything in return. They are a filthy parasite. And what you do with parasite that is inside your body? You kill it."
+PER_nationalise_apoc_desc:0 "Anglo-Persian oil company. Bane of our existence. Taking our resources while not giving anything in return. They are a filthy parasite. And what do you do with a parasite that is inside your body? You kill it."
 
 PER_restore_persian_national_council:0 "Restore Persian National Council"
-PER_restore_persian_national_council_desc:0 "While Persia is an absolute monarchy, many even within forces of our loyalists want a parlamental body. Saying that If it existed Persia would not have fallen from grace. And civil war may have been avoided. Yes, those voices must be given what they want."
+PER_restore_persian_national_council_desc:0 "While Persia is a monarchy, many even within the loyalist forces want a parliamentary body. Saying that if it had existed Persia would not have fallen from grace, and the civil war may have been avoided. This opinion is shared even among the Shah's closest supporters, of course such a body would exist to compliment the Shah's rule, and not to confound it."
 
 PER_create_savak:0 "Create SAVAK"
-PER_create_savak_desc:0 "To secure Persia from new revolution or hands of western imperialists. New structure must be created. SAVAK or National organisation for Security and Intelligence. Everything must be done to secure Shahs rule, so SAVAK shall be given ultimate authority over anything that happens inside the state, besides the Shah himself of course."
+PER_create_savak_desc:0 "To secure Persia from new revolution or the hands of western imperialists, a new structure must be created. SAVAK or National Oganisation for Security and Intelligence. Everything must be done to secure the Shahs rule, so SAVAK shall be given far-reaching powers over state security, answerable only to the national council and the Shah himself of course."
 
 PER_only_the_rastakhiz_party:0 "Only the Shahist Party"
-PER_only_the_rastakhiz_party_desc:0 "While Persia now has the national council, that does not mean that all parties shall be allowed. Under the order of Shah all nationalist and centre, centre-right parties shall be united into one Shahist party. A party loyal only to Shah himself."
+PER_only_the_rastakhiz_party_desc:0 "While Persia now has the national council, that does not mean that all parties shall be allowed. Dangerous elements must be prohibited and only the loyalist parties shall be allowed to remain on the council."
 
 PER_persian_modernisation:0 "Persian Modernisation"
 PER_persian_modernisation_desc:0 "For centuries, Persia was slowly draging its body behind european powers. We became the backwater of the civilised world. But now it is time to rectify it. Strict adherence Islam has proven itself to stunt national development so it must be forsaken."
@@ -778,7 +936,7 @@ PER_adopt_european_doctrines:0 "Adopt European Doctrines"
 PER_adopt_european_doctrines_desc:0 "While european armies are not as old as ours, they have proven to be effective against our and other civilised troops. We need to adopt their doctrines to improve ourselves."
 
 PER_wfadar_fqt_bh_aaran:0 "Wfadar fqt bh iran"
-PER_wfadar_fqt_bh_aaran_desc:0 ""
+PER_wfadar_fqt_bh_aaran_desc:0 "The most important thing in an army is not the numbers of the equipment, but whether the soldiers are willing to die for our nation. Our army is vast, filled with countless ethnicities, but they all fight and die for one thing: The glory of Iran."
 
 PER_build_an_empire_of_our_own:0 "Build an Empire of Our Own"
 PER_build_an_empire_of_our_own_desc:0 "While we shall not desire much in our ambitions. We were still an empire and Shah plans to transform us into great state once more. We shall bring back our brethren Afghanistan and push western borders up to Euphrates. Persian lion roars once again!"
@@ -790,7 +948,7 @@ PER_shahs_new_railway_expansion:0 "Shah's New Railway Expansion"
 PER_shahs_new_railway_expansion_desc:0 "Before anything else we need to improve infrastructure. For what nation can lead if it cannot even move in its own territory fast enough?"
 
 PER_eliminate_internal_threats:0 "Eliminate Internal Threats"
-PER_eliminate_internal_threats_desc:0 ""
+PER_eliminate_internal_threats_desc:0 "Spies, Dissidents, Revolutionaries, Islamists. There’s no shortage of groups and people that want to undermine Imperial rule. Yes, we must keep an eye on the people, and then quietly or loudly silence those who speak against the Shah."
 
 PER_great_aryamehr:0 "Great Aryamehr"
 PER_great_aryamehr_desc:0 "Light of the Aryans - Our Shah is not one of those petty kings that west has. He is king of all kings. Born to rule our people, to be the light that shines in the darkness. Like Prometheus he shall bring fire of new age to us. May his reign be eternal!"
@@ -805,37 +963,37 @@ PER_strike_back_at_the_empire:0 "Strike Back at the Empire"
 PER_strike_back_at_the_empire_desc:0 "The British, perifidous Anglos have held power in the gulf for long enough. Now its time for us to strike against their evil empire and return what is lost to their tyranny. We do not care for anything else just for the British to go."
 
 PER_protect_against_foreign_interests:0 "Protect Against Foreign Interests"
-PER_protect_against_foreign_interests_desc:0 ""
+PER_protect_against_foreign_interests_desc:0 "Our nation has been utterly humiliated by foreigners who sought to undermine its greatness, through strongarming our government into debt and misery. It is key that we secure our interests first, as opposed to the interests of foreigners first."
 
 PER_the_eye_of_cyrus:0 "The Eye of Cyrus"
-PER_the_eye_of_cyrus_desc:0 ""
+PER_the_eye_of_cyrus_desc:0 "It has been proven to us time and time again that our people cannot be left fending for themselves. To show ourselves as a world power, and thus defend ourselves against any attempt to undo our sovereignity again. The plan to do this is called the Eye of Cyrus, which seeks to build a program to use radioactive energy to destroy cities in one go. It is brutal - but for Persia, we will do anything."
 
 PER_remove_uncooperative_diplomats:0 "Remove Uncooperative Diplomats"
-PER_remove_uncooperative_diplomats_desc:0 ""
+PER_remove_uncooperative_diplomats_desc:0 "A diplomat’s job is to be the mouth of our country’s interests abroad. However, some of them want to speak something else, things that go against the interests of the country or at very least, undermine them. A very simple task that can be solved with dismissals, reassignments, and of course, the promotion of loyal emissaries."
 
 PER_negotiate_a_new_paradigm:0 "Negotiate a New Paradigm"
-PER_negotiate_a_new_paradigm_desc:0 ""
+PER_negotiate_a_new_paradigm_desc:0 "Despite all odds, the Jewish people once again have a homeland. The Persians and the Jews always had such friendly relations since antiquity, so it’s simply natural that we should be once again Friends in this harsh world."
 
 PER_secure_the_white_revolution:0 "Secure the White Revolution"
-PER_secure_the_white_revolution_desc:0 ""
+PER_secure_the_white_revolution_desc:0 "It’s a tried and true method. The best way to avoid a violent revolution that demands more rights is not by shooting everyone who protests, but by giving exactly what the people demand. We must cultivate the image of a People’s Monarchy, one that truly cares for the people, and thus, the ever-present Socialists would have no reason nor support to overthrow the Shah."
 
 PER_advance_womens_rights:0 "Advance Women's Rights"
-PER_advance_womens_rights_desc:0 ""
+PER_advance_womens_rights_desc:0 "The Achaemenids were indeed a forward-thinking state, especially for the standards of the Iron Age, but much of these rights were lost with the repeated conquests of the Persian dynasties. In a world that demands freedom for the people, we could easily exploit our past to give more rights to Women, and distinguish ourselves as a progressive state. Who says a Monarchy needs to be repressive?"
 
 PER_denounce_the_reactionaries:0 "Denounce the Reactionaries"
-PER_denounce_the_reactionaries_desc:0 ""
+PER_denounce_the_reactionaries_desc:0 "Despite our best efforts, there are people who don’t believe the Shah to be anything less than an autocratic figure. And of course, there are people, most of them Islamists, who WANT the Shah to be an autocratic figure. This is nothing a few demotions, reassignments and smear campaigns can’t fix."
 
 PER_guard_the_straits_of_hormuz:0 "Guard the Straits of Hormuz"
-PER_guard_the_straits_of_hormuz_desc:0 ""
+PER_guard_the_straits_of_hormuz_desc:0 "There is no more important place in our coast than the Strait of Hormuz, it’s a gateway to India and the rest of the Gulf, and thus it’s defenses from invasion should be a priority. The city of Bandar Abbas will be fortified, Hormuz and Larak will have permanent coastal batteries installed, Qeshm island will have a base ready for anything that attempts to attack us. The strait must be impenetrable. Simple as that."
 
 PER_fund_the_imperial_air_force:0 "Fund the Imperial Air Force"
-PER_fund_the_imperial_air_force_desc:0 ""
+PER_fund_the_imperial_air_force_desc:0 "The armies of Persia shook the world countless times, but now times have changed, and to win a war, one needs a strong presence in the sky as well. Fortunately, the Shah is quite fond of aircraft designs, so he will work closely with engineers to deliver a powerful air force, with an Persian twist, of course."
 
 PER_fortify_the_gulf:0 "Fortify the Gulf"
-PER_fortify_the_gulf_desc:0 ""
+PER_fortify_the_gulf_desc:0 "The British have possessions across the Persian Gulf, and being the Empire that “Rules the Waves”, they could invade our country from them at any time, despite not getting the hint in the Gulf’s name. We need to fortify our coast. The Zagros Mountains would be tough for any invading force to break through, so the coastal fortifications should be concentrated on the Khuzestan Plains, and the vital port city of Bushehr."
 
 PER_diversify_the_economy:0 "Diversify the Economy"
-PER_diversify_the_economy_desc:0 ""
+PER_diversify_the_economy_desc:0 "Our economy's main mistake was depending too much on our black gold - we need to instead make sure our economy won't collapse by any future events in which our oil wells dry up, or if their lands are - God forbid, taken from us. Thus, we shall expand mining industries of several resources, and perhaps even open up to more tourism, too."
 
 #APOC
 
@@ -858,10 +1016,10 @@ PER_start_exploration_in_the_north:0 "Start Exploration in the North"
 PER_start_exploration_in_the_north_desc:0 "With existence of oil fields near Baku, it is entirely possible that parts of Persia bordering the caspian sea are also incredibly rich in the black gold. Expeditions must be started immediately."
 
 PER_social_lubrication:0 "Social Lubrication"
-PER_social_lubrication_desc:0 ""
+PER_social_lubrication_desc:0 "It is imperative that we avoid any unprofitable sources of friction with the population... or make sure such issues are filed away in short order. A careful review of the existing laws and a relaxation of the demands on the population, will serve this end, as will offering some long-term contracts to certain professionals among our rapidly growing mercenary community."
 
 PER_liberalise_labour_policies:0 "Liberalise Labour Policies"
-PER_liberalise_labour_policies_desc:0 ""
+PER_liberalise_labour_policies_desc:0 "Liquidating certain obsolescent pseudo-feudal laws related to land tenure and labor levies will allow us to earn some goodwilla among the rural masses, and also create a much more flexible labor pool far better suited to a modern industrial economy."
 
 PER_disband_the_persian_army:0 "Disband the Persian Army"
 PER_disband_the_persian_army_desc:0 "The Iranian army proved itself to be highly unreliable during the Civil War, with many soldiers and officers deserting their posts, or even defecting to the Reds. Our own combat specialists preformed far better – in comparison, the Iranian Army is practically a liability, and a political risk besides. Now that we’re directly responsible for their wages, keeping them on the payroll is more trouble than it’s worth."
@@ -885,16 +1043,16 @@ PER_sell_to_whoever_can_pay:0 "Sell to Whoever Can Pay"
 PER_sell_to_whoever_can_pay_desc:0 "No matter your ideology, no matter your views, no matter your race, no matter your faith. You need oil and have money, we will sell. The higher the price the higher the quality of this perfect black gold."
 
 PER_in_europe:0 "In Europe"
-PER_in_europe_desc:0 ""
+PER_in_europe_desc:0 "Europe is a troubled land, plagued by strange ideas, civil conflict in Russia, the rapacious red huns, and worst of all, the French. In such times, it comes as no surprise that fuel is in high demand, and more than a few men with very specific skills are seeking new frontiers to make a new beginning."
 
 PER_in_the_americas:0 "In the Americas"
-PER_in_the_americas_desc:0 ""
+PER_in_the_americas_desc:0 "While the Americas have no great shortage of oil deposits, we have a number of more specialized products and services, which might be greater demand in the troubled lands of the New World."
 
 PER_in_asia:0 "In Asia"
-PER_in_asia_desc:0 ""
+PER_in_asia_desc:0 "The global east, as much as it has sought to maintain independence with the rest of the World, has nonetheless fallen to tensions and divisions amongst ideological and cultural grounds. We can exploit this, helping them out with tank experiments or perhaps even sending a few soldiers to help capture a city, who knows!"
 
 PER_excelsior:0 "Excelsior!"
-PER_excelsior_desc:0 ""
+PER_excelsior_desc:0 "The peak of our little experiment in Persia, one that seeks to bring a beacon of wealth in a land of backwardsness - has succeeded. We are nothing short of perfection in our modus operandi, and our clients are extremely pleased. Carry on, good folks of the World! You will never run out of oil!"
 
 PER_feed_the_furnaces:0 "Feed the Furnaces"
 PER_feed_the_furnaces_desc:0 "Some Yank once said war is a racket – and he was right. With the sorry state of the world, the arms trade is growing more profitable by the day. With our global business reach and ubiquitous shipping presence, we have an opportunity to rapidly develop a state-of the art military-industrial complex without cutting into our bottom line."
@@ -948,13 +1106,13 @@ PER_gulf_exploration:0 "만 탐험"
 PER_gulf_exploration_desc:0 ""
 
 PER_pay_off_royalists:0 "왕당파 보상"
-PER_pay_off_royalists_desc:0 ""
+PER_pay_off_royalists_desc:0 "The Monarchy is now irrelevant to the interests of the Company, and it is in the interest of the remaining relevant officers in Persia, especially native ones, to do away with loyalties to the former Monarchy. Now, whilst this would be hard through complex conversations, it can be made much, much easier through bribes."
 
 PER_soldiers_of_fortune:0 "용병들"
-PER_soldiers_of_fortune_desc:0 ""
+PER_soldiers_of_fortune_desc:0 "It has become clear that we've fended off against war in our shores. Our surrounding nations have no animosity or claims against us, and our lands find themselves in immense peace. Therefore, to maintain our economy lubricated and going perfectly, we should be using up all these mercenaries coming here to maintain order as soldiers across the World's conflicts, receiving lots of money and glory - of course, with a little share to us."
 
 PER_desert_tigers:0 "사막의 범들"
-PER_desert_tigers_desc:0 ""
+PER_desert_tigers_desc:0 "A group of experienced veterans and young upstarts from America have arrived here, seeking to gain wealth and explore exotic lands. Let us accomodate them as good friends of the Company."
 
 PER_investigate_strategic_deterrence:0 "Investigate Strategic Deterrence"
 PER_investigate_strategic_deterrence_desc:0 "Standing armies are expensive, especially the portion which we cannot deploy on profitable oversees contracts. Historically, the need for a defensive army is unquestionable, but recently we have heard something interesting.  New weapons, so destructive as to render any possible aggression too costly to continence. While this seems far-fetched, this possibility is too tempting to pass up all-together."
