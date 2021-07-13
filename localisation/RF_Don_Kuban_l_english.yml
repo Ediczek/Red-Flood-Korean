@@ -1,18 +1,19 @@
 ﻿l_english:
-#COUNTRY NAME#
 
+#COUNTRY NAME
 DKB_subject:0 "남동연합"
-#PARTIES#
+
+#PARTIES
 DKB_vanguard_socialism_party:0 "금지정당"
 DKB_vanguard_socialism_party_long:0 "남동 러시아 사회민주노동당 (트로츠키주의)"
-DKB_libertarian_marxism_party:0 "금지정당"
-DKB_libertarian_marxism_party_long:0 "남동 러시아 사회민주노동당"
-DKB_revolutionary_anarchism_party:0 "금지정당"
-DKB_revolutionary_anarchism_party_long:0 "남동 좌익인민주의 조직"
+DKB_popular_socialism_party:0 "금지정당"
+DKB_popular_socialism_party_long:0 "남동 러시아 사회민주노동당"
+DKB_anarchism_party:0 "금지정당"
+DKB_anarchism_party_long:0 "남동 좌익인민주의 조직"
 DKB_revisionist_socialism_party:0 "PSR"
 DKB_revisionist_socialism_party_long:0 "사회주의 혁명당"
-DKB_social_democratism_party:0 "TNSP"
-DKB_social_democratism_party_long:0 "노동인민사회주의당"
+DKB_progressivism_party:0 "TNSP"
+DKB_progressivism_party_long:0 "노동인민사회주의당"
 DKB_liberalism_party:0 "카데츠"
 DKB_liberalism_party_long:0 "입헌민주당"
 DKB_conservatism_party:0 "NDS"
@@ -27,10 +28,12 @@ DKB_accelerationism_party:0 "스키티아주의파"
 DKB_accelerationism_party_long:0 "전스키티아 민족농민녹색당"
 DKB_despotism_party_dynamic:0 "흑해파/전열파"
 DKB_despotism_party_dynamic_long:0 "흑해파/전열파"
-#LEADER DESCRIPTIONS#
+
+#LEADER DESCRIPTIONS
 POLITICS_KALEDIN_DESC:0 "칼리딘은 러시아 제국 내 돈 카자키 자치권 유지에 기여하는 데 자긍심을 가집니다. 대부분의 러시아인들이 카자크의 생활방식에 무지하기에, 칼리딘은 자신의 영역 안에서 카자크의 정신이 살아있음을 다행으로 여기고 있습니다. 하지만 이 가냘픈 평화는 러시아 제국의 가냘픈 정치에 달린 것이며, 그것이 얼마나 오래갈 진 아무도 모릅니다."
 DKB_DESC_MENU:0 "내전의 발발로써, 카자크군들과 여러 지역정치체의 총합으로 주로 구성된 남동연합은 탄생하게 되었습니다. 늙고 신망 받는 장군 알렉세이 칼리딘이 이끄는 연합은 볼가 강의 가뭄 직후 이어진 1921년의 기근이 가장 큰 화제가 될 정도로 내전의 혼란에서 그나마 몸을 피할 수 있었습니다. 그 이후로 칼리딘은 주어진 만큼의 통제권을 자신의 작은 영토 안에서 유지하며, 농업 및 산업발전을 통해 연합을 부강하게 만들었습니다. 하지만 1935년 노동파업의 결과들이 러시아 전역을 강타하게 되었으니, 칼리딘 역시 마주하게 된 사안들에 대해 목소리를 내라 강제당할 것입니다."
-#IDEAS#
+
+#IDEAS
 DKB_ukrainian_education:0 "우크라이나어 교육"
 DKB_ukrainian_education1:0 "우크라이나어 교육"
 DKB_ukrainian_education2:0 "우크라이나어 교육"
@@ -94,7 +97,15 @@ DKB_Aleksandr_Utin_cair:0 "알렉산드르 우틴"
 DKB_Vasily_Bibikov_cair:0 "바실리 비비코프"
 DKB_Fyodor_Bekovich_Cherkassky_theo:0 "표도르 베코비치-치르카스키"
 DKB_Mykola_Bukretov_theo:0 "미콜라 부크레토우"
+
 #CUSTOM TOOLTIPS AND FLAGS#
+DKB_chernomortsy_alone:0 "Chernomortsy are dominant."
+DKB_chernomortsy_lineytsy_coalition:0 "Kaledin stays in power."
+DKB_lineytsy_alone:0 "Lineytsy take the lead."
+DKB_grabbe_wins:0 "Grabbe is victorious."
+DKB_chernomortsy_scythists_coalition:0 "Chernomortsy and Scythists form a disastrous coalition."
+DKB_scythists_alone:0 "Scythists seize power."
+DKB_gorgulov_wins:0 "Gorgulov is victorious."
 DKB_RETURN_TO_SICH_TT:0 "§Y우크라이나§! 가담 디시전을 해제합니다."
 DKB_JOIN_INRERMARIUM_TT:0 "§Y인테르마리움§! 가담 디시전을 해제합니다."
 DKB_RUSSIAN_COUSINS_TT:0 "§Y러시아§!와의 동맹 디시전을 해제합니다."
@@ -113,6 +124,7 @@ DKB_CONQUER_EURASIA_TT:0 "§Y우리의 외교§!란에 디시전들을 추가합
 DKB_missing:0 "In Hiding"
 
 DKB_collapse_flag:0 "남동연합은 끝났습니다."
+
 #DECISIONS (1.5 Update)#
 DKB_diplomatic_decisions:0 "우리의 외교"
 DKB_return_to_sich_decision:0 "Return to Sich"
@@ -129,7 +141,8 @@ DKB_gorgulov_germany:0 "독일 종속화"
 DKB_gorgulov_sweden:0 "스웨덴 종속화"
 DKB_gorgulov_japan:0 "일본 종속화"
 DKB_gorgulov_britain:0 "영국 종속화"
-#FOCUSES#
+
+#FOCUSES
 DKB_krug_gathering:0 "Krug 소집"
 DKB_krug_gathering_desc:0 "Times are changing in Russia and in Europe, and it’s finally time for all of the factions in the confederation to convene and decide what’s best for the hosts. The Chernomortsy, Lineytsy, Kaledintsy, and even the fringe Gorgulovites will be invited, and will all collectively decide what the cossacks need: to continue with Kaledin and stay the course? To come closer to the new nation of Ukraine, and liberalize the nation? To drift back to Russia, centralize the state, and stay loyal to the capital? Or to tear it all down, and embrace a path of neo-Scythian conquest?"
 DKB_chernomortsy_victorious:0 "승리한 흑해파"
@@ -341,7 +354,8 @@ DKB_air_innovation_2:0 "Air Innovations II"
 DKB_air_innovation_2_desc:0 "Every advantage we can gain in the skies is precious. We should focus all of our efforts on developing our fighters."
 DKB_naval_air_effort:0 "Naval Air Effort"
 DKB_naval_air_effort_desc:0 "The efficacy of air strikes against naval targets was demonstrated by the Americans already back in 1921. We should not neglect this branch of the Air Force if we intend to wage war on a naval power."
-#EVENTS#
+
+#EVENTS
 dkb.1.t:0 "러시아의 작은 연옥 한 쪽"
 dkb.1.desc:0 "It is currently the Year of our Lord Nineteen Hundred and Thirty-Six. Although the saints have seen fit to preserve Holy Russia for the time being, its politics are frayed to a near-breaking point, and the Southeastern Union is no different. Governed by Don Cossack cavalry general Alexei Kaledin, the Southeastern Union is one of the few places in the Russian Empire which is governed by a leader from the local ethnic group. Still, however, many Cossacks yearn for an end to Russian rule, and the significant Ukrainian minority in the region is also making itself known. There are even whispers of men both within and without the government who seek to restore the ancient Scythian Empire… and while this is obviously ridiculous, the rumors are far too prevalent to be ignored. Such disunited politics, as well as a general disagreement over an ethnic identity for the Southeastern Union, have earned this warlord state the title, “Russia's Little Slice of Limbo”, as the area seems in constant danger of becoming something brand new at any moment, and can't stick to one identity.\n\nEven as Kaledin continues to rule with an iron fist, he knows that time is running short for him and his band of merry men. All that it would take for the entire region to go up in flames is one false move or freak accident which could send the entire empire into collapse. And although Kaledin knows these things, he is determined to protect his realm and his people, just as he always has, down to his last breath."
 dkb.1.a:0 "What the general may not know, is that his last breath may come sooner than he expects..."
