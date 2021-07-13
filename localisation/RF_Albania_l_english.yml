@@ -1,7 +1,38 @@
 ﻿l_english:
-
+ALB_anarchism:0 "알바니아 자유령"
+ALB_anarchism_DEF:0 "알바니아 자유령"
+ALB_anarchism_ADJ:0 "알바니아"
+ALB_vanguard_socialism:0 "알바니아 인민국"
+ALB_vanguard_socialism_DEF:0 "알바니아 인민국"
+ALB_vanguard_socialism_ADJ:0 "알바니아"
+ALB_popular_socialism:0 "알바니아 평의회 공화국"
+ALB_popular_socialism_DEF:0 "알바니아 평의회 공화국"
+ALB_popular_socialism_ADJ:0 "알바니아"
+ALB_revisionist_socialism:0 "알바니아 코뮌 공화국"
+ALB_revisionist_socialism_DEF:0 "알바니아 코뮌 공화국"
+ALB_revisionist_socialism_ADJ:0 "알바니아"
+ALB_progressivism:0 "알바니아"
+ALB_progressivism_DEF:0 "알바니아"
+ALB_progressivism_ADJ:0 "알바니아"
+ALB_liberalism:0 "알바니아"
+ALB_liberalism_DEF:0 "알바니아"
+ALB_liberalism_ADJ:0 "알바니아"
+ALB_conservatism:0 "알바니아"
+ALB_conservatism_DEF:0 "알바니아"
+ALB_conservatism_ADJ:0 "알바니아"
+ALB_right_authoritarianism:0 "알바니아"
+ALB_right_authoritarianism_DEF:0 "알바니아"
+ALB_right_authoritarianism_ADJ:0 "알바니아"
+ALB_despotism:0 "알바니아"
+ALB_despotism_DEF:0 "알바니아"
+ALB_despotism_ADJ:0 "알바니아"
+ALB_reactionism:0 "알바니아"
+ALB_reactionism_DEF:0 "알바니아"
+ALB_reactionism_ADJ:0 "알바니아"
+ALB_accelerationism:0 "알바니아"
+ALB_accelerationism_DEF:0 "알바니아"
+ALB_accelerationism_ADJ:0 "알바니아"
 #PARTIES#
-
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
