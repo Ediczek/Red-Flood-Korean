@@ -1,21 +1,23 @@
 ﻿l_english:
+#COUNTRY NAME#
+
 
 #PARTIES#
 NIC_vanguard_socialism_party:0 "PCN"
-NIC_libertarian_marxism_party:0 "PSN"
-NIC_revolutionary_anarchism_party:0 "PAN"
+NIC_popular_socialism_party:0 "PSN"
+NIC_anarchism_party:0 "PAN"
 NIC_revisionist_socialism_party:0 "PSN-C"
-NIC_social_democratism_party:0 "PSD"
+NIC_progressivism_party:0 "PSD"
 NIC_liberalism_party:0 "PLN"
 NIC_conservatism_party:0 "PLN-C"
 NIC_right_authoritarianism_party:0 "긴급행정부"
 NIC_despotism_party:0 "UFC"
 NIC_reactionism_party:0 "UFC"
 NIC_vanguard_socialism_party_long:0 "나카라과 공산당"
-NIC_libertarian_marxism_party_long:0 "니카라과 사회주의당"
-NIC_revolutionary_anarchism_party_long:0 "니카라과 아니키스트당"
+NIC_popular_socialism_party_long:0 "니카라과 사회주의당"
+NIC_anarchism_party_long:0 "니카라과 아니키스트당"
 NIC_revisionist_socialism_party_long:0 "니카라과 사회주의당 - 천주교"
-NIC_social_democratism_party_long:0 "니카라과 사회주의당"
+NIC_progressivism_party_long:0 "니카라과 사회주의당"
 NIC_liberalism_party_long:0 "니카라과 자유당"
 NIC_conservatism_party_long:0 "니카라과 자유당 - 보수파"
 NIC_right_authoritarianism_party_long:0 "미합중국 지원 긴급행정부"
