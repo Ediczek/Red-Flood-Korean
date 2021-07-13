@@ -1,14 +1,11 @@
 ﻿l_english:
 #COUNTRY NAME#
-PRU_great_runas_accelerationism:0 "대루나스"
-PRU_great_runas_accelerationism_DEF:0 "대루나스 왕국"
-PRU_great_runas_accelerationism_ADJ:0 "거울"
+#COUNTRY NAME#
+
 #PARTIES#
 PRU_accelerationism_party:0 "타완티수유 부흥"
 PRU_accelerationism_party_long:0 "타완티수유 부흥"
 
-PRU_great_runas_accelerationism_party:0 "피카소회"
-PRU_great_runas_accelerationism_party_long:0 "피카소회"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
