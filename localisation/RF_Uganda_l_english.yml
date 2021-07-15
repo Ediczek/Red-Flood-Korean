@@ -7,9 +7,9 @@
 UGD_guerilla_warfare:0 "유격전"
 UGD_guerilla_warfare_desc:0 ""
 #CUSTOM TOOLTIPS AND FLAGS#
-UGD_east_africa_libertarian_marxism:0 "동아프리카 인민공화국"
-UGD_east_africa_libertarian_marxism_DEF:0 "동아프리카 인민공화국"
-UGD_east_africa_libertarian_marxism_ADJ:0 "동아프리카"
+UGD_east_africa_popular_socialism:0 "동아프리카 인민공화국"
+UGD_east_africa_popular_socialism_DEF:0 "동아프리카 인민공화국"
+UGD_east_africa_popular_socialism_ADJ:0 "동아프리카"
 
 #DECISIONS (1.5 Update)#
 #FOCUSES#
