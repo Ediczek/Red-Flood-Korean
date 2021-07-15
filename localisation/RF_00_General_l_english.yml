@@ -488,7 +488,7 @@ rf.political.2.a:0 "Great!"
 
 
 ### Generic Focus Localisation ###
-WHILE_FOCUSING:0 "While focusing on this, there will be the following effects:\n$EFF$"
+WHILE_FOCUSING:0 "해당 중점을 완료하는 동안 다음의 효과를 받습니다:\n$EFF$"
 generic_focus:0 "국가중점"
 NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE:0 "해당 선택안들은 상치됩니다."
 NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC:0 "다음 선택지와 상치: "
@@ -665,5 +665,5 @@ generic_welfare_idea_desc:0 "We are ensuring that the poorest in our society rec
 black_monday:0 "검은 월요일"
 
 independent_war:0 "독립전쟁"
-independent_war_desc:0 "This country is currently in a independent war. It does not want other countries to get involved directly in the war."
+independent_war_desc:0 "이 나라 현재 독립전쟁 중입니다. 타국이 전쟁에 직접 개입하길 바라지 않을 것입니다."
 
