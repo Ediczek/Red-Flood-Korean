@@ -1,24 +1,24 @@
 ﻿l_english:
 #COUNTRY NAME#
-YUG_revolutionary_anarchism:0 "유고슬라비아 코뮌"
-YUG_revolutionary_anarchism_DEF:0 "유고슬라비아 코뮌"
-YUG_revolutionary_anarchism_ADJ:0 "유고슬라비아"
+YUG_anarchism:0 "유고슬라비아 코뮌"
+YUG_anarchism_DEF:0 "유고슬라비아 코뮌"
+YUG_anarchism_ADJ:0 "유고슬라비아"
 
 YUG_vanguard_socialism:0 "유고슬라비아 연방공화국"
 YUG_vanguard_socialism_DEF:0 "유고슬라비아 연방공화국"
 YUG_vanguard_socialism_ADJ:0 "유고슬라비아"
 
-YUG_libertarian_marxism:0 "유고슬라비아 연방공화국"
-YUG_libertarian_marxism_DEF:0 "유고슬라비아 연방공화국"
-YUG_libertarian_marxism_ADJ:0 "유고슬라비아"
+YUG_popular_socialism:0 "유고슬라비아 연방공화국"
+YUG_popular_socialism_DEF:0 "유고슬라비아 연방공화국"
+YUG_popular_socialism_ADJ:0 "유고슬라비아"
 
 YUG_revisionist_socialism:0 "유고슬라비아 공화국"
 YUG_revisionist_socialism_DEF:0 "유고슬라비아 공화국"
 YUG_revisionist_socialism_ADJ:0 "유고슬라비아"
 
-YUG_social_democratism:0 "유고슬라비아 공화국"
-YUG_social_democratism_DEF:0 "유고슬라비아 공화국"
-YUG_social_democratism_ADJ:0 "유고슬라비아"
+YUG_progressivism:0 "유고슬라비아 공화국"
+YUG_progressivism_DEF:0 "유고슬라비아 공화국"
+YUG_progressivism_ADJ:0 "유고슬라비아"
 
 YUG_liberalism:0 "유고슬라비아 공화국"
 YUG_liberalism_DEF:0 "유고슬라비아 공화국"
@@ -47,14 +47,14 @@ YUG_accelerationism_ADJ:0 "유고슬라비아"
 #PARTIES#
 YUG_vanguard_socialism_party:0 "KPJ"
 YUG_vanguard_socialism_party_long:0 "세르비아 공산당"
-YUG_libertarian_marxism_party:0 "SPJ"
-YUG_libertarian_marxism_party_long:0 "세르비아 사회주의당"
-YUG_revolutionary_anarchism_party:0 "SAJ"
-YUG_revolutionary_anarchism_party_long:0 "세르비아 아나키스트 평의회"
+YUG_popular_socialism_party:0 "SPJ"
+YUG_popular_socialism_party_long:0 "세르비아 사회주의당"
+YUG_anarchism_party:0 "SAJ"
+YUG_anarchism_party_long:0 "세르비아 아나키스트 평의회"
 YUG_revisionist_socialism_party:0 "ZS"
 YUG_revisionist_socialism_party_long:0 "농업당"
-YUG_social_democratism_party:0 "ZS"
-YUG_social_democratism_party_long:0 "농업당"
+YUG_progressivism_party:0 "ZS"
+YUG_progressivism_party_long:0 "농업당"
 YUG_liberalism_party:0 "DS"
 YUG_liberalism_party_long:0 "민주당"
 YUG_conservatism_party:0 "NRS"
@@ -221,9 +221,47 @@ yugoslavia.23.t:0 "유고슬라비아가 보이보디나를 요구하다"
 yugoslavia.23.desc:0 ""
 yugoslavia.23.a:0 "요구를 수락한다."
 yugoslavia.23.b:0 "요구를 거절한다."
+
+yugoslavia.121.t:0 "Poland guarantees us!"
+yugoslavia.121.desc:0 "We've received an answer from Poland - they've agreed to guarantee our independence. Aggression aimed at us will mean aggression aimed at them too."
+yugoslavia.121.a:0 "Great news!"
+
+yugoslavia.122.t:0 "Poland rejects"
+yugoslavia.122.desc:0 "We've received an answer from Poland - they've refused to guarantee our independence."
+yugoslavia.122.a:0 "Understood."
+
+yugoslavia.203.t:0 "No response from Austria"
+yugoslavia.203.desc:0 "Austria seems to have entirely ignored our offer. This means that the status quo will be continued, and not only our Slovenian brothers still have to endure under the Austrian boot, but in the case of aggression towards them, Austrians will have to manage without our support."
+yugoslavia.203.a:0 "Goddamn Austrians..."
+
+yugoslavia.131.t:0 "Poland welcomes us into their faction"
+yugoslavia.131.desc:0 "We have received a message from Poland, welcoming us into their military alliance. This is, without a doubt, a diplomatic success for our nation and makes Slavs worldwide stronger."
+yugoslavia.131.a:0 "Slavs stand united!"
+
+yugoslavia.132.t:0 "Poland rejects our entry into their faction"
+yugoslavia.132.desc:0 "We have received a message from Poland, in which they express their decision to not let us enter their military alliance. This means Slavs worldwide remain divided, and thus, weaker."
+yugoslavia.132.a:0 "Their loss."
+
+yugoslavia.211.t:0 "Austrians hand Slovenia over!"
+yugoslavia.211.desc:0 "Austria has accepted our demands regarding Slovenia. Having Slovenia not only ascends our position in the region, but also brings us further to our goal of liberating all southern Slavs."
+yugoslavia.211.a:0 "The Austrians made a good choice."
+
+yugoslavia.212.t:0 "Austrians refuse to hand Slovenia over"
+yugoslavia.212.desc:0 "Austria has refused our demands regarding Slovenia. Our Slovenian brothers still have to endure under the Austrian boot and await liberation."
+yugoslavia.212.a:0 "Stubbornness won't get them far."
+
+yugoslavia.231.t:0 "Hungary accepts our demands"
+yugoslavia.231.desc:0 "Hungary has transferred the rightful Slavic lands of Vojvodina and West Banat to us, further fulfilling our goal of liberating all southern Slavs."
+yugoslavia.231.a:0 "A diplomatic victory against the Internationale!"
+
+yugoslavia.232.t:0 "Hungary refuses our demands"
+yugoslavia.232.desc:0 "Hungary has refused to hand us our rightful lands for Vojvodina and West Banat, delaying the liberation of Slavs in the region."
+yugoslavia.232.a:0 "This is just a minor delay."
+
+
 #FOCUSES#
 YUG_sviuzbor:0 "Svi-ZBOR"
-YUG_sviuzbor_desc:0 "We finally menaged to overtrow godless revolutionaries, and return Yugoslava to God! ZBOR now needs to become mass movement, to bring teachings of Christ to the masses!"
+YUG_sviuzbor_desc:0 "We finally managed to overthrow godless revolutionaries, and return Yugoslavia to God! ZBOR now needs to become mass movement, to bring teachings of Christ to the masses!"
 YUG_comradetesla:0 "테슬라 동지"
 YUG_comradetesla_desc:0 "Who has a vision for Yugoslavia? Who sees through lies and deceptions and sees true reality of the world? Who can lead us to brighter future? Can answer be other than Nikola Tesla? Man of unparareled genius, man of vision and of truth. With him lies future brighter than thousend Suns!"
 YUG_progressivepanslavism:0 "진보적 범슬라브주의"
