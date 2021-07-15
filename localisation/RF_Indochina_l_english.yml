@@ -3,13 +3,13 @@
 
 
 #JAPANESE OCCUPATION#
-DAI_JAP_despotism:0 "인도차이나 제국"
-DAI_JAP_despotism_DEF:0 "인도차이나 제국"
-DAI_JAP_despotism_ADJ:0 "인도차이나"
+DAI_JAP_despotism:0 "안남 제국"
+DAI_JAP_despotism_DEF:0 "안남 제국"
+DAI_JAP_despotism_ADJ:0 "안남"
 
-DAI_JAP_right_authoritarianism:0 "인도차이나 제국"
-DAI_JAP_right_authoritarianism_DEF:0 "인도차이나 제국"
-DAI_JAP_right_authoritarianism_ADJ:0 "인도차이나"
+DAI_JAP_right_authoritarianism:0 "안남 제국"
+DAI_JAP_right_authoritarianism_DEF:0 "안남 제국"
+DAI_JAP_right_authoritarianism_ADJ:0 "안남"
 
 #ANTI-JAP FRONT#
 
@@ -19,22 +19,22 @@ DAI_UAF_conservatism_ADJ:0 "계몽해방전선"
 
 #PARTIES#
 DAI_vanguard_socialism_party:0 "NCS (Indochina)"
-DAI_libertarian_marxism_party:0 "SPP"
-DAI_revolutionary_anarchism_party:0 "UFC"
+DAI_popular_socialism_party:0 "SPP"
+DAI_anarchism_party:0 "UFC"
 DAI_revisionist_socialism_party:0 "PSRP"
-DAI_social_democratism_party:0 "INP (L)"
+DAI_progressivism_party:0 "INP (L)"
 DAI_liberalism_party:0 "DRP"
 DAI_conservatism_party:0 "NPUP"
 DAI_right_authoritarianism_party:0 "Military Council"
 DAI_despotism_party:0 "Imperial Loyalists"
-DAI_reactionism_party:0 "까오다이"
-DAI_accelerationism_party:0 "화래당"
+DAI_reactionism_party:0 "INP (R)"
+DAI_accelerationism_party:0 "INVF"
 
 DAI_vanguard_socialism_party_long:0 "Nanyang Communist Society (Indochinese Branch)"
-DAI_libertarian_marxism_party_long:0 "Socialist People's Party"
-DAI_revolutionary_anarchism_party_long:0 "Union of Farmer Communes"
+DAI_popular_socialism_party_long:0 "Socialist People's Party"
+DAI_anarchism_party_long:0 "Union of Farmer Communes"
 DAI_revisionist_socialism_party_long:0 "Personalist Solidarity Revolutionary Party"
-DAI_social_democratism_party_long:0 "Indochinese Nationalist Party (Left-Wing)"
+DAI_progressivism_party_long:0 "Indochinese Nationalist Party (Left-Wing)"
 DAI_liberalism_party_long:0 "Democratic Restoration Party"
 DAI_conservatism_party_long:0 "Nationalist People’s Unity Party"
 DAI_right_authoritarianism_party_long:0 "National Military Ruling Council"
@@ -44,10 +44,22 @@ DAI_accelerationism_party_long:0 "Indochinese National Vanguard Front"
 
 #LEADER DESCRITIONS#
 #IDEAS#
-DAI_acolonialstate:0 "식민국가"
-DAI_acolonialstate_desc:0 "식민국가인 우리 정부를 정통으로 보는 이들은 소수이며, 우리를 위해 죽기를 각오할 이들은 그보다도 적습니다."
-DAI_united:0 "식민주의에 의한 통합"
-DAI_united_desc:0 "수십의 종족, 종교, 언어 집단들은 하나의 기치 아래 통일되어 있지만 누구도 이에 만족하지 않습니다. 하지만 점점 더 많은 사람들이 식민주의자들을 몰아내고자 서로의 차이는 기꺼이 제쳐두고자 합니다."
+DAI_acolonialstate:0 "Cowardly Leadership"
+DAI_acolonialstate_desc:0 "Puppet “Emperor“ Cuong De took the throne of Indochina in 1918 at the behest of the Japanese. He has since accepted every policy the Japanese have forced on him. Appeasing the Japanese has come at a price, starvation in the countryside and abuses in the Japanese concessions is rife. Cuong De is now known as nothing more than a coward by his people."
+DAI_united:0 "Rising Discontent"
+DAI_united_desc:0 "The Japanese were initially welcomed as “Liberators“ from the French when they took over Indochina in 1919. However, in 16 years most policies implemented were only to the benefit of the Japanese - the occupation and Nihonisation of Saigon and Haiphong, ceding half of Cao-Miên and Ai-Lao to our rivals - only fueled the hatred and open rebellious acts against the current regime. Such rebellions have gone on to form Revolutionary and Nationalist parties, with the common goal of Freedom and Self determination for the peoples of Indochina."
+DAI_nihonisation:0 "Nihonisation"
+DAI_nihonisation_desc:0 "The enlightened suzerainty of the Japanese has brought a great many changes to Annamu, not the least of which is a tide of Japanese investment and modern machinery. Moreover, Japanese immigrants arrive every month, bridging new skills and cultural conflict to both the cities and countryside farms of Indochina. While some racist detractors have derided this as a blatant attempt to relive population pressures in Japan, any Japanese diplomat can explain at length that this is a pure expression of Asian brotherhood. A brotherhood so valuable that the contribution of arts produced with new Japanese-sponsored industry for the common defense against Imperialism is a small price to pay."
+
+##Companies##
+DAI_sicrem:0 "MICREM"
+DAI_marsenal:0 "Makitton Arsenal"
+DAI_pxarmory:0 "Phu Xuan Armory"
+DAI_hgarsenal:0 "Imperial Artillery"
+DAI_hgtank:0 "Imperial Armor"
+DAI_imperialtank:0 "Makitton Armor"
+DAI_basonport:0 "Bason Port Company"
+DAI_hgport:0 "Imperial Shipyard"
 
 #EVENTS#
 
@@ -56,13 +68,14 @@ dainam.1.desc:0 ""
 dainam.1.a:0 "항일 전선을 구축한다!"
 dainam.1.b:0 "일본이 우리를 멸망에서 구원하리라. 오직 충성! (사이공 군벌로 플레이)"
 
-dainam.99.t:0 "1936년의 인도차이나"
-dainam.99.desc:0 "프랑스가 몰락하자, 멀리 떨어진 식민지들은 갑작스레 프랑스국에서의 지원도 없이 혼자가 되어버린 자신들을 마주하게 되었습니다. 총독들도 도망치면서 반도를 돌볼 이는 자신들 뿐이었습니다. 이에 일본은 인도차이나의 통제권을 제의했습니다. 한때 프랑스 치하에 있던 라오스인, 베트남인, 캄보디아인들은 안도의 숨을 내쉬었습니다. 마침내 사람들은 자신들의 손으로 인도차이나를 진정한 근대국가로 만들었습니다. 그리곤 일본 식민군이 들어왔습니다. 일본군은 자신들을 저지하려 했던 인도차이나 인민의 노력을, 그들이 이룩해낸 작은 행업들을, 자신들 눈에 '열등해' 보이는 인도차이나의 모든 것을 조롱했습니다. 해방자라며 들어왔던 이들은 모욕스러운 조롱과도 같이, 곧 프랑스만큼이나 잔인한 이들임을 스스로 드러내보였습니다. 그리고 인도차이나인들을 들고 일어났습니다. 자신들이 속한 종족과 부족만을 위해서가 아니라 인도차이나의 민족으로서, 캄보디아인이나 베트남인이 아닌 하나의 압제자 아래 고통받은 핍박자들로서 어깨를 나란히 했습니다. 서로 다른 서로에게서 찾은 공통점 속에, 긍지를 품은 인민은 식민주의의 족쇄를 내던질 준비를 마쳤습니다. 인도차이나의 수도이자 일본 식민행정부가 자리한 사이공은 여전히 일본군의 단단한 손아귀 안에 있습니다. 병사들은 사이공의 거리 곳곳을 행진하며 도시의 구획들과 교외를 오갑니다. 산업구획인 쟈딘에선 골탄과 석탄이 냄새를 풍기며 철을 녹이고 목탄을 태웁니다. 한때 성장하는 도시의 박동하는 심장이었지만, 이제는 새 본부와 행정부를 위한 구획이 된 떤빈에는 할당제와 법들로 수많은 이들의 삶을 결정하는 귀족들과 수구파가 가득합니다. 득베와 나베에는 식민지와 본국의 항구들을 오가는 선박들과, 일본의 수요를 위해 저가로 생선을 공급하는 거대 어업사들과 경쟁해야 하는 어부들이 있습니다. 연기가 피어오르니, 불을 붙일 때가 왔습니다."
-dainam.99.a:0 "자유에는 대가가 따르는 법."
 
-dainam.100.t:0 "사이공 시위"
-dainam.100.desc:0 "오늘, 사이공 중심에 자리한 거대한 건물인 일본 식민행정본부가 공격받았습니다. 죽창부터 낡은 (하지만 사람을 죽이기엔 충분한) 화기를 든 수천여 명의 사람들이 벌인 일이었습니다. 아리사카로 무장한 일본 병사들은 죽기살기로 싸웠지만, 군중의 규모는 커져만 갔습니다. 탄환 하나가 날아들 때마다 2명의 베트남인이 저항에 가담했습니다. 순교자 하나가 거리에서 피를 흘릴 때마다 수십 명이 항거에 동참했습니다.\n\n병사들이 건물로 후퇴해 문을 잠그고 장애물을 설치했을 때도, 군중은 끝까지 이들을 좇았습니다. 사람들은 돌을 가득 실은 인력거를 끌고선 문과 창문을 향해 던졌습니다. 오랜 막걸리병으로 만든 화염병들은 벽과 의자를 향해 날아들었습니다. \n\n건물 안의 중위 마에다 소세키는 마지막을 준비했습니다. 중위와 20명의 병사들은 오늘 자신들에게 다가올 죽음을 받아들였습니다. 사케가 담겼던 잔은 비었습니다. 총검이 총신 아래 끼워졌습니다. 마에다는 깊이 숨을 들이마시곤 한숨을 내뱉었습니다.\n\n“천황 폐하 만세.” 중위는 속삭이듯 차갑게 말했습니다. 병사들은 그보다 크게 구호를 따라했습니다. 중위가 목소리를 높였습니다. “천황 폐하 만세!” 소리치는 중위를 따라, 병사들이 더 큰 목소리로 외쳤습니다. 그리곤 곧, 죽음을 각오한, 고통스럽게 죽게 될 21명의 조화는 열성으로 치닫았습니다. 건물로 쏟아져 들어오는 군중을 향해 구호를 외치며 돌진한 이들은, 자신들의 외침보다 더 크고, 명확하며, 더 큰 확신에 찬 소리만 마주하게 될 뿐이었습니다.\n\n “인도차이나 만세!”"
-dainam.100.a:0 "우리는 폭풍을 이겨내리라."
+dainam.2.t:0 "The Violence Has Escalated"
+dainam.2.desc:0 "Alright so someone played a weeb cover of Fortunate Son and now it's basically anime Vietnam except the hippies are probably going to get cut in half or smh."    
+dainam.2.a:0 "Watashi wa warcimes desu."
+
+dainam.99.t:0 "A New Saigon"
+dainam.99.desc:0 "In the chaos following their defeat in the Great War, the French government lost the ability to maintain effective control in Indochina. A rising Japanese empire in the east, seeing the impending French debt situation caused by the mutually assured meat grinder that was the Western Front, offered to purchase the Indochinese colony. France, in its desperation, sold the colony for an undisclosed amount of money to the Empire of Japan. Almost immediately after the French withdrawal, the colony was occupied by the Imperial Japanese Army. According to Japanese reports, it was a liberation effort.\n\nIn 1918, the Treaty of Saigon was signed. It redrew the map of former French Indochina, establishing a Japanese-sponsored client state ruled by the Emperor [$Emperor_name] and ceding the city of Saigon to the Empire directly. In order to develop Saigon after destructive rebellions in 1917, the Japanese authorities offered contracts of servitude to the peasantry, who were heavily impoverished due to the chaos following the French defeat. Indochina’s population and economic stability. In return for being paid and given living quarters, Vietnamese peasants would be drawn into unhealthy working conditions under terms akin to slavery. While many have run the course of these contracts, they were only somewhat less desperately impoverished by the end of their indentures, leading to the formation of an urban slum in the edges of Saigon.\n\nSaigon was renamed to “Makitton” in 1925, and the city boomed in trade and wealth. Japanese immigration to Makitton skyrocketed, and the population of Japanese in Indochina has steadily increased for over a decade. New industrial sectors and modern living sectors slowly grown over the ruins and wreckage left by rebels in 1917.\n\nPlans for the controlled demolition of classical architecture were scrapped early, with the administration opted to preserve colonial French and Nguyen architecture while integrating their styles into the modern city center. Makitton, through prosperity born of forced industrialization and labour, has become known as the “Pearl of the Oriental”, a melting pot of French, Japanese, and native cultures.\n\nYesterday, the Japanese administration announced a three-year plan to prepare the city to be integrated as a prefecture to their ever expanding empire.Applauded in the city center, the proclamation has sent waves of discontent amongst the natives of Indochina rippling through the countryside. The Xac-Tex preempted any attempt at unseemly behavior within the city environs, but several demonstrations managed to gather in the surrounding countryside before being broken up."
+dainam.99.a:0 "Hopefully, these protests don’t become the norm."
 
 
 
