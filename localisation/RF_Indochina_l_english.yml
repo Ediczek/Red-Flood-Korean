@@ -18,37 +18,37 @@ DAI_UAF_conservatism_DEF:0 "해방군"
 DAI_UAF_conservatism_ADJ:0 "계몽해방전선"
 
 #PARTIES#
-DAI_vanguard_socialism_party:0 "NCS (Indochina)"
+DAI_vanguard_socialism_party:0 "NCS (안남)"
 DAI_popular_socialism_party:0 "SPP"
 DAI_anarchism_party:0 "UFC"
 DAI_revisionist_socialism_party:0 "PSRP"
 DAI_progressivism_party:0 "INP (L)"
 DAI_liberalism_party:0 "DRP"
 DAI_conservatism_party:0 "NPUP"
-DAI_right_authoritarianism_party:0 "Military Council"
-DAI_despotism_party:0 "Imperial Loyalists"
+DAI_right_authoritarianism_party:0 "군사평의회"
+DAI_despotism_party:0 "황당파"
 DAI_reactionism_party:0 "INP (R)"
 DAI_accelerationism_party:0 "INVF"
 
-DAI_vanguard_socialism_party_long:0 "Nanyang Communist Society (Indochinese Branch)"
-DAI_popular_socialism_party_long:0 "Socialist People's Party"
-DAI_anarchism_party_long:0 "Union of Farmer Communes"
+DAI_vanguard_socialism_party_long:0 "남양 공산당 (안남 지부)"
+DAI_popular_socialism_party_long:0 "사회주의 인민당"
+DAI_anarchism_party_long:0 "농민공사연합"
 DAI_revisionist_socialism_party_long:0 "Personalist Solidarity Revolutionary Party"
-DAI_progressivism_party_long:0 "Indochinese Nationalist Party (Left-Wing)"
-DAI_liberalism_party_long:0 "Democratic Restoration Party"
-DAI_conservatism_party_long:0 "Nationalist People’s Unity Party"
-DAI_right_authoritarianism_party_long:0 "National Military Ruling Council"
+DAI_progressivism_party_long:0 "안남 국민당 (좌익)"
+DAI_liberalism_party_long:0 "민주회복당"
+DAI_conservatism_party_long:0 "민족주의 인민단결당"
+DAI_right_authoritarianism_party_long:0 "전국군정평의회"
 DAI_despotism_party_long:0 "응우웬조 충성파"
-DAI_reactionism_party_long:0 "Indochinese Nationalist Party (Right-Wing)"
-DAI_accelerationism_party_long:0 "Indochinese National Vanguard Front"
+DAI_reactionism_party_long:0 "안남 국민당 (우익)"
+DAI_accelerationism_party_long:0 "안남 민족전위전선"
 
 #LEADER DESCRITIONS#
 #IDEAS#
-DAI_acolonialstate:0 "Cowardly Leadership"
+DAI_acolonialstate:0 "비겁한 지도층"
 DAI_acolonialstate_desc:0 "Puppet “Emperor“ Cuong De took the throne of Indochina in 1918 at the behest of the Japanese. He has since accepted every policy the Japanese have forced on him. Appeasing the Japanese has come at a price, starvation in the countryside and abuses in the Japanese concessions is rife. Cuong De is now known as nothing more than a coward by his people."
-DAI_united:0 "Rising Discontent"
+DAI_united:0 "끓어오르는 불만"
 DAI_united_desc:0 "The Japanese were initially welcomed as “Liberators“ from the French when they took over Indochina in 1919. However, in 16 years most policies implemented were only to the benefit of the Japanese - the occupation and Nihonisation of Saigon and Haiphong, ceding half of Cao-Miên and Ai-Lao to our rivals - only fueled the hatred and open rebellious acts against the current regime. Such rebellions have gone on to form Revolutionary and Nationalist parties, with the common goal of Freedom and Self determination for the peoples of Indochina."
-DAI_nihonisation:0 "Nihonisation"
+DAI_nihonisation:0 "황민화"
 DAI_nihonisation_desc:0 "The enlightened suzerainty of the Japanese has brought a great many changes to Annamu, not the least of which is a tide of Japanese investment and modern machinery. Moreover, Japanese immigrants arrive every month, bridging new skills and cultural conflict to both the cities and countryside farms of Indochina. While some racist detractors have derided this as a blatant attempt to relive population pressures in Japan, any Japanese diplomat can explain at length that this is a pure expression of Asian brotherhood. A brotherhood so valuable that the contribution of arts produced with new Japanese-sponsored industry for the common defense against Imperialism is a small price to pay."
 
 ##Companies##
@@ -69,13 +69,13 @@ dainam.1.a:0 "항일 전선을 구축한다!"
 dainam.1.b:0 "일본이 우리를 멸망에서 구원하리라. 오직 충성! (사이공 군벌로 플레이)"
 
 
-dainam.2.t:0 "The Violence Has Escalated"
+dainam.2.t:0 "고조되는 폭력"
 dainam.2.desc:0 "Alright so someone played a weeb cover of Fortunate Son and now it's basically anime Vietnam except the hippies are probably going to get cut in half or smh."    
 dainam.2.a:0 "Watashi wa warcimes desu."
 
-dainam.99.t:0 "A New Saigon"
-dainam.99.desc:0 "In the chaos following their defeat in the Great War, the French government lost the ability to maintain effective control in Indochina. A rising Japanese empire in the east, seeing the impending French debt situation caused by the mutually assured meat grinder that was the Western Front, offered to purchase the Indochinese colony. France, in its desperation, sold the colony for an undisclosed amount of money to the Empire of Japan. Almost immediately after the French withdrawal, the colony was occupied by the Imperial Japanese Army. According to Japanese reports, it was a liberation effort.\n\nIn 1918, the Treaty of Saigon was signed. It redrew the map of former French Indochina, establishing a Japanese-sponsored client state ruled by the Emperor [$Emperor_name] and ceding the city of Saigon to the Empire directly. In order to develop Saigon after destructive rebellions in 1917, the Japanese authorities offered contracts of servitude to the peasantry, who were heavily impoverished due to the chaos following the French defeat. Indochina’s population and economic stability. In return for being paid and given living quarters, Vietnamese peasants would be drawn into unhealthy working conditions under terms akin to slavery. While many have run the course of these contracts, they were only somewhat less desperately impoverished by the end of their indentures, leading to the formation of an urban slum in the edges of Saigon.\n\nSaigon was renamed to “Makitton” in 1925, and the city boomed in trade and wealth. Japanese immigration to Makitton skyrocketed, and the population of Japanese in Indochina has steadily increased for over a decade. New industrial sectors and modern living sectors slowly grown over the ruins and wreckage left by rebels in 1917.\n\nPlans for the controlled demolition of classical architecture were scrapped early, with the administration opted to preserve colonial French and Nguyen architecture while integrating their styles into the modern city center. Makitton, through prosperity born of forced industrialization and labour, has become known as the “Pearl of the Oriental”, a melting pot of French, Japanese, and native cultures.\n\nYesterday, the Japanese administration announced a three-year plan to prepare the city to be integrated as a prefecture to their ever expanding empire.Applauded in the city center, the proclamation has sent waves of discontent amongst the natives of Indochina rippling through the countryside. The Xac-Tex preempted any attempt at unseemly behavior within the city environs, but several demonstrations managed to gather in the surrounding countryside before being broken up."
-dainam.99.a:0 "Hopefully, these protests don’t become the norm."
+dainam.99.t:0 "새 사이공"
+dainam.99.desc:0 "대전쟁에서의 패배 직후 혼란 속에서 프랑스 정부는 안남을 능히 통제할 여력을 유지할 수 없게 되었습니다. A rising Japanese empire in the east, seeing the impending French debt situation caused by the mutually assured meat grinder that was the Western Front, offered to purchase the Indochinese colony. France, in its desperation, sold the colony for an undisclosed amount of money to the Empire of Japan. Almost immediately after the French withdrawal, the colony was occupied by the Imperial Japanese Army. According to Japanese reports, it was a liberation effort.\n\nIn 1918, the Treaty of Saigon was signed. It redrew the map of former French Indochina, establishing a Japanese-sponsored client state ruled by the Emperor [$Emperor_name] and ceding the city of Saigon to the Empire directly. In order to develop Saigon after destructive rebellions in 1917, the Japanese authorities offered contracts of servitude to the peasantry, who were heavily impoverished due to the chaos following the French defeat. Indochina’s population and economic stability. In return for being paid and given living quarters, Vietnamese peasants would be drawn into unhealthy working conditions under terms akin to slavery. While many have run the course of these contracts, they were only somewhat less desperately impoverished by the end of their indentures, leading to the formation of an urban slum in the edges of Saigon.\n\nSaigon was renamed to “Makitton” in 1925, and the city boomed in trade and wealth. Japanese immigration to Makitton skyrocketed, and the population of Japanese in Indochina has steadily increased for over a decade. New industrial sectors and modern living sectors slowly grown over the ruins and wreckage left by rebels in 1917.\n\nPlans for the controlled demolition of classical architecture were scrapped early, with the administration opted to preserve colonial French and Nguyen architecture while integrating their styles into the modern city center. Makitton, through prosperity born of forced industrialization and labour, has become known as the “Pearl of the Oriental”, a melting pot of French, Japanese, and native cultures.\n\nYesterday, the Japanese administration announced a three-year plan to prepare the city to be integrated as a prefecture to their ever expanding empire.Applauded in the city center, the proclamation has sent waves of discontent amongst the natives of Indochina rippling through the countryside. The Xac-Tex preempted any attempt at unseemly behavior within the city environs, but several demonstrations managed to gather in the surrounding countryside before being broken up."
+dainam.99.a:0 "이 시위가 일상이 되진 않으리란 점은 다행이군."
 
 
 
