@@ -1,11 +1,13 @@
 ﻿l_english:
+#COUNTRY NAME#
+
 
 #PARTIES#
 ORS_vanguard_socialism_party:0 "CPoI"
-ORS_libertarian_marxism_party:0 "RCPI"
-ORS_revolutionary_anarchism_party:0 "ASO"
+ORS_popular_socialism_party:0 "RCPI"
+ORS_anarchism_party:0 "ASO"
 ORS_revisionist_socialism_party:0 "KMPP"
-ORS_social_democratism_party:0 "INC"
+ORS_progressivism_party:0 "INC"
 ORS_liberalism_party:0 "PP"
 ORS_conservatism_party:0 "AIGP"
 ORS_right_authoritarianism_party:0 "AKHM 유격대"
@@ -14,10 +16,10 @@ ORS_reactionism_party:0 "OTS(TW)"
 ORS_accelerationism_party:0 "OTS(RW)"
 
 ORS_vanguard_socialism_party_long:0 "인도 공산당"
-ORS_libertarian_marxism_party_long:0 "인도 혁명공산당"
-ORS_revolutionary_anarchism_party_long:0 "오리사 아나키스트회"
+ORS_popular_socialism_party_long:0 "인도 혁명공산당"
+ORS_anarchism_party_long:0 "오리사 아나키스트회"
 ORS_revisionist_socialism_party_long:0 "노농인민당"
-ORS_social_democratism_party_long:0 "인도 민족회의"
+ORS_progressivism_party_long:0 "인도 민족회의"
 ORS_liberalism_party_long:0 "목표평의회"
 ORS_conservatism_party_long:0 "전 인도 민주평의회"
 ORS_right_authoritarianism_party_long:0 "전 인도 힌두대회의 유격대"
