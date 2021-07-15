@@ -9,17 +9,17 @@ WRU_OST_despotism_ADJ:0 "발트-독일"
 WRU_vanguard_socialism_party:0 "국제주의파"
 WRU_vanguard_socialism_party_long:0 "국제주의파"
 
-WRU_libertarian_marxism_party:0 "평의회주의파"
-WRU_libertarian_marxism_party_long:0 "평의회주의파"
+WRU_popular_socialism_party:0 "평의회주의파"
+WRU_popular_socialism_party_long:0 "평의회주의파"
 
-WRU_revolutionary_anarchism_party:0 "테러리스트파"
-WRU_revolutionary_anarchism_party_long:0 "테러리스트파"
+WRU_anarchism_party:0 "테러리스트파"
+WRU_anarchism_party_long:0 "테러리스트파"
 
 WRU_revisionist_socialism_party:0 "수정주의파"
 WRU_revisionist_socialism_party_long:0 "수정주의파"
 
-WRU_social_democratism_party:0 "에스토니아 공화파"
-WRU_social_democratism_party_long:0 "에스토니아 공화파"
+WRU_progressivism_party:0 "에스토니아 공화파"
+WRU_progressivism_party_long:0 "에스토니아 공화파"
 
 WRU_liberalism_party:0 "러시아 공화파"
 WRU_liberalism_party_long:0 "러시아 공화파"
