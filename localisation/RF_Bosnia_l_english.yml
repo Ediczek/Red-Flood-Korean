@@ -1,5 +1,4 @@
 ﻿l_english:
-#COUNTRY NAME#
 
 #PARTIES#
 BOS_revisionist_socialism_party:0 "ZS"
@@ -8,8 +7,8 @@ BOS_liberalism_party:0 "DS"
 BOS_liberalism_party_long:0 "민주당"
 BOS_conservatism_party:0 "JMO"
 BOS_conservatism_party_long:0 "유고슬라비아 무슬림 조직"
-BOS_revolutionary_anarchism_party:0 "MB"
-BOS_revolutionary_anarchism_party_long:0 "'Mlada Bosna' Organizacija"
+BOS_anarchism_party:0 "MB"
+BOS_anarchism_party_long:0 "'Mlada Bosna' Organizacija"
 BOS_accelerationism_party:0 "UBBH"
 BOS_accelerationism_party_long:0 "Udruženje Bosanskog Bataljona \"한자르 집단\""
 BOS_reactionism_party:0 "Društvo Za Ilirsko Jedinstvo \"한자르 집단\""
@@ -23,8 +22,8 @@ BOS_IOI_accelerationism:0 "일리리야 민족이맘국"
 BOS_IOI_accelerationism_DEF:0 "일리리야 공동체 통일이맘국"
 BOS_IOI_reactionism:0 "일리리야 이슬람 할리프국"
 BOS_IOI_reactionism_DEF:0 "가장 신성한 일리리야 이슬람 할리파국"
-BOS_FT_revolutionary_anarchism:0 "일리리야 자유령"
-BOS_FT_revolutionary_anarchism_DEF:0 "일리리야 자유민족역란군"
+BOS_FT_anarchism:0 "일리리야 자유령"
+BOS_FT_anarchism_DEF:0 "일리리야 자유민족역란군"
 #DECISIONS (1.5 Update)#
 #FOCUSES#
 #EVENTS#
