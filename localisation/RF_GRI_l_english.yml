@@ -1,25 +1,25 @@
 ﻿l_english:
 #COUNTRY NAME#
 
-GRI_revolutionary_anarchism:0 "헬라스 섭정체"
-GRI_revolutionary_anarchism_DEF:0 "아테네 역란"
-GRI_revolutionary_anarchism_ADJ:0 "그리스-이탈리아"
+GRI_anarchism:0 "헬라스 섭정체"
+GRI_anarchism_DEF:0 "아테네 역란"
+GRI_anarchism_ADJ:0 "그리스-이탈리아"
 
 GRI_vanguard_socialism:0 "헬라스 섭정체"
 GRI_vanguard_socialism_DEF:0 "아테네 역란"
 GRI_vanguard_socialism_ADJ:0 "그리스-이탈리아"
 
-GRI_libertarian_marxism:0 "헬라스 섭정체"
-GRI_libertarian_marxism_DEF:0 "아테네 역란"
-GRI_libertarian_marxism_ADJ:0 "그리스-이탈리아"
+GRI_popular_socialism:0 "헬라스 섭정체"
+GRI_popular_socialism_DEF:0 "아테네 역란"
+GRI_popular_socialism_ADJ:0 "그리스-이탈리아"
 
 GRI_revisionist_socialism:0 "헬라스 섭정체"
 GRI_revisionist_socialism_DEF:0 "아테네 역란"
 GRI_revisionist_socialism_ADJ:0 "그리스-이탈리아"
 
-GRI_social_democratism:0 "헬라스 섭정체"
-GRI_social_democratism_DEF:0 "아테네 역란"
-GRI_social_democratism_ADJ:0 "그리스-이탈리아"
+GRI_progressivism:0 "헬라스 섭정체"
+GRI_progressivism_DEF:0 "아테네 역란"
+GRI_progressivism_ADJ:0 "그리스-이탈리아"
 
 GRI_liberalism:0 "헬라스 섭정체"
 GRI_liberalism_DEF:0 "아테네 역란"
