@@ -1,16 +1,17 @@
 ﻿l_english:
+#COUNTRY NAME#
 
 #PARTIES#
 GUN_vanguard_socialism_party:0 "SGIT - L"
 GUN_vanguard_socialism_party_long:0 "Section Guinéenne de l'Internationale des Travailleurs - Leniniste"
-GUN_libertarian_marxism_party:0 "SGIT"
-GUN_libertarian_marxism_party_long:0 "Section Guinéenne de l'Internationale des Travailleurs"
-GUN_revolutionary_anarchism_party:0 "SGIT - A"
-GUN_revolutionary_anarchism_party_long:0 "Section Guinéenne de l'Internationale des Travailleurs - Anarchistes"
+GUN_popular_socialism_party:0 "SGIT"
+GUN_popular_socialism_party_long:0 "Section Guinéenne de l'Internationale des Travailleurs"
+GUN_anarchism_party:0 "SGIT - A"
+GUN_anarchism_party_long:0 "Section Guinéenne de l'Internationale des Travailleurs - Anarchistes"
 GUN_revisionist_socialism_party:0 "종교사회주의파"
 GUN_revisionist_socialism_party_long:0 "종교사회주의파"
-GUN_social_democratism_party:0 "RDA"
-GUN_social_democratism_party_long:0 "Rassamblement Démocratique Africain"
+GUN_progressivism_party:0 "RDA"
+GUN_progressivism_party_long:0 "Rassamblement Démocratique Africain"
 GUN_liberalism_party:0 "RDA"
 GUN_liberalism_party_long:0 "Rassamblement Démocratique Africain"
 GUN_conservatism_party:0 "RDA"
