@@ -8,17 +8,17 @@ MON_reactionism_party_long:0 "몽골 한국 동맹"
 MON_vanguard_socialism_party:0 "PVM"
 MON_vanguard_socialism_party_long:0 "몽골 인민전위대"
 
-MON_libertarian_marxism_party:0 "PLFM"
-MON_libertarian_marxism_party_long:0 "몽골 인민해방전선"
+MON_popular_socialism_party:0 "PLFM"
+MON_popular_socialism_party_long:0 "몽골 인민해방전선"
 
-MON_revolutionary_anarchism_party:0 "UAM"
-MON_revolutionary_anarchism_party_long:0 "몽골 아나키스트 연합"
+MON_anarchism_party:0 "UAM"
+MON_anarchism_party_long:0 "몽골 아나키스트 연합"
 
 MON_revisionist_socialism_party:0 "MPP"
 MON_revisionist_socialism_party_long:0 "몽골 인민당"
 
-MON_social_democratism_party:0 "DP"
-MON_social_democratism_party_long:0 "민주당"
+MON_progressivism_party:0 "DP"
+MON_progressivism_party_long:0 "민주당"
 
 MON_liberalism_party:0 "MFP"
 MON_liberalism_party_long:0 "몽골 자유당"
