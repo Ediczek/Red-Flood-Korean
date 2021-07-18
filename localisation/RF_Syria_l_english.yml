@@ -1,8 +1,13 @@
 ﻿l_english:
 #COUNTRY NAME#
 
-SYR_subject:0 "$OVERLORDADJ$ 마쉬리크"
-SYR_subject_DEF:0 "$OVERLORDADJ$ 마쉬리크"
+SYR_ENG:0 "영국령 마쉬리크"
+SYR_ENG_DEF:0 "영국령 마쉬리크"
+SYR_ENG_ADJ:0 "마쉬리크"
+
+SYR_ISR:0 "시리아 왕국"
+SYR_ISR_DEF:0 "시리아 왕국"
+SYR_ISR:0 "시리아"
 
 SYR_IRQ:0 "미탄니"
 SYR_IRQ_DEF:0 "미탄니"
@@ -19,17 +24,17 @@ SNP_accelerationism_ADJ:0 "마쉬리크"
 SYR_vanguard_socialism_party:0 "SBP"
 SYR_vanguard_socialism_party_long:0 "시리아 바트당"
 
-SYR_libertarian_marxism_party:0 "SSCP"
-SYR_libertarian_marxism_party_long:0 "시리아 사회평의회주의당"
+SYR_popular_socialism_party:0 "SSCP"
+SYR_popular_socialism_party_long:0 "시리아 사회평의회주의당"
 
-SYR_revolutionary_anarchism_party:0 "SRP"
-SYR_revolutionary_anarchism_party_long:0 "시리아 혁명연합"
+SYR_anarchism_party:0 "SRP"
+SYR_anarchism_party_long:0 "시리아 혁명연합"
 
 SYR_revisionist_socialism_party:0 "SSRP"
 SYR_revisionist_socialism_party_long:0 "시리아 사회공화당"
 
-SYR_social_democratism_party:0 "SLP"
-SYR_social_democratism_party_long:0 "시리아 노동당"
+SYR_progressivism_party:0 "SLP"
+SYR_progressivism_party_long:0 "시리아 노동당"
 
 SYR_liberalism_party:0 "SDP"
 SYR_liberalism_party_long:0 "시리아 민주당"
@@ -46,13 +51,20 @@ SYR_reactionism_party_long:0 "시리아 이슬람 보호군"
 SYR_despotism_party:0 "왕당파"
 SYR_despotism_party_long:0 "시리아 왕당파벌"
 
-SNP_accelerationism_party:0 "SSNP"
-SNP_accelerationism_party_long:0 "마쉬리크 사회민족주의당"
+SYR_accelerationism_party:0 "SSNP"
+SYR_accelerationism_party_long:0 "마쉬리크 사회민족주의당"
 #LEADER DESCRITIONS#
 #IDEAS#
-SYR_underground_resistance:0 "유대인 지하저항"
+SYR_underground_resistance:0 "시온주의자들의 영향력"
+SYR_underground_resistance_desc:0 "Zionist organisations are sponsoring the arrival of thousands of jews to Palestine each year. There the settlements form self defence militias and tensions flair. As things progress, this situation is worsening, soon there will be a reckoning."
 #CUSTOM TOOLTIPS AND FLAGS#
+SYR_DESC_MENU:0 "The Mashriq Kingdom faces an imminent crisis. The spectre of Zionism is causing rifts in Palestine, with the King's British masters showing willingness, eagerness even, to aid them in their cause against our country. As if that wasn't enough, internal divisions are showing in Lebanon and Syria as well, as Druze, French exiles and religious minorities vie for representation and power. How much longer can the Kingdom last?"
 #DECISIONS (1.5 Update)#
+SYR_aliyah_decisions:0 "팔레스타인 문제"
+SYR_aliyah_decisions_desc:0 "Zionist organisations are sponsoring the arrival of jews to the coastal plain of Palestine in their thousands. This has been progressing for decades now, and with increasing frequency and numbers. This influx is a destabilising force and is growing the discontent in the region, harming the Kingdom at its foundation. In sufficient numbers, these settlements will improve the development in the region, at the cost of further antagonising our Arab citizens."
+SYR_limit_jews:0 "제한된 유대인 입국 허가"
+SYR_permit_jews:0 "대규모 유대인 입국 허가"
+SYR_permit_jews_plus:0 "유대인 정착지 확대 허가"
 #FOCUSES#
 #EVENTS#
 syria.1.t:0 "북에서 사회민족주의당이 봉기하다!" 
