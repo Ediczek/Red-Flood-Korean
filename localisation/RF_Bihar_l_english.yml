@@ -2,10 +2,10 @@
 
 #PARTIES#
 BIH_vanguard_socialism_party:0 "CPI"
-BIH_libertarian_marxism_party:0 "RCPI"
-BIH_revolutionary_anarchism_party:0 "ACB"
+BIH_popular_socialism_party:0 "RCPI"
+BIH_anarchism_party:0 "ACB"
 BIH_revisionist_socialism_party:0 "AIFB"
-BIH_social_democratism_party:0 "INC"
+BIH_progressivism_party:0 "INC"
 BIH_liberalism_party:0 "NPI"
 BIH_conservatism_party:0 "APP"
 BIH_right_authoritarianism_party:0 "NF"
@@ -14,16 +14,16 @@ BIH_reactionism_party:0 "IL"
 BIH_accelerationism_party:0 "BRP"
 
 BIH_vanguard_socialism_party_long:0 "인도 공산당"
-BIH_libertarian_marxism_party_long:0 "인도 혁명공산당"
-BIH_revolutionary_anarchism_party_long:0 "비하르 아나키스트 평의회"
+BIH_popular_socialism_party_long:0 "인도 혁명공산당"
+BIH_anarchism_party_long:0 "비하르 아나키스트 평의회"
 BIH_revisionist_socialism_party_long:0 "전인도 전진권"
-BIH_social_democratism_party_long:0 "인도 민족회의"
+BIH_progressivism_party_long:0 "인도 민족회의"
 BIH_liberalism_party_long:0 "인도 민족당"
 BIH_conservatism_party_long:0 "전인민당"
 BIH_right_authoritarianism_party_long:0 "민족전선"
 BIH_despotism_party_long:0 "인도 재생전선"
-BIH_reactionism_party:0 "인도 군단"
-BIH_accelerationism_party:0 "비하르 재건주의파"
+BIH_reactionism_party_long:0 "인도 군단"
+BIH_accelerationism_party_long:0 "비하르 재건주의파"
 #LEADER DESCRITIONS#
 
 #IDEAS#
