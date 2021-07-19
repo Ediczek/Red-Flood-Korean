@@ -1,11 +1,12 @@
 ﻿l_english:
+#COUNTRY NAME#
 
 #PARTIES#
 CEY_vanguard_socialism_party:0 "BLPI"
-CEY_libertarian_marxism_party:0 "LSSP"
-CEY_revolutionary_anarchism_party:0 "WPU"
+CEY_popular_socialism_party:0 "LSSP"
+CEY_anarchism_party:0 "WPU"
 CEY_revisionist_socialism_party:0 "CWC"
-CEY_social_democratism_party:0 "CNC"
+CEY_progressivism_party:0 "CNC"
 CEY_liberalism_party:0 "SMS"
 CEY_conservatism_party:0 "CTL"
 CEY_right_authoritarianism_party:0 "BL"
@@ -14,10 +15,10 @@ CEY_reactionism_party:0 "TSiC"
 CEY_accelerationism_party:0 "SBN"
 
 CEY_vanguard_socialism_party_long:0 "인도-실론-버마 볼셰비키-레닌주의당"
-CEY_libertarian_marxism_party_long:0 "랑카 평등사회당"
-CEY_revolutionary_anarchism-party_long:0 "노농연합"
+CEY_popular_socialism_party_long:0 "랑카 평등사회당"
+CEY_anarchism_party_long:0 "노농연합"
 CEY_revisionist_socialism_party_long:0 "실론 노동자 회의"
-CEY_social_democratism_party_long:0 "실론 민족회의"
+CEY_progressivism_party_long:0 "실론 민족회의"
 CEY_liberalism_party_long:0 "싱할라 대집회"
 CEY_conservatism_party_long:0 "실론 타밀 연맹"
 CEY_right_authoritarianism_party_long:0 "영국 충성파"
