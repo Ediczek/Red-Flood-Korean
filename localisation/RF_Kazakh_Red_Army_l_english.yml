@@ -3,16 +3,16 @@
 
 
 #PARTIES#
-AQT_revolutionary_anarchism_party:0 "아나키스트파"
-AQT_revolutionary_anarchism_party_long:0 "아나키스트 집단"
+AQT_anarchism_party:0 "아나키스트파"
+AQT_anarchism_party_long:0 "아나키스트 집단"
 AQT_vanguard_socialism_party:0 "카자흐 홍군"
 AQT_vanguard_socialism_party_long:0 "카자흐 홍군 충성파"
-AQT_libertarian_marxism_party:0 "투르크뷰로 RSDRP"
-AQT_libertarian_marxism_party_long:0 "러시아 사회주의 민주공화당 튀르크국"
+AQT_popular_socialism_party:0 "투르크뷰로 RSDRP"
+AQT_popular_socialism_party_long:0 "러시아 사회주의 민주공화당 튀르크국"
 AQT_revisionist_socialism_party:0 "우쉬 주즈"
 AQT_revisionist_socialism_party_long:0 "우쉬 주즈"
-AQT_social_democratism_party:0 "알라쉬 - L"
-AQT_social_democratism_party_long:0 "알라쉬당 - 좌익"
+AQT_progressivism_party:0 "알라쉬 - L"
+AQT_progressivism_party_long:0 "알라쉬당 - 좌익"
 AQT_liberalism_party:0 "알라쉬 - M"
 AQT_liberalism_party_long:0 "알라쉬당 - 온건"
 AQT_conservatism_party:0 "알라쉬 - R"
@@ -24,7 +24,7 @@ AQT_despotism_party_long:0 "부족지도 섭정평의회"
 AQT_reactionism_party:0 "바스마치"
 AQT_reactionism_party_long:0 "바스마치"
 AQT_accelerationism_party:0 "예술파"
-AQT_accelerationism_party_long:0 "예술주의 집단"
+AQT_accelerationism_party_long:0 "예술가 집단"
 
 #LEADER DESCRITIONS#
 #IDEAS#
