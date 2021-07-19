@@ -3,31 +3,30 @@
 
 
 #PARTIES#
-SPR_vanguard_socialism_party:0 "JONS"
-SPR_libertarian_marxism_party:0 "PCE"
-SPR_revolutionary_anarchism_party:0 "FAI-CNT"
+SPR_vanguard_socialism_party:0 "PCE"
+SPR_popular_socialism_party:0 "JONS"
+SPR_anarchism_party:0 "FAI-CNT"
 SPR_revisionist_socialism_party:0 "PSOE"
-SPR_social_democratism_party:0 "PRR"
-SPR_liberalism_party:0 "PAE"
-SPR_conservatism_party:0 "RE"
-SPR_right_authoritarianism_party:0 "CEDA"
-SPR_despotism_party:0 "JDN"
+SPR_progressivism_party:0 "PRR"
+SPR_liberalism_party:0 "PR"
+SPR_conservatism_party:0 "PRC"
+SPR_right_authoritarianism_party:0 "UPE"
+SPR_despotism_party:0 "ORAN"
 SPR_reactionism_party:0 "FE"
 SPR_accelerationism_party:0 "MR"
-SPR_vanguard_socialism_party_long:0 "민족생디칼리스트 공세평의회"
-SPR_libertarian_marxism_party_long:0 "에스파냐 공산당"
-SPR_revolutionary_anarchism_party_long:0 "이베리아 아나키스트 연맹-전국노동연맹"
-SPR_revisionist_socialism_party_long:0 "에스파냐 노동자 사회주의당"
-SPR_social_democratism_party_long:0 "급진공화당"
-SPR_liberalism_party_long:0 "에스파냐 농민당"
-SPR_conservatism_party_long:0 "에스파냐 혁신"
-SPR_right_authoritarianism_party_long:0 "에스파냐 자치권 연맹"
-SPR_despotism_party_long:0 "민족방위평의회"
+SPR_vanguard_socialism_party_long:0 "에스파냐 공산당"
+SPR_popular_socialism_party_long:0 "민족생디칼리스트 공세 평의회"
+SPR_anarchism_party_long:0 "이베리아 아나키스트 연맹-전국노동연맹"
+SPR_revisionist_socialism_party_long:0 "에스파냐 사회주의 노동자당"
+SPR_progressivism_party_long:0 "급진공화당"
+SPR_liberalism_party_long:0 "개혁주의당"
+SPR_conservatism_party_long:0 "보수공화당"
+SPR_right_authoritarianism_party_long:0 "에스파냐 애국자 연합"
+SPR_despotism_party_long:0 "전국자치공화조직"
 SPR_reactionism_party_long:0 "에스파냐 팔랑헤"
 SPR_accelerationism_party_long:0 "재건주의 운동"
-SPA_accelerationism_party_af:0 "정신분열당"
-SPA_accelerationism_party_af_long:0 "정신분열당"
 
+#COUNTRY DESCRIPTION#
 SPR_DESC_MENU:0 "에스파냐는 분쟁에 휩싸였습니다. 아나키스트, 미래주의자, 공화주의자 모두 서로의 목을 겨누며 에스파냐를 위한 싸움을 일으키는 중입니다. 유럽인들, 특히 에스파냐인들은 벌어질 사달을 직접 보고 있습니다. 남은 의문은 이 필연적인 분쟁에서 누가 이기고, 누가 그로써 이익을 얻고, 얼마나 많은 남녀가 죽게 되겠냐는 것입니다."
 #LEADER DESCRITIONS#
 
@@ -37,37 +36,35 @@ SPR_DESC_MENU:0 "에스파냐는 분쟁에 휩싸였습니다. 아나키스트, 
 spain_cw:0 "에스파냐 내전이 진행 중입니다"
 #DECISIONS (1.5 Update)#
 
+#STARTING
+#CIVIL WAR
 #EVENTS#
-spain.1.t:0 "내전의 발발"
-spain.1.desc:0 "에에에에 큰일 났대요"
-spain.1.a:0 "공화뽕 100퍼로 간다"
-spain.1.b:0 "마스크맨으로 간드앗"
-spain.1.c:0 "프랑코 가즈아아아아아아"
+spain_cw.1.t:0 "내전의 발발"
+spain_cw.1.desc:0 "에에에에 큰일 났대요"
+spain_cw.1.a:0 "공화뽕 100퍼로 간다"
+spain_cw.1.b:0 "마스크맨으로 간드앗"
+spain_cw.1.c:0 "Go with the Anartrollers"
+spain_cw.1.d:0 "프랑코 가즈아아아아아아"
 
-spain.2.t:0 "FAI의 봉기"
-spain.2.desc:0 "좆아나키 애새끼들아 이게 뭐임 시발"
-spain.2.a:0 "아나키스트 개싫음"
-spain.2.b:0 "사자 깃발 개간지"
+spain_cw.2.t:0 "PCE-L 정변"
+spain_cw.2.desc:0 "Ayo Jose Diaz what are you doin with that gun uh oh"
+spain_cw.2.a:0 "Señor Lerroux was later pronounced dead at Madrid Hostpital, at the hour of 15:43"
 
-spain.3.t:0 "JONS의 이탈"
-spain.3.desc:0 "새끼 머리 모양 존나 웃기네"
-spain.3.a:0 "귀두컷 오졌구여"
-spain.3.b:0 "닥쳐 새끼야 열쇠로 긁힌 거라고 이해력 존나 딸리네"
+spain_cw.3.t:0 "JONS 정변"
+spain_cw.3.desc:0 "이 새끼 이마선 좀 보소"
+spain_cw.3.a:0 "Bell-curve headass lookin ass"
 
-spain.4.t:0 "팔랑헤 정변"
-spain.4.desc:0 "Trollface"
-spain.4.a:0 "문제라도?"
+spain_cw.4.t:0 "팔랑헤주의 정변"
+spain_cw.4.desc:0 "쿠쿠루삥뽕"
+spain_cw.4.a:0 "속도박이분께 문제라도?"
 
-#spain.5.t:0 "에스파냐 내전의 끝"
-#spain.5.d:0 ""
-#spain.5.a:0 "Thank God it's over."
+spain_cw.5.t:0 "The Autismfest Ends"
+spain_cw.5.desc:0 "해냈다 겜창들아"
+spain_cw.5.a:0 "에스파냐는 많이 아파"
 
-spain.6.t:0 "윽엑윽 끝"
-spain.6.desc:0 "됐다 시발 게이머들아"
-spain.6.a:0 "에스빠냐는 마니 아빠"
-
-spain.7.t:0 "프랑코의 귀환"
-spain.7.desc:0 "프랑코뽕"
-spain.7.a:0 "100퍼"
+spain_cw.6.t:0 "프랑코의 답신"
+spain_cw.6.desc:0 "Alright so Franco responded to our letter to come back, this is so..."
+spain_cw.6.a:0 "뽕 100, 귀환을 환영한다"
+spain_cw.6.b:0 "뽕은 개뿔 좆까네"
 
 #FOCUSES#
