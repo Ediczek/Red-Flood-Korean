@@ -1,18 +1,18 @@
 ﻿l_english:
 #COUNTRY NAME#
-CAN_britain_social_democratism:0 "캐나다 자치령"
-CAN_britain_social_democratism_DEF:0 "캐나다 자치령"
-CAN_britain_social_democratism_ADJ:0 "캐나다"
+CAN_britain_progressivism:0 "캐나다 자치령"
+CAN_britain_progressivism_DEF:0 "캐나다 자치령"
+CAN_britain_progressivism_ADJ:0 "캐나다"
 CAN_britain_conservatism:0 "캐나다 자치령"
 CAN_britain_conservatism_DEF:0 "캐나다 자치령"
 CAN_britain_conservatism_ADJ:0 "캐나다"
 
 #PARTIES#
 CAN_vanguard_socialism_party:0 "캐나다 공산당"
-CAN_libertarian_marxism_party:0 "사회주의 노동당"
-CAN_revolutionary_anarchism_party:0 "대일조합협회"
+CAN_popular_socialism_party:0 "사회주의 노동당"
+CAN_anarchism_party:0 "대일조합협회"
 CAN_revisionist_socialism_party:0 "독립 사회주의 연맹"
-CAN_social_democratism_party:0 "협력 커먼웰스"
+CAN_progressivism_party:0 "협력 커먼웰스"
 CAN_liberalism_party:0 "자유당"
 CAN_conservatism_party:0 "자유보수당"
 CAN_right_authoritarianism_party:0 "사회신용당"
