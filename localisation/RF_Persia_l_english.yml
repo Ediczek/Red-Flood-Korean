@@ -1,7 +1,7 @@
 ﻿l_english:
 #COUNTRY NAME#
 PER_Iran:0 "이란"
-PER_Iran_DEF:0 "이란 왕국"
+PER_Iran_DEF:0 "이란 셔흐국"
 PER_Iran_ADJ:0 "이란"
 
 PER_APOC_state:0 "영국-이란 석유사"
@@ -230,49 +230,49 @@ PER_Hasan_Arfa_carm:0 "Hasan Arfa"
 
 PER_Thomas_Riversdale_carm:0 "토머스 리버스데일"
 
-PER_Haydar_Khan_carm:0 "Haydar Khan"
+PER_Haydar_Khan_carm:0 "해이대르 헌"
 
-PER_Gholamali_Bayandor_con:0 "Gholamali Bayandor"
+PER_Gholamali_Bayandor_con:0 "골럼앨리 버얜도르"
 
 PER_Rudolf_Burmester_con:0 "루덜프 버미스터"
 
-PER_Alexei_Dombrowski_con:0 "Alexei Dombrowski"
+PER_Alexei_Dombrowski_con:0 "알렉세이 돔브롭스키"
 
-PER_Effat_Tejaratchi_coaf:0 "Effat Tejaratchi"
+PER_Effat_Tejaratchi_coaf:0 "에팻 테저랫치"
 
 PER_Edgar_Ludlow_Hewitt_coaf:0 "에드거 러들로우"
 
-PER_Abdossamad_Kambakhsh_coaf:0 "Abdossamad Kambakhsh"
+PER_Abdossamad_Kambakhsh_coaf:0 "앱둘새매드 컴백쉬"
 
 PER_Per_Glimstedt_theorist:0 "퍼 글림스티드"
 
 PER_Arthur_Sullivan_theorist:0 "아서 설리번"
 
-PER_Fereydoun_Keshavarz_theorist:0 "Fereydoun Kashavarz"
+PER_Fereydoun_Keshavarz_theorist:0 "페레이둔 케섀배르즈"
 
 #CUSTOM TOOLTIPS AND FLAGS#
 1000_infantry_equipment:0 "1000 £rifle_texticon"
 1000_infantry_equipment_blocked:0 "§R1000§! £rifle_texticon"
-PER_SETTING_SUN_DESC:0 "이란 셔흐국은 치욕과 석유로 쌓은 부에 따른 쓰라린 저주로 고통받았습니다. 러시아 내전 동안 방랑하던 군대와 민족주의 파벌들이 나라의 서방에 들이닥쳐선 반란 국가를 수립하고 셔흐의 권력을 찢어놨습니다. 1920년대 후반과 30년대 초반에 이루어진 셔흐의 위대한 개혁들은 아무 의미 없이 그 값만 잔뜩 치르게 되었습니다. This has combined with increased British interests in the petroleum industry and rendered the state a mere slave to the Anglo-Persian Oil Company. This misfortune and shame has set the stage for a radical shake-up in Persia, one that the Shahdom would do well to survive."
+PER_SETTING_SUN_DESC:0 "이란 셔흐국은 치욕과 석유로 쌓은 부에 따른 쓰디쓴 저주로 고통받았습니다. 러시아 내전 동안 방랑하던 군대와 민족주의 파벌들이 나라의 서방에 들이닥쳐선 반란 국가를 수립하고 셔흐의 권력을 찢어놨습니다. 1920년대 후반과 30년대 초반에 이루어진 셔흐의 위대한 개혁들은 아무 의미 없이 그 값만 잔뜩 치르게 되었습니다. 이는 석유산업에서 증가하는 영국의 이익과 맞물려 나라 전체를 영국-이란 석유회사의 노예로 만들고야 말았습니다. 이 악운과 오욕이, 셔흐국의 생존에 필요한 급변의 무대를 마련해주었습니다."
 PER_aryamehr:0 "애리여메흐르"
-PER_take_back_lost:0 "§YUnlock Decisions to reclaim border regions§!"
-PER_unite_ME:0 "§YUnlock Decisions to unite the middle-east§!"
-PER_ESB:0 "§YUnlock Decisions to strike at the Empire in the Gulf§!"
-PER_build_an_empire:0 "§YUnlock Decisions to expand throughout the middle-east§!"
-PER_liberate_baku:0 "§YUnlock Decision to 'liberate' Baku§!"
-APOC_decisions_europe:0 "§YUnlock Decisions to sell oil and mercenaries in Europe§!"
-APOC_decisions_americas:0 "§YUnlock Decisions to sell oil and mercenaries in the Americas§!"
-APOC_decisions_asia:0 "§YUnlock Decisions to sell oil and mercenaries in Asia§!"
+PER_take_back_lost:0 "§Y국경지역 수복 디시전 해제s§!"
+PER_unite_ME:0 "§Y중동 통합 디시전 해제§!"
+PER_ESB:0 "§Y페르시아 만에서의 제국을 향한 타격 디시전 해제§!"
+PER_build_an_empire:0 "§Y중동 전역에서의 확대 디시전 해제§!"
+PER_liberate_baku:0 "§Y바쿠 '해방' 디시전 해제§!"
+APOC_decisions_europe:0 "§Y유럽에서의 석유 및 용병 판매 디시전 해제§!"
+APOC_decisions_americas:0 "§Y아메리카에서의 석유 및 용병 판매 디시전 해제§!"
+APOC_decisions_asia:0 "§Y아시아에서의 석유 및 용병 판매 디시전 해제§!"
 PER_northern_exploration_tooltip:0 "§YUnlock Decisions to Explore for Oil in the North§!"
 PER_APOC_northern1:0 "§YNorthern Wells Explored§!"
-PER_APOC_mercs1_tooltip:0 "§YBritish Mercenaries arrive to protect the company's interests.§!"
-PER_APOC_mercs2_tooltip:0 "§YMore British Mercenaries arrive on the payroll of APOC.§!"
-PER_desert_tigers_tooltip:0 "§YAn American military group called the Desert Tigers arrives in Persia.§!"
-PER_neo_hessians_tooltip:0 "§YIn a revival of old armies-for-hire a group called the Neo-Hessians have formed.§!"
-PER_russian_mercs_tooltip:0 "§YRussian Mercenaries organised from cossacks, tatars, and Russian political outsiders arrive to join the APOC payroll.§!"
+PER_APOC_mercs1_tooltip:0 "§Y영국 용병대가 회사의 이익 보호를 위해 당도합니다.§!"
+PER_APOC_mercs2_tooltip:0 "§Y더 많은 영국 용병대가 APOC에서 봉급을 받고 당도합니다.§!"
+PER_desert_tigers_tooltip:0 "§Y사막의 범이라는 미국 군사집단이 이란에 당도합니다.§!"
+PER_neo_hessians_tooltip:0 "§Y구식 용병대의 재림이라 할 신 헤센군이란 이름의 집단이 창설됩니다.§!"
+PER_russian_mercs_tooltip:0 "§Y카자크, 타타르인, 정계 주변인들로 구성된 러시아 용병대가 APOC에서 봉급을 받고 당도합니다.§!"
 #DECISIONS (1.5 Update)#
 PER_mos_empire:0 "잃어버린 것을 되찾으며"
-PER_mos_empire_desc:0 "The Qajar and Afsharid Dynasties had grand Empires, Persia once stretched from Kabul to Tblisi. No longer, the empire waned as new powers came to influence and eventually dominate central asia and the middle-east. If Iran is to rise to its previous heights, we must reclaim the lost territories."
+PER_mos_empire_desc:0 "커저르조와 애프셔르조가 세운 제국 덕에 이란은 한때 카불에서 트빌리시까지 뻗어 있었습니다. 더 이상 그렇지 못한 제국은 끝내 중앙아시아와 중동까지 지배하게 된 새 열강들의 영향력에 흔들렸습니다. 이란이 다시 과거의 지위로 오르려면 옛 영토들을 수복해야 마땅합니다."
 #borders#
 
 PER_demandkurdishborder:0 "쿠르디스탄 국경 요구"
@@ -345,13 +345,13 @@ PER_starting_mechanic_desc:0 "Persia's position is one of insurmountable debt to
 
 PER_denbts_tooltip_5:0 "영국에 더 많은 돈을 보낼 것입니다..."
 
-PER_denbts_tooltip_1:0 "더 이상은 없다, 셔흐께서 요구하신다!"
+PER_denbts_tooltip_1:0 "더 이상은 없다, 신금이 그러하니라!"
 
-PER_FIRE_ON_THE_WORLD_TOOLTIP:0 "Unlocks \"§RFire On The World§!\" decisions, which allow you to fund conflicts across the World."
+PER_FIRE_ON_THE_WORLD_TOOLTIP:0 "세계 전역의 분쟁에 자금을 대도록 해줄 \"§R세계에 붙은 불§!\" 디시전들을 해제합니다."
 
 PER_fire_on_the_world_scw:0 "세계에 붙은 불: 안달루시아 작전"
 
-PER_fire_on_the_world_scw_desc:0 "Andalusia, the crown jewel of the Islamic world for the longest time, is now in flames. What shall become of its people will be determined by Persian weapons, all the while a British officer observes in the background, drinking some coffee.\n\n 에스파냐 내전에 대한 우리의 기여도는 다음과 같습니다: [?PER_commitment_to_spain|%Y0]§!"
+PER_fire_on_the_world_scw_desc:0 "안달루시아, 오랫동안 이슬람 세계의 왕관 위 보석이 이제 불길에 휩싸였습니다. What shall become of its people will be determined by Persian weapons, all the while a British officer observes in the background, drinking some coffee.\n\n 에스파냐 내전에 대한 우리의 기여도는 다음과 같습니다: [?PER_commitment_to_spain|%Y0]§!"
 
 PER_sell_guns_to_scw_regen:0 "회복주의파를 위한 총기 판매"
 
@@ -515,7 +515,7 @@ RPR_lib_persification_assyrians:0 "아시리아인 페르시아화"
 
 RPR_persification_cost_azeris_text:0 "£manpower_texticon  §Y30000§! £pol_power  §Y45§! £command_power  §Y25§!"
 RPR_persification_cost_azeris_text_blocked:0 "£manpower_texticon  §R30000§! £pol_power  §R45§! £command_power  §R25§!"
-RPR_lib_persification_azeris:0 "아제르인 페르시아화"
+RPR_lib_persification_azeris:0 "아재르인 페르시아화"
 
 RPR_persification_cost_turkmen_text:0 "£manpower_texticon  §Y30000§! £pol_power  §Y45§! £command_power  §Y25§!"
 RPR_persification_cost_turkmen_text_blocked:0 "£manpower_texticon  §R30000§! £pol_power  §R45§! £command_power  §R25§!"
@@ -539,7 +539,7 @@ RPR_lib_persification_uzbeks:0 "우즈베크인 페르시아화"
 #
 
 PER_RPR_tudeh_expansion_decisions:0 "옛 국경 회복"
-PER_RPR_tudeh_expansion_decisions_desc:0 "As the borders of Persia have shrunk, so has the malaise of our nation grown. People who once were subjects of the Shah became subjects to Tsars and foreign Kings. We have a responsibility not only to these people as cultural brothers, but as comrades-in-arms against imperialist repression."
+PER_RPR_tudeh_expansion_decisions_desc:0 "이란의 국경이 쪼그라들며 우리 민족을 향한 해악은 자라났습니다. 한때 셔흐의 신민이었던 이들은 차르와 다른 왕들의 신민이 되었습니다. 우리는 문화상 형제들로서 뿐만 아니라 제국주의 업악에 맞서는 전우로서도 책임이 있습니다."
 
 RPR_tudeh_expansion_iraq:0 "바그다드 및 카르발라 차지"
 
@@ -547,7 +547,7 @@ RPR_tudeh_expansion_kurds:0 "쿠르드인들을 다시 품으로"
 
 RPR_tudeh_expansion_kurds_more:0 "아르 락카로의 발진"
 
-RPR_tudeh_expansion_azer:0 "아제르인 보호"
+RPR_tudeh_expansion_azer:0 "아재르인 보호"
 
 RPR_tudeh_expansion_afghan:0 "호러선 통합"
 
@@ -652,39 +652,39 @@ RPR_jangle_persification_uzbeks:0 "우즈베크인 연방화"
     
 #EVENTS#
 per.101.t:0 "양파 사건"
-per.101.desc:0 "The latest incident happened in Ilam. A city well known for its oil production, it also happens to be full of Kurds  - flashpoint for violence and ethnic strife if ever there was one. While the sequence of events remains unclear, we have gotten a rough understanding of what’s going on. Apparently, some onion vendor in the city was plying his wares when he got into a fight with an Englishman over the prices. While both blamed each other, the incident was used to spark a major protest that grew into a riot. Unfortunately, some socialist elements in the mob directed them to attack a prison and to free the onion salesman, claiming him to “A hero opposing the tyranny of Britain and the Shah”. This shouldn’t be a major cause for concern if not for the fact that the socialists not only blame the British for the arrest of the innocent onion salesman but have risen to attack their offices and anyone who so much as speaks English, pelting them with rocks and symbolically onions.\nBelieving him to be the ringleader, we secretly had the idiot onion salesman sneaked back to Tehran for interrogation, and we’re going to discover the full extent of his plans. Numerous parts of the country are rioting, much of it stirred up by the socialists. The British ambassador also made a personal visit to the Shah, informing him that his nephew had been “greatly insulted” by some “vegetable merchant” and demanding justice. Still, we believe that we can salvage this by interrogating who people on the streets cheer as the “Onion Revolutionary” and working out the full extent of his little plot to overthrow the Shah. Worse still, communications have slowed down and a number of cities administrations are crippled by the spontaneous solidarity demonstrations."
+per.101.desc:0 "근래의 사건은 일럼에서 벌어졌습니다. 석유 생산지로 유명한 도시이자 쿠르드인들로 가득한 곳은, 만약에 벌어질 폭력과 종족갈등의 신호탄이 될 곳이었습니다. 사건의 경과는 불명이지만, 무슨 일이 벌어졌는가에는 대략의 이해를 얻을 수 있었습니다. Apparently, some onion vendor in the city was plying his wares when he got into a fight with an Englishman over the prices. While both blamed each other, the incident was used to spark a major protest that grew into a riot. Unfortunately, some socialist elements in the mob directed them to attack a prison and to free the onion salesman, claiming him to “A hero opposing the tyranny of Britain and the Shah”. This shouldn’t be a major cause for concern if not for the fact that the socialists not only blame the British for the arrest of the innocent onion salesman but have risen to attack their offices and anyone who so much as speaks English, pelting them with rocks and symbolically onions.\nBelieving him to be the ringleader, we secretly had the idiot onion salesman sneaked back to Tehran for interrogation, and we’re going to discover the full extent of his plans. 나라의 여러 곳에서 폭동이 진행 중이고 그 중 대다수가 사회주의자들의 사주로 이루어졌다는 것을 말입니다. 영국 대사 역시 셔흐를 개인 알현하여 셔흐의 조카가 몇몇 “채소 상인들”에게 “크게 모욕당했으”며 정의를 바라고 있음을 알렸습니다. Still, we believe that we can salvage this by interrogating who people on the streets cheer as the “Onion Revolutionary” and working out the full extent of his little plot to overthrow the Shah. 불안한 건 교신이 지연되고 있는 데다, 동시에 벌어진 연대 시위로 여러 도시 행정부가 제 기능을 다하지 못하고 있다는 점입니다."
 per.101.a:0 "Oddly he can feign cluelessness perfectly."
 
 per.1.t:0 "예상치 못한 반전"
-per.1.desc:0 "\"폐하, Bandar 'E Abbas와의 교신이 두절됐습니다.\"\n\n\"뭐라?\" said Zahir Shah, feeling a seething unrest within his body, his throat spilling acid into his mouth. \"If you're lying, I will have you executed - good sir.\"\nHe picked up his phone, talking to APOC representatives in Tehran.\n\n\"They've taken everything. Our administrators are being imprisoned, or worse, executed.\" said the voice behind the speaker.\n\"I... I declare total mobilization! No mercy for the bastards that are destroying our ancient Nation!\" The Shah's thundering voice proclaimed across his palace. And yet, not a single one of the revolutionaries was listening."
+per.1.desc:0 "\"폐하, 밴대르 애버스와의 교신이 두절됐습니다.\"\n\n\"뭐라?\" said Zahir Shah, feeling a seething unrest within his body, his throat spilling acid into his mouth. \"거짓이라면 경의 목을 칠 것이야.\"\n수화기를 집어든 그는 테흐런의 APOC 대표단에게 연락했습니다.\n\n\"They've taken everything. Our administrators are being imprisoned, or worse, executed.\" said the voice behind the speaker.\n\"지... 짐은 총동원을 명한다! 우리의 오랜 민족을 파괴하려는 악도에게 자비를 보이지 마라!\" 셔흐의 목소리는 우레와 같이 궁정 전체를 울렸습니다. 그렇지만 그를 듣고 있던 혁명분자는 단 한 명도 없었습니다."
 per.1.a:0 "이 소란이 전부 양파 가격 때문이라는 건가?"
 per.1.b:0 "왕, 잉글랜드, 그리고 망할 양파 값까지 싹 다 몰아내자!"
 
 per.2.t:0 "위대의 잿더미 위에서"
-per.2.desc:0 "The past few decades have not been kind to the Persian nation. Following the many humiliations and cruel occupations by foreign tyrants such as the rugged Russian bear or that accursed lion of Albion, the once great empire of the Near East has fallen from a regional hegemon and the protector of the Shia faith to another forgettable and impoverished rump state.\nIt was taken for granted that the fall of these giants following the Great War would bring prosperity to Persia. But despite the collapse of the British raj and the Russian Civil War, we fell only further. Revolutionaries, opportunists, secessionists and their marauding bands of thugs and savages, wandered across our lands and carved it up into many different states and nations. British troops, in response to the vacuum left by the collapsing Russian Empire only tightened their grip on Persia, leaving us unable to respond to the injustices in the West.\nThis only intensified in the following years as the loss of the Raj fueled British demand for Iranian oil, leading to the Shah becoming little more than a puppet with the Anglo-Persian Oil Company (APOC) effectively controlling the country. The lack of checks and balances on the influence and strength of the APOC has had the deeply concerning side effect of pushing workers, peasants and nationalists into the hands of Socialist movements in reaction to Capitalist agitation and exploitation of Persian territories. Support for the councilist menace has achieved its strongest forms in ethnically Non-Persian pieces of land that miraculously did not break away in the 20’s. A state of affairs that has made the situation far more dire as it risks not only unacceptable political change, but also risks the territorial integrity of the already beaten and mutilated body of Persia.\nIt seems undeniable to many that in the coming years, the Jewel of the Orient will either fall to the red flood or use it’s conquerors to crush it, even if it may come at the cost of total integration. Nothing however, is ever for certain. And only time will tell what God has in store for us."
+per.2.desc:0 "지난 수십 년은 페르시아 민족에게 그리 온유하지 않았습니다. 수많은 치욕들과, 투박한 러시아 곰이나 저주받을 알비온의 사자의 잔혹한 점령 끝에, 한때 지역의 패자이자 쉬아 신앙의 수호자였던 중동의 위대했던 제국은 잊히고 빈곤해진 잔재국으로 굴러 떨어졌습니다. \n대전쟁 직후 이 거인들의 몰락이 이란에 번영을 가져다 주리란 건 당연해 보였습니다. 그러나 영국령 라자의 붕괴와 러시아 내전에도, 우리는 더 어두운 곳으로 떨어졌습니다. 혁명분자들, 기회주의자들, 분리주의자들, 약탈을 위해 떠도는 놈들의 비적떼와 야인들 무리가 우리 땅 전역을 방랑하며 수많은 국가와 민족을 빚어냈습니다. 러시아 제국의 붕괴에 따른 공백을 틈탄 영국군은 이란에 대한 자신들의 손아귀를 더욱 조이며 우리가 서방의 불의에 맞서지 못하도록 만들었습니다.\n이후 라자의 상실로 영국이 이란의 석유를 더욱 필요로 하게 되면서 상황은 악화되어갔고, 셔흐는 이 나라를 능히 통제하는 영국-이란 석유회사(APOC)의 꼭두각시에 불과하게 되었습니다. APOC의 영향력과 힘에 대한 견제의 결여는, 자본주의적 선동과 이란 땅의 착취에 대한 반동으로서 노동자, 농민, 민족주의자들을 사회주의자 운동으로 밀어붙이는 우려스러운 부수 효과를 낳았습니다. 평의회주의 패악을 향한 지지는, 기적과 같이 20년대에 떨어져 나가지 않았던 비페르시아인들 사이에서 가장 강하게 나타났습니다. 국무는, 결코 받아들일 수 없는 정치적 변화의 감수 뿐만 아니라, 이미 멍들고 훼손된 이란이라는 이름의 몸뚱이의 보전 역시 감수해야 할 정도로 상황을 암담하게 만들었습니다.\n다가올 세월 앞에 동양의 보석이 붉은 홍수에 잠겨 버리거나, 혹은 완전한 흡수를 감수하고서라도 자신들의 정복자들을 이용해 파도를 분쇄하리란 건 수많은 이들의 눈에 부정할 수 없는 사실처럼 비칩니다. 하지만 무엇도 분명친 않습니다. 하느님께서 우리를 위하여 무엇을 준비해두셨는가는 오직 시간만이 말해줄 것입니다."
 per.2.a:0 "암울한 상황이야."
 per.2.b:0 ""
 
 per.3.t:0 "런던을 위한 추가 양보"
-per.3.desc:0 "Worrying news has come today from representatives of the Anglo-Persian Oil Company. Issuing demands for increased privileges, tax exemptions in areas with more than a given estimate of oil and even an expansion of regions where monopolies have been granted to APOC. Demands as outrageous like these ought to cost people their heads. But APOC is no ordinary entity. It’s deep connections to the British Empire mean that action against them could throw us into conflict with the Anglo menace. A fate that none are eager to see come about. The reasons APOC cites for these demands are based mainly on the rising threat of war in Europe and how Britain needs easier access to Persian oil fields in order to fuel their vast navy and rapidly expanding air force.\nBritain and the APOC have also been quick to remind us about our debts to the United Kingdom from various loans that we have taken throughout the years, and that Britain would not hesitate to force out payment from us should the need arise, no matter how harsh the actions may be.\nThese debt obligations give us little choice in the matter. It would be foolish to risk embargoes, or worse, war with the Anglo menace. Even if it shall disgrace the Persian nation."
+per.3.desc:0 "영국-이란 석유회사의 대표단이 오늘 우려스러운 소식을 전해왔습니다. Issuing demands for increased privileges, tax exemptions in areas with more than a given estimate of oil and even an expansion of regions where monopolies have been granted to APOC. Demands as outrageous like these ought to cost people their heads. But APOC is no ordinary entity. It’s deep connections to the British Empire mean that action against them could throw us into conflict with the Anglo menace. A fate that none are eager to see come about. The reasons APOC cites for these demands are based mainly on the rising threat of war in Europe and how Britain needs easier access to Persian oil fields in order to fuel their vast navy and rapidly expanding air force.\nBritain and the APOC have also been quick to remind us about our debts to the United Kingdom from various loans that we have taken throughout the years, and that Britain would not hesitate to force out payment from us should the need arise, no matter how harsh the actions may be.\nThese debt obligations give us little choice in the matter. It would be foolish to risk embargoes, or worse, war with the Anglo menace. Even if it shall disgrace the Persian nation."
 per.3.a:0 "도대체 얼마나 더 원하는 건가?"
 per.3.b:0 ""
 
 per.36.t:0 "이란이 국경지를 요구하다"
-per.36.desc:0 "Our worst fears realised: Tehran has demanded the exit of Kurdish defence forces from Piranshah and the wider East Kurdistan Province, under threat of of invasion. After more than a decade of Kurdish rule, it appears the dreams of many are dashed, as foreign lords seek to return. There is of course the option to resist the Shah, but his battle-hardened army may prove too much for us. But to surrender before a shot is fired could doom us all to subjugation, or worse."
+per.36.desc:0 "최악의 공포가 우리 앞에 닥쳤습니다. 테흐런에서 침공의 위협을 담보한 채 피런셔흐와 동쿠르디스탄에서 쿠르드 방위군을 물리라 요구해온 것입니다. 10년 넘는 쿠르드의 통치 끝에, 외세가 자신들의 귀환을 말하며 많은 이들의 꿈을 짓밟으려 하고 있습니다. 당연히 셔흐에게 대항한다는 선택지도 존재하지만, 그의 숙달된 군을 이기기는 힘들 듯합니다. 하지만 총 한 번 쏴보기도 전에 항복하는 건 종속, 혹은 그보다 더한 종말로 우리를 끌어당길 겁니다."
 per.36.a:0 "요구에 응한다."
 per.36.b:0 "힘으로 빼앗아 보라 그래!"
 
-per.361.t:0 "Kurdistan Relents"
+per.361.t:0 "쿠르디스탄이 포기하다"
 per.361.desc:0 "Kurdistan has capitulated to our diplomatic overtures, strongarming their leader into signing their Persian territory back to our control."
 per.361.a:0 "희소식이군!"
 
-per.362.t:0 "Kurdistan Stands Defiant"
-per.362.desc:0 "Kurdistan, a hellish polity in the center of the Levant, has refused to concede their illegitimate control of our lands."
+per.362.t:0 "쿠르디스탄이 맞서다"
+per.362.desc:0 "쿠르디스탄, 레반트 한가운데의 엿같은 정치체가 놈들이 부정하게 차지한 우리 땅을 할양하지 않겠다고 전해왔습니다."
 per.362.a:0 "개자식들!"
 
 per.37.t:0 "이란이 국경지를 요구하다"
-per.37.desc:0 "An ultimatum has arrived from Tehran today: they threaten us with military intervention if we do not hand over the Ros Kah and Kandahar provinces. This demand was not unexpected, as the ambitions of the young ruler Mohammad Reza are in stark contrast to his middling father’s. The shots of the Iranian civil war are still echoing throughout the Middle East, but the shah seems ready to lead his nation into another war, to regain its former glory. We simply cannot let another Iranian hegemony happen in the region, not to mention letting our rightful lands out of our hands, but the shah seems fanatical about his claims, and who knows how could an Iranian-Afghan conflict end for our country.\n\nWe have 12 hours to respond to this ultimatum: we either hand over the territories or we show Tehran that we’re not afraid to face them."
+per.37.desc:0 "오늘 테흐런에서 최후통첩이 날아들었습니다. they threaten us with military intervention if we do not hand over the Ros Kah and Kandahar provinces. This demand was not unexpected, as the ambitions of the young ruler Mohammad Reza are in stark contrast to his middling father’s. The shots of the Iranian civil war are still echoing throughout the Middle East, but the shah seems ready to lead his nation into another war, to regain its former glory. We simply cannot let another Iranian hegemony happen in the region, not to mention letting our rightful lands out of our hands, but the shah seems fanatical about his claims, and who knows how could an Iranian-Afghan conflict end for our country.\n\n12시간 내로 최후통첩에 답해야 합니다. 영토를 넘기든가, 테흐런에게 우리가 두려움 없이 맞설 것임을 보여주어야 합니다."
 per.37.a:0 "우린 놈들에게 대항할 수 없어. 원하는 걸 줘 버려라!"
 per.37.b:0 "아프가니스탄은 이란에게 고개 숙이지 않는다! 요구를 거절한다!"
 
@@ -692,25 +692,25 @@ per.371.t:0 "아프가니스탄이 품에 들다"
 per.371.desc:0 "The weak Afghans couldn’t withstand the pressure: our troops marched into Kandahar without bloodshed. The people of Kas Roh waved Irani flags and celebrated their return into the empire, as they greeted the shah, who held a speech about unity and the triumphs of today and yesterday. He finished said speech with an ancient Farsi proverb:\n“Every nation is the architect of its own fortune.”\nThis diplomatic success made Mohammed Reza more popular than ever, as there were more celebrations throughout the whole country and in the capital. But for the empire, this is only the beginning. Many of our old territories are still under foreign control. This victory showed the world that our nation knows no compromise, and one day we shall regain the former might that the last hundred years took from us."
 per.371.a:0 "영광을 향하여!"
 
-per.372.t:0 "아프가니스탄이 왕명을 거절하다"
+per.372.t:0 "아프가니스탄이 어명을 거절하다"
 per.372.desc:0 "In a fit of hubris, the Afghans refused to cede our righteous territories. They denounced our ultimatum, calling it unjust and humiliating. This is a thorn in our side, but we will retake Kandahar and Ras Koh sooner or later. Afghanistan won’t stand in the way of our renascent empire. As the shah brought these news to light, riots broke out in the capital. An angry mob stormed into the Afghani Embassy of Tehran, damaging the building and lynching two delegates. This worsened diplomatic relationships even further between us and our neighbor, leading many to think that a new set of conflicts in the Middle East are inevitable."
 per.372.a:0 "놈들이 감히!"
 
 per.38.t:0 "이란이 국경지를 요구하다"
-per.38.desc:0 "Worrying news: Iranian delegates claim that the Tibriz and Gilan provinces are Iranian territory and that they are willing to negotiate to avoid an armed conflict. This news is far from fortuitous, as the shah stated publicly various times that parts of Azerbaijan are so-called “integral parts” of Iran. The Iranian public and the minorities in our southern territories are supporting these claims, leading to small riots in Zanjan and Bukan. We must protect our lands at all costs, but we have to also reckon with the wrath of Iran.\nWhat will our answer be?"
+per.38.desc:0 "우려스러운 소식입니다. 이란 사절단이 티브리즈와 길런 주가 이란의 영토라면서 무력분쟁을 피하고자 협상할 의지가 있다고 밝혀왔습니다. This news is far from fortuitous, as the shah stated publicly various times that parts of Azerbaijan are so-called “integral parts” of Iran. The Iranian public and the minorities in our southern territories are supporting these claims, leading to small riots in Zanjan and Bukan. We must protect our lands at all costs, but we have to also reckon with the wrath of Iran.\nWhat will our answer be?"
 per.38.a:0 "잘 알았네."
 per.38.b:0 "오직 차갑게 식은 내 손아귀에서만."
 
 per.381.t:0 "아제르바이잔이 이란의 요구를 수용하다"
-per.381.desc:0 "A diplomatic triumph! Azerbaijan agreed to hand over our claimed territories, and our troops marched into Tibriz and Gilan without resistance! Of course, they faced overwhelming odds, but our army was ready to take our lands back by force too. There were celebrations all across the country, especially in Tehran, where a statue of Mohammed Reza was revealed to the public. Our nation is another step closer to its former might, but we must be ready, as we do not know who will dare to openly oppose our ambitions."
+per.381.desc:0 "외교의 승리입니다! 아제르바이잔이 우리의 주장 영토를 넘기는 데 동의하면서 우리 군대는 아무런 저항 없이 티브리즈와 길런에 입성했습니다! Of course, they faced overwhelming odds, but our army was ready to take our lands back by force too. There were celebrations all across the country, especially in Tehran, where a statue of Mohammed Reza was revealed to the public. Our nation is another step closer to its former might, but we must be ready, as we do not know who will dare to openly oppose our ambitions."
 per.381.a:0 "현명한 선택이군."
 
 per.382.t:0 "아제르바이잔이 이란의 최후통첩을 거부하다"
-per.382.desc:0 "We got a response from Azerbaijan: despite our pressure, they refuse to give our old territories back. This act is shameful, even surprising as they dared to oppose our claims publicly. Azerbaijan isn’t the first nation to stand against Iran and it certainly won’t be the last. We must strengthen our western border, and ready our troops, as it seems we can’t get our rightful lands back without war."
+per.382.desc:0 "아제르바이잔에서 답신이 왔습니다. 우리의 압력에도 놈들은 우리의 옛 영토를 반환하길 거부했습니다. This act is shameful, even surprising as they dared to oppose our claims publicly. Azerbaijan isn’t the first nation to stand against Iran and it certainly won’t be the last. We must strengthen our western border, and ready our troops, as it seems we can’t get our rightful lands back without war."
 per.382.a:0 "얼마나 우둔한지."
 
 per.39.t:0 "이란이 국경지를 요구하다"
-per.39.desc:0 "The Iranians have long wanted to rule over Balochistan, but Reza shah, the puppet of the Brits, never publicly claimed the region should belong to them. This changed today, as the Iranian delegates handed us an ultimatum with the signature of the new shah, Mohammed Reza. They demand that we cede Balochistan, or they’ll take it by force. It seems that these  aren’t empty threats, as our intelligence service reports large troop movements nearby our borders. We’re aren’t in a state to face Iran, but we cannot let Balochistan out of our grasp, and who knows, maybe it's not that precious for Tehran to wage a war against us."
+per.39.desc:0 "이란은 오랫동안 발로치스턴을 지배하려 들었지만, 영국의 허수아비에 불과했던 레저 셔흐는 대놓고 해당 지역의 영유권을 주장하지 못 했습니다. 이란 사절단이 새 셔흐 모햄메드 레저 셔흐의 서명이 담긴 최후통첩을 우리에게 넘기면서 오늘에 상황은 바뀌었습니다. 저들은 우리가 발로치스턴을 넘기지 않으면 힘으로 빼앗겠다 말하고 있습니다. 우리 첩보부가 우리 국경 근처에서 대규모 군사 이동을 보고한 것으로 보아 빈말은 아닌 듯합니다. 우리는 이란을 상대할 만한 상태가 아니지만, 발로치스턴을 그냥 줄 수도 없는 노릇입니다. 누가 알겠습니까, 어쩌면 테흐런에겐 전쟁을 감수할 만큼 그 땅이 그리 귀하지 않을 수도 있겠죠."
 per.39.a:0 "군사분쟁을 감수할 순 없다. 발로치스턴을 할양하라!"
 per.39.b:0 "허풍이길 바라는 수밖에. 거래는 없다!"
 
@@ -724,14 +724,14 @@ per.392.a:0 "멍청이들!"
 
 per.4.t:0 "적당한 제안"
 per.4.desc:0 "A few weeks ago, APOC prospectors began a new series of investigations into speculated oil formations outside of the presently exploited fields. And today, following countless hours of tireless work beneath the sweltering Persian sun, reports have come in that massive oil reservoirs have indeed been found deep beneath the ground. \nThe APOC has therefore requested that the Shah and his government expand company concessions to cover the new oil deposits, as well as complete tax exemption throughout all of Persia as opposed to just the previously agreed upon areas in the Southern edges of the country. The delegates from the APOC have "offered" these re-negotiated terms in lieu of a number of debt-service payments, which cannot be covered with our current revenues. While it is also true that the government will receive a sizable share of the profits, the Shah's court was outraged that the imperial government was not able to secure a large share of the revenue from the new concessions.\nMore concerning are the expanded concessions; vocal arguments have filled the Imperial Palace for hours now, with demonstrators taking to the street to oppose this apparent abnegation of Persian sovereignty. \nAt the end of the day, the Shah said that, with a heavy heart and with much regret, he has accepted the Company's proposal. The Shah cited the fact that refusal could result in a government default, possibly provoking a dramatic response from London, a course of events which - he emphasized - the Persian nation cannot afford. \nThe public has been rather less understanding of the government's situation, violently expressing discontent in a number of cities; the APOC is rumored to be expanding their deployment of mercenary troops in response." 
-per.4.a:0 "The Company can squeeze much from a stone..."
+per.4.a:0 "회사는 원하는 만큼 암반을 쥐어짤 수 있지..."
 per.4.b:0 ""
 
 #Oman
 per.40.t:0 "이란이 굴종을 요구하다"
-per.40.desc:0 "The waves of Iranian revanchism inevitably washed over us. An ultimatum from Tehran arrived this day, with some worrying demands in it. They thankfully aren’t interested in our territories, but they want to ensure our loyalty to the Empire and to the shah. As they overpower us in every way possible and have no allies to take a stand against them with, it seems as if we've got no other option than to accept the humiliation and accept the terms without resistance. What will our decision be?"
-per.40.a:0 "우리나라엔 슬픈 날이구나... (become a puppet)"
-per.40.b:0 "셔흐의 장화굽을 핥진 않을 것이다!"
+per.40.desc:0 "이란의 복수주의는 마침내 우리를 쓸어내고야 말 것입니다. An ultimatum from Tehran arrived this day, with some worrying demands in it. They thankfully aren’t interested in our territories, but they want to ensure our loyalty to the Empire and to the shah. As they overpower us in every way possible and have no allies to take a stand against them with, it seems as if we've got no other option than to accept the humiliation and accept the terms without resistance. What will our decision be?"
+per.40.a:0 "우리나라엔 슬픈 날이구나... (종속국이 됩니다)"
+per.40.b:0 "셔흐의 장화굽이나 핥진 않을 것이다!"
 #Yemen
 per.41.t:0 "이란이 굴종을 요구하다"
 per.41.desc:0 "Iran built its hegemony over the Middle East from the ruins of the civil war and today, their gaze turned to us. They demand our subordination and our loyalty to Mohammed Reza, basically degrading us to a puppet of Iran. This is of course unacceptable, but Iranian troop movements were reported near our borders, and they seem ready to subjugate our country by force if needed. Our decision will decide the fate of the next generations, our culture, but most importantly, it will decide the fate of Yemen. How do we respond to their demands?"
@@ -739,17 +739,17 @@ per.41.a:0 "수락해라... 우리에겐 선택지가 없다."
 per.41.b:0 "오늘 죽는 이는 내일의 죄악에서 안전하겠지... 셔흐 앞에 무릎 꿇지 않을 것이다!"
 
 per.42.t:0 "이란이 쿠웨이트 통제권을 요구하다"
-per.42.desc:0 "Worrying news from the Middle East: Iran, under the leadership of the revanchist Mohammed Reza Shah, demands complete control over Kuwait. After losing most of our oil imports from Persia, they once again want to take another territory rich in black gold from us.\nIran after getting rid of the weak Pahlavi Reza fell into civil war, and after a monarchist victory in the conflict, they put the son of the old shah on the throne. Mohammed differed from his father greatly, reclaiming a lot of old lands, which Iran lost through the years. His goal clearly is to restore Iranian hegemony over the Middle East.\nIf we act carefully, we might avoid open conflict with Iran, while also holding onto our colonies… What is our answer to the demands?"
+per.42.desc:0 "중동에서의 우려스러운 소식입니다. 복수주의자 모햄메드 레저 셔흐의 재위 아래 있는 이란이 쿠웨이트의 완전한 통제권을 요구하고 있습니다. After losing most of our oil imports from Persia, they once again want to take another territory rich in black gold from us.\nIran after getting rid of the weak Pahlavi Reza fell into civil war, and after a monarchist victory in the conflict, they put the son of the old shah on the throne. Mohammed differed from his father greatly, reclaiming a lot of old lands, which Iran lost through the years. His goal clearly is to restore Iranian hegemony over the Middle East.\nIf we act carefully, we might avoid open conflict with Iran, while also holding onto our colonies… What is our answer to the demands?"
 per.42.a:0 "좋습니다, 팔래비 씨."
 per.42.b:0 "힘으로 빼앗아 보라지."
 
 per.43.t:0 "이란이 카타르 통제권을 요구하다"
-per.43.desc:0 "An ultimatum from Tehran: hand over the peninsula of Qatar, or face the armies of Iran.\nThe territories they’re asking for aren’t large, but if we would sway before them, we would hand control over important trading routes in the Persian Gulf. Mohammed Reza Shah, the leader of Iran, seems ready to wage war against us if we dare to stop him from building his hegemony over the region. It seems that the Middle East cannot hold onto peace… What should we do?"
+per.43.desc:0 "테흐런에서의 최후통첩입니다. 카타르 반도를 넘기든가, 아님 이란의 군대와 마주하라.\nThe territories they’re asking for aren’t large, but if we would sway before them, we would hand control over important trading routes in the Persian Gulf. Mohammed Reza Shah, the leader of Iran, seems ready to wage war against us if we dare to stop him from building his hegemony over the region. It seems that the Middle East cannot hold onto peace… What should we do?"
 per.43.a:0 "식민지를 양보한다."
 per.43.b:0 "놈들을 바다에 내던진다."
 
 per.44.t:0 "이란이 두바이 통제권을 요구하다"
-per.44.desc:0 "Another ultimatum from the Middle East: Iran demands complete control over the city of Dubai, and the territories around it. This is far from surprising, as Shah Mohammed Reza openly expressed his expansionist views and claims before. Now, he threatens military intervention, if we were to refuse his demands.\nAfter losing the oil deposits of Persia, we can’t let another oil-rich protectorate slip out of our hands… What is our answer to the Shah?"
+per.44.desc:0 "중동에서의 또 다른 최후통첩입니다. 이란이 두바이 시와 일대 영토의 완전한 통제권을 요구하고 있습니다. 모햄메드 레저 셔흐가 과거 자신의 팽창주의적 시각와 주장을 공표했으니 놀라울 일은 아닙니다. Now, he threatens military intervention, if we were to refuse his demands.\nAfter losing the oil deposits of Persia, we can’t let another oil-rich protectorate slip out of our hands… What is our answer to the Shah?"
 per.44.a:0 "식민지를 양보한다."
 per.44.b:0 "놈들을 바다에 내던진다."
 
@@ -764,8 +764,8 @@ per.46.a:0 "좋은 계획이야."
 per.46.b:0 "아니, 우리의 길을 간다."
 
 per.47.t:0 "사제단 진압"
-per.47.desc:0 "Today, three mullahs were arrested in Tehran, while protesting against the secular policies of Shah Mohammed Reza.\n\nHamed Radan, a famous mullah from Isfahan, prayed in the main square of Tehran, while his supporters shouted anti-monarchist slogans, one of them even tore a flag of the Pahlavi dynasty apart. Thankfully, only a few joined the protest and the police quickly dispersed the crowd and arrested the participants.\n\nBut Radan mullah isn’t the first one to protest against the reforms of the “white revolution”. Most of the Shia clergy have expressed their objection against the westerizing efforts. Some of them are endorsing the “Fayadan-e Islam”, a radical reactionary movement, which is supposedly behind the anti-monarchist actions, such as Radan’s protest.\n\nWhile a large percentage of mullahs are against secularization, some of them realized the importance of the Shah’s efforts for progress. Mohammed Reza promised that while the radical mullahs and the backers of the Fayadan-e Islam will be silenced, those who are in line with the new policies will have nothing to fear."
-per.47.a:0 "Mullah들에게 제한된 자치권을 허용한다."
+per.47.desc:0 "오늘, 세 명의 몰러들이 모햄메드 레저 셔흐의 세속정책에 반대하는 시위 도중 체포되었습니다.\n\n에스퍼헌 출신의 유명 몰러인 해미드 래던이 테흐런의 주광장에서 기도를 드리는 동안, 그의 지지자들은 반군주주의 표어를 외치고 그 중 한 명은 팔래비조의 깃발을 찢기까지 했습니다. 다행히 시위에 참가한 인원은 소수로, 경찰은 재빨리 군중을 해산시키고 참가자들을 체포했습니다.\n\n그러나 “백색 혁명”의 개혁에 맞서 시위를 한 게 래던 몰러가 처음은 아닙니다. 쉬아 사제단의 대부분은 서양화 중점에 대한 자신들의 반대를 피력했습니다. 개중 일부는 래던의 시위와 같이 반군주주의 행동의 배후로 추정되는 급진 반동 운동인 “Fayadan-e Islam”을 옹호하고 있습니다.\n\n몰러들의 대다수가 세속화에 반대하지만, 일부 몰러들은 진보를 향한 셔흐의 노력이 얼마나 중요한지 이해하고 있습니다. 모햄메드 레저 셔흐는 급진 몰러들과 Fayadan-e Islam의 후원자들을 침묵시키겠다면서도, 선을 지키는 이들이라면 새 정책들을 두려워할 것 없다고 약속했습니다."
+per.47.a:0 "몰러들에게 제한된 자치권을 허용한다."
 per.47.b:0 "충심이 신심을 앞서야 한다."
 
 per.5.t:0 "백군의 승리"
@@ -773,8 +773,8 @@ per.5.desc:0 "The Sadabad Complex had seen better days. Once a great seat of imp
 per.5.a:0 "Nothing to add, continue as you were."
 per.5.b:0 ""
 
-per.51.t:0 "모햄매드 셔흐가 왕위에 오르다"
-per.51.desc:0 "레저 셔흐의 신하들이 혁명분자들을 격퇴했다곤 해도, but his disgrace was completed long before that. As pressure has mounted from the British, the Shah's loyal ministers have rallied around the heir to the throne, Mohammed Reza. The Shah was presented a simple choice, allow his young son to take the throne and cast aside the British, or hold power and await the knock at the door.\nNaturally, the Shah agreed to his ministers ultimatum, and will retire in comfort as his progeny carries his legacy forwards without the harrying from London. He would be lying if he did not feel a twitch of guilt, but also jealousy. Fortune favours Mohammed Reza, may god bless his reign."
+per.51.t:0 "모햄메드 셔흐가 왕위에 오르다"
+per.51.desc:0 "레저 셔흐의 신하들이 혁명분자들을 격퇴했다곤 해도, but his disgrace was completed long before that. As pressure has mounted from the British, the Shah's loyal ministers have rallied around the heir to the throne, Mohammed Reza. The Shah was presented a simple choice, allow his young son to take the throne and cast aside the British, or hold power and await the knock at the door.\n자연스레 각료들의 최후통첩을 수락한 셔흐는 and will retire in comfort as his progeny carries his legacy forwards without the harrying from London. He would be lying if he did not feel a twitch of guilt, but also jealousy. 행운이 모햄메드 레저의 곁에 섰으니, 하느님께선 그분의 치세를 축복하소서."
 per.51.a:0 "Shahanshah é ma zende bad"
 per.51.b:0 ""
 
@@ -784,10 +784,10 @@ per.52.a:0 "좋아 자식들아, 드릴 굴릴 시간이다."
 per.52.b:0 ""
 
 per.521.t:0 "이란이 상품을 제시하다"
-per.521.desc:0 "Persia, now under the control of the Anglo-Persian Oil Company, has sought to offer us mercenaries and access to incredible amounts of oil, in exchange for money, industry, and infrastructure. Shall we accept?"
-per.521.a:0 "Buy oil"
-per.521.b:0 "Buy mercenaries"
-per.521.c:0 "Buy both"
+per.521.desc:0 "이제 영국-이란 석유회사의 통제 아래 놓이게 된 이란이 돈, 산업, 기반시설을 대가로 용병과 엄청난 양의 석유를 우리에게 제안했습니다. 수락해야 할까요?"
+per.521.a:0 "석유를 구입한다."
+per.521.b:0 "용병을 구입한다."
+per.521.c:0 "둘 다 구입한다."
 
 per.522.t:0 "신 이란국"
 per.522.desc:0 "As a new claimant to Persia, the APOC has considered, especially among the British sectors of government, to join the Commonwealth. However, many foreign violence specialists have sought to create a purely nonaligned polity, which seeks to secure the interests of its higher-ups, and in a way, the people of Persia. Thus, this dilemma has reached to the upper echelons of Government, which will now decide whether to request to join Britain's alliance or not..."
@@ -795,18 +795,18 @@ per.522.a:0 "커먼웰스에 가담한다."
 per.522.b:0 "홀로 선다."
 
 per.53.t:0 "APOC가 페르시아 만을 요청하다"
-per.53.desc:0 "For The Honourable Prime Minister’s Eyes Only\n\n“Dear  Sir Prime Minister, we first like to open this letter by informing the Anglo-Persian Oil Company (APOC) has successfully overthrown the Shah of Persia and installed a government friendly to the British Empire. This is undoubtedly the greatest victory for a company of the Empire since the East India Trading Company, and as we speak, the petroleum of Persia is being drilled and soon, the first shipment of export-tax free oil will arrive in the English ports in just a few months.\n\nWe, however, do have one simple request. The APOC desires to use the newfound knowledge to better supply the people of Britain with petroleum, therefore we humbly request the temporary possession of the British Possessions in the Arabic side of the Persian gulf, thus using our company wisdom to boost the efficiency of the extraction in these regions. Such a deal would surely benefit the all of the Empire and the people, so we urge a quick answer.\n\nSigned,\n\nChairman of the Anglo-Persian Oil Company\n\nJohn Cadman, 1st Baron Cadman.”"
-per.53.a:0 "Cheeky! But ok."
-per.53.b:0 "Cheeky! GFY."
+per.53.desc:0 "For The Honourable Prime Minister’s Eyes Only\n\n“친애하는 총리님, 영국-이란 석유회사(APOC)가 이란의 셔흐를 전복시키고 대영제국을 우호로 대할 정부를 수립하는 데 성공했음을 우선 알리며 편지를 씁니다. 이는 동인도 무역회사 이래 제국의 한 회사가 거둔 의심할 바 없는 위대한 승리입니다. 말씀드렸듯 이란의 석유를 곧 시추해, 몇 달 후면 수출세를 면제받은 첫 석유 적하가 잉글랜드의 항구에 당도할 것입니다.\n\n다만 저희는 한 가지 단순한 요구를 올리고자 합니다. APOC은 desires to use the newfound knowledge to better supply the people of Britain with petroleum, therefore we humbly request the temporary possession of the British Possessions in the Arabic side of the Persian gulf, thus using our company wisdom to boost the efficiency of the extraction in these regions. Such a deal would surely benefit the all of the Empire and the people, so we urge a quick answer.\n\n서명\n\n영국-이란 석유회사 회장\n\n1대 캐드먼 남작 존 캐드먼.”"
+per.53.a:0 "건방지긴! 하지만 좋다."
+per.53.b:0 "건방지긴! 엿이나 까 잡수시지."
 
 per.531.t:0 "APOC가 페르시아 만을 얻다
 per.531.desc:0 "A fine victory for the greatest Trade Company of the British Empire! Our masters at London have graciously accepted our request to give control of their Oil-rich Possessions in the Persian Gulf, given how much better equipped to properly explore the wealth of these regions."
-per.531.a:0 "Very based."
+per.531.a:0 "아주 잘 됐어."
 per.531.b:0 ""
 
 per.532.t:0 "APOC가 페르시아 만을 얻지 못하다"
-per.532.desc:0 "How utterly bizarre.\nOur employers have denied to our request to take control of the Gulf States, in order to use our teqnique and experience to better explore the rich Oil that lies beneat the sands, and further fuel the engines of the Empire.\n\nTheir loss."
-per.532.a:0 "Not very based."
+per.532.desc:0 "얼마나 당혹스러운지요.\n우리의 고용주들이 have denied to our request to take control of the Gulf States, in order to use our teqnique and experience to better explore the rich Oil that lies beneat the sands, and further fuel the engines of the Empire.\n\n자기들 손해죠."
+per.532.a:0 "별로 잘 되진 않았군."
 per.532.b:0 ""
 
 per.6.t:0 "홍군의 승리"
@@ -1063,7 +1063,7 @@ PER_bread_and_circuses_desc:0 "The Romans understood a great many things, and th
 PER_the_praxeology_of_empire:0 "The Praxeology of Empire"
 PER_the_praxeology_of_empire_desc:0 "The civil war has reveled a number of weakness in our previous management strategy; most cripplingly a near-fatal myopia regarding the scope of our business. Some interesting new theories hold that economics encompass the whole scope of human action; accordingly, we must consider this same scope when formulating our new and expanded company - and state - policy."
 
-PER_neohessians:0 "신 헤센 병사들"
+PER_neohessians:0 "신 헤센군"
 PER_neohessians_desc:0 "The Germans were respectable enemies once, but they’ve since fallen to the red devil, who’s poor understanding of martial matters is matched only by their incompetence at basic economics. Thankfully, at least two or three of the Jerries seem to have realized this and sought other employment. While some went to Austria or the Imperial remnant, others went farther afield, seeking wealth and adventure./nWe can provide both."
 
 PER_russian_mercenaries:0 "러시아인 용병들"
