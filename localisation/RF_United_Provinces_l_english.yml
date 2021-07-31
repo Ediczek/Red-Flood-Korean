@@ -1078,7 +1078,7 @@ UPI.602.a:0 "잘 될 거야, 자신하지."
 
 UPI.603.t:0 "처칠의 공포"
 UPI.603.desc:0 "Churchill cannot hide what he did to India. As the British envoy rolls through the cities, the people look in fear, hide in their rooms, and do not come out. India, so bustling and populous, looks like a ghost town to any observer. Mass plots of recently turned earth, explained as rice fields or some other such thing, emanate a smell so foul, the only proper response is to cover your nose and gag. Churchill received his visitors with great and wonderful fanfare, but there was a coldness in every house, in every room, they dined in, spoke in. His liveliness could not hide it. His explanations could not be believed. The envoy left with a simple message - do not give him the governorship."
-UPI.603.a:0 "He must be condemned, removed."
+UPI.603.a:0 "반드시 놈을 규탄하고 제거해야 한다."
 UPI.603.b:0 "우리에게 선택지가 있기나 했나?"
 
 UPI.604.t:0 "처칠이 사임을 요구받다"
@@ -1090,18 +1090,18 @@ UPI.605.desc:0 "영국이 처칠의 통치를 합당하다 선언했습니다. �
 UPI.605.a:0 "해는 결코 지지 않는다..."
 
 UPI.699.t:0 "광인에 맞선 전쟁"
-UPI.699.desc:0 "처칠 개자식이 영국에 맞서기로 결정했습니다! The entire Empire has been told, in no uncertain terms, that our rejection of him is a rejection of (to quote his angry message) “Supreme English Law and the Right of Superior races.” 그가 군세를 얼마나 소집하든 간에, 아시아에 남은 우리의 발판을 가져가게 둘 순 없습니다!"
+UPI.699.desc:0 "처칠 개자식이 영국에 맞서기로 결정했습니다! 우리가 그를 내침이 곧 “우월한 잉글랜드의 법과 우월 인종의 권리”를 내치는 것이라는 (분노에 가득 찬) 처칠의 말이 제국 전역으로 또렷이 퍼졌습니다. 그가 군세를 얼마나 소집하든 간에, 아시아에 남은 우리의 발판을 가져가게 둘 순 없습니다!"
 UPI.699.a:0 "전장으로!"
 
 UPI.700.t:0 "암스터르담 화약"
-UPI.700.desc:0 "The peace talks were concluded. The diplomats went home, congratulating each other or cursing each other for not getting concessions as the case may be. As it stood, though, the balance of power in India had forever changed, the balance of power for Asia had changed. This night, during the peace of Amsterdam, had changed the world forever."
-UPI.700.a:0 "And at least one side went home mourning."
-UPI.700.b:0 "And at least one side went home mourning."
-UPI.700.c:0 "And at least one side went home mourning."
-UPI.700.d:0 "And at least one side went home mourning."
+UPI.700.desc:0 "평화회담이 결론 지어졌습니다. 귀국한 외교관들은 축배를 들거나, 원하는 만큼의 양보를 얻어내지 못한 것을 두고 서로를 비난했습니다. 그럼에도, 그 결과에 따라 인도에서의 권력균형은 영원히 바뀔 것이니, 아시아의 권력균형 또한 그와 함께 변할 것입니다. 오늘 밤, 암스터르담 화약이 체결되는 동안에 세계는 영원히 바뀌었습니다."
+UPI.700.a:0 "적어도 한 쪽에선 울면서 집에 가겠군."
+UPI.700.b:0 "적어도 한 쪽에선 울면서 집에 가겠군."
+UPI.700.c:0 "적어도 한 쪽에선 울면서 집에 가겠군."
+UPI.700.d:0 "적어도 한 쪽에선 울면서 집에 가겠군."
 
 UPI.701.t:0 "처칠의 제국"
-UPI.701.desc:0 "처칠의 제국, 라자. 인도가 그의 통제 아래 있고 그의 엄지손가락 아래 있습니다. After so much sacrifice, after so much toil, after so much work, he knew he had won it all. He ignored the gunshots ringing out from the nearby military base, a near constant timer of minutes through the hour, his eyes glazed over reading military reports, understanding that his position was, at this moment, secure. \n\n His methods wre firm, brutal even, but justified in this wasteland. His methods were effective, few could deny that, and even as he did things that made the impotent diplomats and connections with Europe hem and haw and protest, he knew that everything had been worth it. If it wasn't, if he had erred, then he would know. But the sunset, blessing him and his own Empire, assured him that he had done everything just in the world. \n\n Perhaps now, watching the sun set over Uttar Pradesh, he could rest, relax. Let the tension in his body fade away. For he had won, and the Indians of future generations, the English of this generation, would learn to speak his name with reverence, awe, and aspiration. He had won. Another series of gunshots marked another five minute interval, and there was only one thought on his mind."
+UPI.701.desc:0 "처칠의 제국, 라자. 인도가 그의 통제 아래, 그의 엄지손가락 아래 있습니다. 수많은 희생 끝에, 수많은 노고 끝에, 수많은 수고 끝에, 처칠은 자신이 모든 것을 해냈음을 깨달았습니다. 매 분마다 울리는 알람처럼 근처의 군사기지에서 울려퍼지는 총성은 무시하고서, 군사보고에 눈길을 두고 읽어 내려가는 그는 당장 자신의 입지가 확정됐음을 이해했습니다. \n\n 굳건했던 그의 태도는 잔혹하기까지 했어도, 그러나 이런 황무지엔 정당하다 할 법한 일이었습니다. 그의 방식은 효과를 보였습니다. 일부는 그를 부정하고, and even as he did things that made the impotent diplomats and connections with Europe hem and haw and protest, 처칠은 그 모든 것이 가치 있던 일이었음을 알았습니다. 그렇지 않았더라면, 자신이 틀렸더라면 처칠 역시 알았을 테니까요. 그렇지만 석양은 처칠과 그의 제국을 축복하며 이 세상에서 벌인 처칠의 모든 것이 정당함을 그에게 확신시켜주었습니다. \n\n 어쩌면 당장일 뿐일지라도, 처칠은 우타르 프라데시 위로 져가는 태양을 바라보며 마음을 놓을 수 있을 겁니다. 긴장이 몸에서 풀어졌습니다. 처칠이 승리했으니, 미래 세대의 인도인들과 지금 세대의 잉글랜드인들은 처칠의 이름을 공경과 경악과 염원을 담아 말하는 법을 배우게 될 것입니다. Another series of gunshots marked another five minute interval, and there was only one thought on his mind."
 UPI.701.a:0 "이제... 한 잔 할 차례군."
 
 UPI.702.t:0 "한 태양이 져가며 다른 태양들이 떠오른다"
