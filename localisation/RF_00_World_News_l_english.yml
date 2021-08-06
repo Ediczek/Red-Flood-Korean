@@ -397,7 +397,7 @@ news.104.desc:0 "만주의 일본 존황파가 약간의 기적의 힘을 빌어
 news.104.a:0 "놀랍군!"
 
 news.105.t:0 "시온주의 반란"
-news.105.desc:0 "Dire news from the Levant today, as the Mashriq Kingdom refuses the British offer of mediation with the political organizations representing Zionist settlers in the region. Experts say this latest development represents an unprecedented escalation in the conflict, with both sides having all but abandoned negotiation. Reports are already emerging of paramilitary conflicts on both banks of the Jordan River. 시온주의 숙련병들과 민병대가 재빨리 집결해 여단 규모의 부대를 형성하고 마쉬리크의 주둔군에겐 high alert이 내려졌으니, 전면전의 발발이 불가피하게 되었습니다."
+news.105.desc:0 "시급한 소식이 오늘 레반트에서 전해졌습니다. 마쉬리크 왕국이 역내 시온주의 정착민을 대표하는 정치조직들과의 중재를 조정해주겠다는 영국의 제의를 거부한 것입니다. 전문가들은 양측이 협상을 포기하고 다른 수단을 물색하게 된 최근의 전개가 분쟁의 전에 없던 고조를 가져올 것이라 말하고 있습니다. 보고들은 이미 요르단 강 양안에서 준군사조직들 간의 충돌이 벌어지고 있음을 전하고 있습니다. 시온주의 숙련병들과 민병대가 재빨리 집결해 여단 규모의 부대를 형성하고 마쉬리크의 주둔군에겐 최고경보가 내려졌으니, 전면전의 발발이 불가피하게 되었습니다."
 news.105.a:0 "성지에서의 또 다른 전쟁이라."
 
 news.106.t:0 "불길에 휩싸인 인도차이나"
@@ -432,16 +432,16 @@ news.109.t:0 "차밸 스타우닝이 재선에 성공하다"
 news.109.desc:0 "어려웠던 선거운동과 보수주의의 부흥에도, nothing seems to be able to stop the momentum of the SDAP who has won their fifth election in a row. Promising stability and a continuation of social-democratic governance, it seems that the Danes, despite conservative rumblings, are satisfied with their current government. \n\nThe DKP has also made overtures to a possible reunification, in exchange for a few policy alterations, pointing out that they have been effectively one party for 12 years. Time will tell what all this amounts to but as it stands, Denmark is ready for 3 more years of Stauning."
 news.109.a:0 "12년 더!"
 
-news.110.t:0 "Peter Munch가 덴마크 총리로 선출되다"
+news.110.t:0 "페다 먹이 덴마크 총리로 선출되다"
 news.110.desc:0 "오늘, 12년에 걸친 덴마크 사회민주 세력의 통치가 끝을 맞았습니다. 보수 정당인 단결과 정의와 협력한 자유주의적 Radikale Venstre가 사회민주노동자당의 통치를 끌어내린 것입니다. Campaigning on a platform of liberalization of what they call \"burdensome regulation\" and continuing the free culture created by the revolution, this marks the first government without the SDAP in the People’s Republic’s history. \n\nHowever, the RV still clings tightly to Germany and supports them. Publicly for espousing revolutionary republicanism in a Europe of monarchism and authoritarianism, privately, it is suspected, as a way to protect themselves from the storm. As expected, the Icelandic government continues to denounce all Copenhagen governments."
 news.110.a:0 "자유 덴마크를 위하여!"
 
-news.111.t:0 "Marie Sophie-Nielsen이 덴마크 총리로 선출되다"
+news.111.t:0 "마리 소피-닐슨이 덴마크 총리로 선출되다"
 news.111.desc:0 "덴마크 역사상 처음으로 공산주의자들이 권력을 잡았습니다. 자유주의 정당들과의 협력에 대한 의문을 두고 SDAP에서 떨어져 나온 급진파인 DKP는 SDAP 정부에서 항상 군소정당에 불과했습니다. 이제 선거승리로 대부분의 의석을 확보한 이들은 자신들의 옛 상사들을 상대로 판을 뒤집을 준비를 마쳤습니다. \n\n단결과 정의의 발흥에 자극받은 DKP는 \"혁명의 퇴폐\"를 종식시키겠다 약속했습니다. When pushed they vacillate on what this means, but considering their affinity for Germany, educated guesses can be made..."
 news.111.a:0 "그 날은 온다 동지들!"
 
 news.112.t:0 "아너 쇠안슨이 덴마크 총리로 선출되다"
-news.112.desc:0 "Surprise news out of Denmark tonight with the 새 보수 정당인 단결과 정의가 securing a leading majority in coalition with the liberal Radikale Venstre. The underdog in the election, few expected Sørensen would even serve in government, much less lead it. Promising sweeping conservative reform, and a bit of distancing from Germany, 급진 좌익의 대부분은 이를 1918년 혁명에 대한 배신이라며 분노했습니다. \n\n쇠안슨은 크게 기뻐하며 혁명의 오점들을 고칠 준비를 마쳤습니다. 하지만 좌익의 많은 이들이 주장하는 것과 달리, 쇠안슨은 혁명에 대놓고 반대하는 대신 그 방향성만을 비판했습니다. 아이슬란드 정부는 그를 두고 얇은 파란색 표피를 두른 빨갱이에 불과하다 규탄했습니다."
+news.112.desc:0 "새 보수 정당인 단결과 정의가 자유주의적인 Radikale Venstre과의 연정으로 과반을 확보했다는 놀라운 소식이 오늘 밤 덴마크에서 전해졌습니다. 선거 내내 약세였던 쇠안슨이 입각하게 되리라 생각한 이는 적었으며, 정부를 주도할 것이라 예상한 이는 그보다도 훨씬 적었습니다. Promising sweeping conservative reform, and a bit of distancing from Germany, 급진 좌익의 대부분은 이를 1918년 혁명에 대한 배신이라며 분노했습니다. \n\n쇠안슨은 크게 기뻐하며 혁명의 오점들을 고칠 준비를 마쳤습니다. 하지만 좌익의 많은 이들이 주장하는 것과 달리, 쇠안슨은 혁명에 대놓고 반대하는 대신 그 방향성만을 비판했습니다. 아이슬란드 정부는 그를 두고 얇은 파란색 표피를 두른 빨갱이에 불과하다 규탄했습니다."
 news.112.a:0 "\"착각 말라. 덴마크 혁명은 이제 시작이니!\""
 
 news.113.t:0 "덴마크 의회의 폐정"
@@ -452,8 +452,8 @@ news.114.t:0 "RSF가 덴마크 정부를 무너뜨리다"
 news.114.desc:0 "6월 아너 쇠안슨의 당선 이래, 사회주의자들은 언제나 자신들의 것이라 생각한 정권에게서 점차 자신들이 소외되어가고 있음을 느끼고 있습니다. 대부분은 충분히 기다리기만 한다면 우익이 알아서 자기들의 무능을 증명하며 1939년엔 권력을 되찾을 수 있을 것이라 판단했습니다. \n\n하지만 청년들과 급진파, 그리고 절박한 이들에게 1939년은 그리 이르지 못한 시점이었습니다. 빠르게 결집해 혁명 사회주의 연맹을 형성하고 비밀스레 베를린을 등에 업은 사회주의 운동의 주변부 세력들은, 의회로 진군하여 단결과 정의 당원들을 사살했습니다. RSF는 이후 권력을 인수했습니다. 하지만, 보수주의를 향한 증오가 자신들을 묶어주는 전부였던 이들에게서 파벌 간 의견차는 빠르게 터져나오는 중입니다."
 news.114.a:0 "덴마크에서 무슨 일이 벌어지고 있는 거지?"
 
-news.115.t:0 "Fremad가 덴마크에서 집권하다"
-news.115.desc:0 "몇 주 전 덴마크에서 벌어진 정변 이후, few suspected that the most marginal members of the RSF, the Fremad wing of the SPAD, would come out on top. Yet the world works in mysterious ways. Led by Peter Freuchen, an adventurer of the frozen north,  the Fremad are hardline advocates for the liberation of Iceland and particularly Greenland to begin Socialist Construction. \n\nAs well, many members of Fremad hold esoteric beliefs borne out of their experiences in the north, documents from bolsheviks in Altay, and meetings with Proletkult members in visits to Siberia. This mystic socialism combined with a longing for the frozen north will certainly cause considerable worry for the Reykjavík government."
+news.115.t:0 "전진익이 덴마크에서 집권하다"
+news.115.desc:0 "몇 주 전 덴마크에서 벌어진 정변 이후, few suspected that the most marginal members of the RSF, the Fremad wing of the SPAD, would come out on top. 어쨌건 세상은 알 수 없는 방향으로 흐르는 듯합니다. 북극의 모험가 페다 프로이은가 이끄는 전진익은 are hardline advocates for the liberation of Iceland and particularly Greenland to begin Socialist Construction. \n\nAs well, many members of Fremad hold esoteric beliefs borne out of their experiences in the north, documents from bolsheviks in Altay, and meetings with Proletkult members in visits to Siberia. This mystic socialism combined with a longing for the frozen north will certainly cause considerable worry for the Reykjavík government."
 news.115.a:0 "To Ultima Thule!"
 
 news.116.t:0 "청년 사회주의파가 덴마크에서 집권하다"
