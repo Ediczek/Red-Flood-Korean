@@ -106,150 +106,223 @@ MON_china_republic_ADJ:0 "중국"
 #FOCUSES#
 Mongolia_armyofexiles:0 "추방자들의 군대"
 Mongolia_armyofexiles_desc:0 "북진했던 우리 군은 참패하고, 굴욕당하고, 추방당했습니다. 전진을 위한 가장 좋은 길은 우리의 실수에게서 배워 밝은 미래를 향해 나아가는 것입니다."
+
 Mongolia_peaceandhappinessclub:0 "안복구락부"
 Mongolia_peaceandhappinessclub_desc:0 "북양민국의 안복구락부에서 시작한 안휘이니, 중국에 안정을 다시 가져오고자 한다면 정당의 정치구조를 조직하는 데 구락부를 불러와야 합니다."
+
 Mongolia_reorganisethedregs:0 "두렉 개편"
 Mongolia_reorganisethedregs_desc:0 "몽골은 광대하며, 대부분의 사람들이 사는 도시가 팽창하려면 개편이 필요합니다. 새 도시화 정책이 필요한 때입니다."
+
 Mongolia_opposethemadbaron:0 "미친 남작 타도"
 Mongolia_opposethemadbaron_desc:0 "민국의 북계가 미친 남작의 급진파 군대에게 위협받고 있습니다. 침공을 계획하고 이 버러지들을 짓밟아 버려야 합니다."
+
 Mongolia_opposetherogueofficer:0 "변절 장교 타도"
 Mongolia_opposetherogueofficer_desc:0 "민국의 북계가 변절 장교와 그가 이끄는 카자키 무리에게 위협받고 있습니다. 침공을 계획하고 부라티야의 우리 형제들을 해방해야 합니다."
+
 Mongolia_consolidateoutermongolia:0 "외몽골 통합"
 Mongolia_consolidateoutermongolia_desc:0 "몽골 전체가 민국정부를 지지하는 것이 아니므로, 우리 권위의 확고화, 육군 개혁을 통한 통제권 유지, 각 기의 신병 모집, 유능한 지역 유지의 지지 확보부터 시작해야 합니다."
+
 Mongolia_thesouthernexpedition:0 "남벌"
 Mongolia_thesouthernexpedition_desc:0 "북벌은 우리가 북방으로 추방당하는 것으로 끝났습니다. 남벌은 중국의 통일로 끝날 것입니다. 남진을 향한 부름에 충성파가 우리 깃발 아래 집결했습니다."
+
 Mongolia_preparethedefences:0 "방어 준비"
 Mongolia_preparethedefences_desc:0 "남작이 몽골 중앙까지 돌파한다면 민국을 영원히 잃을지도 모릅니다. 남작의 침공을 막기 위한 필사의 방어를 준비해야 합니다."
+
 Mongolia_buryatguerillas:0 "부랴트인 유격대"
 Mongolia_buryatguerillas_desc:0 "부랴트 몽골인들의 충성을 얻는다면 카자키군의 전투 의지를 꺾을 수 있습니다. 부랴트인들은 유격대로서 우리를 섬길 것입니다."
+
 Mongolia_breachthestronghold:0 "거점 돌파"
 Mongolia_breachthestronghold_desc:0 "몽골과 전 중국의 인민들을 위해, 벨로차르스크에 있는 남작의 거점을 돌파하고 그의 사악한 작은 체제에 종말을 고해야 합니다."
+
 Mongolia_russianrepublicans:0 "러시아 공화파"
 Mongolia_russianrepublicans_desc:0 "러시아 공화파를 영입하면 우리 군을 확장할 수 있을 뿐만 아니라, 황러시아에게 찬탈자들에게서 자신들의 조국을 수복할 길을 보여줄 수도 있습니다."
+
 Mongolia_opposetheshanxi:0 "산서 타도"
 Mongolia_opposetheshanxi_desc:0 "산서에 있는 반혁명 친구들이 북양 정부의 원칙을 배반했습니다. 저들은 나약하고, 일본의 먹잇감에 불과합니다. 놈들에게서 북양의 유산을 취하고 베이징을 점령해야 합니다."
+
 Mongolia_defendtherepublic:0 "민국 수호!"
 Mongolia_defendtherepublic_desc:0 "세상에 홀로 살아남을 순 없습니다. 케렌스키의 러시아 공화파라면 우리 투쟁의 유용한 동맹이 될 것입니다."
+
 Mongolia_reincorporatethefrontier:0 "변경지 재통합"
 Mongolia_reincorporatethefrontier_desc:0 "북몽골 통제는 역대 중국 지도자들에게도 도전이었습니다. 그러나 지금 우리의 위치라면 일대를 완전히 통합할 수 있습니다."
-Mongolia_occupytransbaijkal:0 "트란스바이칼 점령"
-Mongolia_occupytransbaijkal_desc:0 "트란스바이칼에 거주하는 부랴트족과 러시아인들이 중국의 지배를 받은 적은 없었으나, 러시아에 혼란이 닥치면서 이 지역에 안정적인 지배력을 구축할 수 있는 세력은 우리 뿐입니다. 카자키를 처치하라!"
-Mongolia_greatermongolia:0 "대몽골"
+
+Mongolia_occupytransbaijkal:0 "자바이칼 점령"
+Mongolia_occupytransbaijkal_desc:0 "자바이칼에 거주하는 부랴트족과 러시아인들이 중국의 지배를 받은 적은 없었으나, 러시아에 혼란이 닥치면서 이 지역에 안정적인 지배력을 구축할 수 있는 세력은 우리 뿐입니다. 카자키를 처치하라!"
+
+Mongolia_greatermongolia:0 "몽골 확보"
 Mongolia_greatermongolia_desc:0 "중화오족 중 하나가 우리 힘 아래 단합하여 성장하고 있으며, 그로써 전 중국에 대한 우리의 정통성을 확실히 할 것입니다. 이전에도 중국을 차지했던 몽골인들은 다시금 그럴 겁니다."
+
 Mongolia_securethecoast:0 "해안선 확보"
 Mongolia_securethecoast_desc:0 "우리 경제는 해안으로의 확장을 통해 큰 이익을 얻을 것입니다. 동중국의 부유한 도시들은 반드시 우리 통치 아래 놓여야 합니다."
+
 Mongolia_securetheinterior:0 "내부 확보"
 Mongolia_securetheinterior_desc:0 "중국을 통일하고 외세의 지배를 떨쳐내고자 한다면, 문화 및 농업적으로 중요하고 자원이 풍부한 중국 내륙 지역을 반드시 차지해야 합니다."
+
 Mongolia_maritimechina:0 "중국 해안지"
 Mongolia_maritimechina_desc:0 "광동 해안지대는 마땅히 우리 것이지만, 점령된 도시들을 되찾기 전에 저항하는 남은 군벌들을 먼저 굴복시켜야 합니다."
+
 Mongolia_westernautonomies:0 "서역의 자치체들"
 Mongolia_westernautonomies_desc:0 "위구르인들 역시 우리 사람들이므로, 저들이 좋든 싫든 신강 서역은 반드시 중국의 권위 아래 있어야 합니다."
+
 Mongolia_correcttherecord:0 "기록 정정"
 Mongolia_correcttherecord_desc:0 "(대부분) 다시 하나가 된 중국을 세계열강으로 올려놓을 준비가 된 우리 앞에 남은 유일한 장애물은 외세 침략자들입니다. 서양인들과 일본인들이 본토에 존재한다는 사실은 우리 인민에게 치욕과 같으니 반드시 끝장내야 합니다."
+
 Mongolia_yuanshikaidollar:0 "위안스카이 달러"
 Mongolia_yuanshikaidollar_desc:0 "꼬꾸라진 경제를 일으키고 남벌을 성공시키려면 화폐개혁을 이뤄내야 합니다. 새 위안스카이 달러는 해외투자 유치와 저금리 은행 대출이란 기회를 우리에게 가져다 줄 것입니다. 계약서에 서명하면서, 무역도시들을 되찾으려는 우리의 야망에 대해선 굳이 말하지 맙시다."
+
 Mongolia_anhuirevival:0 "안휘 부흥"
 Mongolia_anhuirevival_desc:0 "경제가 회복세에 들고, 난타당하고 추방당했던 우리의 군벌이 다시 부흥하고 있습니다. 곧 우리가 중국을 통일할 테지만, 우선 지도부 문제부터 해결해야 합니다."
+
 Mongolia_president:0 "총통"
 Mongolia_president_desc:0 "총통 돤치루이는 지난 몇 년 동안 나라를 유능하게 이끌었으며, 군사지휘부는 혁명 이래 가장 안정된 상태를 유지하고 있습니다. 진정성 있는 총통이 계속 자리에 있을 수 있도록 합시다."
+
 Mongolia_emperor:0 "황제"
 Mongolia_emperor_desc:0 "군사지휘부가 제 할 일을 해내면서 이제 인민은 새 황제를 영접할 준비를 마쳤습니다. 크게 인기가 없던 청 왕조 대신 다른 가문이 나서야 했으므로, 총통 위안스카이의 아들 위안커딩이 전면에 나서게 되었습니다. 더 나은 후보가 보이지 않으니, 평의회는 커딩을 황제로 옹립할 것입니다."
+
 Mongolia_tradebyrail:0 "철도 무역"
 Mongolia_tradebyrail_desc:0 "새 철도선을 부설하고 구 노선을 민간경제 및 군사기동에 맞추어 경신해야 합니다. 전국 단위로 이루어질 이 기획은 간절한 북중국을 하나로 모을 것입니다."
+
 Mongolia_parliament:0 "의회"
 Mongolia_parliament_desc:0 "군사지휘부가 제 할 일을 해내면서, 인민은 이제 자기결정에 확신을 갖고 있습니다. 평의회는 국민당에서 분리된 보수파 및 우익 혁명가들이 통치하는 새 의회체제에 동의했습니다. 신 정부는 중국의 다른 민주주의자들에게 단결의 상징으로 다가갈 것이며, 국민투표가 진행되는 한 중국을 평화롭게 하나로 뭉칠 것입니다."
+
 Mongolia_autarky:0 "자급"
 Mongolia_autarky_desc:0 "국가는 살아남기 위해 자급자족할 줄 알아야 합니다. 우리의 성공을 돕겠다는 이웃이나 외세를 믿을 순 없습니다. 다른 이들의 배신을 피하고 우리 인민을 강하고 생산적이게 하는 것이 성공으로 가는 핵심입니다."
+
 Mongolia_autocrat:0 "독정자"
 Mongolia_autocrat_desc:0 "평의회는 투표를 통해 더 많은 행정력을 총통에게 부여하기로 결정했습니다."
+
 Mongolia_civilliberites:0 "시민자유"
 Mongolia_civilliberites_desc:0 "말을 물로 끌 수 없듯 인민에게도 선택의 자유가 주어져야 합니다. 권위주의자들은 이런 관념에 반대하며 전향을 무기로 삼겠지만, 우리에게 그런 역적 따윈 필요 없습니다."
+
 Mongolia_mandateofheaven:0 "천명"
 Mongolia_mandateofheaven_desc:0 "천명은 수 세기에 걸쳐 중국을 안정시키는 힘이었습니다. 이 직함을 유지한다는 건 구식을 고수하는 이들로 하여금 우리의 대의에 집결하도록 할 것입니다."
+
 Mongolia_confucianempire:0 "유교제국"
 Mongolia_confucianempire_desc:0 "교의가 제국에게 중요한 요소라지만, 그것이 특정 분파의 근본주의자들이나 급진분자들을 강화하는 데 쓰인다면 끔찍할 겁니다."
+
 Mongolia_destroythekmt:0 "국민당 격파"
 Mongolia_destroythekmt_desc:0 "우리 군벌은 구 국민당 소속의 혁명가들에게, 우리에게 가담하든지 전장에서 죽으라는 최후통첩을 보냈습니다. 놈들이 수락할 리는 없을 겁니다. 어차피 우리의 목표는 전쟁입니다."
+
 Mongolia_compromisewiththekmt:0 "국민당과의 협력"
 Mongolia_compromisewiththekmt_desc:0 "우리 민국은 민족적 타협과 단결을 위한, 침략자들과 전제주의자들에 맞선 통합전선을 제안했습니다. 물론 마오쩌둥과 그의 전위대와는 타협할 일이 없으니 훈난 코뮌에는 제안서를 보내지 않았습니다. 국민당 군벌들은 제안 거절이 전쟁의 격화를 불러오리란 걸 잘 알 테니 선택에 신중해야 할 겁니다."
+
 Mongolia_chineseempire:0 "중화제국"
 Mongolia_chineseempire_desc:0 "중화제국이 의지의 힘과 무기의 힘으로 끌어당겨져 다시 하나가 되었습니다. 마침내 우리 주의를 침략자들에게로 돌릴 때가 왔습니다."
+
 Mongolia_newbeiyangrepublic:0 "신 북양민국"
 Mongolia_newbeiyangrepublic_desc:0 "죽은 구 북양민국의 잿더미에서 우리는 일어나 새 미래를 향한 횃불을 들었으니, 파벌주의와 내분이 사라지고 전 중국을 위한 단결이 우리의 유일 신조가 되었습니다."
+
 Mongolia_bayandevelopment:0 "바얀 투멘 개발"
 Mongolia_bayandevelopment_desc:0 "바얀 투멘은 몽골 남부의 아주 작은 도시지만 제2의 수도로 개발될 잠재성이 있습니다. 후레에서 떨어진 곳에서의 경제 발전이 이익이 된다면 그 기회를 붙잡아야 하기 마련입니다."
+
 Mongolia_foundthenationaluniversity:0 "국립대학 설립"
 Mongolia_foundthenationaluniversity_desc:0 "고등교육을 수행할 기관이 부족한 몽골에, 새 국립대학은 다른 군벌들과 경쟁할 변호사와 정치인들의 새 세대를 길러내는 데 도움이 될 것입니다. 중원을 차지하기 위한 우리의 진중함을 천하에 보여줍시다."
+
 Mongolia_nationalgeologicalsurvey:0 "전국지리조사"
 Mongolia_nationalgeologicalsurvey_desc:0 "몽골은 석탄, 구리와, 다른 비철금속이 풍부한 곳입니다. 당장은 이 수많은 광물들을 처리할 수단이 없을지라도, 지표를 조사해두면 대지가 주는 부를 이용할 수 있을 겁니다."
+
 Mongolia_tradewiththecliques:0 "군벌들과의 무역"
 Mongolia_tradewiththecliques_desc:0 "신의를 차치하고 그나마 덜 적대적인 이웃들과 경제 교류를 이어간다면 우리 산업을 성장시킬 수 있을지도 모릅니다."
+
 Mongolia_tradewithjapan:0 "일본과의 무역"
 Mongolia_tradewithjapan_desc:0 "일본이 북동부를 점거하고 있다곤 하나, 경제적으로 강력한 이들과 거래한다면 우리 대의에 도움이 될 수도 있겠습니다."
+
 Mongolia_nationallibraryliasoncommitee:0 "국립도서관 연락위원회"
 Mongolia_nationallibraryliasoncommitee_desc:0 "국립도서관은 근대 몽골에서 가장 명망있는 기관으로, 연락위원회를 설립하면 더 많은 지식의 부를 쌓아 우리나라에 새 지식인층이 등장할 수 있게 해줄 겁니다."
+
 Mongolia_chineseeconomicpolicy:0 "중국 경제정책"
 Mongolia_chineseeconomicpolicy_desc:0 "우리는 우리가 따를 수 있을 경제정책을 결정해야 합니다. 우리나라의 산업화를 이뤄내야 하는 건 맞지만, 그걸 이룩하는 방법이 문제입니다."
+
 Mongolia_reformtheexiles:0 "추방군 개혁"
 Mongolia_reformtheexiles_desc:0 "안휘군은 옛 우리의 그림자입니다. 절차를 다시 세우고 우리 장교들에게 자신감을 불어넣어 새 훈련을 이행하도록 하십시오."
+
 Mongolia_establishpermanentairwings:0 "영구 비행대 창설"
 Mongolia_establishpermanentairwings_desc:0 "중국의 하찮은 공군과 공군 전력에 관련 기술 역시 대체로 방치되어왔습니다. 우리는 영구적인 공군 집단을 창설해 미래에 있을 팽창을 위한 기반을 닦을 것입니다."
+
 Mongolia_submarinebases:0 "잠수함 기지"
 Mongolia_submarinebases_desc:0 "해안선을 확보하면 잠수함과 다른 소형 함선을 위한 기지를 건설할 수 있습니다."
+
 Mongolia_newconscription:0 "새 징병제"
 Mongolia_newconscription_desc:0 "우리 징병제를 완전히 뒤집어야 합니다. 몽골은 인구가 많지 않을 뿐더러, 청년층은 우리 기치 아래 모이질 않고 있습니다. 청년들이 복무할 시기가 찾아왔습니다."
+
 Mongolia_octanecavalry:0 "옥탄 기병대"
 Mongolia_octanecavalry_desc:0 "새로운 형식의 고도의 기동전이 전 세계에서 나타나고 있습니다. 유럽의 속력 숭배자들과 전차기술자들은 차량화된 새로운 전쟁기계를 고안해냈으니, 이들의 예시를 보고 우리 기병대를 차량화해야 합니다."
+
 Mongolia_nomadshocktroops:0 "유목 충격군"
 Mongolia_nomadshocktroops_desc:0 "대초원 지대의 전사들은 가공할 만합니다. 우리는 이 유목민들과 사냥꾼들로 구성된 여단들을 우리 영내에 조직해 훌륭한 충격군으로 키워낼 것입니다."
+
 Mongolia_mechanicalhorde:0 "기계의 오르두"
 Mongolia_mechanicalhorde_desc:0 "과거의 위대한 칸들은 기수들의 오르두 맨 앞에서 전장을 향해 말을 달렸습니다. 우리는 기갑차량들의 오르두 맨 앞에서 달릴 것입니다."
+
 Mongolia_bombardment:0 "포격"
 Mongolia_bombardment_desc:0 "대포는 근대전에서 중요한 부분을 차지하지만, 우리 지도자들은 그 조달이 어렵고 비싸 방치하고 말았습니다. 대포 기술에 투자한다면 전장에서 중대한 우위를 얻을 수 있을 겁니다."
+
 Mongolia_apoliticalofficers:0 "비정치적 장교진"
 Mongolia_apoliticalofficers_desc:0 "중국에서 정치와 군은 깊이 연관되어있는 사이입니다만, 적어도 우리 추방군에서 이런 문제가 벌어지도록 두어선 안 됩니다. 새 장교진을 비정치적으로 훈련시키면 이러한 문제들이 재발할 위험성을 줄일 수 있을 겁니다."
+
 Mongolia_officerschool:0 "장교학교"
 Mongolia_officerschool_desc:0 "군관학교는 영내의 젊은 사고를 혁신하고 구 세대를 일을 어떻게 이뤄냈는지 보여주는 기회이며, 새 발상들이 장려받고 새 교리를 실험하는 곳입니다."
+
 Mongolia_beiyangarmy:0 "신 북양군"
 Mongolia_beiyangarmy_desc:0 "이제 군은 북방에 자리한 추방자 무리가 아닙니다. 개혁의 결과 신 북양군이 모습을 드러냈습니다."
+
 Mongolia_expandairbases:0 "공군기지 확장"
 Mongolia_expandairbases_desc:0 "우리 공군을 아무 공터 한가운데의 조그만 비행장에서 운용할 순 없습니다. 새 공군기지를 세우고 기존 시설들을 확장해 공군의 발전을 위한 충분한 공간을 마련할 것입니다."
+
 Mongolia_ravens:0 "큰까마귀들!"
 Mongolia_ravens_desc:0 "근접공중지원은 공중전의 진화의 다음 단계로, 대부분의 지상 표적을 황폐화시킬 소형 폭격기가 우리 공군의 주를 이룰 것입니다."
+
 Mongolia_eagles:0 "수리들!"
 Mongolia_eagles_desc:0 "전술폭격을 수행하고, 다용도에 고고도에서 비행하는 중장기체들은 훨씬 파괴적인 역량을 갖추고 있습니다. 높이 나는 이들을 처리하려는 전투기와 요격기들은 더 큰 대공포를 들고 와야 할 겁니다."
+
 Mongolia_aceofspades:0 "스페이드 에이스"
 Mongolia_aceofspades_desc:0 "스페이드 에이스 편대는 우리 공군의 기준이 될 것입니다. 진형을 갖춘 규율잡힌 에이스 집단이 나머지를 인도합니다."
+
 Mongolia_aceofhearts:0 "하트 에이스"
 Mongolia_aceofhearts_desc:0 "하트 에이스 편대는 모든 우리 공군의 꿈이 될 것입니다. 선택된 일부만이 이들, 국가를 위해 밤낮을 가리지 않고 두려움 없이 하늘을 나는 이들의 일부가 될 것입니다."
+
 Mongolia_scoutsignals:0 "정찰대 신호"
 Mongolia_scoutsignals_desc:0 "우리의 라디오 기술과 정찰대의 수행 방식의 향상은 전장에서 우리에게 도움이 될 것입니다."
+
 Mongolia_radartraining:0 "레이더 훈련"
 Mongolia_radartraining_desc:0 "탐지와 첩보가 핵심인 이러한 때에, 레이더는 우리가 받아들여야 할 신기술입니다."
+
 Mongolia_newairforce:0 "신 중화공군"
 Mongolia_newairforce_desc:0 "중화공군은 우리가 가진 근대 공학과 기술력의 정점이자, 우리에게 대드는 이들을 향한 경고가 될 것입니다."
+
 Mongolia_giantslayers:0 "거인살육자들"
 Mongolia_giantslayers_desc:0 "아무리 거대한 외국 함대라도 800 kg짜리 어뢰가 뚫은 구멍을 견디진 못 합니다."
+
 Mongolia_dragonfleet:0 "용함대"
 Mongolia_dragonfleet_desc:0 "우리 함대가 사태를 진중히 여긴다면 외적의 대규모 주력함들의 맞수가 될 수 있을 겁니다."
+
 Mongolia_newadmiralty:0 "새 해군성"
 Mongolia_newadmiralty_desc:0 "새 해군사관학교에서 새 장교들을 생산하니, 바다에서 자랑스러운 역사를 쌓지 못했던 우리의 근래도 곧 바뀔 것입니다."
+
 Mongolia_beiyangfleet:0 "북양함대"
 Mongolia_beiyangfleet_desc:0 "가공할 신형 함대는 중국을 세계 무대의 주요 참가자로 올려놓을 것입니다. 신 북양함대를 구성하는 주력함, 지원함, 잠수함은 찬사받아 마땅합니다. 무엇이든 상대할 준비를 마쳤습니다."
+
 Mongolia_underdognavy:0 "미약한 해군"
 Mongolia_underdognavy_desc:0 "막강한 힘을 통해서만 바다를 되찾을 순 없습니다. 우리는 또한 은밀하게 행동하여, 적의 함대가 살아남지 못하게 만들 것입니다."
+
 Mongolia_heronfleet:0 "창로함대"
 Mongolia_heronfleet_desc:0 "기동에 중점을 두며 더 작은, 적을 수색파괴를 수행할 배짱이 있는 잠수정에 근간한 함대는 우리에게 큰 이점이 될 것입니다."
+
 Mongolia_pickoffweakwarlords:0 "나약한 군벌 겨냥"
 Mongolia_pickoffweakwarlords_desc:0 "북서부의 군벌들은 나약하여 병단이라기보단 퇴비더미라 부르는 게 더 낫습니다. 그렇지만 놈들을 동시에 공격해서 단결하도록 만들지는 맙시다."
+
 Mongolia_militaryjunta:0 "군사위원회"
 Mongolia_militaryjunta_desc:0 "육군의 통제권을 부여잡은 신설 군사위원회가 영구적일 듯한 군정으로 인민을 통치하고 있습니다. 전시에 승리로 이끄는 데엔 좋겠으나, 지속적인 통치를 이어가기에 최선은 아닐 듯 합니다."
+
 Mongolia_autonomy:0 "자치"
 Mongolia_autonomy_desc:0 "자기통치, 그리고 국가와 인민 간의 더 큰 분리는 잠재적 전제주의자와 반동분자의 영향력을 감소시킬 것입니다. 농민 정치인이란 새 계급이 등장해 자신들과 그 이익을 대표할 것입니다."
+
 Mongolia_khreedevelopment:0 "레 개발"
 Mongolia_khreedevelopment_desc:0 "수도를 개발하고 몽골을 근대국가로 만들어 다른 군벌들, 그리고 중국의 산업심장부와 경쟁할 수 있을 자리에 올려놓아야 합니다."
+
 Mongolia_gatekeepers:0 "문지기"
 Mongolia_gatekeepers_desc:0 "자기네 함선이 구멍으로 가득하다면 적들이 함부로 우리 해안에 상륙할 수 없을 겁니다."
+
 Mongolia_newbattleships:0 "신형 전함"
 Mongolia_newbattleships_desc:0 "우리 함대에는 적의 함대에 공포를 날리고 우리 함대를 집결시킬 떠다니는 요새, 전함이 필요합니다."
 #EVENTS#
@@ -271,41 +344,44 @@ anhui.4.a:0 "농업을 근대화한다."
 anhui.4.b:0 "만인이 공장노동자다."
 anhui.4.c:0 "균형잡힌 조치를 취하라."
 
-anhui.5.t:0 "안휘 군벌이 통일을 바라다"
-anhui.5.d:0 "북방의 추방자들이 함께 손을 잡고 북양 정부를 개혁하자 제안했습니다. 과거의 힘을 되찾은 안휘파는 우리 경계에서 위협으로 작용하고 있습니다. 하지만 우리는 일부 정치이익을 공유하고 있고, 외세를 축출하겠다는 저들의 의도 역시 분명합니다. 남은 건 저들에게 보낼 우리의 답장입니다."
-anhui.5.a:0 "우리는 이 투쟁의 전우들이다."
-anhui.5.b:0 "놈들은 자기네 북방 황무지에 붙어있어야 한다."
+anhui.5.t:0 "Petitioning Fengtian"
+anhui.5.d:0 "The Fengtian clique are the current masters of the Beiyang Government, to bring Anhui back into the fold it is they we must petition. Contacts have been sparse and cold when they have occured, there is littel trust, but things have improved of late. The threats to the Republic from the East and the South are now far greater than the factionalism within. It is time we rejoined our forces and fought side by side for China's future."
+anhui.5.a:0 "Send the offer."
 
-anhui.6.t:0 "국민당 군벌이 거부하다"
-anhui.6.d:0 "국민당 지도부가 협력과 우애가 담긴 우리의 제안을 거절했습니다. 저 수상한 반대세력이 자신의 동포들을 배신했다는 게 명확해졌습니다."
-anhui.6.a:0 "역적을 처단하자!"
+anhui.6.t:0 "Petitioning Shanxi"
+anhui.6.d:0 "The Shanxi clique are the current masters of the Beiyang Government, to bring Anhui back into the fold it is they we must petition. Contacts have been sparse and cold when they have occured, there is littel trust, but things have improved of late. The threats to the Republic from the East and the South are now far greater than the factionalism within. It is time we rejoined our forces and fought side by side for China's future."
+anhui.6.a:0 "Send the offer."
 
-anhui.7.t:0 "국민당 군벌이 수락하다"
-anhui.7.d:0 "국민당 지도부가 우리의 협력과 우애가 담긴 제안을 현명하게 받아들였습니다. 수상한 반대세력은 찾을 수 없었으며, 저들이 중국을 회복하려는 이 투쟁에서 우리의 동맹이라는 점이 명확해졌습니다."
-anhui.7.a:0 "형제들이여 환영하오!"
+anhui.7.t:0 "안휘 군벌이 통일을 바라다" #BYJ
+anhui.7.d:0 "북방의 추방자들이 함께 손을 잡고 북양 정부를 개혁하자 제안했습니다. 과거의 힘을 되찾은 안휘파는 우리 경계에서 위협으로 작용하고 있습니다. 하지만 우리는 일부 정치이익을 공유하고 있고, 외세를 축출하겠다는 저들의 의도 역시 분명합니다. 남은 건 저들에게 보낼 우리의 답장입니다."
+anhui.7.a:0 "우리는 이 투쟁의 전우들이다."
+anhui.7.b:0 "놈들은 자기네 북방 황무지에 붙어있어야 한다."
 
-anhui.8.t:0 "안휘 군벌이 통일을 바라다"
-anhui.8.d:0 "북방의 추방자들이 함께 손을 잡고 북양 정부를 개혁하자 제안했습니다. 과거의 힘을 되찾은 안휘파는 우리 경계에서 위협으로 작용하고 있습니다. 하지만 우리는 일부 정치이익을 공유하고 있고, 외세를 축출하겠다는 저들의 의도 역시 분명합니다. 남은 건 저들에게 보낼 우리의 답장입니다."
-anhui.8.a:0 "우리는 이 투쟁의 전우들이다."
-anhui.8.b:0 "놈들은 자기네 북방 황무지에 붙어있어야 한다."
-
-anhui.9.t:0 "복건 군벌이 거절하다"
-anhui.9.d:0 "복건 지도부가 협력과 우애가 담긴 우리의 제안을 거절했습니다. 저 수상한 반대세력이 자신의 동포들을 배신했다는 게 명확해졌습니다."
-anhui.9.a:0 "역적을 처단하자!"
-
-anhui.10.t:0 "복건 군벌이 수락하다"
-anhui.10.d:0 "복건 지도부가 우리의 협력과 우애가 담긴 제안을 현명하게 받아들였습니다. 수상한 반대세력은 찾을 수 없었으며, 저들이 중국을 회복하려는 이 투쟁에서 우리의 동맹이라는 점이 명확해졌습니다."
-anhui.10.a:0 "형제들이여 환영하오!"
-
-anhui.11.t:0 "안휘 군벌이 통일을 바라다"
+anhui.11.t:0 "안휘 군벌이 통일을 바라다" #MAN
 anhui.11.d:0 "북방의 추방자들이 함께 손을 잡고 북양 정부를 개혁하자 제안했습니다. 과거의 힘을 되찾은 안휘파는 우리 경계에서 위협으로 작용하고 있습니다. 하지만 우리는 일부 정치이익을 공유하고 있고, 외세를 축출하겠다는 저들의 의도 역시 분명합니다. 남은 건 저들에게 보낼 우리의 답장입니다."
 anhui.11.a:0 "우리는 이 투쟁의 전우들이다."
 anhui.11.b:0 "놈들은 자기네 북방 황무지에 붙어있어야 한다."
 
-#anhui.12.t:0 "정국연군이 거부하다"
-#anhui.12.d:0 "정국연군 지도부가 협력과 우애가 담긴 우리의 제안을 거절했습니다. 저 수상한 반대세력이 자신의 동포들을 배신했다는 게 명확해졌습니다."
-#anhui.12.a:0 "역적을 처단하자!"
+anhui.12.t:0 "Petitioning Zhili"
+anhui.12.d:0 "The Zhili clique are the current masters of the Beiyang Government, to bring Anhui back into the fold it is they we must petition. Contacts have been sparse and cold when they have occured, there is littel trust, but things have improved of late. The threats to the Republic from the East and the South are now far greater than the factionalism within. It is time we rejoined our forces and fought side by side for China's future."
+anhui.12.a:0 "Send the offer."
 
-#anhui.13.t:0 "정국연군이 수락하다"
-#anhui.13.d:0 "정국연군 지도부가 우리의 협력과 우애가 담긴 제안을 현명하게 받아들였습니다. 수상한 반대세력은 찾을 수 없었으며, 저들이 중국을 회복하려는 이 투쟁에서 우리의 동맹이라는 점이 명확해졌습니다."
-#anhui.13.a:0 "형제들이여 환영하오!"
+anhui.13.t:0 "안휘 군벌이 통일을 바라다" #SHA
+anhui.13.d:0 "북방의 추방자들이 함께 손을 잡고 북양 정부를 개혁하자 제안했습니다. 과거의 힘을 되찾은 안휘파는 우리 경계에서 위협으로 작용하고 있습니다. 하지만 우리는 일부 정치이익을 공유하고 있고, 외세를 축출하겠다는 저들의 의도 역시 분명합니다. 남은 건 저들에게 보낼 우리의 답장입니다."
+anhui.13.a:0 "우리는 이 투쟁의 전우들이다."
+anhui.13.b:0 "놈들은 자기네 북방 황무지에 붙어있어야 한다."
+
+anhui.100.t:0 "Anhui Seeks an Accord"
+anhui.100.d:0 "The Anhui Clique, currently stuck in Mongolia, seeks to secure both their position and our border by entering into a non-aggression treaty. While the offer may seem an inconsequential and obvious choice, the possibility of using Mongolia as a future more favourable route into Central Russia than Baikalia and Tunguska remains as a tempting alternative. The Anhui may not suspect it, but Russia may need to once again trample Chinese and Mongolian sovereignty to secure it's future. Should we accept their offer, that route may be closed to us, at least temporarily. But we would gain a valuable potential friend amongst a vast array of enemies."
+anhui.100.a:0 "Yes, very well."
+anhui.100.b:0 "No, this jeporadises our position."
+
+anhui.101.t:0 "Zheltorossiya Accepts Accord"
+anhui.101.d:0 "The Soviets of Zheltorossiya have accepted our offer of non-aggression. Thankfully, our Eastern flank is now safer than most, and that border now functions as a means of trafficking men and materials from Russia into Mongolia to aid our struggle."
+anhui.101.a:0 "Fantastic!"
+anhui.101.b:0 ""
+
+anhui.102.t:0 "Zheltorossiya Rejects Accord"
+anhui.102.d:0 "The Russian Republicans seem as foolhardy as many of our own so-called republicans. They have rejected our offer, citing security concerns in Baikalia, and banditry on our side of the border. It is a smoke screen, they want not to be seen taking sides in Chinese affairs, lest it come back to haunt them later."
+anhui.102.a:0 "Bugger."
+anhui.102.b:0 ""
