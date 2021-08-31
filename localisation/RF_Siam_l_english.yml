@@ -29,8 +29,15 @@ SIA_accelerationism_party_long:0 "순수미술부"
 #LEADER DESCRITIONS#
 #IDEAS#
 SIA_political_conflict:0 "정치분쟁"
+SIA_political_conflict_desc:0 "Even though the 1935 Revolution succeeded, the Royalist remnants are still around. This causes conflicts in our society, and the lact of effectiveness of the government has done nothing but made the situation worse."
 SIA_chinese_immigrants:0 "화교"
-SIA_foreign_X_territorial_rights:0 "Foreign Extra-Territorial Rights"
+SIA_chinese_immigrants_desc:0 "The constant wars and famines in China have caused many Chinese to migrate to South East Asian nations, including us. Even though the rise of the Chinese population in our lands is concerning, they do work for our economy, making it stronger."
+SIA_foreign_X_territorial_rights:0 "치외법권"
+SIA_foreign_X_territorial_rights_desc:0 "The unequal treaties between us and foreign powers have been mostly renegotiated, however their extraterritorial rights still remain."
+SIA_econ_recovery:0 "경제회복의 시작"
+SIA_econ_recovery_desc:0 "Our economy is recovering from the crisis, but we still haven't recovered properly, due to the problems present in our government."
+SIA_rama_vii:0 "라마 7세"
+SIA_rama_vii:0 "Rama VII is opposed to many things within our government. Despite that, he is the symbol of our nation, and stands as an unifier of the people."
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
