@@ -354,6 +354,10 @@ JKR_the_prelude_tooltip:0 "외무정책 디시전이 해제됩니다"
 IKR_restorationist_faction:0 "유신"
 
 IKR_homeless_court:0 "추방된 정치인들의 당도"
+
+KOR_succ_dems_elected:0 "사회인민당이 승리했습니다"
+KOR_cons_elected:0 "대한국민회 보수파가 승리했습니다"
+KOR_libs_elected:0 "대한국민회 자유파가 승리했습니다"
 #Minsiters#
 KOR_yi_si_yeong_hog:0 "이시영"
 KOR_kim_seong_su_hog:0 "김성수"
