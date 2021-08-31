@@ -123,8 +123,8 @@ PER_womens_rights_desc:0 "Reforming a society to follow a more enlightenened Wes
 PER_volunteers_idea:0 "대리전의 주인들"
 PER_volunteers_idea_desc:0 ""
 
-PER_market_dominance_idea:0 "시장우세"
-PER_market_dominance_idea_desc:0 ""
+PER_market_dominance_idea:0 "시장 석권"
+PER_market_dominance_desc:0 "We already hold an influential position in the petroleum market within the British Empire, but with the emerging economic miracle in our Persian lands we stand posed to do so much more. Every day, we mind new efficiencies, new opportunities to create wealth and profit."
 
 PER_anglo_persian_education:0 "영국-이란 교육"
 PER_anglo_persian_education_desc:0 ""
@@ -517,6 +517,10 @@ RPR_persification_cost_azeris_text:0 "£manpower_texticon  §Y30000§! £pol_pow
 RPR_persification_cost_azeris_text_blocked:0 "£manpower_texticon  §R30000§! £pol_power  §R45§! £command_power  §R25§!"
 RPR_lib_persification_azeris:0 "아재르인 페르시아화"
 
+RPR_persification_cost_azeris_text2:0 "£manpower_texticon  §Y20000§! £pol_power  §Y30§! £command_power  §Y25§!"
+RPR_persification_cost_azeris_text2_blocked:0 "£manpower_texticon  §R20000§! £pol_power  §R30§! £command_power  §R25§!"
+RPR_lib_persification_azeris2:0 "아재르인 페르시아화"
+
 RPR_persification_cost_turkmen_text:0 "£manpower_texticon  §Y30000§! £pol_power  §Y45§! £command_power  §Y25§!"
 RPR_persification_cost_turkmen_text_blocked:0 "£manpower_texticon  §R30000§! £pol_power  §R45§! £command_power  §R25§!"
 RPR_lib_persification_turkmen:0 "튀르크멘인 페르시아화"
@@ -628,7 +632,11 @@ RPR_jangle_persification_assyrians:0 "아시리아인 연방화"
 
 RPR_jangle_persification_cost_azeris_text:0 "£manpower_texticon  §Y30000§! £pol_power  §Y100§! £command_power  §Y25§!"
 RPR_jangle_persification_cost_azeris_text_blocked:0 "£manpower_texticon  §R30000§! £pol_power  §R100§! £command_power  §R25§!"
-RPR_jangle_persification_azeris:0 "아제르인 연방화"
+RPR_jangle_persification_azeris:0 "아재르인 연방화"
+
+RPR_jangle_persification_cost_azeris_text2:0 "£manpower_texticon  §Y20000§! £pol_power  §Y30§! £command_power  §Y25§!"
+RPR_jangle_persification_cost_azeris_text2_blocked:0 "£manpower_texticon  §R20000§! £pol_power  §R30§! £command_power  §R25§!"
+RPR_jangle_persification_azeris2:0 "아재르인 연방화"
 
 RPR_jangle_persification_cost_turkmen_text:0 "£manpower_texticon  §Y30000§! £pol_power  §Y100§! £command_power  §Y25§!"
 RPR_jangle_persification_cost_turkmen_text_blocked:0 "£manpower_texticon  §R30000§! £pol_power  §R100§! £command_power  §R25§!"
