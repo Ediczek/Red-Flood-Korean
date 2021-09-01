@@ -56,12 +56,12 @@ SYR_accelerationism_party_long:0 "마쉬리크 사회민족주의당"
 #LEADER DESCRITIONS#
 #IDEAS#
 SYR_underground_resistance:0 "시온주의자들의 영향력"
-SYR_underground_resistance_desc:0 "Zionist organisations are sponsoring the arrival of thousands of jews to Palestine each year. There the settlements form self defence militias and tensions flair. As things progress, this situation is worsening, soon there will be a reckoning."
+SYR_underground_resistance_desc:0 "시온주의 조직들은 매년 팔레스타인으로 오는 수천의 유대인들의 후원을 받습니다. 이들이 구성하는 정착지들은 자체방위 민병대를 창설하며 긴장감을 조성합니다. 일이 계속되면서 상황은 나빠져만 가니, 곧 그 결과를 맛보게 될 것입니다."
 #CUSTOM TOOLTIPS AND FLAGS#
-SYR_DESC_MENU:0 "The Mashriq Kingdom faces an imminent crisis. The spectre of Zionism is causing rifts in Palestine, with the King's British masters showing willingness, eagerness even, to aid them in their cause against our country. As if that wasn't enough, internal divisions are showing in Lebanon and Syria as well, as Druze, French exiles and religious minorities vie for representation and power. How much longer can the Kingdom last?"
+SYR_DESC_MENU:0 "마쉬리크 왕국은 임박한 위기와 마주하고 있습니다. 시온주의의 망령이 팔레스타인에서 소란을 일으키는 한편, 왕을 조종하는 영국인들은 기꺼이, 심지어는 성을 다해 우리나라에 맞서 시온주의자들을 돕고 있습니다. 그것으로도 모자라 레바논과 시리아에서는 드루제, 프랑스 망명자들 및 종교 소수집단들이 대표권과 권력을 두고 서로 싸워대며 내분을 가속화합니다. 도대체 이 왕국은 얼마나 버틸 수 있을까요?"
 #DECISIONS (1.5 Update)#
 SYR_aliyah_decisions:0 "팔레스타인 문제"
-SYR_aliyah_decisions_desc:0 "Zionist organisations are sponsoring the arrival of jews to the coastal plain of Palestine in their thousands. This has been progressing for decades now, and with increasing frequency and numbers. This influx is a destabilising force and is growing the discontent in the region, harming the Kingdom at its foundation. In sufficient numbers, these settlements will improve the development in the region, at the cost of further antagonising our Arab citizens."
+SYR_aliyah_decisions_desc:0 "시온주의 조직들은 매년 팔레스타인으로 오는 수천의 유대인들의 후원을 받습니다. 수십 년 동안 지금까지 그 빈도와 규모는 커져만 갔습니다. 인구 유입은 힘을 불안정하게 만들고 역내 불만을 높이며 왕국을 기반에서부터 위협하고 있습니다. 적정량의 인구를 품은 정착지들은 역내 개발을 개선할 테지만, 아랍인 시민들의 더 큰 반감을 대가로 치러야 할 것입니다."
 SYR_limit_jews:0 "제한된 유대인 입국 허가"
 SYR_permit_jews:0 "대규모 유대인 입국 허가"
 SYR_permit_jews_plus:0 "유대인 정착지 확대 허가"
