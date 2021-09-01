@@ -1426,6 +1426,12 @@ SHA_support_weapons3:0 "Type 27 heavy machine gun & Type 34 60mm mortar"
 ARM_infantry_equipment_0:0 "Vintovka Mosina obr.1891"
 ARM_infantry_equipment_0_short:0 "Mosina 1891"
 
+ARM_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
+ARM_infantry_equipment_1_short:0 "Mosina 1891/1930"
+
+ARM_gw_tank_equipment:0 "Reno-Putilov"
+ARM_gw_tank_equipment_short:0 "Reno-Putilov"
+
 ###
 ### Centrocaspia ###
 ###
@@ -1433,6 +1439,12 @@ ARM_infantry_equipment_0_short:0 "Mosina 1891"
 ### Land ###
 CCD_infantry_equipment_0:0 "Vintovka Mosina obr.1891"
 CCD_infantry_equipment_0_short:0 "Mosina 1891"
+
+CCD_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
+CCD_infantry_equipment_1_short:0 "Mosina 1891/1930"
+
+CCD_gw_tank_equipment:0 "Reno-Putilov"
+CCD_gw_tank_equipment_short:0 "Reno-Putilov"
 
 ###
 ### Azerbaijan ###
@@ -1922,7 +1934,7 @@ WRU_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 WRU_infantry_equipment_1_short:0 "Mosina 1891/1930"
 WRU_infantry_equipment_2:0 "Tokarev obr.1940"
 WRU_infantry_equipment_2_short:0 "SVT-40"
-WRU_infantry_equipment_3:0 "Sudarev obr.1942"
+WRU_infantry_equipment_3:0 "Sudayev obr.1942"
 WRU_infantry_equipment_3_short:0 "AS-42"
 WRU_infantry_at:0 "PTRS-41"
 WRU_infantry_at2:0 "RPG-42"
@@ -2203,8 +2215,8 @@ BOS_modern_tank_equipment_1_short:0 "UO M.50"
 ### Land ###
 BOT_infantry_equipment_0:0 "Rifle No.1 MkIII"
 BOT_infantry_equipment_0_short:0 "Rifle No.1 MkIII"
-BOT_infantry_equipment_1:0 "Enfield-Ontario Rifle Mk.III/IV"
-BOT_infantry_equipment_1_short:0 "Enfield-Ontario"
+BOT_infantry_equipment_1:0 "Rifle No.4 MkI"
+BOT_infantry_equipment_1_short:0 "Rifle No.4 MkI"
 
 ###
 ### Brazil ###
@@ -2331,8 +2343,8 @@ CAF_EQUIPMENT_VERSION_13:0 "Mk. XIII"
 ### Land ###
 CAF_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 CAF_infantry_equipment_0_short:0 "Rifle No.1 Mk.III"
-CAF_infantry_equipment_1:0 "Enfield-Ontario Rifle Mk.III/IV"
-CAF_infantry_equipment_1_short:0 "Enfield-Ontario"
+CAF_infantry_equipment_1:0 "Rifle No.4 MkI"
+CAF_infantry_equipment_1_short:0 "Rifle No.4 MkI"
 CAF_infantry_equipment_2:0 "Auto-Carbine No.1 Mk.1"
 CAF_infantry_equipment_2_short:0 "AC Mk.1"
 CAF_infantry_equipment_3:0 "Auto-Rifle No.1 Mk.5"
@@ -2455,8 +2467,8 @@ CAN_EQUIPMENT_VERSION_13:0 "Mk. XIII"
 
 CAN_infantry_equipment_0:0 "Rifle Ross Mk.III"
 CAN_infantry_equipment_0_short:0 "Ross Mk.III"
-CAN_infantry_equipment_1:0 "Enfield-Ontario Rifle Mk.III/IV"
-CAN_infantry_equipment_1_short:0 "Enfield-Ontario"
+CAN_infantry_equipment_1:0 "Rifle No.4 MkI"
+CAN_infantry_equipment_1_short:0 "Rifle No.4 MkI"
 CAN_infantry_equipment_2:0 "CA Auto-Carbine Model.1"
 CAN_infantry_equipment_2_short:0 "AC Model.1"
 CAN_infantry_equipment_3:0 "CA Auto-Rifle Model.5"
@@ -3065,7 +3077,7 @@ CYP_infantry_equipment_1:0 "Puška M24"
 CYP_infantry_equipment_1_short:0 "Puška M24"
 CYP_infantry_equipment_2:0 "Orita Model 1941"
 CYP_infantry_equipment_2_short:0 "Orita M1941"
-CYP_infantry_equipment_3:0 "Sudarev obr.1942"
+CYP_infantry_equipment_3:0 "Sudayev obr.1942"
 CYP_infantry_equipment_3_short:0 "AS-42"
 
 ###
@@ -3236,8 +3248,8 @@ DEH_EQUIPMENT_VERSION_12:0 "Mk. XII"
 ### Land ###
 DEH_infantry_equipment_0:0 "GRI No.1 MkIII"
 DEH_infantry_equipment_0_short:0 "GRI No.1 MkIII"
-DEH_infantry_equipment_1:0 "Enfield-Ontario Rifle Mk.III/IV"
-DEH_infantry_equipment_1_short:0 "Enfield-Ontario"
+DEH_infantry_equipment_1:0 "Rifle No.4 MkI"
+DEH_infantry_equipment_1_short:0 "Rifle No.4 MkI"
 DEH_infantry_equipment_2:0 "GRI Auto-Carbine MkI"
 DEH_infantry_equipment_2_short:0 "GRI AC MkI"
 DEH_infantry_equipment_3:0 "GRI Auto-Rifle MkV"
@@ -3428,7 +3440,7 @@ DKB_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 DKB_infantry_equipment_1_short:0 "Mosina 1891/1930"
 DKB_infantry_equipment_2:0 "Tokarev obr.1940"
 DKB_infantry_equipment_2_short:0 "SVT-40"
-DKB_infantry_equipment_3:0 "Sudarev obr.1942"
+DKB_infantry_equipment_3:0 "Sudayev obr.1942"
 DKB_infantry_equipment_3_short:0 "AS-42"
 DKB_infantry_at:0 "PTRS-41"
 DKB_infantry_at2:0 "RPG-42"
@@ -4188,65 +4200,65 @@ FRA_EQUIPMENT_VERSION_13:0 "série M"
 
 #Infantry Equip
 
-FRA_infantry_equipment_0:0 "르벨 소총 모델 1886 M93"
-FRA_infantry_equipment_0_short:0 "르벨 M93"
-FRA_infantry_equipment_1:0 "7mm MAS M.35 노리쇠 방식 소총"
+FRA_infantry_equipment_0:0 "Fusil Lebel Modèle 1886 M93"
+FRA_infantry_equipment_0_short:0 "Lebel Mle M93"
+FRA_infantry_equipment_1:0 "Fusil à répétition 7 mm 5 M. 35"
 FRA_infantry_equipment_1_short:0 "MAS-35"
-FRA_infantry_equipment_1_desc:0 "프랑스군은 대전쟁의 참호에서 얻은 경험을 통해 1920년대의 대부분을 무기와 탄약 표준화에 보냈습니다. 이 표준화 프로그램 중 하나가 바로 MAS-35의 조기 채택 및 생산으로, 이전 전쟁의 프랑스 소총의 장점을 새로운 기계적 가공 및 재료 혁신과 결합한 기병총 길이의 볼트액션 소총이었습니다."
-FRA_infantry_equipment_2:0 "7.65mm MAS M.38 기관단총"
+FRA_infantry_equipment_1_desc:0 "Learning from their experiences in the trenches of the western front in WWI, the French military spent much of the late 1920's standardising on arms and ammunition. Part of this program was the early adoption and produciton of the MAS-35, a carbine length bolt-action rifle intended to combine the best characteristics of French rifles from the previous war with new machining and material innovations."
+FRA_infantry_equipment_2:0 "Pistolet Mitrailleur de 7,65mm MAS modèle 38 "
 FRA_infantry_equipment_2_short:0 "MAS-38"
-FRA_infantry_equipment_3:0 "7mm MAS M.41 반자동 소총"
+FRA_infantry_equipment_3:0 "Fusil semi-automatique 7 mm 5 M. 41"
 FRA_infantry_equipment_3_short:0 "MAS-41"
-FRA_infantry_equipment_3_desc:0 "MAS-41은 유럽에서 가장 널리 채택된 반자동 제식 소총 중 하나입니다. 많은 다른 총들과는 달리 MAS-41은 매우 안정적이며 20발들이 탄창 덕분에 더 많은 화력과 더 빠른 재장전이 가능했습니다."
-FRA_support_weapons:0 "FM 쇼샤 & 스트로크 박격포"
-FRA_support_weapons2:0 "호치키스 M1926 & 브랑 모델 27/31 박격포"
-FRA_support_weapons3:0 "호치키스 26/37 & 브랑 모델 35/38 박격포"
-FRA_support_weapons4:0 "MAS AA-42 & 브랑 모델 1942 박격포"
-FRA_infantry_at:0 "보이즈 대전차 소총"
-FRA_infantry_at2:0 "73mm LRAC 모델 1943"
+FRA_infantry_equipment_3_desc:0 "The MAS-41 is one of the first, most widely adopted semi-automatic service rifles in Europe. Unlike many of its peers the MAS-41 was found to be extremely reliable and allowed greater volume of fire and faster reloads in testing thanks to its detachable 20-round magazine."
+FRA_support_weapons:0 "FM Chauchat & Stokes mortar"
+FRA_support_weapons2:0 "Hotchkiss M1926 & Brandt Mle 27/31"
+FRA_support_weapons3:0 "Hotchkiss 26/37 & Brandt Mle 35/38"
+FRA_support_weapons4:0 "MAS AA-42 & Brandt Mle 1942"
+FRA_infantry_at:0 "Boys Anti-Tank Rifle"
+FRA_infantry_at2:0 "LRAC de 73mm Mle 1943"
 
 #Motorised
 
-FRA_motorized_equipment_1:0 "파나르 U23"
-FRA_mechanized_equipment_1:0 "파나르 P107"
-FRA_mechanized_equipment_1_short:0 "파나르 P107"
+FRA_motorized_equipment_1:0 "Panhard U23"
+FRA_mechanized_equipment_1:0 "Panhard P107"
+FRA_mechanized_equipment_1_short:0 "Panhard P107"
 FRA_mechanized_equipment_2:0 "SOMUA MCG"
 FRA_mechanized_equipment_2_short:0 "SOMUA MCG"
 FRA_mechanized_equipment_3:0 "SOMUA-VCI"
 FRA_mechanized_equipment_3_short:0 "SOMUA-VCI"
 
 #Armored Car
-FRA_gw_armored_car_equipment:0 "라플리 S15"
+FRA_gw_armored_car_equipment:0 "Laffly S15"
 FRA_gw_armored_car_equipment_short:0 "S15"
-FRA_armored_car_equipment_1:0 "파나르 165"
-FRA_armored_car_equipment_1_short:0 "파나르 165"
-FRA_armored_car_equipment_2:0 "파나르 178"
-FRA_armored_car_equipment_2_short:0 "파나르 178"
-FRA_armored_car_at_equipment:0 "특수 차량 207"
+FRA_armored_car_equipment_1:0 "Panhard 165"
+FRA_armored_car_equipment_1_short:0 "Panhard 165"
+FRA_armored_car_equipment_2:0 "Panhard 178"
+FRA_armored_car_equipment_2_short:0 "Panhard 178"
+FRA_armored_car_at_equipment:0 "Voiture spéciale 207"
 FRA_armored_car_at_equipment_short:0 "V.S. 207"
 
 #Artillery
 
-FRA_artillery_equipment_1:0 "75mm 모델 1897 야포"
-FRA_artillery_equipment_1_short:0 "75mm 모델 1897 야포"
-FRA_artillery_equipment_2:0 "105mm L 모델 1936 야포"
-FRA_artillery_equipment_3:0 "155mm GPF 야포"
+FRA_artillery_equipment_1:0 "Canon de 75 modèle 1897"
+FRA_artillery_equipment_1_short:0 "Canon de 75 mle 1897"
+FRA_artillery_equipment_2:0 "Canon de 105 L mle 1936"
+FRA_artillery_equipment_3:0 "Canon de 155mm GPF"
 
-FRA_anti_tank_equipment_1:0 "25mm 대전차포"
-FRA_anti_tank_equipment_1_short:0 "25mm 대전차포"
-FRA_anti_tank_equipment_2:0 "47mm SA37 대전차포"
-FRA_anti_tank_equipment_3:0 "76mm 모델 1943 대전차포"
+FRA_anti_tank_equipment_1:0 "Canon de 25 mm"
+FRA_anti_tank_equipment_1_short:0 "Canon de 25 mm"
+FRA_anti_tank_equipment_2:0 "47mm SA 37"
+FRA_anti_tank_equipment_3:0 "Canon de 76 mm modèle 1943"
 
-FRA_anti_air_equipment_1:0 "브랑 25mm 대공포"
-FRA_anti_air_equipment_1_short:0 "브랑 25mm 대공포"
-FRA_anti_air_equipment_2:0 "쉬네데르 37mm 대공포"
-FRA_anti_air_equipment_3:0 "75mm CA 모델 1940 대공포"
+FRA_anti_air_equipment_1:0 "Brandt 25mm"
+FRA_anti_air_equipment_1_short:0 "Brandt 25 mm"
+FRA_anti_air_equipment_2:0 "Schneider 37 mm"
+FRA_anti_air_equipment_3:0 "Canon de 75 CA modèle 1940"
 
 #Tanks
 
-FRA_gw_tank_equipment:0 "르노 FT"
+FRA_gw_tank_equipment:0 "Renault FT"
 FRA_gw_tank_equipment_short:0 "FT"
-FRA_light_tank_equipment_1:0 "브랑 H35"
+FRA_light_tank_equipment_1:0 "Brandt H35"
 FRA_light_tank_equipment_1_short:0 "H35"
 FRA_light_tank_equipment_2:0 "FCM 36"
 FRA_light_tank_equipment_2_short:0 "FCM 36"
@@ -4254,26 +4266,26 @@ FRA_light_tank_destroyer_equipment_2:0 "AMR 35 ZT-3"
 FRA_light_tank_destroyer_equipment_2_short:0 "AMR 35 ZT-3"
 FRA_light_tank_equipment_3:0 "SOMUA 12t"
 FRA_light_tank_equipment_3_short:0 "SOMUA 12t"
-FRA_light_tank_artillery_equipment_3:0 "155mm 모델 F3 자주포"
-FRA_light_tank_artillery_equipment_3_short:0 "155mm F3"
+FRA_light_tank_artillery_equipment_3:0 "Canon de 155 mm Mle F3 Automoteur"
+FRA_light_tank_artillery_equipment_3_short:0 "F3 155 mm"
 
-FRA_medium_tank_equipment_1:1 "로렌 AMC 35"
+FRA_medium_tank_equipment_1:1 "Lorraine AMC 35"
 FRA_medium_tank_equipment_1_short:1 "AMC 35"
-FRA_medium_tank_artillery_equipment_1:0 "로렌 V39"
-FRA_medium_tank_artillery_equipment_1_short:0 "로렌 V39"
-FRA_medium_tank_destroyer_equipment_1:0 "라플리 W15 TCC"
+FRA_medium_tank_artillery_equipment_1:0 "Lorraine V39"
+FRA_medium_tank_artillery_equipment_1_short:0 "Lorraine V39"
+FRA_medium_tank_destroyer_equipment_1:0 "Laffly W15 TCC"
 FRA_medium_tank_destroyer_equipment_1_short:0 "W15 TCC"
 FRA_medium_tank_equipment_2:1 "SOMUA S35"
 FRA_medium_tank_equipment_2_short:1 "S35"
-FRA_medium_tank_equipment_3:1 "로렌 42"
-FRA_medium_tank_equipment_3_short:1 "로렌 42"
+FRA_medium_tank_equipment_3:1 "Lorraine 42"
+FRA_medium_tank_equipment_3_short:1 "Lorraine 42"
 
-FRA_heavy_tank_equipment_1:0 "로렌 B1"
+FRA_heavy_tank_equipment_1:0 "Lorraine B1"
 FRA_heavy_tank_equipment_1_short:0 "B1"
-FRA_heavy_tank_artillery_equipment_1:0 "194mm 모델 GPF 자주포"
-FRA_heavy_tank_artillery_equipment_1_short:0 "194mm GPF"
-FRA_heavy_tank_equipment_2:0 "로렌 44"
-FRA_heavy_tank_equipment_2_short:0 "로렌 44"
+FRA_heavy_tank_artillery_equipment_1:0 "Canon de 194 mle GPF"
+FRA_heavy_tank_artillery_equipment_1_short:0 "Canon de 194"
+FRA_heavy_tank_equipment_2:0 "Lorraine 44"
+FRA_heavy_tank_equipment_2_short:0 "Lorraine 44"
 FRA_heavy_tank_equipment_3:0 "SOMUA-M4"
 FRA_heavy_tank_equipment_3_short:0 "SOMUA-M4"
 
@@ -4729,7 +4741,7 @@ GRE_infantry_equipment_1:0 "Puška M24"
 GRE_infantry_equipment_1_short:0 "Puška M24"
 GRE_infantry_equipment_2:0 "Orita Model 1941"
 GRE_infantry_equipment_2_short:0 "Orita M1941"
-GRE_infantry_equipment_3:0 "Sudarev obr.1942"
+GRE_infantry_equipment_3:0 "Sudayev obr.1942"
 GRE_infantry_equipment_3_short:0 "AS-42"
 
 
@@ -4744,7 +4756,7 @@ MAR_infantry_equipment_1:0 "Puška M24"
 MAR_infantry_equipment_1_short:0 "Puška M24"
 MAR_infantry_equipment_2:0 "Orita Model 1941"
 MAR_infantry_equipment_2_short:0 "Orita M1941"
-MAR_infantry_equipment_3:0 "Sudarev obr.1942"
+MAR_infantry_equipment_3:0 "Sudayev obr.1942"
 MAR_infantry_equipment_3_short:0 "AS-42"
 
 ###
@@ -4784,8 +4796,8 @@ GUY_EQUIPMENT_VERSION_13:0 "Mk. XIII"
 ### Land ###
 GUY_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 GUY_infantry_equipment_0_short:0 "Rifle No.1 Mk.III"
-GUY_infantry_equipment_1:0 "Enfield-Ontario Rifle Mk.III/IV"
-GUY_infantry_equipment_1_short:0 "Enfield-Ontario"
+GUY_infantry_equipment_1:0 "Rifle No.4 MkI"
+GUY_infantry_equipment_1_short:0 "Rifle No.4 MkI"
 GUY_infantry_equipment_2:0 "Auto-Carbine No.1 Mk.1"
 GUY_infantry_equipment_2_short:0 "AC Mk.1"
 GUY_infantry_equipment_3:0 "Auto-Rifle No.1 Mk.5"
@@ -5347,20 +5359,31 @@ ICE_infantry_equipment_1_short:0 "Fodfolkskarabin M/89-24"
 
 #Infantry Equipment
 
-DAI_infantry_equipment_0:0 "Le fusil Mle 1902 Indochinois"
-DAI_infantry_equipment_0_short:0 "Mle 1902 Indochinois"
-DAI_infantry_equipment_0_desc:0 "Lighter and easier to handle and load than the Mle 1886/M93 Lebel rifle, the Berthier fusil Mle 1902 'Indochinois' rifles proved more suitable for offhand shooting and easier to maintain in tropical environments, and saw its use in Indochina."
-DAI_infantry_equipment_1:0 "Arisaka Type 99"
-DAI_infantry_equipment_1_short:0 "Type 99"
+DAI_infantry_equipment_0_short:0 "K-1885"
+DAI_infantry_equipment_0:0 "K-1885 \"Daudeteau\""
+DAI_infantry_equipment_0_desc:0 "The Daudeteau carbine was created in 1895 with it's unique 6.5mm cartridge instead of the standard 8mm Lebel cartridge. Being ahead of its time, scoring better than the Lebel in multiple tests, it did not have some of the features desired by the French. Despite the failure to get adopted by the French Army, it was adopted by the Navy for a short period of time and used for colonial marines in Indochina."
+DAI_infantry_equipment_1_short:0 "K-1926"
+DAI_infantry_equipment_1:0 "K-1926 \"Than-Co\""
+DAI_infantry_equipment_1_desc:0 "A modernization of the Daudeteau rifle initially used by the French Marine forces, Put into production in 1926 during a program to expand the Royal Gun Foundry under Japanese supervision to defended aginst the threat of Siam. While plans to standardize arms across the Japanese sphere on a single Arisaka-based design have been discussed for some years, they have thus far made little headway in Annam, due either to suspicion over the quality of the surplus materiel provided by Japan, or an unwillingness by His Majesty had his government to leave the nation entirely dependent on Japanese arms."
+DAI_infantry_equipment_2:0 "K-1939 \"Than-Phong\"" 
+DAI_infantry_equipment_2_short:0 "K-1939" 
+DAI_infantry_equipment_2_desc:0 "The K-1939 is the desgination for the domestically produced Submachine gun, based on the licensed design for the MP/18. Originally designed for bold stormtroopers breaking the stalemate of the Western Front, our trials have found the short-range rapid-fire power of this weapon to be equally well suited for speculative or reflexive firing in the shadow-speckled chaos of jungle warfare. Firing the same 9mm parabellum cartridge which the original German machine tooling was configured for, the lightweight ammunition of the weapon provides high performance at all practical ranges."
+DAI_infantry_equipment_3:0 "K-1942 SMG \"Hoa-Phong\"" 
+DAI_infantry_equipment_3_short:0 "K-1942"
 DAI_infantry_at:0 "Type 97 Anti-Tank Rifle"
 DAI_support_weapons:0 "Type 3 Heavy Machine Gun & Type 11 mortar"
 
 
 #Motorised
 
-DAI_motorized_equipment_1:0 "Type 94"
-DAI_mechanized_equipment_1:0 "Type 98 So-Da"
-DAI_mechanized_equipment_1_short:0 "So-Da"
+DAI_motorized_equipment_1_short:0 "K-1933"
+DAI_motorized_equipment_1:0 "Bainnier K-1933 \"Ma-Xa\""
+DAI_mechanized_equipment_1:0 "Bainnier K-1938 \"Co-Chuyen-Xa I\""
+DAI_mechanized_equipment_1_short:0 "K-1938"
+DAI_mechanized_equipment_2:0 "Bainnier K-1940 \"Co-Chuyen-Xa II\""
+DAI_mechanized_equipment_2_short:0 "K-1940"
+DAI_mechanized_equipment_3:0 "Bainnier K-1943 \"Co-Chuyen-Xa II-A\""
+DAI_mechanized_equipment_3_short:0 "K-1943"
 
 #Amphibious
 DAI_amphibious_tank_equipment_1:0 "Type 2 Ka-Mi"
@@ -5372,8 +5395,10 @@ DAI_gw_armored_car_equipment_short:0 "Osaka"
 
 #Artillery
 
-DAI_artillery_equipment_1:0 "Type 95 75 mm"
-DAI_artillery_equipment_1_short:0 "Type 95 75 mm"
+DAI_artillery_equipment_1:0 "K-1897 75mm"
+DAI_artillery_equipment_1_short:0 "K-1897 75mm"
+DAI_artillery_equipment_2:0 "K-1932 75mm"
+DAI_artillery_equipment_2_short:0 "K-1932 75mm"
 
 DAI_anti_tank_equipment_1:0 "Type 94 37 mm"
 DAI_anti_tank_equipment_1_short:0 "Type 94 37 mm"
@@ -5386,8 +5411,8 @@ DAI_rocket_artillery_equipment_1_short:0 "Type 4 20 cm"
 
 #Tanks
 
-DAI_gw_tank_equipment:0 "Ko-Gata Sensha"
-DAI_gw_tank_equipment_short:0 "Ko-Gata"
+DAI_gw_tank_equipment:0 "Tang-Xa K-1922 \"Thanh-Giong\""
+DAI_gw_tank_equipment_short:0 "K-1922"
 DAI_light_tank_equipment_1:0 "Type 94 Tankette"
 DAI_light_tank_equipment_1_short:0 "Type 94"
 DAI_light_tank_equipment_2:0 "Type 95 Ha-Go"
@@ -5417,21 +5442,30 @@ DAI_heavy_tank_artillery_equipment_1_short:0 "Ji-Ro"
 
 #Infantry Equipment
 
-SMC_infantry_equipment_0:0 "Le fusil Mle 1902 Indochinois"
-SMC_infantry_equipment_0_short:0 "Mle 1902 Indochinois"
-SMC_infantry_equipment_0_desc:0 "Lighter and easier to handle and load than the Mle 1886/M93 Lebel rifle, the Berthier fusil Mle 1902 'Indochinois' rifles proved more suitable for offhand shooting and easier to maintain in tropical environments, and saw its use in Indochina."
-SMC_infantry_equipment_1:0 "Arisaka Type 99"
-SMC_infantry_equipment_1_short:0 "Type 99"
+SMC_infantry_equipment_0_short:0 "K-1885"
+SMC_infantry_equipment_0:0 "K-1885 \"Daudeteau\""
+SMC_infantry_equipment_0_desc:0 "The Daudeteau carbine was created in 1895 with it's unique 6.5mm cartridge instead of the standard 8mm Lebel cartridge. Being ahead of its time, scoring better than the Lebel in multiple tests, it did not have some of the features desired by the French. Despite the failure to get adopted by the French Army, it was adopted by the Navy for a short period of time and used for colonial marines in Indochina."
+SMC_infantry_equipment_1_short:0 "K-1926"
+SMC_infantry_equipment_1:0 "K-1926 \"Than-Co\""
+SMC_infantry_equipment_1_desc:0 "A modernization of the Daudeteau rifle initially used by the French Marine forces, Put into production in 1926 during a program to expand the Royal Gun Foundry under Japanese supervision to defended aginst the threat of Siam. While plans to standardize arms across the Japanese sphere on a single Arisaka-based design have been discussed for some years, they have thus far made little headway in Annam, due either to suspicion over the quality of the surplus materiel provided by Japan, or an unwillingness by His Majesty had his government to leave the nation entirely dependent on Japanese arms."
+SMC_infantry_equipment_2:0 "K-1935 E-SMG" 
+SMC_infantry_equipment_2_short:0 "K-1935" 
+SMC_infantry_equipment_2_desc:0 ""
+SMC_infantry_equipment_3:0 "Shiki-100"
+SMC_infantry_equipment_3_short:0 "Shiki-100"
 SMC_infantry_at:0 "Type 97 Anti-Tank Rifle"
 SMC_support_weapons:0 "Type 3 Heavy Machine Gun & Type 11 mortar"
 
 
 #Motorised
-
-SMC_motorized_equipment_1:0 "Type 94"
-SMC_mechanized_equipment_1:0 "Type 98 So-Da"
-SMC_mechanized_equipment_1_short:0 "So-Da"
-
+SMC_motorized_equipment_1_short:0 "K-1933"
+SMC_motorized_equipment_1:0 "Bainnier K-1933 \"Ma-Xa\""
+SMC_mechanized_equipment_1_short:0 "K-1938"
+SMC_mechanized_equipment_1:0 "Bainnier K-1938 \"Co-Chuyen-Xa I\""
+SMC_mechanized_equipment_2:0 "Bainnier K-1940 \"Co-Chuyen-Xa II\""
+SMC_mechanized_equipment_2_short:0 "K-1940"
+SMC_mechanized_equipment_3:0 "Shiki-103"
+SMC_mechanized_equipment_3_short:0 "Shiki-103"
 #Amphibious
 SMC_amphibious_tank_equipment_1:0 "Type 2 Ka-Mi"
 SMC_amphibious_tank_equipment_1_short:0 "Ka-Mi"
@@ -5441,9 +5475,11 @@ SMC_gw_armored_car_equipment:0 "Type 92 Osaka"
 SMC_gw_armored_car_equipment_short:0 "Osaka"
 
 #Artillery
+SMC_artillery_equipment_1:0 "K-1897 75mm"
+SMC_artillery_equipment_1_short:0 "K-1897 75mm"
+SMC_artillery_equipment_2:0 "K-1932 75mm"
+SMC_artillery_equipment_2_short:0 "K-1932 75mm"
 
-SMC_artillery_equipment_1:0 "Type 95 75 mm"
-SMC_artillery_equipment_1_short:0 "Type 95 75 mm"
 
 SMC_anti_tank_equipment_1:0 "Type 94 37 mm"
 SMC_anti_tank_equipment_1_short:0 "Type 94 37 mm"
@@ -5456,8 +5492,8 @@ SMC_rocket_artillery_equipment_1_short:0 "Type 4 20 cm"
 
 #Tanks
 
-SMC_gw_tank_equipment:0 "Ko-Gata Sensha"
-SMC_gw_tank_equipment_short:0 "Ko-Gata"
+SMC_gw_tank_equipment:0 "Tang-Xa K-1922 \"Thanh-Giong\""
+SMC_gw_tank_equipment_short:0 "K-1922"
 SMC_light_tank_equipment_1:0 "Type 94 Tankette"
 SMC_light_tank_equipment_1_short:0 "Type 94"
 SMC_light_tank_equipment_2:0 "Type 95 Ha-Go"
@@ -5543,7 +5579,51 @@ GOY_infantry_equipment_2_desc:0 "In the early 1930s, Brazil purchased a small nu
 GOY_support_weapons:0 "Hotchkiss M1914 MG & Stokes mortar"
 
 ###
-### Republic of Italy ###
+### Israel ###
+###
+
+#Infantry Equip
+
+ISR_infantry_equipment_0:0 "Rifle No.1 Mk.III"
+ISR_infantry_equipment_0_short:0 "No.1 Mk.III"
+ISR_infantry_equipment_1:0 "Rifle No.4 Mk.I"
+ISR_infantry_equipment_1_short:0 "No.4 Mk.I"
+ISR_infantry_at:0 "Boys Anti-Tank Rifle"
+ISR_infantry_at2:0 "CREB"
+ISR_support_weapons:0 "Vickers MG & Stokes mortar"
+ISR_support_weapons2:0 "Lewis Mk. III DEMS & SBML two-inch mortar"
+
+#Motorised
+
+ISR_motorized_equipment_1:1 "Austin K5"
+
+#Armored Car
+ISR_gw_armored_car_equipment:0 "BSA Dingo"
+ISR_gw_armored_car_equipment_short:0 "Dingo"
+
+#Artillery
+
+ISR_artillery_equipment_1:0 "QF 18-pounder"
+ISR_artillery_equipment_1_short:0 "QF 18-pounder"
+
+ISR_anti_air_equipment_1:0 "QF 3-inch 20 cwt"
+ISR_anti_air_equipment_1_short:0 "QF 3-inch"
+
+#Tanks
+
+ISR_gw_tank_equipment:0 "Mark V"
+ISR_gw_tank_equipment_short:0 "Mark V"
+ISR_light_tank_equipment_1:0 "Pilot Tank Mk.I"
+ISR_light_tank_equipment_1_short:0 "Pilot Mk.I"
+
+ISR_medium_tank_equipment_1:0 "Medium Tank Mk.VI"
+ISR_medium_tank_equipment_1_short:0 "Medium Mk.VI"
+
+ISR_heavy_tank_equipment_1:0 "Heavy Tank Mk.I"
+ISR_heavy_tank_equipment_1_short:0 "Heavy Mk.I"
+
+###
+### Kingdom of Italy ###
 ###
 
 ### Land ###
@@ -5676,8 +5756,8 @@ JAM_EQUIPMENT_VERSION_13:0 "Mk. XIII"
 ### Land ###
 JAM_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 JAM_infantry_equipment_0_short:0 "Rifle No.1 Mk.III"
-JAM_infantry_equipment_1:0 "Enfield-Ontario Rifle Mk.III/IV"
-JAM_infantry_equipment_1_short:0 "Enfield-Ontario"
+JAM_infantry_equipment_1:0 "Rifle No.4 MkI"
+JAM_infantry_equipment_1_short:0 "Rifle No.4 MkI"
 JAM_infantry_equipment_2:0 "Auto-Carbine No.1 Mk.1"
 JAM_infantry_equipment_2_short:0 "AC Mk.1"
 JAM_infantry_equipment_3:0 "Auto-Rifle No.1 Mk.5"
@@ -6092,10 +6172,45 @@ KOR_infantry_equipment_0_short:0 "Type 38"
 ###
 
 ### Land ###
-KUR_infantry_equipment_0:0 "Mauser G98 M1903"
-KUR_infantry_equipment_0_short:0 "Mauser G98"
-KUR_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ottoman Army during the Great War. The Ottoman M1903, chambered in 7.65mm, was the most common variant of Mauser in use. Pronounced 'Mavzer' by the Ottomans, this iconic rifle achieved great fame and became deeply ingrained in the Turkish subconscious.\n'One side of me withered from sorrows / the other from a Mavzer wound'. Freed from Ottoman control, the Kurdish army possess a large number of these rifles."
+#Infantry Equip
 
+KUR_infantry_equipment_0:0 "Rifle No.1 Mk.III"
+KUR_infantry_equipment_0_short:0 "No.1 Mk.III"
+KUR_infantry_equipment_1:0 "Rifle No.4 Mk.I"
+KUR_infantry_equipment_1_short:0 "No.4 Mk.I"
+KUR_infantry_at:0 "Boys Anti-Tank Rifle"
+KUR_infantry_at2:0 "CREB"
+KUR_support_weapons:0 "Vickers MG & Stokes mortar"
+KUR_support_weapons2:0 "Lewis Mk. III DEMS & SBML two-inch mortar"
+
+#Motorised
+
+KUR_motorized_equipment_1:1 "Austin K5"
+
+#Armored Car
+KUR_gw_armored_car_equipment:0 "BSA Dingo"
+KUR_gw_armored_car_equipment_short:0 "Dingo"
+
+#Artillery
+
+KUR_artillery_equipment_1:0 "QF 18-pounder"
+KUR_artillery_equipment_1_short:0 "QF 18-pounder"
+
+KUR_anti_air_equipment_1:0 "QF 3-inch 20 cwt"
+KUR_anti_air_equipment_1_short:0 "QF 3-inch"
+
+#Tanks
+
+KUR_gw_tank_equipment:0 "Mark V"
+KUR_gw_tank_equipment_short:0 "Mark V"
+KUR_light_tank_equipment_1:0 "Pilot Tank Mk.I"
+KUR_light_tank_equipment_1_short:0 "Pilot Mk.I"
+
+KUR_medium_tank_equipment_1:0 "Medium Tank Mk.VI"
+KUR_medium_tank_equipment_1_short:0 "Medium Mk.VI"
+
+KUR_heavy_tank_equipment_1:0 "Heavy Tank Mk.I"
+KUR_heavy_tank_equipment_1_short:0 "Heavy Mk.I"
 ###
 ### Laos ###
 ###
@@ -6621,8 +6736,8 @@ NOR_modern_tank_equipment_1_short:0 "Strv 74"
 ### Land ###
 NZL_infantry_equipment_0:0 "Rifle No.1 MkIII"
 NZL_infantry_equipment_0_short:0 "Rifle No.1 MkIII"
-NZL_infantry_equipment_1:0 "Enfield-Ontario Rifle Mk.III/IV"
-NZL_infantry_equipment_1_short:0 "Enfield-Ontario"
+NZL_infantry_equipment_1:0 "Rifle No.4 MkI"
+NZL_infantry_equipment_1_short:0 "Rifle No.4 MkI"
 NZL_infantry_equipment_2:0 "Owen Gun"
 NZL_infantry_equipment_2_short:0 "Owen Gun"
 NZL_infantry_equipment_3:0 "CA Auto-Rifle Model.5"
@@ -6783,11 +6898,91 @@ PAR_infantry_equipment_1_desc:0 "In 1927, the Spanish Oviedo company won a contr
 ###
 
 ### Land ###
-PER_infantry_equipment_0:0 "Mauser 98"
-PER_infantry_equipment_0_short:0 "Mauser 98"
-PER_infantry_equipment_1:0 "Zbrojovka Brno vz.24"
-PER_infantry_equipment_1_short:0 "Brno vz.24"
-PER_infantry_equipment_1_desc:0 "The Zbrojovka Brno vz.24 is a carbine based on the German Mauser 1898. While never formally adopted by the Dual Monarchy, the Brno vz.24 saw great success as an export and on the civilian market."
+#Infantry Equip
+
+PER_infantry_equipment_0:0 "Rifle No.1 Mk.III"
+PER_infantry_equipment_0_short:0 "No.1 Mk.III"
+PER_infantry_equipment_1:0 "Rifle No.4 Mk.I"
+PER_infantry_equipment_1_short:0 "No.4 Mk.I"
+PER_infantry_at:0 "Boys Anti-Tank Rifle"
+PER_infantry_at2:0 "CREB"
+PER_support_weapons:0 "Vickers MG & Stokes mortar"
+PER_support_weapons2:0 "Lewis Mk. III DEMS & SBML two-inch mortar"
+
+#Motorised
+
+PER_motorized_equipment_1:1 "Austin K5"
+
+#Armored Car
+PER_gw_armored_car_equipment:0 "BSA Dingo"
+PER_gw_armored_car_equipment_short:0 "Dingo"
+
+#Artillery
+
+PER_artillery_equipment_1:0 "QF 18-pounder"
+PER_artillery_equipment_1_short:0 "QF 18-pounder"
+
+PER_anti_air_equipment_1:0 "QF 3-inch 20 cwt"
+PER_anti_air_equipment_1_short:0 "QF 3-inch"
+
+#Tanks
+
+PER_gw_tank_equipment:0 "Mark V"
+PER_gw_tank_equipment_short:0 "Mark V"
+PER_light_tank_equipment_1:0 "Pilot Tank Mk.I"
+PER_light_tank_equipment_1_short:0 "Pilot Mk.I"
+
+PER_medium_tank_equipment_1:0 "Medium Tank Mk.VI"
+PER_medium_tank_equipment_1_short:0 "Medium Mk.VI"
+
+PER_heavy_tank_equipment_1:0 "Heavy Tank Mk.I"
+PER_heavy_tank_equipment_1_short:0 "Heavy Mk.I"
+
+###
+### Red Persia (Iran) ###
+###
+
+### Land ###
+#Infantry Equip
+
+RPR_infantry_equipment_0:0 "Rifle No.1 Mk.III"
+RPR_infantry_equipment_0_short:0 "No.1 Mk.III"
+RPR_infantry_equipment_1:0 "Rifle No.4 Mk.I"
+RPR_infantry_equipment_1_short:0 "No.4 Mk.I"
+RPR_infantry_at:0 "Boys Anti-Tank Rifle"
+RPR_infantry_at2:0 "CREB"
+RPR_support_weapons:0 "Vickers MG & Stokes mortar"
+RPR_support_weapons2:0 "Lewis Mk. III DEMS & SBML two-inch mortar"
+
+#Motorised
+
+RPR_motorized_equipment_1:1 "Austin K5"
+
+#Armored Car
+RPR_gw_armored_car_equipment:0 "BSA Dingo"
+RPR_gw_armored_car_equipment_short:0 "Dingo"
+
+#Artillery
+
+RPR_artillery_equipment_1:0 "QF 18-pounder"
+RPR_artillery_equipment_1_short:0 "QF 18-pounder"
+
+RPR_anti_air_equipment_1:0 "QF 3-inch 20 cwt"
+RPR_anti_air_equipment_1_short:0 "QF 3-inch"
+
+#Tanks
+
+RPR_gw_tank_equipment:0 "Mark V"
+RPR_gw_tank_equipment_short:0 "Mark V"
+RPR_light_tank_equipment_1:0 "Pilot Tank Mk.I"
+RPR_light_tank_equipment_1_short:0 "Pilot Mk.I"
+
+RPR_medium_tank_equipment_1:0 "Medium Tank Mk.VI"
+RPR_medium_tank_equipment_1_short:0 "Medium Mk.VI"
+
+RPR_heavy_tank_equipment_1:0 "Heavy Tank Mk.I"
+RPR_heavy_tank_equipment_1_short:0 "Heavy Mk.I"
+
 
 ###
 ### Philippines (PHI) ###
@@ -7046,8 +7241,8 @@ BYJ_support_weapons3:0 "Type 27 heavy machine gun & Type 34 60mm mortar"
 
 QUE_infantry_equipment_0:0 "Rifle Ross Mk.III"
 QUE_infantry_equipment_0_short:0 "Ross Mk.III"
-QUE_infantry_equipment_1:0 "Enfield-Ontario Rifle Mk.III/IV"
-QUE_infantry_equipment_1_short:0 "Enfield-Ontario"
+QUE_infantry_equipment_1:0 "Rifle No.4 MkI"
+QUE_infantry_equipment_1_short:0 "Rifle No.4 MkI"
 QUE_infantry_equipment_2:0 "CA Auto-Carbine Model.1"
 QUE_infantry_equipment_2_short:0 "AC Model.1"
 
@@ -7117,7 +7312,7 @@ RUS_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 RUS_infantry_equipment_1_short:0 "Mosina 1891/1930"
 RUS_infantry_equipment_2:0 "Tokarev obr.1940"
 RUS_infantry_equipment_2_short:0 "SVT-40"
-RUS_infantry_equipment_3:0 "Sudarev obr.1942"
+RUS_infantry_equipment_3:0 "Sudayev obr.1942"
 RUS_infantry_equipment_3_short:0 "AS-42"
 RUS_infantry_at:0 "PTRS-41"
 RUS_infantry_at2:0 "RPG-42"
@@ -7236,7 +7431,7 @@ SRU_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 SRU_infantry_equipment_1_short:0 "Mosina 1891/1930"
 SRU_infantry_equipment_2:0 "Tokarev obr.1940"
 SRU_infantry_equipment_2_short:0 "SVT-40"
-SRU_infantry_equipment_3:0 "Sudarev obr.1942"
+SRU_infantry_equipment_3:0 "Sudayev obr.1942"
 SRU_infantry_equipment_3_short:0 "AS-42"
 SRU_infantry_at:0 "PTRS-41"
 SRU_infantry_at2:0 "RPG-42"
@@ -7361,8 +7556,8 @@ RWA_support_weapons2:0 "MG-34 & 8 cm Granatwerfer 34"
 ### Land ###
 SAF_infantry_equipment_0:0 "Rifle No.1 MkIII"
 SAF_infantry_equipment_0_short:0 "Rifle No.1 MkIII"
-SAF_infantry_equipment_1:0 "Enfield-Ontario Rifle Mk.III/IV"
-SAF_infantry_equipment_1_short:0 "Enfield-Ontario"
+SAF_infantry_equipment_1:0 "Rifle No.4 MkI"
+SAF_infantry_equipment_1_short:0 "Rifle No.4 MkI"
 
 SAF_infantry_equipment_3:0 "Reider Automatic"
 SAF_infantry_equipment_3_short:0 "Reider Automatic"
@@ -7516,7 +7711,7 @@ SER_infantry_equipment_1:0 "Puška M24"
 SER_infantry_equipment_1_short:0 "Puška M24"
 SER_infantry_equipment_2:0 "Moschetto Automatico Beretta 1938"
 SER_infantry_equipment_2_short:0 "MAB-38"
-SER_infantry_equipment_3:0 "Sudarev obr.1942"
+SER_infantry_equipment_3:0 "Sudayev obr.1942"
 SER_infantry_equipment_3_short:0 "AS-42"
 
 SER_motorized_equipment_1:0 "VTZ YS-4403"
@@ -7553,7 +7748,7 @@ YUG_infantry_equipment_1:0 "Puška M24"
 YUG_infantry_equipment_1_short:0 "Puška M24"
 YUG_infantry_equipment_2:0 "Moschetto Automatico Beretta 1938"
 YUG_infantry_equipment_2_short:0 "MAB-38"
-YUG_infantry_equipment_3:0 "Sudarev obr.1942"
+YUG_infantry_equipment_3:0 "Sudayev obr.1942"
 YUG_infantry_equipment_3_short:0 "AS-42"
 
 YUG_motorized_equipment_1:0 "VTZ YS-4403"
@@ -7590,7 +7785,7 @@ MNT_infantry_equipment_1:0 "Puška M24"
 MNT_infantry_equipment_1_short:0 "Puška M24"
 MNT_infantry_equipment_2:0 "Moschetto Automatico Beretta 1938"
 MNT_infantry_equipment_2_short:0 "MAB-38"
-MNT_infantry_equipment_3:0 "Sudarev obr.1942"
+MNT_infantry_equipment_3:0 "Sudayev obr.1942"
 MNT_infantry_equipment_3_short:0 "AS-42"
 
 MNT_motorized_equipment_1:0 "VTZ YS-4403"
@@ -7622,8 +7817,8 @@ MNT_artillery_equipment_1_short:0 "8cm M.05/08"
 ### Land ###
 SFR_infantry_equipment_0:0 "Rifle No.1 MkIII"
 SFR_infantry_equipment_0_short:0 "Rifle No.1 MkIII"
-SFR_infantry_equipment_1:0 "Enfield-Ontario Rifle Mk.III/IV"
-SFR_infantry_equipment_1_short:0 "Enfield-Ontario"
+SFR_infantry_equipment_1:0 "Rifle No.4 MkI"
+SFR_infantry_equipment_1_short:0 "Rifle No.4 MkI"
 
 SFR_infantry_equipment_3:0 "Reider Automatic"
 SFR_infantry_equipment_3_short:0 "Reider Automatic"
@@ -7856,7 +8051,7 @@ SIB_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 SIB_infantry_equipment_1_short:0 "Mosina 1891/1930"
 SIB_infantry_equipment_2:0 "Tokarev obr.1940"
 SIB_infantry_equipment_2_short:0 "SVT-40"
-SIB_infantry_equipment_3:0 "Sudarev obr.1942"
+SIB_infantry_equipment_3:0 "Sudayev obr.1942"
 SIB_infantry_equipment_3_short:0 "AS-42"
 SIB_infantry_at:0 "PTRS-41"
 SIB_infantry_at2:0 "RPG-42"
@@ -7972,7 +8167,7 @@ KCK_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 KCK_infantry_equipment_1_short:0 "Mosina 1891/1930"
 KCK_infantry_equipment_2:0 "Tokarev obr.1940"
 KCK_infantry_equipment_2_short:0 "SVT-40"
-KCK_infantry_equipment_3:0 "Sudarev obr.1942"
+KCK_infantry_equipment_3:0 "Sudayev obr.1942"
 KCK_infantry_equipment_3_short:0 "AS-42"
 KCK_infantry_at:0 "PTRS-41"
 KCK_infantry_at2:0 "RPG-42"
@@ -8255,7 +8450,7 @@ ZHR_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 ZHR_infantry_equipment_1_short:0 "Mosina 1891/1930"
 ZHR_infantry_equipment_2:0 "Tokarev obr.1940"
 ZHR_infantry_equipment_2_short:0 "SVT-40"
-ZHR_infantry_equipment_3:0 "Sudarev obr.1942"
+ZHR_infantry_equipment_3:0 "Sudayev obr.1942"
 ZHR_infantry_equipment_3_short:0 "AS-42"
 ZHR_infantry_at:0 "PTRS-41"
 ZHR_infantry_at2:0 "RPG-42"
@@ -8836,19 +9031,88 @@ SWI_support_weapons3:0 "Solothurn S2-200 & 81mm Mw33/38"
 ###
 
 ### Land ###
-SYR_infantry_equipment_0:0 "Mauser G98 M1903"
-SYR_infantry_equipment_0_short:0 "Mauser G98"
-SYR_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ottoman Army during the Great War. The Ottoman M1903, chambered in 7.65mm, was the most common variant of Mauser in use. Pronounced 'Mavzer' by the Ottomans, this iconic rifle achieved great fame and became deeply ingrained in the Turkish subconscious.\n'One side of me withered from sorrows / the other from a Mavzer wound'. Freed from Ottoman control, the Mashriqi army possess a large number of these rifles."
+#Infantry Equip
 
+SYR_infantry_equipment_0:0 "Rifle No.1 Mk.III"
+SYR_infantry_equipment_0_short:0 "No.1 Mk.III"
+SYR_infantry_equipment_1:0 "Rifle No.4 Mk.I"
+SYR_infantry_equipment_1_short:0 "No.4 Mk.I"
+SYR_infantry_at:0 "Boys Anti-Tank Rifle"
+SYR_infantry_at2:0 "CREB"
+SYR_support_weapons:0 "Vickers MG & Stokes mortar"
+SYR_support_weapons2:0 "Lewis Mk. III DEMS & SBML two-inch mortar"
+
+#Motorised
+
+SYR_motorized_equipment_1:1 "Austin K5"
+
+#Armored Car
+SYR_gw_armored_car_equipment:0 "BSA Dingo"
+SYR_gw_armored_car_equipment_short:0 "Dingo"
+
+#Artillery
+
+SYR_artillery_equipment_1:0 "QF 18-pounder"
+SYR_artillery_equipment_1_short:0 "QF 18-pounder"
+
+SYR_anti_air_equipment_1:0 "QF 3-inch 20 cwt"
+SYR_anti_air_equipment_1_short:0 "QF 3-inch"
+
+#Tanks
+
+SYR_gw_tank_equipment:0 "Mark V"
+SYR_gw_tank_equipment_short:0 "Mark V"
+SYR_light_tank_equipment_1:0 "Pilot Tank Mk.I"
+SYR_light_tank_equipment_1_short:0 "Pilot Mk.I"
+
+SYR_medium_tank_equipment_1:0 "Medium Tank Mk.VI"
+SYR_medium_tank_equipment_1_short:0 "Medium Mk.VI"
+
+SYR_heavy_tank_equipment_1:0 "Heavy Tank Mk.I"
+SYR_heavy_tank_equipment_1_short:0 "Heavy Mk.I"
 ###
 ### Al-Jazira ###
 ###
 
-### Land ###
-ALJ_infantry_equipment_0:0 "Mauser G98 M1903"
-ALJ_infantry_equipment_0_short:0 "Mauser G98"
-ALJ_infantry_equipment_0_desc:0 "Mauser G98 was the main service rifle of the Ottoman Army during the Great War. The Ottoman M1903, chambered in 7.65mm, was the most common variant of Mauser in use. Pronounced 'Mavzer' by the Ottomans, this iconic rifle achieved great fame and became deeply ingrained in the Turkish subconscious.\n'One side of me withered from sorrows / the other from a Mavzer wound'. Freed from Ottoman control, the Mashriqi army possess a large number of these rifles."
+#Infantry Equip
 
+ALJ_infantry_equipment_0:0 "Rifle No.1 Mk.III"
+ALJ_infantry_equipment_0_short:0 "No.1 Mk.III"
+ALJ_infantry_equipment_1:0 "Rifle No.4 Mk.I"
+ALJ_infantry_equipment_1_short:0 "No.4 Mk.I"
+ALJ_infantry_at:0 "Boys Anti-Tank Rifle"
+ALJ_infantry_at2:0 "CREB"
+ALJ_support_weapons:0 "Vickers MG & Stokes mortar"
+ALJ_support_weapons2:0 "Lewis Mk. III DEMS & SBML two-inch mortar"
+
+#Motorised
+
+ALJ_motorized_equipment_1:1 "Austin K5"
+
+#Armored Car
+ALJ_gw_armored_car_equipment:0 "BSA Dingo"
+ALJ_gw_armored_car_equipment_short:0 "Dingo"
+
+#Artillery
+
+ALJ_artillery_equipment_1:0 "QF 18-pounder"
+ALJ_artillery_equipment_1_short:0 "QF 18-pounder"
+
+ALJ_anti_air_equipment_1:0 "QF 3-inch 20 cwt"
+ALJ_anti_air_equipment_1_short:0 "QF 3-inch"
+
+#Tanks
+
+ALJ_gw_tank_equipment:0 "Mark V"
+ALJ_gw_tank_equipment_short:0 "Mark V"
+ALJ_light_tank_equipment_1:0 "Pilot Tank Mk.I"
+ALJ_light_tank_equipment_1_short:0 "Pilot Mk.I"
+
+ALJ_medium_tank_equipment_1:0 "Medium Tank Mk.VI"
+ALJ_medium_tank_equipment_1_short:0 "Medium Mk.VI"
+
+ALJ_heavy_tank_equipment_1:0 "Heavy Tank Mk.I"
+ALJ_heavy_tank_equipment_1_short:0 "Heavy Mk.I"
 
 ###
 ### Sichuan Clique ###
@@ -8902,7 +9166,7 @@ TAN_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 TAN_infantry_equipment_1_short:0 "Mosina 1891/1930"
 TAN_infantry_equipment_2:0 "Tokarev obr.1940"
 TAN_infantry_equipment_2_short:0 "SVT-40"
-TAN_infantry_equipment_3:0 "Sudarev obr.1942"
+TAN_infantry_equipment_3:0 "Sudayev obr.1942"
 TAN_infantry_equipment_3_short:0 "AS-42"
 TAN_infantry_at:0 "PTRS-41"
 TAN_infantry_at2:0 "RPG-42"
@@ -9177,8 +9441,8 @@ TRI_EQUIPMENT_VERSION_13:0 "Mk. XIII"
 ### Land ###
 TRI_infantry_equipment_0:0 "Rifle No.1 Mk.III"
 TRI_infantry_equipment_0_short:0 "Rifle No.1 Mk.III"
-TRI_infantry_equipment_1:0 "Enfield-Ontario Rifle Mk.III/IV"
-TRI_infantry_equipment_1_short:0 "Enfield-Ontario"
+TRI_infantry_equipment_1:0 "Rifle No.4 MkI"
+TRI_infantry_equipment_1_short:0 "Rifle No.4 MkI"
 TRI_infantry_equipment_2:0 "Auto-Carbine No.1 Mk.1"
 TRI_infantry_equipment_2_short:0 "AC Mk.1"
 TRI_infantry_equipment_3:0 "Auto-Rifle No.1 Mk.5"
@@ -9281,7 +9545,7 @@ TRK_infantry_equipment_1:0 "Vintovka Mosina 1891 obr.1891/1930"
 TRK_infantry_equipment_1_short:0 "Mosina 1891/1930"
 TRK_infantry_equipment_2:0 "Tokarev obr.1940"
 TRK_infantry_equipment_2_short:0 "SVT-40"
-TRK_infantry_equipment_3:0 "Sudarev obr.1942"
+TRK_infantry_equipment_3:0 "Sudayev obr.1942"
 TRK_infantry_equipment_3_short:0 "AS-42"
 TRK_infantry_at:0 "PTRS-41"
 TRK_infantry_at2:0 "RPG-42"
