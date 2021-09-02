@@ -563,7 +563,7 @@ kor.21.d:0 "동이 트자 총성은 울려퍼졌습니다. 21문 예포도 아�
 kor.21.a:0 "개자식들이 우리를 배신했다고!"
 
 kor.23.t:0 "이 길이 맞긴 했던 걸까?"
-kor.23.d:0 "이름들은 한여름 장미 정원을 찾아 날뛰는 수많은 벌들처럼 그의 머리속에서 rattled댔습니다. 알았던 그 이름들을 다시 기억해내려 했습니다. But since they no longer patrolled his halls, waiting on his beck and call, he couldn't picture them correctly. They had betrayed him, that was the line. Traitors. But perhaps he had acted rashly. Did they really deserve the bullet? Another missive had arrived on his desk as he stared off into space, another list with another familiar name on it. Surely not him as well? How could so many have failed to keep faith and moved against him? Perhaps this has all gone too far."
+kor.23.d:0 "이름들은 한여름 장미 정원을 찾아 날뛰는 수많은 벌들처럼 그의 머리속에서 울려퍼졌습니다. 알았던 그 이름들을 다시 기억해내려 했습니다. 하지만 그들 중 누구도 그의 회관을 순찰하거나 그의 뒤에서 하명을 기다리지 않게 되면서 더 이상은 그들의 모습을 그려낼 수 없었습니다. 배신은 그들이 넘어선 안 됐을 마지막 선이었습니다. 반역도당. 그렇지만 그가 성급하게 굴었던 것일지도 모르는 일이었습니다. 정말 그들에게 총알을 박아야만 했던 걸까요? 허공에 시선을 꽂은 그의 탁상에는 또 다른 서류뭉치가 당도합니다. 또 다른 익숙한 이름을 한 또 다른 명록. 그가 포함되어 있는 건 아닐까요? 어떻게 그렇게나 많은 사람들이 믿음을 잃고 그와 반대로 움직일 수 있었던 걸까요? 너무 멀리 와버린 것일지도 모르겠습니다."
 kor.23.a:0 "정말 미안하네."
 
 kor.24.t:0 "썩어가는 양심"
@@ -575,7 +575,7 @@ kor.25.d:0 "\"무슨 일이에요, 여보?\" \"...\" \n그는 답할 수 없었�
 kor.25.a:0 "어쩌다 이렇게 된 거지?"
 #Depression chain
 kor.26.t:0 "전언"
-kor.26.d:0 "누군가 우가키의 집무실 문을 두드렸습니다. 두드리는 박자감으로 보아 자신의 비서인 료시임을 그는 알았습니다. 다행이죠, 지로에게서 전해받은 또 다른 유격대 보고가 아니라는 뜻이니까요. 평소에도 소리내길 좋아하지 않는 료시였지만, 미닫이문을 여는 그를 보며 총독은 평소보다 머뭇대는 듯한 자세를 알아차렸습니다. 앞으로 나아간 청년은 절을 한 뒤 우가키의 옆으로 와 아무런 표식이 없는 편지를 전하며 귓속말을 속삭였습니다. 인장은 천황의 것이었지만 모양새는 평소보다 다소 흐트러져 있었습니다. 쥐고 있던 손이 크게 떨기라도 한 듯 밀랍은 갈라지고 직인은 흔들렸습니다. 편지의 봉인을 풀고 편지를 든 우가키는 읽기 전 료시를 바라보며 그의 반응을 보려 했지만, 료시는 놀라지 않은 듯했습니다. '경애하는 총독께.' 그와 같은 문구로 편지는 시작됐습니다. '이러한 시험의 때에 황국을 위한 그대의 노고를 치하하고자 하니, 신금에 따라 그대를 폐하의 prime-minister-in-absentia로 임명하는 바이오. 폐하의 첫 하명은 황국의 반역자들에게 걸맞는 처벌을 내리는 것이오. 그것이 일본인 화족인지 조선인 농민인진 상관 없소. 모든 반역자들은 처벌받아 마땅하오. 징벌은 더 이상의 저항이 없을 때까지 계속하도록 하시오.' 료시 쪽을 돌아보기 전 우가키는 잠시 입을 다물었습니다."
+kor.26.d:0 "누군가 우가키의 집무실 문을 두드렸습니다. 두드리는 박자감으로 보아 자신의 비서인 료시임을 그는 알았습니다. 다행이죠, 지로에게서 전해받은 또 다른 유격대 보고가 아니라는 뜻이니까요. 평소에도 소리내길 좋아하지 않는 료시였지만, 미닫이문을 여는 그를 보며 총독은 평소보다 머뭇대는 듯한 자세를 알아차렸습니다. 앞으로 나아간 청년은 절을 한 뒤 우가키의 옆으로 와 아무런 표식이 없는 편지를 전하며 귓속말을 속삭였습니다. 인장은 천황의 것이었지만 모양새는 평소보다 다소 흐트러져 있었습니다. 쥐고 있던 손이 크게 떨기라도 한 듯 밀랍은 갈라지고 직인은 흔들렸습니다. 편지의 봉인을 풀고 편지를 든 우가키는 읽기 전 료시를 바라보며 그의 반응을 보려 했지만, 료시는 놀라지 않은 듯했습니다. '경애하는 총독께.' 그와 같은 문구로 편지는 시작됐습니다. '이러한 시험의 때에 황국을 위한 그대의 노고를 치하하고자 하니, 신금에 따라 그대를 폐하의 총리대행으로 임명하는 바이오. 폐하의 첫 하명은 황국의 반역자들에게 걸맞는 처벌을 내리는 것이오. 그것이 일본인 화족인지 조선인 농민인진 상관 없소. 모든 반역자들은 처벌받아 마땅하오. 징벌은 더 이상의 저항이 없을 때까지 계속하도록 하시오.' 료시 쪽을 돌아보기 전 우가키는 잠시 입을 다물었습니다."
 kor.26.a:0 "타자기 갖고 와, 료시. 사케 한 병도."
 
 kor.27.t:0 "저항의 지속"
@@ -583,7 +583,7 @@ kor.27.d:0 "수천 건의 체포와 수십 시간을 이어가는 고문과 자�
 kor.27.a:0 "배우는 게 없구만... (홀짝)"
 
 kor.28.t:0 "역란이 진압되다"
-kor.28.d:0 "At last a decisive engagement, or so the rebels thought. Two divisions of Japanese troops had attempted to ambush a column of Korean guerillas in the eastern hills, when a counter-trap was sprung. One side weary and lacking sleep, the other short of training and ammunition. The ensuing fight was bloodier than any to that point, with machine guns and rifles running dry in mere hours, much of the fighting devolved into a quagmire of katanas, clubs, pistols and mud. Eventually the army gained an upper hand of sorts - the artillery batteries from one of the other divisions came into range before the infantry could arrive - shells began to rain on the Korean lines of approach, though it was not certain excatly where they were. Stray shells peppered the remaining combatants along the 'frontlines' (chiefly foxholes and grenade craters). After more than a day of fighting the Army cleared the area and the Koreans retreated. Ugaki came out to inspect the battlefield and decorate his troops in a rare public showing. The cleanup had barely begun when he arrived and the stench of death hung in the air like a fog. The Japanese troops would naturally all recieve full funerals and honours - at least those with bodies to be found - the issue of the partisans however was a final chance to send a message to the rebels."
+kor.28.d:0 "혼란을 매듭 지을 교전이, 적어도 반란군들이 생각하는 그런 싸움은 다가왔습니다. 두 개의 일본군 사단이 동부 구릉지에서 조선 유격대 종대를 기습하려 했을 때, 역함정은 작동했습니다. 한 쪽은 지치고 잠을 설친 상태였고, 다른 쪽은 훈련과 탄약이 부족했습니다. 이어진 싸움은 이전의 그 어떤 전투보다도 더 치열하고 참혹했습니다. 기관총과 소총의 탄약이 고작 몇 시간만에 동나면서 싸움은 일본도, 곤봉, 권총, 진흙이 뒤엉킨 아수라장으로 변했습니다. 다른 사단들 중 하나에 속한 포병대가 보병대보다 먼저 전투구역에 도착해 조선인들의 전열에 포탄을 쏟아부으면서 군이 결국 우세를 점하게 됐지만, 조선인 전열이 어딘지 정확히 알 순 없는 노릇이었습니다. 탄도를 벗어난 포탄들은 (주로 개인호와 수류탄 구덩이로 이루어진) '전선'에 남아 있던 모든 전투원들의 머리 위로 쏟아졌습니다. 하루가 다 지나도록 싸운 끝에야 군은 일대를 정리하고 조선인들을 패퇴시킬 수 있었습니다. 드물게 대중 앞에 나와 전장을 시찰한 우가키는 직접 병사들을 서훈했습니다. 우가키가 도착했을 땐 정리가 간신히 시작됐던 탓에 죽음의 비린내가 안개와 같이 공기에 매달려 있던 터였습니다. 적어도 시신을 찾을 수 있던 일본군 병사들에겐 예우를 갖춘 장례식과 예례가 바쳐졌지만, 조선인 유격대원들에겐 자기 동료들에게 마지막 전언을 보낼 기회가 주어졌습니다."
 kor.28.a:0 "고기에 파리 붙는 게 뭔 대수라고. (홀짝)"
 
 kor.22.t:0 "일본령 자치령"
@@ -728,9 +728,9 @@ KOR_work_with_christian_groups_desc:0 "천주교든 개신교든, 한국의 기�
 KOR_american_exchange_programs:0 "미국 교환학생 체계"
 KOR_american_exchange_programs_desc:0 "안창호가 가진 미국 내 연줄은 한국-미국 관계의 발전에서 유용하게 작용할 것입니다."
 KOR_against_the_left:0 "항좌"
-KOR_against_the_left_desc:0 "The middle-ground is a constant flux of ideas, we must act against the extremes to come to consensus and the most agreeable path forward. The socialists and anarchists are wrong."
+KOR_against_the_left_desc:0 "중용은 곧 관념들이 흘러드는 못과 같으니, 극단에 대항해 합의를 이루어 가장 합당한 길을 찾아 나아가야 합니다. 사회주의자들과 아나키스트들의 길은 틀렸습니다."
 KOR_against_the_right:0 "항우"
-KOR_against_the_right_desc:0 "The middle-ground is a constant flux of ideas, we must act against the extremes to come to consensus and the most agreeable path forward. The reactionaries, and even many conservatives, are wrong."
+KOR_against_the_right_desc:0 "중용은 곧 관념들이 흘러드는 못과 같으니, 극단에 대항해 합의를 이루어 가장 합당한 길을 찾아 나아가야 합니다. 반동들, 심지어 수많은 보수파의 길은 틀렸습니다."
 KOR_rehabilitate_the_communists:0 "공산주의자 교화"
 KOR_rehabilitate_the_communists_desc:0 "우리 형제들은 구원받을 수 없는 악마가 아닙니다. 서로의 이념 차이를 넘어서야만 한국에겐 밝은 미래가 있을 것입니다. 전쟁의 참화 속에서 힘겨운 승리를 얻고도 금수강산 위에 우리의 피를 더 뿌릴 이유는 없습니다. 오라 겨레여, 가자 하나로."
 KOR_suppress_the_leftists:0 "좌익 탄압"
