@@ -33,6 +33,8 @@
 
 <<목록: 일반명사>>
 
+Agrarian socialism - 농본사회주의
+
 Agreement - 협정 (기타 외교 용어들은 http://www.mofa.go.kr/www/wpge/m_3830/contents.do 를 참고하라)
 
 └ Pact는 우선 '협약'이라 한다. 이는 위 링크에서 알 수 있듯 외교부에서도 명확한 정의가 없지만, 외교부 문서들에서 용례를 찾은 데 근거를 둔다.
