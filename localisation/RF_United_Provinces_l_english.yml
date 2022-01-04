@@ -1010,7 +1010,7 @@ UPI.86.b:0 "홀로 남겠다."
 
 UPI.87.t:0 "참호에서의 하룻밤"
 UPI.87.desc:0 "“Do you ever think,” said Paul. “That we’re doing something wrong?” \n\n “Nah. Churchill’s got it right,” replied Peter. “If you ask me, the motherland’s failed us time and time and time again, and we’ve had to pick up the pieces. How many savages have we fought? How many of these half-human apes have we had to shoot? We could be sipping tea in a palace, but Britain decided that was too good for us.” \n\n “I mean…” Paul let out a sigh. “Look, we’re in the trenches. We’re fighting our own people - our own friends and family, in another life. Do you really think that’s right? Can you...can you honestly, really say that you’re happy doing this?” \n\n “No, I’m not fucking happy, Paul! I’m not exactly overjoyed by this, you know? But it’s not our fucking fault! If you really, honestly, think that those traitors ‘cross the line are your friends, go and try to greet them! See how much lead they pump into you.” \n\n Paul sighed, put down his rifle, and nodded. Something in him flipped, a deep, burning desire to just...give up...overtook him. He stepped up the ladder, and when Peter tried to protest, he kicked him away. Hands raised high, he walked across the trenches. No gunshot rang out."
-UPI.87.a:0 "그리고 피터는 다시는 그를 보지 못 했다."
+UPI.87.a:0 "그리고 피터는 다시 그를 보지 못 했다."
 
 UPI.88.t:0 "Churchill's Stores"
 UPI.88.desc:0 "The fat English scumbag had one thing right - gas is a damn effective weapon. As our hour approaches, as our great, divine war encroaches, we shall purge sin and vice and all manner of disgusting people from this world using the fiery breath of chlorine. He knew its value on the battlefield, we know its value as a spiritual tool. There is no demon that cannot be purged by the hissing, yellow serpent of Chlorine!"
@@ -1025,8 +1025,8 @@ UPI.90.desc:0 "Every last collaborator with Churchill has been rounded up, shot,
 UPI.90.a:0 "우리 앞길을 막는 모든 자에게 죽음을!"
 
 UPI.91.t:0 "피의 여신의 화신"
-UPI.91.desc:0 "아름답고도 피투성이인 여인이 모두 앞에 섰습니다. 그분은 여신의 은총과 벼락의 속도로 움직이십니다. 그분은 신성을 혀 끝에 담으시니, 그분의 지혜는 벼락처럼 우리 모두에게 내리칩니다. 그분은 창조이시고, 그분은 절멸이시며, 그분은 피와 재생의 화신이시니, 그분께 우리는 우리를 바칩니다. For in the face of such awful divinity, what can one do..."
-UPI.91.a:0 "But bow?"
+UPI.91.desc:0 "아름답고도 피투성이인 여인이 모두 앞에 섰습니다. 그분은 여신의 은총과 벼락의 속도로 움직이십니다. 그분은 신성을 혀 끝에 담으시니, 그분의 지혜는 벼락처럼 우리 모두에게 내리칩니다. 그분은 창조이시고, 그분은 절멸이시며, 그분은 피와 재생의 화신이시니, 그분께 우리는 우리를 바칩니다. 무시무시한 신성을 앞에 두고 우리가 할 수 있는 게 무어 있겠습니까..."
+UPI.91.a:0 "절하는 수밖에 말입니다."
 
 UPI.401.t:0 "윈스턴 처칠이 무기를 요청하다"
 UPI.401.desc:0 "We've recieved a message from Lord Admiral of previously landlocked United Provinces. He's still alive, but his army is severely under-equipped and impoverished. Should we sent them weaponry to make sure the country won't fall to other warlords?"
