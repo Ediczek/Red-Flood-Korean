@@ -1,17 +1,1 @@
-﻿l_english:
- TECH_SHARNG_FACTOR_PER_COUNTRY:0 "\n\n기술을 보유한 회원국으로 $VALUE|+%0$만큼의 시간 감축:\n"
- TECH_SHARNG_FACTOR_BASE:0 "기본: $VALUE|0%Y$\n"
- TECH_SHARNG_COUNTRY_BONUS:0 "추가: $VALUE|0%Y$\n"
- TECH_SHARNG_FACTOR_EXTRA_DESC:0 "\n다음 요인에 따라 효과적 기술공유의 값이 $VALUE|-%0$로 조정:\n"
- TECH_SHARNG_RESEARCH_OPPORTUNITIES:0 "\n연구 기회:"
- TECH_SHARNG_COUNTRY_RESEARCH_OPPORTUNITY:0 "\n@$TAG$$COUNTRY|H$: §Y$VALUE$§!개의 기술들"
- TECH_SHARNG_GROUP_CATEGORIE_LIMIT:0 "\n\n제약: $LIST|Y$."
- TECH_SHARNG_DESCRIPTION_DELAYED:0 "더 많은 국가들이 참여할수록 기술공유집단은 강해집니다. 특정 기술을 연구하는 각 회원국은 집단 내에서 해당 기술을 갖지 못한 회원국이 해당 기술의 연구를 시작할 시 속도를 증대시켜줍니다."
- TECH_SHARNG_RESEARCH_BONUS_VALUE_DESC:0 "기술공유: $VALUE|+%0$\n"
- LICENSED_PRODUCTION_RESEARCH_BONUS_VALUE_DESC:0 "면허 생산: $VALUE|+%0$\n"
- TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_DESC:0 "\n$NAME|H$의 회원자격이 $VALUE|G%0$만큼의 추가치 (최대 $MAX|H%0$)를 제공:"
- TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_COUNTRY:0 "\n@$TAG$$COUNTRY|H$"
- continuous_tech_share_group_name:0 "세력 연구"
- continuous_tech_share_group_desc:0 "귀국의 지속적 중점 활성에 따라 아세력 내 국가들의 연구 소모 시간이 감소되었습니다."
- NO_OTHER_SHARING_GROUPS:0 "은(는) 기술공유집단 소속이 아님"
- 
+﻿
