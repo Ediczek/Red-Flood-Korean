@@ -3,33 +3,35 @@
 
 #PARTIES#
 
-HYD_vanguard_socialism_party:0 "PWP 유격대"
-HYD_popular_socialism_party:0 "HSRA"
+HYD_vanguard_socialism_party:0 "CPoI - L"
+HYD_popular_socialism_party:0 "CPoI - S"
 HYD_anarchism_party:0 "NAC"
-HYD_revisionist_socialism_party:0 "AJ"
-HYD_progressivism_party:0 "HSC"
-HYD_liberalism_party:0 "HSPP"
-HYD_conservatism_party:0 "AKHM 유격대"
-HYD_right_authoritarianism_party:0 "MIM"
+HYD_revisionist_socialism_party:0 "AGA (AM)"
+HYD_progressivism_party:0 "INC - S"
+HYD_liberalism_party:0 "INC - L"
+HYD_conservatism_party:0 "AIHGA (ABHM) Moderates"
+HYD_right_authoritarianism_party:0 "AIHGA (ABHM) Hardliners"
 HYD_despotism_party:0 "NL"
-HYD_reactionism_party:0 "MIM(RV)"
-HYD_accelerationism_party:0 "FfIR"
+HYD_reactionism_party:0 "NVO (RSS) Radicals"
+HYD_accelerationism_party:0 "AIR"
 
-HYD_vanguard_socialism_party_long:0 "인도 농민 및 노동자당 유격대"
-HYD_popular_socialism_party_long:0 "힌두스탄 사회주의 공화협회"
-HYD_anarchism_party_long:0 "전국 아나키스트 연맹"
-HYD_revisionist_socialism_party_long:0 "안드라 인민회"
-HYD_progressivism_party_long:0 "하이데라바드 국가회의"
-HYD_liberalism_party_long:0 "하이데라바드 국가인민당"
-HYD_conservatism_party_long:0 "전 인도 힌두대회의 유격대"
-HYD_right_authoritarianism_party_long:0 "전 인도 무슬림 단결 평의회"
-HYD_despotism_party_long:0 "니잠 충성파"
-HYD_reactionism_party_long:0 "전 인도 무슬림 단결 평의회 (라자카르 의용대)"
-HYD_accelerationism_party_long:0 "이슬람 부흥전선"
+HYD_vanguard_socialism_party_long:0 "Communist Party of India - Leninist"
+HYD_popular_socialism_party_long:0 "Communist Party of India - Spartakist"
+HYD_anarchism-party_long:0 "National Anarchist Confederation"
+HYD_revisionist_socialism_party_long:0 "Andhra General-Assembly (Āndhra mahāsabha)"
+HYD_progressivism_party_long:0 "Indian National Congress - Socialist"
+HYD_liberalism_party_long:0 "Indian National Congress - Liberal"
+HYD_conservatism_party_long:0 "All-India Hindu Grand-Assembly - Moderates"
+HYD_right_authoritarianism_party_long:0 "All-India Hindu Grand-Assembly - Hardliners"
+HYD_despotism_party_long:0 "Nizam Loyalists"
+HYD_reactionism_party_long:0 "National Volunteer Organisation - Radicals"
+HYD_accelerationism_party_long:0 "Association for Indian Renewal"
 
 #LEADER DESCRITIONS#
 
 #IDEAS#
+HYD_MIM_militias:0 "Muslim Militias"
+HYD_widespread_insurgence:0 "Widespread Insurgency"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
