@@ -1,7 +1,18 @@
 ﻿l_english:
 #COUNTRY NAME#
+WLL:0 "Wallonia"
+WLL_DEF:0 "the Republic of Wallonia"
+WLL_ADJ:0 "Walloon"
 
 #PARTIES#
+WLL_progressivism_party:0 "PLC - G"
+WLL_progressivism_party_long:0 "Parti Libéral Chrétien - Gauche"
+WLL_liberalism_party:0 "PLC - C"
+WLL_liberalism_party_long:0 "Parti Libéral Chrétien - Centre"
+WLL_conservatism_party:0 "PLC - D"
+WLL_conservatism_party_long:0 "Parti Libéral Chrétien - Droite"
+WLL_accelerationism_party:0 "Rattachists"
+WLL_accelerationism_party_long:0 "Rattachists"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
