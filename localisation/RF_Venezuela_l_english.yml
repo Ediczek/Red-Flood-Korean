@@ -2,6 +2,29 @@
 #COUNTRY NAME#
 
 #PARTIES#
+VEN_anarchism_party:0 "SAMO"
+VEN_anarchism_party_long:0 "Sociedad de Auxilio Mutuo de Obreros"
+VEN_vanguard_socialism_party:0 "PCV"
+VEN_vanguard_socialism_party_long:0 "Partido Comunista de Venezuela"
+VEN_popular_socialism_party:0 "PCV"
+VEN_popular_socialism_party_long:0 "Partido Comunista de Venezuela"
+VEN_revisionist_socialism_party:0 "ARDI"
+VEN_revisionist_socialism_party_long:0 "Asociación Revolucionaria de Izquierda"
+VEN_progressivism_party:0 "AdVL"
+VEN_progressivism_party_long:0 "Administración de Vicente Lecuna"
+VEN_liberalism_party:0 "PDN"
+VEN_liberalism_party_long:0 "Partido Democrático Nacional"
+VEN_conservatism_party:0 "PDV"
+VEN_conservatism_party_long:0 "Partido Democrático Venezolano"
+VEN_right_authoritarianism_party:0 "UMP"
+VEN_right_authoritarianism_party_long:0 "Unión Militar Patriótica"
+VEN_despotism_party:0 "ACB"
+VEN_despotism_party_long:0 "Agrupaciones Cívicas Bolivarianas"
+VEN_reactionism_party:0 "PARNAC"
+VEN_reactionism_party_long:0 "Partido Nacionalista"
+VEN_accelerationism_party:0 "Viernes"
+VEN_accelerationism_party_long:0 "Grupo 'Viernes'"
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
