@@ -38,7 +38,6 @@ SAN_accelerationism_DEF:0 "산 마리노"
 SAN_accelerationism_ADJ:0 "산 마리노"
 
 #PARTIES#
-
 SAN_vanguard_socialism_party:0 "§R[금지됨]§!"
 SAN_vanguard_socialism_party_long:0 "§R[금지됨]§!"
 SAN_popular_socialism_party:0 "§R[금지됨]§!"
@@ -63,7 +62,8 @@ SAN_accelerationism_party:0 "PFL-F"
 SAN_accelerationism_party_long:0 "파시스트 노동당 - 미래주의파"
 
 #LEADER DESCRITIONS#
-POLITICS_BENITO_MUSSOLINI_DESC:0 ""
+POLITICS_BENITO_MUSSOLINI_DESC:0 "Benito Amilcare Andrea Mussolini was a man with many names. Il Duce, Il Liberatore, Il Nuovo Augusto. Mussolini was a man with a singular  drive, a drive that launched him rising through the Italian political scene, a drive to burn away the decadent old systems of his homeland; to see Italy reborn as a phoenix in the mold of Rome. It was this drive that lead him to create the Fasci Italiani di Combattimento, and while the success seen by his group lead many to believe that one day he would infact take the role of sole leader over the Italian people, those dreams were soon dashed. After signing the Pact of Pacification in 1921 and formalizing an alliance with the Partito Socialista Italiano against the liberals and the King, many of the former members of the Fasci deserted him, including the infamous Italo Balbo. Mussolini thought that the newfound forces he had gathered together would be enough, and on October 27, 1922, Mussolini lead a coalition of socialists, futurists, and many others forward in what would forever be remembered as the March on Rome.\n\n Sadly for Mussolini, it appeared that the cards were not in his favor, as the March turned bloody, with king cracking down on the chaos as the CGdL arrived to fight back the fascists. The newly formed Partito Laburista Fascista splintered, as the right of the party completely abandonded Mussolini, while the left deserted after the bloody battle. However, a man's spirit is a powerful force, and Benito Mussolini was a man who was possessed by a spirit from Roman history, the spirit of Victoria. He took the few men he had remaining and met up with Giuliano Gozi, leader of the Partito Fascista Sammarinese. After arranging a merger of the two parties, Mussolini set his sights on San Marino, and this time, it appeared that Lady Luck had smiled upon him. His March on San Marino in 1923 succeeded, and the Most Serene Republic bent its knee to Il Duce. Now, Mussolini spends his days preparing for a Nuovo Risorgimento, a new March on Rome to unify the Italian people once and for all, under the reign of the Heir of Garibaldi, Benito Mussolini."
+
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
