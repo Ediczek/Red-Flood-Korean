@@ -2,8 +2,33 @@
 #COUNTRY NAME#
 
 #PARTIES#
+GUA_vanguard_socialism_party:0 "PSC-PCG"
+GUA_popular_socialism_party:0 "FROG-UOS"
+GUA_anarchism_party:0 "FSO-Sindicalistas"
+GUA_revisionist_socialism_party:0 "FSO"
+GUA_progressivism_party:0 "PL"
+GUA_liberalism_party:0 "PC"
+GUA_conservatism_party:0 "PC"
+GUA_right_authoritarianism_party:0 "PLP"
+GUA_despotism_party:0 "PLP"
+GUA_reactionism_party:0 "FE-G"
+GUA_vanguard_socialism_party_long:0 "Partido Socialista Centroamericano - Partido Comunista de Guatemala"
+GUA_popular_socialism_party_long:0 "Federación Regional Obrera de Guatemala - Uníon Obrera Socialista"
+GUA_anarchism_party_long:0 "Federacíon de Sociedades Obreras - Sindicalistas"
+GUA_revisionist_socialism_party_long:0 "Federacíon de Sociedades Obreras"
+GUA_progressivism_party_long:0 "Partido Liberal"
+GUA_liberalism_party_long:0 "Partido Conservador"
+GUA_conservatism_party_long:0 "Partido Conservador"
+GUA_right_authoritarianism_party_long:0 "Partido Liberal Progressista"
+GUA_despotism_party_long:0 "Partido Liberal Progressista"
+GUA_reactionism_party_long:0 "Falange Española - Guatemala"
+
 #LEADER DESCRITIONS#
 #IDEAS#
+GUA_la_conspiracion:0 "La Conspiracíon"
+GUA_la_conspiracion_desc:0 "There are a lot of whispers going around our beloved Republic that the President is actually in a conspiracy to overthrow our socialist beacon. Whilst obviously the whole government cabinet claims this is not true, there have been several strange rumors going around Guatemala of moving troops, garissons disappearing and men going into the rainforest to never show up again. What will develop from this national paranoia is yet to be seen."
+GUA_socialist_democracy:0 "Socialist Democracy"
+GUA_socialist_democracy_desc:0 "Our system has been one of the most equal, most socially developed and one of the most popular across Central America. After years of struggling for our independence, the Ianquis left us alone over a decade ago and the country has been a beautiful flower since. This optimism is not entirely naive however, and the Guatematelco people are ready to defend their socialist democracy to the death."
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
