@@ -1,9 +1,70 @@
 ﻿l_english:
 #COUNTRY NAME#
-
+SLO_anarchism:0 "Slovak Confederation"
+SLO_anarchism_DEF:0 "the Slovak Confederation"
+SLO_anarchism_ADJ:0 "Slovak"
+SLO_vanguard_socialism:0 "Slovak Council Republic"
+SLO_vanguard_socialism_DEF:0 "the Slovak Council Republic"
+SLO_vanguard_socialism_ADJ:0 "Slovak"
+SLO_popular_socialism:0 "Slovak Council Republic"
+SLO_popular_socialism_DEF:0 "the Slovak Council Republic"
+SLO_popular_socialism_ADJ:0 "Slovak"
+SLO_revisionist_socialism:0 "Slovak Social Republic"
+SLO_revisionist_socialism_DEF:0 "the Slovak Social Republic"
+SLO_revisionist_socialism_ADJ:0 "Slovak"
+SLO_progressivism:0 "Slovak Republic"
+SLO_progressivism_DEF:0 "the Slovak Republic"
+SLO_progressivism_ADJ:0 "Slovak"
+SLO_liberalism:0 "the Slovak Republic"
+SLO_liberalism_DEF:0 "the Slovak Republic"
+SLO_liberalism_ADJ:0 "Slovak"
+SLO_conservatism:0 "Slovak Republic"
+SLO_conservatism_DEF:0 "the Slovak Republic"
+SLO_conservatism_ADJ:0 "Slovak"
+SLO_right_authoritarianism:0 "Slovak State"
+SLO_right_authoritarianism_DEF:0 "the Slovak State"
+SLO_right_authoritarianism_ADJ:0 "Slovak"
+SLO_despotism:0 "Slovakia"
+SLO_despotism_DEF:0 "Slovakia"
+SLO_despotism_ADJ:0 "Slovak"
+SLO_reactionism:0 "Slovak State"
+SLO_reactionism_DEF:0 "the Slovak State"
+SLO_reactionism_ADJ:0 "Slovak"
+SLO_accelerationism:0 "Slovak Collective"
+SLO_accelerationism_DEF:0 "the Slovak Collective"
+SLO_accelerationism_ADJ:0 "Slovak"
 #PARTIES#
+SLO_anarchism_party:0 "FSKA"
+SLO_anarchism_party_long:0 "Federacia Slovenskych Komunistickych Anarchistov"
+SLO_vanguard_socialism_party:0 "KSS-L"
+SLO_vanguard_socialism_party_long:0 "Komunistická Strana Slovenska (Leninisti)"
+SLO_popular_socialism_party:0 "KSS-LF"
+SLO_popular_socialism_party_long:0 "Komunistická Strana Slovenska (Ludovy Front)"
+SLO_revisionist_socialism_party:0 "SLS"
+SLO_revisionist_socialism_party_long:0 "Slovenska Ludova Strana"
+SLO_progressivism_party:0 "SDS"
+SLO_progressivism_party_long:0 "Socialna Demokracia na Slovensku"
+SLO_conservatism_party:0 "SNĽS-SSNJ"
+SLO_conservatism_party_long:0 "Slovenská národná ľudová strana – Strana slovenskej národnej jednoty"
+SLO_liberalism_party:0 "SNĽS-SSNJ - Hlasisti"
+SLO_liberalism_party_long:0 "Slovenská národná ľudová strana – Strana slovenskej národnej jednoty (Hlasisti)"
+SLO_right_authoritarianism_party:0 "SNĽS-SSNJ - Rodobrana"
+SLO_right_authoritarianism_party_long:0 "Slovenská národná ľudová strana – Strana slovenskej národnej jednoty (Rodobrana)"
+SLO_despotism_party:0 "OSSR"
+SLO_despotism_party_long:0 "Ozbrojené Sily Slovenskej Republiky"
+SLO_reactionism_party:0 "Catholic Guard"
+SLO_reactionism_party_long:0 "Katolícka Stráž"
+SLO_accelerationism_party:0 "KSS-D"
+SLO_accelerationism_party_long:0 "Komunistická Strana Slovenska (Davisti)"
+
+
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
+SLO_DISBAND_TT:0 "We will disband the Revolutionary Guard and mobilize the Rodobrana instead."
+HUN_REV_SUCCESS:0 "@HUN §YThe Hungarian Council Republic§! has successfully crushed the @SLO §YSlovak Revolutionaries§!, reinstalling the socialist government."
+HUN_REV_FAILURE:0 "@SLO §YThe Slovak Republic,§! against all odds, has successfully fended off the @HUN §YHungarian§! intervention."
 #DECISIONS (1.5 Update)#
+#EVENTS#
+
 #FOCUSES#
