@@ -1,18 +1,18 @@
 ﻿l_english:
 #COUNTRY NAME#
-WLL:0 "Wallonia"
-WLL_DEF:0 "the Republic of Wallonia"
-WLL_ADJ:0 "Walloon"
+WLL:0 "왈로니"
+WLL_DEF:0 "왈로니"
+WLL_ADJ:0 "왈로니"
 
 #PARTIES#
 WLL_progressivism_party:0 "PLC - G"
-WLL_progressivism_party_long:0 "Parti Libéral Chrétien - Gauche"
+WLL_progressivism_party_long:0 "기독교 자유당 - 좌익"
 WLL_liberalism_party:0 "PLC - C"
-WLL_liberalism_party_long:0 "Parti Libéral Chrétien - Centre"
+WLL_liberalism_party_long:0 "기독교 자유당 - 중도"
 WLL_conservatism_party:0 "PLC - D"
-WLL_conservatism_party_long:0 "Parti Libéral Chrétien - Droite"
-WLL_accelerationism_party:0 "Rattachists"
-WLL_accelerationism_party_long:0 "Rattachists"
+WLL_conservatism_party_long:0 "기독교 자유당 - 우익"
+WLL_accelerationism_party:0 "재합주의파"
+WLL_accelerationism_party_long:0 "재합주의파"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
