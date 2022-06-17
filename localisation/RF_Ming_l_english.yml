@@ -36,3 +36,35 @@ MNG_accelerationism_ADJ:0 "황사회"
 MNG_MING:0 "대명"
 MNG_MING_DEF:0 "대명제국"
 MNG_MING_ADJ:0 "명나라"
+#PARTIES#
+MNG_vanguard_socialism_party:0 "CPC - R"
+MNG_libertarian_marxism_party:0 "CPC - L"
+MNG_revolutionary_anarchism_party:0 "CAM"
+MNG_revisionist_socialism_party:0 "KMSF"
+MNG_social_democratism_party:0 "RL"
+MNG_liberalism_party:0 "PS"
+MNG_conservatism_party:0 "KRP"
+MNG_right_authoritarianism_party:0 "KC"
+MNG_despotism_party:0 "KMC"
+MNG_reactionism_party:0 "RS"
+MNG_accelerationism_party:0 "YCP"
+MNG_vanguard_socialism_party_long:0 "Communist Party of China - Right"
+MNG_libertarian_marxism_party_long:0 "Communist Party of China - Left"
+MNG_revolutionary_anarchism_party_long:0 "Chinese Anarchist Movement"
+MNG_revisionist_socialism_party_long:0 "Kaifeng MinSheng Faction"
+MNG_social_democratism_party_long:0 "Reformation League"
+MNG_liberalism_party_long:0 "Prosperity Consortium"
+MNG_conservatism_party_long:0 "Kaifeng Republic Party"
+MNG_right_authoritarianism_party_long:0 "Kaifeng Clique"
+MNG_despotism_party_long:0 "Kaifeng Military Clique"
+MNG_reactionism_party_long:0 "Yellow Sand Society"
+MNG_accelerationism_party_long:0 "Young China Party - Kaifeng"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+
+#CUSTOM TOOLTIPS AND FLAGS#
+MNG_faction:0 "Order of Salvation"
+#DECISIONS (1.5 Update)#
+
+#FOCUSES#
