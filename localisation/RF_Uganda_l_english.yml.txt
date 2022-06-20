@@ -1,0 +1,36 @@
+l_english:
+#COUNTRY NAME#
+
+#PARTIES#
+#LEADER DESCRITIONS#
+#IDEAS#
+UGD_guerilla_warfare:0 "유격전"
+UGD_guerilla_warfare_desc:0 ""
+#CUSTOM TOOLTIPS AND FLAGS#
+UGD_east_africa_popular_socialism:0 "동아프리카 인민공화국"
+UGD_east_africa_popular_socialism_DEF:0 "동아프리카 인민공화국"
+UGD_east_africa_popular_socialism_ADJ:0 "동아프리카"
+
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+#EVENTS#
+uganda.1.t:0 "우간다의 마르크스주의자 반란"
+uganda.1.desc:0 ""
+uganda.1.a:0 "반란분자들을 분쇄해야 한다."
+uganda.1.b:0 "아프리카는 자유롭게 되리라! (우간다로 플레이)"
+uganda.2.t:0 "반란군이 스탠리빌을 차지하다"
+uganda.2.desc:0 ""
+uganda.2.a:0 "우린 영국을 도울 것이다."
+uganda.2.b:0 "우리는 그냥 둘 것이다."
+uganda.3.t:0 "아프리카 마르크스주의자들이 큰 성공을 거두다"
+uganda.3.desc:0 ""
+uganda.3.a:0 "이건 무의미한 전쟁이다. 화평을 제안하지."
+uganda.3.b:0 "한 치도 내주지 않을 것이다!"
+uganda.4.t:0 "잉글랜드가 평화협상을 제안하다."
+uganda.4.desc:0 ""
+uganda.4.a:0 "그리하도록."
+uganda.4.b:0 "놈들을 이 대륙에서 몰아내리라!"
+uganda.5.t:0 "우간다의 미래"
+uganda.5.desc:0 ""
+uganda.5.a:0 "우리는 모든 아프리카 인민을 위해 맞설 것이다."
+uganda.5.b:0 "우리 우간다가 우선이며 선행한다."
