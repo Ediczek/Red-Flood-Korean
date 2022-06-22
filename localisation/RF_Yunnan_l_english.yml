@@ -3,28 +3,28 @@
 
 #PARTIES#
 
-YUN_vanguard_socialism_party:0 "CPC/V (운남)"
-YUN_popular_socialism_party:0 "CPC/A (운남)"
+YUN_vanguard_socialism_party:0 "CPC - R"
+YUN_popular_socialism_party:0 "CPC - L"
 YUN_anarchism_party:0 "운남 인민혁명당"
 YUN_revisionist_socialism_party:0 "KMT - 민생"
-YUN_progressivism_party:0 "KMT - 좌익"
+YUN_progressivism_party:0 "KMT - 민권"
 YUN_liberalism_party:0 "KMT - 온건"
 YUN_conservatism_party:0 "KMT - 민주"
 YUN_right_authoritarianism_party:0 "운남 군벌"
 YUN_despotism_party:0 "운남 군벌"
 YUN_reactionism_party:0 "KMT - SSS"
 YUN_accelerationism_party:0 "YCP-Y"
-YUN_vanguard_socialism_party_long:0 "중국공산당/전위주의파 (운남)"
-YUN_popular_socialism_party_long:0 "중국공산당/농업주의파 (운남)"
+YUN_vanguard_socialism_party_long:0 "중국 공산당 우익"
+YUN_popular_socialism_party_long:0 "중국 공산당 좌익"
 YUN_anarchism_party_long:0 "운남 인민혁명당"
 YUN_revisionist_socialism_party_long:0 "국민당 민생파"
-YUN_progressivism_party_long:0 "국민당 좌익 군벌"
+YUN_progressivism_party_long:0 "국민당 민권파"
 YUN_liberalism_party_long:0 "국민당 온건파"
 YUN_conservatism_party_long:0 "국민당 민주파"
 YUN_right_authoritarianism_party_long:0 "운남 군벌"
 YUN_despotism_party_long:0 "국민혁명군 군사위원회"
 YUN_reactionism_party_long:0 "국민당 원로회"
-YUN_accelerationism_party_long:0 "중국청년당 (운남)"
+YUN_accelerationism_party_long:0 "중국청년당 - 운남"
 
 #LEADER DESCRITIONS#
 #IDEAS#
