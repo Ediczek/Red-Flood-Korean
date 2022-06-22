@@ -1,6 +1,8 @@
 ﻿l_english:
 #COUNTRY NAME#
-
+SPR_LENIN:0 "Socialist Spain"
+SPR_LENIN_DEF:0 "the Spanish Socialist Federation"
+SPR_LENIN_ADJ:0 "Spanish"
 
 #PARTIES#
 SPR_vanguard_socialism_party:0 "PCE"
@@ -8,47 +10,60 @@ SPR_popular_socialism_party:0 "JONS"
 SPR_anarchism_party:0 "FAI-CNT"
 SPR_revisionist_socialism_party:0 "PSOE"
 SPR_progressivism_party:0 "PRR"
-SPR_liberalism_party:0 "PR"
-SPR_conservatism_party:0 "PRC"
-SPR_right_authoritarianism_party:0 "UPE"
-SPR_despotism_party:0 "ORAN"
-SPR_reactionism_party:0 "FE"
+SPR_liberalism_party:0 "ASR"
+SPR_conservatism_party:0 "PA"
+SPR_right_authoritarianism_party:0 "FE"
+SPR_despotism_party:0 "PSR"
+SPR_reactionism_party:0 "UPE"
 SPR_accelerationism_party:0 "MR"
 SPR_vanguard_socialism_party_long:0 "에스파냐 공산당"
 SPR_popular_socialism_party_long:0 "민족생디칼리스트 공세 평의회"
 SPR_anarchism_party_long:0 "이베리아 아나키스트 연맹-전국노동연맹"
 SPR_revisionist_socialism_party_long:0 "에스파냐 사회주의 노동자당"
 SPR_progressivism_party_long:0 "급진공화당"
-SPR_liberalism_party_long:0 "개혁주의당"
-SPR_conservatism_party_long:0 "보수공화당"
-SPR_right_authoritarianism_party_long:0 "에스파냐 애국자 연합"
-SPR_despotism_party_long:0 "전국자치공화조직"
-SPR_reactionism_party_long:0 "에스파냐 팔랑헤"
+SPR_liberalism_party_long:0 "Agrupación al Servicio de la República"
+SPR_conservatism_party_long:0 "Partido Agrario"
+SPR_right_authoritarianism_party_long:0 "Falange Española"
+SPR_despotism_party_long:0 "Partido Social-Republicano"
+SPR_reactionism_party_long:0 "Unión Patriótica Española"
 SPR_accelerationism_party_long:0 "재건주의 운동"
 
 #COUNTRY DESCRIPTION#
-SPR_DESC_MENU:0 "에스파냐는 분쟁에 휩싸였습니다. 아나키스트, 미래주의자, 공화주의자 모두 서로의 목을 겨누며 에스파냐를 위한 싸움을 일으키는 중입니다. 유럽인들, 특히 에스파냐인들은 벌어질 사달을 직접 보고 있습니다. 남은 의문은 이 필연적인 분쟁에서 누가 이기고, 누가 그로써 이익을 얻고, 얼마나 많은 남녀가 죽게 되겠냐는 것입니다."
+SPR_DESC_MENU:0 "As is custom in the country, Spain is on the brink of civil war. Decades of political instability and succesive ineffective governments have brought Spain to the verge of regenerationist and anarchist revolution. As the Republic fights to survive, the future of the country is uncertain and tainted with bloodshed."
 #LEADER DESCRITIONS#
 
 #IDEAS#
 
+SPR_spanish_spring:0 "The Spanish Spring"
+SPR_spanish_spring_desc:0 "\"La primavera ha venido\ny don Alfonso se va.\nMuchos duques le acompañan\nhasta cerca de la mar."\n\nIn 1930, a secret pact of libertarians, socialists, liberals, regionalists, and republicans toppled the decadent Spanish crown and proudly proclaimed our young Republic in what was known as the Jaca Revolution. In Aragon, the army revolted against their corrupt superiors while in Madrid the people took to the streets and demanded the King's abdication. Alfonso XIII refused, clinging to his tyrannical position, and so he had to be assassinated if the nation was to gain freedom. It's been six years since those heroic moments, and everything we have and have done we owe to the bravado of these few honourable men. The Republican cause, despite many bitter moments, shines as brightly as ever, a guiding beacon for every free citizen in the country."
+SPR_black_triennium:0 "The Black Triennium"
+SPR_black_triennium_desc:0 "The crazed revolutionary fervour of the first years of the Republic have slowly quieted down into a tranquil peace. There are, unfortunately, many exceptions to this reality. The anarchists of the FAI-CNT began a brutal terror campaign across Spain after perceived slights during previous governments, and no honest industrialist dares step into his car without checking for explosives first. Targeted assassinations are not unheard of in cities like Barcelona and Sevilla, and sadly that isn't the end of it. Many other parties and movements have militarised themselves as a response. Street fights, gang wars, gun-slinging, armed scabs, all bread-and-butter across the country despite our best efforts. Our hands are tied, but is there anything that we may still do in our position ?"
+SPR_behemoth_leviathan:0 "Behemoth against Leviathan"
+SPR_behemoth_leviathan_desc:0 "Our government, owing to our democratic ideals, is a grandiose alliance of many different parties, big and small, and our cabinet reflects this in its varied composition. The management of the needs and wants of every party is a complex and lengthy process which the President has not always succeeded in. This only complicated further after the emergency powers just a year ago, and to the internal disputes we have to add fierce battles in the Cortes between our ragtag confederacy and the opposition. Ramón Franco has delegated most of this insufferable battlefield for his Minister of Interior Alejandro Lerroux. A true political animal, Lerroux is an unstoppable force that has kept the coalition together through thick and thin, and strikes against the enemies of the government without mercy. The Minister's growing power hasn't gone without criticism, and the leftmost of our colleagues have accused him of abusing his power through extralegal means. However, as long as any relevant phone-call has to go through Lerroux's office first, one can safely say both the alliance and his position will stand, no matter the cost."
+SPR_separatism:0 "A Sentimental Atlas of Spain"
+SPR_separatism_desc:0 "Even if regionalists are a key pillar of the Republic, it'd be a lie to say their demands have been in any way satisfied. Discontent has grown in Galicia, Vasconia, and Catalonia, where regionalist and nationalist parties already form ample majority, and even in historically pro-Spanish regions like Andalusia and Asturias the membership of these organisations soar and grow nonstop. Inspired by the successes of Ireland, every region also enjoys an uncountable number of cultural organisations, newspapers, magazines, and, in general, everything that may be used to foster a revival of their folk 'traditions'. Previous governments kept their distance with regionalism, and Lerroux's nationalist tendencies made sure we wouldn't change this course. Even Catalonia is still administered through the old monarchy's Commonwealth. The situation is still thankfully stable though not thanks to us, and it is best we begin to think of a new plan to mend the gap between Madrid and the periphery before the situation turns ugly and possibly bloody."
+
 #CUSTOM TOOLTIPS AND FLAGS#
 spain_cw:0 "에스파냐 내전이 진행 중입니다"
+scw_over:0 "에스파냐 내전이 종결됐습니다"
 #DECISIONS (1.5 Update)#
+
+#DECISIONS (1.5 Update)#
+
+#EVENTS#
 
 #STARTING
 #CIVIL WAR
-#EVENTS#
 spain_cw.1.t:0 "내전의 발발"
 spain_cw.1.desc:0 "에에에에 큰일 났대요"
 spain_cw.1.a:0 "공화뽕 100퍼로 간다"
 spain_cw.1.b:0 "마스크맨으로 간드앗"
-spain_cw.1.c:0 "Go with the Anartrollers"
+spain_cw.1.c:0 "아나트롤러 새끼들로 간다"
 spain_cw.1.d:0 "프랑코 가즈아아아아아아"
 
 spain_cw.2.t:0 "PCE-L 정변"
-spain_cw.2.desc:0 "Ayo Jose Diaz what are you doin with that gun uh oh"
-spain_cw.2.a:0 "Señor Lerroux was later pronounced dead at Madrid Hostpital, at the hour of 15:43"
+spain_cw.2.desc:0 "야 호세 디아스... 너 왜 총을 들고 있는 거야... 소난다..."
+spain_cw.2.a:0 "금일 15시 43분 레루스 대통령 각하께서 마드리드 병원에서 서거하셨다는 소식이 발표되었읍니다."
 
 spain_cw.3.t:0 "JONS 정변"
 spain_cw.3.desc:0 "이 새끼 이마선 좀 보소"
