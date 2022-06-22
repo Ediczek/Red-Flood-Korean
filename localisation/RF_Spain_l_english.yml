@@ -1,8 +1,8 @@
 ﻿l_english:
 #COUNTRY NAME#
-SPR_LENIN:0 "Socialist Spain"
-SPR_LENIN_DEF:0 "the Spanish Socialist Federation"
-SPR_LENIN_ADJ:0 "Spanish"
+SPR_LENIN:0 "사회주의 에스파냐"
+SPR_LENIN_DEF:0 "에스파냐 사회주의 연방"
+SPR_LENIN_ADJ:0 "에스파냐"
 
 #PARTIES#
 SPR_vanguard_socialism_party:0 "PCE"
@@ -22,24 +22,24 @@ SPR_anarchism_party_long:0 "이베리아 아나키스트 연맹-전국노동연�
 SPR_revisionist_socialism_party_long:0 "에스파냐 사회주의 노동자당"
 SPR_progressivism_party_long:0 "급진공화당"
 SPR_liberalism_party_long:0 "Agrupación al Servicio de la República"
-SPR_conservatism_party_long:0 "Partido Agrario"
-SPR_right_authoritarianism_party_long:0 "Falange Española"
-SPR_despotism_party_long:0 "Partido Social-Republicano"
-SPR_reactionism_party_long:0 "Unión Patriótica Española"
+SPR_conservatism_party_long:0 "농경당"
+SPR_right_authoritarianism_party_long:0 "에스파냐 팔랑헤"
+SPR_despotism_party_long:0 "사회-공화당"
+SPR_reactionism_party_long:0 "에스파냐 애국자 연합"
 SPR_accelerationism_party_long:0 "재건주의 운동"
 
 #COUNTRY DESCRIPTION#
-SPR_DESC_MENU:0 "As is custom in the country, Spain is on the brink of civil war. Decades of political instability and succesive ineffective governments have brought Spain to the verge of regenerationist and anarchist revolution. As the Republic fights to survive, the future of the country is uncertain and tainted with bloodshed."
+SPR_DESC_MENU:0 "나라의 풍습대로 Spain is on the brink of civil war. Decades of political instability and succesive ineffective governments have brought Spain to the verge of regenerationist and anarchist revolution. As the Republic fights to survive, the future of the country is uncertain and tainted with bloodshed."
 #LEADER DESCRITIONS#
 
 #IDEAS#
 
-SPR_spanish_spring:0 "The Spanish Spring"
-SPR_spanish_spring_desc:0 "\"La primavera ha venido\ny don Alfonso se va.\nMuchos duques le acompañan\nhasta cerca de la mar."\n\nIn 1930, a secret pact of libertarians, socialists, liberals, regionalists, and republicans toppled the decadent Spanish crown and proudly proclaimed our young Republic in what was known as the Jaca Revolution. In Aragon, the army revolted against their corrupt superiors while in Madrid the people took to the streets and demanded the King's abdication. Alfonso XIII refused, clinging to his tyrannical position, and so he had to be assassinated if the nation was to gain freedom. It's been six years since those heroic moments, and everything we have and have done we owe to the bravado of these few honourable men. The Republican cause, despite many bitter moments, shines as brightly as ever, a guiding beacon for every free citizen in the country."
-SPR_black_triennium:0 "The Black Triennium"
-SPR_black_triennium_desc:0 "The crazed revolutionary fervour of the first years of the Republic have slowly quieted down into a tranquil peace. There are, unfortunately, many exceptions to this reality. The anarchists of the FAI-CNT began a brutal terror campaign across Spain after perceived slights during previous governments, and no honest industrialist dares step into his car without checking for explosives first. Targeted assassinations are not unheard of in cities like Barcelona and Sevilla, and sadly that isn't the end of it. Many other parties and movements have militarised themselves as a response. Street fights, gang wars, gun-slinging, armed scabs, all bread-and-butter across the country despite our best efforts. Our hands are tied, but is there anything that we may still do in our position ?"
-SPR_behemoth_leviathan:0 "Behemoth against Leviathan"
-SPR_behemoth_leviathan_desc:0 "Our government, owing to our democratic ideals, is a grandiose alliance of many different parties, big and small, and our cabinet reflects this in its varied composition. The management of the needs and wants of every party is a complex and lengthy process which the President has not always succeeded in. This only complicated further after the emergency powers just a year ago, and to the internal disputes we have to add fierce battles in the Cortes between our ragtag confederacy and the opposition. Ramón Franco has delegated most of this insufferable battlefield for his Minister of Interior Alejandro Lerroux. A true political animal, Lerroux is an unstoppable force that has kept the coalition together through thick and thin, and strikes against the enemies of the government without mercy. The Minister's growing power hasn't gone without criticism, and the leftmost of our colleagues have accused him of abusing his power through extralegal means. However, as long as any relevant phone-call has to go through Lerroux's office first, one can safely say both the alliance and his position will stand, no matter the cost."
+SPR_spanish_spring:0 "에스파냐의 봄"
+SPR_spanish_spring_desc:0 "\"La primavera ha venido\ny don Alfonso se va.\nMuchos duques le acompañan\nhasta cerca de la mar."\n\n1930년, 자유지상주의자, 사회주의자, 자유주의자, 지역주의자, 공화주의자들 간의 밀약은 퇴폐한 에스파냐 왕정을 무너뜨리고 우리의 젊은 공화국을 자랑스레 선포하며 오늘날 Jaca 혁명이라 알려지게 되었습니다. 아라곤에서는 군이 부패한 자기 상관들에 맞서 반란하는 한편, 마드리드에서는 인민이 거리를 점거한 채 왕의 퇴위를 요구했습니다. 폭정의 지위에 매달리던 알폰소 13세는 이를 거부함에 따라 민족이 자유를 얻기 위해선 알폰소가 암살당하는 것 외에 방도가 남지 않았습니다. It's been six years since those heroic moments, and everything we have and have done we owe to the bravado of these few honourable men. 수많은 쓰디쓴 순간들에도 공화주의의 대의는, 나라 안의 모든 자유시민들을 인도하는 등대로서 그 어느 때보다도 밝게 빛나고 있습니다."
+SPR_black_triennium:0 "검은 3년"
+SPR_black_triennium_desc:0 "공화국의 첫 여러 해를 채웠던 광희 속 혁명의 열기는 고요한 평화를 향해 점차 가라앉고 있습니다. 안타깝지만 이러한 현실에도 수많은 예외들이 있습니다. The anarchists of the FAI-CNT began a brutal terror campaign across Spain after perceived slights during previous governments, and no honest industrialist dares step into his car without checking for explosives first. Targeted assassinations are not unheard of in cities like Barcelona and Sevilla, and sadly that isn't the end of it. Many other parties and movements have militarised themselves as a response. Street fights, gang wars, gun-slinging, armed scabs, all bread-and-butter across the country despite our best efforts. 옴짝달싹할 수 없는 우리 처지라도 여전히 할 수 있는 게 남아 있기는 한 걸까요?"
+SPR_behemoth_leviathan:0 "레비아탄에 맞선 베헤모트"
+SPR_behemoth_leviathan_desc:0 "우리의 민주이상에 빚을 지고 있는 우리 정부는 크고 작으며 서로 다른 수많은 정당들의 grandiose alliance으로, and our cabinet reflects this in its varied composition. The management of the needs and wants of every party is a complex and lengthy process which the President has not always succeeded in. This only complicated further after the emergency powers just a year ago, and to the internal disputes we have to add fierce battles in the Cortes between our ragtag confederacy and the opposition. Ramón Franco has delegated most of this insufferable battlefield for his Minister of Interior Alejandro Lerroux. A true political animal, Lerroux is an unstoppable force that has kept the coalition together through thick and thin, and strikes against the enemies of the government without mercy. The Minister's growing power hasn't gone without criticism, and the leftmost of our colleagues have accused him of abusing his power through extralegal means. However, as long as any relevant phone-call has to go through Lerroux's office first, one can safely say both the alliance and his position will stand, no matter the cost."
 SPR_separatism:0 "A Sentimental Atlas of Spain"
 SPR_separatism_desc:0 "Even if regionalists are a key pillar of the Republic, it'd be a lie to say their demands have been in any way satisfied. Discontent has grown in Galicia, Vasconia, and Catalonia, where regionalist and nationalist parties already form ample majority, and even in historically pro-Spanish regions like Andalusia and Asturias the membership of these organisations soar and grow nonstop. Inspired by the successes of Ireland, every region also enjoys an uncountable number of cultural organisations, newspapers, magazines, and, in general, everything that may be used to foster a revival of their folk 'traditions'. Previous governments kept their distance with regionalism, and Lerroux's nationalist tendencies made sure we wouldn't change this course. Even Catalonia is still administered through the old monarchy's Commonwealth. The situation is still thankfully stable though not thanks to us, and it is best we begin to think of a new plan to mend the gap between Madrid and the periphery before the situation turns ugly and possibly bloody."
 
@@ -63,11 +63,11 @@ spain_cw.1.d:0 "프랑코 가즈아아아아아아"
 
 spain_cw.2.t:0 "PCE-L 정변"
 spain_cw.2.desc:0 "야 호세 디아스... 너 왜 총을 들고 있는 거야... 소난다..."
-spain_cw.2.a:0 "금일 15시 43분 레루스 대통령 각하께서 마드리드 병원에서 서거하셨다는 소식이 발표되었읍니다."
+spain_cw.2.a:0 "금일 15시 43분 레루스 대통령 각하께서 마드리드 병원에서 서거하시었읍니다."
 
 spain_cw.3.t:0 "JONS 정변"
 spain_cw.3.desc:0 "이 새끼 이마선 좀 보소"
-spain_cw.3.a:0 "Bell-curve headass lookin ass"
+spain_cw.3.a:0 "자연산 귀두컷 좆되네"
 
 spain_cw.4.t:0 "팔랑헤주의 정변"
 spain_cw.4.desc:0 "쿠쿠루삥뽕"
