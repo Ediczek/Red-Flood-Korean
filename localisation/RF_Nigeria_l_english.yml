@@ -23,10 +23,10 @@ NGA_accelerationism_party:0 "GUC-RF"
 NGA_accelerationism_party_long:0 "Godianist Universal Church - Rebirth Faction"
 
 #LEADER DESCRITIONS#
-POLITICS_BERNARD_BOURDILLON_DESC:0 "태스매니아 출생인 Bernard Henry Bourdillon 경은 언제나 대영제국의 끝자락에 있었습니다. Governing Ceylon, a remnant of British India until 1932, he was then transferred to Uganda, and remained in Africa for the next couple of years - seeing the collapse of authority in nearby colonies such as Niger, he became more stringent in policy, despite having immense sympathies for the natives. Considering everything, Bourdillon is a good colonial manager, one of the best, even. Maintaining good order and keeping the natives happy is not easy, but Bernard is ready for the job."
+POLITICS_BERNARD_BOURDILLON_DESC:0 "태스매니아 출생인 Bernard Henry Bourdillon 경은 언제나 대영제국의 외딴에 있었습니다. Governing Ceylon, a remnant of British India until 1932, he was then transferred to Uganda, and remained in Africa for the next couple of years - seeing the collapse of authority in nearby colonies such as Niger, he became more stringent in policy, despite having immense sympathies for the natives. Considering everything, Bourdillon is a good colonial manager, one of the best, even. Maintaining good order and keeping the natives happy is not easy, but Bernard is ready for the job."
 #IDEAS#
 NGA_split_nation:0 "갈라진 나라"
-NGA_split_nation_desc:0 "인위로 만들어진 식민지인 나이지리아는 심히 분열됐습니다. 현지 군주만 수십에 달하고, 북에는 이슬람이 있으며, 남에선 토착신앙과 기독교가 혼재하는 등 수백 가지 문제들이 난무하며, 나이지리아는 종교, 문화, 정치 등 생각할 수 있는 그 어떤 것으로도든 영원히 분열되어있을 것임이 명확합니다."
+NGA_split_nation_desc:0 "인위로 만들어진 식민지인 나이지리아는 심히 분열됐습니다. 현지 군주만 수십에 달하고, 북에는 이슬람이 있으며, 남에선 토착신앙과 기독교가 혼재하는 등 수백 가지 문제들이 난무하며, 나이지리아는 종교, 문화, 정치 등 생각할 수 있는 그 어떤 것으로든 영원히 분열되어있을 것임이 명확합니다."
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
