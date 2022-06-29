@@ -287,7 +287,7 @@ man.24.b:0 "좋아, 놔줘서 한두 주간 딴 놈들을 괴롭게 해주자고
 
 man.241.t:0 "르 솔레유에서의 한 주"
 man.241.d:0 "The arrival of the Dogmeat General’s entourage into Le Soleil was a sight to behold, more than a dozen cars and several luggage cases brimming with who-knows-what strapped to their roofs. The General wasted no time taking in the sights and pleasures of Le Soleil with his concubines and retinue. After a tour of the city, including the new le musée d'art futuriste, he and his party occupied a theatre in the old Île de la Cité. Several party-goers reported high-level French officials enthusiastically partaking in heavy opium smoking and dancing with Zhang’s women. Before long - they say - the General retired to a French brothel for the night, hiring the entire establishment for himself and his party. This typified his week.\nOn the morning of the duel he was found in a spa on the outskirts of the city, nursing a severe hangover and surrounded by French escorts.\nFor all his decadence he was surprisingly lucid during the duel itself, his uniform was pristine too, as translators scrambled to reconstruct Khlebnikov’s verses into Russian, then French, then finally Chinese, Zhang stood smiling and smoking a comically large cigar.\nWhen his parry came it was brutal, efficient and yet deft. The French observers choked on their laughter, the retort which would later be titled “A severe burn” appeared to flumox Khlebnikov. Who attempted to continue combat before stammering on his final line. Zhang’s reply was a killing blow - “This skinny shit is wasting time, he is but a little man with a little cock, end this parade so I can fuck some more.”\n“Such a man!”\n“So powerful.”\n“He pushes the boundaries with every line.”\n“Velimir never stood a chance against his manhood.”\nThe celebrations of his victory lasted the weekend, and quotations headlined the Le Soleil morning editions of Le Jet de Sang. 도시를 떠날 때쯤에 장군은 프랑스 유명인이 되어있었습니다. 비행기에 오르기 전 그가 남긴 마지막 말은 “난 돌아온다. 집 가서 공산주의 개자식 몇 명 먼저 죽이고.”였습니다."
-man.241.a:0 "좀 가면 안 되나?!"
+man.241.a:0 "더 머무시면 안 되나요?!"
 man.241.b:0 "다른 데선 그가 필요할지도."
 
 man.25.t:0 "The Northern Coalition"
@@ -517,3 +517,5 @@ MAN_lay_mines:0 "지뢰 매설"
 MAN_lay_mines_desc:0 ""
 MAN_patrol_the_murk:0 "안개 속 순찰"
 MAN_patrol_the_murk_desc:0 ""
+MAN_equipment_sending:0 "equipment sending"
+MAN_equipment_sending_desc:0 "placeholder"
