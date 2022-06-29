@@ -3,34 +3,35 @@
 
 
 #PARTIES#
-NIC_vanguard_socialism_party:0 "PCN"
-NIC_popular_socialism_party:0 "PSN"
-NIC_anarchism_party:0 "PAN"
-NIC_revisionist_socialism_party:0 "PSN-C"
-NIC_progressivism_party:0 "PSD"
-NIC_liberalism_party:0 "PLN"
-NIC_conservatism_party:0 "PLN-C"
-NIC_right_authoritarianism_party:0 "긴급행정부"
-NIC_despotism_party:0 "UFC"
-NIC_reactionism_party:0 "UFC"
-NIC_vanguard_socialism_party_long:0 "나카라과 공산당"
-NIC_popular_socialism_party_long:0 "니카라과 사회주의당"
-NIC_anarchism_party_long:0 "니카라과 아니키스트당"
-NIC_revisionist_socialism_party_long:0 "니카라과 사회주의당 - 천주교"
-NIC_progressivism_party_long:0 "니카라과 사회주의당"
-NIC_liberalism_party_long:0 "니카라과 자유당"
-NIC_conservatism_party_long:0 "니카라과 자유당 - 보수파"
-NIC_right_authoritarianism_party_long:0 "미합중국 지원 긴급행정부"
-NIC_despotism_party_long:0 "유나이티드 프룻 컴퍼니"
-NIC_reactionism_party_long:0 "유나이티드 프룻 컴퍼니"
+NIC_vanguard_socialism_party:0 "EDSN"
+NIC_popular_socialism_party:0 "EDSN-S"
+NIC_anarchism_party:0 "EDSN"
+NIC_revisionist_socialism_party:0 "EDSN"
+NIC_progressivism_party:0 "EDSN-D"
+NIC_liberalism_party:0 "PD"
+NIC_conservatism_party:0 "PLN"
+NIC_right_authoritarianism_party:0 "PC"
+NIC_despotism_party:0 "GN-N"
+NIC_reactionism_party:0 "FE-CC"
+NIC_vanguard_socialism_party_long:0 "Ejército Defensor de la Soberanía Nacional"
+NIC_popular_socialism_party_long:0 "Ejército Defensor de la Soberanía Nacional - Sandinistas"
+NIC_anarchism_party_long:0 "Ejército Defensor de la Soberanía Nacional"
+NIC_revisionist_socialism_party_long:0 "Ejército Defensor de la Soberanía Nacional"
+NIC_progressivism_party_long:0 "Ejército Defensor de la Soberanía Nacional - Democratas"
+NIC_liberalism_party_long:0 "Partido Democrático"
+NIC_conservatism_party_long:0 "Partido Liberal"
+NIC_right_authoritarianism_party_long:0 "Partido Conservador"
+NIC_despotism_party_long:0 "Guarda Nacional de Nicaragua"
+NIC_reactionism_party_long:0 "Falange Española en el Colegio Centroámerica"
 
 #LEADER DESCRITIONS#
-POLITICS_MOSELEY_DESC:0 "조지 반 혼 모슬리는 미국에 의한 니카라과 점령 이후부터 니카라과의 긴급행정관이 되었습니다. 행정에 있어서 중립을 유지하려 헌신하던 그였으나, 니카라과에서 친미국적 요소를 유지하기 위해 UFC와 같은 대형 회사들에겐 종종 호의를 제공했습니다. 모슬리는 니카라과에서 사회주의를 완전히 폐지한 후, 민주정이 아닌 공화국을 설립하고자 합니다."
-
 #IDEAS#
-NIC_renegade_adminstration:0 "변절자 행정부"
-NIC_renegade_adminstration_desc:0 "점령된 니카라과는 신대륙에서의 미국의 우세를 보여주는 하나의 상징이 되었으며, 그 주변은 물론 중미 대부분의 국가들은 이러한 사태에 반감을 품게 되었습니다. 대부분의 니카라과 하류층이 이전의 사회주의 정권 하에서 불만을 느끼지 못 했기에, 우리 행정부는 도시를 비롯한 주요 지점에서 간신히 영향력을 행사하고 있는 중입니다."
-
+NIC_dying_admin:0 "Dying Administration"
+NIC_dying_admin_desc:0 "Our President is ill, weak, and senile. This is a great representation of the very situation that Nicaragua's politics finds itself in - an increasingly radicalized youth and an evermore old and ignorant establishment."
+NIC_sandinistas:0 "EDSN-dominated Countryside"
+NIC_sandinistas_desc:0 "The Army of Augusto César Sandino has been utterly dominating our countryside, ensuring that we have very little control over our territory outside of Managua. This travesty has meant that our politics are equally impossible to traverse outside of the Capital."
+NIC_guarda_nacional:0 "Guardia Nacional"
+NIC_guardia_nacional_desc:0 "The National Guard of Nicaragua is completely inefficient as a military force, and generally just has no value in actual combat. Its main purpose is to fight off rebels, and even with that its failing pretty badly."
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
