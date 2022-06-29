@@ -1,8 +1,8 @@
 ﻿l_english: 
 
 #Category
-ideology_generic_category:0 "Political Actions"
-peacetime_decisions:0 "Peacetime Actions"
+ideology_generic_category:0 "정치행동"
+peacetime_decisions:0 "평시행동"
 ideology_generic_category:0 "정권 유지"
 destroy_the_spanish_language:0 "에스파냐어 분쇄"
 
@@ -150,10 +150,10 @@ accelerationism_appeal_desc:0 "How better to demonstrate the justness of our pat
 
 ###
 
-generic_develop_civil_industry:0 "Develop Civilian Industries"
+generic_develop_civil_industry:0 "민간산업 발전"
 generic_develop_civil_industry_desc:0 ""
 
-generic_appeal_to_neighbours:0 "Appeal to Neighbours"
+generic_appeal_to_neighbours:0 "이웃들을 향한 호소"
 generic_appeal_to_neighbours_desc:0 ""
 
 generic_build_up_surplus:0 "Build up a Surplus"
