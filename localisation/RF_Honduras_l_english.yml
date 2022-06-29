@@ -2,8 +2,34 @@
 #COUNTRY NAME#
 
 #PARTIES#
+HON_vanguard_socialism_party:0 "PCH"
+HON_popular_socialism_party:0 "FSH"
+HON_anarchism_party:0 "FSH"
+HON_revisionist_socialism_party:0 "FSH"
+HON_progressivism_party:0 "PLH-Progresistas"
+HON_liberalism_party:0 "PLH"
+HON_conservatism_party:0 "PLH-Conservadores"
+HON_right_authoritarianism_party:0 "UFC"
+HON_despotism_party:0 "PNH"
+HON_reactionism_party:0 "Children of the Sun"
+HON_vanguard_socialism_party_long:0 "Partido Comunista de Honduras"
+HON_popular_socialism_party_long:0 "Federacion Sindical Hondurena"
+HON_anarchism_party_long:0 "Federacion Sindical Hondurena"
+HON_revisionist_socialism_party_long:0 "Federacion Sindical Hondurena"
+HON_progressivism_party_long:0 "Partido Liberal de Honduras - Progresistas"
+HON_liberalism_party_long:0 "Partido Liberal de Honduras"
+HON_conservatism_party_long:0 "Partido Liberal de Honduras - Conservadores"
+HON_right_authoritarianism_party_long:0 "United Fruit Company"
+HON_despotism_party_long:0 "Partido Nacional de Honduras"
+HON_reactionism_party_long:0 "Association of the Children of the Sun in Honduras"
 #LEADER DESCRITIONS#
 #IDEAS#
+HON_banana_blight:0 "Banana Blight"
+HON_banana_blight_desc:0 "There's been a new pest across the border with Nicaragua known as "Banana Blight", a violent fungus that eats away and rots banana crops with terrifying speed. The need to find an alternative economic source, or at least a new type of banana is becoming evermore urgent."
+HON_ufc_hostilities:0 "UFC Hostilities"
+HON_ufc_hostilities_desc:0 "The UFC absolutely hates us, and the only reason they haven't couped our government yet is because the current agreement is just too lucrative. Yet, the feeling grows among the poorest Hondurans that their pains are going to get much worse very soon if we don't do anything about the increasing amounts of abuse done by the UFC and their buddies."
+HON_loose_immigration:0 "Uncontrollable Immigration"
+HON_loose_immigration_desc:0 "A huge number of immigrants from across the World have made Honduras their home, and many of the folks that live and have lived here for the past generations feel intense anxiety about a potential loss of jobs and overpopulation issues. This has also the potentially bad side effect of small, disunited extremist groups in Honduras to become evermore strong..."
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
