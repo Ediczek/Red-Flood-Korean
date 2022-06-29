@@ -73,9 +73,9 @@ montenegro.2.a:0 "Sure, sure, I'll go across the border."
 montenegro.2.b:0 "I heard Gajda is in Yakutia."
 #LEADER DESCRITIONS#
 MNT_DESC_MENU:0 ""
-POLITICS_DANILO_DESC:0 "Danilo I of the Petrović-Njegoš Dynasty, the Second King of Montenegro, and the Nation's safekeeper from Yugoslavia.\n\nDanilo's reign has been a time of the so-called \"Yugoslav Scare\", which began during his father's reign, after the Podgorica Assembly, which voted for abolition of the dynasty and unconditional entry into the new, plurinational, state. The Kingdom, however, was restored after the successful Christmas Rebellion, which led to the current status quo. Able to secure his reign with major Italian support and strong hands of loyalists in the military, commonly called \"the Greens\", he intends on keeping the pan-Slavic state at bay and turn the Kingdom into the \"Pearl of the Adriatic\", able to prosper. He, himself, doesn't mind the Italian control, but instead is afraid of what will happen when it vanishes - and he fears it might happen soon."
+POLITICS_DANILO_DESC:0 "페트로비치-녜고쉬 왕조의 다닐로 1세는 몬테네그로 2대 왕이자 Nation's safekeeper from Yugoslavia.\n\nDanilo's reign has been a time of the so-called \"Yugoslav Scare\", which began during his father's reign, after the Podgorica Assembly, which voted for abolition of the dynasty and unconditional entry into the new, plurinational, state. The Kingdom, however, was restored after the successful Christmas Rebellion, which led to the current status quo. Able to secure his reign with major Italian support and strong hands of loyalists in the military, commonly called \"the Greens\", he intends on keeping the pan-Slavic state at bay and turn the Kingdom into the \"Pearl of the Adriatic\", able to prosper. He, himself, doesn't mind the Italian control, but instead is afraid of what will happen when it vanishes - and he fears it might happen soon."
 #IDEAS#
-MNT_yugoslavian_refugees:0 "Yugoslav Refugees"
+MNT_yugoslavian_refugees:0 "유고슬라비야 난민"
 MNT_yugoslavian_refugees_desc:0 "Those, who fled Yugoslavia after the SJNK took charge, have found themselves mostly migrating to Montenegro, in hopes of returning when the situation at home resembles the pre-coup status quo. This not only led to our small military becoming strained, but the Kingdom has grown less stable."
 
 #CUSTOM TOOLTIPS AND FLAGS#
