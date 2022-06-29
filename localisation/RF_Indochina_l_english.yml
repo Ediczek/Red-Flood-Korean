@@ -158,7 +158,7 @@ DAI_kure:0 "Kure Naval Works Annam Branch"
 
 #EVENTS#
 
-dainam.1.t:0 "A Shot to the Emperor"
+dainam.1.t:0 "천황 피살"
 dainam.1.desc:0 "So someone just shot the Emperor, now the country is on the brink of civil war. Which side are you on?"
 dainam.1.a:0 "The wholesome ELF"
 dainam.1.b:0 "The unwholesome Japanese"
@@ -167,12 +167,12 @@ dainam.2.t:0 "고조되는 폭력"
 dainam.2.desc:0 "Alright so someone played a weeb cover of Fortunate Son and now it's basically anime Vietnam except the hippies are probably going to get cut in half or smh."    
 dainam.2.a:0 "Watashi wa warcimes desu."
 
-dainam.3.t:0 "Echoes from the Isles"
+dainam.3.t:0 "제도에서 울려퍼진 메아리"
 dainam.3.d:0 "Today, disturbing notes have been sent to our high command which details the horrible treatment of the Viet people in the Hoang Sa and Truong Sa islands which have been occupied by the Japanese since the 1920s. With reports of the people there being worked, apparently to the bone, in order to collect resources such as coral and guano, as well as building military bases for the Japanese.\nThe island chains of Hoang Sa and Truong Sa have been isolated for some time now; we own no records about them and no signs of activities have been recorded. However this note states that large towns have been built on these islands with the Viet population being enslaved by the Imperial Japanese occupiers. According to the note, Chinese pirates have been engaging in small skirmishes with the Japanese forces, ostensibly owing to reports of Chinese people being captured and being tortured to death, or held for ransom.\nThe author of the note claims to be a Imperial Vietnamese Marine with his name being voided. Although High Command is suspicious of the note’s credibility, the brutality written in the note is... lurid, and several analysts have argued that the blueprints of the infrastructure being developed on the island are too detailed to just be a simple hoax. We can either decide to investigate the islands to find out the truth of these claims, or we can leave it be pending more concrete evidence. The choice is yours."    
 dainam.3.a:0 "We can't turn a blind eye to our tortured brothers!"
 dainam.3.b:0 "Nothing but a blatant hoax..."
 
-dainam.10.t:0 "The Rubber Line"
+dainam.10.t:0 "고무 공급선"
 dainam.10.d:0 "The Makitton-Loc-Ninh Rubber Line was proposed in the early 1920s by French plantation owners. The railway would have connected Loc Ninh with the Makitton ports, making transporting goods efficient and safe.\nAfter 15 years, the Japanese Ministry of Infrastructure finally approved the concept. Construction began today, with help from the Hoa-Xa Viet-Nam company. They spearheaded the construction effort, as advisors and machines already arrived in Loc- Ninh. The project's prize is estimated at 10 million yen, which is funded by the Japanese Imperial Majesty himself and the French plantations in an effort to further civilize the nation.\nEmperor Nam-Hùng personally sent his top advisors and announced that recruitment has begun, creating new jobs in the area. \nThe blueprints based on older French ones, are currently being drawn. Experts say the new railway will surely increase our rubber production, doubling the current numbers, finally putting an end to banditry in the Bình-Duong and the Thu-Dau-Mot area. The Japanese expect to finish the project in 4 months."    
 dainam.10.a:0 "What am investment!"
 
