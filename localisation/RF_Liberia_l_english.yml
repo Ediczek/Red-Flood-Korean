@@ -254,7 +254,7 @@ LIB_naval_air_effort:0 "Naval Air Effort"
 LIB_naval_air_effort_desc:0 "The efficacy of air strikes against naval targets was demonstrated by the Americans already back in 1921. We should not neglect this branch of the Air Force if we intend to wage war on a naval power."
 
 #EVENTS#
-lib.1.t:0 "만인행진"
+lib.1.t:0 "일만행진"
 lib.1.desc:0 "라이베리아가 끓어오르고 있습니다.\n\n 정부부패로 촉발된 부실한 산업관리와 종족갈등 문제에 대한 대응 부족이 나라를 갈라놓으면서, 라이베리아의 시민들은 급진적인 행동을 취하려 하고 있습니다. 대부분이 젊은 남자들로 이루어진 미국 출신 이민자 집단들은 꽤 오래 전부터 성기게나마 조직되기 시작했지만, 근래에 들어서부턴 그 어느 때보다 말이 많은 마커스 가비의 지도 아래의 단일 풀뿌리 운동으로 통합되었습니다. 자신들의 새 고향에 불만한 이들은 수도를 향한 행진을 조직했습니다. 주도자들은 폭력의 의도가 없음을 밝혔지만, 무장한 채 행진하는 군중의 모습은 평화로운 시위라기보다단 진군하는 군대에 더 가깝게 보입니다. 정부의 대응은 하나뿐입니다. 개활지에서 놈들과 마주하는 것.\n\n 마침내 도시 경계에서 두 집단이 만나고..."
 lib.1.a:0 "짧은 싸움이 이어지더니, 가비의 급진파가 뿔뿔이 흩어진다. 위기는 종결됐다."
 lib.1.b:0 "... 반역이다! 병사들이 가비주의자들을 이끌고 정부청사로 향하고 있다!"
