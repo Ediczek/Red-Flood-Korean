@@ -1,6 +1,31 @@
 ﻿l_english:
 #COUNTRY NAME#
 
+SIA_anarchism:0 "Revolutionary Siam"
+SIA_anarchism_DEF:0 "Revolutionary Siamese Provinces"
+SIA_anarchism_ADJ:0 "Siamese"
+SIA_vanguard_socialism:0 "the Siamese Socialist Republic"
+SIA_vanguard_socialism_DEF:0 "the Siamese Socialist Republic"
+SIA_vanguard_socialism_ADJ:0 "Siamese"
+SIA_popular_socialism:0 "Siam Union of Councils"
+SIA_popular_socialism_DEF:0 "Siam Socialist Councils"
+SIA_popular_socialism_ADJ:0 "Siamese"
+SIA_revisionist_socialism:0 "Siam Socialist Republic"
+SIA_revisionist_socialism_DEF:0 "the Siam Socialist Republic"
+SIA_revisionist_socialism_ADJ:0 "Siamese"
+SIA:0 "Kingdom of Siam"
+SIA_DEF:0 "the Kingdom of Siam"
+SIA_ADJ:0 "Siamese"
+SIA_despotism:0 "Rattanakosin Kingdom"
+SIA_despotism_DEF:0 "Rattanakosin Kingdom"
+SIA_despotism_ADJ:0 "Siamese"
+SIA_reactionism:0 "Rattanakosin Kingdom"
+SIA_reactionism_DEF:0 "Rattanakosin Kingdom"
+SIA_reactionism_ADJ:0 "Siamese"
+SIA_accelerationism:0 "Blessed Kingdom of Siam"
+SIA_accelerationism_DEF:0 "the Blessed Kingdom of Siam"
+SIA_accelerationism_ADJ:0 "Siamese"
+
 #PARTIES#
 
 SIA_vanguard_socialism_party:0 "NS/L"
