@@ -2,28 +2,28 @@
 #COUNTRY NAME#
 
 #PARTIES#
-JGJ_vanguard_socialism_party:0 "WPC"
-JGJ_popular_socialism_party:0 "PPC"
-JGJ_anarchism_party:0 "CAM"
+JGJ_vanguard_socialism_party:0 "CPC - R"
+JGJ_libertarian_marxism_party:0 "CPC - L"
+JGJ_revolutionary_anarchism_party:0 "CAM"
 JGJ_revisionist_socialism_party:0 "GMJ"
-JGJ_progressivism_party:0 "GMJ-S"
+JGJ_social_democratism_party:0 "GMJ - S"
 JGJ_liberalism_party:0 "PS"
 JGJ_conservatism_party:0 "SRP"
 JGJ_right_authoritarianism_party:0 "SC"
 JGJ_despotism_party:0 "SMC"
 JGJ_reactionism_party:0 "RS"
 JGJ_accelerationism_party:0 "YCP"
-JGJ_vanguard_socialism_party_long:0 "Workers' Party of China"
-JGJ_popular_socialism_party_long:0 "People's Party of China"
-JGJ_anarchism_party_long:0 "Chinese Anarchist Movement"
+JGJ_vanguard_socialism_party_long:0 "Communist Party of China - Right"
+JGJ_libertarian_marxism_party_long:0 "Communist Party of China - Left"
+JGJ_revolutionary_anarchism_party_long:0 "Chinese Anarchist Movement"
 JGJ_revisionist_socialism_party_long:0 "Guominjun"
-JGJ_progressivism_party_long:0 "Guominjun Secularists"
+JGJ_social_democratism_party_long:0 "Guominjun Secularist Faction"
 JGJ_liberalism_party_long:0 "Prosperity Consortium"
 JGJ_conservatism_party_long:0 "Shaanxi Republic Party"
 JGJ_right_authoritarianism_party_long:0 "Shaanxi Clique"
 JGJ_despotism_party_long:0 "Shaanxi Military Clique"
 JGJ_reactionism_party_long:0 "Renaissance Society"
-JGJ_accelerationism_party_long:0 "Young China Party"
+JGJ_accelerationism_party_long:0 "Young China Party - Shaanxi"
 #LEADER DESCRITIONS#
 
 #IDEAS#
