@@ -1,24 +1,24 @@
 ﻿l_english:
 #LEADER DESCRIPTIONS#
-POLITICS_JINJIANG_DESC:0 "“군벌, 역적, 간신배, 폭군, 항졸, 방관자... 혁명의 현인이 그런 꼴이 되어 추락하리라곤 그 누구도 예측하지 못 했다.”-청쳰\n\n장징장은 1877년 후저우에서 태어났습니다. 어린 시절 시대착오를 목도한 그는 가문의 자산을 이용해 쑨원의 동맹회를 비롯한 다양한 반청 조직을 후원하기 시작했습니다. 장징장의 후원은 국민당의 초기 발전에 있어 중요한 역할을 했습니다. 쑨원이 애칭으로 "혁명의 현인"이라 부를 정도였던 장징장은 국민당 내 4원로 중 하나가 되었습니다.\n\n장징장은 쑨원 피살 이후 숭자오런이 지도하는 국민당의 좌익 경향에 반대하면서, 유럽의 산업 심장부에서 벌어진 붉은 체제의 발현 이후 영국과 프랑스와 같은 오랜 자본주의 국가들이 보여준 발광적 반공주의 감정을 예리하게 관찰했습니다. 일본인이 샹하이에서 국민혁명군의 선봉을 격파하자, 장징장과 천치메이는 immediately began contacting the British and American concessions, seeking to use their party seniority and political status to establish a pro-western cooperative national government. After Chen QiMei is assassinated, Zhang gave up to Xu Chongzhi even the comfort of courtesy, go further and further through cooperating with foreign capitalists, oligarchs and Shanghai gangsters, avaricious and high-profile people cream. Six years after Zhang Jingjiang took over the Nanjing government, the GMD was further disintegrated, and many positions within the party were replaced by Gangs, landlords and warlords.\n\nZhang questioning the feasibility of a national revolution from the start. He has a clear understanding of himself and has a blueprint for China's future. The failure of the northern expedition made him understand that China could not complete a modern national revolution and had lost the capital to contend with the great powers. The more he cooperated with foreign capitalists, the stronger his position became."
+POLITICS_JINJIANG_DESC:0 "“군벌, 역적, 간신배, 폭군, 항졸, 방관자... 혁명의 현인이 그런 꼴이 되어 추락하리라곤 그 누구도 예측하지 못 했다.”——청쳰\n\n장징장은 1877년 후저우에서 태어났습니다. 어린 시절 시대착오를 목도한 그는 가문의 자산을 이용해 쑨원의 동맹회를 비롯한 다양한 반청 조직을 후원하기 시작했습니다. 장징장의 후원은 국민당의 초기 발전에서 중요한 역할을 했습니다. 쑨원이 애칭으로 "혁명의 현인"이라 부를 정도였던 장징장은 국민당 내 4원로 중 하나가 되었습니다.\n\n장징장은 쑨원 피살 이후 숭자오런이 지도하는 국민당의 좌익 경향에 반대하면서, 유럽의 산업 심장부에서 벌어진 붉은 체제의 발현 이후 영국과 프랑스와 같은 오랜 자본주의 국가들이 보여준 발광적 반공주의 감정을 예리하게 관찰했습니다. 일본인이 샹하이에서 국민혁명군의 선봉을 격파하자, 장징장과 천치메이는 immediately began contacting the British and American concessions, seeking to use their party seniority and political status to establish a pro-western cooperative national government. After Chen QiMei is assassinated, Zhang gave up to Xu Chongzhi even the comfort of courtesy, go further and further through cooperating with foreign capitalists, oligarchs and Shanghai gangsters, avaricious and high-profile people cream. Six years after Zhang Jingjiang took over the Nanjing government, the GMD was further disintegrated, and many positions within the party were replaced by Gangs, landlords and warlords.\n\nZhang questioning the feasibility of a national revolution from the start. He has a clear understanding of himself and has a blueprint for China's future. The failure of the northern expedition made him understand that China could not complete a modern national revolution and had lost the capital to contend with the great powers. The more he cooperated with foreign capitalists, the stronger his position became."
 
 #COUNTRY NAME#
 
 #PARTIES#
-KMT_vanguard_socialism_party:0 "WPC"
-KMT_popular_socialism_party:0 "PPC"
+KMT_vanguard_socialism_party:0 "CPC - R"
+KMT_popular_socialism_party:0 "CPC - L"
 KMT_anarchism_party:0 "CAM"
-KMT_revisionist_socialism_party:0 "KMT - 민생"
-KMT_progressivism_party:0 "KMT - 민권"
-KMT_placeholderism_party:0 "KMT - 온건"
-KMT_liberalism_party:0 "KMT - 온건"
-KMT_conservatism_party:0 "KMT - 민주"
-KMT_right_authoritarianism_party:0 "KMT - CEC"
+KMT_revisionist_socialism_party:0 "GMD - MinSheng"
+KMT_progressivism_party:0 "GMD - MinQuan"
+KMT_placeholderism_party:0 "GMD - Moderates"
+KMT_liberalism_party:0 "GMD - Moderates"
+KMT_conservatism_party:0 "GMD - MinZu"
+KMT_right_authoritarianism_party:0 "GMD - CEC"
 KMT_despotism_party:0 "NMA"
-KMT_reactionism_party:0 "KMT - SSS"
+KMT_reactionism_party:0 "GMD - SSS"
 KMT_accelerationism_party:0 "YCP"
-KMT_vanguard_socialism_party_long:0 "중국노동당"
-KMT_popular_socialism_party_long:0 "중국인민당"
+KMT_vanguard_socialism_party_long:0 "Communist Party of China - Right"
+KMT_popular_socialism_party_long:0 "Communist Party of China - Left"
 KMT_anarchism_party_long:0 "중국 아나키스트 운동"
 KMT_revisionist_socialism_party_long:0 "국민당 민생파"
 KMT_progressivism_party_long:0 "국민당 민권파"
@@ -28,7 +28,7 @@ KMT_conservatism_party_long:0 "국민당 민주파"
 KMT_right_authoritarianism_party_long:0 "국민당 중앙행정위원회"
 KMT_despotism_party_long:0 "남경 군정"
 KMT_reactionism_party_long:0 "국민당 원로회"
-KMT_accelerationism_party_long:0 "중국청년당"
+KMT_accelerationism_party_long:0 "중국 청년당 - 난징"
 
 #IDEAS#
 KMT_revolutionary_stronghold:0 "혁명의 보루"
