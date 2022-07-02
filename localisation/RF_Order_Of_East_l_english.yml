@@ -3,32 +3,34 @@
 
 
 #PARTIES#
-ORS_vanguard_socialism_party:0 "CPoI"
-ORS_popular_socialism_party:0 "RCPI"
+ORS_vanguard_socialism_party:0 "CPoI - L"
+ORS_popular_socialism_party:0 "CPoI - S"
 ORS_anarchism_party:0 "ASO"
-ORS_revisionist_socialism_party:0 "KMPP"
-ORS_progressivism_party:0 "INC"
-ORS_liberalism_party:0 "PP"
-ORS_conservatism_party:0 "AIGP"
-ORS_right_authoritarianism_party:0 "AKHM 유격대"
+ORS_revisionist_socialism_party:0 "CSP"
+ORS_progressivism_party:0 "INC - S"
+ORS_liberalism_party:0 "INC - L"
+ORS_conservatism_party:0 "AIHGA (ABHM) 온건파"
+ORS_right_authoritarianism_party:0 "AIGHA (ABHM) 강경파"
 ORS_despotism_party:0 "OTS(MW)"
 ORS_reactionism_party:0 "OTS(TW)"
 ORS_accelerationism_party:0 "OTS(RW)"
 
-ORS_vanguard_socialism_party_long:0 "인도 공산당"
-ORS_popular_socialism_party_long:0 "인도 혁명공산당"
+ORS_vanguard_socialism_party_long:0 "Communist Party of India - Leninist"
+ORS_popular_socialism_party_long:0 "Communist Party of India - Spartakist"
 ORS_anarchism_party_long:0 "오리사 아나키스트회"
-ORS_revisionist_socialism_party_long:0 "노농인민당"
-ORS_progressivism_party_long:0 "인도 민족회의"
-ORS_liberalism_party_long:0 "목표평의회"
+ORS_revisionist_socialism_party_long:0 "Congress Socialist Party"
+ORS_progressivism_party_long:0 "인도 민족회의 -  사회주의"
+ORS_liberalism_party_long:0 "인도 민족회의 - 자유주의"
 ORS_conservatism_party_long:0 "전 인도 민주평의회"
-ORS_right_authoritarianism_party_long:0 "전 인도 힌두대회의 유격대"
+ORS_right_authoritarianism_party_long:0 "전 인도 힌두대회의 - 강경파"
 ORS_despotism_party_long:0 "신지학회 (무장대익)"
 ORS_reactionism_party_long:0 "신지학회 (전통주의익)"
 ORS_accelerationism_party_long:0 "신지학회 (급진익)"
 #LEADER DESCRITIONS#
 
 #IDEAS#
+ORS_religious_fanaticism:0 "Religious Fanaticism"
+ORS_inexperienced_administration:0 "Inexperienced Administration"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
