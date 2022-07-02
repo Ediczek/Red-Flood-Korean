@@ -75,21 +75,21 @@ FIN_RUS_conservatism:0 "핀란디야 공화국"
 FIN_RUS_conservatism_DEF:0 "핀란디야 공화국"
 FIN_RUS_conservatism_ADJ:0 "핀란디야"
 
-FIN_RUS_right_authoritarianism:0 "핀란디야 왕국"
-FIN_RUS_right_authoritarianism_DEF:0 "핀란디야 왕국"
+FIN_RUS_right_authoritarianism:0 "핀란디야 공화국"
+FIN_RUS_right_authoritarianism_DEF:0 "핀란디야 공화국"
 FIN_RUS_right_authoritarianism_ADJ:0 "핀란디야"
 
 FIN_RUS_despotism:0 "핀란디야 대크냐즈국"
 FIN_RUS_despotism_DEF:0 "핀란디야 대크냐즈국"
 FIN_RUS_despotism_ADJ:0 "핀란디야"
 
-FIN_RUS_reactionism:0 "핀란디야국"
-FIN_RUS_reactionism_DEF:0 "핀란디야국"
+FIN_RUS_reactionism:0 "핀란디야 민족국"
+FIN_RUS_reactionism_DEF:0 "핀란디야 민족국"
 FIN_RUS_reactionism_ADJ:0 "핀란디야"
 
-FIN_RUS_accelerationism:0 "핀란디야"
-FIN_RUS_accelerationism_DEF:0 "핀란디야"
-FIN_RUS_accelerationism_ADJ:0 "핀란디야"
+FIN_RUS_accelerationism:0 "제34왕조"
+FIN_RUS_accelerationism_DEF:0 "흑홍지"
+FIN_RUS_accelerationism_ADJ:0 "핀-이집트"
 
 FIN_EGY:0 "제34왕조"
 FIN_EGY_DEF:0 "흑지"
