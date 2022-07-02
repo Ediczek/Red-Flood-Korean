@@ -187,6 +187,10 @@ fiume.51.desc:0 "언론인들로 가득 찬 방에서 마리네티가 거칠게 
 fiume.51.a:0 "진정한 대전쟁의 첫 희생자로군."
 fiume.51.b:0 "진정한 대전쟁의 첫 희생자야."
 
+fiume.55.t:0 "A Call to Arms!"
+fiume.55.desc:0 "The brave soldiers of Fiume have finally done it! The Rubicon has been crossed, and the brave soldiers of the future now fight to drag Italy into a new age. The old, mangy order shall be overthrown, that filth washed clean from Italy, and the vibrant young warriors will spread their wings, their noble souls lifted above this mortal realm. Standing proudly alongside them we shall usher in this new revolution of body and spirit."
+fiume.55.a:0 "Onwards! To Victory!"
+
 #fiume.21.t:0 "피우메가 동맹을 제안하다"
 #fiume.21.desc:0 "피우메, 이 시대의 가장 거대한 도전에 직면한 이 예술국이 우리에게 흥미로운 제안을 건넸습니다. 유럽의 두 진정한 예술국이 함께 뭉쳐 미래주의 관념들과 생활방식의 수호와 전파를 도울 군사동맹을 만들자는 것입니다. 저들은 예술가들이 서로에게 영감을 주고받듯이 다양한 국가가 만나 정신적인 이익이 될 수 있다고 전해왔습니다. 일리 있는 말이란 것을 부정하긴 어렵지만, 정말 우리의 지원을 약속하고 우리 사람들을 전장으로 보낼 필요가 있을까요?"
 #fiume.21.a:0 "당연하지!"
@@ -209,6 +213,7 @@ FIU_1936:0 "아르디티 민병대"
 FIU_keller_postwar:0 "켈레르의 이탈리아 정복"
 FIU_marinetti_postwar:0 "마리네티의 이탈리아 정복"
 FIU_shimoi_postwar:0 "시모이의 이탈리아 정복"
+ITA_LOST:0 "@FIU §YThe Revolutionary Government in Fiume§! has vanquished @ITA §Ythe Government in Rome,§! marking a triumphant finale to §Ythe Endeavour.§!"
 
 League_Solar:0 "태양 연맹"
 
@@ -518,6 +523,7 @@ FIU_nation_for_all_1:0 "모두를 위한 국가"
 FIU_nation_for_all:0 "모두를 위한 국가"
 FIU_nation_for_all_2:0 "모두를 위한 국가"
 FIU_wealth_spirit:0 "영혼의 부"
+FIU_nofaithbutlove:0 "Not Faith, but Love"
 FIU_spirit_heroes:0 "영웅들의 혼"
 
 #m
