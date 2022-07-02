@@ -1,63 +1,21 @@
 ﻿l_english:
-#country selection#
+#Brief history
 BLR_DESC_MENU:0 "아타만 스타니슬라우 불라크-발라호비치의 봉토인 벨라루스는 교차로에 서있습니다. 국내의 수많은 파벌들이 각자의 이유로 아타만의 독재에 반대하고 있습니다. 민주정 지자파가 있는 한편 더 급진적인 이념과 반동독재를 지지하는 이들도 있습니다. 벨라루스를 제2의 사회주의 혁명의 등대로 만들려는 지도부를 가진 벨라루스 정보국 내 파벌들이 있고, 벨라루스를 뭔가 다른 것으로 변화시키려는 간교한 외인 장교들이 있으며, 언제나 그렇듯 마련된 광인의 자리가 있지만 그들의 진정한 목적은 아직 알 수 없습니다. 누가 망하고 흥할 것이며, 누가 벨라루스를 불확실한 미래로 이끌 것이란 말입니까?"
-#COUNTRY NAME#
-BLR_vanguard_socialism:0 "벨라루스"
-BLR_vanguard_socialism_DEF:0 "벨라루스"
-BLR_vanguard_socialism_ADJ:0 "벨라루스"
-BLR_popular_socialism:0 "벨라루스"
-BLR_popular_socialism_DEF:0 "벨라루스"
-BLR_popular_socialism_ADJ:0 "벨라루스"
-BLR_anarchism:0 "벨라루스"
-BLR_anarchism_DEF:0 "벨라루스"
-BLR_anarchism_ADJ:0 "벨라루스"
-BLR_revisionist_socialism:0 "벨라루스 혁명공화국"
-BLR_revisionist_socialism_DEF:0 "벨라루스"
-BLR_revisionist_socialism_ADJ:0 "벨라루스"
-BLR_progressivism:0 "벨라루스 민주공화국"
-BLR_progressivism_DEF:0 "벨라루스"
-BLR_progressivism_ADJ:0 "벨라루스"
-BLR_placeholderism:0 "벨라루스 민주공화국"
-BLR_placeholderism_DEF:0 "벨라루스"
-BLR_placeholderism_ADJ:0 "벨라루스"
-BLR_liberalism:0 "벨라루스 민주공화국"
-BLR_liberalism_DEF:0 "벨라루스"
-BLR_liberalism_ADJ:0 "벨라루스"
-BLR_conservatism:0 "벨라루스 민주공화국"
-BLR_conservatism_DEF:0 "벨라루스"
-BLR_conservatism_ADJ:0 "벨라루스"
-BLR_right_authoritarianism:0 "벨라루스"
-BLR_right_authoritarianism_DEF:0 "벨라루스"
-BLR_right_authoritarianism_ADJ:0 "벨라루스"
-BLR_reactionism:0 "벨라루스국"
-BLR_reactionism_DEF:0 "벨라루스 민족국"
-BLR_reactionism_ADJ:0 "벨라루스"
-BLR_despotism:0 "벨라루스"
-BLR_despotism_DEF:0 "벨라루스"
-BLR_despotism_ADJ:0 "벨라루스"
-BLR_accelerationism:0 "벨라루스 민족집산체"
-BLR_accelerationism_DEF:0 "벨라루스"
-BLR_accelerationism_ADJ:0 "벨라루스"
 
-BLR_SR:0 "주권공화국 연합"
-BLR_SR_DEF:0 "주권공화국 연합"
-BLR_SR_ADJ:0 "주권주의파"
-
-BLR_ruthenia:0 "루테니아 제국"
-BLR_ruthenia_DEF:0 "루테니아 제국"
-BLR_ruthenia_ADJ:0 "루테니아"
-#PARTIES#
-BLR_anarchism_party:0 "PSR(ZiV)"
-BLR_anarchism_party_long:0 "사회주의 혁명당 (토지와 자유)"
-BLR_vanguard_socialism_party:0 "독일 협력파"
-BLR_vanguard_socialism_party_long:0 "독일 협력파"
-BLR_popular_socialism_party:0 "독일 협력파"
-BLR_popular_socialism_party_long:0 "독일 협력파"
-BLR_revisionist_socialism_party:0 "PSR(GS)"
-BLR_revisionist_socialism_party_long:0 "사회주의 혁명당 (사빈코프 집단)"
+#Parties
+BLR_accelerationism_party:0 "KPB(U)"
+BLR_accelerationism_party_long:0 "Kamunistyčnaja Partyja Biełarusi (Upieradaŭcy)"
+BLR_anarchism_party:0 "Revalucyjnaje Dziejańnie"
+BLR_anarchism_party_long:0 "Revalucyjnaje Dziejańnie"
+BLR_vanguard_socialism_party:0 "KPB"
+BLR_vanguard_socialism_party_long:0 "Kamunistyčnaja Partyja Biełarusi"
+BLR_popular_socialism_party:0 "BSH"
+BLR_popular_socialism_party_long:0 "Biełaruskaja Sacyjalistyčnaja Hramada"
+BLR_revisionist_socialism_party:0 "PSR"
+BLR_revisionist_socialism_party_long:0 "사회주의 혁명당"
 BLR_progressivism_party:0 "BSH"
 BLR_progressivism_party_long:0 "벨라루스 사회주의 대회"
-BLR_liberalism_party:0 "BNP(GK)"
+BLR_liberalism_party:0 "BNP(HK)"
 BLR_liberalism_party_long:0 "벨라루스 독립당 (크레체우스키 집단)"
 BLR_conservatism_party:0 "BNP"
 BLR_conservatism_party_long:0 "벨라루스 독립당"
@@ -67,13 +25,54 @@ BLR_despotism_party:0 "아타만당"
 BLR_despotism_party_long:0 "아타만당"
 BLR_reactionism_party:0 "NNP"
 BLR_reactionism_party_long:0 "민족인민당"
-BLR_accelerationism_party:0 "보하부다우니키"
-BLR_accelerationism_party_long:0 "보하부다우니키"
 
 BLR_despotism_party_empire:0 "RDJR"
 BLR_despotism_party_empire_long:0 "러시아 국가단결 평의회"
-#LEADER DESCRITIONS#
-#IDEAS#
+
+#Country name
+BLR_accelerationism:0 "Belarusian Worker's Collective"
+BLR_accelerationism_DEF:0 "Belarusian Worker's Collective"
+BLR_accelerationism_ADJ:0 "Belarusian"
+BLR_anarchism:0 "Belarusian Free Territory"
+BLR_anarchism_DEF:0 "Belarusian Free Territory"
+BLR_anarchism_ADJ:0 "Belarusian"
+BLR_vanguard_socialism:0 "벨라루스 민주공화국"
+BLR_vanguard_socialism_DEF:0 "벨라루스 민주공화국"
+BLR_vanguard_socialism_ADJ:0 "벨라루스"
+BLR_popular_socialism:0 "벨라루스 민주공화국"
+BLR_popular_socialism_DEF:0 "벨라루스 민주공화국"
+BLR_popular_socialism_ADJ:0 "벨라루스"
+BLR_revisionist_socialism:0 "벨라루스 민주공화국"
+BLR_revisionist_socialism_DEF:0 "벨라루스 민주공화국"
+BLR_revisionist_socialism_ADJ:0 "벨라루스"
+BLR_progressivism:0 "벨라루스 민주공화국"
+BLR_progressivism_DEF:0 "벨라루스 민주공화국"
+BLR_progressivism_ADJ:0 "벨라루스"
+BLR_liberalism:0 "벨라루스 민주공화국"
+BLR_liberalism_DEF:0 "벨라루스 민주공화국"
+BLR_liberalism_ADJ:0 "벨라루스"
+BLR_conservatism:0 "벨라루스 민주공화국"
+BLR_conservatism_DEF:0 "벨라루스 민주공화국"
+BLR_conservatism_ADJ:0 "벨라루스"
+BLR_right_authoritarianism:0 "벨라루스"
+BLR_right_authoritarianism_DEF:0 "벨라루스"
+BLR_right_authoritarianism_ADJ:0 "벨라루스"
+BLR_despotism:0 "Belarusian Democratic Republic"
+BLR_despotism_DEF:0 "Belarusian Democratic Republic"
+BLR_despotism_ADJ:0 "Belarusian"
+BLR_reactionism:0 "벨라루스국"
+BLR_reactionism_DEF:0 "벨라루스 민족국"
+BLR_reactionism_ADJ:0 "벨라루스"
+
+BLR_SR:0 "주권공화국 연합"
+BLR_SR_DEF:0 "주권공화국 연합"
+BLR_SR_ADJ:0 "주권주의파"
+
+BLR_ruthenia:0 "루테니아 제국"
+BLR_ruthenia_DEF:0 "루테니아 제국"
+BLR_ruthenia_ADJ:0 "루테니아"
+
+#Ideas
 BLR_welfare_state:0 "복지국가"
 BLR_human_rights_court:0 "전 벨라루스 인권법원"
 BLR_deregulation:0 "비규제"
@@ -108,6 +107,7 @@ BLR_new_culture:0 "신 볠라루시 문화"
 BLR_new_culture_1:0 "신 볠라루시 문화"
 BLR_brotherhood_of_elohim:0 "엘로힘 형제회"
 
+#Ministers
 BLR_hog_jan_sierada_des:0 "얀 셰라다"
 BLR_hog_anton_luckievich_scd:0 "안톤 루츠키에비치"
 BLR_hog_roman_skirmunt_con:0 "로만 스키르문트"
@@ -168,11 +168,13 @@ Astrouski_Aircraft_Bureau:0 "아스트로우스키 항공기체국"
 Radchenka_Design_Bureau:0 "라첸카 설계국"
 Hydroaeronautics_Club:0 "수상비행학회"
 
-#CUSTOM TOOLTIPS AND FLAGS#
-#DECISIONS (1.5 Update)#
+
+#Decisions
 BLR_capitalmoving:0 "천도?"
 BLR_declarerussia:0 "주권공화국 연합 선포"
-#FOCUSES#
+
+#Focuses
+#Ataman
 BLR_fiefdom_ataman:0 "아타만의 봉토"
 BLR_fiefdom_ataman_desc:0 "러시아의 통치가 무너진 이래 벨라루스 지역은 아타만이 이끌어왔습니다. 민주정인 우크라이나나 리투아니아, 혹은 (원수 숭배를 동반한) 폴란드와 다르게, 진짜 독재국가인 벨라루스는 단 한 사람, 아타만만의 무쇠와 같은 의지로서 통치파벌이 권력을 잡고 있습니다."
 BLR_review_military:0 "군사예산 심사"
@@ -192,6 +194,7 @@ BLR_eternal_dictator_desc:0 "스타니슬라우에게 맞서던 모든 적이 �
 BLR_one_way_or_another:0 "다른 길은 없다..."
 BLR_one_way_or_another_desc:0 "졸개들이 체제를 악용하게 두며, 먹잇감이 된 벨라루스 사회에서 목소리들이 나올 때까지 도적처럼 행동한 아타만이 시민자유를 제약해 위기에서 벗어났다 말하고 싶겠지만, 이제 독재도 끝을 맞이하게 되었습니다. 하지만 체제가 새로이 집권해야 하는 걸까요?"
 
+#Democracy
 BLR_belarussian_democracy:0 "벨라루스 민주정"
 BLR_belarussian_democracy_desc:0 "역사적 타협 끝에 마침내 벨라루스에서 민주정이 이루어졌습니다. 새 정당들에게 정치참여의 기회가 주어질 것이고 인민은 그 어느때보다도 덜 억압받는 느낌을 받겠지만, 이것이 우리 투쟁의 끝은 아닙니다. 이건 그저 시작입니다."
 BLR_parliamentary_elections:0 "의회선거"
@@ -213,6 +216,7 @@ BLR_lift_censorship_desc:0 "오늘로써 우리 저자들과 편집자들의 창
 BLR_better_belarus:0 "더 나은 벨라루스"
 BLR_better_belarus_desc:0 "우리가 말씀드리는 걸 믿기 어려우실 줄로 압니다. 사실 시작은 하찮았습니다. 하지만 대배교자, 찬탈자이자 아타만은 더 이상 정계 인물이 아니며, 이후 진행된 벨라루스의 대개변에도 반대하지 못 했습니다. 누군가는 그럴 겁니다. \"13년 동안 독재 치하에 있던 나라가 고작 1년만에 바뀐다고?\"라고요. 우리가 바로 그러한 급변의 표본입니다. 벨라루스 민주공화국은 어느 때보다도 살기에 훨씬 좋은 나라가 되었습니다. 그리고 어쩌면, 언젠간 다른 벨라루스인들도 공화국이 가는 길을 따르고자 할지도 모르죠."
 
+#Vladimir (Ruthenian Empire)
 BLR_foreign_clique:0 "외인파 음모"
 BLR_foreign_clique_desc:0 "수많은 이들이 생각치도 못했던, 벨라루스인들과 폴란드인들이 수없이 폄하하고 단언했던, 수많은 이들이 그저 말도 안 되는 일이라 단순히 말했던 그 일이 마침내 벌어지고 말았습니다. 아타만의 권력이 사라지면서, 모험가들과 외인들로 이루어진 파벌이 벨라루스 군에 둔 연줄을 통해, 위협과 전반적 반대세력의 부재를 통해 권력을 쥐게 되었습니다. 국가의 통제권은 일반 대중의 운명에 무관심한 이들의 손에 넘어갔고, 이제 그 국가에 대한 처분은, 그 간교한 목적이 무엇이든 그들의 손에 달렸습니다."
 BLR_invite_uladzimir:0 "울라지미르 키릴라비치의 민스크 초청"
@@ -234,6 +238,7 @@ BLR_finland_to_japan_desc:0 "제국으로서 주장하는 영유권에 맞추어
 BLR_ruthenia_stands:0 "루테니아 제국의 개선"
 BLR_ruthenia_stands_desc:0 "우리를 비웃었던 이들은 오늘로써 더 이상 자신들의 앞선 판단에 확신할 수 없게 되었습니다. 진정 영웅적 투쟁 끝에, 우리 황제와 그의 고문들이 루테니아 인민에게 약속했던 바, 루테니아의 운명이 실현됐습니다. \"오족기\"가 모스크바국의 읍마다 휘날리고 제국군은 발트에서 태평양까지 남은 저항세력을 격퇴하는 중입니다. 건배합시다. 루테니아 제국 만세, 만세, 만만세!"
 
+#Savinkov
 BLR_pale_horse:0 "창백한 말"
 BLR_pale_horse_desc:0 "손 담근 이 하나 없었건만 그 결과가 이제 여기 있습니다. 보리스 사빈코프, 러시아 근래사에 가장 악명 높은 테러리스트, 사회주의 혁명당의 "우익" 이념가이자 실질 지도자, 우연찮게 별동분견대에서 한직을 얻게 된 자가 이제 벨라루스 전역에 대한 통치를 선언하며 진정한 첫 사회주의 대통령에 취임했습니다. 대중은 충격에 빠졌습니다. 이미 이름난 사빈코프였으나, 자신의 진정한 모국에서 추방된 세월 동안 그의 악질은 더 퇴락했습니다. 하지만 더 이상 할 수 있는 건 없습니다. 창백한 말이 여기에 있으니, 가장 현명한 자만이 동유럽에서 무슨 일이 벌어질지 예측할 수 있을 것입니다."
 BLR_approach_terrorists:0 "테러리스트파를 향한 접근"
@@ -263,6 +268,7 @@ BLR_blame_petrograd_desc:0 "악의 근원, 목에 가시, 열정 최후의 보�
 BLR_means_to_an_end:0 "벨라루스, 끝장을 위한 수단일 뿐"
 BLR_means_to_an_end_desc:0 "벨라루스가 우리의 새 모국이라지만 막상 우리는 벨라루스의 독립과 벨라루스인의 자긍심을 지지하는 데 다소 머뭇대는 중입니다. 집중해야 할 건, 가장 거대한 자, 유럽에서 반봉건 지배자들에게 가장 억압받은 자, 러시아의 해방입니다. 그를 화염 속으로 당겨 우리 사회주의 혁명파가 다스리는 영토로 할 것입니다."
 
+#Vituška
 BLR_actions_of_vituska:0 "미할 비투쉬카의 행동"
 BLR_actions_of_vituska_desc:0 "이제 누구도 그를 무시할 수 없습니다. 모두를 능가하고 반대의 모든 시도를 짓뭉개버린 비투쉬카가 홀로 서있습니다. 도적이고 급진파로 유명한 그이지만, 그 급진주의가 극좌로 기운 건 아닙니다. 아뇨, 오히려 그는 열성을 다해 좌익을 경멸하는 극우 극단주의자입니다. 그의 행동들이 벨라루스에 잃어버린 영광과 번영을 가져올지, 아니면... 그저 그렇게 파멸해버리게 할진 두고 볼 일입니다."
 BLR_purge_old_clique:0 "구 파벌 숙청"
@@ -292,6 +298,7 @@ BLR_leave_intermarium_desc:0 "우리의 폴란드 이웃들이 슬라브 우애�
 BLR_find_allies_abroad:0 "바깥에서 동맹을 찾는다"
 BLR_find_allies_abroad_desc:0 "거짓된 동맹의 모습을 한 서슬라브의 위협은 제거했지만, 질문은 새로 일었습니다. 누가 우리의 동맹이 되어야 한단 말입니까? 가장 구미가 당기는 선택지는 (크게 다른 교리에도 두 계파가 이상할 정도로 우리와 닮아있는) 유고슬라비아의 \"기독교 자본주의자들\"과, (근대적 방식이라 해도 노르드의 정신을 회복했다는 점에서 비투쉬카가 경외하는) 스웨덴의 \"조합주의 민주주의자들\"입니다. 누가와 단합해야 할까요? 슬라브 동료들일까요, 아니면 류리크의 친척들인 바랑인들일까요?"
 
+#Bogdanov
 BLR_messiah:0 "벨라루스를 위한 구세주"
 BLR_messiah_desc:0 "벨라루스의 인민들이여 두려워 마소서, 구세가 이제 끝났음이라! 이러한 시기에 우리는 구세주를 필요로 하니, 그분께선 중년 남성, 예술가, 학교 선생이자 전직 볼셰빅이신 알략산드르 바흐다나우로서 나타나시었습니다. 일반인에게 당신 이념의 더 오컬트적 사안들을 훌륭히 설명해내신 그분의 탁월한 연설은 그분께서 공공의 지지를 얻게 하셨으며, 그 지지로써 그분께선 수도에서 추종군을 일으키시어 아타만의 실종 이후 정부를 장악하셨습니다. 이제, 개선하신 바흐다나우께선 군중에게 시공을 넘어 가속하고 자신만의 신을 만들 벨라루스의 새 영웅시대를 약속하셨습니다. 그분께 반대하는 것들은 감히 목소리도 내지 못하는 가운데, 많은 이들은 바흐다나우를 진실한 선지자라 여기며 앞으로도 그분을 따르려 합니다. 그 어떤 대가를 치르더라도."
 BLR_were_all_comrades:0 "우리 모두는 동지들"
@@ -317,6 +324,7 @@ BLR_belarussian_superiority_desc:0 "알략산드르 바흐다나우께서 말씀
 BLR_hail_to_vialiki_dzmapekl:0 "뱔리키 즈마페클, 그대를 찬미하리!"
 BLR_hail_to_vialiki_dzmapekl_desc:0 "노드는 더 이상 신성한 은총 바깥에서 방황하지 않을 것이니, 선지자 바흐다나우께서 우리에게 말씀하신 바와 같이 순환은 깨어지지 않을 것입니다. 벨라루스는 더 이상 적의 황당무계함에 매이지 않을 것이며, 그 숲과 들도 더 이상 야만스러운 무리에게 불타지 않을 것입니다. 이곳, 숲과 늪의 땅에 새 영적 순환계가, 벨라루스 인민의 의지를 길이 빛낼 진정한 선언이, 진정으로 영광스러운 시대를 위한 진정으로 경이로운 신이 창조될 것입니다."
 
+#Generic
 BLR_army_effort:0 "Army Effort"
 BLR_army_effort_desc:0 "Despite the increasing possibilities of aerial and naval warfare, ground combat is still key in tomorrow's wars. With preparation, we can avoid reliving the hell of the trenches."
 BLR_equipment_effort:0 "Equipment Effort"
@@ -408,7 +416,7 @@ BLR_air_innovation_2_desc:0 "Every advantage we can gain in the skies is preciou
 BLR_naval_air_effort:0 "Naval Air Effort"
 BLR_naval_air_effort_desc:0 "The efficacy of air strikes against naval targets was demonstrated by the Americans already back in 1921. We should not neglect this branch of the Air Force if we intend to wage war on a naval power."
 
-# EVENTS #
+#Events
 belarus.1.t:0 "벨라루스 공화국 헌법"
 belarus.1.desc:0 "스타니슬라우 불라크-발라호비치가 전제통치자긴 해도 자기 권력이 공화국이란 근원에서 왔음을 마냥 잊어버리진 않았습니다. 공화국 대통령이자 아타만으로서 불라크-발라호비치는 벨라루스의 헌법에 대한 논의를 위해, 육군, 공군, 첩보부, 내각 각료들과 함께 심지어는 일부 공식 야당 정치인들까지 소환했습니다. 헌법은 서명만 하면 되기는커녕 인쇄된 문서로조차 완성되지 않은 상태로, 그저 제때 승인받지 못한 몇몇 초안들만 있을 뿐이었습니다. 몇 시간의 토론 후, 시계를 쳐다본 우리의 아타만은 말했습니다..."
 belarus.1.a:0 "있잖나... 이건 나중에 해결하도록 함세."
@@ -538,47 +546,55 @@ belarus.29.t:0 "폴란드가 거부하다"
 belarus.29.desc:0 "폴란드가 꽤 거친 언조로 비아위스토크 지역 및 도시에 대한 우리의 요청을 거부했습니다. 힘으로 도시를 빼앗든지, 팽창을 위한 다른 수를 찾아야 할 듯합니다..."
 belarus.29.a:0 "이딴 일로 피를 흘릴 건 없다."
 belarus.29.b:0 "후회하게 될 것이다."
-#############################################################################
-# I N T E R N A T I O N A L  F U T U R I S T  C H E S S  T O U R N A M E N T#
-#############################################################################
+
 belarus.31.t:0 "국제 미래주의 체스 토너먼트?"
 belarus.31.desc:0 "알략산드르 바흐다나우는 언제나 체스를 좋아했습니다. 과거 레닌과 같은 사람들과 체스를 두기도 했던 바흐다나우는 체스의 산술성에 이끌렸습니다. 여러 미래주의자, 촉진주의자, 기술관료주의자들이 어우러져 진기한 체스 플레이를 선보일 잠재성을 지닌 국제 체스 대회에 대한 생각이 그의 머릿속을 채우기 시작했습니다. 바흐다나우는 방 안에 앉아 체스 선수들을 위한 이 경이로운 토너먼트와 회담의 개최지를 고민했습니다. 그렇게 그의 뇌리를 스친 도시는..."
 belarus.31.a:0 "민스크, 우리의 수도이자 가장 도시화된 도시!"
 belarus.31.b:0 "볘라스쳬 리토우스키, 문화적인 우리의 '국경 도시들' 중 하나!"
 belarus.31.c:0 "마힐료우, 역사가 가득한 도시!"
+
 belarus.32.t:0 "민스크"
 belarus.32.desc:0 "바흐다나우는 현명하게 가장 도시화된 도시이자 벨라루스 미래의 가장 위대한 예범인 민스크를 국제 미래주의 체스 토너먼트(IFCT)의 개최지로 선정했습니다. 이는 알략산드르 바흐다나우 자신의 선택에 따른 것이었습니다. 대회는 1930년에 세워졌다 근래에 개편된 민스크 대학 내 식물정원에서 열릴 것입니다."
 belarus.32.a:0 "벨라루스 만세! 모두에게 초청장을 보내자."
+
 belarus.33.t:0 "볘라스쳬 리토우스키"
 belarus.33.desc:0 "바흐다나우는 개최 도시로서 현명하게, 지난 몇 년간 벨라루스 민족이 겪은 진보를 놀랍도록 대변해줄 위대한 문화와 역사로 가득한 볘라스쳬 리토우스키를 택했습니다. 현지 체스 협회는 바흐다나우에게서 볘라스쳬 요새에서 토너먼트를 개최하도록 준비해달란 요청을 받았습니다."
 belarus.33.a:0 "벨라루스 만세! 모두에게 초청장을 보내자."
+
 belarus.34.t:0 "마힐료우"
 belarus.34.desc:0 "IFCT의 개최지로, 벨라루스의 긍지와 연관된 위대한 역사를 품은 마힐료우가 선정됐습니다. 이에 따라 민스크 체스 기구는 현지 시청에서 토너먼트를 개최하기로 결정했습니다."
 belarus.34.a:0 "벨라루스 만세! 모두에게 초청장을 보내자."
+
 belarus.35.t:0 "IFCT 1일차 - 채비"
 belarus.35.desc:0 "사고의 놀이이자 미래와 함께 변해갈 체스 대회에 참가하려 전 세계에서 몰려든 선수단을 위해, 벨라루스는 함께 어울리고 즐기고 이야기를 나누며, 활동으로 가득할 짜릿한 장소들을 마련한 뒤 자국 선수단을 보냈습니다. 토너먼트에 참여한 사람들은 바르쉬츠나 자신들의 나라에서 가져온 음식을 준비하는 것으로 하루를 시작했습니다."
 belarus.35.a:0 "즐거운 경기였어!"
+
 belarus.36.t:0 "IFCT 2일차 - 총알 체스"
 belarus.36.desc:0 "맛있는 폐로기를 즐기며 담화를 나누고 긴장을 풀던 첫날이 지나고, 첫 번째 경기일이 다가왔습니다. 겉보기엔 일반적인 체스 경기와 다르지 않은 듯했지만, 여러 조각가들이 손수 만든 속도와 즉각성을 표현한 추상화된 말들에 더해 눈에 띄는 건 추가된 한 가지 규칙이었습니다. 말을 움직일 수 있는 시간이 최대 10초뿐이었던 것입니다! 프랑스의 미래주의자 베누아 들라크루아는 이 종목에 통달해서, 피우메와 폴란드의 체스 선수들을 상대로 전설적인 체크메이트를 연출해내며 금상을 받었습니다."
 belarus.36.a:0 "빠른 세상을 위한 빠른 체스!"
+
 belarus.37.t:0 "IFCT 3일차 - 3인 체스"
 belarus.37.desc:0 "국제 미래주의 체스 토너먼트에 구현된 가장 새로운 발상은, 사각형 대신 육각형 등의 다양한 모양의 체스판에서 세 명의 선수들이 경기를 진행하는 3인 체스로, 그 이름만 들어도 알 수 있듯 그 진행이 훨씬 복잡하고 어려워 환각적인 느낌마저 주고 있습니다. 프랑스 선수와 캅카스 선수가 혼란에 빠진 사이 조반니 첸니는 재빨리 둘을 꺾으려 들었습니다. 캅카스 선수는 프랑스 선수를 상대로 승리를 거둔 한편, 조반니 첸니는 캅카스 선수를 꺾는 데 성공했습니다."
 belarus.37.a:0 "아주 재밌군."
+
 belarus.38.t:0 "IFCT 4일차 - 체스 복싱"
 belarus.38.desc:0 "현지에 날이 밝자, 프랑스와 피우메 출신의 여러 복서들이 정신과 육체 모두에 힘을 갖추고서 모여들었습니다. 오늘의 변칙은 뇌에만 힘을 실은 비실이 체스 선수들이 아니라 우람하고 강한 전사시인들이 경기에 참여해야 한다는 점으로, 상대를 공격하거나 막아내는 동시에 재빨리 자신이 원하는 움직임을 판 위에 그려내고자 속행하도록 되어있었습니다. 지식인들과 전사들은 한 쪽이 체크메이트나 넉아웃을 당할 때까지 싸울 것이었습니다. 피우메의 전사이자 체스 마스터인 마테오 글라디그 타완티수유우에서 온 무적의 체스 마스터 에스테반 카날과 주먹으로 치열한 접전을 벌였습니다. 복부에 치명타를 맞은 카날은, 글라디그의 주먹으로 인한 통증에도 끝내 체크메이트를 이끌어냈습니다. 용맹한 선수가 정신력으로 적을 무찌르는 데 성공한 것입니다."
 belarus.38.a:0 "정신과 근육의 투쟁이라."
+
 belarus.39.t:0 "IFCT 5일차 - 결말"
 belarus.39.desc:0 "닷새에 걸친 즐거운 어울림 끝에, 벨라루스에 온 모든 색깔의 미래주의자들, 촉진주의자들, 기술관료주의자들은 체스에 관한 새로운 관점과 체스에 대한 전반적 생각의 새 방식들을 경험했습니다. 이 다섯째 날에, 전 세계에서 모인 사람들은 음식과 음료를 가져와 잔치를 즐기거나, 쉬거나, 그림을 그리거나, 화롯가에 앉아 수다를 떨었습니다. 흥분으로 가득했던 나날이 지나고, 이제 모두에겐 집에 갈 시간이 다가왔습니다."
 belarus.39.a:0 "잘가시오 친우들!"
-belarus.400.t:0 "초대"
-belarus.400.desc:0 "동료 촉진주의 국가인 벨라루스가, 각국의 사절들이 모여들고 흥미롭고도 진기한 체스 플레이 방식을 볼 수 있을 장이 될 국제 미래주의 체스 토너먼트로 우리를 초대하고자 합니다. 벨라루스 외교관의 초청은 (넓은 의미에선) 우리도 촉진주의 운동에 든 국가 중 하나이기에 이루어진 것으로, 현지 체스 협회의 결정에 따르면 참가국이 사절을 반드시 보낼 필요는 없습니다."
-belarus.400.a:0 "물론 사절단을 보내야지."
-belarus.400.b:0 "아니, 사양하지."
+
 belarus.41.t:0 "1936년 벨라루스의 정세"
 belarus.41.desc:0 "벨라루스 민주공화국은 1921년에 선포돼 1923년 주권 정치체로서 인정받았습니다. 건국 때부터 끊임없이 러시아의 위협을 받아온 벨라루스는, 대표기관인 의회에서 군사독재자 스타니슬라우 불라크-발라호비치에게 긴급권한을 위임한 이래 지금까지 그의 철권 아래서 통치받는 중입니다. 하지만 모두가 그의 전제적 통치에 만족하진 않았고, 일부는 그 감정을 숨기지도 않았습니다. \n\n현재 이 땅엔 BSH와 BNP라는, 진정한 민주정 설립을 목적으로 하는 두 정당들이 있습니다. 제3당은 공공담론에선 거의 언급이 없지만, 벨라루스의 첩보부격인 별동분견대에 잠입에 성공하고 호전적 사회주의자 보리스 사빈코프가 이끄는 PSR입니다. 하지만 조직에 대한 사빈코프의 권한이 절대적이진 않았으니, 이에 첩보부 내에선 기묘하게도 제츠포스폴리타 이전의 시대로 되돌아가려는 반동적 NNP가 흑묘라는 이름의 또 다른 파벌을 형성했습니다. \n\n벽촌 저택의 그림자 속에서 계략을 꾸미는 간악한 외세 파벌도, 볼셰비키라는 과거를 지닌 어느 학교교사도 이 광인들을 무시할 순 없습니다. 모두는 집권을 위해 분투할 것이고, 목적을 이루기 위해 무슨 수든 가리지 않을 것입니다."
 belarus.41.a:0 "흥, 정치란."
 
-# MISC
+belarus.400.t:0 "초대"
+belarus.400.desc:0 "동료 촉진주의 국가인 벨라루스가, 각국의 사절들이 모여들고 흥미롭고도 진기한 체스 플레이 방식을 볼 수 있을 장이 될 국제 미래주의 체스 토너먼트로 우리를 초대하고자 합니다. 벨라루스 외교관의 초청은 (넓은 의미에선) 우리도 촉진주의 운동에 든 국가 중 하나이기에 이루어진 것으로, 현지 체스 협회의 결정에 따르면 참가국이 사절을 반드시 보낼 필요는 없습니다."
+belarus.400.a:0 "물론 사절단을 보내야지."
+belarus.400.b:0 "아니, 사양하지."
+
+#Miscellaneous
 BLR_DEMOCRACY_TOOLTIP:0 "사회민주정의 인기도 조정: §G30.00%§! \n자유주의 인기도 조정: §G20.00%§! \n보수주의 인기도 조정: §G40.00%§!"
 BLR_stilldictatorship:0 "발라호비치의 독재가 계속됩니다"
 BLR_whatnow:0 "발라호비치의 독재가 끝장납니다"
