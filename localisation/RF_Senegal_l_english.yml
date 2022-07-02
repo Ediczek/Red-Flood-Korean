@@ -1,5 +1,8 @@
 ﻿l_english:
 #COUNTRY NAME#
+SEN_accelerationism:0 "Fédération du Soudan"
+SEN_accelerationism_DEF:0 "la Fédération du Soudan"
+SEN_accelerationism_ADJ:0 "Soudanais"
 SEN_WAF_vanguard_socialism:0 "서아프리카 사회주의 공화국"
 SEN_WAF_vanguard_socialism_DEF:0 "서아프리카 연방"
 SEN_WAF_vanguard_socialism_ADJ:0 "서아프리카"
@@ -55,8 +58,8 @@ SEN_despotism_party:0 "전제주의파"
 SEN_despotism_party_long:0 "전제주의파"
 SEN_reactionism_party:0 "UDM"
 SEN_reactionism_party_long:0 "모함메드 연합"
-SEN_accelerationism_party:0 "PNAGS (S)"
-SEN_accelerationism_party_long:0 "아방가르드 초현실주의 민족당 (세네갈)"
+SEN_accelerationism_party:0 "LUDRN"
+SEN_accelerationism_party_long:0 "Ligue pour la Défense Universelle de la Race Noire"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
