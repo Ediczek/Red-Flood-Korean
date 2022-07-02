@@ -22,16 +22,16 @@ PNJ_progressivism_party:0 "INC - S"
 PNJ_liberalism_party:0 "AML"
 PNJ_conservatism_party:0 "UP"
 PNJ_right_authoritarianism_party:0 "SAD"
-PNJ_despotism_party:0 "NVO (RSS) Constitutionalists"
-PNJ_reactionism_party:0 "NVO (RSS) Radicals"
+PNJ_despotism_party:0 "NVO (RSS) 입헌주의파"
+PNJ_reactionism_party:0 "NVO (RSS) 급진파"
 PNJ_accelerationism_party:0 "AIR"
 #LEADER DESCRITIONS#
 POLITICS_Sikandar_Hayat_Khan_DESC:0 "시칸다르 하야트 한 경은 전직 총독으로, 현재는 펀자브의 작은 시크 민주국가의 총리입니다. 시칸다르는 대전쟁 뿐만 아니라 과거 3차 영국-아프간 전쟁에서도 영국령 인도군으로 참전한 바 있었습니다. 이후 사업에 뛰어든 그는 여러 회사에서 중책을 맡았으며, 펀자브에서 영국의 영향력이 소멸한 이후엔 인도 아대륙의 독립 시크 국가를 회복하고 나라의 정치적 요직을 차지하는, 본인에게 걸맞는 처우를 얻어냈습니다. 연합주의당의 당수로서, 시칸다르는 자신이 수립한, 대륙에서 친구가 얼마 없는 대영제국과의 우호 관계를 유지하고 싶어 합니다. 하지만 그의 주 목적은 독립 시크 국가를 존속시키는 것이고, 이를 위해서라면 자신의 위치에서 무엇이든 할 것입니다."
 POLITICS_Tara_Singh_DESC:0 "타라 싱, 시크 민족주의 최고 아칼리당의 지도자인 그가 이제 신생 할리스탄 공화국의 대통령이 되었습니다. 영국령 인도의 몰락 당시 싱이 이끌던 SAD는 연합당 정부를 상대로 한 정변으로써 무슬림 다수의 국가에 대한 통제권을 잡고 무슬림 인구의 반란을 막고자 강력하고 권위주의적인 통치를 시행했습니다."
 
 #IDEAS#
-PNJ_autoritarian_minority_rule:0 "Powerful Sikh Minority"
-PNJ_elite_sikh_army:0 "Elite Sikh Troops"
+PNJ_autoritarian_minority_rule:0 "강력한 시크 소수민"
+PNJ_elite_sikh_army:0 "정예 시크 부대"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
