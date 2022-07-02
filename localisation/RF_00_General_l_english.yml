@@ -16,6 +16,8 @@ SETTING_SUN_DESC:0 "국민당 동맹의 붕괴 이래 아시아는 혼란과 충
 OTHER_THE_RISING_FLOOD_DESC:0 "20세기의 혼돈 속에 수많은 국가들이 경제 및 이념적 재앙에서 살아남으려 하고 있습니다. 몇몇은 다가올 분쟁에서 편을 고를 것이며, 다른 이들은 각자의 길을 택할 것입니다."
 OTHER_THE_SETTING_SUN_DESC:0 "20세기의 혼돈 속에 수많은 국가들이 경제 및 이념적 재앙에서 살아남으려 하고 있습니다. 몇몇은 다가올 분쟁에서 편을 고를 것이며, 다른 이들은 각자의 길을 택할 것입니다."
 
+RF_VERSION:0 "Red Flood ver. 0.3.6"
+
 RF_is_socialist:0 "사회주의 정부가 집권 중입니다"
 RF_is_democratic:0 "민주정부가 집권 중입니다"
 RF_is_dictatorship:0 "비사회주의 독재정부가 집권 중입니다"
@@ -662,8 +664,175 @@ generic_liberty_research_idea_desc:0 "We are paying modest but still relatively 
 generic_welfare_idea:0 "복지구안"
 generic_welfare_idea_desc:0 "We are ensuring that the poorest in our society receive the help they need to survive, so that they do not have to fend for themselves and may work for our economy one day."
 
+#anarchism
+
+generic_held_rally_anarchist:0 "Anarchist Debates"
+generic_held_rally_anarchist_desc:0 ""
+
+generic_conference_anarchism:0 "Militia Elections"
+generic_conference_anarchism_desc:0 ""
+
+generic_appeal_anarchism:0 "Community Works"
+generic_appeal_anarchism_desc:0 ""
+
+#vansoc
+
+generic_held_rally_vanguard_socialism:0 "Central Committee Congress"
+generic_held_rally_vanguard_socialism_desc:0 ""
+
+generic_conference_vanguard_socialism:0 "Party Conference"
+generic_conference_vanguard_socialism_desc:0 ""
+
+generic_appeal_vanguard_socialism:0 "Revolutionary Parade"
+generic_appeal_vanguard_socialism_desc:0 ""
+
+#popsoc
+
+generic_held_rally_popular_socialism:0 "Representative Recall"
+generic_held_rally_popular_socialism_desc:0 ""
+
+generic_conference_popular_socialism:0 "Council Session"
+generic_conference_popular_socialism_desc:0 ""
+
+generic_appeal_popular_socialism:0 "Soldier Concessions"
+generic_appeal_popular_socialism_desc:0 ""
+
+#revsoc
+
+generic_held_rally_revisionist_socialism:0 "Reconciliation"
+generic_held_rally_revisionist_socialism_desc:0 ""
+
+generic_conference_revisionist_socialism:0 "Expanded Membership"
+generic_conference_revisionist_socialism_desc:0 ""
+
+generic_appeal_revisionist_socialism:0 "Workers' Rights Protected"
+generic_appeal_revisionist_socialism_desc:0 ""
+
+#prog
+
+generic_held_rally_progressivism:0 "Special Commissions"
+generic_held_rally_progressivism_desc:0 ""
+
+generic_conference_progressivism:0 "Party Survey"
+generic_conference_progressivism_desc:0 ""
+
+generic_appeal_progressivism:0 "Trade Union Co-operation"
+generic_appeal_progressivism_desc:0 ""
+
+#lib
+
+generic_held_rally_liberalism:0 "Industrial Protections"
+generic_held_rally_liberalism_desc:0 ""
+
+generic_conference_liberalism:0 "Political Favours"
+generic_conference_liberalism_desc:0 ""
+
+generic_appeal_liberalism:0 "Stockpiling Materials"
+generic_appeal_liberalism_desc:0 ""
+
+#con
+
+generic_held_rally_conservatism:0 "New Austerity Measures"
+generic_held_rally_conservatism_desc:0 ""
+
+generic_conference_conservatism:0 "Party Politicking"
+generic_conference_conservatism_desc:0 ""
+
+generic_appeal_conservatism:0 "Patriot's Call"
+generic_appeal_conservatism_desc:0 ""
+
+#rauth
+
+generic_held_rally_right_authoritarianism:0 "Dissidents Arrested"
+generic_held_rally_right_authoritarianism_desc:0 ""
+
+generic_conference_right_authoritarianism:0 "Friends in High Places"
+generic_conference_right_authoritarianism_desc:0 ""
+
+generic_appeal_right_authoritarianism:0 "Military Glorification"
+generic_appeal_right_authoritarianism_desc:0 ""
+
+#despot
+
+generic_held_rally_despotism:0 "Words of Our Leader"
+generic_held_rally_despotism_desc:0 ""
+
+generic_conference_despotism:0 "Rivals Up-rooted"
+generic_conference_despotism_desc:0 ""
+
+generic_appeal_despotism:0 "National Rallies"
+generic_appeal_despotism_desc:0 ""
+
+#reactionism
+
+generic_held_rally_reactionism:0 "Monuments of Old"
+generic_held_rally_reactionism_desc:0 ""
+
+generic_conference_reactionism:0 "Wise Old Words"
+generic_conference_reactionism_desc:0 ""
+
+generic_appeal_reactionism:0 "Military Reaction"
+generic_appeal_reactionism_desc:0 ""
+
+#accel
+
+generic_held_rally_accelerationism:0 "Technological Showcase"
+generic_held_rally_accelerationism_desc:0 ""
+
+generic_conference_accelerationism:0 "Political Orthodoxy"
+generic_conference_accelerationism_desc:0 ""
+
+generic_appeal_accelerationism:0 "The March of Progress"
+generic_appeal_accelerationism_desc:0 ""
+
+### peacetime
+
+generic_develop_civ_industry_idea:0 "Develop Civilian Industries"
+generic_develop_civ_industry_idea_desc:0 ""
+
+generic_appeal_to_neighbours_idea:0 "Appeal to Neighbours"
+generic_appeal_to_neighbours_idea_desc:0 ""
+
+generic_build_up_surplus_idea:0 "Build up a Surplus"
+generic_build_up_surplus_idea_desc:0 ""
+
+generic_neutral_posture_idea:0 "Neutral Posturing"
+generic_neutral_posture_idea_desc:0 ""
+
+generic_army_training_programmes_idea:0 "Army Training Programmes"
+generic_army_training_programmes_idea_desc:0 ""
+
+generic_air_training_programmes_idea:0 "Air Training Programmes"
+generic_air_training_programmes_idea_desc:0 ""
+
+generic_navy_training_programmes_idea:0 "Navy Training Programmes"
+generic_navy_training_programmes_idea_desc:0 ""
+
+###
+
+### wartime
+
+generic_emergency_production_idea:0 "Emergency Production"
+generic_emergency_production_idea_desc:0 ""
+
+generic_increased_war_effort_idea:0 "Increased War Effort"
+generic_increased_war_effort_idea_desc:0 ""
+
+###
+
 black_monday:0 "검은 월요일"
 
 independent_war:0 "독립전쟁"
 independent_war_desc:0 "이 나라 현재 독립전쟁 중입니다. 타국이 전쟁에 직접 개입하길 바라지 않을 것입니다."
 
+MAPMODE_CORE_MAP_MODE_NAME:0 "Cores and Claims"
+MAPMODE_CORE_MAP_MODE:0 "Cores and Claims"
+core_map_mode_tooltip:0 "[From.GetCoreMapModeTooltip]"
+core_map_mode_tooltip_delayed:0 "[From.GetCoreMapModeTooltipDelayed]"
+
+core_map_mode_tt_core:0 "§Y[From.GetName]§! is our core state."
+core_map_mode_tt_owned:0 "§Y[From.GetName]§! is a non-core state of us."
+core_map_mode_tt_claimed_owned:0 "§Y[From.GetName]§! is our claim, which we own."
+core_map_mode_tt_claimed:0 "§Y[From.GetName]§! is our claim."
+
+core_map_mode_tt_occupied_info:0 "§Y[From.GetName]§! is originally owned by §R[From.Owner.GetNameWithFlag]§!."
