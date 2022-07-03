@@ -19,11 +19,11 @@ RF_owned_and_controlled_by_ROOT_or_ally:0 "is owned and controlled by §Y[Root.G
 RF_owned_and_controlled_by_ROOT_or_ally_NOT:0 "is §Rnot§! owned and controlled by §Y[Root.GetNameDef]§! or an ally"
 
 ### Events and Decisions ###
-annexation_start:0 "Post-Annexation Release Events?"
-annex.event.t:0 "Post-Annexation Release Events?"
-annex.event.d:0 "Post-Annexation Release events have been tenuously added to RedFlood, unfortunately due to the shear number of countries and their related release events, many bugs are bound to surface.\nAs such this feature has been disabled by default, but if you want to turn it on be aware that it is §RHIGHLY EXPERIMENTAL§!,. And of course we appreciate any and all feedback on this feature to ensure a bugfree smoother feature."
+annexation_start:0 "Turn On Post-Annexation Release Decisions/Events?"
+annex.event.t:0 "Turn On Post-Annexation Release Decisions/Events?"
+annex.event.d:0 "These decisions/events allow the player to release tags after annexing them, some countries have special release effects such as unique cosmetic tags or leaders.\nThe Post-Annexation Release decisions/events have been tenuously added to RedFlood. Unfortunately due to the shear number of countries and their related release events, many bugs are bound to surface.\nAs such this feature has been disabled by default, it will work fine in majority cases but if do turn it on be aware that it is experimental. And of course we appreciate any and all feedback on this feature to ensure a bugfree smoother feature."
 annex.event.a:0 "Leave them turned off."
-annex.event.b:0 "§RSTART RELEASE EVENTS§!"
+annex.event.b:0 "§RSTART RELEASE DECISIONS/EVENTS§!"
 
 annexation_decisions:0 "Release Decisions"
 annexation_decisions_desc:0 "Having gained control of new swaths of land we must now work out what to do with it. Occupation can be expensive and destabilizing but it would give us direct access to the riches of this new land. On the other hand, creating a puppet nation would certainly be cheaper, however, our new subjects may not be as reliable as we might think. Either way, the fate of nations rests in our hands."
@@ -127,7 +127,7 @@ annex.11.e:0 "Grant allies their land, give the rest to [NGF.GetNameDef]"
 annex.11.f:0 "Release a puppet in western Prussia, decide the rest later"
 annex.11.g:0 "Give western Prussia to [NGF.GetNameDef], decide the rest later"
 
-annexation_CZE_CONQ:0 "체코슬로바키아의 운명"
+annexation_CZE_CONQ:0 "체코의 운명"
 annexation_CZE_CONQ_desc:0 "The land of Czechia have been conquered by our victorious forces. The venerable gem of the Moldau, Prague, is occupied by our troops who parade smartly across the Wenceslas Square. Should we prop up a Czech government loyal to the designs of our own state?"
 annex.12.a:0 "Liberate the Czech Republic!"
 annex.12.b:0 "Liberate the Bohemian-Moravian Protectorate!"
@@ -178,7 +178,7 @@ annex.18.c:0 "Give them to [YUG.GetNameDef]"
 
 annexation_SPR_CONQ:0 "에스파냐의 운명"
 annexation_SPR_CONQ_desc:0 "In the aftermath of the recent conflicts, we ended up controlling a number of territories that once belonged to the Spanish state. What should we do about them now?"
-annex.19.a:0 "Hand them over to our Catholic brothers, the Carlists."
+annex.19.a:0 "Liberate a loyal Spain."
 annex.19.b:0 "Restore control to the Bourbons."
 annex.19.c:0 "Restore control to the CNT-FAI."
 annex.19.e:0 "독립 에스파냐 공화국을 수립한다."
@@ -483,7 +483,7 @@ annex.187.a:0 "Give it to [HUN.GetNameDef]"
 annex.187.b:0 "Give it to [SER.GetNameDef]"
 annex.187.c:0 "Give it to [YUG.GetNameDef]"
 
-annexation_VOJVODINA_CONQ:0 "Fate of Vojvodina"
+annexation_VOJVODINA_CONQ:0 "보이보디나의 운명"
 annexation_VOJVODINA_CONQ_desc:0 "The small region of Vojvodina is now under our control, we must decide what to do with it."
 annex.188.a:0 "Give it to our allies in [CRO.GetNameDef]"
 annex.188.b:0 "Give it to our allies in [SER.GetNameDef]"
@@ -497,13 +497,13 @@ annex.00.g:0 "Split it with our [CRO.GetAdjective] allies."
 annex.00.h:0 "Split it with our [HUN.GetAdjective] allies."
 annex.00.i:0 "Split it with our [82.owner.GetAdjective] allies."
 
-annexation_SLV_CONQ:0 "The Fate of Slovenia"
+annexation_SLV_CONQ:0 "슬로베니아의 운명"
 annexation_SLV_CONQ_desc:0 "Our troops have occupied the small region of Slovenia, and we must decide what to do with it."
 annex.189.a:0 "We must liberate them."
 annex.189.b:0 "Return the Slovene lands to Austria."
 annex.189.c:0 "Transfer it to our [YUG.GetAdjective] allies."
 
-annexation_SER_CONQ:0 "The Fate of Serbia"
+annexation_SER_CONQ:0 "세르비아의 운명"
 annexation_SER_CONQ_desc:0 "The Serbian State has been effectively eliminated and their army has completely capitulated to our forces. With our troops now parading in Belgrade, the time has come to decide what we must do with these lands."
 annex.190.a:0 "We must liberate them"
 annex.190.b:0 "Liberate Yugoslavia!"
@@ -522,12 +522,17 @@ annex.192.b:0 "Give Iceland to [DEN.GetNameDef]"
 annex.192.c:0 "Give Iceland to our Norwegian ally"
 annex.192.e:0 "Give Iceland to [SWE.GetNameDef]"
 
-annexation_BOS_CONQ:0 "The Fate of Bosnia"
+annexation_BOS_CONQ:0 "The Fate of 보스니아"
 annexation_BOS_CONQ_desc:0 "The divided state of Bosnia is now under our occupation after our invasion of its territory. Our troops are parading in Sarajevo and we must decide what to do with it."
 annex.194.a:0 "We must liberate them."
 annex.194.b:0 "Give it to [YUG.GetNameDef]"
 annex.194.c:0 "Give it to [CRO.GetNameDef]"
 annex.194.d:0 "Give it to [SER.GetNameDef]"
+
+annexation_BRT_CONQ:0 "The Fate of Brittany"
+annexation_BRT_CONQ_desc:0 "The peninsula of Brittany is now under our occupation after our invasion of its territory. Our troops are parading in Nantes and we must decide what to do with it."
+annex.199.a:0 "We must liberate them."
+annex.199.b:0 "Give it to [FRA.GetNameDef]"
 
 
 
@@ -667,6 +672,8 @@ annexation_JAP_CONQ_desc:0 "After our successful campaign on the Japanese island
 annex.13.a:0 "Create a Japanese puppet."
 annex.13.b:0 ""
 
+
+
 annexation_BYJ_CONQ:0 "The Fate of the Beiyang Government"
 annexation_BYJ_CONQ_desc:0 ""
 annexation_CHI_CONQ:0 "The Fate of China"
@@ -677,6 +684,10 @@ annexation_CHI_CONQ_desc:0 "After a long and hard-fought campaign in the vast ex
 annexation_NOR_CHI_CONQ_desc:0 "After a long and hard-fought campaign in the vast expanses of China we've finally achieved a historic victory. Now that we've won the war, we must decide how to best secure the peace. How should we go about managing the Chinese lands we've conquered?"
 annexation_EAS_CHI_CONQ_desc:0 "After a long and hard-fought campaign in the vast expanses of China we've finally achieved a historic victory. Now that we've won the war, we must decide how to best secure the peace. How should we go about managing the Chinese lands we've conquered?"
 annexation_SOU_CHI_CONQ_desc:0 "After a long and hard-fought campaign in the vast expanses of China we've finally achieved a historic victory. Now that we've won the war, we must decide how to best secure the peace. How should we go about managing the Chinese lands we've conquered?"
+annex.14.a:0 "Liberate Beijing"
+annex.14.jap:0 "Establish the Pekin Government"
+annex.14.c:0 "Liberate Taiyuan"
+
 annex.00.a:0 "Empower the Left Kuomintang!"
 annex.00.b:0 "Restore the Fengtian Government!"
 annex.00.c:0 "Take the coastline and restore the Fengtian Government!"
@@ -689,6 +700,10 @@ annex.00.j:0 "Release the Beiyang Republic!"
 annex.00.k:0 "Release the Reorganized Government of China!"
 annex.00.l:0 "Annex the coastline and Release the Reorganized Government of China!"
 annex.00.m:0 "Give it to our [china_ally_target.GetAdjective] allies!"
+
+
+
+
 
 annexation_MO2_CONQ:0 "The Fate of Transbaikal"
 annexation_MO2_CONQ_desc:0 "[MO2.GetNameDef] has fallen to our forces, we now control the transbaikal region and must now decide what we should do with it."
@@ -875,23 +890,23 @@ annexation_KYR_CONQ:0 "The Fate of Kyrgyzstan"
 annexation_KYR_CONQ_desc:0 "Kyrgyzstan has been brought under our control as our troops occupy the region. We must now decide what to do with it."
 annex.00.a:0 "Establish an independent Kyrgyzstan!"
 
-annexation_ALO_CONQ:0 "The Fate of Kazakhstan"
+annexation_ALO_CONQ:0 "카자흐스탄의 운명"
 annexation_ALO_CONQ_desc:0 "Kazakhstan has been brought under our control as our troops occupy the region. We must now decide what to do with it."
 annex.00.a:0 "Restore an independent Kazakhstan!"
 annex.00.b:0 "Break off Kyrgyzstan and restore Kazakhstan."
 annex.00.c:0 "Reintegrate the Kazakh lands."
 
-annexation_TKM_CONQ:0 "The Fate of Turkmenistan"
+annexation_TKM_CONQ:0 "튀르크메니스탄의 운명"
 annexation_TKM_CONQ_desc:0 "Turkmenistan has been brought under our control as our troops occupy the region. We must now decide what to do with it."
 annex.00.a:0 "Establish an independent Turkmenistan!"
 
-annexation_INS_CONQ:0 "The Fate of Indonesia"
+annexation_INS_CONQ:0 "인도네시아의 운명"
 annexation_INS_CONQ_desc:0 "Our armies have managed to take control of Indonesia, and the islands themselves are now occupied by us. We have a few options now. We can either puppet the island or take it for ourselves, seeing as it possesses a key position in South East Asia and has many strategically valuable resources. What shall we do?"
 annex.00.a:0 "Liberate Insulindia."
 annex.00.b:0 "Give it to our Dutch Friends."
 annex.00.c:0 "Transfer it to German East Asia."
 
-annexation_INC_CONQ:0 "The Fate of Indochina"
+annexation_INC_CONQ:0 "인도차이나의 운명"
 annexation_INC_CONQ_desc:0 "We are now in control of the wild regions of Indochina and we have to decide what to do with all of these different peoples."
 annex.00.a:0 "Liberate an Indochinese puppet government"
 annex.00.b:0 "We'll decide what to do with the regions individually"
@@ -899,28 +914,28 @@ annex.00.c:0 "Transfer it to [GEA.GetNameDef]"
 
 ###########
 ### Oceania ###
-annexation_AST_CONQ:0 "The Fate of Australia"
+annexation_AST_CONQ:0 "오스트레일리아의 운명"
 annexation_AST_CONQ_desc:0 "After a hard campaign throughout the isolated islands of Australia our armies finally reached Canberra and with the capitulation of Australia we must decide how we want to manage it."
 annex.78.a:0 "Liberate an independent Australia."
 annex.78.b:0 "Give it to Westralia."
 
-annexation_WAS_CONQ:0 "The Fate of Westralia"
+annexation_WAS_CONQ:0 "웨스트레일리아의 운명"
 annexation_WAS_CONQ_desc:0 "The Westralian government has been defeated and is currently under our control. The question before us is whether to restore its independence, or hand it over to the Australian Government."
 annex.79.a:0 "Liberate an independent Westralia."
 annex.79.b:0 "Give it to Australia."
 
-annexation_NZL_CONQ:0 "The Fate of New Zealand"
+annexation_NZL_CONQ:0 "뉴 질랜드의 운명"
 annexation_NZL_CONQ_desc:0 "The islands of New Zealand have been brought under our control as our troops occupy the region. We must now decide what to do with it."
 annex.80.a:0 "Release New Zealand"
 annex.80.b:0 "Give it to our [AST.GetAdjective] allies"
 
-annexation_PNG_CONQ:0 "The Fate of Papua New Guinea"
+annexation_PNG_CONQ:0 "파푸아 뉴 기니의 운명"
 annexation_PNG_CONQ_desc:0 "Papua New Guinea has been brought under our leadership and our troops occupy the island. We must now decide what to do with it."
 annex.00.a:0 "Release Papua New Guinea as a puppet"
 annex.00.b:0 "Give it to [AST.GetNameDef]"
 annex.00.c:0 "Give it to [INS.GetNameDef]"
 
-annexation_SAR_CONQ:0 "The Fate of Sarawak"
+annexation_SAR_CONQ:0 "사라왁의 운명"
 annexation_SAR_CONQ_desc:0 "Northern Borneo has been brought under our control as our troops occupy the region. We must now decide what to do with it."
 annex.00.a:0 "Release Sarawak as a puppet"
 annex.00.b:0 "Give it to [MAL.GetNameDef]"
@@ -933,25 +948,25 @@ annex.00.c:0 "Give it to our Burmese ally"
 
 #############
 ### Middle East ###
-annexation_SAU_CONQ:0 "The Fate of Arabia"
+annexation_SAU_CONQ:0 "아라비아의 운명"
 annexation_SAU_CONQ_desc:0 "After a long fight with the Arabs, we have launched a full offensive and forced the Arabian Army to surrender. The fate of the arabs in this land is now in our hands!"
 annex.81.b:0 "Liberate a loyal Arabia."
 annex.81.c:0 "Give it to our Arabian allies."
 
-annexation_ARM_CONQ:0 "The Fate of Armenia"
+annexation_ARM_CONQ:0 "아르메니아의 운명"
 annexation_ARM_CONQ_desc:0 "After fierce fighting in the Caucasus, we have conquered and annexed Armenia. The Armenian army has surrendered, and the territory is under our control, but the people are still resistant but soon they will submit."
 annex.82.a:0 "Liberate Armenia!"
 annex.82.b:0 "Reintegrate the Armenian lands."
 annex.82.c:0 "Give it to our Russian allies."
 
-annexation_AZR_CONQ:0 "The Fate of Azerbaijan"
+annexation_AZR_CONQ:0 "아제르바이잔의 운명"
 annexation_AZR_CONQ_desc:0 "After fierce fighting in the Caucasus, we have conquered and annexed Azerbaijan. The Azeri army has surrendered, and their territory is under our control, but the people are still resistant. What should we do with our newly conquered lands?"
 annex.83.a:0 "Liberate Azerbaijan!"
 annex.83.b:0 "Reintegrate the Azerbaijani lands."
 annex.83.c:0 "Give it to our Russian allies."
 
-annexation_AZR_CONQ:0 "The Fate of Azerbaijan proper"
-annexation_AZR_CONQ_desc:0 "After fierce fighting in the Caucasus, we have conquered and annexed Azerbaijan proper. The Azeri army has surrendered, and their territory is under our control, but the people are still resistant. What should we do with our newly conquered lands?"
+annexation_CCD_CONQ:0 "아제르바이잔 본지의 운명"
+annexation_CCD_CONQ_desc:0 "After fierce fighting in the Caucasus, we have conquered and annexed Azerbaijan proper. The Azeri army has surrendered, and their territory is under our control, but the people are still resistant. What should we do with our newly conquered lands?"
 annex.84.a:0 "Liberate a loyal Azerbaijan."
 annex.84.b:0 "Give it to the true Azerbaijan."
 annex.84.c:0 "Reintegrate the Azerbaijani lands."
