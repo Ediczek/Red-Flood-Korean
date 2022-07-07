@@ -54,8 +54,8 @@ different_party_types:0 "다른 성향의 정당"
 
 ### game_rules_l_english
 RULE_GROUP_GAMEPLAY:0 "게임플레이"
-RULE_ALLOW_LEAVE_FACTION_ALLOWED_DESC:0 "완전주권국들은 평시에 세력에서 탈퇴할 수 있습니다.\n\n§R알림: 본 설정은 완벽히 지원되지 않습니다. Normal sanity checks and other bug preventing measures will be bypassed, and thus 본 설정 적용 시 문제가 발생할 수 있습니다. 이에 따른 오류는 보고하지 마십시오. 경고했습니다.§!"
-RULE_ALLOW_KICK_FACTION_ALLOWED_DESC:0 "세력주도국은 세력에서 어느 가맹국이든 퇴출시킬 수 있습니다.\n\n§R알림: 본 설정은 완벽히 지원되지 않습니다. Normal sanity checks and other bug preventing measures will be bypassed, and thus 본 설정 적용 시 문제가 발생할 수 있습니다. 이에 따른 오류는 보고하지 마십시오. 경고했습니다.§!"
+RULE_ALLOW_LEAVE_FACTION_ALLOWED_DESC:0 "완전주권국들은 평시에 세력에서 탈퇴할 수 있습니다.\n\n§R알림: 본 설정은 완벽히 지원되지 않습니다. Normal sanity checks 및 기타 버그 방지 수단이 적용되지 않으므로 본 설정 적용 시 문제가 발생할 수 있습니다. 이에 따른 오류는 보고하지 마십시오. 경고했습니다.§!"
+RULE_ALLOW_KICK_FACTION_ALLOWED_DESC:0 "세력주도국은 세력에서 어느 가맹국이든 퇴출시킬 수 있습니다.\n\n§R알림: 본 설정은 완벽히 지원되지 않습니다. Normal sanity checks 및 기타 버그 방지 수단이 적용되지 않으므로 본 설정 적용 시 문제가 발생할 수 있습니다. 이에 따른 오류는 보고하지 마십시오. 경고했습니다.§!"
 
 ### goals_l_english
 take_state:0 "정복"
@@ -110,7 +110,7 @@ RF_trade_laws:0 "무역법"
 RF_economy:0 "경제법"
 EFFECT_CHANGE_LAW_RF_economy:0 "($DESC$)의 효과를 부여하는 '$NAME|Y$'(으)로 경제법을 개정합니다."
 EFFECT_CHANGE_LAW_RF_trade_laws:0 "($DESC$)의 효과를 부여하는 '$NAME|Y$'(으)로 무역법을 개정합니다."
-EFFECT_CHANGE_LAW_RF_mobilization_laws:0 "Change Mobilization to '$NAME|Y$' which grants ($DESC$)."
+EFFECT_CHANGE_LAW_RF_mobilization_laws:0 "($DESC$)의 효과를 부여하는 '$NAME|Y$'(으)로 동원법을 개정합니다."
 aircraft_manufacturer:0 "항공기 설계업체"
 materiel_manufacturer:0 "재질 설계업체"
 industry_concern:0 "산업재벌"
@@ -118,7 +118,7 @@ chief_of_staff:0 "참모총장"
 chief_of_army:0 "육군총장"
 chief_of_navy:0 "해군총장"
 chief_of_air_force:0 "공군총장"
-SPIRIT_ADD_IDEA:0 "§GClick to add $GROUP|H$§!"
+SPIRIT_ADD_IDEA:0 "§G클릭하여 $GROUP|H$§!에 추가합니다"
 
 ### politics_l_english
 POLITICS_LEADER:0 "§국가수반: $LEADER|H$§!"
