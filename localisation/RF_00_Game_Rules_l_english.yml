@@ -332,7 +332,7 @@ RULE_OPTION_KCK_STARK:0 "£RF_game_rule_flag_KCK  Gajda's Gambit" #the flag shou
 RULE_OPTION_KCK_STARK_DESC:0 "Radola Gajda coups Georgiy Stark and goes on to reunite Russia."
 
 # KAVKAZ #
-KAV_AI_PATH:0 "@KAV Kavkaz Society"
+KAV_AI_PATH:0 "@KAV 캅카스 회"
 RULE_OPTION_KAV_MAYAKOVSKY:0 "£RF_game_rule_flag_KAV_mayakovsky  Mayakovsky's Labour and Virtue"
 RULE_OPTION_KAV_MAYAKOVSKY_DESC:0 "Vladimir Mayakovsky stays as the chairman."
 RULE_OPTION_KAV_MIRSKY:0 "£RF_game_rule_flag_KAV_mirsky  Mirsky's Left Eurasianism"
