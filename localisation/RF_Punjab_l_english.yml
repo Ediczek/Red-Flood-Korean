@@ -2,16 +2,16 @@
 #COUNTRY NAME#
 
 #PARTIES#
-PNJ_vanguard_socialism_party_long:0 "Communist Party of India - Leninist"
-PNJ_popular_socialism_party_long:0 "Communist Party of India - Spartakist"
-PNJ_anarchism_party_long:0 "Anarchist factions"
-PNJ_revisionist_socialism_party_long:0 "Congress Socialist Party"
-PNJ_progressivism_party_long:0 "Indian National Congress - Socialist"
-PNJ_liberalism_party_long:0 "All-India Muslim League"
-PNJ_conservatism_party_long:0 "Unionist Party"
+PNJ_vanguard_socialism_party_long:0 "인도 공산당 - 레닌주의자"
+PNJ_popular_socialism_party_long:0 "인도 공산당 - 스파르타쿠스주의자"
+PNJ_anarchism_party_long:0 "아나키스트 제파"
+PNJ_revisionist_socialism_party_long:0 "회의 사회주의당"
+PNJ_progressivism_party_long:0 "인도 민족회의 - 사회주의자"
+PNJ_liberalism_party_long:0 "전인도 무슬림 연맹"
+PNJ_conservatism_party_long:0 "연합주의당"
 PNJ_right_authoritarianism_party_long:0 "최고 아칼리당"
-PNJ_despotism_party_long:0 "NNational Volunteer Organsation - Constitutionalists"
-PNJ_reactionism_party_long:0 "National Volunteer Organsation - Radicals"
+PNJ_despotism_party_long:0 "민족의용조직 - 입헌주의파"
+PNJ_reactionism_party_long:0 "민족의용조직n - 급진파"
 PNJ_accelerationism_party_long:0 "인도 부흥협회"
 
 PNJ_vanguard_socialism_party:0 "CPoI - L"
