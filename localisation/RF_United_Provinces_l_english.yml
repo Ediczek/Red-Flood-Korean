@@ -872,7 +872,7 @@ UPI.52.desc:0 "“살인마! 살인마! 살인마!” The chants of thousands of
 UPI.52.a:0 "진지하게 생각해볼 시점이다."
 
 UPI.53.t:0 "통금, 계엄, 대규모 투옥"
-UPI.53.desc:0 "오전 7시 20분, 통금 종료 10분을 남기고 집을 나선 사내가 총에 맞서 숨졌습니다. 방아쇠를 당긴 이에게 그의 이름 따윈 알 바 아니었지만, 그를 알던 이들에게 미하르는 마을 최고의 제빵사였습니다. \n\n 평소처럼 일찍 일어난 미하르는 병사들이 지나가는 것을 보았습니다. 지난밤 통금이 적용되긴 했지만 병사들도 매일 그랬던 것처럼 같은 시간에 화덕에 불이 붙기를 바라고 있을 게 분명할 테죠. 병사들 중 일부는 현지인이거나 현지인이라 불릴 정도로 인근에서 오랫동안 산 사람들이고, 또 대부분은 비하르가 만든 빵에 커리를 찍어 먹고 있으니까요. Certainly, that meant some leniancy. 사내는 폭동이나 시위에 가담해 본 적 없이 언제나 머리를 숙인 채 지내왔습니다. \n\n And yet still he lay in his own blood, a casuality of Churchill’s order."
+UPI.53.desc:0 "오전 7시 20분, 통금 종료 10분을 남기고 집을 나선 사내가 총에 맞아 숨졌습니다. 방아쇠를 당긴 이에게 그의 이름 따윈 알 바 아니었지만, 그를 알던 이들에게 미하르는 마을 최고의 제빵사였습니다. \n\n 평소처럼 일찍 일어난 미하르는 병사들이 지나가는 것을 보았습니다. 지난밤 통금이 적용되긴 했지만 병사들도 매일 그랬던 것처럼 같은 시간에 화덕에 불이 붙기를 바라고 있을 게 분명할 테죠. 병사들 중 일부는 현지인이거나 현지인이라 불릴 정도로 인근에서 오랫동안 산 사람들이고, 또 대부분은 비하르가 만든 빵에 커리를 찍어 먹고 있으니까요. Certainly, that meant some leniancy. 사내는 폭동이나 시위에 가담해 본 적 없이 언제나 머리를 숙인 채 지내왔습니다. \n\n And yet still he lay in his own blood, a casuality of Churchill’s order."
 UPI.53.a:0 "그 하나가 죽는 걸로 끝날 리가 없지."
 
 UPI.54.t:0 "러크나우 학살"
@@ -948,7 +948,7 @@ UPI.71.desc:0 "인도 전역에서는 정말 수많은 잉글랜드인들이 있
 UPI.71.a:0 "물론이요..."
 
 UPI.72.t:0 "이곳에서..."
-UPI.72.desc:0 "처칠은 이곳에서 자신이 행해야 할 의무를 알고 있었습니다. 신성한 숙명, 섭리, 어쩌면 순수한 의지력이 자신이 알고 있는 해야 할 무언가를 향해 처칠을 몰아댔습니다. 무엇을 마쳐야 할지 그는 알았습니다. Already, he had steeled his will and turned his heart to iron. Already, the blood pumping in him was hot and fiery. Already, he had turned himself into a being altogether devoted to destiny. But none of that was enough...one can be a superman, a human colossus, and not yet achieve what they set out. From here, it was only upwards, so long as he kept himself stable and ready."
+UPI.72.desc:0 "처칠은 이곳에서 자신이 행해야 할 의무를 알고 있었습니다. 신성한 숙명, 섭리, 어쩌면 순수한 의지력이 자신이 알고 있는 해야 할 무언가를 향해 처칠을 몰아댔습니다. 무엇을 마쳐야 할지 그는 알았습니다. Already, he had steeled his will and turned his heart to iron. 그의 몸 안에서  the blood pumping in him was hot and fiery. Already, he had turned himself into a being altogether devoted to destiny. But none of that was enough...one can be a superman, a human colossus, and not yet achieve what they set out. From here, it was only upwards, so long as he kept himself stable and ready."
 UPI.72.a:0 "운명을 받아들기 위해 나아가자."
 
 UPI.73.t:0 "인도인들의 저항"
