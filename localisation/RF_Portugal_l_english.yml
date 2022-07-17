@@ -18,20 +18,20 @@ POR_conservatism_party:0 "PRN"
 POR_conservatism_party_long:0 "민족주의 공화당"
 POR_right_authoritarianism_party:0 "Os Paladinos"
 POR_right_authoritarianism_party_long:0 "os Paladinos"
-POR_despotism_party:0 "Círculo de Coimbra"
-POR_despotism_party_long:0 "Círculo de Coimbra"
+POR_despotism_party:0 "코임브러회"
+POR_despotism_party_long:0 "코임브러회"
 POR_reactionism_party:0 "IL"
 POR_reactionism_party_long:0 "Integralismo Lusitano"
 POR_accelerationism_party:0 "Grupo do Tavares"
 POR_accelerationism_party_long:0 "Grupo do Tavares"
 #LEADER DESCRITIONS#
 #IDEAS#
-POR_vices_of_heliogabalus:0 "The Vices of Heliogabalus"
-POR_vices_of_heliogabalus_desc:0 "There are certain rumours about our most noble King among Portuguese society, echoed by whispers inside Palace of Ajuda and jokes between government officials. Wild parties, celebrations of sexual deviation, degenerate crazes. These are, of course, just tales. At least that's what the regime says.\n\nFrancisco José's dissolute lifestyle and uncommon carnal appetites have followed him all the way from his Austrian exile, and the monarch's weekend escapades to Coimbra and stories of youths going through the royal palace's backdoor have proven to be quite the gossip material. As if such a situation wasn't delicate enough, the King's status as a childless bachelor at his advanced age lets out more than what the government wishes to be known. Even if the succession to the throne is not a real problem, Francisco José's Uranian concupiscence has become a constant headache for the very Catholic and traditional elite, who try to hide this reality at any cost."
-POR_sidonist_underground:0 "Sidonist Underground"
-POR_sidonist_underground_desc:0 "\"Valete, fratres!"\n\nAlthough the restoration of the monarchy was a bloodless and relatively peaceful process thanks to Manuel Gomes da Costa's efforts, it was not without opposition. Even if the leftist and liberal republicans were forced into obscurity and languished within a few years, others were not willing to fade away. Sidónio Pais, briefly President of the Republic before being exiled by a coup, carefully picked up the pieces of the rightist opposition to the Crown, ready to play the long game. From Fiume, the beating heart of European revolutionary spirit, Pais has been plotting the end of the Portuguese regime.\n\nThe Sidonists have yet to carry out violent acts, but increasingly daring demonstrations against the monarchy have become commonplace. For the good of the country and the survival of our royal dream, we cannot let this threat go unchecked."
-POR_volta_ao_campo:0 "Volta ao Campo"
-POR_volta_ao_campo_desc:0 "Is man not truer to himself when he is in harmony with nature? Is not the village the most perfect form of political organisation? Because of the Integralists' committed support to agrarianism we have managed to revert centuries of demographic mistakes, and now internal migration from Lisbon and the northern urban conglomerates has given new life to our abandoned rural landscape. Portugal is slowly becoming a nation that can proudly claim to be firmly rooted in God, family, and soil."
+POR_vices_of_heliogabalus:0 "헬리오가발루스의 악업들"
+POR_vices_of_heliogabalus_desc:0 "There are certain rumours about our most noble King among Portuguese society, echoed by whispers inside Palace of Ajuda and jokes between government officials. 광란의 잔치, celebrations of sexual deviation, degenerate crazes. 물론 이는 그저 이야기일 뿐이겠죠. 적어도 정권에서 말하는 바는 그렇습니다.\n\n프렁시스쿠 주세의 dissolute lifestyle and uncommon carnal appetites have followed him all the way from his Austrian exile, and the monarch's weekend escapades to Coimbra and stories of youths going through the royal palace's backdoor have proven to be quite the gossip material. As if such a situation wasn't delicate enough, the King's status as a childless bachelor at his advanced age lets out more than what the government wishes to be known. Even if the succession to the throne is not a real problem, Francisco José's Uranian concupiscence는 이러한 현실을 어떤 대가를 치러서라도 감추고자 하는 매우 천주교스러우며 전통을 따르는 정예층에게 계속되는 골칫거리가 되었습니다."
+POR_sidonist_underground:0 "암약하는 시도니우주의자들"
+POR_sidonist_underground_desc:0 "\"Valete, fratres!"\n\nAlthough the restoration of the monarchy was a bloodless and relatively peaceful process thanks to Manuel Gomes da Costa's efforts, 반대가 없진 않았습니다. Even if the leftist and liberal republicans were forced into obscurity and languished within a few years, others were not willing to fade away. Sidónio Pais, briefly President of the Republic before being exiled by a coup, carefully picked up the pieces of the rightist opposition to the Crown, ready to play the long game. 유럽 혁명 정신의 펄떡이는 심장인 피우메에서, 시도니우 파이쉬는 현 포르투갈 정권을 끝장낼 음모를 세우고 있습니다.\n\n시도니우주의자들이 아직 폭력 행동을 벌이진 않았지만, 점차 대담해져가는 반 군주정 시위는 이제 일상이 되었습니다. 나라의 안정과 우리의 왕정주의의 꿈을 지키려면 이런 위협을 그냥 두어선 안 됩니다."
+POR_volta_ao_campo:0 "들판을 향한 귀환"
+POR_volta_ao_campo_desc:0 "자연과 조화를 이루었을 때보다 사람이 더 진실될 때가 있을까요? 마을이 그 자체로 가장 완벽한 정치조직이 아니라고 할 수 있을까요? Because of the Integralists' committed support to agrarianism we have managed to revert centuries of demographic mistakes, and now internal migration from Lisbon and the northern urban conglomerates has given new life to our abandoned rural landscape. Portugal is slowly becoming a nation that can proudly claim to be firmly rooted in God, family, and soil."
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #EVENTS#
