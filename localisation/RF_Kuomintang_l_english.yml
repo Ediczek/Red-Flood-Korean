@@ -1,6 +1,6 @@
 ﻿l_english:
 #LEADER DESCRIPTIONS#
-POLITICS_JINJIANG_DESC:0 "“군벌, 역적, 간신배, 폭군, 항졸, 방관자... 혁명의 현인이 그런 꼴이 되어 추락하리라곤 그 누구도 예측하지 못 했다.”——청쳰\n\n장징장은 1877년 후저우에서 태어났습니다. 어린 시절 시대착오를 목도한 그는 가문의 자산을 이용해 쑨원의 동맹회를 비롯한 다양한 반청 조직을 후원하기 시작했습니다. 장징장의 후원은 국민당의 초기 발전에서 중요한 역할을 했습니다. 쑨원이 애칭으로 "혁명의 현인"이라 부를 정도였던 장징장은 국민당 내 4원로 중 하나가 되었습니다.\n\n장징장은 쑨원 피살 이후 숭자오런이 지도하는 국민당의 좌익 경향에 반대하면서, 유럽의 산업 심장부에서 벌어진 붉은 체제의 발현 이후 영국과 프랑스와 같은 오랜 자본주의 국가들이 보여준 발광적 반공주의 감정을 예리하게 관찰했습니다. 일본인이 샹하이에서 국민혁명군의 선봉을 격파하자, 장징장과 천치메이는 immediately began contacting the British and American concessions, seeking to use their party seniority and political status to establish a pro-western cooperative national government. After Chen QiMei is assassinated, Zhang gave up to Xu Chongzhi even the comfort of courtesy, go further and further through cooperating with foreign capitalists, oligarchs and Shanghai gangsters, avaricious and high-profile people cream. Six years after Zhang Jingjiang took over the Nanjing government, the GMD was further disintegrated, and many positions within the party were replaced by Gangs, landlords and warlords.\n\nZhang questioning the feasibility of a national revolution from the start. He has a clear understanding of himself and has a blueprint for China's future. The failure of the northern expedition made him understand that China could not complete a modern national revolution and had lost the capital to contend with the great powers. The more he cooperated with foreign capitalists, the stronger his position became."
+POLITICS_JINJIANG_DESC:0 "“군벌, 역적, 간신배, 폭군, 항졸, 방관자... 혁명의 현인이 그런 꼴이 되어 추락하리라곤 그 누구도 예측하지 못 했다.”——청쳰\n\n장징장은 1877년 후저우에서 태어났습니다. 어린 시절 시대착오를 목도한 그는 가문의 자산을 이용해 쑨원의 동맹회를 비롯한 다양한 반청 조직을 후원하기 시작했습니다. 장징장의 후원은 국민당의 초기 발전에서 중요한 역할을 했습니다. 쑨원이 애칭으로 "혁명의 현인"이라 부를 정도였던 장징장은 국민당 내 4원로 중 하나가 되었습니다.\n\n장징장은 쑨원 피살 이후 숭자오런이 지도하는 국민당의 좌익 경향에 반대하면서, 유럽의 산업 심장부에서 벌어진 붉은 체제의 발현 이후 영국과 프랑스와 같은 오랜 자본주의 국가들이 보여준 발광적 반공주의 감정을 예리하게 관찰했습니다. 일본인이 샹하이에서 국민혁명군의 선봉을 격파하자, 장징장과 천치메이는 영국 및 미국 조차지와의 접촉을 즉각 개시하여 친서방 협력 국민정부를 설립할 당내 우위권과 정치지위 획득을 추구했습니다. 천치메이가 암살당한 후 장징장은 gave up to Xu Chongzhi even the comfort of courtesy, go further and further through cooperating with foreign capitalists, oligarchs and Shanghai gangsters, avaricious and high-profile people cream. 6년 지나고 장징장이 남경 정부를 장악하면서 국민당의 분열은 심화되었고, 당내의 수많은 직책들은 조직범죄자, 지주, 군벌에게 돌아갔습니다. \n\n장징장은 국민혁명의 성공 가망을 그 시작 때부터 의심해왔던 사람입니다. 그에겐 자신을 향한 명확한 이해와 중국을 미래를 위한 청사진이 확립돼 있습니다. 북벌의 실패는 장징장으로 하여금 중국이 근대식 국민혁명을 완수할 없으며 열강들에 대적할 적기를 놓쳤다는 견해를 심어 주었습니다. 장징장이 해외 자본가들과 협력할수록 그의 지위는 더욱 확고해져만 갑니다."
 
 #COUNTRY NAME#
 
@@ -8,17 +8,17 @@ POLITICS_JINJIANG_DESC:0 "“군벌, 역적, 간신배, 폭군, 항졸, 방관�
 KMT_vanguard_socialism_party:0 "CPC - R"
 KMT_popular_socialism_party:0 "CPC - L"
 KMT_anarchism_party:0 "CAM"
-KMT_revisionist_socialism_party:0 "GMD - MinSheng"
-KMT_progressivism_party:0 "GMD - MinQuan"
-KMT_placeholderism_party:0 "GMD - Moderates"
-KMT_liberalism_party:0 "GMD - Moderates"
-KMT_conservatism_party:0 "GMD - MinZu"
-KMT_right_authoritarianism_party:0 "GMD - CEC"
+KMT_revisionist_socialism_party:0 "KMT - 민생"
+KMT_progressivism_party:0 "KMT - 민권"
+KMT_placeholderism_party:0 "KMT - 온건"
+KMT_liberalism_party:0 "KMT - 온건"
+KMT_conservatism_party:0 "KMT - 민주"
+KMT_right_authoritarianism_party:0 "KMT - CEC"
 KMT_despotism_party:0 "NMA"
-KMT_reactionism_party:0 "GMD - SSS"
+KMT_reactionism_party:0 "KMT - SSS"
 KMT_accelerationism_party:0 "YCP"
-KMT_vanguard_socialism_party_long:0 "Communist Party of China - Right"
-KMT_popular_socialism_party_long:0 "Communist Party of China - Left"
+KMT_vanguard_socialism_party_long:0 "중국 공산당 - 우익"
+KMT_popular_socialism_party_long:0 "중국 공산당 - 좌익"
 KMT_anarchism_party_long:0 "중국 아나키스트 운동"
 KMT_revisionist_socialism_party_long:0 "국민당 민생파"
 KMT_progressivism_party_long:0 "국민당 민권파"
