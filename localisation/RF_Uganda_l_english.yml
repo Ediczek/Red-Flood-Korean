@@ -7,9 +7,9 @@
 UGD_guerilla_warfare:0 "유격전"
 UGD_guerilla_warfare_desc:0 ""
 #CUSTOM TOOLTIPS AND FLAGS#
-UGD_tanzania_popular_socialism:0 "Popular Republic of Tanganyika"
-UGD_tanzania_popular_socialism_DEF:0 "the Popular Republic of Tanganyika"
-UGD_tanzania_popular_socialism_ADJ:0 "Tanganyikan"
+UGD_tanzania_popular_socialism:0 "탕가니카 인민공화국"
+UGD_tanzania_popular_socialism_DEF:0 "탕가니카 인민공화국"
+UGD_tanzania_popular_socialism_ADJ:0 "탕가니카"
 
 
 #DECISIONS (1.5 Update)#
