@@ -2,7 +2,7 @@
 #Harbin City Parties
 HAR_vanguard_socialism_party:0 "RSDRP"
 HAR_popular_socialism_party:0 "생디칼리스트파"
-HAR_anarchism_party:0 "Individualsty"
+HAR_anarchism_party:0 "자아주의파"
 HAR_revisionist_socialism_party:0 "PSR/RSDRP (단주의)"
 HAR_progressivism_party:0 "TNSP"
 HAR_liberalism_party:0 "카데티"
@@ -18,7 +18,7 @@ HAR_revisionist_socialism_party_long:0 "러시아 사회민주노동자당 (단�
 HAR_progressivism_party_long:0 "노동자 인민사회주의당"
 HAR_liberalism_party_long:0 "인민자유 입헌민주당"
 HAR_conservatism_party_long:0 "인민민주연합"
-HAR_right_authoritarianism_party_long:0 "Vserossiyskaya Natsional'no-Respublikanskaya Narodnaya Partiya"
+HAR_right_authoritarianism_party_long:0 "전러시아 민족공화인민당"
 HAR_despotism_party_long:0 "군주주의 집단"
 HAR_reactionism_party_long:0 "흑백단"
 HAR_accelerationism_party_long:0 "관동 우크라이나 반군"
@@ -64,8 +64,8 @@ HAR_uni_ADJ:0 "러시아"
 
 #Tooltips
 
-HAR_we_have_highground:0 "We will claim the north territory, to prepare our return"
-HAR_reclaim_the_homeland:0 "Now, is the time to declare war on the one that caused our demise !"
+HAR_we_have_highground:0 "우리의 귀환을 준비하고자 북방 영토의 영유권을 주장할 것입니다"
+HAR_reclaim_the_homeland:0 "이제 우리의 몰락을 초래할 이들을 향한 전쟁을 선포할 때가 왔습니다!"
 
 #COMPANIES#
 #Non-War#
@@ -73,19 +73,19 @@ HAR_Tereshchenkos_Consortium_Industrial_Concern:0 "Tereshchenkos Consortium Indu
 HAR_Harbin_Radioelectronics_Institute:0 "Harbin Radioelectronics Institute"
 #Guns & Arty#
 HAR_Harbin_Arsenal:0 "하르빈 병기창"
-HAR_Great_Harbin_Arsenal:0 "National Harbin Arsenal Cooperative"
+HAR_Great_Harbin_Arsenal:0 "전국 하르빈 병기창 Cooperative"
 HAR_Grabins_Ordnance_Factories_Inc:0 "Grabins Ordnance Factories Inc"
-HAR_Great_Harbin_Ordnance:0 "National Harbin Ordnance Factories Cooperative"
+HAR_Great_Harbin_Ordnance:0 "전국 하르빈 군수공장 Cooperative"
 #Tanks & Motors#
 HAR_Kotin_Mikulin_Engines:0 "카틴-미쿨린 엔진"
-HAR_Great_Harbin_Armor:0 "National Harbin Engines Cooperative"
+HAR_Great_Harbin_Armor:0 "전국 하르빈 엔진 Cooperative"
 HAR_Khabarovsk_Motorcar_Factory:0 "하바롭스크 전동차 공장"
 HAR_Great_Harbin_Motor:0 "National Harbin Motorcar Cooperative"
 #Botes#
 HAR_Khabarovsk_Hydroaeronautics_Bureau:0 "하바롭스크 Hydroaeronautics Bureau"
 HAR_Great_Harbin_Hydroaeronautics:0 "National Harbin Hydroaeronautics Cooperative"
 HAR_Union_of_Pacific_Shipyards:0 "태평양 선착장 연합"
-HAR_Great_Harbin_Shipyards:0 "National Harbin Pacific Shipyards Cooperative"
+HAR_Great_Harbin_Shipyards:0 "전국 하르빈 태평양 선착장 Cooperative"
 #Planes#
 HAR_Aerograd_Inc:0 "아에로그라트 법인"
 HAR_Great_Harbin_Aeroworks:0 "National Harbin Aeroworks Cooperative"
@@ -147,10 +147,10 @@ ZHR_Emergency_Directorate_head:0 "Emergency Directorate"
 ZHR_Emergency_Directorate_foreign:0 "Emergency Directorate"
 ZHR_Emergency_Directorate_economy:0 "Emergency Directorate"
 ZHR_Emergency_Directorate_security:0 "Emergency Directorate"
-HAR_milyukov_wins:0 "§YMilyukov의 승리§!가 발생했습니다."
+HAR_milyukov_wins:0 "§Y밀류카프의 승리§!가 발생했습니다."
 HAR_myakotin_wins:0 "§Y먀카틴의 승리§!가 발생했습니다."
 HAR_zaborovsky_wins:0 "§Y자바롭스키의 승리§!가 발생했습니다."
-HAR_fajda_wins:0 "§YFajda의 승리§!가 발생했습니다."
+HAR_fajda_wins:0 "§Y파이다의 승리§!가 발생했습니다."
 HAR_repentance:0 "회개"
 HAR_salvation:0 "구원"
 HAR_soup_kitchens:0 "하르빈 무료 급식소"
@@ -180,12 +180,12 @@ HAR_popular_front:0 "혁명의 5열"
 HAR_civie_1:0 "기본 민간 회복"
 HAR_civie_2:0 "적정한 민간 회복"
 HAR_civie_3:0 "완전한 민간 회복"
-HAR_civie_4:0 "Refined 번영"
+HAR_civie_4:0 "재편된 번영"
 
 HAR_millie_1:0 "기본 군사 회복"
 HAR_millie_2:0 "적정한 군사 회복"
 HAR_millie_3:0 "완전한 군사 회복"
-HAR_millie_4:0 "Refined 대비"
+HAR_millie_4:0 "재편된 대비"
 
 ##Decision Categories
 HAR_The_Revolution_From_The_Ashes:0 "자유 선포"
@@ -200,14 +200,14 @@ HAR.1.desc:0 "“The Harbin City Election is over! The final votes are being cou
 HAR.1.a:0 "카데티! Pavel Milyukov!"
 HAR.1.b:0 "대중주의자! 베네딕트 먀카틴!"
 HAR.1.c:0 "주교! 밀리티 자바롭스키!"
-HAR.1.d:0 "폭탄! 그리고리 Fajda!"
+HAR.1.d:0 "폭탄! 그리고리 파이다!"
 #YOU TRAITOR!
 HAR.2.t:0 "The Harbin Directorate Election"
 HAR.2.desc:0 "“Wait.. Did some of them really vote for him...? Anyways! The Harbin City Election is over! The final votes are being counted. And the winner is...”"
 HAR.2.a:0 "... 뭐라고!?"
 HAR.2.b:0 "대중주의자! 베네딕트 Myakotin!"
 HAR.2.c:0 "주교! 멜레티 자바롭스키!"
-HAR.2.d:0 "The Bomb! Grigory Fajda!"
+HAR.2.d:0 "폭탄! 그리고이 파이다!"
 
 ##Collapse Events
 ##Manchu Leaves
