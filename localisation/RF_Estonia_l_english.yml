@@ -41,37 +41,37 @@ EST_accelerationism_ADJ:0 "에스토니아"
 EST_subject:0 "에스틀란트 총독부"
 #PARTIES#
 EST_vanguard_socialism_party:0 "Ü-BKP"
-EST_vanguard_socialism_party_long:0 "Üle-Balti Kommunistlik Partei"
+EST_vanguard_socialism_party_long:0 "범발트 공산당"
 
 EST_popular_socialism_party:0 "Ü-BKP"
-EST_popular_socialism_party_long:0 "Üle-Balti Kommunistlik Partei"
+EST_popular_socialism_party_long:0 "범발트 공산당"
 
 EST_anarchism_party:0 "AL"
-EST_anarchism_party_long:0 "Ametiühingute Liit"
+EST_anarchism_party_long:0 "노조연합"
 
 EST_revisionist_socialism_party:0 "ESE"
-EST_revisionist_socialism_party_long:0 "Eesti Sotsiaaldemokraatlik Erakond"
+EST_revisionist_socialism_party_long:0 "에스토니아 사회민주당"
 
-EST_progressivism_party:0 "Rahvaeraerakond"
-EST_progressivism_party_long:0 "Rahvaeraerakond"
+EST_progressivism_party:0 "인민당"
+EST_progressivism_party_long:0 "인민당"
 
-EST_liberalism_party:0 "Vabaduspartei"
-EST_liberalism_party_long:0 "Vabaduspartei"
+EST_liberalism_party:0 "자유당"
+EST_liberalism_party_long:0 "자유당"
 
 EST_conservatism_party:0 "ER"
-EST_conservatism_party_long:0 "Eesti Rahvuspartei"
+EST_conservatism_party_long:0 "에스토니아 민족당"
 
 EST_right_authoritarianism_party:0 "ER"
-EST_right_authoritarianism_party_long:0 "Eesti Rahvuspartei"
+EST_right_authoritarianism_party_long:0 "에스토니아 민족당"
 
 EST_despotism_party:0 "EI"
-EST_despotism_party_long:0 "Eesti Iseseisvuspartei"
+EST_despotism_party_long:0 "에스토니아 독립당"
 
 EST_reactionism_party:0 "EI"
-EST_reactionism_party_long:0 "Eesti Iseseisvuspartei"
+EST_reactionism_party_long:0 "에스토니아 독립당"
 
 EST_accelerationism_party:0 "S-FR"
-EST_accelerationism_party_long:0 "Sotsiaal-Futuristlik Rühmitus"
+EST_accelerationism_party_long:0 "사회-미래주의 집단"
 
 EST_restoration_of_independence:0 "독립의 회복"
 EST_foreign_policy:0 "외무정책"
