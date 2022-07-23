@@ -760,7 +760,7 @@ generic_held_rally_despotism_desc:0 ""
 generic_conference_despotism:0 "Rivals Up-rooted"
 generic_conference_despotism_desc:0 ""
 
-generic_appeal_despotism:0 "National Rallies"
+generic_appeal_despotism:0 "민족결집"
 generic_appeal_despotism_desc:0 ""
 
 #reactionism
@@ -771,7 +771,7 @@ generic_held_rally_reactionism_desc:0 ""
 generic_conference_reactionism:0 "Wise Old Words"
 generic_conference_reactionism_desc:0 ""
 
-generic_appeal_reactionism:0 "Military Reaction"
+generic_appeal_reactionism:0 "군사대응"
 generic_appeal_reactionism_desc:0 ""
 
 #accel
@@ -779,10 +779,10 @@ generic_appeal_reactionism_desc:0 ""
 generic_held_rally_accelerationism:0 "Technological Showcase"
 generic_held_rally_accelerationism_desc:0 ""
 
-generic_conference_accelerationism:0 "Political Orthodoxy"
+generic_conference_accelerationism:0 "정치정통성"
 generic_conference_accelerationism_desc:0 ""
 
-generic_appeal_accelerationism:0 "The March of Progress"
+generic_appeal_accelerationism:0 "진보의 행진"
 generic_appeal_accelerationism_desc:0 ""
 
 ### peacetime
@@ -812,10 +812,10 @@ generic_navy_training_programmes_idea_desc:0 ""
 
 ### wartime
 
-generic_emergency_production_idea:0 "Emergency Production"
+generic_emergency_production_idea:0 "비상생산"
 generic_emergency_production_idea_desc:0 ""
 
-generic_increased_war_effort_idea:0 "Increased War Effort"
+generic_increased_war_effort_idea:0 "증대된 전쟁 중점"
 generic_increased_war_effort_idea_desc:0 ""
 
 ###
@@ -823,7 +823,7 @@ generic_increased_war_effort_idea_desc:0 ""
 black_monday:0 "검은 월요일"
 
 independent_war:0 "독립전쟁"
-independent_war_desc:0 "이 나라 현재 독립전쟁 중입니다. 타국이 전쟁에 직접 개입하길 바라지 않을 것입니다."
+independent_war_desc:0 "이 나라는 현재 독립전쟁 중입니다. 타국이 전쟁에 직접 개입하길 바라지 않을 것입니다."
 
 MAPMODE_CORE_MAP_MODE_NAME:0 "Cores and Claims"
 MAPMODE_CORE_MAP_MODE:0 "Cores and Claims"
