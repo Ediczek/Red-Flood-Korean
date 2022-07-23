@@ -92,4 +92,4 @@ Syndicate - 조합 (혹은 명사형인 신디컷)
 
 <목록: 고유명사>
 
-ㅇ
+Black Hundreds - 흑백단
