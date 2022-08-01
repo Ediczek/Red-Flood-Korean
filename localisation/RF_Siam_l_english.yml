@@ -62,7 +62,7 @@ SIA_foreign_X_territorial_rights_desc:0 "우리와 외세간의 불평등조약�
 SIA_econ_recovery:0 "경제회복의 시작"
 SIA_econ_recovery_desc:0 "우리 경제가 위기에서 회복되어가는 중이긴 하지만, 우리 정부 내에 현존하는 문제들 탓에 충분히 회복되진 못 했습니다."
 SIA_rama_vii:0 "라마 7세"
-SIA_rama_vii:0 "라마 7세는 우리 정부 안에서 벌어지는 많은 일들을 반대합니다. 그렇지만 그분은 우리 민족의 상징이시며, 인민의 통합자로서 서 계십니다."
+SIA_rama_vii_desc:0 "라마 7세는 우리 정부 안에서 벌어지는 많은 일들을 반대합니다. 그렇지만 그분은 우리 민족의 상징이시며, 인민의 통합자로서 서 계십니다."
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
