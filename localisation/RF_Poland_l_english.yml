@@ -126,8 +126,8 @@ POL_natrej_path_unlock:0 "스타니스와프 슈칼스키가 국가수반으로 
 POL_socdem_path_unlock:0 "체제 민주화가 시작됐습니다"
 
 #DECISIONS (1.5 Update)#
-POL_aftermath_of_prussia:0 "Aftermath of Prussia"
-POL_reaching_germans:0 "Contacting the germans"
+POL_aftermath_of_prussia:0 "프로이센의 여파"
+POL_reaching_germans:0 "독일인들과의 접촉"
 
 #EVENTS#
 poland.1.t:0 "피우수츠키의 부재"
