@@ -240,7 +240,7 @@ KAV_privatized_and_open_to_the_world_desc:0 "캅카스는 지금까지 폐쇄적
 KAV_never_another_zubatovshchina:0 "제 2의 주바토브 운동 금지"
 KAV_never_another_zubatovshchina_desc:0 "만약 노동조합이 국가에 구속되어 있고, 오로지 국가에만 충성한다면, 그들은 진정한 의미의 노동조합이 되는 것을 그만둡니다. 우리 노동자들은 그들의 집단이 전적으로 그들의 소유라는 것을 알아야하고 풀어져있어야 합니다.."
 KAV_integrate_the_conquered_manpower:0 "점령된 인력 통합"
-KAV_integrate_the_conquered_manpower_desc:0 "We have no intentions of excluding or ostracizing the peoples we conquer, for we know that the whole world cannot be ruled by Russians and Georgians alone. Local cultures are to be treated with respect, and all nationalities shall be made equal in the eyes of the Army."
+KAV_integrate_the_conquered_manpower_desc:0 "우리는 온 세상을 러시아인과 조지아인들만으로 통치될 수 없다는 것을 알기 때문에 우리가 정복한 민족을 배제하거나 배척할 의도가 없습니다. 지역 문화는 존중되어야 하며, 모든 국적의 병사들은 군대가 보기에 평등하게 대우받을 것 입니다."
 KAV_a_utopia_of_warriorpoets:0 "전사-시인의 유토피아"
 KAV_a_utopia_of_warriorpoets_desc:0 "그리고 마지막으로 배가 가득차게되고\n 굶주림의 폭풍이 멎게되면 \n인류는 마지막 단계에 도달할지니:\n유토피아."
 KAV_boost_soldiers_morale:0 "병사 사기 증진"
@@ -386,11 +386,11 @@ kav.2.desc:0 "러시아어는 모든 캅카스 시민들의 마음속에 대체 
 kav.2.a:0 "수업을 시작하지."
 
 kav.3.t:0 " 조지아어 제 2의 공용어로 인정"
-kav.3.desc:0 "우리 사회가 다양한 영향을 밖으로 퍼뜨리면서 우리 사회가 우리의 동질성에 의해 정의된다고 선언하는 것은 잘못된 것입니다. 우리는 캅카스 땅과 특히 조지아인들의 인구가 이 나라를 상당한 규모를 차지하고 있다는 것을 인정해야 합니다. 우리가 정말로 위선자가 되어 모든 것이 슬라브 왕국의 이름으로 이루어질 수 있다고 주장할 건가요? 당연히 아니죠! 우리는 반동파가 코카서스에 밀고 들어갔을 때처럼 지역 주민들을 약탈 정복자처럼 자비롭게 하면서 그렇게 하지 않을 것입니다. 우리는 우리의 팔을 벌려 우리 민족을 그들의 집으로 맞이할 것입니다. 피부 너머에 있는 우리는 단지 같은 존재일 뿐이라는 것을 알고 있기 때문입니다. 한편, 우리는 이 권리의 존재를 지키기 위해서는 우리의 존재를 그들의 존재에 묶어둘 때 신성불가침이 유지되어야 한다는 것을 알고 있습니다. 조지아어를 우리 나라의 제2 공용어로 확립하면서 우리는 정책 변화의 시대를 선포할 것입니다. 우리는 위대함을 위해 어떤 대가를 치르더라도 동화되기 위해 노력할 필요가 없습니다. 만약 그것이 사람들을 소외시키고 그들의 역사, 그들의 영혼을 빼앗을 것이라면 말입니다. 슬라브인의 정신이 고대인 것처럼 조지아인도 고대인이고 우리는 인정해야 합니다. 우리 국민들을 화해시키기 위해 학교는 우리가 미래에 세워질 이러한 전통을 보존함에 따라 조지아 언어와 문화적 자료에 대한 연구를 촉진해야 합니다. 캅카스회는 우리가 다수로부터 번영할 수 있도록 인구의 다른 부분들 사이에 다리를 놓을 수 있어야 합니다."
+kav.3.desc:0 "우리 사회가 다양한 영향을 밖으로 퍼뜨리면서 우리 사회가 우리의 동질성에 의해 정의된다고 선언하는 것은 잘못된 것입니다. 우리는 캅카스 땅과 특히 조지아인들의 인구가 이 나라를 상당한 규모를 차지하고 있다는 것을 인정해야 합니다. 우리가 정말로 위선자가 되어 모든 것이 슬라브 왕국의 이름으로 이루어질 수 있다고 주장할 건가요? 당연히 아닙니다! 우리는 반동들이 캅카스에 밀고 들어갔을 때처럼 지역 주민들을 약탈 정복자처럼 자비롭게 하면서 그렇게 하지 않을 것입니다. 우리는 우리의 팔을 벌려 우리 민족을 그들의 집으로 맞이할 것입니다. 피부 너머에 있는 우리는 단지 같은 존재일 뿐이라는 것을 알고 있기 때문입니다. 한편, 우리는 이 권리의 존재를 지키기 위해서는 우리의 존재를 그들의 존재에 묶어둘 때 신성불가침이 유지되어야 한다는 것을 알고 있습니다. 조지아어를 우리 나라의 제2 공용어로 확립하면서 우리는 정책 변화의 시대를 선포할 것입니다. 우리는 위대함을 위해 어떤 대가를 치르더라도 동화되기 위해 노력할 필요가 없습니다. 만약 그것이 사람들을 소외시키고 그들의 역사, 그들의 영혼을 빼앗을 것이라면 말입니다. 슬라브인의 정신이 고대인 것처럼 조지아인도 고대인이고 우리는 인정해야 합니다. 우리 국민들을 화해시키기 위해 학교는 우리가 미래에 세워질 이러한 전통을 보존함에 따라 조지아 언어와 문화적 자료에 대한 연구를 촉진해야 합니다. 캅카스회는 우리가 다수로부터 번영할 수 있도록 인구의 다른 부분들 사이에 다리를 놓을 수 있어야 합니다."
 kav.3.a:0 "그리하여 캅카스에서 우리 사회는, 그리하여 그 언어는 나왔구나."
 
 kav.4.t:0 "신 캅카스 교과과정"
-kav.4.desc:0 "The Caucasian lands have always been historically regarded as intellectual backwater with lack of road network, language and tribal barriers making it very hard to even achieve a secondary education. If we want to shape a future worthy of the men who are destined to shape this society into a higher state of being we need to invest heavily in the modernization of our school system. First off we should begin by promoting a more progressive curriculum itself suited the ideological needs of our nation. The battle we are fighting right now begins in the heads of our people, if we do not act accordingly we will lose it. Literature must be the focus of whatever choice we may pick as we can best be described as a country founded by writers and intellectuals."
+kav.4.desc:0 "캅카스 땅은 역사적으로 도로망, 언어, 부족 장벽이 없어 중등 교육을 받기가 매우 어려운 지적 낙후 지역으로 여겨져 왔습니다. 만약 우리가 이 사회를 더 높은 존재의 상태로 만들 운명이 있는 사람들에게 가치 있는 미래를 만들고 싶다면, 우리는 학교 시스템의 현대화에 많은 투자를 해야 합니다. 우선 우리는 우리나라의 이념적 요구에 맞는 보다 진보적인 교육과정 자체를 장려하는 것으로 시작해야 합니다. 우리가 지금 싸우고 있는 전투는 우리 인민의 머릿속에서 시작되는데, 우리가 그에 맞게 행동하지 않으면 우리는 패배할 것입니다. 문학은 우리가 작가와 지식인이 세운 나라라는 것을 보일 수 가장 큰 요소이기 때문에 어떤 선택을 하든지 간에 이에 중점을 두어야 합니다."
 kav.4.a:0 "The Curriculum itself is a feat of literary prowess."
 
 kav.5.t:0 "새 공용어"
