@@ -95,7 +95,7 @@ HAR_Great_Harbin_Strategic_Aircraft:0 "National Harbin Strategic Aircraft Cooper
 
 #FOCUSES#
 #Political#
-HAR_walking_in_the_ashes:0 "Walking in the Ashes"
+HAR_walking_in_the_ashes:0 "재 속에서 일어나다"
 HAR_walking_in_the_ashes_desc:0 "러시아 공화국은 죽었습니다. With politics too riven by factionalism to respond to the crisis, the military launched a coup, only to destroy itself with its own varied loyalties. With ethnic separatism, warlordism, and rumors of imperial sympathizers springing into action in the north, what remains of the Harbin political establishment is due for a rude awakening. Before all is lost, we must reach out to those left alive and see if the situation can be salvaged."
 HAR_most_unlikely_alliance:0 "뜻밖의 동맹"
 HAR_most_unlikely_alliance_desc:0 "What would be unthinkable under any other circumstances appears to be becoming reality in the void of Zheltorossiya. Alexei Gastev is the most prominent leftist leader remaining in the cursed city, and he has unparalleled pull with the unions we are relying on to arm the state. Alisa Rosenbaum, the arch-Nietzschean, is the heir apparent of the decapitated Kadets and has no intention of letting the republic die, not now. It will take a heroic effort to save the regime in Harbin, and the two factions must act quickly, decisively, to work out a compromise government and allocation of responsibilities."
@@ -115,7 +115,7 @@ HAR_creative_market:0 "창조 가득한 시장"
 HAR_creative_market_desc:0 "The managers are gone. The stores of accumulated wealth and influence that allowed the aristocrats to distort the economy are in ruins. On a leveled playing field, we have an opportunity to truly unleash the creative potential of the working class. The unions and worker-owned associations now compete on their own merits, and those who best understand their field make the organizational decisions. As a bonus, the spark of dynamism can be harnessed for our military construction and research."
 HAR_ceaseless_speed_of_industry:0 "The Ceaseless Speed of Industry"
 HAR_ceaseless_speed_of_industry_desc:0 "Onward, onward. Bending, breaking, reshaping. Heroic hands wield machines in the rejuvenation of the country. To fall now would condemn the Republic and Russia itself to eternal stagnation. Everything must be reworked. The forced decentralization we have undergone allows for rapid innovation by the gripping hand. Autonomy and education of the workers leads them to surprise us with their ingenuity. Industrial Arditism. Dynamism extends to the logistical train and the mobile strike force. Forceful thrusting industry with an army to match."
-HAR_siberian_fantasy:0 "A Siberian Fantasy"
+HAR_siberian_fantasy:0 "시베리아 환상"
 HAR_siberian_fantasy_desc:0 "The wastes of Siberia and the Far East are to us a space of boundless possibilities. What is now the quiet tundra and taiga is a chest of neverending treasures. From the raw ore of this land we will cast the capital of the world! In the future – the widest country will turn to a bright lantern of the world, covered in cities and railroads. Its riches will eclipse Moscow and Petersburg, the new power will put Europe and America to shame! Let it be known to every labourer and every businessman – their work is refining a new diamond in the world's crown!"
 HAR_revolution_everywhere:0 "모든 곳에 혁명이"
 HAR_revolution_everywhere_desc:0 "The Directorate has successfully articulated a new revolutionary programme. A new order is born from the death of the Republic. Now, a greater test of our resolve lies. Struggle has forged other regimes out of the fragments of Zheltorossiya, and we must prove our system can out-compete them. n\n\The revolutionary war against the damnable Russian Empire begins here in the east, and no ethnic partisan nor traitor can stop us."
@@ -195,15 +195,15 @@ HAR_join_the_manchus:0 "자유조합체 선포"
 
 ##Election Events
 #Regular
-HAR.1.t:0 "The Harbin Directorate Election"
-HAR.1.desc:0 "“The Harbin City Election is over! The final votes are being counted. And the winner is...”"
+HAR.1.t:0 "하르빈 비상대책위원장 선거"
+HAR.1.desc:0 "“하르빈시의 선거는 끝이 났습니다! 마지막 투표지가 세어졌고. 승자는...”"
 HAR.1.a:0 "카데티! Pavel Milyukov!"
 HAR.1.b:0 "대중주의자! 베네딕트 먀카틴!"
 HAR.1.c:0 "주교! 밀리티 자바롭스키!"
 HAR.1.d:0 "폭탄! 그리고리 파이다!"
 #YOU TRAITOR!
-HAR.2.t:0 "The Harbin Directorate Election"
-HAR.2.desc:0 "“Wait.. Did some of them really vote for him...? Anyways! The Harbin City Election is over! The final votes are being counted. And the winner is...”"
+HAR.2.t:0 "하르빈 비상대책위원장 선거"
+HAR.2.desc:0 "“잠깐만.. 누군가 정말로 투표라는 것을 했나요...? 아무튼! 하르빈시의 선거는 끝이 났습니다! 마지막 투표지가 세어졌고. 승자는...”"
 HAR.2.a:0 "... 뭐라고!?"
 HAR.2.b:0 "대중주의자! 베네딕트 Myakotin!"
 HAR.2.c:0 "주교! 멜레티 자바롭스키!"
@@ -213,7 +213,7 @@ HAR.2.d:0 "폭탄! 그리고이 파이다!"
 ##Manchu Leaves
 HAR.11.t:0 "만주인들이 독립을 선포하다!"
 HAR.11.A:0 "만주의 용은 다시금 포효하리라!"
-HAR.11.B:0 "Eh, I still prefer the Russians, to be honest...."
+HAR.11.B:0 "어.. 솔직히 말해서, 난 러시아인이 더 좋아...."
 HAR.11.desc:0 "With the absence of governance created by the faliure of Zheltorossiyan government to solve the famine, many ethnic groups of Manchuria were left ungoverned, with the greatest authority across the Manchurian countryside  being whatever Mayor rules the scattered city and villages. China is no stranger to power vacuums, knowing very well that a lack of authority is quickly solved by a person with both ambition and power.\n The person that solved this chaos in the countryside was none other than Pu Wei, member of the Aisin Gioro clan, who once ruled not all of Manchuria, but all of China. He had ambition, he had a claim to the land, and above all he had the leadership skills to back up his desires.\n Pu Wei went everywhere to city, always winning supporters and land with his speech:\n 'The Manchu People have been under foreign rule for far too long. The Russian Bears of the North, the Japanese Dragons in the East, and the Han Tigers in the South; all of them desire the riches of Manchuria! This weakness of the Russian oppressor is an opportunity to once again be free. My clan once ruled this land, and we were the masters of the world! Will you die at my side so that our children may live once again?'"
 
 ##Priamurye Leaves
@@ -224,8 +224,8 @@ HAR.12.B:0 "A statelet for and by oligarchs, who'd want to fight alongside them?
 
 ##Green Ukraine Leaves
 HAR.13.t:0 "우크라이나는 결코 멸하지 않는다!"
-HAR.13.A:0 "In the name of the Green Ukraine, our home away from home!"
-HAR.13.B:0 "Terrorists and peasants, as expected from Ukranians."
+HAR.13.A:0 "녹우크라이나의 이름으로, 이곳은 우리의 고향 밖의 고향이다!"
+HAR.13.B:0 "우크라이나인들이니까 분명 테러리스트와 소작농들에 불과하겠지."
 HAR.13.desc:0 "The Russian Republic's complete inability to handle the complaints and needs of the Ukranian minority within its borders have proved to be fatal./n/nSent over to this piece of Asia to settle the land in the name of the Tzar, more recent migratory waves made the "Green" Ukraine, as it became known, one of the pillars of local government. Lack of proper representation in the Republic's institutions after the civil war quickly turned the colonists against the Russian-dominated central government. The formation of agrarian self-defense leagues against percieved tyrannical overreach, coupled with the import of ultranationalist ideas from mainland Ukraine, made it so the situation quickly got out of hand. There began to be OUN-influenced terrorist groups, such as the one that killed Trotsky and Chapayev themselves, enacting racial vengeance on Muscovites for their crimes against the Ukranian nation and people./n/nNow that all the separatist parties and organisations have unilaterally declared independence, there remains to be seen how this Republic of the Green Ukraine will operate. Although a majority of the farmers and settlers are content with simple representation and an effective, compassionate democracy, it wouldn't be a surprise if the wild nationalist fervor of these extremist groups took hold of their small world and launched them into a vengeful nation-building project in the midsts of Manchuria."
 
 ##Yakutia Leaves
@@ -241,7 +241,7 @@ HAR.20.a:0 "재통일을 향한 한 걸음의 전진!"
 #Loss Against Manchus
 HAR.21.t:0 "평원에서의 실패"
 HAR.21.desc:0 "Even with our combined efforts, materiel readiness, and training, we were no match against the Manchu forces on their natural turf. Our failure to occupy even a measly pastoral region of its farmlands have made our government the laughing stock of the former Zheltorossiyan cliques. Just as the city of Harbin shone again, fires raged in the streets once more as the public were unhappy that their soldiers, their relatives, fought for naught against a much inferior combatant."
-HAR.21.a:0 "We Bit Off More Than We Could..."
+HAR.21.a:0 "우린 예상보다 더 많이 잃었다.."
 #The choice
 HAR.30.t:0 "위원장들의 모임"
 HAR.30.desc:0 "The chaos brought upon by the general collapse of the Zheltorossiyan government requires new methods - gone are the days of corrupt politicking and lazy parliamentarism. The new governing body, whatever may it be, requires energy and decisive action.\n\nWith these principles in mind, the first meeting of the Emergency Directorate of the Russian Republic was conducted. Most of the big political players were either dead or missing, thus only a few could participate in this elite council of visionaries. Something had to be done to bridge the immense ideological gap between the participants. Indeed, the brightest stars of the Directorate came from the opposite ends of the Zheltorossiyan political spectrum. Alisa Rosenbaum, the leader of the Young Kadets, the prophet of individualism and Alexei Gastev, a Bolshevik union man and a famous proponent of the most radical collectivism conceivable.\n\nYet, in these two very different souls - there flickered a common spark, a certain love of power and energy, the desire to wage a Promethean war against the world. Wasn’t Gastev in his youth a syndicalist anarchist and an avid reader of Sorel? He didn’t change all that much since then, the chaos around him made him realize - only the heroic might of struggle can save civilization. And on the other hand, Rosenbaum, it would be unjust to call her merely a disciple of capitalism. Capitalism - it is but a tool, a tool that allows the extraordinary individual to strive, maybe in the end, anarchism of the old school - without collectivist perversions, can also achieve that?\n\nThus, in the most miraculous alliance of the century, Alisa Rosenbaum and Alexei Gastev have decided to work together - for a free and powerful Russia, where human beings will live free of old traditions and irrational social norms. Yet, one question remains - to be decided by a vote by the Directorate. Who will become the new institution’s chairman? The hands are raised, history is made, and then, an exclamation:"
