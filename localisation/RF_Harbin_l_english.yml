@@ -73,25 +73,25 @@ HAR_Tereshchenkos_Consortium_Industrial_Concern:0 "Tereshchenkos Consortium Indu
 HAR_Harbin_Radioelectronics_Institute:0 "하르빈 Radioelectronics Institute"
 #Guns & Arty#
 HAR_Harbin_Arsenal:0 "하르빈 병기창"
-HAR_Great_Harbin_Arsenal:0 "전국 하르빈 병기창 Cooperative"
+HAR_Great_Harbin_Arsenal:0 "전국 하르빈 병기창 노동조합"
 HAR_Grabins_Ordnance_Factories_Inc:0 "Grabins Ordnance Factories Inc"
-HAR_Great_Harbin_Ordnance:0 "전국 하르빈 군수공장 Cooperative"
+HAR_Great_Harbin_Ordnance:0 "전국 하르빈 군수공장 노동조합"
 #Tanks & Motors#
 HAR_Kotin_Mikulin_Engines:0 "카틴-미쿨린 엔진"
-HAR_Great_Harbin_Armor:0 "전국 하르빈 엔진 Cooperative"
+HAR_Great_Harbin_Armor:0 "전국 하르빈 엔진 노동조합"
 HAR_Khabarovsk_Motorcar_Factory:0 "하바롭스크 전동차 공장"
-HAR_Great_Harbin_Motor:0 "National Harbin Motorcar Cooperative"
+HAR_Great_Harbin_Motor:0 "National 하르빈 Motorcar 노동조합"
 #Botes#
 HAR_Khabarovsk_Hydroaeronautics_Bureau:0 "하바롭스크 Hydroaeronautics Bureau"
-HAR_Great_Harbin_Hydroaeronautics:0 "National Harbin Hydroaeronautics Cooperative"
+HAR_Great_Harbin_Hydroaeronautics:0 "National 하르빈 Hydroaeronautics 노동조합"
 HAR_Union_of_Pacific_Shipyards:0 "태평양 선착장 연합"
-HAR_Great_Harbin_Shipyards:0 "전국 하르빈 태평양 선착장 Cooperative"
+HAR_Great_Harbin_Shipyards:0 "전국 하르빈 태평양 선착장 노동조합"
 #Planes#
 HAR_Aerograd_Inc:0 "아에로그라트 법인"
-HAR_Great_Harbin_Aeroworks:0 "National Harbin Aeroworks Cooperative"
+HAR_Great_Harbin_Aeroworks:0 "National 하르빈 Aeroworks 노동조합"
 HAR_Nikolayevsk_Aeronautics_Factory:0 "니콜라입스크 Aeronautics Factory"
 HAR_Harbin_Strategic_Aircraft_Bureau:0 "하르빈 전략항공기국"
-HAR_Great_Harbin_Strategic_Aircraft:0 "National Harbin Strategic Aircraft Cooperative"
+HAR_Great_Harbin_Strategic_Aircraft:0 "National 하르빈 Strategic Aircraft 노동조합"
 
 #FOCUSES#
 #Political#
@@ -205,7 +205,7 @@ HAR.1.d:0 "폭탄! 그리고리 파이다!"
 HAR.2.t:0 "하르빈 비상대책위원장 선거"
 HAR.2.desc:0 "“잠깐만.. 누군가 정말로 투표라는 것을 했나요...? 아무튼! 하르빈시의 선거는 끝이 났습니다! 마지막 투표지가 세어졌고. 승자는...”"
 HAR.2.a:0 "... 뭐라고!?"
-HAR.2.b:0 "대중주의자! 베네딕트 Myakotin!"
+HAR.2.b:0 "대중주의자! 베네딕트 먀카틴!"
 HAR.2.c:0 "주교! 멜레티 자바롭스키!"
 HAR.2.d:0 "폭탄! 그리고리 파이다!"
 
