@@ -70,7 +70,7 @@ HAR_reclaim_the_homeland:0 "이제 우리의 몰락을 초래할 이들을 향�
 #COMPANIES#
 #Non-War#
 HAR_Tereshchenkos_Consortium_Industrial_Concern:0 "Tereshchenkos Consortium Industrial Concern"
-HAR_Harbin_Radioelectronics_Institute:0 "하르빈 Radioelectronics Institute"
+HAR_Harbin_Radioelectronics_Institute:0 "하르빈 무선전자 연구소"
 #Guns & Arty#
 HAR_Harbin_Arsenal:0 "하르빈 병기창"
 HAR_Great_Harbin_Arsenal:0 "전국 하르빈 병기창 노동조합"
@@ -80,18 +80,18 @@ HAR_Great_Harbin_Ordnance:0 "전국 하르빈 군수공장 노동조합"
 HAR_Kotin_Mikulin_Engines:0 "카틴-미쿨린 엔진"
 HAR_Great_Harbin_Armor:0 "전국 하르빈 엔진 노동조합"
 HAR_Khabarovsk_Motorcar_Factory:0 "하바롭스크 전동차 공장"
-HAR_Great_Harbin_Motor:0 "National 하르빈 Motorcar 노동조합"
+HAR_Great_Harbin_Motor:0 "전국 하르빈 전동차 노동조합"
 #Botes#
-HAR_Khabarovsk_Hydroaeronautics_Bureau:0 "하바롭스크 Hydroaeronautics Bureau"
-HAR_Great_Harbin_Hydroaeronautics:0 "National 하르빈 Hydroaeronautics 노동조합"
+HAR_Khabarovsk_Hydroaeronautics_Bureau:0 "하바롭스크 Hydroaeronautics 국"
+HAR_Great_Harbin_Hydroaeronautics:0 "전국 하르빈 Hydroaeronautics 노동조합"
 HAR_Union_of_Pacific_Shipyards:0 "태평양 선착장 연합"
 HAR_Great_Harbin_Shipyards:0 "전국 하르빈 태평양 선착장 노동조합"
 #Planes#
 HAR_Aerograd_Inc:0 "아에로그라트 법인"
-HAR_Great_Harbin_Aeroworks:0 "National 하르빈 Aeroworks 노동조합"
-HAR_Nikolayevsk_Aeronautics_Factory:0 "니콜라입스크 Aeronautics Factory"
+HAR_Great_Harbin_Aeroworks:0 "National 하르빈 항공장비 노동조합"
+HAR_Nikolayevsk_Aeronautics_Factory:0 "니콜라입스크 항공기 공장"
 HAR_Harbin_Strategic_Aircraft_Bureau:0 "하르빈 전략항공기국"
-HAR_Great_Harbin_Strategic_Aircraft:0 "National 하르빈 Strategic Aircraft 노동조합"
+HAR_Great_Harbin_Strategic_Aircraft:0 "전국 하르빈 전략항공노동조합"
 
 #FOCUSES#
 #Political#
@@ -106,11 +106,11 @@ HAR_no_limits_to_creativity_desc:0 "반동주의자와 권위주의적 사회주
 HAR_everyone_but_parasites:0 "기생충 빼고 모두에게"
 HAR_everyone_but_parasites_desc:0 "우리 산 자들은 천 년 동안 그들 모두를 먹여 살렸습니다. 사회는 부를 창출하는 자와 부를 착취하는 자로 구분되어집니다. 제국의 고착된 지루함에 대항마로 일어섰던 공화국 또한 여전히 새로운 종류의 기생충을 보호하려는 의도를 가지고 있었습니다. 이제 그들을 보호했던 가식인 허례허식의 친절함은 사라졌고, 권력의 지렛대에 대한 그들의 모든 통제도 사라졌습니다. 이제부터 권력과 권리는 한 사람의 진가에 따라 부여됩니다. 진정한 실력주의는 우리 나라를 꽃 피우고 일하는 모든 계급들에게 활력을 불어넣을 것입니다."
 HAR_perfection_without_center:0 "중심이 없는 완벽함"
-HAR_perfection_without_center_desc:0 "The science of tektology, to this time associated with authoritarian centraother offers a breath of new possibilities! Knowing the right relations we will shape our society to resemble a slime mold or a spider's web – a self-emergent system of interactions between autonomous actors that nonetheless creates a greater whole. Now a backwater wasteland, Russia will become a perfect, ever-expanding web of gleaming lights and towering cities, connected by the veins of railroads, carrying the blood of locomotives!"
+HAR_perfection_without_center_desc:0 "권위주의적인 중심주의자들과 관련된 테크톨로지의 과학은 새로운 가능성의 숨결을 제공합니다! 올바른 상관관계를 아는 채로 우리 사회를 점액질의 물건이나 거미줄처럼 엉키게 만들 것입니다. 이는 그럼에도 불구하고 더 큰 전체를 만드는 자율적인 행위자들 간의 상호 작용의 자체적인 시스템입니다. 이제 버려진 황무지였던 러시아는 기관차의 피를 운반하는 철도의 핏줄로 연결된, 반짝이는 불빛과 우뚝 솟은 도시들로 이루어진 완벽한 그물망이 될 것입니다!"
 HAR_union_man:0 "노동조합의 남자"
-HAR_union_man_desc:0 "If only it had been under better circumstances. Alexei Gastev assumes power in the revolutionary Directorate, but the death throes of Zheltorossiya have required a drastic reassessment of priorities. Gone are the dreams of a perfected bureaucratic state, gutted by infighting before they could bloom. The Bogdanovite is excised from the machine. Wires long dormant reignite, and what reactivates is better suited for the chaos of free Russia."
+HAR_union_man_desc:0 "더 나은 상황이었다면 좋았을 것입니다. 알렉세이 가스테프는 혁명 이사회에서 권력을 잡았으나 황러시아를 죽음으로 이끈 고통은 해야할 우선순위에 대한 급진적인 재평가를 필요로 하였습니다. 완벽한 관료주의 국가의 꿈은 꽃을 피우기 전에 내분에 의해 뿌리째 뽑혔습니다. 보그다노프의 추종자들은 기계에서 제거되었습니다. 철사는 오랫동안 잠들어 있었습니다, 이를 다시 깨어나게 만드는 것은 자유 러시아의 혼란에 훨씬 걸맞습니다."
 HAR_beauty_of_class_struggle:0 "계급투쟁의 아름다움"
-HAR_beauty_of_class_struggle_desc:0 "The suffocating mediocrity of the reactionary, the bourgeois, the parliamentarian, all pales before the peal of revolutionary thunder. A proletariat beaten into constraining their dreams must learn to fly again. Every shell chambered, every tool cast, is a part of the emancipatory struggle. Let them know the truth of our transformative war. The worker-soldier who is cognizant of their historical task will do their job to the utmost, and the mass general strike will be waged at home and on the front."
+HAR_beauty_of_class_struggle_desc:0 "반동파, 부르주아, 국회의원의 숨막히는 지루함은 모두 혁명의 천둥소리 앞에서 사그라듭니다. 프롤레타리아가 그들의 꿈을 제한하도록 두들겨 맞았다면 다시 비행하는 법을 배워야 합니다. 모든 포탄과 도구들은 해방 투쟁의 일부분 입니다. 그들에게 우리의 변혁적인 전쟁의 진실을 알려주십시오! 자신들의 역사적 과제를 인식한 노동자-군인들은 최선을 다해 자신들의 일을 할 것이고, 대규모 총파업은 가정과 전선에서 진행될 것입니다."
 HAR_creative_market:0 "창조 가득한 시장"
 HAR_creative_market_desc:0 "The managers are gone. The stores of accumulated wealth and influence that allowed the aristocrats to distort the economy are in ruins. On a leveled playing field, we have an opportunity to truly unleash the creative potential of the working class. The unions and worker-owned associations now compete on their own merits, and those who best understand their field make the organizational decisions. As a bonus, the spark of dynamism can be harnessed for our military construction and research."
 HAR_ceaseless_speed_of_industry:0 "The Ceaseless Speed of Industry"
