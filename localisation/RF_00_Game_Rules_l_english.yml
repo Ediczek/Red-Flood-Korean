@@ -348,6 +348,12 @@ RULE_DISABLE_AF_DESC:0 "바보 같은 짓 말아."
 RULE_ENABLE_AF:0 "실행"
 RULE_ENABLE_AF_DESC:0 "본 컨텐트는 2021년 만우절 이벤트를 위한 에퀴스트리아 앳 워와의 협작입니다. 바보짓 나가신다!"
 
+ RULE_CONFERENCE_OPTIONS: "Peace Conferences"
+ RULE_OPTION_CONFERENCE_STANDARD: "Default"
+ RULE_OPTION_CONFERENCE_STANDARD_DESC: "The AI will take states in a peace conference based on its cores, claims, ambitions, and whether it can reach them."
+ RULE_OPTION_CONFERENCE_PLAYER_PRIMACY: "Player Primacy"
+ RULE_OPTION_CONFERENCE_PLAYER_PRIMACY_DESC: "The AI will refuse to take any states in a peace conference if it involves a player on the winning side. Note that, once this game rule is active, a debug decision will appear which allows the player the option of turning this effect off and back on throughout the game."
+
 # Superevents #
 RULE_SUPEREVENTS:0 "수퍼이벤트"
 RULE_ENABLE_SUPERS:0 "활성화됨"
