@@ -391,13 +391,13 @@ FIN_we_are_part_of_russia_for_now_desc:0 "우리 민족을 향한 러시아의 �
 FIN_prepare_the_crown:0 "대관 준비"
 FIN_prepare_the_crown_desc:0 "It is only deserving for a great nation like ours to have a prestigious leader. Following the example of ancient monarchies we will be a kingdom with our monarch ruling supreme and justly over our people. The Crowning ceremony must be an event to be remembered!"
 FIN_rally_up_the_monarchists:0 "군주주의파 결집"
-FIN_rally_up_the_monarchists_desc:0 "A lot of people in our country have been yearning for a rightful leadership since ages with the abuse of power on the hands of the Russians. Nobody has been voicing their opinion to institutionalize our power in the form of a monarchy more than the noblemen that have been arguing for Finnish representation against Russian centralization for ages now. We must strengthen their position in our government as we institutionalize a court."
+FIN_rally_up_the_monarchists_desc:0 "우리나라의 많은 사람들은 러시아인의 손에 권력이 남용되던 때로부터 계속 정당한 위정자들을 갈망해 왔습니다. 누구도 왕정의 형태로 권력 구조를 제도화하는 데 귀족만큼 큰 목소리를 내지 않았습니다. 귀족들은 수 세기 동안 러시아 중앙집권화에 맞서 핀인의 대표성을 부르짖었습니다. 조정을 제도화하고 있으니 우리 정부에서 그들의 지위를 강화해야 합니다."
 FIN_supreme_reaction:0 "극심한 반동"
 FIN_supreme_reaction_desc:0 "안팎으로 적들이 가득합니다. 우리는 적들과 무력으로 맞서고 국민들이 싸우며 지켜 온 것들을 보호할 준비를 해야만 합니다. 우리 왕국은 핀란드의 어떠한 역경 속에서도 결코 부서지지 않는 정신의 성스러운 상징과 다름없습니다. 지금 같은 시기엔 우리가 간절히 지키고 있는 신성불가침의 이상을 창과 방패를 동원하여 반드시 보호해야 합니다."
 FIN_sons_of_ikuturso:0 "이쿠-투르소의 자손들"
-FIN_sons_of_ikuturso_desc:0 "We are the followers of the ancient Iku-Turso, the god of war. The Finnish people will follow his principles of war for the sake of the glory of the nation. The ancient spirit of the Kalevala may elevate our soldiers to new heights and turn them into a raving band of furious tribesmen."
+FIN_sons_of_ikuturso_desc:0 "우리는 고대 전쟁신 이쿠-투르소의 추종자들입니다. 핀인들은 민족의 영광을 위해 그의 전쟁 원칙을 따를 것입니다. Kalevala의 고대 영혼이 우리 병사들을 새로운 경지로 끌어올려 흉폭한 부족민들의 미쳐 날뛰는 패거리로 바꿔줄 것입니다."
 FIN_king_ilmari_ascended:0 "국왕 일마리의 등극"
-FIN_king_ilmari_ascended_desc:0 "With our monarchy established firmly we steer Finland into a glorious future. We are backed up not only by our rulers shining radiance, but have guaranteed our place in the world by alliances as well. From now on we are not just a region on the map anymore but a proud kingdom to be reckoned with."
+FIN_king_ilmari_ascended_desc:0 "왕정이 탄탄히 자리잡았으니 핀란드를 영광스런 미래로 끌어갑시다. 통치자들의 찬란한 광채가 우릴 지켜주며, 우리 동맹국들로부터도 국제적 지위를 보장받았습니다. 우리는 이제 지도 위의 한 지역 따위가 아니라 국제적 셈법에서 고려될 자랑스러운 왕국입니다."
 
 FIN_army_effort:0 "Army Effort"
 FIN_army_effort_desc:0 "Despite the increasing possibilities of aerial and naval warfare, ground combat is still key in tomorrow's wars. With preparation, we can avoid reliving the hell of the trenches."
@@ -563,12 +563,12 @@ fin.110.a:0 "태양 연맹!"
 fin.110.b:0 "인테르마리움!"
 
 fin.111.t:0 "핀란드가 우리 세력 가맹을 바라다"
-fin.111.desc:0 "Finland, or the Thirty-Fourth Dynasty, has sought to establish friendly relations with us and potential joining of our faction. Should we accept?"
+fin.111.desc:0 "핀란드, 혹은 제34왕조가, 우리와 친교를 맺고 가능하면 우리 faction에도 들어오고자 합니다. 받아들일까요?"
 fin.111.a:0 "물론이지, 동료들이여!"
 fin.111.b:0 "미친놈들이야, 거절해."
 
 fin.9191.t:0 "대관식"
-fin.9191.desc:0 "Formerly Prince Ernest Augustus of Hanover. This boy was once nothing but a Prince driven from his home by godless communists. But as he stood in front of a crowd of nobles, all of FInland knew that he was something more. This was a man fit and destined to lead the new Finland, and one who was undoubtedly ordained by God to lead the Finns to glory, strength, and self-sufficiency. The entire FInnish nation now bows before King Ilmari."
+fin.9191.desc:0 "전 하노버 공작 에르네스트 아우구스투스. 이 소년은 한때 신을 믿지 않는 공산주의자에 의해 집에서 쫓겨난 공작에 불과했습니다. 그러나 그가 일단의 귀족 앞에 설 때, 핀란드의 모두는 그가 더 대단한 누군가임을 알았습니다. 그가 새로운 핀란드를 이끄는 데 제격이며 그럴 운명인 남자라는 것, 또 의심의 여지 없이 신에게 임명받아 핀인을 영광과 권세, 그리고 자급자족으로 이끌 남자라는 것을요. 핀란드 전국이 이제 일마리 왕 앞에 절합니다."
 fin.9191.a:0 "그분의 치세가 영원하시길!"
 
 fin.88.t:0 "1936년 핀란드 대선"
@@ -592,7 +592,7 @@ fin.15.desc:0 "Following the Finnish Revolution, as well as Finland’s subseque
 fin.15.a:0 "우리의 우랄 사촌들을 위해 건배!"
 
 fin.432.t:0 "권력 문제"
-fin.432.desc:0 "Our king has been for a long time wondering for how far should stretch his power - and while all of us agree he deserves to have power, none of his cabinet agree by how much, and even he is unsure of how much. However, a decision must be made, and so... \n\n 'Dear King?' Said one of his closest advisors, as the King relaxed in his desk within the Royal Palace's quarters, and thought... 'What is it?' \n Subsequently he said, 'What do you need?'. Then his liege handed over some papers... \n\n After some time reading, the King realised that his inaction over the past few months regarding his local population has caused immense need for power to be given to him, otherwise Parliamentarians will destroy the country from within! What shall be done?"
+fin.432.desc:0 "왕께서는 오랜 시간 동안 얼마나 그분의 권력을 뻗칠지를 고민하셨습니다. 그리고 우리 모두가 그분께서 마땅히 권력을 가지셔야 함을 알지만, 내각의 그 누구도 얼마만큼이어야 하는지에 대해선 합의하지 못하며, 왕께서도 거기엔 확신이 없으십니다. 그러나, 결정은 내려져야만 하므로...\n\n'왕이시여?' 왕의 가장 가까운 조언자들 중 한 사람이 왕께서 궁전 집무실 탁자에서 쉬시는 중 말했습니다... '이게 뭐지?'\n'무엇이 필요하지?' 왕께서 이어서 말씀하셨습니다. 그러자 그의 신하가 서류를 몇 장 건네드렸습니다...\n\n잠시 읽으신 뒤, 왕께서는 지방 신민들에 대한 몇 달간의 무위로 인해 권력이 그에게 주어져야 할 거대한 필요를 야기했다는 것을 깨달으셨습니다. 그렇지 않으면 의회주의자들?(Parliamentarian)이 나라를 안으로부터 무너뜨릴 것도요! 어떻게 해야 할까요?"
 fin.432.a:0 "준입헌군주정!"
 fin.432.b:0 "절대군주정!"
 
