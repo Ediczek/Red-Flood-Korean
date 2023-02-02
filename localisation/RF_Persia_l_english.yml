@@ -115,7 +115,7 @@ PER_loyal_army:0 "충성된 군"
 PER_loyal_army_desc:0 ""
 
 PER_protect_against_OSS:0 "OSS에 맞선 보호"
-PER_protect_against_OSS_desc:0 "A proper defence against outside agents is crucial to Iran's future security."
+PER_protect_against_OSS_desc:0 "외부 요인들에 맞선 적절한 방어는 이란의 미래 안보에 중요합니다."
 
 PER_womens_rights:0 "이란 여성해방"
 PER_womens_rights_desc:0 "Reforming a society to follow a more enlightenened Western vision requires the liberation of women. Comprehensive legal reform to give men and women parity in society is a crucial step on the path of progress."
@@ -192,7 +192,7 @@ PER_Mirza_Kuchik_Khan:0 "Mirza Kuchik Khan"
 
 PER_Hasan_Arfa:0 "Hasan Arfa"
 
-PER_John_Le_Rougetel:0 "John Le Rougetel"
+PER_John_Le_Rougetel:0 "존 르 루지텔"
 
 PER_Reza_Radmanesh:0 "Reza Radmanesh"
 
@@ -218,7 +218,7 @@ PER_Boris_Moller:0 "보리스 몰러"
 
 PER_Soleiman_Eskandari:0 "Soleiman Eskandari"
 
-PER_Haydar_Khan:0 "Haydar Khan"
+PER_Haydar_Khan:0 "해이대르 헌"
 
 PER_Amanullah_Jahanbani_staff:0 "Amanullah Jahanbani"
 
@@ -281,7 +281,7 @@ PER_demandafghanborder:0 "아프가니스탄 국경 요구"
     
 PER_demandtibriz:0 "티브리즈 요구"
     
-PER_demandbalochistan:0 "발로치스턴 요구"
+PER_demandbalochistan:0 "벌로치스턴 요구"
 
 #conquests#
 
@@ -341,7 +341,7 @@ PER_APOC_decisions1:0 "바쿠 유전지대 해방"
 PER_APOC_decisions1_desc:0 "The richest of all prizes, Baku. The birthplace of the modern petrochemical industry. Conveniently Persians often regard Azerbaijan as rightfully theirs, this claim gives us the perfect justification to seize the oil fields there."
 
 PER_starting_mechanic:0 "APOC 채무 관리"
-PER_starting_mechanic_desc:0 "Persia's position is one of insurmountable debt to Britain. Through conniving, confusing treaties, and sheer strongarming Persia finds itself taking in more and more debt. With the rest of our money, we might be able to pay off a little bit of it.\n\nWe have paid [?PER_debts_to_ENG|%Y0]§! of our debt."
+PER_starting_mechanic_desc:0 "영국에게 이란은 어마어마한 빚을 진 채권국입니다. Through conniving, confusing treaties, and sheer strongarming Persia finds itself taking in more and more debt. 지금 남아 있는 돈이라면 이 빚을 조금이나마 갚을 수 있을지 모릅니다.\n\n남은 채무 중 [?PER_debts_to_ENG|%Y0]§!만큼을 상환했습니다."
 
 PER_denbts_tooltip_5:0 "영국에 더 많은 돈을 보낼 것입니다..."
 
@@ -837,7 +837,7 @@ per.7.desc:0 "Following the dominance of the Jangal after the 1st Session of the
 per.7.a:0 "계급 앞에 민족."
 per.7.b:0 "민족 앞에 계급."
 #RSR
-per.71.t:0 "Socialist Iran Seeks Accord"
+per.71.t:0 "사회주의 이란이 협정을 바라다"
 per.71.desc:0 ""
 per.71.a:0 "수락한다."
 per.71.b:0 "거부한다."
@@ -845,7 +845,7 @@ per.71.b:0 "거부한다."
 per.8.t:0 "평의회주의 이란의 회원국 요청"
 per.8.desc:0 "Iran, a formerly backwards land in a hellish feudalist system, has finally broken its chains as a people and risen to the privilege of being one of few nations to participate in the International revolution. Yet, it appears that they haven't been formally adopted into our socialist alliance. Whilst some argue that Iran is not ready to the full commitments of being a member, others argue that we should wholehartedly embrace every attempt at socialism, even if it's from a backwards nation in the Middle East."
 per.8.a:0 "Allow them full membership."
-per.8.b:0 "Give them a limited role."
+per.8.b:0 "한정된 소임만을 부여한다."
 
 per.81.t:0 "독일-이란 조약의 체결"
 per.81.desc:0 "Iran has been formally signed into the Internationale as a full-time member, now deeply intertwined with one another - as celebrations occur in Tehran and Berlin, both nations begin plans to help defend one another."
@@ -860,16 +860,16 @@ per.82.b:0 ""
 #FOCUSES#
 #STARTING#
 PER_ashes_of_greatness:0 "위대의 잿더미"
-PER_ashes_of_greatness_desc:0 "The overthrow of the Qajars was supposed to halt the decline of Persia. Instead, though Reza Shah's reforms have succeeded in part, there are still serious issues and seditious elements undermining the country."
+PER_ashes_of_greatness_desc:0 "커저르조의 전복은 이란의 쇠퇴를 막기 위함이었습니다. 그러나, 레저 셔흐의 개혁이 일부 성공했다고는 해도, there are still serious issues and seditious elements undermining the country."
 
 PER_more_concessions_to_the_british:0 "런던을 위한 추가 양보"
-PER_more_concessions_to_the_british_desc:0 "Expanding the Gulf Concessions and reducing the Persian Government's oil revenues is not a choice the Persians like, but it is the position of APOC all the same."
+PER_more_concessions_to_the_british_desc:0 "Gulf Concessions의 확대와 Persian Government's oil revenues의 감축은 이란인들이 좋아할 선택이 아니지만, 어찌됐든 APOC의 주장이 그러합니다."
 
 PER_take_more_debts_once_again:0 "다시금 더 많은 빚을 지며"
 PER_take_more_debts_once_again_desc:0 "Paying for the army, the reconstruction in the 20's and for new industry and infrastructure has cost the treasury dearly. The turmoil of Turkestan, India and more have made international trade ties all the worse. Our debts are mounting and we may need more to pay for further modernisation policies."
 
 PER_send_more_iranians_to_work_for_the_british:0 "영국을 위한 더 많은 이란인 노동력 파견"
-PER_send_more_iranians_to_work_for_the_british_desc:0 "The British are expanding their operations, new wells found in Luristan mean more Persian labourers and attendants will be needed to support APOC's operations."
+PER_send_more_iranians_to_work_for_the_british_desc:0 "영국이 사업 영역을 확대하면서 로리스턴에서 새 유전을 발견하였으니, APOC의 사업을 지탱할 더 많은 이란인 노무자들과 수행원들이 필요할 것입니다."
 
 #CW#
 
@@ -898,11 +898,11 @@ PER_apoc_mercenaries_assistance_desc:0 "The Anglo-persian oil company. A parasit
 
 #SHAH
 
-PER_tamadone_bozorg:0 "Tamadon-e bozorg"
-PER_tamadone_bozorg_desc:0 "We are light in the darkness that is middle-east. We are shining beacon for souls in this abyss. We are the greatest civilization ever birthed in those accursed sands and mountains and we shall lead this place into new age of prosperity."
+PER_tamadone_bozorg:0 "위대한 문명"
+PER_tamadone_bozorg_desc:0 "우리는 중동이라는 암흑 속의 빛입니다. 우리는 이 심연 속에서 영혼들을 밝히는 등대입니다. 우리는 이 저주 받은 모래와 산맥 속에서 태어난 가운데 가장 위대한 문명이며, 번영의 새 시대로 이 땅을 이끌 것 역시 바로 우리가 할 일입니다."
 
 PER_shahs_rule_restored:0 "왕정복고"
-PER_shahs_rule_restored_desc:0 "The Monarchy is safe once more, but at a cost. The woes of the civil war were not prevented by the Shah, it may be time for him to leave the stage."
+PER_shahs_rule_restored_desc:0 "왕실은 다시 안전해졌지만 상당한 값을 치러야 했습니다. The woes of the civil war were not prevented by the Shah, it may be time for him to leave the stage."
 
 PER_pearsa_braa_aaranaan:0 "페르시아 아닌 이란"
 PER_pearsa_braa_aaranaan_desc:0 "Persia, the exonym for the Shahdom represents the colonial history and humiliation of the past, the new Persia will go by the endonym - Iran."
@@ -911,37 +911,37 @@ PER_a_new_shah_for_a_new_age:0 "새 시대를 위한 새 왕"
 PER_a_new_shah_for_a_new_age_desc:0 "The rule of Reza Shah has come to an end. He is too old to properly rule the state he was given. All this suffering is all his fault. It is time to crown the new Shah. One who will lead Persia into new brighter future. All hail Mohammed Reza Pahlavi. All hail the new Shah."
 
 PER_get_the_hell_out_of_here:0 "여기서 꺼져"
-PER_get_the_hell_out_of_here_desc:0 "Iranian soil belongs to Iranian people. The Brits occupying its soil should be thrown to gulf where they belong. Iran is no longer a slave to western powers."
+PER_get_the_hell_out_of_here_desc:0 "이란 땅은 이란인들의 것입니다. The Brits occupying its soil should be thrown to gulf where they belong. 이란은 더 이상 서양의 노예로 남지 않을 것입니다."
 
 PER_nationalise_apoc:0 "APOC 국유화"
 PER_nationalise_apoc_desc:0 "Anglo-Persian oil company. Bane of our existence. Taking our resources while not giving anything in return. They are a filthy parasite. And what do you do with a parasite that is inside your body? You kill it."
 
 PER_restore_persian_national_council:0 "이란 민족평의회 재립"
-PER_restore_persian_national_council_desc:0 "While Persia is a monarchy, many even within the loyalist forces want a parliamentary body. Saying that if it had existed Persia would not have fallen from grace, and the civil war may have been avoided. This opinion is shared even among the Shah's closest supporters, of course such a body would exist to compliment the Shah's rule, and not to confound it."
+PER_restore_persian_national_council_desc:0 "이란이 군주국이긴 해도 충성파 안에서조차 의회체의 설립을 바라는 목소리가 많습니다. 의회체가 있었더라면, 이란이 성은을 잃고 퇴락해 막을 수 있었을 법한 내전에 빠지는 일은 없었을지도 모릅니다. This opinion is shared even among the Shah's closest supporters, of course such a body would exist to compliment the Shah's rule, and not to confound it."
 
 PER_create_savak:0 "SAVAK 창립"
-PER_create_savak_desc:0 "To secure Persia from new revolution or the hands of western imperialists, a new structure must be created. SAVAK or National Oganisation for Security and Intelligence. Everything must be done to secure the Shahs rule, so SAVAK shall be given far-reaching powers over state security, answerable only to the national council and the Shah himself of course."
+PER_create_savak_desc:0 "이란을 또 다른 혁명이나 서양 제국주의자들에게서 지켜내려면 새 조직이 필요합니다. SAVAK, 혹은 안보 및 첩보를 위한 국립기구가 그것입니다. Everything must be done to secure the Shahs rule, so SAVAK shall be given far-reaching powers over state security, answerable only to the national council and the Shah himself of course."
 
 PER_only_the_rastakhiz_party:0 "오직 왕당파 정당만"
-PER_only_the_rastakhiz_party_desc:0 "While Persia now has the national council, that does not mean that all parties shall be allowed. Dangerous elements must be prohibited and only the loyalist parties shall be allowed to remain on the council."
+PER_only_the_rastakhiz_party_desc:0 "이제 이란에 민족평의회가 들어섰다곤 해도, 그것이 모든 정당의 합법을 의미하지는 않습니다. Dangerous elements must be prohibited and only the loyalist parties shall be allowed to remain on the council."
 
 PER_persian_modernisation:0 "이란 근대화"
-PER_persian_modernisation_desc:0 "For centuries, Persia was slowly draging its body behind european powers. We became the backwater of the civilised world. But now it is time to rectify it. Strict adherence Islam has proven itself to stunt national development so it must be forsaken."
+PER_persian_modernisation_desc:0 "수세기간 이란의 몸뚱이는 늘어져 유럽 열강들에 서서히 뒤쳐져 가며, 문명화된 세계의 암면으로 밀려났습니다. 하지만 이제 털고 일어설 때가 왔습니다. 이슬람에 매달리기만 하는 건 국가 발전을 지연시킬 따름임이 분명해졌으니, 잊어 버릴 줄도 알아야 합니다."
 
 PER_latinise_farsi:0 "페르시아어 라틴 문자화"
-PER_latinise_farsi_desc:0 "Farsi has been using arabic script for as long as scholars can remember. But arabic script has proven itself to be unreliable and hard. Eutopean powers use much easier and simpler latin script. Maybe latin is what Farsi needs."
+PER_latinise_farsi_desc:0 "학자들이 기억하는 한, 페르시아어는 아주 오랫동안 아랍 문자를 사용해 왔습니다. 그러나 아랍 문자가 번거롭고 어려운 데 반해, 유럽 열강들은 이보다 훨씬 쉽고 간편한 라틴 문자를 사용하고 있습니다. 어쩌면 페르시아어에도 라틴 문자가 필요할지 모르겠습니다."
 
 PER_state_secularisation:0 "국가세속화"
-PER_state_secularisation_desc:0 "To modernise Iran, it needs to be secular. For no-one is above Iranian soul, except the Shah."
+PER_state_secularisation_desc:0 "이란의 근대화는 세속화를 우선 요합니다. 셔흐를 빼고는 그 누구도 이란의 얼 위에 있을 수 없습니다."
 
 PER_a_new_armed_forces:0 "새 군대"
-PER_a_new_armed_forces_desc:0 "Ancient Iranians had a grand army before the asians, before even the europeans. And while it is in ruin now, we shall rebuild it and bring it to modern standarts."
+PER_a_new_armed_forces_desc:0 "고대 이란인들은 아시아인들보다, 심지어는 유럽인들보다도 먼저 웅대한 군을 갖고 있었습니다. 이제는 망가져 버렸다고 해도, 근대의 척도에 맞게 우리는 군을 재건해낼 것입니다."
 
 PER_artsh_pearsa__artsh_mdrn:0 "페르시아인들의 군대 - 근대식 군대"
-PER_artsh_pearsa__artsh_mdrn_desc:0 "우리는 한때 중동 전역을 정복한 힘을 가졌었습니다. 우리는 알려진 세계 전부를 가졌었습니다. But it is time to forsake old times and bring the new."
+PER_artsh_pearsa__artsh_mdrn_desc:0 "우리는 한때 중동 전역을 정복한 힘을 가졌었습니다. 우리는 알려진 세계 전부를 가졌었습니다. 그조차 잊힌 아주 오래 전 일이 되었지만, 다시금 새롭게 할 것입니다."
 
 PER_adopt_european_doctrines:0 "유럽식 교리 채택"
-PER_adopt_european_doctrines_desc:0 "While european armies are not as old as ours, they have proven to be effective against our and other civilised troops. We need to adopt their doctrines to improve ourselves."
+PER_adopt_european_doctrines_desc:0 "유럽의 군대가 우리만큼 오래진 않았다곤 해도,  they have proven to be effective against our and other civilised troops. We need to adopt their doctrines to improve ourselves."
 
 PER_wfadar_fqt_bh_aaran:0 "Wfadar fqt bh iran"
 PER_wfadar_fqt_bh_aaran_desc:0 "The most important thing in an army is not the numbers of the equipment, but whether the soldiers are willing to die for our nation. Our army is vast, filled with countless ethnicities, but they all fight and die for one thing: The glory of Iran."
