@@ -545,20 +545,20 @@ fin.12.a:0 "환영한다!"
 fin.12.b:0 "안 돼."
 
 fin.999.t:0 "우주적 연계"
-fin.999.desc:0 "The port of Helsinki was packed with families, some shaking with tears as their loved ones disembarked, perhaps never to return. As the ships left the port, only one thing occupied the minds of those aboard: Their historic mission to throw off the yoke of Arab and Anglo oppression in Egypt and once again unite with Finland's true brothers in the Red Land, and now various Fenno-Egyptian divisions have risen up against the ruling pro-Arab and pro-Anglo government in Egypt in the name of uniting in cosmic and spiritual unity the two formerly disconnected peoples of the Black Lands and the Red Lands. Now, various Coptic militias have risen up with us led by Taha Husssein in rebellion against the government aswell, bolstering our numbers and our legitimacy. It appears that things are becoming evermore wonderful for us. All that is left is to remove the Anglo scum from Luxor and other cities, and save them from their thousand-year yoke of opression!"
+fin.999.desc:0 "헬싱키항은 가족들로 콩나물시루가 되었고, 더러는 출항하며 다시는 돌아오지 못할 사랑하는 이들에게 손을 흔들며 눈물짓고 있었습니다. 선단이 항구를 나서자, 떠나는 이들의 마음엔 한 가지만이 남아있었습니다. 이집트에서 자행되는 아랍과 앵글 압제의 멍에를 떨쳐버리고, 다시 핀란드의 진정한 형제인 홍지와 연합하는 역사적인 임무 말입니다. 이제 여러 핀-이집트 사단들이, 끊어졌던 흑지와 홍지 사람들의 우주적, 영적 연합의 결속이라는 이름 하에 현 친-아랍, 친-앵글 정부에 맞서 일어나고 있습니다. 이제 타하 후세인이 이끄는 다양한 콥트교인 민병대도 우리와 함께 정부에 맞서 봉기하여, 우리의 수와 정당성을 키워 줍니다. 이제 남은 것은 앵글족 쓰레기를 룩소르와 다른 도시에서 몰아내고, 그곳들을 수천년 동안 짓눌린 멍에로부터 구하는 것입니다!"
 fin.999.a:0 "우주적 자유가 우리 코앞에 있다."
 
 fin.77777.t:0 "패색이 짙어지다"
-fin.77777.desc:0 "Despite incredible efforts done to protect our beloved Egypt and our Cape-Cairo Railway, it appears the Finns and their insane ideology of Fenno-Egyptianism has prevailed over Egypt entirely. Should we look for a ceasefire whilst we can?"
+fin.77777.desc:0 "우리의 귀중한 이집트와 케이프-카이로 철도를 지키려는 경이로운 노력에도 불구하고, 핀인들과 그들의 정신나간 핀-이집트주의 사상이 이집트 전역에서 승리를 쟁취해낸 것으로 보입니다. 우리가 할 수 있을 때 정전을 모색해야 할까요?"
 fin.77777.a:0 "그래. 더 이상의 죽음만은 막도록 하지."
 fin.77777.b:0 "더 광신자 놈들을 지워버릴 것이다!"
 
 fin.77778.t:0 "영국이 평화를 제의하다"
-fin.77778.desc:0 "After victory in our glorious campaign across Egypt, we have successfully manage to take over most of Egypt and subsequently wiped out the Anglo menace from all of the area. Therefore, they have cowardly given us a letter of capitulation of the Egyptian government and white peace. Should we accept?"
+fin.77778.desc:0 "이집트 전역에 걸친 우리의 영광스런 승리 이후에, 우리는 성공적으로 이집트의 대부분을 장악하고 모든 곳에서 앵글족의 위협을 척결했습니다. 그러므로, 그들은 겁쟁이처럼 이집트 정부의 조건부 항복과 무조건 평화를 담은 서한을 보내왔습니다. 받아들일까요?"
 fin.77778.a:0 "물론이다. 더 이상의 피를 볼 순 없지."
 
 fin.110.t:0 "동맹 물색"
-fin.110.desc:0 "In our crusade across the Black Lands and our subsequent desires to unify with our peoples of the Red Lands, we need to find allies to have any kind of chance of projecting power. Therefore, we need to choose one of the power blocs in Europe to be aligned towards in our great quest for freedom. Who shall it be?"
+fin.110.desc:0 "흑지 전역에 걸친 운동과 그에 이은 홍지의 우리 인민들과 연합하고자 하는 열망 때문에, 우리는 무엇이든 세력 투사를 해 줄 동맹을 찾아야 합니다. 그러므로, 유럽의 두 세력권 중에서 우리는 자유를 위한 우리의 거대한 여정에서 손을 잡을 곳을 선택해야 합니다. 어디로 할까요?"
 fin.110.a:0 "태양 연맹!"
 fin.110.b:0 "인테르마리움!"
 
@@ -572,7 +572,7 @@ fin.9191.desc:0 "Formerly Prince Ernest Augustus of Hanover. This boy was once n
 fin.9191.a:0 "그분의 치세가 영원하시길!"
 
 fin.88.t:0 "1936년 핀란드 대선"
-fin.88.desc:0 "With Franz Albert Seyn now gone, Finland is now free to hold its first fair and free national election! Three front runners have emerged from the most popular democratic parties, namely Kyösti Kallio from the liberal Agrarian League, Juho Kusti Paasikivi from the conservative National Coalition Party, and Väinö Tanner from the Social Democratic Party. Tanner is the frontrunner among the general population, and has managed to woo the upper and lower classes alike with his promises of fairness and equality without the tyranny of councilism. Kallio and Paasikivi have denounced Tanner as a pseudo-Communist, and are targeting support from the middle and upper classes respectively while aiming to beat Tanner in Electoral votes, which seems incredibly likely considering the generally conservative views of the electors. This is a historic moment in Finnish history, one which will be remembered by Finns everywhere for decades to come."
+fin.88.desc:0 "프란츠 알베르트 지인이 사라졌으니, 핀란드는 최초로 공정하며 자유로운 전국 선거를 마음껏 시행할 수 있습니다! 세 선두 주자가 가장 인기있는 민주 정당에서 나타났습니다. 자유주의적 농업 연맹의 Kyösti Kallio와, 보수파인 민족연합당의 Juho Kusti Paasikivi, 사회민주당의 Väinö Tanner입니다. Tanner는 일반 대중들 사이에서 1위를 달리며, 의회주의(councilism)의 폭정이 없는 공정과 평등을 약속함으로서 상류층과 하류층 계급을 끌어모으기까지 했습니다. Kallio and Paasikivi는 Tanner를 유사 사회주의자라고 맹렬히 비난하며, 중산층과 상류층을 각각 공략하며 Tanner를 선거인단 수에서 이기고자 합니다. 선거인단 내에선 보수세가 강하니 훨씬 가능성이 높은 수이지요. 지금은 수십년간 기다려 온 전국의 핀인들의 기억에 남을 핀란드의 역사적 순간입니다."
 fin.88.a:0 "Väinö Tanner가 압도적 우세를 보이다!"
 fin.88.b:0 "Kyösti가 간신히 승리하다!"
 fin.88.c:0 "Paasikivi가 안정적 수치로 승리하다!"
@@ -588,7 +588,7 @@ fin.14.a:0 "대핀란드가 답이다!"
 fin.14.b:0 "지금의 국경으로도 충분하다."
 
 fin.15.t:0 "핀란드-헝가리간 우호동맹상호지원조약 체결"
-fin.15.desc:0 "Following the Finnish Revolution, as well as Finland’s subsequent ascension to the Third International, the nations of Hungary and Finland have seen a massive increase in friendly relations with one another. This newfound friendship has culminated in the adoption of a treaty which takes their relationship to the next level, adding economic and military cooperation to their shared membership in the Third International. In an official statement, the Finnish government stated, “A little-known fact about Hungary and Finland is that our peoples actually have common history as Uralic tribesmen. Although we Socialists are not overly concerned with ethnicities and the pseudoscience known as ‘race’, socialist internationalism has provided us with an opportunity to explore and celebrate our shared history.” The Hungarians have responded similarly, with overtures of admiration for the versatility of Finland against the Russian juggernaut. Some of the more nationalistic party members in both nations have expressed concerns that too much co-dependence will erode both Finnish and Hungarian national identities, which are vital to protect in the face of Russian and Austrian imperialism respectively. However, the two governments have assured their people that they are dedicated to national self-determination, and that cooperation will only strengthen the two peoples."
+fin.15.desc:0 "핀란드 혁명과 그에 따른 핀란드의 제3인터내셔널 가입에 따라, 헝가리와 핀란드 상호간 친선의 상당한 진전이 있었습니다. 이 새로운 친교는 그들의 관계를 높은 수준으로 끌어올려, 제3인터내셔널 내의 회원국으로서 경제적, 군사적 협력을 기하는 조약의 발효로 이어졌습니다. 핀란드 정부는 공식 성명을 통해 이같이 밝혔습니다. "헝가리와 핀란드 사이에 잘 알려지지 않은 사실이 있는데, 두 나라를 이루는 민족이 사실 우랄 제민족으로서 역사를 공유한다는 사실입니다. 우리 사회주의자들이 민족성과 '인종' 따위의 유사과학에 과도한 관심을 표하지는 않지만, 사회주의적 국제주의는 우리가 공유된 역사를 탐구하고 기릴 기회를 만들어 주었습니다." 헝가리인들은 러시아의 막강한 힘에 대항하는 핀란드의 다재다능함에 대한 감탄을 담아 비슷하게 응답했습니다. 더욱 민족주의적인 양국 당원들은 과도한 상호의존이 핀란드와 헝가리의 민족적 정체성을 약화한다는 우려를 표했습니다. 그러한 정체성이 러시아와 오스트리아 제국주의에 맞서는 데 필수적이라는 것입니다. 그러나, 두 정부는 양국 인민이 민족 자결에 헌신할 것이고, 협력은 양국 인민에 힘을 더하리라고 확언했습니다."
 fin.15.a:0 "우리의 우랄 사촌들을 위해 건배!"
 
 fin.432.t:0 "권력 문제"
