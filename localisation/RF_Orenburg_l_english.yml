@@ -81,7 +81,7 @@ ORE_accelerationism_party:0 "RSDRP(b)-V"
 ORE_accelerationism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya (bolsheviki) - Vpered"
 
 #LEADER DESCRIPTIONS#
-ORE_SAINT_DEVIL_TT:0 "§R세계라 우리를 악마로 여긴다면 그러라 하십시오.§!"
+ORE_SAINT_DEVIL_TT:0 "§R세계가 우리를 악마로 여긴다면 그러라 하십시오.§!"
 ORE_DESC_MENU:0 "내전의 발발은 군사지구 체제가 너무나 비효율적임을 모든 정당들 앞에 보여주었습니다. 알렉산드르 두토프와 그의 카자키 자치대가 이끄는 오렌부르크 군사지구는 이런 상황 속에서 태어났습니다. 중립을 유지했어야 했을 두토프는 분쟁 당시 콜차크에게 자신의 몫을 걸었습니다. 카자흐 시위가 진압된 이후 알라쉬 정당들은 대놓고 두토프에 반대하기 시작했습니다. 1932년과 33년의 기근이 친공산주의 향민 봉기로 이어지며 상황은 악화됐습니다. 오렌부르크 군사지구의 동란은 대체로 끝난 듯해도, 오렌부르크 위로 날아들 독수리들이 모습을 드러낼진 지켜볼 일입니다."
 POLITICS_ALEX_DUTOV_DESC:0 "알렉산드르 두토프가 가진 풍부한 카자크 연대 지휘 경험은 오렌부르크 카자키 통치에 필요한 재주를 그에게 주었습니다. 두토프의 업무는 두 가지입니다. 오렌부르크 영토를 러시아의 통제하에 두고, 그에 맞서는 이는 모두 죽이는 것. 단련된 러시아 군인으로서, 두토프는 두 직무를 기꺼이 수행해내고 있습니다."
 #IDEAS#
@@ -208,7 +208,7 @@ ore.4.t:0 "오렌부르크 전투"
 ore.4.d:0 "두토프 장군이 사망하고 그가 가장 두려워하던 일이 벌이지고 말았습니다. 도시이자 지구로서의 오렌부르크가 혼돈에 휩싸인 것입니다. A chain of explosions rattled the city early this morning with a series of massive hollow booms, and bands of Kazakh partisans, pre-positioned in workhouses and factory dormitories or packed into leased-out flophouses, flooded out into the city. 일부 집단은 간신히 진압됐지만, 다른 무리는 도시를 돌파하고 벽촌을 포위하며 전략거점을 점령하는 등 훈련의 분명한 기미와 함께 통일된 무기체계를 보였습니다. 반군과 준군사 경찰대가 주고받는 총성이 오렌부르크 전역에서 메아리쳤습니다. The citizens have vanished, huddling in their homes and hoping to avoid stray bullets, or else hunkering down with what arms they possess to defend their own property. However, something is amiss in this attempt at a while coup. Messages have gone out, missives dispatched by an anonymous writer claiming to be a general officer of the Orenburg Russian Army, to the garrisons surrounding the city. The missives order the troops to assemble and immediately march on critical positions, doubtlessly putting them into direct conflict with the rebels. But with the source of these missives unknown and their authority dubious at best, the officers are quarreling over the proper response. It remains to be seen how many, if any, of the garrison commanders will march If enough of them move quickly, their regular troops will no doubt crush the irregular partisans. A partial or piecemeal response from the army will likely hand victory to the rebels and traitors - but with Dutov dead and Orenburg in chaos, it is a mystery who would have both the means and motive to arrange the failure of the revolt."
 ore.4.a:0 "보아하니 키르기즈 분리주의자들이 축하를 벌이겠군."
 ore.4.b:0 "어쩌면 불가사의한 러시아 모략자들이 샴페인을 따게 되지 않을까?"
-ore.4.c:0 "In the end, the cult of Rasputin wins today"
+ore.4.c:0 "끝에는 라스푸틴 숭배단이 이기게 되겠지."
 
 ore.5.t:0 "불사조처럼 날아가며"
 ore.5.d:0 "The deafening roar of a crowd is thrown to the ears of Nikolay Trubetskoy, intellectuals across the cities of Orenburg and national minorities cheer happily as Dutov's regime disintegrates into ash, and a Phoenix rises in it's place - the proclamation of Eurasia rises the hopes of a new future under a reimagined Russia, under the ideal of an Eurasianist concept."
