@@ -36,23 +36,23 @@ SWI_accelerationism_ADJ:0 "스위스"
 
 #PARTIES#
 SWI_anarchism_party:0 "SFB"
-SWI_anarchism_party_long:0 "Schweizerischer Freiwirtschaftsbund"
+SWI_anarchism_party_long:0 "스위스 자유경제연맹"
 SWI_vanguard_socialism_party:0 "KPS"
 SWI_vanguard_socialism_party_long:0 "스위스 공산당"
 SWI_popular_socialism_party:0 "SPS"
 SWI_popular_socialism_party_long:0 "스위스 사회민주당"
 SWI_revisionist_socialism_party:0 "SFB"
-SWI_revisionist_socialism_party_long:0 "Schweizerischer Freiwirtschaftsbund"
+SWI_revisionist_socialism_party_long:0 "스위스 자유경제연맹"
 SWI_progressivism_party:0 "LdU"
-SWI_progressivism_party_long:0 "Landesring der Unabhängigen"
+SWI_progressivism_party_long:0 "비당파 모임"
 SWI_liberalism_party:0 "FDP"
-SWI_liberalism_party_long:0 "Freisinnig-Demokratische Partei"
+SWI_liberalism_party_long:0 "자유민주당"
 SWI_conservatism_party:0 "BGB"
-SWI_conservatism_party_long:0 "Bauern-, Gewerbe- und Bürgerpartei"
+SWI_conservatism_party_long:0 "농상시민당"
 SWI_right_authoritarianism_party:0 "BfdSdsN"
 SWI_right_authoritarianism_party_long:0 "스위스 민족수호운동"
 SWI_despotism_party:0 "BfdSdsN/NF"
-SWI_despotism_party_long:0 "스위스 민족수호운동/민족전선t"
+SWI_despotism_party_long:0 "스위스 민족수호운동/민족전선"
 SWI_reactionism_party:0 "NBS"
 SWI_reactionism_party_long:0 "슈바이츠 민족운동"
 SWI_accelerationism_party:0 "SNF"
@@ -61,7 +61,7 @@ SWI_accelerationism_party_long:0 "스위스 민족전선"
 #LEADER DESCRITIONS#
 #IDEAS#
 SWI_fanatic_antisocialism:0 "광신에 찬 반사회주의"
-SWI_fanatic_antisocialism_desc:0 "There exists no greater evil than one that's trying to deprive you of your homeland. Our ancestors understood this, but in 1918, a portion of our working force decided to rebel in favor of the socialists in Germany. Thankfully, we put them down, but with the threat still present at our border, we need to expect everything and not give even an inch to the reds."
+SWI_fanatic_antisocialism_desc:0 "당신에게서 당신의 고국을 앗아가려는 자보다 더 악독한 건 없습니다. 이는 우리 선조들께서도 이해하신 바였건만, 1918년 우리의 노동력 중 일부는 독일 사회주의자들의 편에 서 반란을 일으켰습니다. 다행히도 우리는 놈들을 진압했지만, 위협이 여전히 접경에 남아 있는 한 우리가 가진 모든 것을 동원해 저 빨갱이들에게 한 뼘의 땅도 내어 주지 않을 것입니다."
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#

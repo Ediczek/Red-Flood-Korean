@@ -213,7 +213,7 @@ FIU_1936:0 "아르디티 민병대"
 FIU_keller_postwar:0 "켈레르의 이탈리아 정복"
 FIU_marinetti_postwar:0 "마리네티의 이탈리아 정복"
 FIU_shimoi_postwar:0 "시모이의 이탈리아 정복"
-ITA_LOST:0 "@FIU §YThe Revolutionary Government in Fiume§! has vanquished @ITA §Ythe Government in Rome,§! marking a triumphant finale to §Ythe Endeavour.§!"
+ITA_LOST:0 "@FIU §Y피우메 내 혁명정부§!가 @ITA §Y로마의 정부§!를 격퇴하며 §Y각고§!의 막장을 승리로 마쳤습니다."
 
 League_Solar:0 "태양 연맹"
 
@@ -523,7 +523,7 @@ FIU_nation_for_all_1:0 "모두를 위한 국가"
 FIU_nation_for_all:0 "모두를 위한 국가"
 FIU_nation_for_all_2:0 "모두를 위한 국가"
 FIU_wealth_spirit:0 "영혼의 부"
-FIU_nofaithbutlove:0 "Not Faith, but Love"
+FIU_nofaithbutlove:0 "신앙이 아닌 사랑을"
 FIU_spirit_heroes:0 "영웅들의 혼"
 
 #m
@@ -574,7 +574,7 @@ FIU_Giovanni_Papini:0 "조반니 파피니"
 FIU_Enrico_Corradini:0 "엔리코 코라디니"
 FIU_Alceste_de_Ambris:0 "알체스테 데 암브리스"
 
-FIU_xv_arengo_category:0 "XV Arengo"
+FIU_xv_arengo_category:0 "15차 아렝고"
 xv_arengo_gui_title:0 "Consiglio degli Ottimi - Consiglio dei Provvisori"
 fiume_arengo_keller_text:0 "Popularity of §YGuido Keller§!: §Y[?FIU_keller_popularity]%§!"
 fiume_arengo_marinetti_text:0 "Popularity of §YFilippo Tommaso Marinetti§!: §Y[?FIU_marinetti_popularity]%§!"

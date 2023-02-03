@@ -123,8 +123,8 @@ MOL_WON_WAR_1:0 "@MOL §YThe Government in Moldova§! has defeated @ROM §Ythe R
 MOL_WON_WAR_2:0 "@MOL §YThe Government in Wallachia and Moldova§! has defeated @TRS §Ythe Rival Government in Transylvania§! in §Ythe Second War of Union,§! unifying Greater Romania."
 TRS_WON_WAR_1:0 "@TRS §YThe Government in Transylvania§! has defeated @ROM §Ythe Rival Government in Wallachia and Moldova§! in §Ythe Second War of Union,§! unifying Greater Romania."
 TRS_WON_WAR_2:0 "@TRS §YThe Government in Transylvania§! has defeated @MOL §Ythe Rival Government in Wallachia and Moldova§! in §Ythe Second War of Union,§! unifying Greater Romania."
-ROM_DIVIDE_TT:0 "§CThis National Spirit will disappear once Romania is united.§!"
-ROM_CAREFUL_TT:0 "§RIf Carol doesn't stop soon, he might go past the point of no return.§!"
+ROM_DIVIDE_TT:0 "§C본 국민정신은 루마니아 통일 시 사라집니다.§!"
+ROM_CAREFUL_TT:0 "§R카롤이 당장 멈추지 않는다면 돌아올 수 없는 강을 건너게 될지도 모릅니다.§!"
 #IDEAS#
 ROM_divide:0 "대분열"
 ROM_divide_desc:0 "Romania, once again, is disunited. With a series of events, beginning in 1913 with the Great War, ending in 1920 with the end of the War of Union, Romania has almost entirely stopped resembling its former self. With all governments fundamentally opposed to each other, Romania can unite only by war, and unite it shall."
@@ -136,6 +136,6 @@ ROM_legitimate_government:0 "정통정부"
 ROM_legitimate_government_desc:0 "We are the Legitimate Government, with both Moldova and Transylvania being unlawfully stolen from us in the Great War and the War of Union. Our goal since the unification of the Principalities so many years ago has always been the unity of all Romanians - and we will pursue it against all odds."
 
 #MINISTERS#
-ROM_gheorghe_tatarescu_hog:0 "Gheorghe Tatarescu"
+ROM_gheorghe_tatarescu_hog:0 "게오르게 타타레스쿠"
 #FOCUSES#
 #Events#

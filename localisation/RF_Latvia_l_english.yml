@@ -1,11 +1,11 @@
 ﻿l_english:
 #COUNTRY NAME#
 
-LAT_vanguard_socialism:0 "라트비아 소비에트 사회주의 공화국"
-LAT_vanguard_socialism_DEF:0 "라트비아 소비에트 사회주의 공화국"
+LAT_vanguard_socialism:0 "라트비아 소볘트 사회주의 공화국"
+LAT_vanguard_socialism_DEF:0 "라트비아 소볘트 사회주의 공화국"
 LAT_vanguard_socialism_ADJ:0 "라트비아"
-LAT_popular_socialism:0 "라트비아 소비에트 사회주의 공화국"
-LAT_popular_socialism_DEF:0 "라트비아 소비에트 사회주의 공화국"
+LAT_popular_socialism:0 "라트비아 소볘트 사회주의 공화국"
+LAT_popular_socialism_DEF:0 "라트비아 소볘트 사회주의 공화국"
 LAT_popular_socialism_ADJ:0 "라트비아"
 LAT_anarchism:0 "라트비아 연맹"
 LAT_anarchism_DEF:0 "라트비아 연맹"
@@ -41,28 +41,28 @@ LAT_accelerationism_ADJ:0 "라트비아"
 LAT_subject:0 "리보니아 총독부"
 #PARTIES#
 LAT_vanguard_socialism_party:0 "VKP"
-LAT_vanguard_socialism_party_long:0 "Visbaltijas Komunistiskā Partija"
+LAT_vanguard_socialism_party_long:0 "전 발트 공산당"
 
 LAT_popular_socialism_party:0 "VKP"
-LAT_popular_socialism_party_long:0 "Visbaltijas Komunistiskā Partija"
+LAT_popular_socialism_party_long:0 "전 발트 공산당"
 
 LAT_anarchism_party:0 "AA"
-LAT_anarchism_party_long:0 "Arodbiedrību Alianse"
+LAT_anarchism_party_long:0 "노조동맹"
 
 LAT_revisionist_socialism_party:0 "LSP"
-LAT_revisionist_socialism_party_long:0 "Latvijas Sociāldemokrātiskā Partija"
+LAT_revisionist_socialism_party_long:0 "라트비아 사회민주당"
 
 LAT_progressivism_party:0 "DP"
-LAT_progressivism_party_long:0 "Demokrātiskā Partija"
+LAT_progressivism_party_long:0 "민주당"
 
 LAT_liberalism_party:0 "DP"
-LAT_liberalism_party_long:0 "Demokrātiskā Partija"
+LAT_liberalism_party_long:0 "민주당"
 
 LAT_conservatism_party:0 "LKP"
-LAT_conservatism_party_long:0 "Latvijas Kristīgā Partija"
+LAT_conservatism_party_long:0 "라트비아 기독교당"
 
 LAT_right_authoritarianism_party:0 "ZIP"
-LAT_right_authoritarianism_party_long:0 "Zemes Ipašnieku Partija"
+LAT_right_authoritarianism_party_long:0 "지주당"
 
 LAT_despotism_party:0 "천둥십자당"
 LAT_despotism_party_long:0 "천둥십자당"
