@@ -3,15 +3,15 @@
 
 #PARTIES#
 VEN_anarchism_party:0 "SAMO"
-VEN_anarchism_party_long:0 "Sociedad de Auxilio Mutuo de Obreros"
+VEN_anarchism_party_long:0 "노동자 상호원조회"
 VEN_vanguard_socialism_party:0 "PCV"
 VEN_vanguard_socialism_party_long:0 "베네수엘라 공산당"
 VEN_popular_socialism_party:0 "PCV"
 VEN_popular_socialism_party_long:0 "베네수엘라 공산당"
 VEN_revisionist_socialism_party:0 "ARDI"
-VEN_revisionist_socialism_party_long:0 "Asociación Revolucionaria de Izquierda"
+VEN_revisionist_socialism_party_long:0 "좌익 혁명가 협회"
 VEN_progressivism_party:0 "AdVL"
-VEN_progressivism_party_long:0 "Administración de Vicente Lecuna"
+VEN_progressivism_party_long:0 "빈센테 레쿠나 행정부"
 VEN_liberalism_party:0 "PDN"
 VEN_liberalism_party_long:0 "민주민족당"
 VEN_conservatism_party:0 "PDV"
@@ -19,11 +19,11 @@ VEN_conservatism_party_long:0 "베네수엘라 민주당"
 VEN_right_authoritarianism_party:0 "UMP"
 VEN_right_authoritarianism_party_long:0 "애국자 군사연합"
 VEN_despotism_party:0 "ACB"
-VEN_despotism_party_long:0 "Agrupaciones Cívicas Bolivarianas"
+VEN_despotism_party_long:0 "볼리비아 민간단체"
 VEN_reactionism_party:0 "PARNAC"
 VEN_reactionism_party_long:0 "민족주의당"
-VEN_accelerationism_party:0 "Viernes"
-VEN_accelerationism_party_long:0 "Grupo 'Viernes'"
+VEN_accelerationism_party:0 "금요일"
+VEN_accelerationism_party_long:0 "'금요일' 집단"
 
 #LEADER DESCRITIONS#
 #IDEAS#
