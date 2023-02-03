@@ -18,12 +18,12 @@ WAF_despotism_party:0 "프랑스 회복파"
 WAF_reactionism_party:0 "프랑스 회복파"
 WAF_accelerationism_party:0 "포르토 노보 주재 프랑스 공사관"
 #LEADER DESCRITIONS#
-POLITICS_ANDREW_COHEN_DESC:0 "Hailing from an Anglo-Jewish family, Cohen has roots to the oldest Ashkenazi family in Britain. Educated in Malvern College, Cohen has created his own vision of colonial policy; one of moderation. No one would be subject to any kind of supremacy, no white man or black man will be put under repression for who they are, and responsible government, law, and human wellbeing are at the forefront of his policy. A kind man, Cohen knows what needs to be done to secure the wellbeing of the West Africans and how to properly introduce them to Democracy."
+POLITICS_ANDREW_COHEN_DESC:0 "잉글랜드계 유대인 집안에서 자란 코헨은 영국에서 가장 오랜 아쉬케나짐의 뿌리를 지니고 있습니다. 맬번 대학에서 수학하며, 코헨은 온건한 축에 속하는 자신만의 식민정책을 향한 전망을 창조해냈습니다. 어느 누구도 다른 누군가의 우세 앞에 무릎꿇지 않고, 백인이든 흑인이든 자신들이 누구인지를 두고 억압 받지 않는, 책임 질 줄 아는 정부 말입니다. 따스한 손길을 지닌 코헨은 서아프리카인들의 안위를 확실히 하기 위해, 그리고 이들에게 민주정을 올바르게 부여하기 위해 무엇을 해야 할지 잘 알고 있습니다."
 #IDEAS#
 WAF_an_experiment:0 "민주정에서의 실험"
-WAF_an_experiment_desc:0 "The West African Federation is an experiment in creating a new colonial policy for Britain's gigantic realm, which is slowly coming off the seams. However, just because Britain's empire is having troubles doesn't mean they won't intervene swiftly if our democracy begins getting the wrong ideas..."
+WAF_an_experiment_desc:0 "서아프리카 연방은 점차 뜯겨져 나가고 있는 영국의 막대한 영역 속 새 식민정책 수립을 위한 실험체입니다. 하지만, 영국의 제국이 곤란을 겪는 중이라 해서, 우리의 민주정이 잘못된 마음을 먹었을 때 영국이 즉각 간여하지 않으리라는 뜻은 아닙니다..."
 WAF_language_division:0 "언어 분열"
-WAF_language_division_desc:0 "The former colonies that comprise the West African Federation are disunited in language matters, ethnic matters and finally religious matters - it is clear that, as much as we try, there is no good choice for a lingua franca that spans across all our territory. At least unless something drastic happens..."
+WAF_language_division_desc:0 "서아프리카 연방으로 새로이 조합된 옛 식민지들은 언어를 두고, 종족을 두고, 그리고 종교를 두고도 크게 분열돼 있으니, 우리가 노력하면 할수록 전역에서 통용될 공용어가 마땅치 않음이 점점 더 분명해지고 있습니다. 적어도 어떤 대경할 만한 일이라도 벌어지지 않는 한에는 말입니다..."
 #CUSTOM TOOLTIPS AND FLAGS#
 WAF_an_experiment_tooltip:0 "§R우리 정치체제에서 마음에 들지 않는 결과가 나온다면 영국은 몇 시간 내로 우리 도시에 진입할 것입니다.§!"
 #DECISIONS (1.5 Update)#
