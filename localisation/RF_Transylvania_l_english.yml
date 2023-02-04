@@ -113,16 +113,16 @@ POLITICS_FLUREAS_DESC:0 "Ioan Flureas는 트란실바니아 사회주의 정당 
 POLITICS_STELESCU_DESC:0 "야쉬나 부쿠레쉬티에서 Mihai Stelescu의 이름을 떠들었다간 그 자리에서 총에 맞아 죽을 수도 있을 겁니다. The infamous, now former, legionnaire has almost singlehandedly shaped Romania's politics with the 1930 coup attempt in Romania, right after King Ferdinand I's death. The failure has led to the Legion being exiled to Moldova and adopting an entirely new strategy, and Stelescu over the years began losing influence in the movement, until in 1933 he felt the pressure was too much and split off from the Legion, forming the \"White Eagles\" and being quickly forced into exile yet again, this time settling in Transylvania, where he met the famous writer, Panait Istrati. Istrati, disillusioned with Leninism, began searching for something new, and when he found the new movement, he decided to join it, becoming a large influence in their current, socialist-aligned views. Now, the Eagles are a part of the Federation, aiming as high as ever."
 
 #IDEAS#
-TRS_hungarian_benefactors:0 "Hungarian Benefactors"
+TRS_hungarian_benefactors:0 "헝가리 수혜자들"
 TRS_hungarian_benefactors_desc:0 "The Socialist Republic, although very autonomous, is closely linked to the Hungarian Council Republic, with the government constantly pulling itself closer to Hungary. This has led to major Hungarian influence in the economy - something very much appreciated by the government in Budapest."
 TRS_red_romanian_idea:0 "붉은 루마니아 관념"
-TRS_red_romanian_idea_desc:0 "Transylvania, in order to survive, must adapt. If the Revolutionary Government is to hold, we must anticipate a strike from the governments in Wallachia and Moldova and unite Romania under our banner."
-TRS_white_eagles:0 "하얀 수리들"
-TRS_white_eagles_desc:0 "\"The White Eagles\" is a name given to Mihai Stelescu and Panait Istrati's group within the Federation. Strongly nationalist, oriented against the Internationale, with nearly anarchic economic ideas, the group appeals to a very specific demographic, but nonetheless hopes to dominate the political scene."
+TRS_red_romanian_idea_desc:0 "트란실바니아가 살아남기 위해서는 적응해야 합니다. 혁명정부가 자리를 지키려면 발라히아와 몰도바에서 벌어지는 격쟁에 가담해 우리의 기치 아래 루마니아를 통일해야 합니다."
+TRS_white_eagles:0 "흰수리파"
+TRS_white_eagles_desc:0 "\"흰수리파\"는 연방 내 미하이 스텔레스쿠 및 파나이트 이스트라티의 집단에게 붙은 이름입니다. 강경 민족주의자로 구닥다리라 할 경제관념을 지니고 있으며, 인터내셔널에 항거하는 이 집단은 매우 제한된 무리에만 영향을 끼치고 있지만, 정치무대의 주도를 바라기는 매한가지입니다."
 #CUSTOM TOOLTIPS AND FLAGS#"
-WAR_NAME_ROM_TRS:0 "The Second War of Union"
-WAR_NAME_MOL_TRS:0 "The Second War of Union"
-TRS_VA_TT:0 "§RIf they are not monitored closely, chances are they might not play by the rules.§!"
+WAR_NAME_ROM_TRS:0 "2차 단결전쟁"
+WAR_NAME_MOL_TRS:0 "2차 단결전쟁"
+TRS_VA_TT:0 "§R긴밀히 두고 감시하지 않는다면 놈들이 규칙을 벗어나 제멋대로 굴지도 모릅니다.§!"
 #DECISIONS (1.5 Update)#
 
 

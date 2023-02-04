@@ -140,7 +140,7 @@ ITA_swelling_ranks_1:0 "The Swelling Ranks"
 ITA_swelling_ranks_2:0 "The Swelling Ranks"
 ITA_opening_moves:0 "Opening Moves"
 ITA_opening_moves_1:0 "Opening Moves"
-ITA_athenes_coup_timer:0 "아티나에서의 정변"
+ITA_athenes_coup_timer:0 "아시나에서의 정변"
 
 ITA_overburdened_administration_n1:0 "Overburdened Administration"
 ITA_idea_farmer_subsides_n:0 "Farmer Improvements"
@@ -243,12 +243,12 @@ ITA_farming_problem_ed:0 "§YThe National Economy§!란의 디시전들을 추�
 ITA_financial_problem_ed:0 "§YThe National Economy§!란의 디시전들을 추가합니다."
 ITA_trade_problem_ed:0 "§YThe National Economy§!란의 디시전들을 추가합니다."
 
-ITA_national_shipyards_tooltip:0 "Adds decisions to §YNaval Sector Development§! category."
-ITA_necessary_bases_tooltip:0 "Adds decisions to §YNaval Sector Development§! category."
+ITA_national_shipyards_tooltip:0 "§YNaval Sector Development§!란의 디시전들을 추가합니다."
+ITA_necessary_bases_tooltip:0 "§YNaval Sector Development§!란의 디시전들을 추가합니다."
 
-ITA_bounaparte_decisions:0 "Unlocks decisions for §YOperation Buonaparte§!"
-ITA_quaternion_decisions:0 "Unlocks decisions for §YOperation Quaternion§!"
-ITA_balbos_war_tooltip:0 "Unlocks decisions in §YSieze the Day§! category"
+ITA_bounaparte_decisions:0 "§Y부오나파르테 작전§!을 둔 디시전들이 해제됩니다"
+ITA_quaternion_decisions:0 "§YQuaternion 작전§!을 둔 디시전들이 해제됩니다"
+ITA_balbos_war_tooltip:0 "§YSieze the Day§!란의 디시전들이 해제됩니다"
 
 ROYAL_BUREAU_WORKS_TOOLTIP:0 "Unlocks decisions in §YRoyal Bureau for Public Works§! category."
 ROYAL_BUREAU_MUNITIONS_TOOLTIP:0 "Unlocks decisions in §YRoyal Bureau for Munitions and Armaments§! category."
@@ -924,7 +924,7 @@ italy.130.t:0 "A Meeting Too Long Deferred"
 italy.130.d:0 "Carlo Sforza, Italian Minister Extraordinary and Plenipotentiary to the Sister Republics, did not begrudge the two men before him their tearful embrace. After so many years of painful struggle, heartbreaking defeats and anxious crises, Russia was finally united and free. Vasily Maklakov and Pavel Milyukov separated, ready to get down to business.\nThough technically this was a negotiation between separate nations, the two Russians absolutely agreed on the major point: immediate reunification of the country. This meeting was really about explaining the new European system to Milyukov, and securing his blessing for Italy’s temporary status as protector of Russia while it was reunified and reconstructed. As they ironed out the particulars of reunification, they invited Sforza to sit with them. \nHe began to explain, for the umpteenth time, Italy’s position. “Signore Milyukov, I assure you that Italy has no desire to institute a system of protectorate nations, despite what you may have heard. The fact is that the federation has suffered mightily to liberate many nations, and thus we ask a rather modest price for our efforts. Italy requests most favored nation status for trade in Russia for three years, after which Russia will be accepted without delay into the European economic agreement we intend to create. Between now and then you may make other agreements as you please.”\n“Furthermore, Russia will be obliged to keep a standing army of sufficient size to both defend itself and assist sister republics as the need should arise, with supreme allied command being held by an Italian officer for another year. By that point we should all be working closely enough that a supreme commander will no longer be necessary or could be chosen by the sister republics in concert. Finally, you must swear to maintain exclusivity of alliance with Italy and the other recognized sister republics, and sign a permanent treaty of non-aggression and cooperation with all of them. Are these terms acceptable?”\nMilyukov sniffed. The terms were acceptable, even desirable in the short term-- he and his colleagues had a lot of damage to fix. Nevertheless it was still a bit galling for Russia to be dictated to so bluntly by such an upstart power. Milyukov smiled tightly. “I certainly accept. We do owe you much, though I hope that in future talks we can negotiate on a more… level basis?”\nSforza nodded his understanding. “Certainly, sir, and we will. This is a revolutionary period, and such times are always full of danger, as you well know. However, as things begin to settle down, I assure you that we will be true to our word, and will grant you the full dignity you deserve.” He stood. “If there is nothing more gentlemen, I will take my leave.”\nMilyukov rose, walked over and clasped him in a hug, surprisingly strong for his age. “Thank you,” Milyukov whispered. “You have given us so much. We will never forget it.”"
 italy.130.a:0 "One sixth of the earth, sworn to freedom’s cause- just like that."
 
-italy.98.t:0 "San Marino conquers Italy"
+italy.98.t:0 "산 마리노가 이탈리아를 정복하다"
 italy.98.d:0 "If you're reading this, something has gone wrong."
 italy.98.a:0 "Seriously, I did not cheat!"
 #FOCUSES#
