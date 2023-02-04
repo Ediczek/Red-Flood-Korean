@@ -1,6 +1,6 @@
 ﻿l_english:
 #Brief history
-FRANCE_FUTURIST_DESC:0 "대전쟁에서의 쓰디쓴 패배 후 제 3공화국의 국가제도들이 무너지면서 프랑스는 혼돈을 향해 던져졌습니다. 길거리 교전이 일상이 되고 대중은 쓰러진 자들을 위한 정의를 요구하는 가운데, 전후 유소년들은 고국을 무덤으로 보낼 뻔했던 오랜 전통들을 거부했습니다. When the reactionary Action Française took power it was too late, as the economy collapsed following the shockwaves of the 1931 Crash. From this chaos, Antonin Artaud rallied the masses with his furious speeches and seized power. Now France is led by futurism, driven on by two needs - of Speed and Revenge."
+FRANCE_FUTURIST_DESC:0 "대전쟁에서의 쓰디쓴 패배 후 제 3공화국의 국가제도들이 무너지면서 프랑스는 혼돈을 향해 던져졌습니다. 길거리 교전이 일상이 되고 대중은 쓰러진 자들을 위한 정의를 요구하는 가운데, 전후 유소년들은 고국을 무덤으로 보낼 뻔했던 오랜 전통들을 거부했습니다. 반동적인 악시옹 프랑세즈가 권력을 잡았지만 너무 늦어 버리면서, 1931년 시장붕괴의 충격파 직후 경제는 붕괴했습니다. 이 혼돈에서, 앙토냉 아르토는 열렬한 연설로 군중을 결집시켜 집권했습니다. 이제 미래주의가 이끄는 프랑스는 두 필요에 따라 달려나갑니다. 바로 속도와 복수 말입니다."
 
 #Parties
 FRA_accelerationism_party:0 "FNAG"
@@ -73,9 +73,9 @@ FRA_anprim_accelerationism:0 "갈리아 자유민"
 FRA_anprim_accelerationism_DEF:0 "갈리아"
 FRA_anprim_accelerationism_ADJ:0 "갈리아"
 
-FRA_druidist_accelerationism:0 "Gaul Ùr"
-FRA_druidist_accelerationism_DEF:0 "the New Gaul"
-FRA_druidist_accelerationism_ADJ:0 "Gallic"
+FRA_druidist_accelerationism:0 "갈루 우르"
+FRA_druidist_accelerationism_DEF:0 "신 갈리아"
+FRA_druidist_accelerationism_ADJ:0 "갈리아"
 
 #French puppets name
 GER_FRA_escadron_accelerationism:0 "독일 예술국"
@@ -107,7 +107,7 @@ POLITICS_ANTONIN_ARTAUD_DESC:0 "앙토냉 아르토 수준의 열정 넘치는 �
 POLITICS_GEORGES_BATAILLE_DESC:0 "조르주 알베르 모리스 빅토르 바타유는 "변태 퇴폐", "초현실주의 변절자", "예술국의 암면"이라 불리던 이였습니다. 이제 바타유는 그 모든 더미 위에 앉아 경제학, 사회정책과 다른 모든 것에 관한 자신의 믿음을 신실히 따르며 예술국을 이끌어 갑니다. 헌신적인 아나키스트로서, 바타유는 정부가, 법이, 국제주의가 전무한 프랑스를 창조하고 이 새로운 프랑스를 에로티시즘과 미학주의를 담은, 과잉, 성, 개인주의적 향락의 존재로 이끌 것입니다. 바타유가 과거 천주교회에서 보였던 신실함은 그로 하여금 영성주의와 신비주의에 깊게 뒤얽히게 했으니, 이는 바타유가 프랑스의 미래에 있어서도 독특한 위치를 잡을 것이란 말이 됩니다. 르 솔레유 뒷골목의 초현실주의 변절자는 이제 예술국에서 가장 존경받는 귀족이 되었습니다."
 
 #Decisions
-FRA_support_revolutions:0 "Seeds of the New World"
+FRA_support_revolutions:0 "신세계의 씨앗들"
 FRA_support_revolutions_desc:0 "불충한 알비온은 그 축축하고 차가운 제도에 머무는 자기네 시민들을 억압하고 예속하는 데만 그치지 않았습니다. 아무렴요, 놈들은 그 뒤틀린 통치를 지구 곳곳으로 퍼트렸습니다. 시대가 변했지만 우리 체제는 영국에게 억압받는 이들을 도와 족쇄를 부수도록 도울 수 있는 위치에 서있습니다.\n\n제대로 된 지원만 있다면 다음의 집단들이 봉기하여 영국과의 전쟁에 돌입할 것입니다:\n  이집트 청년당: [?egypt_revolt|Y0]%\n  소코토 청년 운동: [?nigeria_revolt|Y0]%\n  시리아 사회민족당: [?syria_revolt|Y0]%\n\n"   
 egyptian_revolt:0 "이집트 혁명가 원조"
 egyptian_revolt_tooltip:0 "\n본 조치는 §Y이집트 청년당§! 봉기군의 힘에 §G10%§!의 추가점을 부여할 것입니다."
@@ -223,7 +223,7 @@ swiss_expansion:0 "스위스가 우리 협약에 들었습니다"
 FRA_divided_nation:0 "단결의 파편들"
 FRA_divided_nation_desc:0 "프랑스는 농촌과 도회지로 분열됐습니다. 르 솔레유에서 태어난 우리 행정부가 주로 다른 도회지들에 지지층을 두고 있다는 건, 도회지 바깥에선 우리 행정부가 완전히 무력하다는 걸 의미합니다."
 FRA_terre_futur:0 "미래의 땅"
-FRA_terre_futur_desc:0 "Our country is in ruins, but we are determined to rebuild it anew. We are the shining beacon of futurism that guides humanity against all odds. Our voices will sing of a new beauty - the beauty of relentless vigor, unstoppable progress and newness. This beauty will be born only in the most violent and bloody struggle, and either we will achieve our goal, or humanity will never see a future that it deserve!"
+FRA_terre_futur_desc:0 "우리나라는 폐허가 됐으나, 나라를 새로이 고칠 결의가 우리에겐 있습니다. 우리는 역경에 맞서 인류를 선도할 미래주의의 빛나는 등대입니다. 우리의 목소리가 새 아름다움, 쉼 없는 정력과 멈추지 않는 진보와 새로움이라는 아름다움을 노래하고야 말 것입니다. 이 아름다움은 오직 가장 폭력적이며 피로 가득한 투쟁으로써만 이룰 수 있는 것이며, 우리가 목표를 이루든지, 혹은 인류는 마땅한 미래를 다시는 보지 못할 겁니다!"
 FRA_abolish_army:0 "복수에 찬 내일의 칼날"
 FRA_abolish_army_desc:0 "1935년 파트롱 아르토가 군사정변 방지를 확실히 하려 프랑스군을 공식 해체하면서, 프랑스의 방위는 육군, 헌병, 방토군, 정치경찰 역할을 수행하는 에스카드롱의 손에 달리게 되었습니다."
 FRA_act_of_confederation_stability_1:0 "비중앙화된 행정"
@@ -871,7 +871,7 @@ france.200.b:0 "무기를 제공하되 지지 선언은 거절한다."
 france.200.c:0 "약속 외엔 아무것도 주지 않는다."
 
 france.201.t:0 "녹아내리는 왈로니"
-france.201.desc:0 "왈로니에서 마침내 싸움이 벌어졌습니다! 사안은 흑백 만큼이나 분명합니다. 영웅적인 슈말지고흐가 왈로니의 촉진주의자들을 이끌고 있습니다. 역사의 법은 그의 승리를 정해두었습니다. 쓸모없는 왈로니가 따분한 벨기에의 일부일 당시, 슈말지고흐는, 제정신을 가진 이들이라면 그랬듯 그런 곳에서 살아야 한다는 절망 속에 빠져있었습니다. 슈말지고흐는 베네치아에 있을 시절, 우리의 친애하는 파트롱보다도 일찍 미래주의자였던 시절에 뜻을 찾았으며, 프랑스 반란 당시엔 에스카드롱에 가담하여 사회주의 인터내셔널 프랑스 파벌에 맞서 싸웠습니다. 우리의 슈말지고흐는 모두의 앞에서 살아왔습니다. 그 심장은 훈일지라도 평범한 프랑스인보다 더 깊이 보는 능력이 있습니다. 그는 모든 유행보다도 앞섰으며, 그의 적은 과거에 머물러 있습니다. 그가 이겼을 때, 우리는 실로 그를 데미우르고스의 방에 앉혔습니다.\n\n모든 면에서 우리의 적수는 헤르만 발티아입니다. 아마 그 독일 혈통 탓에 제국주의 독일 군사정부가 왈로니를 통치하도록 간택했을, 대원수 행세나 하는 발티아는 그 이래 칙령을 통한 통치를 행하고 있습니다. 끔찍한 늙은이라는 정의에 부합하는 이이니, 우리는 그런 발티아가, 조금이라도 자신의 통치에 반대의 목소리를 내는 프랑스인이 두드려 맞는 상황이 자신이 바라서 벌어진 게 아니라며 질척대는 수채화나 그린다고 들었습니다. 18년과 19년의 난잡한 내분에 왈로니가 거의 끼지 않은 관계로, 우리는 발티아가 발령을 받아, 고무를 충분히 생산하지 못하고 독일의 발아래 복종하지 않는 흑인들을 쏴버리는 데 자신의 군사경험을 활용할 것으로 보고 있습니다."
+france.201.desc:0 "왈로니에서 마침내 싸움이 벌어졌습니다! 사안은 흑백만큼이나 분명합니다. 영웅적인 슈말지고흐가 왈로니의 촉진주의자들을 이끌고 있습니다. 역사의 법은 그의 승리를 정해두었습니다. 쓸모없는 왈로니가 따분한 벨기에의 일부일 당시, 슈말지고흐는, 제정신을 가진 이들이라면 그랬듯 그런 곳에서 살아야 한다는 절망 속에 빠져있었습니다. 슈말지고흐는 베네치아에 있을 시절, 우리의 친애하는 파트롱보다도 일찍 미래주의자였던 시절에 뜻을 찾았으며, 프랑스 반란 당시엔 에스카드롱에 가담하여 사회주의 인터내셔널 프랑스 파벌에 맞서 싸웠습니다. 우리의 슈말지고흐는 모두의 앞에서 살아왔습니다. 그 심장은 훈일지라도 평범한 프랑스인보다 더 깊이 보는 능력이 있습니다. 그는 모든 유행보다도 앞섰으며, 그의 적은 과거에 머물러 있습니다. 그가 이겼을 때, 우리는 실로 그를 데미우르고스의 방에 앉혔습니다.\n\n모든 면에서 우리의 적수는 헤르만 발티아입니다. 아마 그 독일 혈통 탓에 제국주의 독일 군사정부가 왈로니를 통치하도록 간택했을, 대원수 행세나 하는 발티아는 그 이래 칙령을 통한 통치를 행하고 있습니다. 끔찍한 늙은이라는 정의에 부합하는 이이니, 우리는 그런 발티아가, 조금이라도 자신의 통치에 반대의 목소리를 내는 프랑스인이 두드려 맞는 상황이 자신이 바라서 벌어진 게 아니라며 질척대는 수채화나 그린다고 들었습니다. 18년과 19년의 난잡한 내분에 왈로니가 거의 끼지 않은 관계로, 우리는 발티아가 발령을 받아, 고무를 충분히 생산하지 못하고 독일의 발아래 복종하지 않는 흑인들을 쏴버리는 데 자신의 군사경험을 활용할 것으로 보고 있습니다."
 france.201.a:0 "프랑스인들은 서둘러 발티아를 꺾길 바란다. 왈로니는 더 이상 현실이 아니리라."
 france.201.a:0 "군을 소집해 저 미치광이들을 진압한다!"
 france.201.b:0 "프랑스인들은 서둘러 발티아를 꺾길 바란다. 왈로니는 더 이상 현실이 아니리라."
