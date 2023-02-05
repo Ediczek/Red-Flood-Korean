@@ -21,7 +21,7 @@ SPR_popular_socialism_party_long:0 "민족생디칼리스트 공세 평의회"
 SPR_anarchism_party_long:0 "이베리아 아나키스트 연맹-전국노동연맹"
 SPR_revisionist_socialism_party_long:0 "에스파냐 사회주의 노동자당"
 SPR_progressivism_party_long:0 "급진공화당"
-SPR_liberalism_party_long:0 "Agrupación al Servicio de la República"
+SPR_liberalism_party_long:0 "공화국을 섬기는 협회"
 SPR_conservatism_party_long:0 "농경당"
 SPR_right_authoritarianism_party_long:0 "에스파냐 팔랑헤"
 SPR_despotism_party_long:0 "사회-공화당"
@@ -29,7 +29,7 @@ SPR_reactionism_party_long:0 "에스파냐 애국자 연합"
 SPR_accelerationism_party_long:0 "재건주의 운동"
 
 #COUNTRY DESCRIPTION#
-SPR_DESC_MENU:0 "나라의 풍습대로 Spain is on the brink of civil war. Decades of political instability and succesive ineffective governments have brought Spain to the verge of regenerationist and anarchist revolution. As the Republic fights to survive, the future of the country is uncertain and tainted with bloodshed."
+SPR_DESC_MENU:0 "나라의 풍습대로 에스파냐는 내전의 위기에 처했습니다. Decades of political instability and succesive ineffective governments have brought Spain to the verge of regenerationist and anarchist revolution. As the Republic fights to survive, the future of the country is uncertain and tainted with bloodshed."
 #LEADER DESCRITIONS#
 
 #IDEAS#
@@ -46,7 +46,6 @@ SPR_separatism_desc:0 "Even if regionalists are a key pillar of the Republic, it
 #CUSTOM TOOLTIPS AND FLAGS#
 spain_cw:0 "에스파냐 내전이 진행 중입니다"
 scw_over:0 "에스파냐 내전이 종결됐습니다"
-#DECISIONS (1.5 Update)#
 
 #DECISIONS (1.5 Update)#
 
@@ -68,10 +67,7 @@ spain_cw.2.a:0 "금일 15시 43분 레루스 대통령 각하께서 마드리드
 spain_cw.3.t:0 "JONS 정변"
 spain_cw.3.desc:0 "이 새끼 이마선 좀 보소"
 spain_cw.3.a:0 "자연산 귀두컷 좆되네"
-
-spain_cw.4.t:0 "팔랑헤주의 정변"
-spain_cw.4.desc:0 "쿠쿠루삥뽕"
-spain_cw.4.a:0 "속도박이분께 문제라도?"
+spain_cw.3.b:0 "Cousin of the river lookin ass"
 
 spain_cw.5.t:0 "The Autismfest Ends"
 spain_cw.5.desc:0 "해냈다 겜창들아"
