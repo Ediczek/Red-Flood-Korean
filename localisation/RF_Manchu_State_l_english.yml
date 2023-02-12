@@ -143,9 +143,9 @@ MNS_zaixun_int:0 "아이신쥐에로 자이쉰"
 #Harbin - Manchu Border War
 #Victory Against Harbin
 MNS.20.t:0 "하르빈 잔존파에 맞서 승리하다!"
-MNS.20.d:0 "Despite the odds, we have defeated the Harbin army from occupying our farmlands!"
+MNS.20.d:0 "그 모든 환난에도, 우리 농지를 점거한 하르빈군을 격퇴해냈습니다!"
 MNS.20.a:0 "우리 고국을 지켜냈다!"
 #Loss Against Harbin
 MNS.21.t:0 "하르빈 잔존파들에게 패배하다!"
-MNS.21.d:0 "The Harbin Army have occupied our pastoral lands and dividing our realm in half!"
+MNS.21.d:0 "하르빈군이 우리의 목지를 점거하고 우리의 영역을 반으로 갈라 놨습니다!"
 MNS.21.a:0 "다음 번엔 조져주마!"
