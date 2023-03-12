@@ -101,23 +101,23 @@ POL_sharingresponsibilities:0 "책무 공유"
 POL_polishadministrators:0 "폴란드인 행정관들"
 
 #MINISTERS#
-POL_jan_stachniuk_head_acc:0 "얀 스타흐뉴크"
-POL_jozef_beck_foregin:0 "유제프 베크"
-POL_stanislaw_ruziewicz_eco:0 "스타니스와프 루지에비츠"
-POL_waclaw_iwaszkiewicz_rudoszanski_head:0 "바츠와프 이바쉬키에비츠-루도샨스키"
-POL_eugeniusz_kwiatkowski_eco:0 "에우게니우쉬 크비아트콥스키"
-POL_gabriel_narutowicz_eco:0 "가브리엘 나루토비츠"
-POL_maksymilian_matakiewicz_eco:0 "막쉬밀리안 마타키에비츠"
-POL_wojciech_swietoslawski_eco:0 "보이체흐 쉬비엥토스왑스키"
-POL_stefan_banach_intel:0 "스테판 바나흐"
-POL_stefan_kaczmarz_intel:0 "스테판 카츠마쉬"
-POL_bronislaw_pieracki_head:0 "브로니스와프 피에라츠키"
-POL_jan_wladyslaw_rozwadowski_chief:0 "얀 브와디스와프 로즈바돕스키"
-POL_stefan_mossor_army:0 "스테판 모소르"
-POL_antoni_garnuszewski_naval:0 "안토니 가르누솁스키"
-POL_jan_nagorski_air:0 "얀 나구르스키"
-POL_jasinski_stanislaw_air:0 "스타니스와프 야신스키"
-POL_antoni_lomnicki_eco:0 "안토니 웜니츠키"
+POL_jan_stachniuk_head_acc:0 "jan_stachniuk" 얀 스타흐뉴크
+POL_jozef_beck_foregin:0 "jozef_beck" 유제프 베크
+POL_stanislaw_ruziewicz_eco:0 "stanislaw_ruziewicz" 스타니스와프 루졔비츠
+POL_waclaw_iwaszkiewicz_rudoszanski_head:0 "waclaw_iwaszkiewicz_rudoszanski" 바츠와프 이바쉬키에비츠-루도샨스키
+POL_eugeniusz_kwiatkowski_eco:0 "eugeniusz_kwiatkowski" 에우게니우쉬 크비아트콥스키
+POL_gabriel_narutowicz_eco:0 "gabriel_narutowicz" 가브리엘 나루토비츠
+POL_maksymilian_matakiewicz_eco:0 "maksymilian_matakiewicz" 막쉬밀리안 마타키에비츠
+POL_wojciech_swietoslawski_eco:0 "wojciech_swietoslawski" 보이쳬흐 쉬비엥토스왑스키
+POL_stefan_banach_intel:0 "stefan_banach_intel" 스테판 바나흐
+POL_stefan_kaczmarz_intel:0 "stefan_kaczmarz_intel" 스테판 카츠마쉬
+POL_bronislaw_pieracki_head:0 "bronislaw_pieracki_head" 브로니스와프 폐라츠키
+POL_jan_wladyslaw_rozwadowski_chief:0 "jan_wladyslaw_rozwadowski_chief" 얀 브와디스와프 로즈바돕스키
+POL_stefan_mossor_army:0 "stefan_mossor_army" 스테판 모소르
+POL_antoni_garnuszewski_naval:0 "antoni_garnuszewski_naval" 안토니 가르누솁스키
+POL_jan_nagorski_air:0 "jan_nagorski" 얀 나구르스키
+POL_jasinski_stanislaw_air:0 "jasinski_stanislaw" 스타니스와프 야신스키
+POL_antoni_lomnicki_eco:0 "antoni_lomnicki" 안토니 웜니츠키
 
 #CUSTOM TOOLTIPS AND FLAGS#
 pilsudski_death:0 "사랑받던 원수께서 서거하셨습니다"
@@ -188,10 +188,10 @@ poland.101.desc:0 ""
 poland.101.a:0 "차라리 죽겠다!"
 poland.101.b:0 "그리 하지."
 poland.102.t:0 "두 번째 프로이센의 맹서"
-poland.102.desc:0 "Polish troops entered Konigsberg quite quickly, crushing all resistance of the Prussians and showing that their militarism manifested itself only at parades. As in the inhabited times, when the Lechites fought against the Germans or in 1410 when the Poles, Ruthenians and Lithuanians crushed the Teutons, now the Intermarium won. Luddendorf's bandits will be tried for their crimes. \n\nHowever, other problems arose. Berlin started asking Warsaw what it was going to do with the huge population of Germans. Szukalski and Stachniuk did not show hostility towards the Germans, so it was decided that the talks would pass peacefully. \n\nThe Poles invited the representatives of red Germany to Gdańsk, where it was agreed that in exchange for Królewiec and permanent low customs duties on the border on goods brought to Królewiec, the Germans promised to carry out a population exchange, leading the Germans out of Silesia, Pomerania and Masuria and also much more favorable for the Intermarium trade agreements were established for the import of coal and food from the Intermarium areas to Germany and Hungary. Such a move is to allow both sides to completely obliterate all age-old disputes and forge an alliance that will oppose both Russia's reaction and the madness of France."
+poland.102.desc:0 "폴란드군이 꽤나 빨리 쾨니히스베르크에 입성하고 프로이센의 저항을 완전히 무력화하면서, 프로이센의 군국주의가 열병식 외엔 쓸모가 없음을 보여 주었습니다. As in the inhabited times, when the Lechites fought against the Germans or in 1410 when the Poles, Ruthenians and Lithuanians crushed the Teutons, now the Intermarium won. Luddendorf's bandits will be tried for their crimes. \n\n하지만 다른 문제가 떠올랐습니다. 베를린이 바르샤바에 수많은 독일인 인구의 처우를 두고 문의해 온 것입니다. 슈칼스키와 스타흐뉴크에겐 독일을 적대할 생각이 없었으므로, 회담은 평화롭게 진행되었습니다.\n\n붉은 독일의 대표단을 그단스크로 초청한 폴란드는 where it was agreed that in exchange for 크룰레볘츠 and permanent low customs duties on the border on goods brought to Królewiec, the Germans promised to carry out a population exchange, leading the Germans out of Silesia, Pomerania and Masuria and also much more favorable for the Intermarium trade agreements were established for the import of coal and food from the Intermarium areas to Germany and Hungary. Such a move is to allow both sides to completely obliterate all age-old disputes and forge an alliance that will oppose both Russia's reaction and the madness of France."
 poland.102.a:0 "폴란드인들과 독일인들은 사이좋은 사촌들인가?"
 poland.103.t:0 "역사적 교환"
-poland.103.desc:0 "We watched the developing situation in Prussia with anticipation. Intermarium troops entered Prussia to regain Gdańsk and Masuria and to protect themselves against a possible backstab by Prussia during the Polish-Russian war. It was an understandable move, but at the same time the Poles had promised us earlier that they would not try to take over Prussia for themselves. It was a disturbing move, but at the same time we did not want to judge Warsaw of vile intentions. \n\nWe expressed our willingness to discuss the Prussian issue with the government of Stanisław Szukalski. We were afraid for nothing that this famous ultra-nationalist activist and eminent artist would reject our offer, but to our surprise Sanacja accepted our request. After the Poles conquered Königsberg, we started negotiations in Gdańsk. \n\nBolesław Piasecki chaired the talks. The Polish side insisted on keeping all of Prussia in Polish and Lithuanian hands, but in the end we convinced them that a better solution would be lower tariffs on the border and population exchange, and additionally more advantageous trade agreements for Intermarium in exchange for giving Königsberg to us. Poles will lend us their railroads to transport goods to Königsberg and in return they will receive land and national unity. The talks were long, but they symbolize the end of the war between the Slavs and the Germans forever."
+poland.103.desc:0 "We watched the developing situation in Prussia with anticipation. Intermarium troops entered Prussia to regain Gdańsk and Masuria and to protect themselves against a possible backstab by Prussia during the Polish-Russian war. It was an understandable move, but at the same time the Poles had promised us earlier that they would not try to take over Prussia for themselves. It was a disturbing move, but at the same time we did not want to judge Warsaw of vile intentions. \n\nWe expressed our willingness to discuss the Prussian issue with the government of Stanisław Szukalski. We were afraid for nothing that this famous ultra-nationalist activist and eminent artist would reject our offer, but to our surprise Sanacja accepted our request. After the Poles conquered Königsberg, we started negotiations in Gdańsk. \n\n회담은 주도한 건 볼레스와프 퍄세츠키였습니다. 폴란드 측은 프로이센 전역을 폴란드 및 리투아니아령으로 두길 고집했으나, but in the end we convinced them that a better solution would be lower tariffs on the border and population exchange, and additionally more advantageous trade agreements for Intermarium in exchange for giving Königsberg to us. Poles will lend us their railroads to transport goods to Königsberg and in return they will receive land and national unity. 회담은 길었지만, 그 끝에 폴란드는 슬라브인들과 독일인들 사이의 전쟁을 영원히 끝냈습니다."
 poland.103.a:0 "독일인들과 폴란드인들은 사이좋은 사촌들인가?"
 
 poland.50.t:0 "\"반란\"의 초연"
@@ -230,7 +230,7 @@ POL_free_markets_desc:0 "회복권 정부는 너무나 오랫동안 노동자들
 POL_lower_state_control:0 "국가의 산업통제권 약화"
 POL_lower_state_control_desc:0 "폴란드에서의 민주정을 더 확실히 하기 위한 최근의 시도로서, 공산주의자들 마냥 국가가 모든 산업을 소유하는 대신 시장에게 산업 소유를 허용할 것입니다."
 POL_keynesian_economics:0 "칼레츠키의 천재성"
-POL_keynesian_economics_desc:0 "We have many forgotten Poles who could not adapt to the dictates of the authoritarian Sanacja, one of them is Michał Kalecki. A prominent economist who published a better theory of money three years before Keynes. We should promote him as well as other underestimated Polish geniuses who rotted the forgotten on the fringes of society. We will use Kalecki's theories for the improvement of our country and promote him, let the whole world know about the genius of Poles."
+POL_keynesian_economics_desc:0 "우리에겐 권위주의적인 회복권의 참견을 용납치 못하는 잊힌 폴란드인들이 많으니, 미하우 칼레츠키 역시 그들 중 한 명입니다. 칼레츠키는 케인즈보다 3년 앞서 뛰어난 통화 이론을 주창했던 뛰어난 경제학자입니다. 그와 같이, 박한 대우를 받으며 사회 주변에서 잊혀 가는 폴란드 천재들을 찾아내 마땅한 대접을 제공할 것입니다. 우리나라의 발전을 위해 칼레츠키의 이론을 사용하고 그를 장려해, 전 세계가 폴란드인의 천재성을 알게 할 것입니다."
 POL_nothing_wrong_spending:0 "그릇된 지출은 없다"
 POL_nothing_wrong_spending_desc:0 "사회구안에 돈 좀 쓰는 게 대체 뭐가 잘못됐다는 겁니까? 우리가 더 쓰면 나중에 경제에 더 많은 돈이 돌아올 거란 말입니다! 이건 기본경제학이라고요!"
 POL_free_people:0 "인민을 자유로이"
@@ -287,7 +287,7 @@ POL_slavic_unity:0 "슬라브 단결"
 POL_slavic_unity_desc:0 "우리 운동이 우선시하는 것이 폴란드의 미래를 확보하는 것임엔 숨김이 없으나, 이를 폴란드에만 국한되도록 두어선 안 됩니다. 우리 주변엔 외세의 억압과 반동 사조에 고통받은 다른 관련 민족들이 우리를 둘러싸고 있습니다. 이웃은 침체돼 절망 속으로 더 깊게 들어가는데 우리는 우리 성장을 즐기는 게 맞는 걸까요?"
 POL_question_ukraine:0 "우크라이나 문제"
 POL_question_ukraine_desc:0 "우크라이나는 차르주의자들에게서 자신들의 방어를 위해 우리에게 가담했지만, 르부프 합병에 대해선 여전히 우리에게 원한을 품고 있습니다. 이 분쟁을 외교적으로 해결해 우리 관계를 고칠 때입니다."
-POL_friends_belarus:0 "Memories from Nowogródek"
+POL_friends_belarus:0 "노보그로데크에서의 기억"
 POL_friends_belarus_desc:0 "From the territory of today's Belarus comes one of the greatest national bards - Adam Mickiewicz, it was he who predicted the resurrection of our state and the forging of the Polish nation. It is also the basis for the Belarusian nation, which, like us, declares its will to create a new, stronger state free from oppression. Our friendship with Minsk lasted a long time and we should maintain it. Fortifications in the Belarusian marshes will allow us to defend ourselves against mosquitoes and the construction of new industrial complexes will stimulate the economy of Belarus"
 POL_undecided_bulgaria:0 "보루타 정벌"
 POL_undecided_bulgaria_desc:0 "우크라이나인들과 벨라루스인들과 달리 리투아니아인들은 러시아인들이 저지른 유사 범죄들로 우리를 비난하며 차가운 태도를 취하고 있습니다. 하지만 당황할 건 없습니다. We should show that the Lithuanian nation is independent of Poland by correcting the mistakes of the Dmowszczyzna, but at the same time we guarantee freedom and rights to Poles in the borderlands. A good start of our cooperation would be the opening of an excavation in Vilnius to discover artifacts from the times of Voruta and Gediminas, as well as signs of Polish-Lithuanian friendship"
@@ -328,7 +328,7 @@ POL_pressure_lithuania_desc:0 "Lithuanians are our Achilles' heel when it comes 
 POL_ultimatum_byelarus:0 "대 벨라루스 최후통첩"
 POL_ultimatum_byelarus_desc:0 "우리가 벨라루스의 경제를 살렸고, 우리가 벨라루스의 군을 정비했고, 우리가 벨라루스를 안정시켰습니다. 오직 우리에게 자신들의 자유를 빚지고 있는 벨라루스는, 다른 인테르마리움 국가들과 다르게 최소한의 감사를 우리에게 표하고 있지만 그것으로는 충분치 않습니다. 모든 면에서 연결된 우리는 이미 한 나라라고 봐도 무방합니다. In practice, however, Belarusians still reject the idea that they belong to the same nation as us. It is time to change their mind and persuade them to join Poland peacefully, otherwise they may face unpleasant consequences."
 POL_ukrainian_gambit:0 "우크라이나 술수"
-POL_ukrainian_gambit_desc:0 "Kyiv has always resisted our will, during the Polish-Lithuanian Commonwealth and now… Petliura allegedly supported Marshal Piłsudski in the fight for liberation from the Moscow occupation, but the Ukrainians use the Intermarium and Poland as a way of profit. When the dust settles after the difficult fight with the Muscovites, Kyiv will stab us in the back. They claim the rights to eastern Galicia and sometimes even areas as far as the Vistula! We must end this idiotic gibberish about great Ukraine."
+POL_ukrainian_gambit_desc:0 "제1 제츠포스폴리타 시절부터 지금에 이르기까지 키유프는 번번이 우리의 의지에 저항해 왔습니다. 페틀류라가 모스크바의 점령에 맞선 해방을 위한 싸움에서 피우수츠키 원수 각하를 지지하는 듯 보였지만, 우크라이나는 인테르마리움과 폴란드를 이익의 수단으로만 대했습니다. 모스크바 것들과의 싸움 이후 사태가 진정되고 나면 키유프는 다시 우리의 등을 찌를 겁니다. 지금도 놈들은 동갈리치야의 영유권은 물론, 때로는 저 멀리 비스와 강변의 영역까지 요구하고 있습니다! 대우크라이나 같은 이런 멍청한 개소리를 당장 끝내 버려야 합니다."
 POL_migration_wilno:0 "빌노행 이주"
 POL_migration_wilno_desc:0 "빌노 인구의 60%는 폴란드인입니다. Despite strenuous efforts to reduce the Polish population in Lithuania, the local Polish community was able to endure pogroms, broken windows, harassment and expulsion from their places of residence. Vilnius will be expanded and modernized so that Poles from this hub will be able to colonize the rest of Lithuania easier. We will slowly try to Polonize Lithuanians who still hold a grudge against us, but with time (and with investments in Lithuania) these sentiments will fade away."
 POL_polish_administrators:0 "폴란드인 행정관 임명"
@@ -336,7 +336,7 @@ POL_polish_administrators_desc:0 "We are looking for collaborators, but we canno
 POL_belarus_integration:0 "벨라루스 흡수"
 POL_belarus_integration_desc:0 "벨라루스인들을 기억하는 이들이 있기는 한답니까? 벨라루스인들은 망가진 웃긴 폴란드어를 쓰면서도 라틴 문자를 사용하면서, 로마식으로 기도하고, 러시아인들을 향해서는 반감을 표합니다. 폴란드인이 되기엔 딱이죠. After the annexation of Belarus, we found many collaborators, because the Esers lived mainly thanks to us, so many of them, desperate to maintain the status quo and their luxurious life, immediately contacted us when we entered Minsk. 벨라루스가 흡수되려면 시간이 좀 걸릴 테지만, 주요 저항과 마주하게 되진 않을 것으로 보입니다."
 POL_ukrainian_integration:0 "우크라이나 흡수"
-POL_ukrainian_integration_Desc:0 "Ukraine is already a harder nut to crack than Belarus and we can see some bigger problems. Despite the visible Polish influence in right-bank Ukraine, the Ukrainians still want to stick to their ridiculous identity. We cannot act as boldly as in the case of Belarus, but at the same time we must be firm enough not to allow any separatist movements. We will order the army to scour the fields and forests in search of Ukrainian guerrillas, and we will have to find suitable collaborators."
+POL_ukrainian_integration_Desc:0 "벨라루스보다 더 풀기 힘든 골칫거리인 우크라이나를 두고 일이 더 커지고 있습니다. Despite the visible Polish influence in right-bank Ukraine, the Ukrainians still want to stick to their ridiculous identity. We cannot act as boldly as in the case of Belarus, but at the same time we must be firm enough not to allow any separatist movements. We will order the army to scour the fields and forests in search of Ukrainian guerrillas, and we will have to find suitable collaborators."
 POL_baltic_direction:0 "발트 안보"
 POL_baltic_direction_desc:0 "The Baltic governorate was cut off from St. Petersburg and Moscow causing even more chaos than in other parts of Russia. Estonian and Latvian guerrillas are wandering in the woods, communists and German aristocrats are fighting with each other, and the Russians are unable to control the chaos. It is therefore necessary to intervene to secure the Northern Front. Cutting off the Russians from the Baltic ports will plunge them into even greater hunger and economic collapse. If we starve the Russians and cut them off from the world, we will defeat them more easily."
 POL_steppe_direction:0 "대초원 방향"
