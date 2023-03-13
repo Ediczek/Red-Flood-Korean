@@ -18,8 +18,8 @@ POR_conservatism_party:0 "PRN"
 POR_conservatism_party_long:0 "민족주의 공화당"
 POR_right_authoritarianism_party:0 "팔라티누스회"
 POR_right_authoritarianism_party_long:0 "팔라티누스회"
-POR_despotism_party:0 "코임브러회"
-POR_despotism_party_long:0 "코임브러회"
+POR_despotism_party:0 "쿠잉브러회"
+POR_despotism_party_long:0 "쿠잉브러회"
 POR_reactionism_party:0 "IL"
 POR_reactionism_party_long:0 "루시타니아 협력주의파"
 POR_accelerationism_party:0 "타바리스 집단"
@@ -31,7 +31,7 @@ POR_vices_of_heliogabalus_desc:0 "포르투갈 사회에선 어주더 궁 안의
 POR_sidonist_underground:0 "암약하는 시도니우주의자들"
 POR_sidonist_underground_desc:0 "\"잘 있거라, 형제들아!"\n\n머누엘 고미쥐 더 코쉬터의 노력 덕에 복벽이 피 한 방울 흘리지 않고 다소 평화롭게 이루어졌다고는 하나, 반대가 없진 않았습니다. 좌익 및 자유공화파조차 몇 년 새 망각과 미약을 향해 밀려나야 했다지만, 쉽게 지워지지 않은 이들도 있었습니다. 시도니우 파이쉬, 정변으로 축출되기 전까지 잠시 공화국의 대통령이었던 자는 왕을 향한 우익 반대파를 조금씩 조심스레 긁어 모으며 긴 여정을 준비하고 있습니다. 유럽 혁명 정신의 펄떡이는 심장인 피우메에서, 파이쉬는 현 포르투갈 정권을 끝장낼 음모를 세우고 있습니다.\n\n시도니우주의자들이 아직 폭력 행동을 벌이진 않았지만, 점차 대담해져가는 반 군주정 시위는 이제 일상이 되었습니다. 나라의 안정과 우리의 왕정주의의 꿈을 지키려면 이런 위협을 그냥 두어선 안 됩니다."
 POR_volta_ao_campo:0 "들판을 향한 귀환"
-POR_volta_ao_campo_desc:0 "자연과 조화를 이루었을 때보다 사람이 더 진실될 때가 있을까요? 마을이 그 자체로 가장 완벽한 정치조직이 아니라고 할 수 있을까요? 농본을 향한 합력주의자들의 헌신이 담긴 지지 덕에 우리는 have managed to revert centuries of demographic mistakes, and now internal migration from Lisbon and the northern urban conglomerates has given new life to our abandoned rural landscape. 포르투갈은 점차 하느님, 가정, 토양에 깊이 뿌리 박은 나라라 자랑스레 말할 수 있는 나라가 되어가고 있습니다."
+POR_volta_ao_campo_desc:0 "자연과 조화를 이루었을 때보다 사람이 더 진실될 때가 있을까요? 마을이 그 자체로 가장 완벽한 정치조직이 아니라고 할 수 있을까요? 농본을 향한 합력주의자들의 헌신이 담긴 지지 덕에 우리는 수세기에 걸친 인구학상 실수들을 뒤집어내며, 리지보어와 북부 도회지에서 이주해 오는 이들에게 버려진 향촌을 내주고 있습니다. 포르투갈은 점차 하느님, 가정, 토양에 깊이 뿌리 박은 나라라 자랑스레 말할 수 있는 나라가 되어가고 있습니다."
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #EVENTS#
