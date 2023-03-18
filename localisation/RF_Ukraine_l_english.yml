@@ -446,7 +446,7 @@ ukraine_pink_desc:0 "Pink is often associated with roses, a longtime symbol of E
 ukraine_information_saves:0 "스코로파드스키가 우릴 구하다"
 ukraine_information_saves_desc:0 "미흐노우스키가 옳았습니다! 그 광인의 예측이 어쨌든 옳았단 말입니다! 지난밤 순찰대는 정부구획 근처에서 몇 대를 포착했습니다. 트럭에선, 강한 독일어 억양을 쓰는, 중무장한 수십 명의 인원이 내렸습니다. 경비대가 경보를 울린 한편, 경비대 중 한 명은 키이우 주둔군에 전화를 걸 정도로 머리가 돌아갔습니다. 거의 한 시간 후, 외인 테러리스트들이 마지막 보안선을 돌파했을 때 정부구획은 스코로파드스키의 부대가 포위한 상태였으며, VKSSS의 계획은 그게 무엇이든 간에 실패했음이 분명해보였습니다."
 ukraine_establish_junta:0 "군사위원회 설립"
-ukraine_establish_junta_desc:0 "The mainstream has betrayed our Fatherland, the government was corrupt, and half of our politicians were in the service of our Republic’s enemies. Which means, that in order to protect Ukraine, we must save Ukraine’s democracy from itself, - by establishing the Military Junta, whose civilian arm would be the Hetman’s Clique in UDKhP, and whose main support would be concentrated among the patriotic people found around all of the country and any social stratum."
+ukraine_establish_junta_desc:0 "주류 정치인들은 조국을 배신했고 정부는 부패했으며 정치꾼들의 절반은 공화국의 적들을 위해 봉사했습니다. 그 말은 즉슨 우크라이나를 보호하기 위해서는 우크라이나의 민주주의를 그 자체로부터 구해야 합니다. 즉 UDKhP의 헤트만 군벌이 민간인들을 통제하는 온나라의 애국자들과 사회 계층의 지지가 집중될 군사 정권을 설립함으로써 말입니다."
 
 #Skoropadsky
 ukraine_permanent_dictatorship:0 "영구 군사독재"
@@ -538,7 +538,7 @@ ukraine_elections_held_desc:0 "우크라이나에 새롭고 영광된 날이 찾
 
 #Bandera
 ukraine_zunv_victory:0 "VKR i ZUNV의 승리"
-ukraine_zunv_victory_desc:0 "우크라이나 민족재건 자유 카자크 평의회 사단으로 알려진 Vil'na Kozats'ka Rada i Zahony Ukraїns'koho Natsional'noho Vidrodzhennya(VKR i ZUNV)는 투표에서 선두를 달리고 있으며 국제 관측가들의 눈에 승리할것으로 예측 되어집니다, 이들은 극단적 문화적 국수주의, 생디칼리즘과 '민족재건주의'를 내걸고 경선에 참여하였습니다. 다른 가속주의 정당들과 마찬가지로 대우크라이나와 밝은 미래를 약속하지만, 이 경우 가장 매력적인 것은 스테판 반데라 당 대표가 정말 젊은 나이라는 것입니다. 폴란드 사람들은 우크라이나 사람들의 투표 결과에 대해 불쾌감을 나타냈고, 다른 사람들은 반데라의 정책이 기본적으로 Pilsudski의 정책이지만 우크라이나 현실에 맞게 변형된 것이라고 지적했습니다. 현재 우크라이나의 전반적인 분위기는 꽤 불확실할지라도 유쾌합니다. 캅카스의 선거관측가는 '누가 이기고 무엇이 문제인지 신경 쓰는 게 빠른 민주정이죠!'라고 의견을 달았습니다."
+ukraine_zunv_victory_desc:0 "우크라이나 민족재건 자유 카자크 평의회 사단으로 알려진 Vil'na Kozats'ka Rada i Zahony Ukraїns'koho Natsional'noho Vidrodzhennya(VKR i ZUNV)는 투표에서 선두를 달리고 있으며 국제 관측가들의 눈에 승리할것으로 예측 되어집니다, 이들은 극단적 문화적 국수주의, 생디칼리즘과 '민족재건주의'를 내걸고 경선에 참여하였습니다. 다른 촉진주의 정당들과 마찬가지로 대우크라이나와 밝은 미래를 약속하지만, 이 경우 가장 매력적인 것은 스테판 반데라 당 대표가 정말 젊은 나이라는 것입니다. 폴란드 사람들은 우크라이나 사람들의 투표 결과에 대해 불쾌감을 나타냈고, 다른 사람들은 반데라의 정책이 기본적으로 Pilsudski의 정책이지만 우크라이나 현실에 맞게 변형된 것이라고 지적했습니다. 현재 우크라이나의 전반적인 분위기는 꽤 불확실할지라도 유쾌합니다. 캅카스의 선거관측가는 '누가 이기고 무엇이 문제인지 신경 쓰는 게 빠른 민주정이죠!'라고 의견을 달았습니다."
 ukraine_rural_modernism:0 "농촌 근대주의"
 ukraine_rural_modernism_desc:0 "우리가 현대와 현대 시대를 이야기할 때, 문화가 다르기 때문에 자연스럽게 농촌 공동체를 반대했던 주요 영감을 단순히 모방하고 싶지 않습니다. 우리는 사실 정반대의 생각을 가지고 있습니다. 농민은 우크라이나 민족 공동체의 대표인 반면, 도시는 오히려 러시아화되었습니다. 그러니 우리가 민족 정신을 찾는 것은 시골에서 그 뿌리를 찾을 수 있으며, 시골의 현대화에 대한 우리의 생각은 전통적인 시골속 미학을 현대적인 기교와 기술과 혼합하여 전국에 효과적으로 진보를 가져와야합니다. 그렇게 성장한 기술 수준과 삶의 질에 의해 모든 사람을 도시로 만드는 동시에 더 높은 곳으로 올라가는 것이고 이는 우크라이나 정신이 지닌 시골 정수입니다."
 ukraine_radical_cossacks:0 "급진 자유 카자크"
@@ -550,9 +550,9 @@ ukraine_national_rejuvenation_desc:0 "우리 지도층의 젊은이들, 신병�
 ukraine_party_paramilitary:0 "당과 준군사조직의 융합"
 ukraine_party_paramilitary_desc:0 "지금까지 우리 당은 시민들의 조직들을 통해 충분한 권력을 가지고 있었지만, 아마도 이제는 준군사 조직인 우크라이나 국가 재건 분대와 시민 조직간의 유대를 강화해야 할 때입니다. 이 분대는 활동가 그룹에서 공식적으로 우리 경찰 보조, 군대 훈련 단체, 청년 조직 및 특수 작전원으로 승격될 것이며 이 모든 것을 하나의 미학적 집단에 강제로 묶을 것입니다."
 ukraine_vistula_pacific:0 "비스와에서 태평양까지"
-ukraine_vistula_pacific_desc:0 "When we read in newspapers and manifestos about ambitions of our non-Accelerationist opposition, our younger recruits can't resist as they laugh - so pathetic those claims 'up to Don' or 'up to Volga' seem to us. Pathetic is the wrong word - traitorous it is, probably. For the true size of Ukraine is (and our allies from like-minded parties agree) - across the entire Eurasian steppe, from Vistula to Pacific, everywhere where Ukrainians live and where they have lived for generations, a place destined to become a part of Europe through exorcising the Asiatic barbarism of Russian satraps and the institution of new Ukrainian order."
+ukraine_vistula_pacific_desc:0 "신문이나 비-촉진주의 반대파들의 야망에 대한 선언에서 "돈강까지!" "볼가강까지!" 라는 그들의 주장을 바라볼 때마다 우리의 젊은 신입들은 그들의 한심함에 웃음을 참을수없어집니다. 사실 한심하다는 말은 잘못된 표현입니다. 그보다는 반역적이다는게 훨씬 맞는 표현일 것입니다. 우크라이나와 우리와 같은 생각을 가진 동맹들도 동의하는 진정한 영역은 비스와에서 태평양에 이르기까지 우크라이나인들이 살고 있는 모든 땅과 그들이 대대손손 살아온 모든 유라시아 스텝입니다. 또한 그곳은 우크라이나의 신질서를 행사하는 기관이 러시아 satraps의 아시아적인 야만을 제거함으로써 유럽의 일부가 될 운명을 가졌습니다."
 ukraine_ride_future:0 "우크라이나는 미래를 향해 달린다"
-ukraine_ride_future_desc:0 "Reforms of our party are steadfast, Ukrainian society progresses quicker and quicker, our language becomes richer with new literary tradition flourishing under our rule, our country gets more and more modern, and the March of Progress seems unstoppable. Ukraine is like an ancient Scythian rider, who moves towards the horizon of Future, a rider made out of steel and blacksoil, to the Future of Ukraine's greatness."
+ukraine_ride_future_desc:0 "우리 당의 개혁은 확고하고 우크라이나 사회는 점점 더 빨리 나아갑니다. 우리의 통치하에서 번창하는 새로운 문학적 전통과 함께 우리의 언어는 더 풍부해지고 우리 나라는 점점 더 현대화되고있으니 이러한 진보의 행진은 멈출 수 없는 것처럼 보입니다. 우크라이나는 마치 고대 스키타이의 기수처럼 강철과 흑토로 만들어진 기수가 되어 우크라이나의 위대함의 미래가 담긴 미래의 지평선을 향해 나아갑니다."
 
 ukraine_upwp_victory:0 "UPWP의 승리"
 ukraine_upwp_victory_desc:0 "가장 혁명적이며 명석한 우크라이나 인민노동자당이 의회에 입성했습니다, 시민 여러분! With its undeniably popular and fast policies appealing to both the urban and the rural residents, it will accelerate towards the future, and then reap the benefits for public exaltation and national greatness. And now, from our reporter in Kyiv - the party officials and the Electoral Commission will announce the results, as well as who will be the President - in their pre-election press conference, UPWP officials said that the President will be decided by the inner party democratic procedure, which only adds to the intrigue."
