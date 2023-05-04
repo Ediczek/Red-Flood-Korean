@@ -1,0 +1,58 @@
+﻿l_english:
+#COUNTRY NAME#
+
+MNO:0 "Mongolian Provisional Government"
+MNO_DEF:0 "the Mongolian Provisional Government"
+MNO_ADJ:0 "Mongolian"
+
+MNO_socialist:0 "Socialist Republic of Mongolia"
+MNO_socialist_DEF:0 "the Socialist Republic of Mongolia"
+MNO_socialist_ADJ:0 "Mongolian"
+
+MNO_vpered:0 "Socialist Republic of Mongolia"
+MNO_vpered_DEF:0 "the Socialist Republic of Mongolia"
+MNO_vpered_ADJ:0 "Mongolian"
+
+MNO_protectorate:0 "Outer Mongolia"
+MNO_protectorate_DEF:0 "the Protectorate of Outer Mongolia"
+MNO_protectorate_ADJ:0 "Outer Mongolian"
+
+MNO_republican:0 "Mongolia"
+MNO_republican_DEF:0 "the Republic of Mongolia"
+MNO_republican_ADJ:0 "Mongolian"
+
+MNO_intermarium:0 "Khanate of Mongolia"
+MNO_intermarium_DEF:0 "the Khanate of Mongolian"
+MNO_intermarium_ADJ:0 "Mongolian"
+
+#PARTIES#
+MNO_vanguard_socialism_party:0 "KKP"
+MNO_popular_socialism_party:0 "OLN"
+MNO_anarchism_party:0 "NROGR"
+MNO_revisionist_socialism_party:0 "RSDRP(m)/PSR"
+MNO_progressivism_party:0 "TNSP"
+MNO_liberalism_party:0 "K-D"
+MNO_conservatism_party:0 "NDS"
+MNO_right_authoritarianism_party:0 "Mantetsu-H"
+MNO_despotism_party:0 "Khungtayji"
+MNO_reactionism_party:0 "SPK"
+MNO_accelerationism_party:0 "RSDRP(b)-V"
+MNO_vanguard_socialism_party_long:0 "Komi Kommunisticheskaya Partiya"
+MNO_popular_socialism_party_long:0 "Organizatsiya Levykh Narodnikov"
+MNO_anarchism_party_long:0 "Narodnaya i Rabochaya Osvoboditel'naya Gvardiya Rodiny"
+MNO_revisionist_socialism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Rartiya (menshevikov)/Partiya Sotsialistov-Revolyutsionerov"
+MNO_progressivism_party_long:0 "Trudovaya Narodno-Sotsialisticheskaya Partiya"
+MNO_liberalism_party_long:0 "Konstitutsionno-Demokraticheskaya Partiya Narodnoy Svobody"
+MNO_conservatism_party_long:0 "Narodno-Demokraticheskiy Soyuz"
+MNO_right_authoritarianism_party_long:0 "Homanumanshu Tetsudo"
+MNO_despotism_party_long:0 "Khungtayji"
+MNO_reactionism_party_long:0 "Soyuz Pravoslavnikh Krestyan"
+MNO_accelerationism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya (bolshevikov) - Vpered"
+
+#DECISIONS (1.5 Update)#
+
+#EVENTS#
+
+#IDEAS# 
+MNO_punishment:0 "The Scourge of God"
+MNO_punishment_desc:0 "When a man treks down the road from Khüree to Tsetserleg, a rather unflattering sign appears beyond the open steppe: corpses. Masses and masses of corpses, of all ethnicities and loyalties, from the native communists, to the Mad Baron's men, to Chinese officers who once wished to bring this harsh land under their heel. Mongolia has suffered in a way no other country had suffered, clashing a minuscule population against seemingly endless decades of war and looting - and little to make up for it. Blood dilutes the open air as most political consciousness in the region has driven itself to extinction, leaving a portion of the tribal chiefs and nobles under the tutelage of Prince Demchugdongrub to grip onto the crumbling reigns. In the halls of the crumbling Khüree, they congregate, wishing to heed the calls of the horrified populace, to hear the prayers of pilgrims from all walks of faith. For if no one else, it is the gods who know what fate awaits Mongolia."

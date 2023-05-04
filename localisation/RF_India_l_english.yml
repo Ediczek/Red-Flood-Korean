@@ -1,0 +1,35 @@
+﻿l_english:
+#COUNTRY NAME#
+
+#PARTIES#
+RSR_vanguard_socialism_party:0 "CPoI - L"
+RSR_popular_socialism_party:0 "CPoI - S"
+RSR_anarchism_party:0 "HSU"
+RSR_revisionist_socialism_party:0 "CSP"
+RSR_progressivism_party:0 "INC - S"
+RSR_liberalism_party:0 "INC - L"
+RSR_conservatism_party:0 "AIHGA (ABHM) Moderates"
+RSR_right_authoritarianism_party:0 "AIHGA (ABHM) Hardliners"
+RSR_despotism_party:0 "NVO (RSS) Constitutionalists"
+RSR_reactionism_party:0 "NVO (RSS) Radicals"
+RSR_accelerationism_party:0 "FTA"
+
+RSR_vanguard_socialism_party_long:0 "Communist Party of India - Leninist"
+RSR_popular_socialism_party_long:0 "Communist Party of India - Spartakist"
+RSR_anarchism_party_long:0 "Hindustan Syndicalist Union"
+RSR_revisionist_socialism_party_long:0 "Congress Socialist Party"
+RSR_progressivism_party_long:0 "Indian National Congress - Socialist"
+RSR_liberalism_party_long:0 "Indian National Congress - Liberal"
+RSR_conservatism_party_long:0 "All-India Hindu Grand-Assembly - Moderates"
+RSR_right_authoritarianism_party_long:0 "All-India Hindu Grand-Assembly - Hardliners"
+RSR_despotism_party_long:0 "National Volunteer Organisation - Constitutionalists"
+RSR_reactionism_party_long:0 "National Volunteer Organisation - Radicals"
+RSR_accelerationism_party_long:0 "Forward Thinkers Association"
+#LEADER DESCRITIONS#
+#IDEAS#
+RSR_popular_mobilization:0 "Popular Mobilisation"
+RSR_industrialization_program:0 "Industrialisation Program"
+RSR_princely_resistence:0 "Princely Resistance"
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

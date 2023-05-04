@@ -1,0 +1,37 @@
+﻿l_english:
+#COUNTRY NAME#
+
+#PARTIES#
+JGJ_vanguard_socialism_party:0 "CPC - R"
+JGJ_libertarian_marxism_party:0 "CPC - L"
+JGJ_revolutionary_anarchism_party:0 "CAM"
+JGJ_revisionist_socialism_party:0 "GMJ"
+JGJ_progressivism_party:0 "GMJ - S"
+JGJ_liberalism_party:0 "PS"
+JGJ_conservatism_party:0 "SRP"
+JGJ_right_authoritarianism_party:0 "SC"
+JGJ_despotism_party:0 "SMC"
+JGJ_reactionism_party:0 "RS"
+JGJ_accelerationism_party:0 "YCP"
+JGJ_vanguard_socialism_party_long:0 "Communist Party of China - Rightist"
+JGJ_libertarian_marxism_party_long:0 "Communist Party of China - Leftist"
+JGJ_revolutionary_anarchism_party_long:0 "Chinese Anarchist Movement"
+JGJ_revisionist_socialism_party_long:0 "Gemingjun"
+JGJ_progressivism_party_long:0 "Gemingjun Secularist Faction"
+JGJ_liberalism_party_long:0 "Prosperity Consortium"
+JGJ_conservatism_party_long:0 "Shaanxi Republic Party"
+JGJ_right_authoritarianism_party_long:0 "Shaanxi Clique"
+JGJ_despotism_party_long:0 "Shaanxi Military Clique"
+JGJ_reactionism_party_long:0 "Renaissance Society"
+JGJ_accelerationism_party_long:0 "Young China Party - Shaanxi"
+
+#LEADER DESCRITIONS#
+POLITICS_YUXIANG_DESC:0 "Feng Yuxiang is the Christian General, the commander of the North-Western Army and flank of the Beiyang, or at least, he was. Yuxiang has seen fit to rebel against the Shanxi and declare his Clique's intention to overthrow the Government. Should he succeed in fending off the Beiyang, he will be in a strong position to align much of the North with the Southern Revolutionaries. Whom he sides with however is unknown, Yuxiang's loyalties has been a topic of contention for much of his career in the warlord era."
+
+#IDEAS#
+
+#CUSTOM TOOLTIPS AND FLAGS#
+
+#DECISIONS (1.5 Update)#
+
+#FOCUSES#

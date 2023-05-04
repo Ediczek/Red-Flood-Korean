@@ -1,0 +1,398 @@
+﻿l_english:
+#COUNTRY NAME#
+
+#PARTIES#
+MON_reactionism_party:0 "MKA"
+MON_reactionism_party_long:0 "Mongol Khanate Alliance"
+
+MON_vanguard_socialism_party:0 "PVM"
+MON_vanguard_socialism_party_long:0 "People's Vanguard of Mongolia"
+
+MON_popular_socialism_party:0 "PLFM"
+MON_popular_socialism_party_long:0 "People's Liberation Front Mongolia"
+
+MON_anarchism_party:0 "UAM"
+MON_anarchism_party_long:0 "United Anarchists of Mongolia"
+
+MON_revisionist_socialism_party:0 "MPP"
+MON_revisionist_socialism_party_long:0 "Mongolian People's Party"
+
+MON_progressivism_party:0 "DP"
+MON_progressivism_party_long:0 "Democratic Party"
+
+MON_liberalism_party:0 "MFP"
+MON_liberalism_party_long:0 "Mongol Freedom Party"
+
+MON_conservatism_party:0 "ANP"
+MON_conservatism_party_long:0 "Anhui Republican Party"
+
+MON_right_authoritarianism_party:0 "AMC"
+MON_right_authoritarianism_party_long:0 "Anhui Military Clique"
+
+MON_despotism_party:0 "AMF"
+MON_despotism_party_long:0 "Anhui Monarchist Faction"
+
+MON_accelerationism_party:0 "YMP"
+MON_accelerationism_party_long:0 "Young Mongolia Party"
+
+#LEADERS/Ministers#
+#MON_Duan_Qirui:0 "Duan Qirui"
+#MON_Demchugdongrub:0 "Demchugdongrub"
+#MON_Wang_Yitang:0 "Wang Yitang"
+#MON_Xu_Shuzheng:0 "Xu Shuzheng"
+
+#LEADER DESCRITIONS#
+POLITICS_KEDING_DESC:0 "Yuan Keding is the son of the great Yuan Shikai, the man who almost managed to unify China after the first revolution. Keding was behind some of the pressure his father felt to claim the right of Emperor, but after things fell apart in the 20's he was reduced to tagging along with the Authoritarian Anhui Clique who remained loyal to his father's name. Now that the Clique has been pressed to desperate measures, his push to restore China to an Imperial rule is once more entertained."
+POLITICS_DUAN_QIRUI_DESC:0 "President of the Clique, General of the exiles, Commander of Mongols and the icon of Chinese-dominance on the frontier. Duan Qirui was a close ally of the great Yuan Shikai, though they had their differences later on. Duan still carries the legacy of the Beiyang Government and the principles it stood for. His compatriots in Beijing did not feel the same however, and the Beiyang became dominated by the Shanxi and Zhili, casting both the Fengtian and Anhui out of power, and in Anhui's case, out of China-proper. Duan now seeks to correct this mistake and use the Japanese invasions as pretence to restore the power of Anhui, though he will likely perish before he can see it realised..."
+POLITICS_WANG_YTIANG_DESC:0 "A nationalist though not so revolutionary statesman, a loyal Chinese patriot, Yitang is prepared to do what it necessary to keep China strong. His history with Anhui clique goes back to the days immediately after the failed leadership of Yuan Shikai. He has served faithfully as a civilian statesman in the years since the Northern Expedition. Yitang is prepared to do anything to keep the northern government strong, even if it means bringing the dominance of the Anhui clique to an end."
+POLITICS_XU_SHUZHENG_DESC:0 "Even from an early age, Xu Shuzeng proved himself to be an intelligent man. Born with a scholar background, he was the youngest man to pass the Imperial Examinations. In the year of 1901, he sent a letter to Yuan Shikai, then in charge of patrolling Shandong, to get a post. It failed, but it caught the attention of one Duan Qirui, who appointed him secretary.  When Qirui was appointed Minister of War, he became the "Director of the Army", when Duan became Prime-Minister of the fledgling republic, Shuzeng became "secretary-general of the State Council". It was clear to everyone that Xu Shuzheng and Qirui were close, almost if as friends. After the Warlord Era had started and China was once again in chaos, Xu Shuzheng created the Henan Defense Force, and successfully invaded Mongolia. Little did he know that this action would save his Clique, for when the Anhui were defeated and destroyed, Mongolia would be the perfect place to retreat and regroup. And now, Qirui has passed away, and his protegé has naturally ascended to power. He might not be the oldest or most experienced in ruling, but if there is one person who will lead the Anhui Clique to victory, it is Xu Shuzheng."
+
+#IDEAS#
+MON_humiliation:0 "Humiliation of China"
+MON_humiliation_desc:0 "The European powers have been denigrating and defeating China for the past 200 years. This shame seeps into our culture and has resulted in a cowardly rot that has ruined our sense of pride and unity throughout China."
+MON_recordcorrected:0 "Record Corrected"
+MON_recordcorrected_desc:0 "The humiliation of China has been avenged and the West defeated, the country is re-united and the people's patriotism re-galvanised."
+MON_brokenarmy:0 "Broken Army"
+MON_brokenarmy_desc:0 "The Anhui Army's march North took a heavy toll, though they secured our place in Mongolia they are a spent force and are not fit to carry the fight to re-claim China."
+MON_brokenarmy2:0 "Broken Army"
+MON_brokenarmy2_desc:0 "Our Army's path to reform has begun, and though progress is made they are still a shadow of their old selves."
+MON_newarmy:0 "New Army"
+MON_newarmy_desc:0 "The Army has been repaired and stands ready to defend China and her interests around the world, the shame of the Anhui Army has been shaken off and our might is feared and inspires our people."
+MON_apolitical_officers:0 "Apolitical Officers"
+MON_apolitical_officers_desc:0 "The Officers of the old republican armies were highly involved in politics, this involvment led to the infighting of the warlords and should be prevented from happening again. Officer schools should be educating our military leaders without politics, they serve the leadership of China no matter who they are."
+MON_nomadshock:0 "Nomad Shock Troops"
+MON_nomadshock_desc:0 "The nomadic warriors of the Mongolian plains will make excellent shock troops in the wars to come. The new Nomad Shock Troops will form the Vanguard of China's attacking forces."
+MON_agrarianeconomy:0 "Agrarian Economy"
+MON_agrarianeconomy_desc:0 "China and Mongolia in particular is still very much an agrarian society, herdsmen and farmers dominate the economy, if China is to stand above the foreigners and determine its own future the economy must industrialise."
+MON_agrarianreform:0 "Agrarian Reform"
+MON_agrarianreform_desc:0 "Urbanisation projects that slowly bring people into the cities will begin to grow our industry, small steps must be taken to keep stability."
+MON_rapidindustrialisation:0 "Rapid Industrialisation"
+MON_rapidindustrialisation_desc:0 "The peasants can whine all they want, China needs to industrialise at all costs! Damn the harvests and work the factories, we chall become a nation of builders at any price."
+MON_progressiveindustry:0 "Progressive Industrialisation"
+MON_progressiveindustry_desc:0 "We can no more abandon the paddies and goats than drink from a dry river bed, we must retain our agrarian base and use well paced reforms and progressive urbanisation to increade industry, few of our people will appreciate forced movement to new towns and projects but the needs of China outweigh the needs of a few uppity farmers."
+MON_anhuirevival:0 "Anhui Revival"
+MON_anhuirevival_desc:0 "The Anhui Republic is returning to its position of power within China, the economy is improving and we now stand ready to impose our vision on China."
+MON_militarygovt:0 "Military Government"
+MON_militarygovt_desc:0 "The Chinese Military now rules the country, the Chiefs of Staff are in command and their Authoritarian vision shall not be challenged, less the soldiers be turned on the people."
+MON_empire:0 "Mandate of Heaven"
+MON_empire_desc:0 "The old Imperial Mandate of Heaven has been the guiding principle of Chinese authority for millenia. The last dynasty lost the mandate, our new Emperor will not be so weak."
+MON_democracy:0 "Chinese Bill of Rights"
+MON_democracy_desc:0 "In order to unite the country we have assembled a new Chinese Bill of Rights, we will not bow to the idealists of Sun Yat Sen's revolution, we will instead show them a better way forward."
+MON_yuanshikai:0 "Yuan Shikai Dollar"
+MON_yuanshikai_desc:0 "Our great President of the Republic Yuan Shikai is the symbol of anti-revolutionary republicanism in China, our first economic changes will be the currency reform in his name, a new Dollar to allow greater financial stability and investment in industry."
+MON_acespades:0 "Ace of Spades"
+MON_acespades_desc:0 "The Ace of Spades is the icon of our Air Force, a squadron of the best and most resilient pilots, those who fly are led by their example."
+MON_acehearts:0 "Ace of Hearts"
+MON_acehearts_desc:0 "The Ace of Hearts is the icon of our Air Force, a squadron of the best and most versatile pilots, those who fly for our nation aspire to join them."
+MON_conscription:0 "New Conscription Policy"
+MON_conscription_desc:0 "Our new system of recruitment from the youth allows us greater reserves to build our army from."
+MON_reclamation:0 "The Pacification of Mongolia"
+MON_reclamation_desc:0 "The Xinhai Revolution meant for Mongolians the chance at a future free of the tyranny of Beijing. The next 20 years have only meant fighing and destruction across the wide steppes, depleting the land to starvation.\n\nIn the aftermath of the political infighting within the Beyiang government, the defeated Anhui clique was exiled to Inner Mongolia, given the "task" of ending the anarchy consuming Mongolia and returning the province to the Chinese fold. Duan Qirui and his men had no choice but to accept in order to survive, but in the halls of his headquarters in Xilinhot, whispers of a return to power may be heard by attentive ears. While the men to the south take care of the issues of the day, the Anhui Clique prepares itself for the reclamation of Mongolia and, potentialy, of China."
+
+#CUSTOM TOOLTIPS AND FLAGS#
+MON_anhui_beiyang_government:0 "Beiyang Government"
+
+harbin_pact:0 "The Harbin Pact"
+MON_chinese_reclaimation:0 "Claim the occupied cities and make all of China core territory."
+
+corrected_the_record:0 "China's disunity is no more."
+
+JGJ_annexed:0 "Annexation of Gemingjun"
+FJN_annexed:0 "Annexation of Fujian"
+KMT_annexed:0 "Annexation of Nanjing"
+
+MON_SETTING_SUN_DESC:0 "During the Chinese civil war the Beiyang Government split, Duan Qirui lead his Anhui Clique on campaigns against the GMD with some success before his army was exiled in Mongolia. With his former ally - Yan Xishan in control in Beijing, the Anhui Clique must now contend with the warlord fringe of Mongolia in order to survive and reclaim their place as a potential leader of China."
+
+MON_china_empire:0 "Empire of China"
+MON_china_empire_DEF:0 "Empire of China"
+MON_china_empire_ADJ:0 "Chinese"
+
+MON_china_republic:0 "Republic of China"
+MON_china_republic_DEF:0 "Republic of China"
+MON_china_republic_ADJ:0 "Chinese"
+#DECISIONS (1.5 Update)#
+MON_fopo:0 "Foreign Policy"
+MON_transsib:0 "Return the Trans-Siberian Railroad"
+MON_transsib_desc:0 "We have no interest in the Russian strife, so returning the portion of the Trans-Siberian Railroad under our control will get us away from trouble for the time begin with our northern neighbours."
+#FOCUSES#
+Mongolia_armyofexiles:0 "Army of Exiles"
+Mongolia_armyofexiles_desc:0 "Our Army marched North and was defeated, exiled and humiliated. The best path forward is to learn from our mistakes and move onwards to our bright future."
+
+Mongolia_peaceandhappinessclub:0 "Peace and Happiness Club"
+Mongolia_peaceandhappinessclub_desc:0 "Anhui began with the Peace and Happiness Club in the Beiyang Republic, to bring stability back to China the Club should be brought back it full strength, to organise the political structure of the party and people."
+
+Mongolia_reorganisethedregs:0 "Reorganise the Düüregs"
+Mongolia_reorganisethedregs_desc:0 "Mongolia is vast and the towns where most of the people live need reogranising to encourage expansion, a new urbanisation programme is required."
+
+Mongolia_opposethemadbaron:0 "Oppose the Mad Baron"
+Mongolia_opposethemadbaron_desc:0 "The Republic's Northern border is threatened by the Mad Baron and his Army of radicals, we must make preparations to invade and squash this bug."
+
+Mongolia_opposetherogueofficer:0 "Oppose the Rogue Officer"
+Mongolia_opposetherogueofficer_desc:0 "The Republic's Northern border is threatened by the rogue officer and his cossack hordes, we must make preparations to invade and liberate our brothers in Buryatia."
+
+Mongolia_consolidateoutermongolia:0 "Consolidate Outer Mongolia"
+Mongolia_consolidateoutermongolia_desc:0 "Not all of Mongolia supports the Republican Government, we should consolidate our authority and begin reforming the army to maintain control, new recruits to the banners and commanding the loyality of competent local leaders is a good start."
+
+Mongolia_thesouthernexpedition:0 "The Southern Expedition"
+Mongolia_thesouthernexpedition_desc:0 "The Northern Expedition resulted in our exile in the North. The Southern Expedition will result in the reunification of China. Our call to march South has rallied loyalists to our banner."
+
+Mongolia_preparethedefences:0 "Prepare the Defences"
+Mongolia_preparethedefences_desc:0 "Should the Baron break into central Mongolia the Republic may be lost forever, we must make provision for a desperate defense should he invade."
+
+Mongolia_buryatguerillas:0 "Buryat Guerillas"
+Mongolia_buryatguerillas_desc:0 "We can subvert the fighting spirit of the cossack host by winning the loyalty of the Buryat Mongols, they will become guerillas in our service."
+
+Mongolia_breachthestronghold:0 "Breach the Stronghold"
+Mongolia_breachthestronghold_desc:0 "The Baron's stronghold in Belotsarsk must be breached and his evil little regime ended, for the people of Mongolia and all of China."
+
+Mongolia_russianrepublicans:0 "Russian Mercenaries"
+Mongolia_russianrepublicans_desc:0 "By recruiting Russian mercenary elements from near and far to the Army we can expand our forces greatly. The added benefit of recruiting Russians is it not Mongols or Chinese men dying in battle, which is much better for morale and the war effort."
+
+Mongolia_opposetheshanxi:0 "Oppose Beiyang Rivals"
+Mongolia_opposetheshanxi_desc:0 "Our fellow Northern Republicans have betrayed the principles of the Beiyang Government, they are weak, mere prey for the Japanese. We must usurp the Beiyang Legacy from them and seize Beijing."
+
+Mongolia_defendtherepublic:0 "Defend the Republic!"
+Mongolia_defendtherepublic_desc:0 "We cannot stand alone in the world, the Russian republicans of Zheltorossiya would make a useful ally in our struggles."
+
+Mongolia_reincorporatethefrontier:0 "Reincorporate the Frontier"
+Mongolia_reincorporatethefrontier_desc:0 "Though controlling Northern Mongolia has always been a challenge for Chinese leaders, our position will allow us to fully integrate these lands."
+
+Mongolia_occupytransbaijkal:0 "Reincorporate Transbaikal"
+Mongolia_occupytransbaijkal_desc:0 "The Buryats and Russians that inhabit Transbaikal have not known Chinese rule before, but with the chaos is Russia we are in the best position to provide stable rule there. Down with the Cossacks!"
+
+Mongolia_greatermongolia:0 "Mongolia is Secured"
+Mongolia_greatermongolia_desc:0 "With one of the 5 Nations of China united our power grows and with it our legitimacy over the rest of China, the Mongols took over China once before and they shall do it again."
+
+Mongolia_securethecoast:0 "Remove the Revolutionaries"
+Mongolia_securethecoast_desc:0 "Our economy will benefit enourmously from an expanded coast, the wealthy cities of eastern China must fall back under our rule."
+
+Mongolia_securetheinterior:0 "Secure the Interior"
+Mongolia_securetheinterior_desc:0 "The important cultural and agricultural and resource rich regions of the Chinese interior regions must fall back under our control if we are to unify the country and shake off the shame of outside domination."
+
+Mongolia_maritimechina:0 "Maritime Campaign"
+Mongolia_maritimechina_desc:0 "The Cantonese coast is rightfully ours, before reclaiming the occupied cities we must control the subjugate the remaining warlords that oppose us."
+
+Mongolia_westernautonomies:0 "Return to Tibet"
+Mongolia_westernautonomies_desc:0 "The rebellious province of Tibet declared war in 1911. As the legitimate government of China, we must make sure to reassert our control over this region."
+
+Mongolia_correcttherecord:0 "Correct the Record"
+Mongolia_correcttherecord_desc:0 "China is (mostly) united once more, we stand ready to make her a great world power, the only obstacles standing against us now are the foreign interlopers. Westerners and Japanese presence on the mainland is an affront to our people and must be ended."
+
+Mongolia_yuanshikaidollar:0 "Yuan Shikai Dollar"
+Mongolia_yuanshikaidollar_desc:0 "If we are to turn our economic woes around and strike south successfully we must reform the currency, the new Yuan Shikai Dollar will give us opporunities for foreign investment and low interest loans from the Banks. We'll just have to not mention our ambitions to retake the trade cities when signing the contracts."
+
+Mongolia_anhuirevival:0 "Anhui Revival"
+Mongolia_anhuirevival_desc:0 "The economy is turning around and our battered and exiled clique is reviving itself, soon we will unite China, but first the Clique must choose how its future will look. As Duan Qirui ages and the situation in Beijing shifts, it seems the possibility of reunifying amiccably is apporaching."
+
+Mongolia_president:0 "The President's End"
+Mongolia_president_desc:0 "President Duan Qirui has lead us competently these last years, the military leadership of the country has been a stabilising force since the revolution, we must hold true to his cause, no matter what..."
+
+Mongolia_emperor:0 "Emperor"
+Mongolia_emperor_desc:0 "The military leadership has run its course and now the people are ready to accept a new Emperor. The Qing Dynasty is still deeply unpopular so another house must take charge, Yuan Keding, son of President Shikai has advanced his claim to premiership. So the council has elected to Crown him Emperor since there is no better candidate."
+
+Mongolia_tradebyrail:0 "Trade by Rail"
+Mongolia_tradebyrail_desc:0 "New railway lines must be laid and the old ones updated to facilitate civilial economy and military maneuvers alike. This will be a nationwide project that brings the disperate regions of Northern China together."
+
+Mongolia_parliament:0 "Hold Presidential Elections"
+Mongolia_parliament_desc:0 "The military leadership has run its course and the people are ready for self-determination, the cabinet has agreed to a new parliamentary system governed by conservatives and right-wing revolutionaries who split with the GMD. This new government will be a symbol of unity with the other Chinese democracies and bring the country back together peacefully, as long as the plebicites go our way."
+
+Mongolia_autarky:0 "Seek Autarky"
+Mongolia_autarky_desc:0 "A nation must be self-sufficient to survive, we cannot trust our neighbours or the foreign powers to help us succeed. Avoid the treachery of others and make your own people strong and productive, that is the key to success."
+
+Mongolia_autocrat:0 "Maintain Anhui Dominance"
+Mongolia_autocrat_desc:0 "While some have taken Duan's death as an opportunity to bring Anhui back to the Beiyang as a friend, others are not so keen, and continue to view the Shanxi and Zhili as rivals to an Anhui dominated Northern Government."
+
+Mongolia_civilliberites:0 "Liberalise the Civil Government"
+Mongolia_civilliberites_desc:0 "You cannot lead a horse to water, the people must be given the freedom to choose. The authoritarians balk at such ideas and have threatened to defect, we have no need of traitors anyway."
+
+Mongolia_mandateofheaven:0 "Mandate of Heaven"
+Mongolia_mandateofheaven_desc:0 "The Mandate of Heaven has been a stabilising force in China for centuries, reclaiming this title will surely rally those that still hold to the old ways to our cause."
+
+Mongolia_confucianempire:0 "Confucian Empire"
+Mongolia_confucianempire_desc:0 "The religious tenets of the Empire were vital, though it empowers a certain set of fundamentalists radicals and revolutionaries are worse."
+
+Mongolia_destroythekmt:0 "Strike Down GMD Leaders"
+Mongolia_destroythekmt_desc:0 "The Anhui Clique has issued an ultimatum to the revolutionaries of the former Guomindang, join us on our terms or be destroyed on the field of battle. They are not meant to accept, war is our goal here."
+
+Mongolia_compromisewiththekmt:0 "Integrate NRA Rightists"
+Mongolia_compromisewiththekmt_desc:0 "The Anhui Republic has issued offers of unity and a national compromise, a untied front against invaders and despots. The Communists have not been asked, there is no compromise to be made with the Marxists. The cliques of the Guomindang understand refusal invites more war, they should consider their choices carefully."
+
+Mongolia_chineseempire:0 "Beiyang Unity"
+Mongolia_chineseempire_desc:0 "With the new leadership of the Anhui clique comes great change, the time has come to heal our differences with the Republic in Beijing, rejoining our brothers at last."
+
+Mongolia_newbeiyangrepublic:0 "New Beiyang Republic"
+Mongolia_newbeiyangrepublic_desc:0 "The old Beiyang Republic is dead and from the ashes we have risen to carry the torch into a glorious new future, gone is the factionalism and infighting, unity for all of China is our only creed."
+
+Mongolia_bayandevelopment:0 "Bayan Tümen Development"
+Mongolia_bayandevelopment_desc:0 "Bayan Tümen is a smaller city in southern Mongolia that could be developed as a second capital, developing the economy away from Khüree could be advantageous should it be occupied."
+
+Mongolia_foundthenationaluniversity:0 "Found the National University"
+Mongolia_foundthenationaluniversity_desc:0 "Mongolia lacks higher education centres, a new National University will help train the new generation of lawyers and statesmen we need to compete with the warlords, and show our competition for the mantle of China is serious."
+
+Mongolia_nationalgeologicalsurvey:0 "National Geological Survey"
+Mongolia_nationalgeologicalsurvey_desc:0 "Mongolia is very rich in Coal Copper and other non-ferous metals, we might not have the means to process many of these minerals yet, but by surveying the ground we can begin to harness the wealth in the Earth."
+
+Mongolia_tradewiththecliques:0 "Trade with the Cliques"
+Mongolia_tradewiththecliques_desc:0 "Setting aside our loyalties and exchanging economically with some of our less hostile neighbours we might begin to expand our industry."
+
+Mongolia_tradewithjapan:0 "Trade with Japan"
+Mongolia_tradewithjapan_desc:0 "Setting aside the Japanese occupations in the North-East and on the coast, they are economically powerful and could benefit our cause if we strike a deal."
+
+Mongolia_nationallibraryliasoncommitee:0 "National Library Liason Commitee"
+Mongolia_nationallibraryliasoncommitee_desc:0 "The National Library is one of the more notable institutions of modern Mongolia, by establishing a Liason Commitee with other Libraries the wealth of knowledge it stores can expand and offer new possibilities to the intelligencia of our Nation."
+
+Mongolia_chineseeconomicpolicy:0 "Chinese Economic Policy"
+Mongolia_chineseeconomicpolicy_desc:0 "We must decide the economic policy that we will follow, the country must industrialise, the question is which path do we take to achieve it?"
+
+Mongolia_reformtheexiles:0 "Reform the Exiles"
+Mongolia_reformtheexiles_desc:0 "The Anhui Army is a shadow of its former self, to begin the healing process and instill new confidence in our officers new exercises have been commissioned."
+
+Mongolia_establishpermanentairwings:0 "Establish Permanent Air Wings"
+Mongolia_establishpermanentairwings_desc:0 "With a negligible air force and air power in China generally being a neglected technology, we should establish a permanent air force, laying the ground work for future expansion."
+
+Mongolia_submarinebases:0 "Submarine Bases"
+Mongolia_submarinebases_desc:0 "With a coastline secured we can begin building bases for Submarines and other small naval vessels that we can afford."
+
+Mongolia_newconscription:0 "New Conscription"
+Mongolia_newconscription_desc:0 "Our conscription needs an overhaul, Mongolia doesn't have a large population, but even among the young men we do rule there are those who will not come to the banners. It is time they served."
+
+Mongolia_octanecavalry:0 "Octane Cavalry"
+Mongolia_octanecavalry_desc:0 "A new kind of highly mobile warfare is taking shape across the world, the cult of speed and tank engineers in Europe are devising new motorised weapons of war, we should look to their example and motorise the Cavalry."
+
+Mongolia_nomadshocktroops:0 "Nomad Shock Troops"
+Mongolia_nomadshocktroops_desc:0 "The warriors of the Steppes are formidable, we should organise brigades in our armies that are made mostly of these nomads and hunters, they should make excellent shock troops."
+
+Mongolia_mechanicalhorde:0 "Mechanical Horde"
+Mongolia_mechanicalhorde_desc:0 "The Great Khans of old rode in to war at the head of a horde of cavalry, we shall ride at the head of a horde of armoured vehicles."
+
+Mongolia_bombardment:0 "Battlefield Bombardment"
+Mongolia_bombardment_desc:0 "The artillery is a crucial part of modern warfare, neglected by our leaders as procuring the guns can be difficult and expensive, if we invest in the technology we will gain an important edge on the battlefield."
+
+Mongolia_apoliticalofficers:0 "Apolitical Officers"
+Mongolia_apoliticalofficers_desc:0 "China's politics and Army are very much intertwined, this has lead to problems not least our own exile, by training the new cohorts of officers apolitically we can reduce the risk of these problems re-occuring."
+
+Mongolia_officerschool:0 "Officer School"
+Mongolia_officerschool_desc:0 "Military officer schools will give the innovative young minds in the Army a chance to show the old men how it is done, new ideas should be encouraged and new doctrine experimented with."
+
+Mongolia_beiyangarmy:0 "New Beiyang Army"
+Mongolia_beiyangarmy_desc:0 "The Army is now a far cry from the band of exiles in the North, the reforms have taken hold and the New Beiyang Army takes shape."
+
+Mongolia_expandairbases:0 "Expand Air Bases"
+Mongolia_expandairbases_desc:0 "Our Air Force cannot operate out of tiny arifields in the middle of nowhere, new air bases and expanding existing ones will give them ample room to develop."
+
+Mongolia_ravens:0 "Ravens!"
+Mongolia_ravens_desc:0 "Close Air Support, the next step in the evolution of air warfare, small bombing aircraft that can cause devastation to most ground targets will be a staple of our fly-boys."
+
+Mongolia_eagles:0 "Eagles!"
+Mongolia_eagles_desc:0 "Tactical Bombing, versatile and high-altitude, these heavy aircraft have much more destructive capabilities and fly high enough to need fighter interceptionor large anti-air batteries to deal with."
+
+Mongolia_aceofspades:0 "Ace of Spades"
+Mongolia_aceofspades_desc:0 "The Ace of Spades Squadron will set the standard for our Air Force, a group of disciplined Aces in one formation guiding the rest."
+
+Mongolia_aceofhearts:0 "Ace of Hearts"
+Mongolia_aceofhearts_desc:0 "The Ace of Hearts Squadron will be a dream for all our Air Force, to be one of the few selected to be part of them, the men who fly fearlessly day and night for their nation."
+
+Mongolia_scoutsignals:0 "Scout Signals"
+Mongolia_scoutsignals_desc:0 "Improvements to our radio technology and the methods our scouts use will aid us on the battlefield."
+
+Mongolia_radartraining:0 "Radar Training"
+Mongolia_radartraining_desc:0 "Radar is a new technology we would do well to adopt, detection and intelligence are crucial in these times."
+
+Mongolia_newairforce:0 "New Chinese Air Force"
+Mongolia_newairforce_desc:0 "The Chinese Air Force shall be a modern marvel of engineering, the technological capabilities we have and a warning to those who would trifle with us."
+
+Mongolia_giantslayers:0 "Design Giant Slayers"
+Mongolia_giantslayers_desc:0 "The great ships of foreign fleets aren't so tough with an 800 kilo torpedo shaped hole in them."
+
+Mongolia_dragonfleet:0 "Dragon Fleet"
+Mongolia_dragonfleet_desc:0 "The massive capital ships of foriegn fleets must be matched if our fleet is to be taken seriously."
+
+Mongolia_newadmiralty:0 "New Admiralty"
+Mongolia_newadmiralty_desc:0 "New naval schools are producing new officers, we may not have a proud history on the seas recently but all that will change."
+
+Mongolia_beiyangfleet:0 "Beiyang Fleet"
+Mongolia_beiyangfleet_desc:0 "A new and formidable fleet to take China onto the world stage as a major player. The New Beiyang Fleet with a full compliment of capital ships, supports and submarines. Ready for anything."
+
+Mongolia_underdognavy:0 "Underdog Navy"
+Mongolia_underdognavy_desc:0 "We will not take back the seas through brute force alone, we must be clandestine and disrupt the enemy fleets to survive."
+
+Mongolia_heronfleet:0 "Heron Fleet"
+Mongolia_heronfleet_desc:0 "A fleet based on maneuver and smaller, submersibles performing daring search and destory missions will give us an edge."
+
+Mongolia_pickoffweakwarlords:0 "Pick off Weak Warlords"
+Mongolia_pickoffweakwarlords_desc:0 "The Warlords of the North-West are weak and will better serve as compost than as men. We should be careful not to attack them together and unite them however."
+
+Mongolia_militaryjunta:0 "The Junta Continues"
+Mongolia_militaryjunta_desc:0 "The Army's grip on Anhui remains strong in spite of Duan's death, this is good in times of war for seeing the country to victory, perhaps not the best for a sustained rule. As things progress the Junta will have to concede more of its control to the civil government, but for now the Generals maintain their position."
+
+Mongolia_autonomy:0 "Create National Autonomies"
+Mongolia_autonomy_desc:0 "Self-rule and a greater seperation between the state and the people will reduce the influence of would-be despots and reactionaries. A new class of peasant politicians will rise to represent them and their interests."
+
+Mongolia_khreedevelopment:0 "Khüree Development"
+Mongolia_khreedevelopment_desc:0 "We should develop the capital and make Mongolia a more modern nation, one that can compete with the other warlords and the industrial heartlands of China."
+
+Mongolia_gatekeepers:0 "Design Gatekeepers"
+Mongolia_gatekeepers_desc:0 "The enemy cannot invade the coast if their ships are full of holes before they land."
+
+Mongolia_newbattleships:0 "New Battleships"
+Mongolia_newbattleships_desc:0 "Our fleet requires Battleships, floating fortresses that strike fear into enemy fleets and rally our own."
+#EVENTS#
+anhui.1.t:0 "The Death of Duan Qirui"
+anhui.1.d:0 "The veteran himself, our President, General and friend Duan Qirui is dead. Now is a time of mourning, but his successors must now prepare to guide the Anfu forwards, carrying Duan's legacy with them. As tensions in Mongolia and China mount, the time may soon come for great deeds in the name of our fallen brother. In situations such as these it is as good a juncture as any to take inventory, to assess, and to plan. Anhui may yet be well served by the leadership of its army and generals, but uneasy voices are beginning to push for a strong show of republican faith and hold elections to bring Anhui back towards the favour of Beijing. The choice must be made, either way, Anhui will have to conceed military rule eventually, but will it be sooner or later?"
+anhui.1.a:0 "May he rest in peace."
+
+anhui.2.t:0 "Imperial Revival"
+anhui.2.d:0 "The status quo cannot last, China needs an Emperor to restore order and prosperity. Yuan Keding is well liked among the cliques leaders and more importantly, his father was the first President. He will make an ideal figurehead."
+anhui.2.a:0 "Long Live The Emperor!"
+
+anhui.3.t:0 "Presidential Elections"
+anhui.3.d:0 "The status quo cannot last, the autocratic rule of the Clique, Mongolia and China, must end and the representation of the people be allowed to flourish. Our new parliament is made up not of revolutionaries like the in the South but by sensible statesmen and moderate politicians, out with the reactionaries and warlords, in with the new order."
+anhui.3.a:0 "Long Live The Republic."
+
+anhui.4.t:0 "New Economic Policy for China"
+anhui.4.d:0 "Our leadership in China cannot be wrought merely in blood and steel, coin and calculators have their place in statecraft and we must now decide on the best economic vision of China we will pursue. Will we reform the agriculture to free up labour for industry? Will we forego precautions and industrialise no matter the cost? Or will we take a combined approach and modernise the farms and invest in factories too?"
+anhui.4.a:0 "Modernise the Agriculture"
+anhui.4.b:0 "Every Man a Factory Worker"
+anhui.4.c:0 "Take a Measured Approach"
+
+anhui.5.t:0 "Petitioning Fengtian"
+anhui.5.d:0 "The Fengtian clique are the current masters of the Beiyang Government, to bring Anhui back into the fold it is they we must petition. Contacts have been sparse and cold when they have occured, there is littel trust, but things have improved of late. The threats to the Republic from the East and the South are now far greater than the factionalism within. It is time we rejoined our forces and fought side by side for China's future."
+anhui.5.a:0 "Send the offer."
+
+anhui.6.t:0 "Petitioning Shanxi"
+anhui.6.d:0 "The Shanxi clique are the current masters of the Beiyang Government, to bring Anhui back into the fold it is they we must petition. Contacts have been sparse and cold when they have occured, there is littel trust, but things have improved of late. The threats to the Republic from the East and the South are now far greater than the factionalism within. It is time we rejoined our forces and fought side by side for China's future."
+anhui.6.a:0 "Send the offer."
+
+anhui.7.t:0 "Anhui Clique wants to reunify" #BYJ
+anhui.7.d:0 "The Exiles in the North are requesting that we come together and let them rejoin the Beiyang government, They have regained much of their former strength and now pose a threat to us and our foes. We share increasing political and diplomatic interests, much as we did in the past. They have made their intentions to kick out the revolutionaries and foriegn powers clear, all that remains is to allow them back, under watchful eyes of course. The boon in men and material will certainly not go amiss."
+anhui.7.a:0 "We are Brothers in this Struggle."
+anhui.7.b:0 "They should stick to their wastelands in the North."
+
+anhui.11.t:0 "Anhui Clique wants to reunify" #MAN
+anhui.11.d:0 "The Exiles in the North are requesting that we come together and let them rejoin the Beiyang government, They have regained much of their former strength and now pose a threat to us and our foes. We share increasing political and diplomatic interests, much as we did in the past. They have made their intentions to kick out the revolutionaries and foriegn powers clear, all that remains is to allow them back, under watchful eyes of course. The boon in men and material will certainly not go amiss."anhui.11.a:0 "We are Brothers in this Struggle."
+anhui.11.a:0 "We are Brothers in this Struggle."
+anhui.11.b:0 "They should stick to their wastelands in the North."
+
+anhui.12.t:0 "Petitioning Zhili"
+anhui.12.d:0 "The Zhili clique are the current masters of the Beiyang Government, to bring Anhui back into the fold it is they we must petition. Contacts have been sparse and cold when they have occured, there is littel trust, but things have improved of late. The threats to the Republic from the East and the South are now far greater than the factionalism within. It is time we rejoined our forces and fought side by side for China's future."
+anhui.12.a:0 "Send the offer."
+
+anhui.13.t:0 "Anhui Clique wants to reunify" #SHA
+anhui.13.d:0 "The Exiles in the North are requesting that we come together and let them rejoin the Beiyang government, They have regained much of their former strength and now pose a threat to us and our foes. We share increasing political and diplomatic interests, much as we did in the past. They have made their intentions to kick out the revolutionaries and foriegn powers clear, all that remains is to allow them back, under watchful eyes of course. The boon in men and material will certainly not go amiss."anhui.13.a:0 "We are Brothers in this Struggle."
+anhui.13.a:0 "We are Brothers in this Struggle."
+anhui.13.b:0 "They should stick to their wastelands in the North."
+
+anhui.100.t:0 "Anhui Seeks an Accord"
+anhui.100.d:0 "The Anhui Clique, currently stuck in Mongolia, seeks to secure both their position and our border by entering into a non-aggression treaty. While the offer may seem an inconsequential and obvious choice, the possibility of using Mongolia as a future more favourable route into Central Russia than Baikalia and Tunguska remains as a tempting alternative. The Anhui may not suspect it, but Russia may need to once again trample Chinese and Mongolian sovereignty to secure it's future. Should we accept their offer, that route may be closed to us, at least temporarily. But we would gain a valuable potential friend amongst a vast array of enemies."
+anhui.100.a:0 "Yes, very well."
+anhui.100.b:0 "No, this jeporadises our position."
+
+anhui.101.t:0 "Zheltorossiya Accepts Accord"
+anhui.101.d:0 "The Soviets of Zheltorossiya have accepted our offer of non-aggression. Thankfully, our Eastern flank is now safer than most, and that border now functions as a means of trafficking men and materials from Russia into Mongolia to aid our struggle."
+anhui.101.a:0 "Fantastic!"
+anhui.101.b:0 ""
+
+anhui.102.t:0 "Zheltorossiya Rejects Accord"
+anhui.102.d:0 "The Russian Republicans seem as foolhardy as many of our own so-called republicans. They have rejected our offer, citing security concerns in Baikalia, and banditry on our side of the border. It is a smoke screen, they want not to be seen taking sides in Chinese affairs, lest it come back to haunt them later."
+anhui.102.a:0 "Bugger."
+anhui.102.b:0 ""

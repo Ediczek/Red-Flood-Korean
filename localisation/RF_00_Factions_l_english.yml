@@ -1,0 +1,12 @@
+﻿l_english:
+warsaw_pact:0 "Der Warschauer Vertrag"
+warsaw_pact_desc:0 "Members of the Warschauer Vertrag enjoy closer economic and diplomatic relations, each having greater access to the resources of the others than a regular trade partner would. As well, the pact serves as a vital lifeline for many member nations surrounded by reactionary forces."
+wp_member_tt:0 "Due to the presence of §G[?ATU.wp_count_major]§! §Ymajor powers§! and a total §Ymember count§! of §G[?ATU.wp_count]§!, we gain:"
+POL_intermarium_observer:0 "Intermarium Observer"
+POL_intermarium_observer_desc:0 "We be observing"
+FRA_league_observer:0 "League Solar Observer"
+FRA_league_observer_desc:0 "We be observing"
+GER_rotfront_observer:0 "Rotfront Observer"
+GER_rotfront_observer_desc:0 "We be observing"
+
+factions.1.desc:0 "[?ATU.wp_count]\n[?ATU.wp_count_major]\n[?ATU.wp_count_minor]\n\n[?ATU.wp_cgf]\n[?ATU.wp_me]\n[?ATU.wp_tof]\n[?ATU.wp_psicf]\n\n[?ATU.wp_cgf_major]\n[?ATU.wp_me_major]\n[?ATU.wp_tof_major]\n[?ATU.wp_psicf_major]\n\n[?ATU.wp_cgf_minor]\n[?ATU.wp_me_minor]\n[?ATU.wp_tof_minor]\n[?ATU.wp_psicf_minor]"
