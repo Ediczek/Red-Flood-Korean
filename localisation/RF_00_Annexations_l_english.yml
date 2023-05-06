@@ -19,11 +19,17 @@ RF_owned_and_controlled_by_ROOT_or_ally:0 "is owned and controlled by §Y[Root.G
 RF_owned_and_controlled_by_ROOT_or_ally_NOT:0 "is §Rnot§! owned and controlled by §Y[Root.GetNameDef]§! or an ally"
 
 ### Events and Decisions ###
-annexation_start:0 "Turn On Post-Annexation Release Decisions/Events?"
-annex.event.t:0 "Turn On Post-Annexation Release Decisions/Events?"
-annex.event.d:0 "These decisions/events allow the player to release tags after annexing them, some countries have special release effects such as unique cosmetic tags or leaders.\nThe Post-Annexation Release decisions/events have been tenuously added to RedFlood. Unfortunately due to the shear number of countries and their related release events, many bugs are bound to surface.\nAs such this feature has been disabled by default, it will work fine in majority cases but if do turn it on be aware that it is experimental. And of course we appreciate any and all feedback on this feature to ensure a bugfree smoother feature."
-annex.event.a:0 "Leave them turned off."
-annex.event.b:0 "§RSTART RELEASE DECISIONS/EVENTS§!"
+annexation_start:0 "합병 후 릴리스 결정/이벤트를 사용 설정하시겠습니까?"
+annex.event.t:0 "합병 후 릴리스 결정/이벤트를 사용 설정하시겠습니까?"
+annex.event.d:0 "§R!!!중요!!!§!\n\n이러한 결정/이벤트를 통해 플레이어는 태그를 병합한 후 해제할 수 있으며, 일부 국가에서는 고유한 장식 태그나 지도자와 같은 특별한 해제 효과가 있습니다.\n이벤트는 의도된 게임 플레이이므로 켜고 플레이하는 것이 좋으며, 끄면 버그나 의도치 않은 결과가 발생할 가능성이 높습니다.\n그러나 바닐라 경험을 유지하고 싶다면 끄십시오."
+annex.event.a:0 "끄겠다."
+annex.event.b:0 "켜겠다."
+
+annex.9999.t:0 "정말요?"
+annex.9999.d:0 "§R릴리스 결정을 켜는 것을 강력히 권장합니다. 해제하면 게임이 의도한 대로 작동하지 않습니다.§!"
+annex.9999.a:0 "끄라고"
+annex_9999_tt:0 "§R이봐, 네 장례식이야, 친구."
+annex.9999.b:0 "알겠어 킬께."
 
 annexation_decisions:0 "Release Decisions"
 annexation_decisions_desc:0 "Having gained control of new swaths of land we must now work out what to do with it. Occupation can be expensive and destabilizing but it would give us direct access to the riches of this new land. On the other hand, creating a puppet nation would certainly be cheaper, however, our new subjects may not be as reliable as we might think. Either way, the fate of nations rests in our hands."
