@@ -33,3 +33,7 @@ RAJ_shared_economy_desc:0 "영국령 인도의 붕괴로, 옛 라자를 대체�
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
+KSM_religious_division:0 "Religious Divisions"
+KSM_religious_division_desc:0 "Kashmir is a country with significant numbers of both Hindus and Muslims. The politicisation of Indian religious identity has made the country unstable, as the people are drawn more and more towards the national sentiments of their brothers and sisters in faith, as opposed to the regional fraternity with their neighbours."
+KSM_mountain_fortress:0 "Mountain Fortress"
+KSM_mountain_fortress_desc:0 "Kashmir's natural defences make it a difficult region to conquer, mountains and narrow passes dominate the region, and the altitude makes intruders from low-lying areas tire more quickly than the hardy locals."

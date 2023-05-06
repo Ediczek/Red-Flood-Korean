@@ -582,3 +582,7 @@
  ARMY_COMPOSITION_SPECIAL_HEADER:0 "\nIt also gets bonuses based on this:\n"
  ARMY_COMPOSITION_DELAYED:0 "The composition controls which bonuses are applied from advisors and commanders. Battalions lacking equipment contribute less than those that are fully equipped."
  
+militia:0 "Militia"
+militia_desc:0 "All soldiers were once civilians, so why not blur the lines a little?"
+shocktroop:0 "Shock Troops"
+shocktroop_desc:0 "When the time comes to get an impossible job done, these are the maniacs you call upon."

@@ -40,3 +40,9 @@ KMT_green_gangs_desc:0 ""
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
+POLITICS_JIAHUA_DESC:0 "Zhang Jiahua the Right-Guomindang's scholarly face, a gentleman and a minor statesman made powerful by his more disreputable friends. The Chen brothers and other Chiang loyalists maintain dogged faith in the Generalissimo's program. The Right-wing interpretation of the Three Principles posited by the MinZu is often too soft for these loyalists. Their clique has placed Jiahua at the head of their Statesmen Society as an appeal to both the wider MinZu - followers of Hanmin and Zongren - as well as to the paternalists and warlords of the North and West."
+POLITICS_ZHENG_DESC:0 "Ju Zheng is a senior member of the Guomindang and a competent minister who has now risen above his peers to become the chosen party leader. A true believer in the Three Principles and part of the MinZu faction, he now aims to guide the return to form of the Right-Guomindang. Ju has many friends and connections, owing to his time in politics as well as his personal beliefs. Zheng is a member of the Yiguandao religious sect, a fact that gives him outsized power in the North next to his rivals."
+POLITICS_JITAO_DESC:0 "Dai Jitao has emerged a leader of the Guomindang, his support is strong among the MinZu. However he has flirted with the Communist Party for many years, a fact some have not forgetten. He is a more agreeable figure to many outside the Right-Guomindang than others. His pivot away from the Communist Party is owed in part to the deaths of Jiǎng Jièshí and Sun Yat-Sen. The former was a close friend of his, the loss had almost driven him to melancholy, but the percieved danger posed to the revolution by the Communists has galvanised his beliefs and will for life. His beliefs are also influenced by his faith in Tiangijiao - a new salvationist folk religion."
+KMT_CHI:0 "Republic of China"
+KMT_CHI_def:0 "Republic of China"
+KMT_CHI_ADJ:0 "Chinese"

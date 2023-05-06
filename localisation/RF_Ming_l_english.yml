@@ -68,3 +68,8 @@ MNG_faction:0 "Order of Salvation"
 #DECISIONS (1.5 Update)#
 
 #FOCUSES#
+MNG_GREAT_MING:0 "Great Ming"
+MNG_GREAT_MING_DEF:0 "Empire of Great Ming"
+MNG_GREAT_MING_ADJ:0 "Chinese"
+POLITICS_YUXUN_DESC:0 "Zhu Yuxun is the 12th Marquis of Extended Grace. The legitimate direct descendant of the Ming Dynasty emperors of the Middle Ages. His role as a caretaker to royal palaces and temples has been replaced by his role at the head of the Yellow Sand Rebellion. The secret society has chosen its moment and struck out against the republicans, Yuxun's fate is now in their hands. The Ming restoration awaits."
+POLITICS_DAMING_DESC:0 ""

@@ -605,3 +605,7 @@ BLR_vituskapath:0 "미할 비투쉬카가 수반입니다"
 BLR_bogdanovpath:0 "알략산드르 바흐다나우가 수반입니다"
 
 BELARUS_ALLIANCE:0 "신성군단"
+BLR_bandera_despotism:0 "Protectorate of the Northern Lands"
+BLR_bandera_despotism_DEF:0 "the Protectorate of the Northern Lands"
+BLR_bandera_despotism_ADJ:0 "White Ruthenian"
+BLR_warschauer_vertrag:0 "Der Warschauer Vertrag"

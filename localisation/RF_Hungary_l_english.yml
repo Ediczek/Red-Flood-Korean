@@ -76,3 +76,14 @@ HUN_accelerationism_party_long:0 "머저르 행동주의"
 #DECISIONS (1.5 Update)#
 #FOCUSES#
 
+HUN_kingdom:0 "Kingdom of Hungary"
+HUN_kingdom_DEF:0 "Kingdom of Hungary"
+HUN_kingdom_ADJ:0 "Hungarian"
+HUN_uni:0 "Union of Carpathian Council Republics"
+HUN_uni_DEF:0 "the Union of Carpathian Council Republics"
+HUN_uni_ADJ:0 "Carpathian"
+HUN_mentors_death:0 "Death of the Mentor"
+HUN_revolutions_children:0 "Children of the Revolution"
+HUN_to_arms:0 "To Arms!"
+HUN_warschauer_vertrag:0 "Der Warschauer Vertrag"
+HUN_integrate_slovakia:0 "Integrate Slovakia"

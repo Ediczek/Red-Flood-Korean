@@ -35,3 +35,8 @@ PNJ_elite_sikh_army:0 "정예 시크 부대"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
+PNJ_union_costag:0 "Union of India"
+PNJ_union_costag_DEF:0 "Union of India"
+PNJ_union_costag_ADJ:0 "Indian"
+PNJ_autoritarian_minority_rule_desc:0 "The Unionists of Punjab were left with control of the province as the British retreated from ongoing riots and violence in 1934. The continued rule of the party has come to be seen by the people of West Punjab as an afront to the struggle for freedom. The majority muslim province is boiling over with nationalist agitation that threatens the tenuous peace between the religious groups of the province. Already many Hindus and Sikhs are attempting to flee."
+PNJ_elite_sikh_army_desc:0 "The battle-tested Sikh units of the British Indian Army fragmented during the Fall of the Raj. Some units defected whole-sale to defend their homes. These troops make up the backbone of Punjab's standing militia."
