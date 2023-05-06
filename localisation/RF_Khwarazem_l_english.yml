@@ -30,3 +30,16 @@ KHW_accelerationism_party_long:0 "예술가 집단"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
+KHW_galiev_uni:0 "Democratic People's Republic of the Turan"
+KHW_galiev_uni_DEF:0 "the Democratic People's Republic of the Turan"
+KHW_galiev_uni_ADJ:0 "Turkic"
+KHW_tulip_uni:0 "Labour Collective of Turkestan"
+KHW_tulip_uni_DEF:0 "the Labour Collective of Turkestan"
+KHW_tulip_uni_ADJ:0 "Turkestani"
+KHW_kivan_uni:0 "People's Republic of Turkestan"
+KHW_kivan_uni_DEF:0 "the People's Republic of Turkestan"
+KHW_kivan_uni_ADJ:0 "Turkestani"
+KHW_front:0 "Not-So-Popular Front"
+KHW_front_desc:0 "While Sultan-Galiev currently holds power in Khiva, his rule is by no means uncontested. Although the role of the Tatar Red Army in securing the revolution cannot be overstated, it was through the formation of a popular front that defeat was pushed back. Together with his Turanist Communists, Sultan-Galiev brought the more moderate Young Khivans and the Futurist radicals of the Red Tulips into an alliance to smash their enemies, be they reactionaries or imperialists.\n\nHowever strong the popular front was at first, divisions began to bubble to the surface as the Young Khivans distanced themselves from the Red Tulip radicals due to their violent nature. Meanwhile, the Red Tulips criticized Sultan-Galiev for not placing enough of a focus on the proletariat. Though overall the nation remains united and stable, only time will tell whether the chinks in their armor will cause the front to crumble."
+KHW_army:0 "The Red Army of Tartary"
+KHW_army_desc:0 "Formed during the chaos and revolutionary fervor of the Russian Civil War, the Tatar Red Army is one of the pillars on which Khorezm is based.  Under the leadership of Sultan-Galiev, they marched to the aid of the Khivan Revolutionaries while the cowardly Republicans in the North began their retreat. Despite the relative isolation, the Tatar Red Army, with help from local socialists, was able to secure a sustainable revolutionary base here in Khorezm. As an ideological force as well as a military one, the ideas of socialism and liberation were able to spread across Turkestan due to their brave deeds and daring escapades.\n\nNo matter what enemies they face, no matter what armies try to strike them down, it is certain that our boys will fight side by side and ensure the success of the coming Turkic revolution against the Metropolitan jackals who seek to crush it!"

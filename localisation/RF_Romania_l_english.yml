@@ -139,3 +139,12 @@ ROM_legitimate_government_desc:0 "우리는 정통정부로, 대전쟁과 단결
 ROM_gheorghe_tatarescu_hog:0 "게오르게 타타레스쿠"
 #FOCUSES#
 #Events#
+ROM_yugo_revisionist_socialism:0 "Free Country of Dacia"
+ROM_yugo_revisionist_socialism_DEF:0 "the Free Country of Dacia"
+ROM_yugo_revisionist_socialism_ADJ:0 "Dacian"
+ROM_bulgar_revisionist_socialism:0 "Free Country of Dacia"
+ROM_bulgar_revisionist_socialism_DEF:0 "the Free Country of Dacia"
+ROM_bulgar_revisionist_socialism_ADJ:0 "Dacian"
+ROM_yugo_reactionism:0 "Kingdom of Romania"
+ROM_yugo_reactionism_DEF:0 "the Kingdom of Romania"
+ROM_yugo_reactionism_ADJ:0 "Romanian"

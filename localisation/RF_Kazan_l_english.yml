@@ -1,0 +1,572 @@
+﻿l_english:
+
+#Brief history
+ORE_DESC_MENU:0 "The advent of the civil war had shown all parties that the military districts had been too inefficient. From these conditions was born the Kazan military district, led by Alexander Dutov and his autonomous band of Cossacks. Meant to be a neutral force, Dutov threw in his lot with Kolchak during the conflict. Following the crushing of Kazakh protests, Alash parties started to actively oppose Dutov. The situation became worse following the famine of 1932-33 which led to a pro-communist peasants revolt. While it seems that the troubles of the Kazan Military District are largely over, it shall be seen if the vultures circling the nation will make themselves known."
+
+#Parties
+ORE_accelerationism_party:0 "YNP"
+ORE_accelerationism_party_long:0 "Yevraziyskaya Narodnaya Partiya"
+ORE_anarchism_party:0 "Svobodnye Kazaki"
+ORE_anarchism_party_long:0 "Svobodnye Kazaki"
+ORE_vanguard_socialism_party:0 "RSDRP(b)-L"
+ORE_vanguard_socialism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya (bolshevikov) - Leninisty"
+ORE_popular_socialism_party:0 "RSDRP(m)"
+ORE_popular_socialism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya (menshevikov)"
+ORE_revisionist_socialism_party:0 "PSR"
+ORE_revisionist_socialism_party_long:0 "Partiya Sotsialistov-Revolutsionerov"
+ORE_progressivism_party:0 "Alash"
+ORE_progressivism_party_long:0 "Alash"
+ORE_liberalism_party:0 "Alash"
+ORE_liberalism_party_long:0 "Alash"
+ORE_conservatism_party:0 "Alash"
+ORE_conservatism_party_long:0 "Alash"
+ORE_right_authoritarianism_party:0 "Klika Dutova"
+ORE_right_authoritarianism_party_long:0 "Klika Dutova"
+ORE_despotism_party:0 "Klika Dutova"
+ORE_despotism_party_long:0 "Klika Dutova"
+ORE_reactionism_party:0 "TIKhvR"
+ORE_reactionism_party_long:0 "Tserkov Iisusa Khrista v Rossii"
+
+ORE_despotism_party1_long:0 "Milliyetçi Hareket Partisi"
+ORE_despotism_party1:0 "MHP"
+
+#Country names
+ORE_accelerationism:0 "Kazan Directory"
+ORE_accelerationism_DEF:0 "the Kazan Directory"
+ORE_accelerationism_ADJ:0 "Russian"
+ORE_anarchism:0 "Kazakh Free Territory"
+ORE_anarchism_DEF:0 "the Kazakh Free Territory"
+ORE_anarchism_ADJ:0 "Kazakh"
+ORE_vanguard_socialism:0 "Kazakh Socialist Republic"
+ORE_vanguard_socialism_DEF:0 "the Kazakht Socialist Republic"
+ORE_vanguard_socialism_ADJ:0 "Kazakh"
+ORE_popular_socialism:0 "Republic of Kazakhstan"
+ORE_popular_socialism_DEF:0 "the Republic of Kazakhstan"
+ORE_popular_socialism_ADJ:0 "Kazakh"
+ORE_revisionist_socialism:0 "Republic of Kazakhstan"
+ORE_revisionist_socialism_DEF:0 "the Republic of Kazakhstan"
+ORE_revisionist_socialism_ADJ:0 "Kazakh"
+ORE_progressivism:0 "Republic of Kazakhstan"
+ORE_progressivism_DEF:0 "the Republic of Kazakhstan"
+ORE_progressivism_ADJ:0 "Kazakh"
+ORE_liberalism:0 "Republic of Kazakhstan"
+ORE_liberalism_DEF:0 "the Republic of Kazakhstan"
+ORE_liberalism_ADJ:0 "Kazakh"
+ORE_conservatism:0 "Republic of Kazakhstan"
+ORE_conservatism_DEF:0 "the Republic of Kazakhstan"
+ORE_conservatism_ADJ:0 "Kazakh"
+ORE_right_authoritarianism:0 "Kazan Directory"
+ORE_right_authoritarianism_DEF:0 "the Kazan Directory"
+ORE_right_authoritarianism_ADJ:0 "Russian"
+ORE_despotism:0 "Kazan Military District"
+ORE_despotism_DEF:0 "the Kazan Military District"
+ORE_despotism_ADJ:0 "Russian"
+ORE_reactionism:0 "Realm of Belovodye"
+ORE_reactionism_DEF:0 "the Realm of Belovodye"
+ORE_reactionism_ADJ:0 "Russian"
+
+ORE_uni_reactionism:0 "Tsardom of Holy Rus"
+ORE_uni_reactionism_DEF:0 "Tsardom of Holy Rus"
+ORE_uni_reactionism_ADJ:0 "Russian"
+
+ORE_eurasia:0 "Eurasian Union"
+ORE_eurasia_DEF:0 "the Eurasian Union"
+ORE_eurasia_ADJ:0 "Eurasian"
+
+ORE_non_rus:0 "Kazakhstan"
+ORE_non_rus_DEF:0 "Kazakhstan"
+ORE_non_rus_ADJ:0 "Kazakh"
+
+ORE_intermarium:0 "Union of Turkestan"
+ORE_intermarium_DEF:0 "the Union of Turkestan"
+ORE_intermarium_ADJ:0 "Turkestani"
+
+#Ideas
+ORE_kazakh_republic:0 "Kazakh Republic"
+ORE_kirghiz_nation:0 "Kirgiz Nation"
+ORE_authentic_education:0 "Authentic Education"
+ORE_centralised_republic:0 "Centralised Republic"
+ORE_centralised_republic1:0 "Centralised Republic"
+ORE_meritocracy:0 "Meritocracy"
+ORE_ideya_pravitelnitsa:0 "Ideya-Pravitelnitsa"
+ORE_ruling_class:0 "Ruling Class"
+ORE_mixed_economy:0 "Mixed Economy"
+ORE_self_governance:0 "Self Governance"
+ORE_mestorazvitiye:0 "Mestorazvitiye"
+ORE_continuous_russification:0 "Continuous Russification"
+ORE_eurasian_identity:0 "Eurasian Identity"
+ORE_mestorazvitiye1:0 "Mestorazvitiye"
+ORE_corporative_industrialism:0 "Corporative Industrialism"
+ORE_rasputins_rule:0 "Rasputin's Rule"
+ORE_rasputins_rule_desc:0 ""
+ORE_empires_good_men:0 "The Empire's Good Men"
+ORE_empires_good_men_desc:0 ""
+ORE_rasputins_rule1:0 "Rasputin's Rule"
+ORE_rasputins_rule1_desc:0 ""
+ORE_olga:0 "Olga I Romanov"
+ORE_olga_desc:0 ""
+ORE_saint_devil:0 "Saints Painted as Devils"
+ORE_saint_devil_desc:0 ""
+ORE_forbidden_sorcery_idea:0 "Forbidden Sorcery"
+ORE_forbidden_sorcery_idea_desc:0 ""
+ORE_golden_heart:0 "A Heart of Gold"
+ORE_golden_heart_desc:0 ""
+ORE_grandiose_courage:0 "Grandiose Courage"
+ORE_grandiose_courage_desc:0 ""
+ORE_retvrn:0 "The Great Return"
+ORE_retvrn_desc:0 ""
+ORE_smite_the_zhmey:0 "Smite the Zmey!"
+ORE_smite_the_zhmey_desc:0 ""
+ORE_half:0 "Half-Turkestan"
+ORE_half_desc:0 "The years before the Intermarine victory over the Russians have seen people battling for not only freedom, but also for ideals. One such ideal was Turanism, of casting our differences aside for a prosperity that the region could only dream of. Yet even in this proclaimed unity, there were splits. Sultan-Galiev and Enver Pasha led rival warlord states - fighting for the same thing, from two different angles. Now they both lie in the grave, but Turanism lives on. It is not just "Greater Kirghizstan", or whatever skeptics would want you to believe. No, Turkestan is one! The Ukrainians in their "Grey Klin" colony are oppressing our brethren, and the monstrous state of Idel-Ural serves as a base for various separatists. We will not stand for that! The fields of Ukrainian colonizers shall burn, and the Turkic people of Idel-Ural shall join the Union! All in due time, though. All in due time."
+#LEADER DESCRIPTIONS#
+POLITICS_ALEX_DUTOV_DESC:0 "Alexander Dutov has plentiful experience commanding cossack regiments, giving him the skills necessary to govern the Kazan Cossacks. Dutov has two simple tasks: keep the Kazan Territory under Russian control, and kill anyone who stands in his way. Being a hardened Russian military man, Dutov is glad to oblige on both accounts."
+
+#Minsters
+ORE_Khalel_Dosmuchamedov_hog:0 "Khalel Dosmuchamedov"
+ORE_Pyotr_Savickij_hog:0 "Pyotr Savitsky"
+ORE_Ivan_Akulinin_hog:0 "Ivan Akulinin"
+
+ORE_Baktigerey_Kulmanov_for:0 "Baktigerey Kulmanov"
+ORE_Georges_Florovsky_for:0 "Georges Florovsky"
+ORE_Gavriil_Yenborisov_hog:0 "Gavrill Yenborisov"
+
+ORE_Nurgali_Ipmagambetov_eco:0 "Nurgali Ipmagambetov"
+ORE_Sergei_Efron_eco:0 "Sergei Efron"
+ORE_Matvei_Martynov_eco:0 "Matvei Martynov"
+
+ORE_Otynshy_Alzhanov_sec:0 "Otynshy Alzhanov"
+ORE_Anton_Kartashev_sec:0 "Anton Kartashev"
+ORE_Aleksandr_Kravtsov_sec:0 "Aleksandr Kravtsov"
+
+ORE_Karash_Gumar_int:0 "Karash Gumar"
+ORE_Pyotr_Suvchinsky_int:0 "Pyotr Suvchinsky"
+ORE_Ivan_Shivtsov_int:0 "Ivan Shivtsov"
+
+ORE_Gavriil_Yenborisov_cof:0 "Gavrill Yenborisov"
+ORE_Matvei_Martynov_cof:0 "Matvei Martynov"
+
+ORE_Aleksandr_Kravtsov_coa:0 "Aleksandr Kravtsov"
+ORE_Ivan_Shivtsov_coa:0 "Ivan Shivtsov"
+
+ORE_Caspian_Coastal_Patrol_con:0 "Caspain Coastal Patrol"
+ORE_Aral_Coastal_Patrol_con:0 "Aral Coastal Patrol"
+
+ORE_Nikolay_Ragozin_coaf:0 "Nikolay Ragozin"
+ORE_Bakhtyuras_Besikbayev_coaf:0 "Bakhtyuras Besikbayev"
+
+ORE_Ivan_Akulinin_theorist:0 "Ivan Akulinin"
+ORE_Nikolay_Ragozin_theorist:0 "Nikolay Ragozin"
+
+#Custom tooltips and flags
+ORE_dutovlives:0 "Dutov survives the assassination, even if he's injured."
+ORE_dutovdies:0 "Dutov dies shortly after the assassination attempt, making the political situation chaotic."
+ORE_ORINBOR:0 "Kirghiz-Kaysak separatists have won the little civil war."
+ORE_eurasianists:0 "Eurasianist conspiracy has defeated the plebeian riot with aid of Kazan garrison."
+ORE_rasputin_conspiracy:0 "Rasputin's Conspiracy succeeded."
+ORE_SAINT_DEVIL_TT:0 "§RIf the World sees us as devils, so be it.§!"
+
+ORE_DUTOV_WILL_SURVIVE:0 "Despite Alexei's feelings, Dutov will be safe and sound."
+ORE_DUTOV_RIPBOZO:0 "Despite Alexei's feelings, Dutov's security will be compromised."
+
+
+#Decisions
+ORE_diplomatic_decisions:0 "Russian Reunification"
+ORE_diplomatic_decisions_desc:0 "We have secured the power in our immediate area. From our power base, we can now begin to unify Russia and rid it of all its enemies.\n\nAs we expand and liberate our Motherland, we will be able to integrate recently conquered territories under our regime once our control is secured. Once all our foes will be extinguished, we will be able to proclaim ourselves as the rulers of unified Russia, a fact that none will be able to contest then."
+ORE_core_territory:0 "Integrate the conquered territories"
+ORE_core_territory_desc:0 "We have recently liberated areas previously owned by enemies of our cause. It is important we integrate it under our administration."
+ORE_core_territory_1:0 "Integrate the conquered territories"
+ORE_core_territory_desc_1:0 "We have recently liberated areas previously owned by enemies of our cause. It is important we integrate it under our administration."
+ORE_invade_armenia:0 "Attack Armenia"
+ORE_invade_kav:0 "Attack the Caucasian Federation of Soviets"
+ORE_invade_seu:0 "Attack the Cossacks"
+ORE_invade_russia:0 "Attack the Russian Empire"
+ORE_invade_trk:0 "Attack the General-Governorate of Turkestan"
+ORE_invade_siberia:0 "Attack Siberia"
+ORE_invade_kck:0 "Attack the Far East"
+ORE_invade_zhr:0 "Attack Zheltorossiya"
+ORE_invade_baltics:0 "Attack the Baltic region"
+ORE_invade_finland:0 "Attack Finland"
+ORE_invade_central_asia:0 "Attack the Turkestan rebels"
+ORE_invade_mongolia:0 "Reclaim the TransSib"
+ORE_organize_mongolia:0 "Form the Mongolian Provisional Government"
+ORE_uni_1:0 "Russian Unification"
+
+ORE_invade_mongolia:0 "Invade Mongolia"
+ORE_reclaim_transsib:9 "Reclaim the Trans-Siberian Railway"
+#Events
+ore.1.t:0 "An Anonymous Letter"
+ore.1.d:0 "\"Ilyich, you've got a letter.\" Dutov looked up and thanked the man, taking the wrinkled envelope from his hands. He'd recieved his fair share of letters in his years as Kazan's leader, both positive and negative. It was always an interesting surprise to guess which type it was, and although he preferred the former, a quick scan of the contents revealed that this time it would be the latter. \n\n\"To the dishonorable Alexander Ilyich Dutov, may your organs rot in your body. For too long the tyrannical Russian state has suppressed the Kazakh people, the workers, and many others, while you serve as the hand that holds the whip. You are the embodiment of evil, only bested by those who puppet you in Moscow. You are an agent of oppression enforcing an unjust hierarchy onto all peoples under your boot, and I cannot wait until the day your rule comes crumbling down and your corpse is dragged through the streets.\" \n\nAs Dutov finished reading through the verbal assault, he crushed the letter up and tossed it away. He was no stranger to demeaning messages, and each time the small sting grew less and less. At this point they had almost no effect on the man, for it was so normalized in his psyche. There was no reason to lose sleep over one man's anger, for after all:"
+ore.1.a:0 "\"What can one man do?\""
+
+ore.2.t:0 "Righteous Disobedience"
+ore.2.d:0 "Alexei Ivanovich Dyomin shifted his coat, the sweat seeping through despite the light smattering of snow falling from above. Ataman Dutov's speech in front of Kazan was very important, especially in these turbulent times. This meant that his job as bodyguard was invaluable now more than ever, which lead to frustrations when Dutov wished to have his guard stand in the background of the stage, in order to promote a more \"peaceful and welcoming\" feeling for the crowd. His foolish wish to appeal to the common man was a huge breach of security protocols, but Alexei didn't want to disobey a direct command from his superior officer. \n\nAs the speech started, Alexei tried to ponder ways in which he could still protect the Ataman in a way that would be more discrete than usual, even if it had the downside of making Dutov appear more vulnerable. After a short period of deliberation, he realized he could attempt to blend into the crowd, and although he would be abandoning his post in technicality, he felt that the safety of the Ataman stood at a higher priority than simple orders. With his mind made up, Alexei chose to..."
+ore.2.a:0 "Follow his orders"
+ore.2.b:0 "Take the risk"
+
+ore.3.t:0 "A Second Letter"
+ore.3.d:0 ""
+ore.3.a:0 ""
+
+ore.4.t:0 "The Battle of Kazan"
+ore.4.d:0 "With General Dutov's death, his worst fears have been realized. Kazan - the city and the district both - are in chaos. A chain of explosions rattled the city early this morning with a series of massive hollow booms, and bands of Kazakh partisans, pre-positioned in workhouses and factory dormitories or packed into leased-out flophouses, flooded out into the city. Some groups are barely controlled, but other bands display uniform weaponry and clear signs of training as they move to seize strategic points throughout the city and the surrounding countryside. Gunfire echoes through Kazan as the insurgents trade fire with paramilitary police units. The citizens have vanished, huddling in their homes and hoping to avoid stray bullets, or else hunkering down with what arms they possess to defend their own property. However, something is amiss in this attempt at a while coup. Messages have gone out, missives dispatched by an anonymous writer claiming to be a general officer of the Kazan Russian Army, to the garrisons surrounding the city. The missives order the troops to assemble and immediately march on critical positions, doubtlessly putting them into direct conflict with the rebels. But with the source of these missives unknown and their authority dubious at best, the officers are quarreling over the proper response. It remains to be seen how many, if any, of the garrison commanders will march If enough of them move quickly, their regular troops will no doubt crush the irregular partisans. A partial or piecemeal response from the army will likely hand victory to the rebels and traitors - but with Dutov dead and Kazan in chaos, it is a mystery who would have both the means and motive to arrange the failure of the revolt."
+ore.4.a:0 "And so it seems, that Kirghiz separatists shall celebrate after all"
+ore.4.b:0 "Maybe it's the plotters from the Eurasian party who should drink champagne?"
+ore.4.c:0 "In the end, the cult of Rasputin wins today"
+
+ore.5.t:0 "Fly Like A Phoenix"
+ore.5.d:0 "The deafening roar of a crowd is thrown to the ears of Nikolay Trubetskoy, intellectuals across the cities of Kazan and national minorities cheer happily as Dutov's regime disintegrates into ash, and a Phoenix rises in it's place - the proclamation of Eurasia rises the hopes of a new future under a reimagined Russia, under the ideal of an Eurasianist concept."
+ore.5.a:0 "Glory, glory to Eurasia!"
+
+ore.6.t:0 "A Lidless Eye"
+ore.6.d:0 "Alexei scanned the crowd, time and time again. Nothing moved out of the ordinary, nobody was suspicious, and his eyes started to water. He was limiting his blinking to an inhuman minimum in order to keep better surveillance, and it showed. The cold wind blowing snow against his pupils, the sweat freezing on his face, all of it felt like God himself was testing Alexei, and for naught. Nothing was happening, and nothing would happen. Dutov was right that this event would be a peaceful one, and Alexei blinked again. \n\nBut as he opened his eyes, he caught a glimpse of a reflection being tucked into a jacket. Maybe a gun? Alexei's eyes shot wide open as he focused solely on the man awkwardly shuffling around with his pockets, and his suspicions mounted tenfold when the man started walking towards the stage. The man locked eyes with Alexei's frozen watchmen, and he made a mad dash towards the stage.\n\n\"Ilyich!\", screamed Alexei at full sprint. \"Get down!\" The man leaped onstage, brandishing a grenade with the pin already pulled. In a split second deliberation, Alexei knew what must be done, and as he tackled the suicide  bomber to the floor, he let his eyes rest one final time, safe with the fact that his job had been fulfilled."
+ore.6.a:0 "A flash, then dark"
+
+ore.7.t:0 "In The Peaceful Snow"
+ore.7.d:0 "As Alexei weaved through the dense crowd, doubts raced across his mind, doubts which he quickly snuffed as simple paranoia induced by stress. He had a job to do which required his upmost attention, and any distractions would be disasterous to the safety of the Ataman, and thus the nation of Kazan as a whole. He alone stood between Hell and Heaven, as the guardian of life and death. \n\nAlexei's slow shuffle through the powdersnow was impeded by the jostling of the crowd, and more often than once he had been blocked from any movement for precious seconds, a risk that he could not afford to take. As he continued surveying the area, he noticed a man infront of him check over his shoulder before moving towards the stage. Alexei, the vigilant guardian he was, flung himself forward, engaging the mystery man in a chase. The Ataman's face was surprised at this disturbance, and when he turned around to find Alexei missing, his fate was already sealed. \n\nThe man lept onto the stage and into Dutov, before a blinding explosion with the brightness of the Sun threw shrapnel across the crowd. Alexei fell face-down into the same soft snow that had kept him still, his conciousness knocked out from him. The bloody pulp that used to lead Kazan sizzled, as the snow kept falling as though nothing had happened."
+ore.7.a:0 "In the blink of an eye"
+
+ore.8.t:0 "The Fairytale Coronation"
+ore.8.desc:0 "The stage is set. White garlands hanging up high from tall branches matched the thick carpet of snow in the grass - unusual around this time in this part of the country, but nonetheless an auspicious sign. To each side of the long path to the small stone parish, peasants and soldiers waited with impatient glee for the great event.  \n\nWith slow and wide steps walks Elder Grigory. With an imposing height and a beard a white much brighter than the snow, he holds a woman by her arm. She meekly follows along. Dressed in exhuberant traditional clothes, this is none other than sweet Olga. The crowd hold their breath, as to not break the enchantment of the scene. When they reach the chapel, Rasputin's towering figure puts the small church to shame. A young boy hands the monk a wreath of white roses. Sadly, there are no more "royal" crown for the soon-to-be Queen, but the peasant simplicity of this floral tiara only contributes to the scene. \n\nOlga kneels elegantly, as she did in the dances and masquerades of the Imperial Court she left behind. Rasputin, with a silvery voice,pronounces a formulaic prayer, before gently letting the wreath rest on Olga's temples. He lifts her up by her marble hand, and presents the new Tsarista to the public."
+ore.8.a:0 "Long live the Tsarista of all Russia! Long live Olga!"
+
+ore.9.t:0 "Week of the Butterlady"
+ore.9.desc:0 "Masha always looked forward to "Maslenitsa" as it was one of her favorite times of the year, even when it was starting the Lenten season. She helped prepare sweet blini with her mother and grandmother. She brought the eggs to the kitchen as her mother had asked her to do so. She turned to her daughter and said. \n\n\"Masha, as if you were so good. Could you make blini dough? I don't have any hands and we need to make another batch.\" \n\nHer mom said as she carried a hot plate full of pastries to the outside table. Her grandmother smiled a secret at her and said. \n\n\"Well Masha, we'll be able to do this together?\" \n\nMasha nodded and saluted her grandmother. She put the eggs on the table and began searching the kitchen for flour. Finally she found her while Grandma was breaking eggs. Masha brought the flour and put it on the counter. Grandma poured it into a bowl and added milk, eggs, water and salt. Finally she also added melted butter inside. And she gave Masha a bowl and a spoon for her to stir it. The little girl did so and handed the bowl back to her grandmother who started putting the dough into the pan to fry the blini. The smell of the pancakes caught the attention of the gray-and-white family cat of the Jazz, who hopped on a chair and stared intently at the plate of tasty pancakes. Babushka, however, scared him so that he would not try to eat them. Eventually, however, her mother came and she had something in her hand that made Masha happy. It was a beautiful folk dress and a colorful kokoshnik that she had been asking her parents for for a long time. She ran to her mother and asked. \n\n\"Is this for me? It's wonderful! I always wanted a dress like this!\" \n\n\"Yes my dear. I bought it from Mr.Yezhnev when he visited our village. I thought that it would be really nice if you could dance with other girls in this.\" \n\n\"Thank you thank you!\" \n\nThe girl said and ran to another room where she dressed quickly and, regardless of her mother and grandmother, ran outside the house. The first thing she experienced after leaving the hut was a snowball made by Igor - a boy she liked. She giggled and started collecting snowballs in her hands to start a snowball fight with them. Hiding around the corner of the houses, more and more children began to join their skirmish in colorful flowery costumes until they were all tired and soaked. When the parents saw their children when they returned home, they were nervous because the costumes had to dry for the festive dance. However, their anger did not last long as the next day was "Forgiveness Sunday". Masha danced a beautiful dance in a quickly dried outfit with Igor in front of the whole village with the rest of the children and young men, and the father himself hugged her, being proud of her. The whole family, father, mother, Masha and grandmother listened to the priest's short sermon. \n\n\"As every year, Maslenitsa reminds us of passing, but also of the joy of life that comes from Jesus Christ. Remember, that the time of the Lord's judgment is  coming for us at a fast pace and we must remember that all good things on this earth will eventually come to an end. For there is no joy greater than the source of all joy which is God. Everything comes from God and everything will return to God. Remember my dear brothers and sisters in Christ! We are ashes, and from the ground we rose and returned to the ground!\" \n\nSeeing the reverie and sadness of the whole congregation, the priest, however, cheered up and stopped speaking in his loud sacral voice. \n\n\"But let's have fun, because every saint is smiling. Bring in the Maslenitsa Effigy!\" \n\nThe two men went to a nearby barn to pull out a decorated hay doll that was supposed to be Maslenitsa. It was created by all young men looking for a bride, hoping that Maslenitsa would bring them happiness. At the same time, mother-in-law met with their sons' wives and bride to forge new friendships by frying bliny. The men hung the puppet on a pole and all the villagers began to bring the remains of the pancakes and put them next to the puppet, mixing them with flammable straw. At first Masha did not understand why it was done, but her mother explained that it is used to fertilize the fields and to bring fertility. She nodded as she watched Maslenitsa burn, symbolizing the end of winter and the beginning of Lent and Spring."
+ore.9.a:0 "Finally Winter is over!"
+
+ore.10.t:0 "Full of Ecstasy and Fire"
+ore.10.desc:0 "Tales were told about the new ruler of Kazan. With the strength of a bear, his eyes glowed like a flame. He was old, with a long gray beard, yet his heart was still beating with boldness. Most people spoke about him with terror and with fear. This man was called Grigory Rasputin and he prepared for another Easter. Through the whole lent he whipped himself and tried not to eat anything while trying to mortify his own flesh. The faithful saw that in spite of the demands he imposed on himself, he remained of great faith, setting an example for his fellow believers. Like him, many took off their robes while walking only in undershirts, whipped themselves and fasted - women, men, children and the elderly. Eventually, however, the period of reflection was over and it was the time of celebration. Rasputin entered the room and knelt. He did not invite anyone, but he did not forbid anyone from entering the room, so many gathered in the room with him. Eventually, however, he knelt down and began repeating a sentence over and over and over again. \n\n\"Lord Jesus Christ, Son of God, have mercy on me, a sinner.\" \n\nFollowing their teacher, many also got down on their knees and began saying a prayer. Eventually, however, Rasputin got up and spoke to the crowd. \n\n\"I thank you my brothers and sisters in Christ for this moment of prayer together, and now let us rejoice because Christ is risen!\" \n\nAnd the crowd cheered and Rasputin asked for a \"special\" Kvass (which he called holly), nuts, sunflower seeds, bread and honey. He spoke again when food was distributed to the congregation. \"Take and eat; this is my body! Drink from it, all of you. This is my blood of the covenant, which is poured out for many for the forgiveness of sins. I tell you, I will not drink from this fruit of the vine from now on until that day when I drink it new with you in my Father's kingdom\"  \n\nThey served each other food and drank the Kvass together. Eventually one woman got up from a kneeling position and tore off her top coat, becoming half-naked. She screamed out loud as if she was under the effect of an aphrodisiac and other intoxicating substances. \"I'm full of ecstasy and fire! I feel like the Holy Spirit descended upon me. Praise the Lord!\" \n\nShe began to dance wildly, and many of them began to feel a similar elation. In the end, however, she ran into the dull man and hugged him, and even though he did not know her and despite his shock, he hugged her as well. Rasputin himself was neither eating nor drinking, but also joined the wild joyful dance. They ate and drank beyond their control. Even Sodom and Gomorrah could envy them right now and there was no Lot to save them from this joyful festival of sin. Quickly the room filled with naked bodies rubbing against other bodies. Man with man, woman with woman, man with woman - it didn't matter who with who, but the only thing that mattered was the fact that the Holy Spirit descended and gave His favors to all of them. Rasputin himself undressed as well, and despite his age, he was still vigorous and his body was a muscular fiery temple of the holy spirit. Many women were eager to intercourse with him. After hours of wild orgy, everyone fell exhausted and intoxicated. Only Rasputin stood over them all, still fully conscious and sober. His whole life was full of ecstasy and fire, so for him this situation was nothing new. He put on his robes and slowly left the room, leaving tired people to fend for themselves. Many then began to call him \"the living god\" even though he asked not to be called that. The people ignored his request saying that they saw him leave the room after this holy orgy by passing through the wall and others shouted to him saying that he isn't merely a man but an angel struck by his beauty. Eventually, life returned to its normal course, although everyone remembered well what had happened on the day of the resurrection. However, many were ashamed to speak of it or felt that the experience could not be repeated. Thanks to this, this orgy became an open secret to everyone and no one dared to criticize Rasputin seeing it as a miracle rather than a sin."
+ore.10.a:0 "The spirit of love descended upon them"
+
+ore.11.t:0 "Down with Mammon up with Christ!"
+ore.11.desc:0 "Father Yemelyanovich never worried too much about the priest's activities, he rarely celebrated mass, the more god-fearing believers threatened him with hell if they did not deprive him of his valuables, and he was cursed by the more conscious inhabitants of these wastes for his apathy towards the dying sick who demanded blessing and viaticum. He was sitting in his office decorated with many icons staring menacingly at everyone who entered his house. He licked his sausage-fat lips and continued counting money, taking the coins in his as thick as sausages that his hands ate and arranging them carefully. He noticed, however, that outside the window, behind which snow had been snowing for several days, something was moving and shining. He was surprised because he did not expect any visit and his house itself was a few kilometers away from other houses. He lifted his fat body from the armchair and shuffled towards the window to peer out, rubbed the glass and saw a sight that disturbed him. A procession of peasants in winter clothes holding torches passed in front of his house. He expected that some communists or other madmen could raid the clergy, so he quickly removed his clothes, cross and tried to remove as many icons as possible and hide them under the table and tablecloth. With his eye he noticed that the procession was already standing in front of his house, so he put on a coat over his country shirt and left his hut where immediately, when he closed the door behind him, he heard a loud scream from the crowd of a man. \n\n\"FATHER YEMELYANOVICH\" \n\nHis worst and innermost fears were confirmed. An old man, whom Yemelyanovich recognized, stepped in front of the line. He thought he was already dead, because a few weeks ago his son was knocking on his door from morning to night. He began to recognize more and more faces in the crowd that were the faces of angry villagers from nearby towns. The old man continued his speech, full of pain and envy. \n\n\"Father Yemelyanovich, you are a channel of these lands and a parasite on the holy body of Christ, if only you were the only divine messenger, I would already be dead and without hope... Like many of those gathered here... But we have been enlightened by one man - Father Rasputin. He. He is a living saint and an example to the faithful of the Church. He healed me, bandaged my wounds and the grace of God fell on me through his hands and I got up! Can you say that you have done similar wonderful deeds, Messenger of Mammon?\" \n\n\"Relax! We can explain everything! Christ said you must love your neighbor…\" \n\nSaid embarrassed Yemelyanovich tried to calm the crowd, but in vain. \n\n\"And he also said that he will bring a sword! Brothers and sisters! Give the poor the riches of this parasite! And get him out by his rags!\" \n\nThe old man shouted and the whole crowd burst into the house, taking out all the riches and distributing the trinkets among themselves. The priest tried to stop them screaming in despair and wringing his hands, but they also carried him out and led him to a lower field, where in the darkness there was a pole next to a pile of wood, books and other flammable objects. The old man watched as the fat young priest was dragged by three strong men and tied to the pole. He tried to break free, but could not. The villagers with torches approached the stake and lit it, and the cleric began to shout even louder, asking for deliverance from the Lord. The Lord, however, was deaf when the fires consumed him and his sinful life. And the old man smiled, seeing that justice had been done, speaking only one word very softly in whisper"
+ore.11.a:0 "\"Ezekiel 25:17…\""
+
+ore.12.t:0 "Scythist Coup in Kazan!"
+ore.12.d:0 "placeholder"
+ore.12.a:0 "The Scythists Win!"
+ore.12.b:0 "Dutob maintains his rule!"
+
+#Focuses
+Orenburg_secure_russia:0 "Secure Russia"
+Orenburg_secure_russia_desc:0 "Despite being our ancestral home and the origin of Eurasian enlightenment, the sacred lands of West Russia have fallen into the grip of degenerate forces. The path ahead is clear; from our new position of strength, it is our solemn duty to liberate Russia."
+Orenburg_establish_western_strategic_frontier:0 "Establish Western Strategic Frontier"
+Orenburg_establish_western_strategic_frontier_desc:0 "What is the European part of Eurasia now? Power-hungry dictators and insane revolutionaries are all around! However, we need this territory, with its cities humming from the work of factories and resources, with the help of which armies were forged here for centuries, nations were born and died. Without this region, it is impossible to imagine the Russian Empire in full, just as it is impossible to imagine the Eurasian project."
+
+Orenburg_death_to_the_red_menace:0 "Death to the Red Menace"
+Orenburg_death_to_the_red_menace_desc:0 ""
+
+Orenburg_accuse_kornilov_of_republicanism:0 "Accuse Kornilov of Republicanism"
+Orenburg_accuse_kornilov_of_republicanism_desc:0 "Our reports indicate that there were a considerable number of Radical Socialists among the rebels interested in weakening the authority of the Russian nation. We theorize that they couldn't have acted alone: someone supported them from the inside. I'm afraid it is very likely that General Lavr Kornilov is our leading suspect. Confidential sources tell me that he remains sympathetic to democracy, so it is very likely that could be undermining the authority of the other generals to restore the Republic. I hope your Excellency takes this evidence with the most absolute seriousness. The future of Russia depends on it." -Alexander Dutov"
+
+Orenburg_find_the_source:0 "Find the Source"
+Orenburg_find_the_source_desc:0 "Who was it that tried to kill him? Dutov's memories of the attack were still hazy. He has many enemies, and any of them could benefit from his death. Of course, one of the other Russian warlords was unlikely: as a possible ally, he was more useful alive than dead. The attack was dirty and improvised, the sort of amateur effort an anarchist might attempt. The Kazakh Separatists were the obvious first suspect - he was going to order his men to sweep every corner of his domain to find the attacker. Even if he had to upturn all of Kazan in the process."
+
+Orenburg_matters_of_industry:0 "Matters of Industry"
+Orenburg_matters_of_industry_desc:0 "The state of the industrial sector was much the same - for all his efforts to save the industrialists from strikes and saboteurs, productivity remained frustratingly low. Much of the machinery had grown worn and outdated in the chaos of the Revolution and the malaise that followed, and perennial corruption cut into both profits and investment budgets. If Dutov was to salvage the situation, no part of the industrial network could be left untouched. He'd need to build new factories, assemble new machines, punish the corrupt, and even find ways to encourage the workers to put in some actual effort."
+
+Orenburg_cheap_loans_from_patriotic_bourgeoisie:0 "Cheap Loans from Patriotic Bourgeoisie"
+Orenburg_cheap_loans_from_patriotic_bourgeoisie_desc:0 "On paper, the ideas to fix the army were simple. However, the lack of funding rendered it impossible to implement all the necessary programs to transform a corrupt band of misfits into a professional fighting force. Getting money from Kolchak was out of the question, so the only ones capable of funding such a project were the Kazan bourgeoisie. But given what the Kazan elite owe to Dutov's government for protecting them from socialists and keeping order in their factories, a bit of low-cost financing should be trivial to acquire."
+
+Orenburg_the_demotic_state:0 "The Demotic State"
+Orenburg_the_demotic_state_desc:0 "The essence of the new demotic state is based around two principles: the right of the people to participate in local governments (demotia) and the right of those who are skilled to rule the central government. This system guarantees that everyone occupies a place inside the complex mechanism that is the Eurasian state. With our power in Kazan consolidated, we can now fully dedicate ourselves to our ultimate goal: unifying Eurasia as one geocultural political entity."
+
+Orenburg_the_spiders_web_of_politics:0 "The Spider's Web of Politics"
+Orenburg_the_spiders_web_of_politics_desc:0 "Politics are a complicated affair, akin to a spider's web. They share not only complexity, but also delicacy. From his hospital bed, Dutov contemplates what to do next. To survive, Dutov needs to gain allies, and reaching out to his old comrades is the obvious choice. He need only choose which of them is most reliable."
+
+Orenburg_accuse_kaledin_of_separatism:0 "Accuse Kaledin of Separatism"
+Orenburg_accuse_kaledin_of_separatism_desc:0 ""From the evidence that I gathered from multiple sources, is obvious that there is unrest among Cossacks; I suspect General Aleksei Kaledin is the party ultimately responsible for this. Kaledin likely is aiming to separate his region from Russian authority in order to create his own Cossack state, and we now believe he is sowing dissent among the Kazan Cossacks in support of this agenda. I hope your Excellency reviews the enclosed evidence with the most serious consideration." -Alexander Dutov"
+
+Orenburg_promote_one_language:0 "Promote One Language"
+Orenburg_promote_one_language_desc:0 "The old Russian Empire didn't go far enough in their attempts to Russify the country. That's why Russia will be the official and only language of the Eurasian state. The Cyrillic alphabet will be used in every school and Russian will be speaked in every village. Eurasia is Russia and Russia is Eurasia!"
+
+Orenburg_an_anonymous_letter:0 "An Anonymous Letter"
+Orenburg_an_anonymous_letter_desc:0 "The cold and monotonous morning in the Urals seems to have abruptly grown interesting - a letter without name or address has suddenly appeared on Dutov's desk. How did a letter appear out of nowhere without any warning from his subordinates? Dutov is incensed by this lapse in security. We must get to the bottom of this, and fast."
+Orenburg_things_get_ugly:0 "Things Get Ugly"
+Orenburg_things_get_ugly_desc:0 "Dutov was shocked that some random peasant managed to threaten him so easily. Not worried. This isn't the first time that someone made such threats, and Dutov means to ensure this time won't be the last. It's likely nothing but bluff anyway. No one would dare to follow up to those threats."
+
+Orenburg_orinbors_peoples_republic_proclaimed:0 "Orinbor's People's Republic Proclaimed"
+Orenburg_orinbors_peoples_republic_proclaimed_desc:0 "With the old warlord gone, now is our chance to free ourselves from the rotting corpse of Russia. The Orinbor People's Republic (not to be associated with heretic socialism) will be the cornerstone of a glorious future for the Kazakh people."
+
+Orenburg_dutov_asserts_dominance:0 "Dutov Asserts Dominance"
+Orenburg_dutov_asserts_dominance_desc:0 "Dutov's enemies thought that they could attack him while he was incapacitated. But they underestimated his power: his loyal soldiers crushed this pathetic attempt at rebellion with ruthless efficiency. While he recovers from the attempt on his life, Dutov plans his next moves. First, he would need power - enough power to protect his domains and prevent another attempt at rebellion."
+
+Orenburg_dutovs_duty:0 "Dutov's Duty"
+Orenburg_dutovs_duty_desc:0 "The duty of Aleksandr Dutov in the Urals is simple: obey every order that comes from Petrograd and maintain stability in the region. Any possible revolt is to be crushed on spot, and any officer with ambitions above his stations must be immediately cut down to size. After all, Kolchak's leadership is what keeps Russia alive... for now."
+Orenburg_we_are_eurasians:0 "We are Eurasians"
+Orenburg_we_are_eurasians_desc:0 "Unlike other Western civilizations, Eurasia has a huge variety of ethnic groups. Therefore, how our nation identifies should be the result of the interaction of this diverse group of cultures. Ethnicities like the Tartars, the Kirghiz, the Ukrainians and, of course, the Russians will now be part of a new homogeneous whole that will define the Eurasian nation."
+
+Orenburg_we_are_russians:0 "We are Russians"
+Orenburg_we_are_russians_desc:0 "Standing between East and West, the Russian nation and culture embodies the core essence of Eurasia. Even if the Imperial government has become corrupt, for centuries, the Russian state tried to achieve cultural homogenization of its own territory. What better representation of the union of Europe and Asia then than the Russian culture? From Brest to Kamchatka, every single part of the Eurasian mass will be russified. The dreams of the Tsars of an united Russian nation will be a reality under our government."
+
+Orenburg_formula_of_identity:0 "Formula of Identity"
+Orenburg_formula_of_identity_desc:0 "Eurasia has a myriad of ethnicities and cultures across its gigantic continental mass, as well as a great many Russians. This also represents a problem as our nation needs to consolidate around a specific identity. Now we must choose to either rally around the Russian identity or to create a new Eurasian culture suited to our ideal of continental unification."
+
+Orenburg_mixed_economy:0 "Mixed Economy"
+Orenburg_mixed_economy_desc:0 "The new Eurasian society will be neither the tyranny of the state or the free market over the economy. Our new system will mix the best of both worlds: those who don't have enough resources to survive will be protected by the state, those who want to pursue economic prosperity will be given the freedom to do so, and social expectation will ensure all work for the good of the nation."
+
+Orenburg_leading_selection:0 "Leading Selection"
+Orenburg_leading_selection_desc:0 "The ones that should decide the fate of the new Eurasian nation are naturally those who are the best of society. To achieve this goal, we must find the smartest and most capable people in Kazan who are loyal to our cause. They will be the ones that will guide the Eurasian people through a bright new future."
+
+Orenburg_eurasian_ideocracy:0 "Eurasian Ideocracy"
+Orenburg_eurasian_ideocracy_desc:0 "With the Dutov dead and the rebels crushed, Kazan must chart a new course. Instead of separating the people of Eurasia by political and ethnic allegiances, we should unite the people of the Eurasian plains under one banner as Genghis Khan did, where the strongest of society rule. Eurasia will rise from the ashes of Russia!"
+
+Orenburg_a_new_country:0 "A New Country"
+Orenburg_a_new_country_desc:0 "Now that the last remains of Russian influence are gone and our democratic institutions consolidated, it's the time to finally work towards making Orinbor a truly powerful nation. We'll never be Russia's slaves again!"
+
+Orenburg_nationalpersonal_autonomy_for_cossacks:0 "National-Personal Autonomy for Cossacks"
+Orenburg_nationalpersonal_autonomy_for_cossacks_desc:0 "The Cossacks were an important part of the foundation of the city of Orinbor in the 18th Century. While many of them supported the old warlord Dutov, granting them some degree of autonomy to manage their own institutions should save us a few headaches in the future."
+
+Orenburg_reverse_russification:0 "Reverse Russification"
+Orenburg_reverse_russification_desc:0 ""
+
+Orenburg_part_of_kirghiz_nation:0 "Part of Kirghiz Nation"
+Orenburg_part_of_kirghiz_nation_desc:0 "Kirghiz was the name assigned to us by our old Russian overlords. While our hatred of Russia is undeniable, there is some truth to this. After all, our identity is tied to the Turkic tribes of the Steppes. Therefore, we should adopt the Kirgiz identity and connect with our Turkic brothers."
+
+Orenburg_kazakh_of_kishi_zhuz:0 "Kazakh of Kishi Zhuz"
+Orenburg_kazakh_of_kishi_zhuz_desc:0 "In the 16th century, the Kazakhs united under the Kishi Zhuz defeated the Nogai Horde and consolidated their territory in Western Kazakhstan. This tribal and nomadic identity was suppressed for decades by Russian tyranny, but now is the time for the people of our nation to remember their true identity. The Kazakhs roam the Steppes once again!"
+
+Orenburg_define_our_people:0 "Define Our People"
+Orenburg_define_our_people_desc:0 "A critical part of creating a nation is defining our own identity. What defines our culture will be what will define our future. In this case, we have to choose which kind of cultural approach our nation will have. If we choose the Kirghiz identity, we will focus on uniting the Turkic people of the Steppes under one banner. If we choose the Kazakh identity, we shall develop an identity of our own that is different from the other ethnicities."
+
+Orenburg_bring_democracy_to_practice:0 "Bring Democracy to Practice"
+Orenburg_bring_democracy_to_practice_desc:0 "Having a Republic doesn't necessarily mean having an actual democracy. To guarantee the existence of a strong and modern state, we have to ensure the existence of a clean democratic process in all the country. Anti-corruption measures, regional and municipal elections, and a secret ballot. A true democracy will ensure the growth and prosperity of the Turkic people of Orinbor."
+
+Orenburg_reassure_the_masses:0 "Reassure the Masses"
+Orenburg_reassure_the_masses_desc:0 "A revolution isn't worth anything if the promises made to the people are vapid. The reforms promised to the population after freeing ourselves from Russian influence will be delivered. Not only shall Orinbor never fold to the Russians again, but the individual freedoms of a modern and democratic Republic will be guaranteed."
+
+Orenburg_democratic_leadership:0 "Democratic Leadership"
+Orenburg_democratic_leadership_desc:0 "A ruler should represent the will of the people. We cannot stay in power indefinitely like the tyrant Kolchak; a parliament should be arranged so our people can elect their leaders through democratic ballot."
+
+Orenburg_centralised_republic:0 "Centralised Republic"
+Orenburg_centralised_republic_desc:0 "The power of a state comes from the recognition of its authority. The different regions and municipal districts must recognize the rule of the capital for the good of the nation. To achieve this end, a central state bureaucracy is necessary."
+
+Orenburg_responsible_government:0 "Responsible Government"
+Orenburg_responsible_government_desc:0 "Guaranteeing the freedom of our citizens is insufficient; we also have to ensure that those in power cannot abuse it to serve their own ends. A bureaucratic self-cleansing apparatus is necessary to keep the rotten fruits away from the state apparatus."
+
+Orenburg_idearuler:0 "Idea-Ruler"
+Orenburg_idearuler_desc:0 "We must actualize our principal of the Ideocratic state - rule not by aristocratic birth or the feral whims of the masses, but by the ideas that drive our civilization, materialized through the head of the state. From now on, this principle will guide the people of Eurasia as we carve our new path forward."
+
+Orenburg_ruling_class:0 "Ruling Class"
+Orenburg_ruling_class_desc:0 "Unlike other countries whose ruling class is based on privilege or wealth, our rulers shall be those most dedicated to our purpose. This new elite will be formed of the best scientists, economists and scholars that the new Eurasian movement has to offer. Only the very best will be able to decide the future of our country."
+
+Orenburg_peoples_selfgovernance:0 "People's Self-Governance"
+Orenburg_peoples_selfgovernance_desc:0 "Eurasia is truly immense and no matter how competent the leadership, with all its desire and skill in public administration, it will not be able to solve all the problems of the nation. Competent statesmen who know their native land and have lived on it for a long time should head the administrations and municipalities."
+
+Orenburg_between_europa_and_asia:0 "Between Europa and Asia"
+Orenburg_between_europa_and_asia_desc:0 "Uniting the different cultures of the old Russian Empire is just the first step in our goals. Our new identity must eliminate the artificial lines between Europe and Asia by considering both of them as one: Eurasia. Both Peter the Great and Genghis Khan are part of the same history; the Volga and the Amur are part of the same territory. That's why our efforts we'll be focused on how connected the history and culture of Europe and Asia are."
+
+Orenburg_you_have_carte_blanche_reactionaries:0 "You Have Carte Blanche, Reactionaries"
+Orenburg_you_have_carte_blanche_reactionaries_desc:0 "The bastard that attacked me...anyone could have sent him. Radical Socialists, Kazakh separatists, maybe even the Cossacks. And even now, they could be planning their next move, while Dutov is focused on a pointless quest. Some reactionary officers inside the Kazan garrison see this as an opportunity to kill any individuals they consider to be leftists or rebels. The warlord has chosen to give them permission to arrest or execute (and anything else, as they see fit) everyone suspected of trying to undermine his authority. The attacker was surely one of his enemies, so physically removing all of them would surely eliminate the culprit as well."
+
+Orenburg_getting_out_of_hospital:0 "Getting Out of Hospital"
+Orenburg_getting_out_of_hospital_desc:0 "Dutov still had trouble moving his legs after walking out of the hospital. Having to use a cane like some decrepit old man was humiliating enough, but that was the least of his problems. His attacker was not only out there plotting against him again, but he needed to attend his duties as governor. He wouldn't give the Supreme Leader an excuse to replace him."
+
+Orenburg_matters_of_the_army:0 "Matters of the Army"
+Orenburg_matters_of_the_army_desc:0 "The Army was a mess. In its present state, it was no surprise that the rebels caught the garrison troops by surprise. Of the army budget, a fifth is dedicated to buying alcohol and fifteen percent is wasted on cleaning the resulting mess. And most outrageously: ten percent of it just disappears into thin air! There is much to be done to improve the performance of the Kazan Army. Purging inadequate officers, replacing obsolete equipment, reorganizing units, drafting superior battle plans, and preparing to manage rebellion."
+
+Orenburg_1st_orenburg_cossack_tank_regiment:0 "1st Kazan Cossack Tank Regiment"
+Orenburg_1st_orenburg_cossack_tank_regiment_desc:0 "Despite their issues, Kazan was still one of the largest arms manufacturers in Russia. What better way to stimulate investment in the heavy industrial sector than outfitting the army with modern tanks? The Cossacks might not be completely trustworthy, but most of them were loyal to something like Russia, and they were certainly competent soldiers. Horses were increasingly obsolete, but the missions of the cavalry remained - how better to keep his own Cossacks effective than by mounting them on iron horses? "
+
+Orenburg_a_letter_from_drozdovsky:0 "A Letter from Drozdovsky"
+Orenburg_a_letter_from_drozdovsky_desc:0 "A combination of heavy drinking and overwork saw General Dutov nod off to sleep on his desk. When he eventually woke, he found another letter on his desk, addressed to him. How the letter found its way there was unclear. Maybe his aide didn't want to ruin his sleep? Was another rebel trying to intimidate him? Dutov read the envelope: General Mikhail Drozdovsky. "I wonder what the general wants. It can't be to wish me a full recovery" Dutov thought, once again grabbing his letter opener..."
+
+Orenburg_news_from_the_homeland:0 "News from the Homeland"
+Orenburg_news_from_the_homeland_desc:0 "After numerous trials and tribulations, our nation has finally managed to consolidate its authority over the industrial heart of the Urals; it is now time to turn our attention outwards. Due to its strategic and economic importance, numerous external enemies covet our domain. It is imperative we neutralize these hostile threats and achieve complete supremacy over the Ural region."
+
+Orenburg_march_west:0 "March West"
+Orenburg_march_west_desc:0 ""
+
+Orenburg_western_expedition:0 "Western Expedition"
+Orenburg_western_expedition_desc:0 "To achieve our goal, we need to unite the old lands of the Russian Empire to further stretch our frontiers. The first step on our march to the Atlantic Ocean is the one of the many warlord cliques attached to the obsolete reduction of the Russian identity: the South-Eastern Union. With our forces revamped and ready for action, this remnant of fragmentation will be easily neutralized and incorporated into our new glorious Eurasian nation."
+
+Orenburg_eurasian_geopolitics:0 "Eurasian Geopolitics"
+Orenburg_eurasian_geopolitics_desc:0 "The Euro-Asiatic supercontinental landmass is our natural sphere of expansion. Many states refuse to accept the fact scientifically undeniable that Eurasia is one sole and spiritually indivisible identity and thus throw themselves across the path to total unification. Naturally, our limited resources restrict our capacity to correct this foolish misunderstanding. We must decide how to carry out the conquest of the Eurasian nations and the optimal direction in which to focus our attention."
+
+Orenburg_protective_belt_against_atlanticism:0 "Bulwark Against the Western Menace"
+Orenburg_protective_belt_against_atlanticism_desc:0 "We, the liberated peoples of Eurasia, realizing our unity, stood up as one and threw off the shackles of the Anglo-Saxon moneybags and imperialists, which divided and enslaved us before. The days of humiliation are over! In our hands, in the hands of everyone who considers himself as Eurasian, lies the power that they never dreamed of! The project of our unification has been completed, but there is still much to be done to bring freedom to the other peoples of the world from insidious Western civilization. Over time we will pull our blanket around all of Eurasia!"
+
+Orenburg_establish_eastern_strategic_frontier:0 "Establish Eastern Strategic Frontier"
+Orenburg_establish_eastern_strategic_frontier_desc:0 "The steppe is majestic and only a fool will not admit it, but its peoples are under the same oppression as in Europe and the Far East. Our duty is to give them freedom and ensure their safe existence within our borders."
+
+Orenburg_expand_eastern_strategic_frontier:0 "Expand Eastern Strategic Frontier"
+Orenburg_expand_eastern_strategic_frontier_desc:0 "Windswept Mongolia and the mighty Altai, as well as the impenetrable taiga forests of the Far East, will open the gates to the territories of the Asian powers of China and Japan to us. The final stage of our expansion to the East begins!"
+
+Orenburg_eastern_expedition:0 "Eastern Expedition"
+Orenburg_eastern_expedition_desc:0 "Despite our renewed power, we remain far from achieving the Eurasian unity. In this regard, one of the main priorities should be to create a connection with he Pacific Ocean, as every past Empire which ruled the has done. The obstacle will be easy to neutralize: the Siberian General-Governorate. The sons of Eurasia will erase this residue of the old Russian state and throw it in the trash bin of history."
+
+Orenburg_secure_siberia:0 "Secure the Far East"
+Orenburg_secure_siberia_desc:0 "Native brigades and Czech fighters sweep through the Far East in the name of their lowly ideals. Order will be brought back to the Far East, no matter the cost."
+
+Orenburg_unite_the_party:0 "Unite the Party"
+Orenburg_unite_the_party_desc:0 ""
+
+Orenburg_force_rummels_surrender:0 "Force Rummel's Surrender"
+Orenburg_force_rummels_surrender_desc:0 ""
+
+Orenburg_expand_western_strategic_frontier:0 "Expand Western Strategic Frontier"
+Orenburg_expand_western_strategic_frontier_desc:0 "Given freedom to the peoples of Central Russia and most of Eastern Europe as part of our demotic state, it is necessary to consolidate the result by moving further and integrate the remnants of the western possessions of the former Russian Empire, creating a strong wide barrier against the corrupting influence coming from the West."
+
+Orenburg_march_east:0 "March East"
+Orenburg_march_east_desc:0 ""
+
+Orenburg_join_our_brothers:0 "Remember Our Brothers"
+Orenburg_join_our_brothers_desc:0 ""
+
+Orenburg_loyalty_to_russia:0 "Remember Our Nation"
+Orenburg_loyalty_to_russia_desc:0 ""
+
+Orenburg_a_privileged_district:0 "Remember Your Home"
+Orenburg_a_privileged_district_desc:0 ""
+
+Orenburg_dutovdrozdovsky_deal:0 "Remember His Crimes"
+Orenburg_dutovdrozdovsky_deal_desc:0 ""
+
+Orenburg_this_war_is_our_war:0 "This War Is Our War"
+Orenburg_this_war_is_our_war_desc:0 ""
+
+ORE_rasputins_conspiracy:0 "Rasputin's Conspiracy"
+ORE_rasputins_conspiracy_desc:0 "The story begins from the gray, from the brown, from the chestnut-colored horse. The White Tyrant, who lorded over the common folk with an iron fist, has been killed by a bullet from the shadows. The people rejoice at the cruel man's demise, yet are afraid of the future to come, like a child of the darkness that envelops his room at night. It is only natural that holy men illuminate the abode and drive away the shadows. On to the stage comes Elder Grigori.\n\nGrigori Rasputin has been living in internal exile ever since his expulsion from Court by Stolypin, may the Devil keep him. His way with words warranted the Living Saint the love and care of the peasants all across the governorate, and his nigh-infinite wisdom drew many in the upper echelons to his cause of universal love. Now the time has come, the White Tyrant is dead, Rasputin knows he must act. Faithful and good men must overthrow the White Tyrant's lapdogs. When the pre-story is over, when the land is cleansed, then the real tale will begin, that of the most holy war for the soul of all Russia!"
+
+ORE_enchanted_court:0 "The Enchanted Court"
+ORE_enchanted_court_desc:0 "As the old masters said, the duty of all good Christians is to be good. The duty of every prince, every princess, every nobleman and noblewoman is, however, is to be knightly. The exercise of virtue for rulers mustn't mean to cloister themselves in their towers, but to actively and tirelessly labor to protect their people. The defense of the meek, of the powerless, of the smallfolk, the cavalier morality must come back to our upper echelons. We will cultivate a culture of profound spirituality, obedient faith, charitable princes, honorable knights, and devout peasants that will bring forth the coming new age of the Reign of Christ and Love on all Earth."
+
+ORE_tsaritsas_good_folk:0 "The Empire's Good Folk"
+ORE_tsaritsas_good_folk_desc:0 "Throughout our fiefdom we may find the faces of many farmers and villagers. These are sober and roughened by age and toil. Yet, they shine like precious jewels and draw honest smiles whenever they see Elder Grigori among them, or one of his trusted brethren. Many men all across the Russian Empire are not so different, simple and honorable peasants who have been wronged by their rulers and neglected for too long. We will pay special and caring attention to their situation, fuel their ambitions, protect their interests, help them in their needs, and let them live life as freely as their ancient forefathers did. We are naught but the defenders and standard bearers of the good folk of Russia, and we will demonstrate this in word and action."
+
+ORE_crown_white_queen:0 "Crown the White Queen"
+ORE_crown_white_queen_desc:0 "Among the thousandfold members of the royal Romanovs, none is as honorable as our beautiful Princess Olga. When our Olga was naught but a little girl, Stolypin, may the devil keep him, forbade her from taking her rightful place as Tsaritsa of All Russia. Even when the men who claimed to be loyal to the Romanovs wrestled power away from republicans, the Antichrist in Petrograd still refused to recognize her claim to the throne. Olga is now matured in her sweet appearance and wisdom, and this shameful limbo must end once and for all. Bring out the white petals, prepare all of our chapels, gather the people, let the bells ring! Our beautiful Olga will be crowned Queen of Peace, Tsaritsa of all Russia!"
+
+ORE_whispers_behind_doors:0 "Whispers Behind Closed Doors"
+ORE_whispers_behind_doors_desc:0 "We must keep some of our more private practices and rituals behind closed doors, lest the simple-minded but well-intentioned folk misinterpret our actions. What some may label as "free love" is not a well-known doctrine among peasants, and they might confuse it for the senseless debauchery we preach against. We believe and practice that Love is Love, Heavenly and Earthly, and its free dissemination among members of our group is one of our foremost goals"
+
+ORE_new_koschtshey:0 "New Koschei"
+ORE_new_koschtshey_desc:0 "In old, olden times, when God's world was full of forest monsters and when the rivers ran with sweet milk, there lived Koschei the Deathless, the most powerful of all the wizards. His name made even the blood of the bravest men run cold and struck fear into the hearts of poor farmers. Our Elder Grigori also is regarded as a dangerous sorcerer, master of the dark arts, and many fear this obviously false myth. We can, however, use this legend to our advantage. The name of Rasputin will be shrouded in a terrible cloak of fear and madness, and horrific stories of his powers and cruelty spread far and wide among our enemies' men. To our people Rasputin will be a Saint, and to those who oppose us the Devil himself. Such is the way the world turns."
+
+ORE_forbidden_sorcery:0 "Forbidden Sorcery"
+ORE_forbidden_sorcery_desc:0 "Men of science and letters have long forgotten much of the knowledge of our forefathers, and even the faithful regard the common folk's special connection to the magical world with self-satisfied skepticism. We, with loving embrace, accept and welcome the eerie world of rituals and sorcery of our peasants, and incorporate their customs to our neverending spiritual warfare for the soul of All Russia. With Christ and witches on our side, who dares stand against us?"
+
+ORE_peoples_faith:0 "The People's Faith"
+ORE_peoples_faith_desc:0 "The fattened and corrupt bishops of Russia have plotted a ruthless and systematic persecution of true and innocent religious expressions, such as the good men among the bezpopovtsy, the stranniki, honest rites condemned by the devious Patriarchs as "schismatics". The Church, however, does not realize these cults and confessions are closer to God than they could ever be, as they are natural expressions of the folk's faith. Tailored to their world and legends, they are in contact with deep mystical forces and thus should be encouraged, while the oligarchical hierarchy of fallen priests shall be disbanded wherever we go."
+
+ORE_russian_messianism:0 "Russian Messianism"
+ORE_russian_messianism_desc:0 "It is our sincere and proud belief that the Holy Land of Rus occupies a unique metaphysical space in the cosmos and fulfills a grand purpose in God's great historical plan. Our Russia is the golden heart of religion and everlasting love, destined to sublate itself into the Anointed Nation to guide all humanity towards Heaven and Truth. We will assume this role in the universal stage and work tirelessly with this one aim: to make God's will on Earth materialize through His faithful servants."
+
+ORE_modern_bogatyrs:0 "The Modern Bogatyrs"
+ORE_modern_bogatyrs_desc:0 "In our ballads we speak of the bogatyrs, grandiose heroes of great power and might who roam the land in defense of goodness and the innocent. They are guided by gallant principles although they tend to be fierce and temperamental, but nonetheless their courage is the stuff of legend. The Great Saint Ilya of Murom was even canonized for his epic deeds. In our forging of a new balladry for a new age we will recreate the figure of the bogatyr like one builds from clay and mud. Our armies are the heirs of this legend and will create a legend for themselves in the coming war."
+
+ORE_promised_kingdom:0 "The Promised Kingdom"
+ORE_promised_kingdom_desc:0 "In the not so ancient past, holy men whom the people referred to as \"wanderers\" spread the fantastic tale of the Kingdom of Belovodye. A fertile territory in which there was absolute freedom to practice any rite, with innumerable precious metals beneath the frosted earth, where there were no crimes or theft, and free peasant communities could settle the land to their whim. The true lesson of this story was sadly lost in history, but we understand. Belovodye is not escapism to an imaginary kingdom, but a promise. A goal. We will strive and toil to make Russia our Belovodye, a Kingdom of freedom, of love, of rivers of honey and milk and of immense riches to be given to the common folk of all the Empire."
+
+ORE_return_to_myth:0 "Return to Myth"
+ORE_return_to_myth_desc:0 "The cruelest of crimes is how the modern world has been stripped away from beauty. No longer witches hide in cabins, the Earth does not tremble at the stomping of great heroes, no monsters slither in the forests, the meadows have a tragic lack of nymphs, and wandering spirits are nowhere to be found. Our labor is not only to give peasants their earthly needs, but attend to the hunger of their soul. The men of intellect offer nothing but cold and inhuman sciences. The power of building their own world has been taken away from the common folk. They crave myths long lost. And so we shall give them what they need. Let the fairies float from lily to lily! Fear the darkness which demons inhabit! Bring offerings to the great powers of nature! They shall wander a world of terrible and incredible beauty, a mosaic of stories that conform a great piece of art to God Above! Let us return to wild freedom! Let us return to myth!"
+
+ORE_smite_zhmey:0 "Smite the Zmey"
+ORE_smite_zhmey_desc:0 "Far, far away from our land, there reigns the absolute chaos of the dragon-serpent. The monster has many heads and each is more furious than the rest, devouring anything in their way and biting each other in their frenzy. Its gargantuan neck slithers across the Empire and strangles and suffocates men of honor and men of faith alike. This monster, this zmey, must be brought to its knees and killed head by head if Russia is to be free. Our armorers forge guns for a new generation of knights, cars roar with the sound of great beasts of old, and our armies give praise to God as they are ready for one last and great war. The time is right! Sound the horns of battle! For Holy Rus, God, and Saint Grigori!"
+
+ORE_subdue_cossacks:0 "Subdue the Cossacks"
+ORE_subdue_cossacks_desc:0 "The head known as Cossackia is among the most fierce and bloodthirsty of them all. These free riders of the steppes and valleys have a reputation for being hardened warriors and completely ungovernable by conventional means. The natives of the Caucasus are much alike, hiding away in their solomonic mountains and ambushing their enemies like common bandits. When the fires of civil strife engulfed our country they stood aside and let it burn, as the atamans fattened their treasuries with the spoils of the defeated and the wages of the victors alike. These unpredictable men, nonetheless, provide us with an incredible advantage should we succeed in making them bend the knee. When our men defeat these dangerous foes, every ataman and chieftain must swear fealty to the Elder and provide the best of the best to soar the numbers of our triumphal columns."
+
+ORE_rule_steppes:0 "Rule the Steppes"
+ORE_rule_steppes_desc:0 "To the immediate east and extending far to the south, the emerald and saffron plains of the great steppe are a main objective in our campaign. This head of the zmey was born out of the Tzar's need for perpetual expansion, settling the lands of the semi-nomadic Turkmen with poor Russian peasants who are now all but forgotten. We shall restore order to the steppe, and liberate Christian and Mahometan alike from the yoke of military dictators and the bandit plague. The Turks shall be left to their own devices within the Rus' protection, respecting their traditional structures of power and harmonizing them with the Russian colonists and their needs. Onwards, ride to the east!"
+
+ORE_empire_of_north:0 "Empire of the North"
+ORE_empire_of_north_desc:0 "The next stop in our crusade is the brutal and frozen north. A harsh and unforgiving realm that has forced the colonists to adapt to the cold lashes of eternal winter, this has given many a-tyrant the authority and freedom to do as they please. The land of Yakuts is in much the same situation. South of them, another tale is sung. The godless and the red madmen were exiled to this ridiculous Asian statelet, to continue pretending they practiced true freedom and equality within their little republican oligarchy. History and our righteous might will prove these evildoers that the common folk need not despots nor rabble rousers, but the Loving hand of God and the freedom of the ancient lifestyle."
+
+ORE_walk_into_kremlin:0 "Walk Into the Kremlin"
+ORE_walk_into_kremlin_desc:0 "It had to come to this. The Moscovite legion of bureaucrats and generals, who so cruelly denied our sweet Olga's claim to the throne, are the ultimate and sole catalyst of Russia's recent woes. Despite being the heartland of the history of our people they have bitterly betrayed everything they stood for and those they were supposed to protect. As such, retribution is as natural and expected as a storm on the far-stretching horizon. We will not stop at Moscow. We will not stop at Petrograd. We will not stop, our struggle won't ever cease, until every remnant of the devious and faithless brutality of the Empire is paid accordingly to the devils who have made us retort to such a crusade. This is what God wants and what they deserve."
+
+ORE_peace_holy_rus:0 "Peace in Holy Rus"
+ORE_peace_holy_rus_desc:0 "Hear the soft laughter of the peasants in the fields. Hear their honest and humble prayers around the dinner table. Hear the birds, the wind caressing the land, the meadows and the stomps of cloven hooves, and you will then understand. The war, the crusade, the strife, it has come to a triumphal end. There is no echo of mechanized monsters or the whistling of bullets. Russia, for the first time in many years, knows peace and an angelic stability that will continue for as long as we remember the sacrifices we made and the precepts we hold dear. This is the triumph of Peace and the Coronation of Love."
+
+#Generic focuses
+Orenburg_army_effort:0 "Army Effort"
+Orenburg_army_effort_desc:0 "Despite the increasing possibilities of aerial and naval warfare, ground combat is still key in tomorrow's wars. With preparation, we can avoid reliving the hell of the trenches."
+Orenburg_equipment_effort:0 "Equipment Effort"
+Orenburg_equipment_effort_desc:0 "The limits for what equipment can be carried by infantry are constantly being pushed. We will focus on giving our troops the best tools available."
+Orenburg_motorization_effort:0 "Motorization Effort"
+Orenburg_motorization_effort_desc:0 "Mobility and protection are crucial to get infantry into and out of the field safely. Focusing on these developments will allow us to take action quickly."
+Orenburg_doctrine_effort:0 "Doctrine Effort"
+Orenburg_doctrine_effort_desc:0 "The military doctrines that defined ground combat in the Great War are outdated. We must put our greatest minds to the task of shaping the military thought of tomorrow."
+Orenburg_equipment_effort_2:0 "Equipment Effort II"
+Orenburg_equipment_effort_2_desc:0 "We will continue our efforts to ensure our infantry and support troops are armed with the best possible equipment of our time."
+Orenburg_mechanization_effort:0 "Mechanization Effort"
+Orenburg_mechanization_effort_desc:0 "Rethinking the possibilities of motorized infantry, we can push the limits of what vehicles can be constructed today."
+Orenburg_doctrine_effort_2:0 "Doctrine Effort II"
+Orenburg_doctrine_effort_2_desc:0 "The battlefield has changed not just in the interbellum years, but over the course of recent conflicts. We must continuously reevaluate our doctrines to reflect this."
+Orenburg_equipment_effort_3:0 "Equipment Effort III"
+Orenburg_equipment_effort_3_desc:0 "Instead of imitating or buying foreign equipment, we should aim to become world-leading in infantry weapons."
+Orenburg_armor_effort:0 "Armor Effort"
+Orenburg_armor_effort_desc:0 "Applying what we have learned from mechanizing our infantry, we can improve our armored vehicles as well."
+Orenburg_special_forces:0 "Special Forces"
+Orenburg_special_forces_desc:0 "We have need of elite forces; mountain troops and paratroopers should be our priority."
+Orenburg_aviation_effort:0 "Aviation Effort"
+Orenburg_aviation_effort_tt:0 "Not enough building slots for §YAir Base§!"
+Orenburg_aviation_effort_desc:0 "Nowhere is technological advances more rapid than in aerial warfare. Aviation is a field any modern nation must master."
+Orenburg_fighter_focus:0 "Fighter Focus"
+Orenburg_fighter_focus_desc:0 "We have not seen that last of dogfights in the Great War. Keeping ahead in the development of fighter planes will give us an edge in the future."
+Orenburg_bomber_focus:0 "Bomber Focus"
+Orenburg_bomber_focus_desc:0 "When people of the future speak of the horror to today's wars, fire raining from the skies will prominently feature. We will do our best to ensure those stories are told by our enemies."
+Orenburg_aviation_effort_2:0 "Aviation Effort II"
+Orenburg_aviation_effort_2_desc:0 "Further advances in aviation will be necessary to integrate our air force well with other branches of the military."
+Orenburg_CAS_effort:0 "CAS Effort"
+Orenburg_CAS_effort_desc:0 "A modern army needs support from vehicles not only on the ground, but also in the air."
+Orenburg_rocket_effort:0 "Rocket Effort"
+Orenburg_rocket_effort_desc:0 "Rocket and jet engines allow for unprecedented speeds for unmanned and manned vessels alike. Pioneering these technologies will allow us to take the enemy by surprise."
+Orenburg_NAV_effort:0 "NAV Effort"
+Orenburg_NAV_effort_desc:0 "Just as the new naval warfare takes place in part beneath the water's surface, part of it takes place in the air above the waters."
+Orenburg_naval_effort:0 "Naval Effort"
+Orenburg_naval_effort_tt:0 "Not enough building slots for §YNaval Dockyards§!"
+Orenburg_naval_effort_desc:0 "The expansion of our navy should be our first priority. Assign all available resources to new Dockyards and research into light surface ships."
+Orenburg_flexible_navy:0 "Flexible Navy"
+Orenburg_flexible_navy_desc:0 "Reinventing naval warfare to account for the advances in submarine technology will allow us to strike efficiently against enemy convoys."
+Orenburg_large_navy:0 "Large Navy"
+Orenburg_large_navy_desc:0 "Adapting our naval doctrines to accommodate large ships and ensuring the safety of our trade convoys will teach us much about what sort of ships we need."
+Orenburg_submarine_effort:0 "Submarine Effort"
+Orenburg_submarine_effort_desc:0 "Submarine warfare is the most exciting naval development since the invention of the torpedo boat. We would do well to not just protect against submarines, but also use them against enemy shipping."
+Orenburg_cruiser_effort:0 "Cruiser Effort"
+Orenburg_cruiser_effort_desc:0 "Before making forays into advanced battleship research, the smaller cruisers are in need of replacement."
+Orenburg_destroyer_effort:0 "Destroyer Effort"
+Orenburg_destroyer_effort_desc:0 "Studying the design and strategic use of submarines, we have also learned how to counter those strategies. Destroyers will be crucial for this."
+Orenburg_capital_ships_effort:0 "Capital Ship Effort"
+Orenburg_capital_ships_effort_desc:0 "The nation with the most battleships will rule the oceans. Battleships and carriers represent the old and the new in naval superiority."
+Orenburg_industrial_effort:0 "Industrial Effort"
+Orenburg_industrial_effort_desc:0 "Focus all our political efforts on building up the civilian industry in a great leap forward."
+Orenburg_industrial_effort_2:0 "Industrial Effort II"
+Orenburg_industrial_effort_2_desc:0 "With iron will and a relentless work ethic, we can mobilize the people in another great industrial effort."
+Orenburg_construction_effort:0 "Construction Effort"
+Orenburg_construction_effort_tt:0 "Not enough building slots for §YCivilian Factories§!"
+Orenburg_construction_effort_desc:0 "Civilian industrial capacity must not be underestimated even when war looms over the world."
+Orenburg_production_effort:0 "Armament Effort"
+Orenburg_production_effort_tt:0 "Not enough building slots for §YMilitary Factory§!"
+Orenburg_production_effort_desc:0 "If you can build tractors, you can build tanks! We must not allow our military production capacity to lag behind."
+Orenburg_construction_effort_2:0 "Construction Effort II"
+Orenburg_construction_effort_2_desc:0 "Continuing to expand our factories will allow us to speed up production of goods for trade and further construction efforts."
+Orenburg_production_effort_2:0 "Armament Effort II"
+Orenburg_production_effort_2_desc:0 "Trying to adapt civilian factories to produce military equipment is inefficient. We should focus on preparing military production now."
+Orenburg_production_effort_3:0 "Armament Effort III"
+Orenburg_production_effort_3_desc:0 "Continued efforts to expand our military factories are necessary to meet the demands for new equipment."
+Orenburg_infrastructure_effort:0 "Infrastructure Effort"
+Orenburg_infrastructure_effort_desc:0 "A country without proper infrastructure cannot pursue advanced projects or constructions."
+Orenburg_infrastructure_effort_tt:0 "Not enough building slots for §YInfrastructure§!"
+Orenburg_synth_oil_effort_tt:0 "Not enough building slots for §YSynthetic Refinery§!"
+Orenburg_infrastructure_effort_2:0 "Infrastructure Effort II"
+Orenburg_infrastructure_effort_2_desc:0 "Extending our infrastructure further will enable the transports and communications necessary for high-tech clandestine projects."
+Orenburg_construction_effort_3:0 "Construction Effort III"
+Orenburg_construction_effort_3_desc:0 "Expansion of our infrastructure network has significantly improved our capacity for construction."
+Orenburg_nuclear_effort:0 "Nuclear Effort"
+Orenburg_nuclear_effort_desc:0 "Standing on the edge of a world-changing discovery, we cannot let others light the fire that may one day consume the Earth."
+Orenburg_extra_tech_slot:0 "Extra Research Slot"
+Orenburg_extra_tech_slot_desc:0 "Our industrial expansion and other recent advances might allow us to conduct more R&D in parallel."
+Orenburg_extra_tech_slot_2:0 "Extra Research Slot II"
+Orenburg_extra_tech_slot_2_desc:0 "The rapid industrialization of our nation has opened up new opportunities in R&D that we should pursue."
+Orenburg_technology_sharing:0 "Technology Sharing"
+Orenburg_technology_sharing_desc:0 "By sharing technological advances with our allies, our whole faction will be able to conduct wartime R&D more efficiently."
+Orenburg_secret_weapons:0 "Secret Weapons"
+Orenburg_secret_weapons_desc:0 "It is tempting to expend all extra resources into developing tanks and planes, but the secret to winning wars lies in whole new fields of science; electronics, rocketry and nuclear research."
+Orenburg_air_innovation:0 "Air Innovations"
+Orenburg_air_innovation_desc:0 "Modern wars cannot be won without dominating the skies. We must do everything in our power to develop the air force!"
+Orenburg_air_innovation_2:0 "Air Innovations II"
+Orenburg_air_innovation_2_desc:0 "Every advantage we can gain in the skies is precious. We should focus all of our efforts on developing our fighters."
+Orenburg_naval_air_effort:0 "Naval Air Effort"
+Orenburg_naval_air_effort_desc:0 "The efficacy of air strikes against naval targets was demonstrated by the Americans already back in 1921. We should not neglect this branch of the Air Force if we intend to wage war on a naval power."

@@ -1,0 +1,48 @@
+﻿l_english:
+#COUNTRY NAME#
+
+
+#PARTIES#
+TUC_accelerationism_party:0 "GÇJ"
+TUC_accelerationism_party_long:0 "Gyzyl Çigildem Jemgyýeti"
+TUC_anarchism_party:0 "Anarhistler"
+TUC_anarchism_party_long:0 "Anarhist Öz-Özüni Goramak Toparlary"
+TUC_vanguard_socialism_party:0 "TIDSP"
+TUC_vanguard_socialism_party_long:0 "Turon Işçi-Daýhan Sosialistik Partiýasy"
+TUC_popular_socialism_party:0 "YKP"
+TUC_popular_socialism_party_long:0 "Yslam Kommunistik Partiýasy"
+TUC_revisionist_socialism_party:0 "YSP"
+TUC_revisionist_socialism_party_long:0 "Turksaş Türkmenler"
+TUC_progressivism_party:0 "SY"
+TUC_progressivism_party_long:0 "Şuraý Yslamiýa"
+TUC_liberalism_party:0 "SY"
+TUC_liberalism_party_long:0 "Şuraý Yslamiýa"
+TUC_conservatism_party:0 "ŞU"
+TUC_conservatism_party_long:0 "Şuroi Ulamo"
+TUC_right_authoritarianism_party:0 "The Committee"
+TUC_right_authoritarianism_party_long:0 "The Committee for Public Safety"
+TUC_despotism_party:0 "AG"
+TUC_despotism_party_long:0 "Amirler Geňeşi"
+TUC_reactionism_party:0 "TKG"
+TUC_reactionism_party_long:0 "Transkaspiýa Korbaşy Geňeşi"
+
+#COSMETIC TAG#
+TUC_uni:0 "Turkestan Protectorate"
+TUC_uni_DEF:0 "the Turkestan Protectorate"
+TUC_uni_ADJ:0 "Turkestani"
+
+TUC_fucking_end_me:0 "Galicia-Lodomeria"
+TUC_i_give_up:0 "Union of Britain"
+TUC_fucking_end_me2:0 "United Baltic Duchy"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+TUC_great_game:0 "The "Great" Game"
+TUC_great_game_desc:0 "A century has passed since the beginning of our foray into Central Asia, and for a century Russia has pushed us back. This back and forth has defined our relations even during times of alliance against the Hunnic forces trapped between us, and with the vanquishing of the Teuton, our sabres cross yet again.\n\nThis time however, the game feels more akin to clubbing a baby seal to death. Our Slavic counterpart offers no resistance, no pushback, no fight. What was once a race to conquer all that stood between is now sweeping the splinters of a chessboard split in twain. All the boon in the world, and nobody to take it from. What a poor and sobering cognizance."
+TUC_raj:0 "A New Raj"
+TUC_raj_desc:0 "When the backwards Muscovites stumbled and faltered, the savage Mosolmen they ruled over declared themselves to be free, and quickly set about hacking eachother to death with scimitars. Thus, in order to preserve peace in the region and prevent the wholesale slaughter of Christians, His Majesty authorized an expedition into the foreign wastes, to act as guardians where justice failed to gaze.\n\nNow, with the fall of the Raj, we, men of the Empire, are the last true remnant of that noble system that kept the rabble in check. Through an alliance with local chiefs, fresh blood from the Isles, and a new imported crop of gurkhas, the peace is bought in blood and gold, and dissent smothered beneath the dunes before it can draw its first breath."
+TUC_oil:0 "The Oil Must Flow"
+TUC_oil_desc:0 "Pulsating under the earth there are rivers of black gold, the lifeblood of empires: raw oil. This sign of an ever-evolving industrial age is the key to British involvement in Central Asia, as the whole eastern shore of the Caspian sea is overflowing with crude petrol much needed by a hungry Commonwealth. Its extraction is a responsibility of one of the many tendrils of the all-powerful Anglo-Persian Oil Company, Transcaspian Oil Ltd., and our economy depends almost entirely on the oil industry. Barrels and barrels of oil travel from Transcaspia through Persia to the many ports of the gulf, and ensuring this continuous flow is one of the foremost tasks of the protectorate as a whole. The drought or damming of this river of fuel to Persia means a disaster for the expedition, as failure will not be tolerated by London or the APOC board of executives."
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

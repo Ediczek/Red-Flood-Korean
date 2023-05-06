@@ -1,0 +1,71 @@
+﻿l_english:
+
+CAC_anarchism:0 "Central African Confederation"
+CAC_anarchism_DEF:0 "Central African Confederation"
+CAC_anarchism_ADJ:0 "Central African"
+CAC_vCACuard_socialism:0 "Central African Confederation"
+CAC_vCACuard_socialism_DEF:0 "Central African Confederation"
+CAC_vCACuard_socialism_ADJ:0 "Central African"
+CAC_popular_socialism:0 "Central African Confederation"
+CAC_popular_socialism_DEF:0 "Central African Confederation"
+CAC_popular_socialism_ADJ:0 "Central African"
+CAC_revisionist_socialism:0 "Central African Confederation"
+CAC_revisionist_socialism_DEF:0 "Central African Confederation"
+CAC_revisionist_socialism_ADJ:0 "Central African"
+CAC_progressivism:0 "Central African Confederation"
+CAC_progressivism_DEF:0 "Central African Confederation"
+CAC_progressivism_ADJ:0 "Central African"
+CAC_liberalism:0 "Central African Confederation"
+CAC_liberalism_DEF:0 "Central African Confederation"
+CAC_liberalism_ADJ:0 "Central African"
+CAC_conservatism:0 "Central African Confederation"
+CAC_conservatism_DEF:0 "Central African Confederation"
+CAC_conservatism_ADJ:0 "Central African"
+CAC_right_authoritarianism:0 "Central African Confederation"
+CAC_right_authoritarianism_DEF:0 "Central African Confederation"
+CAC_right_authoritarianism_ADJ:0 "Central African"
+CAC_despotism:0 "Central African Confederation"
+CAC_despotism_DEF:0 "Central African Confederation"
+CAC_despotism_ADJ:0 "Central African"
+CAC_reactionism:0 "Central African Confederation"
+CAC_reactionism_DEF:0 "Central African Confederation"
+CAC_reactionism_ADJ:0 "Central African"
+CAC_accelerationism:0 "Central African Confederation"
+CAC_accelerationism_DEF:0 "Central African Confederation"
+CAC_accelerationism_ADJ:0 "Central African"
+
+## Cosmetic Tags ##
+
+#PARTIES#
+
+#CAC_accelerationism_party:0 "OKT"
+#CAC_accelerationism_party_long:0 "Obshchestvo Krasnykh Tyul'panov"
+#CAC_anarchism_party:0 "SSK"
+#CAC_anarchism_party_long:0 "Soobshestvo Stepnykh Kommun"
+#CAC_vCACuard_socialism_party:0 "TRKSP"
+#CAC_vCACuard_socialism_party_long:0 "Turanskaya Raboche-Krest'yanskaya Sotsialisticheskaya Partiya"
+#CAC_popular_socialism_party:0 "SPT"
+#CAC_popular_socialism_party_long:0 "Sotsialisticheskaya Partiya Turkestana"
+#CAC_revisionist_socialism_party:0 "KAT"
+#CAC_revisionist_socialism_party_long:0 "Krestyanskaya Armiya Turkestana"
+CAC_progressivism_party:0 "CALP"
+CAC_progressivism_party_long:0 "Central African Labour Party"
+CAC_liberalism_party:0 "Reform"
+CAC_liberalism_party_long:0 "Reform Party"
+CAC_conservatism_party:0 "RFP"
+CAC_conservatism_party_long:0 "Rhodesian Federal Party"
+#CAC_right_authoritarianism_party:0 "British Settlers"
+#CAC_right_authoritarianism_party_long:0 "Governo-Gerais de CACola"
+#CAC_despotism_party:0 "Boer Setlaars"
+#CAC_despotism_party_long:0 "Boer Setlaars"
+#CAC_reactionism_party:0 "Colonos Portugueses"
+#CAC_reactionism_party_long:0 "Colonos Portugueses"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+
+
+
+

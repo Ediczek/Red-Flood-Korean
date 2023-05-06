@@ -30,3 +30,7 @@ INC_accelerationism_party_long:0 "인도 부흥협회"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
+INC_cut_off_congress:0 "Cut-off Congress"
+INC_cut_off_congress_desc:0 "The Indian National Congress is headquartered in Calcutta, West Bengal and is run by Subhas Bose and his Left-Wing allies. Gujarat, for it's part, was and is a centre of INC influence owing to the fame of the late Gujarat-born Mahatma Gandhi. When the Raj fell, Gujarat was a stronghold for the INC and has remained such in the face of imminent threat from the Bombay Socialist Revolutionaries. "
+INC_congress_schism:0 "Congress Schism"
+INC_congress_schism_desc:0 "The Gujarat Congress is run largely separately from Calcutta, which suits its members well, as many are in loud opposition to the leadership of Subhas Bose. These opposition voices fear he is too close to the Congress Socialist Party, and accomodating of the Bombay Socialist Revolutionaries that threaten Gujarat's existence."

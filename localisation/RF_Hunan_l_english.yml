@@ -50,3 +50,8 @@ XIA_experimenal_land_reforms_desc:0 ""
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
+POLITICS_QIAN_DESC:0 ""
+POLITICS_MAO_DESC:0 ""
+POLITICS_DUXIU_DESC:0 ""
+POLITICS_BOJUN_DESC:0 ""
+XIA_CPC_faction:0 "Chinese Socialist Front"

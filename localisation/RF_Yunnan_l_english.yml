@@ -32,3 +32,17 @@ YUN_ethno_linguistic_nightmare:0 "종족-언어상의 악몽"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
+POLITICS_JIYAO_DESC:0 "Tang Jiyao, sometimes known as the last warlord, is a man of mixed reputation. He has loyalties to the Right-Guomindang, but operates his Clique in Yunnan Province as his personal fief. As time has worn on, his grip has become looser, the looming threat of the Left-Guomindang and Long Yun hangs above and lurks bellow. Should he overcome his rival, he stands to become a powerful leader within the Guomindang and possibly all of China."
+POLITICS_YUN_DESC:0 "Long Yun is the charismatic statesman-general of the Left-Guomindang in Yunnan. He has deposed the warlord Tang Jiyao and taken the reigns, maximising efforts to progress reforms and eduction. As events move on in the rest of China, Yun must now attempt to strengthen the Left-Guomindang with a view to joining the fight to unite China. Should they fail, he may be forced to seek alternative allies."
+YUN_sss_green_gang_collaboration:0 "The Statesman Society's Gambit"
+YUN_sss_green_gang_collaboration_desc:0 ""
+YUN_minquan_quits:0 "The Western MinQuan Faction Quits"
+YUN_minquan_quits_desc:0 ""
+YUN_fujian_protests:0 "Jingwei Calls on Fujian to Leave"
+YUN_fujian_protests_desc:0 ""
+YUN_legation_delegation_quits:0 "Foreign Dignitaries Fear the Worst"
+YUN_legation_delegation_quits_desc:0 ""
+YUN_gmd_1935_conference:0 "The Guomindang's 1935 Conference"
+YUN_gmd_1935_conference_desc:0 ""
+YUN_the_conference_fails:0 "The Conference Fails"
+YUN_the_conference_fails_desc:0 ""

@@ -1,0 +1,86 @@
+﻿l_english:
+#COUNTRY NAME#
+VIN_anarchism:0 "Indochinese Communes"
+VIN_anarchism_DEF:0 "the Indochinese Communes"
+VIN_anarchism_ADJ:0 "Indochinese"
+
+VIN_vanguard_socialism:0 "Socialist Republic of Indochina"
+VIN_vanguard_socialism_DEF:0 "the Socialist Republic of Indochina"
+VIN_vanguard_socialism_ADJ:0 "Indochinese"
+
+VIN_popular_socialism:0 "Indochinese Syndical State"
+VIN_popular_socialism_DEF:0 "the Indochinese Syndical State"
+VIN_popular_socialism_ADJ:0 "Indochinese"
+
+VIN_revisionist_socialism:0 "Republic of Indochina"
+VIN_revisionist_socialism_DEF:0 "the Republic of Indochina"
+VIN_revisionist_socialism_ADJ:0 "Indochinese"
+
+VIN_progressivism:0 "Democratic Republic of Indochina"
+VIN_progressivism_DEF:0 "the Democratic Republic of Indochina"
+VIN_progressivism_ADJ:0 "Indochinese"
+
+VIN_liberalism:0 "Republic of Indochina"
+VIN_liberalism_DEF:0 "the Republic of Indochina"
+VIN_liberalism_ADJ:0 "Indochinese"
+
+VIN_conservatism:0 "Greater Viet Nam"
+VIN_conservatism_DEF:0 "the Greater Viet Nam"
+VIN_conservatism_ADJ:0 "Vietnamese"
+
+VIN_right_authoritarianism:0 "Republic of Indochina"
+VIN_right_authoritarianism_DEF:0 "the Republic of Indochina"
+VIN_right_authoritarianism_ADJ:0 "Indochinese"
+
+VIN_despotism:0 "the State of Indochina"
+VIN_despotism_DEF:0 "the State of Indochina"
+VIN_despotism_ADJ:0 "Indochinese"
+
+VIN_reactionism:0 "Holy State of Indochina"
+VIN_reactionism_DEF:0 "the Holy State of Indochina"
+VIN_reactionism_ADJ:0 "Indochinese"
+
+VIN_accelerationism:0 "Futurist State of Indochina"
+VIN_accelerationism_DEF:0 "the Futurist State of Indochina"
+VIN_accelerationism_ADJ:0 "Indochinese"
+
+#ELF
+VIN_ELF_CW:0 "Enlightened Liberation Front"
+VIN_ELF_CW_DEF:0 "the Enlightened Liberation Front"
+VIN_ELF_CW_ADJ:0 "Indochinese"
+
+VIN_ELF:0 "Free Indochina"
+VIN_ELF_DEF:0 "the Provisional Government of Free Indochina"
+VIN_ELF_ADJ:0 "Indochinese"
+
+VIN_ELF_progressivism_party:0 "Khai-Phóng"
+VIN_ELF_progressivism_party_long:0 "Khai-Quang Giai-Phóng Mat-Tran"
+
+#Nhu
+VIN_Nhu:0 "Autonomous Hamlets of Indochina"
+VIN_Nhu_DEF:0 "the Autonomous Hamlets of Indochina"
+VIN_Nhu_ADJ:0 "Indochinese"
+
+#PARTIES#
+
+#EVENTS#
+viet.1.t:0 "Fate of the Ngos"
+viet.1.desc:0 "Diem is in deep shit, what happens next?"
+viet.1.a:0 "Diem consolidate his rule"
+viet.1.b:0 "The United Left depose Diem"
+viet.1.c:0 "VNQDD launch a coup"
+
+viet.2.t:0 "Syndie Coup"
+viet.2.desc:0 "Uncle Ho purged a little too much"
+viet.2.a:0 "Holy shit a KR reference!"
+viet.2.b:0 "I don't like KR"
+
+viet.3.t:0 "Syndies Elect a Leader"
+viet.3.desc:0 "Should we keep the current guy or pick someone else?"
+viet.3.a:0 "Yeah he's cool"
+viet.3.b:0 "Gotta go with Nhu"
+
+viet.4.t:0 "VNQDD Elect a Leader"
+viet.4.desc:0 "Should we keep the current guy or pick someone else?"
+viet.4.a:0 "Yeah he's cool"
+viet.4.b:0 "Gotta go with Truong"
