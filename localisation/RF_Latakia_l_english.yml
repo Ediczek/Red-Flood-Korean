@@ -1,0 +1,16 @@
+﻿l_english:
+#COUNTRY NAME#
+ALW:0 "Latakia"
+ALW_DEF:0 "the Alawite Territory"
+ALW_ADJ:0 "Alawite"
+
+#PARTIES#
+ALW_progressivism_party:0 "Al Kalbiyya"
+ALW_progressivism_party_long:0 "Al Kalbiyya"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+ALW_syria_loss_tt:0 "@ALW §YLatakia§! has been swept away, sabres clutched till the end."
+ALW_syria_win_tt:0 "Against all odds, @ALW §YLatakia§! has triumphed."
+#DECISIONS (1.5 Update)#
+#FOCUSES#
