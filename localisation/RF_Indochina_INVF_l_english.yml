@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
 #COUNTRY NAME#
 SMC_anarchism:0 "Indochinese Communes"
 SMC_anarchism_DEF:0 "the Indochinese Communes"
@@ -59,6 +59,29 @@ SMC_Sedang_DEF:0 "the Federated Communes of Indochina"
 SMC_Sedang_ADJ:0 "Indochinese"
 
 #PARTIES#
+SMC_accelerationism_party:0 "NTD"
+SMC_accelerationism_party_long:0 "Nhom Tranh Dan"
+SMC_anarchism_party:0 "NROGR"
+SMC_anarchism_party_long:0 "Tan quan Lien bang Dong Duong Nhan cong"
+SMC_vanguard_socialism_party:0 "NTD"
+SMC_vanguard_socialism_party_long:0 "Nhom Tranh Dan"
+SMC_popular_socialism_party:0 "Tan quan DDCSD"
+SMC_popular_socialism_party_long:0 "Tan quan Dong-Duong Cong-San Dang"
+SMC_revisionist_socialism_party:0 "NTD"
+SMC_revisionist_socialism_party_long:0 "Nhom Tranh Dan "
+SMC_progressivism_party:0 "Tan quan Can Lao"
+SMC_progressivism_party_long:0 "Tan quan Can lao Nhan vi Cach Mang Dang"
+SMC_liberalism_party:0 "Tan quan VNQDD"
+SMC_liberalism_party_long:0 "Tan quan Viet Nam Quoc Dan Dang "
+SMC_conservatism_party:0 "Tan quan Nguyen "
+SMC_conservatism_party_long:0 "Tan quan trung than Nguyen"
+SMC_right_authoritarianism_party:0 "HTLB/NNTTM"
+SMC_right_authoritarianism_party_long:0 "Hoi dong truong lao bo toc/Nhung nguoi theo thu tu moi"
+SMC_despotism_party:0 "HTLB/NNTTM"
+SMC_despotism_party_long:0 "Hoi dong truong lao bo toc/Nhung nguoi theo thu tu moi"
+SMC_reactionism_party:0 "DKT"
+SMC_reactionism_party_long:0 "Doi quan khan xep trang"
+
 
 #EVENTS#
 annam.1.t:0 "Peasant Insurrections"
