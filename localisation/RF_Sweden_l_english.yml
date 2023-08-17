@@ -65,8 +65,8 @@ SWE_forest_tt:0 "§!삼림훈련 §W에 따라 전 삼림 지역에서의 전투
 SWE_forest_warfare_effect:0 "§H삼림훈련§! 활성화\n§H모든 보도 이동 병종\n    삼림§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      이동: §G+5%§!\n\n"
 
 #DECISIONS (1.5 Update)#
-SWE_denmark:0 "Restore Denmark"
-SWE_bij_bolszewika:0 "Cut the Red Hydra"
+SWE_denmark:0 "덴마크 회복"
+SWE_bij_bolszewika:0 "붉은 히드라 처단"
 #EVENTS#
 
 #FOCUSES#
@@ -224,4 +224,4 @@ sweden.4.d:0 "폭력적인 사회주의자들의 끔찍함은 역겨울 정도�
 sweden.4.a:0 "사회주의자들을 내쫓자!"
 
 #MISC
-BloodPact:0 "Birkeneid"
+BloodPact:0 "자작나무 서약"
