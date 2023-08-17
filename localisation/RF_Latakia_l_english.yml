@@ -1,16 +1,16 @@
 ﻿l_english:
 #COUNTRY NAME#
-ALW:0 "Latakia"
-ALW_DEF:0 "the Alawite Territory"
-ALW_ADJ:0 "Alawite"
+ALW:0 "라디키야"
+ALW_DEF:0 "알라위령"
+ALW_ADJ:0 "알라위"
 
 #PARTIES#
-ALW_progressivism_party:0 "Al Kalbiyya"
-ALW_progressivism_party_long:0 "Al Kalbiyya"
+ALW_progressivism_party:0 "알 칼비야"
+ALW_progressivism_party_long:0 "알 칼비야"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
-ALW_syria_loss_tt:0 "@ALW §YLatakia§! has been swept away, sabres clutched till the end."
-ALW_syria_win_tt:0 "Against all odds, @ALW §YLatakia§! has triumphed."
+ALW_syria_loss_tt:0 "부딪힌 칼들 끝에 @ALW §Y라디키야§!가 휩쓸려 나가고 말았습니다."
+ALW_syria_win_tt:0 "모든 역경을 딛고 @ALW §Y라디키야§!가 승리를 거머쥐었습니다."
 #DECISIONS (1.5 Update)#
 #FOCUSES#
