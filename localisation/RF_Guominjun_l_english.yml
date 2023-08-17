@@ -13,20 +13,20 @@ JGJ_right_authoritarianism_party:0 "SC"
 JGJ_despotism_party:0 "SMC"
 JGJ_reactionism_party:0 "RS"
 JGJ_accelerationism_party:0 "YCP"
-JGJ_vanguard_socialism_party_long:0 "Communist Party of China - Rightist"
-JGJ_libertarian_marxism_party_long:0 "Communist Party of China - Leftist"
+JGJ_vanguard_socialism_party_long:0 "중국공산당 - 우익"
+JGJ_libertarian_marxism_party_long:0 "중국공산당 - 좌익"
 JGJ_revolutionary_anarchism_party_long:0 "Chinese Anarchist Movement"
-JGJ_revisionist_socialism_party_long:0 "Gemingjun"
+JGJ_revisionist_socialism_party_long:0 "혁명군"
 JGJ_progressivism_party_long:0 "Gemingjun Secularist Faction"
 JGJ_liberalism_party_long:0 "Prosperity Consortium"
-JGJ_conservatism_party_long:0 "Shaanxi Republic Party"
-JGJ_right_authoritarianism_party_long:0 "Shaanxi Clique"
-JGJ_despotism_party_long:0 "Shaanxi Military Clique"
+JGJ_conservatism_party_long:0 "산서공화당"
+JGJ_right_authoritarianism_party_long:0 "산서 군벌"
+JGJ_despotism_party_long:0 "산서 군벌"
 JGJ_reactionism_party_long:0 "Renaissance Society"
-JGJ_accelerationism_party_long:0 "Young China Party - Shaanxi"
+JGJ_accelerationism_party_long:0 "중국청년당 - 산서"
 
 #LEADER DESCRITIONS#
-POLITICS_YUXIANG_DESC:0 "Feng Yuxiang is the Christian General, the commander of the North-Western Army and flank of the Beiyang, or at least, he was. Yuxiang has seen fit to rebel against the Shanxi and declare his Clique's intention to overthrow the Government. Should he succeed in fending off the Beiyang, he will be in a strong position to align much of the North with the Southern Revolutionaries. Whom he sides with however is unknown, Yuxiang's loyalties has been a topic of contention for much of his career in the warlord era."
+POLITICS_YUXIANG_DESC:0 "펑위샹은 기독교인 장군으로, the commander of the North-Western Army and flank of the Beiyang, or at least, he was. 펑위샹은 has seen fit to rebel against the Shanxi and declare his Clique's intention to overthrow the Government. Should he succeed in fending off the Beiyang, he will be in a strong position to align much of the North with the Southern Revolutionaries. Whom he sides with however is unknown, Yuxiang's loyalties has been a topic of contention for much of his career in the warlord era."
 
 #IDEAS#
 
