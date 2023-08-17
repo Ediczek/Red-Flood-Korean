@@ -9,8 +9,8 @@ SNP_accelerationism_party:0 "HSQI"
 SNP_accelerationism_party_long:0 "Hizb al-Suri al-Qawmi al-Ijtima'i"
 SNP_vanguard_socialism_party:0 "SBP"
 SNP_vanguard_socialism_party_long:0 "Syrian Ba'ath Party"
-SNP_popular_socialism_party:0 "SSCP"
-SNP_popular_socialism_party_long:0 "Syrian Social Councilist Party"
+SNP_popular_socialism_party:0 "SSP"
+SNP_popular_socialism_party_long:0 "Syrian Socialist Party"
 SNP_anarchism_party:0 "SR"
 SNP_anarchism_party_long:0 "Syrian Revolutionary Union"
 SNP_revisionist_socialism_party:0 "SSRP"
@@ -30,7 +30,8 @@ SNP_despotism_party_long:0 "Syrian Royalist Faction"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
-SYR_SCW_SNP_WIN_tt:0 "@SNP §YThe Syrian Republic§! has successfully overthrown the @SYR §YUnited Kingdom of Greater Syria§!."
+SNP_WIN_SYR_tt:0 "@SNP §YThe Syrian Republic§! has successfully overthrown the @SYR §YUnited Kingdom of Greater Syria§!."
+SNP_WIN_CCD_tt:0 "@SNP §YThe Syrian Republic§! has crushed the @CCD §YFree Arab State of Alexandretta§!."
 #DECISIONS (1.5 Update)#
 #FOCUSES#
 #EVENTS#
