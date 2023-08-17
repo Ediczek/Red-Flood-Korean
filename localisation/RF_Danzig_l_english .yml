@@ -21,8 +21,8 @@ DAN_progressivism_party:0 "SPFHD(L)"
 DAN_liberalism_party:0 "DDP"
 DAN_conservatism_party:0 "CSABFHD"
 DAN_right_authoritarianism_party:0 "Polski Garnizon"
-DAN_despotism_party:0 "DP"
-DAN_reactionism_party:0 "DP(L)"
+DAN_despotism_party:0 "DSP"
+DAN_reactionism_party:0 "DSP(L)"
 DAN_accelerationism_party:0 "Vindi-varii"
 
 DAN_vanguard_socialism_party_long:0 "Sozialdemokratische Partei der Freien Hansestadt Danzig (Die Rote Fahne)"
@@ -45,6 +45,6 @@ DAN_marshals_gaze_desc:0 "Despite the Polish releasing their grip, their hand re
 DAN_ist_deutsch:0 "단치히는 독일이다!"
 DAN_ist_deutsch_desc:0 "When the May terrorists let open the gates for the Polish barbarians, there were still some men who stood true to Kaiser, and although the warm mass of bodies may have pushed Ludendorff into Prussia, the Teutonic Knights have taken up arms to defend the homeland yet again. While still forced to play ball with the Warsaw Pact and wear their red star, the scales of fate have tipped in our favor. The crimson rats who surround us, try as they might, know they cannot attempt a second invasion with the combined might of the Birkeneid backing us. Our brothers across the border may remain separated by false treaties and blood-soaked ink, but as the rope begins to tighten around the necks of the vermin, a single cry rises throughout the city: Danzig was Deutsch, Danzig is Deutsch, and Danzig forever will be Deutsch!"
 #CUSTOM TOOLTIPS AND FLAGS#
-DAN_marshals_gaze_tt:0 "§ROur hands are bound in matters of the military.§!"
+DAN_marshals_gaze_tt:0 "§R군무에 우리의 손이 매여 있습니다.§!"
 #DECISIONS (1.5 Update)#
 #FOCUSES#
