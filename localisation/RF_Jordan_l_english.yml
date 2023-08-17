@@ -1,51 +1,9 @@
 ﻿l_english:
 #COUNTRY NAME#
-
-#PARTIES#
-JOR_vanguard_socialism_party:0 "JBP"
-JOR_vanguard_socialism_party_long:0 "요르단 바트당"
-
-JOR_libertarian_marxism_party:0 "JSCP"
-JOR_libertarian_marxism_party_long:0 "요르단 사회평의회주의당"
-
-JOR_revolutionary_anarchism_party:0 "JRP"
-JOR_revolutionary_anarchism_party_long:0 "요르단 혁명연합"
-
-JOR_revisionist_socialism_party:0 "JSRP"
-JOR_revisionist_socialism_party_long:0 "요르단 사회공화당"
-
-JOR_social_democratism_party:0 "JLP"
-JOR_social_democratism_party_long:0 "요르단 노동당"
-
-JOR_liberalism_party:0 "JDP"
-JOR_liberalism_party_long:0 "요르단 민주당"
-
-JOR_conservatism_party:0 "JFP"
-JOR_conservatism_party_long:0 "요르단 조국당"
-
-JOR_right_authoritarianism_party:0 "충성파"
-JOR_right_authoritarianism_party_long:0 "요르단 커먼웰스 파벌"
-
-JOR_reactionism_party:0 "IPFJ"
-JOR_reactionism_party_long:0 "요르단 이슬람 보호군"
-
-JOR_despotism_party:0 "왕당파"
-JOR_despotism_party_long:0 "요르단 왕당파벌"
-
-JOR_accelerationism_party:0 "JSNP"
-JOR_accelerationism_party_long:0 "요르단 사회민족주의당"
-#LEADER DESCRITIONS#
-
-#IDEAS#
-
-#CUSTOM TOOLTIPS AND FLAGS#
-
-#DECISIONS (1.5 Update)#
-
-#FOCUSES#
 JOR_ISR:0 "Transjordan"
 JOR_ISR_DEF:0 "Transjordan Occupation Government
 JOR_ISR_ADJ:0 "Transjordanian"
+
 JOR_anarchism:0 "Free Territory of Transjordan"
 JOR_anarchism_DEF:0 "the Free Territory of Transjordan"
 JOR_anarchism_ADJ:0 "Transjordan"
@@ -79,25 +37,45 @@ JOR_reactionism_ADJ:0 "Transjordan"
 JOR_accelerationism:0 "Transjordan"
 JOR_accelerationism_DEF:0 "Republic of Transjordan"
 JOR_accelerationism_ADJ:0 "Transjordan"
+#PARTIES#
 JOR_vanguard_socialism_party:0 "JBP"
-JOR_vanguard_socialism_party_long:0 "Jordanian Ba'ath Party"
-JOR_popular_socialism_party:0 "JSCP"
-JOR_popular_socialism_party_long:0 "Jordanian Social Councilist Party"
-JOR_anarchism_party:0 "JRP"
-JOR_anarchism_party_long:0 "Jordanian Revolutionary Union"
+JOR_vanguard_socialism_party_long:0 "요르단 부흥당"
+
+JOR_libertarian_marxism_party:0 "JSP"
+JOR_libertarian_marxism_party_long:0 "요르단 사회주의당"
+
+JOR_revolutionary_anarchism_party:0 "JRP"
+JOR_revolutionary_anarchism_party_long:0 "요르단 혁명연합"
+
 JOR_revisionist_socialism_party:0 "JSRP"
-JOR_revisionist_socialism_party_long:0 "Jordanian Social Republican Party"
-JOR_progressivism_party:0 "JLP"
-JOR_progressivism_party_long:0 "Jordanian Labour Party"
+JOR_revisionist_socialism_party_long:0 "요르단 사회공화당"
+
+JOR_social_democratism_party:0 "JLP"
+JOR_social_democratism_party_long:0 "요르단 노동당"
+
 JOR_liberalism_party:0 "JDP"
-JOR_liberalism_party_long:0 "Jordanian Democratic Party"
+JOR_liberalism_party_long:0 "요르단 민주당"
+
 JOR_conservatism_party:0 "JFP"
-JOR_conservatism_party_long:0 "Jordanian Fatherland Party"
+JOR_conservatism_party_long:0 "요르단 조국당"
+
 JOR_right_authoritarianism_party:0 "Tzahal"
 JOR_right_authoritarianism_party_long:0 "Tsva HaHagana l'Yisrael"
+
 JOR_reactionism_party:0 "IPFJ"
-JOR_reactionism_party_long:0 "Jordanian Islamic Protection Force"
-JOR_despotism_party:0 "Royalists"
-JOR_despotism_party_long:0 "Jordanian Royalist Faction"
+JOR_reactionism_party_long:0 "요르단 이슬람 수호군"
+
+JOR_despotism_party:0 "왕당파"
+JOR_despotism_party_long:0 "요르단 왕당파벌"
+
 JOR_accelerationism_party:0 "JSNP"
-JOR_accelerationism_party_long:0 "Jordanian Social Nationalist Party"
+JOR_accelerationism_party_long:0 "요르단 사회민족주의당"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+
+#CUSTOM TOOLTIPS AND FLAGS#
+
+#DECISIONS (1.5 Update)#
+
+#FOCUSES#
