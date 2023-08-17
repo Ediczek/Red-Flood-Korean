@@ -28,7 +28,6 @@ PRS_despotism_party_long:0 "독일 신인지 연맹"
 PRS_reactionism_party_long:0 "독일 기사단 연맹"
 PRS_accelerationism_party_long:0 "프로이센 보호저항동맹"
 
-
 #LEADER DESCRITIONS#
 POLITICS_Schleicher_DESC:0 "프로이센의 진정한 아들인 슐라이허는 통일된 독일 제국에서 키워져, 청년 시절엔 막강한 군에서 복무하도록 성장했습니다. 대전쟁 중 어느 정도 명성을 얻은 슐라이허는 투쟁의 말년 동안 빌헬름 그뢰너의 신뢰받는 보조로서 활동했습니다. 카이저의 폐위로 촉발된 자유군단의 창설을 도운 것도, 에베르트 정부와 독일 정치 내 혁명 요소들 간의 긴장을 키운 것도 바로 슐라이허였습니다. 스파르타쿠스 연맹이 마침내 타격해온 1919년, 슐라이허는 자유군단과 함께 전쟁영웅인 파울 폰 힌덴부르크를 도와 멍청한 에베르트를 에베르트 스스로가 벌인 재앙에게서나 구하고자 했습니다. 하지만 옛 독일의 신실된 병사들이 빨갱이들에게 패배하고 무너져, 해안으로까지 밀려나게 되며 이는 실현되지 못 했습니다. 프로이센에 당도한 슐라이허와 힌덴부르크는 독일 제국의 살아남은 요소들을 재조직하고자 했지만, 옛 동맹의 산맥에서 안식을 찾은, 오스트리아로 달아난 수많은 옛 장교들을 찾았을 뿐이었습니다. 10년 넘게 힌덴부르크 아래서 일하며, 공산주의자들의 요원들을 박살내고 소소한 분란들이 자유군단을 분열시키지 않도록 확실히 한 슐라이허는, 1934년 옛 원수를 이어 충성스럽고 헌신적인 측근들의 정부를 계승했습니다. 프로이센은 작으나, 잔혹하지만은 않은 제국원수 슐라이허는 프로이센의 힘이 그 유산과 그 정통성에 깃들어 있음을 알고 있습니다. 충분한 계획만 있다면 붉은 거인을 끌어내리고, 자유군단, 국군, 그리고 슐라이허 그 자신은 전 세계를 호령할 뻔했던 위대한 독일을 부활시킬 수 있을 것입니다."
 
@@ -57,6 +56,8 @@ PRS_prussian_spring_desc:0 "반동 세력이 패퇴하였으니 오늘은 쾨니
 #MINISTERS#
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
+PRS_reunification:0 "우리의 고국 수복"
+reclaim_homeland:0 "진정한 독일 회복"
 #EVENTS#
 prussia.1.t:0 "루덴도르프 뒤짐 ㅋ"
 prussia.1.desc:0 "ERICH LUDENDORFF IS DEAD, DING DONG THE WICKED BITCH IS DEAD, IT'S A SHAME THE BITCH DIDN'T DIE 72 YEARS AGO, IT'S A SHAME THAT THE VOLKSARMEE DIDN'T KILL THE BITCH"
