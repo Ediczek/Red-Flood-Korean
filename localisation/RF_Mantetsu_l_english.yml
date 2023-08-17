@@ -1,4 +1,4 @@
-﻿#################################
+#################################
 #   	 Mantetsu LOC - BABA	#
 #################################
 l_english:
@@ -491,8 +491,6 @@ MAN_national_workforce_bureau:0 "National Workforce Bureau"
 MAN_national_workforce_bureau_desc:0 ""
 MAN_preempt_the_south:0 "Preempt the South"
 MAN_preempt_the_south_desc:0 ""
-MAN_end_zongchangs_house_arrest:0 "End Zongchang's House Arrest"
-MAN_end_zongchangs_house_arrest_desc:0 ""
 MAN_contact_loyalists_at_home:0 "Contact Loyalists at Home"
 MAN_contact_loyalists_at_home_desc:0 ""
 MAN_modernised_state:0 "Modernized State"
