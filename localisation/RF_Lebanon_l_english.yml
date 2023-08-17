@@ -52,15 +52,15 @@ LEB_right_authoritarianism_party:0 "레바논 위임령"
 LEB_right_authoritarianism_party_long:0 "레바논 위임령"
 LEB_reactionism_party:0 "군주주의파"
 LEB_reactionism_party_long:0 "군주주의파"
-LEB_despotism_party:0 "군주주의파"
-LEB_despotism_party_long:0 "군주주의파"
+LEB_despotism_party:0 "카타입"
+LEB_despotism_party_long:0 "레바논 사회민주당"
 LEB_accelerationism_party:0 "프랑스 요원단"
 LEB_accelerationism_party_long:0 "프랑스 요원단"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
-LEB_syria_win_tt:0 "@LEB §YPhoenicia§! has lept from both the jaws of death and the pages of history, landing squarely back on her feet in the midst of Arab onslaught."
-LEB_syria_loss_tt:0 "@LEB §YThe State of Lebanon§! has drawn its last breath, brought back into the fold by the Arab forces."
+LEB_syria_win_tt:0 "@LEB §Y페니키아§!가 has lept from both the jaws of death and the pages of history, landing squarely back on her feet in the midst of Arab onslaught."
+LEB_syria_loss_tt:0 "@LEB §Y레바논국§!이 마지막 숨결을 내뱉으며 아랍 세력의 품에 다시금 들어왔습니다."
 #DECISIONS (1.5 Update)#
 #FOCUSES#
 #COSMETIC TAGS#
