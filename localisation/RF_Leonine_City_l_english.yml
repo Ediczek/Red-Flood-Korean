@@ -1,8 +1,12 @@
-﻿l_english:
+l_english:
 
 LEO:0 "Leonine City"
 LEO_DEF:0 "the Leonine City State"
 LEO_ADJ:0 "Italian"
+
+LEO_accelerationism:0 "Satanic Empire of Dirlewangerian Rape"
+LEO_accelerationism_DEF:0 "the Satanic Empire of Dirlewangerian Rape"
+LEO_accelerationism_ADJ:0 "Noctulian"
 
 LEO_despotism_party:0 "Sancta Sedes"
 LEO_despotism_party_long:0 "Sancta Sedes"
