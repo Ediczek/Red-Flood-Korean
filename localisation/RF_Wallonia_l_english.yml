@@ -1,18 +1,31 @@
 ﻿l_english:
 #COUNTRY NAME#
-WLL:0 "왈로니"
-WLL_DEF:0 "왈로니"
-WLL_ADJ:0 "왈로니"
+WLL:0 "Walloon Free State"
+WLL_DEF:0 "the Walloon Free State"
+WLL_ADJ:0 "Walloon"
 
 #PARTIES#
 WLL_progressivism_party:0 "PLC - G"
-WLL_progressivism_party_long:0 "기독교 자유당 - 좌익"
+WLL_progressivism_party_long:0 "Parti Libéral Chrétien - Gauche"
 WLL_liberalism_party:0 "PLC - C"
-WLL_liberalism_party_long:0 "기독교 자유당 - 중도"
+WLL_liberalism_party_long:0 "Parti Libéral Chrétien - Centre"
 WLL_conservatism_party:0 "PLC - D"
-WLL_conservatism_party_long:0 "기독교 자유당 - 우익"
-WLL_accelerationism_party:0 "재합주의파"
-WLL_accelerationism_party_long:0 "재합주의파"
+WLL_conservatism_party_long:0 "Parti Libéral Chrétien - Droite"
+WLL_accelerationism_party:0 "FNAGF"
+WLL_accelerationism_party_long:0 "Front National de l'Avant-garde Française"
+WLL_popular_socialism_party:"PCRW - B"
+WLL_popular_socialism_party_long:0 "Parti Communiste Révolutionnaire de Wallonie - Berlinistes"
+WLL_revisionist_socialism_party:0 "PCRW - VG"
+WLL_revisionist_socialism_party_long:0 "Parti Communiste Révolutionnaire de Wallonie - Vieille Garde"
+WLL_vanguard_socialism_party:0 "PCRW - SN"
+WLL_vanguard_socialism_party_long:0 "Parti Communiste Révolutionnaire de Wallonie - Secteur National"
+WLL_anarchism_party:0 "La Bande à Bonnot"
+WLL_reactionism_party:0 "RNW - R"
+WLL_reactionism_party_long:0 "Rassemblement National de Wallonie - Royalistes"
+WLL_right_authoritarianism_party:0 "RNW - S"
+WLL_right_authoritarianism_party_long:0 "Rassemblement National de Wallonie - Souverainistes"
+WLL_despotism_party:0 "RNW - N"
+WLL_despotism_party_long:0 "Rassemblement National de Wallonie - Naturalistes"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
