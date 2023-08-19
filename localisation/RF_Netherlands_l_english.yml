@@ -35,6 +35,28 @@ HOL_accelerationism_DEF:0 "네덜란드 공화국"
 HOL_accelerationism_ADJ:0 "네덜란드"
 
 #PARTIES#
+HOL_progressivism_party:0 "PvdA"
+HOL_progressivism_party_long:0 "Partij van de Arbeid"
+HOL_reactionism_party:0 "HGS"
+HOL_reactionism_party_long:0 "Hervormd Gereformeerde Staatspartij"
+HOL_revisionist_socialism_party:0 "SDAP"
+HOL_revisionist_socialism_party_long:0 "Sociaal-Democratische Arbeiderspartij"
+HOL_anarchism_party:0 "NMOF"
+HOL_anarchism_party_long:0 "Nooit Meer Oorlog Federatie"
+HOL_vanguard_socialism_party:0 "SDAP"
+HOL_vanguard_socialism_party_long:0 "Sociaal-Democratische Arbeiderspartij"
+HOL_popular_socialism_party:0 "SDAP"
+HOL_popular_socialism_party_long:0 "Sociaal-Democratische Arbeiderspartij"
+HOL_liberalism_party:0 "LSP"
+HOL_liberalism_party_long:0 "Liberale Staatspartij"
+HOL_conservatism_party:0 "De Coalitie"
+HOL_conservatism_party_long:0 "Roomsch-Katholieke Staatspartij+Anti-Revolutionaire Partij+Christelijk-Historische Unie"
+HOL_right_authoritarianism_party:0 "Verdinaso"
+HOL_right_authoritarianism_party_long:0 "Verbond van Dietsche Nationaal Solidaristen"
+HOL_despotism_party:0 "Verdinaso"
+HOL_despotism_party_long:0 "Verbond van Dietsche Nationaal Solidaristen"
+HOL_accelerationism_party:0 "SRNP"
+HOL_accelerationism_party_long:0 "Sociaalrevolutionaire Nationale Partij"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#
