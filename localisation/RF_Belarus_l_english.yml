@@ -72,7 +72,12 @@ BLR_ruthenia:0 "루테니아 제국"
 BLR_ruthenia_DEF:0 "루테니아 제국"
 BLR_ruthenia_ADJ:0 "루테니아"
 
+BLR_bandera_despotism:0 "Protectorate of the Northern Lands"
+BLR_bandera_despotism_DEF:0 "the Protectorate of the Northern Lands"
+BLR_bandera_despotism_ADJ:0 "White Ruthenian"
+
 #Ideas
+BLR_warschauer_vertrag:0 "Der Warschauer Vertrag"
 BLR_welfare_state:0 "복지국가"
 BLR_human_rights_court:0 "전 벨라루스 인권법원"
 BLR_deregulation:0 "비규제"
