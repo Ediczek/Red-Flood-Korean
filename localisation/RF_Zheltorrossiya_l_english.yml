@@ -1,9 +1,12 @@
 ﻿l_english:
 
-#Zheltorossiya
-ZHR_anarchism:0 "황러시아 사드루지스트바"
-ZHR_anarchism_DEF:0 "황러시아 사드루지스트바"
-ZHR_anarchism_ADJ:0 "황러시아"
+#State names
+ZHR_anarchism:0 "Chapayevia"
+ZHR_anarchism_DEF:0 "the Zheltorossiyan Free Territory"
+ZHR_anarchism_ADJ:0 "Zheltorossiyan"
+ZHR_stateless_anarchy:0 "Disintegrating Zheltorossiyan State"
+ZHR_stateless_anarchy_DEF:0 "the Zheltorossiyan Collapse"
+ZHR_stateless_anarchy_ADJ:0 "Zheltorossiyan"
 ZHR_vanguard_socialism:0 "황러시아 소볘트 공화국"
 ZHR_vanguard_socialism_DEF:0 "황러시아 소볘트 공화국"
 ZHR_vanguard_socialism_ADJ:0 "황러시아"
@@ -31,14 +34,14 @@ ZHR_despotism_ADJ:0 "황러시아"
 ZHR_reactionism:0 "황러시아"
 ZHR_reactionism_DEF:0 "황러시아"
 ZHR_reactionism_ADJ:0 "황러시아"
-ZHR_accelerationism:0 "황러시아국"
-ZHR_accelerationism_DEF:0 "황러시아국"
-ZHR_accelerationism_ADJ:0 "황러시아"
+ZHR_accelerationism:0 "Zheltorossiyan Collective"
+ZHR_accelerationism_DEF:0 "the Russian Labour Collective"
+ZHR_accelerationism_ADJ:0 "Zheltorossiyan"
 
-#COSMETIC TAGS#
-ZHR_chapayev_anarchism:0 "황러시아 자유령"
-ZHR_chapayev_anarchism_DEF:0 "황러시아 자유령"
-ZHR_chapayev_anarchism_ADJ:0 "황러시아"
+#Cosmetic tags
+ZHR_chapzhelto:0 "Free Sonarodstvo of Zheltorossiya"
+ZHR_chapzhelto_DEF:0 "the Free Sonarodstvo of Zheltorossiya"
+ZHR_chapzhelto_ADJ:0 "Zheltorossiyan"
 
 ZHR_ONE:0 "일국"
 ZHR_ONE_DEF:0 "일국"
@@ -56,12 +59,12 @@ ZHR_russiansovietrepublic_kamenev:0 "러시아 소볘트 연방 사회주의 공
 ZHR_russiansovietrepublic_kamenev_DEF:0 "러시아 소볘트 연방 사회주의 공화국"
 ZHR_russiansovietrepublic_kamenev_ADJ:0 "러시아"
 
-ZHR_russiansovietrepublic_popular_socialism:0 "러시아 공화국"
-ZHR_russiansovietrepublic_popular_socialism_DEF:0 "러시아 공화국"
+ZHR_russiansovietrepublic_popular_socialism:0 "러시아 노동공화국"
+ZHR_russiansovietrepublic_popular_socialism_DEF:0 "러시아 노동공화국"
 ZHR_russiansovietrepublic_popular_socialism_ADJ:0 "러시아"
 
-ZHR_russianpeoplesrepublic:0 "러시아 공화국"
-ZHR_russianpeoplesrepublic_DEF:0 "러시아 공화국"
+ZHR_russianpeoplesrepublic:0 "러시아 인민공화국"
+ZHR_russianpeoplesrepublic_DEF:0 "러시아 인민공화국"
 ZHR_russianpeoplesrepublic_ADJ:0 "러시아"
 
 ZHR_freepeopleofrussia:0 "러시아 자유 사나라드스트바"
@@ -76,54 +79,62 @@ ZHR_kerenskysrepublic:0 "러시아 공화국"
 ZHR_kerenskysrepublic_DEF:0 "러시아 공화국"
 ZHR_kerenskysrepublic_ADJ:0 "러시아"
 
-#NAME#
-kerensky_prevails:0 "케렌스키가 모두를 꺾다."
-kerensky_resigns:0 "케렌스키가 사임하다."
+ZHR_wasteland:0 "Disintegrating Zheltorossiyan State"
+ZHR_wasteland_DEF:0 "the Zheltorossiyan Anarchy"
+ZHR_wasteland_ADJ:0 "Zheltorossiyan"
 
-#PARTIES#
-ZHR_vanguard_socialism_party:0 "RSDRP(b)-L"
-ZHR_popular_socialism_party:0 "OLN"
-ZHR_anarchism_party:0 "NROGR"
-ZHR_revisionist_socialism_party:0 "RSDRP(m)/PSR"
-ZHR_progressivism_party:0 "TNSP"
-ZHR_liberalism_party:0 "카데티"
-ZHR_conservatism_party:0 "NDS"
-ZHR_right_authoritarianism_party:0 "북만철"
-ZHR_despotism_party:0 "OLN-N"
-ZHR_reactionism_party:0 "SPK"
+ZHR_rand:0 "Free Republic of Russia"
+ZHR_rand_DEF:0 "the Free Republic of Russia"
+ZHR_rand_ADJ:0 "Russian"
+
+#Parties
 ZHR_accelerationism_party:0 "RSDRP(b)-V"
-ZHR_vanguard_socialism_party_long:0 "러시아 사회민주노동자당 (볼셰비키) - 레닌주의파"
-ZHR_popular_socialism_party_long:0 "좌파인민당"
-ZHR_anarchism_party_long:0 "조국 노동자 인민 해방군"
-ZHR_revisionist_socialism_party_long:0 "러시아 사회민주노동자당 (멘셰비키)/사회혁명당"
-ZHR_progressivism_party_long:0 "노동인민사회당"
-ZHR_liberalism_party_long:0 "입헌인민자유민주당"
-ZHR_conservatism_party_long:0 "인민민주연합"
-ZHR_right_authoritarianism_party_long:0 "북만주 철도"
-ZHR_despotism_party_long:0 "좌파인민당 - 민족주의자"
-ZHR_reactionism_party_long:0 "정교회 농민 연합"
 ZHR_accelerationism_party_long:0 "러시아 사회민주노동자당 (볼셰비키) - 전진파"
-#chap's anarchists
+ZHR_anarchism_party:0 "NROGR"
+ZHR_anarchism_party_long:0 "조국 노동자 인민 해방군"
 ZHR_chap_anarchism_party:0 "NOASR"
 ZHR_chap_anarchism_party_long:0 "자유 러시아 인민 해방 전위대"
+ZHR_vanguard_socialism_party:0 "RSDRP(b)-L"
+ZHR_vanguard_socialism_party_long:0 "러시아 사회민주노동자당 (볼셰비키) - 레닌주의파"
+ZHR_popular_socialism_party:0 "OLN"
+ZHR_popular_socialism_party_long:0 "좌파인민당"
+ZHR_revisionist_socialism_party:0 "RSDRP(m)/PSR"
+ZHR_revisionist_socialism_party_long:0 "러시아 사회민주노동자당 (멘셰비키)/사회혁명당"
+ZHR_progressivism_party:0 "OTP"
+ZHR_progressivism_party_long:0 "Obyedinennaya Trudovaya Partiya"
+ZHR_liberalism_party:0 "입민"
+ZHR_liberalism_party_long:0 "입헌인민자유민주당"
+ZHR_conservatism_party:0 "NDS"
+ZHR_conservatism_party_long:0 "인민민주연합"
+ZHR_right_authoritarianism_party:0 "북만철"
+ZHR_right_authoritarianism_party_long:0 "북만주 철도"
+ZHR_despotism_party:0 "OLN-N"
+ZHR_despotism_party_long:0 "좌파인민당 - 민족주의자"
+ZHR_reactionism_party:0 "SPK"
+ZHR_reactionism_party_long:0 "정교회 농민 연합"
 
-#LEADER DESCRITIONS#
-POLITICS_KERENSKY_DESC:0 "수많은 이들이 시도했어도 누구도 케렌스키를 권좌에서 끌어내릴 순 없었습니다. 케렌스키와 그의 당이 황러시아에 자유와 민주정을 약속했지만, 수많은 이들이 대통령 사임을 못마땅히 여기는 케렌스키를 보며 추후 권력의 공고화를 두려워하고 있습니다. 어쨌거나 케렌스키는, 무슨 수를 써서라도 러시아 혁명을 이룩하려 몰두하는 중입니다."
-POLITICS_GASTEV_DESC:0 "폭 넓은 혁명 활동, 노조 경력, 과학적 경제경영 주장이라는 배경은, 소비에트로 하여금 알렉세이 가스테프를 서면상 완벽한 후보라 여기게 해주었습니다. 하지만 가스테프의 진정한 계획하는 아는 이는 그 자신뿐이었습니다. 러시아를, 그리고 곧 전 세계를 자신의 완벽한 예술작품으로 변이시키는 것. 전적으로 과학적 경영 아래 운영되는, 인류의 다음 혁명, 호모 메탈리움의 영역. 계획경제안도 너무 온건하다 여긴 가스테프는 계획사회를 제안했습니다. 이미 그 계획에 시행에 든 이상, 그 앞을 막을 건 많지 않을 듯합니다..."
-POLITICS_ALISA_DESC:0 "로젠바움은 다른 급진 이념가들이 그랬던 것처럼 백군의 러시아 내전 승리 직후 황러시아로 도망쳐왔습니다. 하지만, 다른 대부분의 동포들과 다르게 그녀는 러시아의 자본주의 경제에 관해 아무 이의를 제기하지 않았습니다. 오히려, 콜차크의 권위주의 정권은 자유와 시장이 절대적 우위에 있다는 급진적 형태의 자유주의로 로젠바움을 밀어넣었습니다. 질문은 여전히 남아있습니다. 로젠바움이 러시아를 매입할 것인가, 아니면 새 러시아 공화국을 위해 싸울 것인가?"
-POLITICS_MILYUKOV:0 "오랫동안 카데츠의 지도자로 재직한 밀류코프는 개혁주의적 자유주의자로, 근래에 러시아 정권에게 쫓겨 이제 막 황러시아에 당도했습니다. 권력에 미친 폭군들과의 협상이 얼마나 잘못된 것인지 이제 깨달은 그는, 러시아에서 민주반란의 불꽃을 다시 태우고자 1905년과 1917년의 혁명가들 사이의 화해를 유도하려 합니다."
-POLITICS_SPIRIDONOVA_DESC:0 "알 수 없는 운명은 마리아 스피리도노바를 권좌에 앉히어 러시아에 아나코 생디칼리슴을 가져오게 했습니다. 권위주의적 사회주의 이념들과 사회민주정 모두를 반대한 스피리도노바는 무국가 노조 연방이라는 새 러시아 사회를 목표로 합니다. 알렉산드라 콜론타이의 소비에트 여성주의 관념들과 아나키스트 철학의 결합을 또한 말입니다."
-POLITICS_TROTSKY_DESC:0 "옛 국제주의 장군이자 블라디미르 레닌의 예상 후계자로 비쳤던 트로츠키는 황러시아에서 러시아 내전을 이어가야 했습니다. 하지만 트로츠키는 옛 멘셰비키와 단합해 RSDRP의 새 급진익을 창설해냈습니다. 트로츠키의 세력은 사회주의 개혁의 급진화, 기근 및 아나키스트적 혼돈에게서의 보호를 농민들과 프롤레타리아에게 약속하며 승리를 얻어냈습니다. 하지만 트로츠키의 진정한 야망을 아는 이는 많지 않습니다. 소비에트 연방을 회복하고 연방을 자신의 이념적 상에 맞게 빚어내는 것 말입니다."
-POLITICS_KAMENEV_DESC:0 "레온 트로츠키의 옛 동맹이었던 카미니프가 평의회 공산주의를 근간으로 당의 지도부를 인수했습니다. 카미니프는 독일 혁명을 모방해 러시아와 옛 제국령에 평의회 공화국들의 연방체 설립하려는 장기적 목표를 갖고 있습니다. 인민과 당의 전폭적인 지지를 확보하는 덴 성공했지만, 온갖 이념의 급진주의자들은 카미니프를 부정하며 그를 상대로 음모를 꾸미는 중입니다."
-POLITICS_DAN_DESC:0 "본래 멘셰비키의 창립당원이었던 표도르 단은 러시아로의 사회주의 전파에 실패한 이후 모든 혁명정당들을 떠났습니다. 이제 단은 RSDRP와의 협력만이 콜차크정을 몰아낼 유일한 수단이라 생각합니다. 단은 콜차크가 몰락하고 나면, 러시아 농민들에게 더 걸맞는 농업사회주의를 이식할 수 있길 희망하고 있습니다."
-POLITICS_CHAPAYEV_DESC:0 "케렌스키의 군대의 급진 아나키스트 장군인 차파예프는 황러시아의 기근을 둘러싼 정치적 풍진 속에서 기회를 보았습니다. 인민은 고통받으며 약속한 바를 이루지 못한 정부를 향해 분노를 내질렀습니다. 인민은 정의를 요구했고, 그 외침을 들은 차파예프는 정의를 인민에게 주겠노라 다짐했습니다. 하지만 그는 다른 것 또한 깨달았습니다. 인민의 자유로썬 진정 누구도 믿어선 안 된다는 것. 인민 자신을 제외한 누구도. 차파예프의 군사적 경험은 차파예프를 그의 혼란스러운 영역 안에서 지켜줄 수 있었지만, 평화가 얼마나 오래 갈 수 있을진 시간만이 말해줄 것입니다."
-POLITICS_AVKSENTIEV_DESC:0 "RSP 파벌과 사회화 및 농업사회주의 계획을 뒤에 둔 니콜라이 압크셴티이프가 삼두정의 꼭대기에 섰습니다. 비록 같은 당에 몸 담고 있다 해도, 압크셴티이프는 벨라루스의 보리스 사빈코프와 거리를 두고 당을 새롭게 만들고자 합니다."
+ZHR_wasteland_party:0 "Zheltorossiyan Collapse"
+ZHR_wasteland_party_long:0 "Zheltorossiyan Collapse"
+
+#Leader descriptions
 POLITICS_BOGDANOV_DESC:0 "시스템 이론과 의학 분야의 혁신으로 유명한 과학자, 성공적인 공상 과학 소설 작가, 유능한 조직가이자 철학자이기까지 한 알렉산드르 알렉산드로비치 보그다노프는 진정으로 마지막으로 남은 박식가 중 한 명이라고 할 수 있습니다. 그리고 이제 그는 새로운 황러시아 혁명 공화국의 선구적인 지도자로 불립니다. 황러시아라는 이 허름한 배의 조종간을 잡은 진정한 지성인 보그다노프는 이 배를 별과 그 너머에 있는 모든 이들을 위한 밝은 미래라는 항구에 정박시키기 위해 노력했습니다.\n\n러시아 사회민주노동당의 급진 볼셰비키 파벌의 창시자 중 한 명인 보그다노프는 현재는 그 명예가 실추된 블라디미르 레닌과 갈등을 겪었습니다. 옛 지도자의 전제주의와 권위주의적 성향을 비난한 보그다노프의 전위 당파는 1905년의 혁명 기간 동안 주도권을 잡았고, 미화된 테러리스트 조직을 신중하게 설계된 기계로 서서히 변화시켰고 합리적 테크노크라시 원칙에 따라 러시아 프롤레타리아 계층을 위한 플랫폼을 만들었으며 낡은 족쇄를 벗어던지고 새로운 산업 및 집산 문화를 창출하기 위해 끊임없이 노력했습니다.\n\n하지만 보그다노프는 인류의 미래를 거대한 기계의 무게에 짓눌린 단순한 톱니바퀴로만 보진 않았습니다. 혁명으로부터 자유롭고 강력하며 생명의 충만함에서 비롯된, 이 세상의 진정한 신이 될 새로운 인간이 탄생할 것입니다. 그리고 이 부활한 인류는 굶주림, 욕망, 중력, 심지어 죽음의 사슬마저 끊고 자신의 의지를 관철하기 위해 모든 자연을 영광스럽게 정복할 것입니다.\n\n이 미친 연금술이 성공하여 불멸의 신들로 이루어진 새로운 종족이 지구를 거닐게 될까요? 아니면 볼셰비키의 꿈은 제국의 총검 아래 묻히고, 현대의 니므롯이 하늘을 뚫기 위해 만든 새로운 바벨탑의 잔해만 남게 될까요?"
-#MISC#
-ZHR_NKVD:0 "안보연구소 사단"
-cannot_have_conscription:0 "자원복무"
-#IDEAS#
+POLITICS_CHAPAYEV_DESC:0 "케렌스키의 군대의 급진 아나키스트 장군인 차파예프는 황러시아의 기근을 둘러싼 정치적 풍진 속에서 기회를 보았습니다. 인민은 고통받으며 약속한 바를 이루지 못한 정부를 향해 분노를 내질렀습니다. 인민은 정의를 요구했고, 그 외침을 들은 차파예프는 정의를 인민에게 주겠노라 다짐했습니다. 하지만 그는 다른 것 또한 깨달았습니다. 인민의 자유로썬 진정 누구도 믿어선 안 된다는 것. 인민 자신을 제외한 누구도. 차파예프의 군사적 경험은 차파예프를 그의 혼란스러운 영역 안에서 지켜줄 수 있었지만, 평화가 얼마나 오래 갈 수 있을진 시간만이 말해줄 것입니다."
+POLITICS_SPIRIDONOVA_DESC:0 "알 수 없는 운명은 마리아 스피리도노바를 권좌에 앉히어 러시아에 아나코 생디칼리슴을 가져오게 했습니다. 권위주의적 사회주의 이념들과 사회민주정 모두를 반대한 스피리도노바는 무국가 노조 연방이라는 새 러시아 사회를 목표로 합니다. 알렉산드라 콜론타이의 소비에트 여성주의 관념들과 아나키스트 철학의 결합을 또한 말입니다."
 
+#Ideas
+ZHR_besieged_republic:0 "Siege Mentality"
+ZHR_besieged_republic_desc:0 "Peaceful sleep is a rare gift in Zheltorossiya. The hungry double-headed eagle in the West tears itself apart for now, but how long can it take until Kolchak will gather his armies and order them to crush the last bastion of liberty in Russia? This worry is omnipresent in the politics of Zheltorossiya, giving way to various radicals, promising a revolutionary revival and the destruction of the Empire once and for all. For these fears, the democratic government had to loosen their principles and institute an army service for all citizens, along with arms stockpiled in every town. When they will come they'll meet our every man and woman armed to the teeth, ready to strike back at their oppressors."
+
+ZHR_safe_haven:0 "The One Haven of Freedom"
+ZHR_safe_haven_desc:0 "In the West, the ruthless eye of the Okhranka watches you, especially if you read dangerous books that may give you dangerous ideas. The purification policies, that lay waste in the Imperial academia, became a strength for the Republic. Dissidents flood the gates of Zheltorossiyan univiersities, Harbin becoming the new centre of Russian learning and culture. A new life breathes into the Republic, that one day might unite all Motherland under the flag of freedom."
+
+ZHR_railway_crash:0 "The Railway Crash"
+ZHR_railway_crash_desc:0 "The dependence of the Zheltorossiyan economy on Japan paid its due, in a way more catastrophic than anyone could expect. Civil war raging in the Land of the Rising Sun, the mighty Zaibatsu fell down like cardboard towers. The consequences for Zheltorossiya, for the worse, experiencing an ill harvest this year, were disasterous - the supply lines became paralysed overnight, thousands lost their jobs, trade became impossible, factories stopped working. The prices of basic utilities rose to the skies, the people, demanding bread came to the streets, a wave of protests submerging the state. General strike was declared, pressing radical leftist demands against the government (with no doubt, a merit of the ambitious and inteligent organiser - Aleksei Gastev).\n\nYet in this chaos, the more far-sighted individuals, some would say cynical, see an opportunity. The fist of Japanese influence being broken, the reign of the corrupt government may come to an end, opening a new, brighter chapter in Zheltorossiyan history."
+
+ZHR_state_of_revolution:0 "State of Revolution"
+ZHR_state_of_revolution_desc:0 "With the political victory of the revolutionary faction of the RDSRP, allied with the OLN, Zheltorossiya was turned on its head overnight. With the blessing of the new government, the Red Guards, under the command of Leon Trotsky and Aleksei Gastev stormed the parliament, declaring a hastily written manifesto announcing the liquidation of the bourgeiosie Supreme Soviet and submission of all the power into the hands of the People's Revolutionary Comittee, its most prominent members being Aleksandr Bogdanov, Maria Spidironova and Gastev himself. The Comittee has to reign absolute power until \"stability is restored and new state of affairs based on the principle of socialist democracy is estabilished\". This unstable rule meets resistance from the nation's nascent capitalists, some worrying a total dissolution of the Republic is to come - or worse, that the \"people's fist against reaction\" will turn into an apparatus of new totalitarian tyranny."
+
+ZHR_japanese_influence:0 "Japanese Influence"
 ZHR_famine:0 "기아"
 ZHR_a_new_dawn:0 "새 여명"
 ZHR_purgebureaucracy:0 "관료 숙청"
@@ -171,9 +182,10 @@ ZHR_yellow_russian_sabotage:0 "황러시아 파괴공작"
 ZHR_folks_socialism:0 "민중사회주의"
 ZHR_ROSTA:0 "ROSTA"
 ZHR_directorate:0 "내무국"
-ZHR_IoRC:0 "혁명사령연구소"
-ZHR_IoRC:0 "혁명사령연구소"
+ZHR_IoRC:0 "혁명지휘연구소"
+
 ########### 0.3 ###############################################
+
 #Homogenous Socialists
 ZHR_peoples_soviet:0 "인민평의회"
 ZHR_labour_code:0 "노동 규범"
@@ -183,8 +195,9 @@ ZHR_local_autonomy:0 "현지 자치"
 ZHR_labour_duty:0 "노동은 의무다!"
 ZHR_oln_farms:0 "개선된 농업"
 ZHR_federation:0 "중앙화된 연방"
-ZHR_russian_councilism:0 "러시아 평의회주의"
+ZHR_russian_councils:0 "러시아 평의회"
 ZHR_russian_syndicalism:0 "러시아 생디칼리슴"
+
 #Triumvirate
 ZHR_ll_reform:0 "정책 개정"
 ZHR_ll_reform1:0 "진보적 세제정책"
@@ -195,6 +208,7 @@ ZHR_rev_soc_industry2:0 "노동개혁"
 ZHR_peasant_research:0 "사회주의 토지개혁"
 ZHR_peasant_research1:0 "사회주의 토지개혁"
 ZHR_peasant_research2:0 "사회주의 토지개혁"
+
 #Milyukov
 ZHR_liberalisation:0 "인민의 자유"
 ZHR_lib_economy_idea:0 "지출 개정"
@@ -204,6 +218,7 @@ ZHR_lib_compliance:0 "COTOT"
 ZHR_lib_compliance1:0 "단일공화국"
 ZHR_lib_consoom_idea:0 "의무국가보험"
 ZHR_lib_trade_idea:0 "감소된 관세"
+
 #Vperedists
 ZHR_proletkult_i:0 "프롤레트쿨트"
 ZHR_proletkult_1:0 "프롤레트쿨트"
@@ -217,25 +232,48 @@ ZHR_organisational_socialism_1: "조직적 사회주의"
 ZHR_NKVD_deployment:0 "GIB 대대 창설"
 anti_tsarist_cooperation:0 "반차르주의 협력"
 ZHR_kamenev_path_unlock:0 "레프 카미니프가 의장이 됐습니다"
-ZHR_no_rosenbaum:0 "로젠바움이 사임했습니다"
-
+ZHR_no_rosenbaum:0 "Milyukov has prevailed."
+ZHR_bog:0 "Bogdanov has prevailed."
 MNS_yoshiko_dies:0 "요시코가 죽다"
+ZHR_justanothernumber_TT:0 "Names will cease to be used."
+ZHR_milyukov_says_no:0 "Milyukov braves the storm, angering Bogdanov.\nIf Bogdanov was to take action, the military might get involved."
+ZHR_milyukov_buckbroken:0 "Milyukov's attempt at maintaining the order fails, radicalizing the Republic even further."
+ZHR_bogdanov_does_stupid:0 "Bogdanov won't miss his only chance at victory.\nBut where does the military's loyalty lie?"
+ZHR_bogdanov_isnt_stupid:0 "Bogdanov is no madman."
+ZHR_trotsky_radio:0 "Trotsky prevails."
+ZHR_chapayev_radio:0 "Chapayev prevails."
+ZHR_banderite_radio:0 "And now, the Republic prays."
+ZHR_rand_executor:0 "The Young Kadets emerge victorious."
+ZHR_certified_rand_w:0 "They are victorius, the march fails!"
+ZHR_girlbossed_too_hard:0 "The march is succesful! The leftists come on top!"
+ZHR_gastev_triumvi:0 "Gastev and the Triumvirate get in the lead!"
+ZHR_nice_popular_front_bro:0 "Bogdanov, Kamenev and Spiridonova unite."
+ZHR_gastev_does_it:0 "Gastev and the Proletkult emerge victorius."
+ZHR_crassus_caesar_pompey:0 "The Triumvirate has prevailed in the struggle for power."
+ZHR_vperedist_blinded:0 "Cold trails, cold feet."
+ZHR_vperedist_sees:0 "The conspiracy is uncovered."
+ZHR_spiridonova_merkulov:0 "Spiridonova and the OLN emerge victorious!"
+ZHR_tatar_pride_worldwide:0 "Kamenev and the Leninists prevail!"
+ZHR_kerensky_weak:0 "Kerensky resigns."
+ZHR_kerensky_strong:0 "Kerensky is the storm."
+ZHR_kerensky_walter_white:0 "Kerensky has won."
 
-
-#Leader traits#
-ZHR_exile_kerensky:0 "추방된 대통령"
+#Leader traits
+ZHR_exile_kerensky:0 "추방된 Minister-Chairman"
 ZHR_ayn_rand:0 "객관주의 이념가"
 ZHR_gastev:0 "프롤레트쿨트 지도자"
 ZHR_comrade_trotsky:0 "혁명가"
-ZHR_chapayev:0 "인민의 위원"
+ZHR_chapayev_trait:0 "People's Marshal"
+ZHR_chapayev_brotherly_leader:0 "Brotherly Leader"
+ZHR_chapayev_revolutions_guide:0 "Revolution's Guide"
+ZHR_chapayev_masses_rifle:0 "Masses' Rifle"
 
-ZHR_SETTING_SUN_DESC:0 "대전쟁 이후 러시아 제국은 북만주에서 중요한 영토상의 이익들을 얻어냈습니다. 혁명이 일어나고 콜차크의 독재가 이어지자, 남은 공화주의자들과 사회주의자들은 극동으로 도망쳐 자기들만의 민주적인 잔재국을 세웠습니다. 망가친 체제가 모든 유형의 극단주의자들이 발흥하는 걸 막지 못 했다곤 해도, 황러시아는 여전히 동아시아의 민주정의 등대입니다. 하지만 얼마나 그럴 수 있을까요?"
+ZHR_SETTING_SUN_DESC:0 "1905년 대전쟁 이후 러시아 제국은 북만주에서 중요한 영토상의 이익들을 얻어냈습니다. 혁명이 일어나고 콜차크의 독재가 이어지자, 남은 공화주의자들과 사회주의자들은 극동으로 도망쳐 자기들만의 민주적인 잔재국을 세웠습니다. 망가친 체제가 모든 유형의 극단주의자들이 발흥하는 걸 막지 못 했다곤 해도, 황러시아는 여전히 동아시아의 민주정의 등대입니다. 하지만 얼마나 그럴 수 있을까요?"
 
 #DECISIONS (1.5 Update)#
 PRI_transbaikal:0 "자바이칼 문제"
 PRI_join_siberian_europe:0 "시비리 연합 가맹"
 PRI_form_FER:0 "극동 공화국 수립"
-
 ZHR_invade_altay:0 "Invade Altay"
 ZHR_invade_armenia:0 "Attack Armenia"
 ZHR_invade_mongolia:0 "Attack the Mongolian Steppe"
@@ -251,8 +289,7 @@ ZHR_invade_kavkaz:0 "Invade the Kavkaz Society"
 ZHR_join_kavkaz:0 "Join the Kavkaz Society"
 ZHR_core_territory:0 "Integrate the Conquered Territories"
 
-#MINISTERS
-#COMPANIES#
+#Companies
 Tereshchenkos_Consortium_Industrial_Concern:0 "티리셴카 협력 산업 회사"
 Harbin_Radioelectronics_Institute:0 "하르빈 무선전자 연구소"
 Harbin_Arsenal:0 "하르빈 병기창"
@@ -274,7 +311,21 @@ Harbin_Strategic_Aircraft_Bureau:0 "하르빈 전략공군국"
 #\____|__  /__||__|    (____  /___|  /\____ |  \____|__  (____  /\_/  / ____|
 #        \/                 \/     \/      \/          \/     \/      \/     
 
+#Naval focuses
+ZHR_russianrevolutionaryfleet:0 "러시아 혁명함대"
+ZHR_russianrevolutionaryfleet_desc:0 "극동 함대의 잔재 위에 건설된 러시아 혁명함대에는 함대 유지 및 근접국과의 경쟁을 위한 새 주력함과 차장함이 필요합니다."
+ZHR_fleetofsupport:0 "지원함대"
+ZHR_fleetofsupport_desc:0 "해군의 핵심 구성요소인 지원함과 호위함은 최슨 장갑, 무장, 대잠기술을 갖추고 있어야 합니다."
+ZHR_submarinesonthehunt:0 "사냥에 나선 잠수함"
+ZHR_submarinesonthehunt_desc:0 "북태평양 해역을 순찰하는 것은 매우 위험합니다. 베링 해협은 열악한 기상 조건으로 인해 수면 위에서 항해하기 어렵고, 남쪽으로 갈수록 외국 함대의 수가 증가하기 때문에 우리 해역을 효과적으로 순찰하기 위해서는 강력한 잠수함 함대를 구축하는 것이 현명할 것입니다."
+ZHR_fareasternfleet:0 "극동함대"
+ZHR_fareasternfleet_desc:0 "극동 제국함대는 1920년 혁명 당시 인수된 이래 지금까지 공화국을 섬기고 있습니다. 뒤쳐지고 형편 없어진 모양이 된 지금, 함대에는 개혁이 필요합니다."
+ZHR_navalresearchcentre:0 "해군연구소"
+ZHR_navalresearchcentre_desc:0 "전 세계 해군 기술의 발전에 발맞추기 위해서는 해군 연구 센터를 설립하여 새로운 함정 및 무기 개발을 추진하고 지휘해야 합니다."
+ZHR_expanddocksofvladivostok:0 "블라디보스토크 선창 확대"
+ZHR_expanddocksofvladivostok_desc:0 "블라디보스토크가 다시 러시아의 손에 들어감에 따라 조선소 재건 및 개선 작업이 본격적으로 시작되었습니다. 이 항구는 노퍽, 야덴하펜, 포츠머스, 페트로그라드에 필적하는 요새이자 세계 해군력의 중심지가 될 것입니다."
 
+#Air focuses
 ZHR_supportingarmy:0 "육군 지원"
 ZHR_supportingarmy_desc:0 "공군의 역할 중 하나는 직접 지상 지원입니다. 새로운 비행기는 저위력을 지니고 있지만 근접폭격이 가능하도록 설계하어 병사들을 도울 수 있도록 만들어져야 합니다."
 ZHR_expandairbases:0 "공군기지 확장"
@@ -303,7 +354,7 @@ ZHR_reformsofravs:0 "RASR 개혁"
 ZHR_reformsofravs_desc:0 "자유 러시아 혁명군은 외교나 군사적 수단을 통해 모스크바를 되찾을 수 있는 새로운 군으로 거듭나는데에 있어 도움을 필요로 합니다."
 ZHR_strategicplanning:0 "전략입안"
 ZHR_strategicplanning_desc:0 "우리는 러시아를 제국의 파멸로부터 구할 수 있는 전략을 만들기 위해 잠재적인 전투 계획과 전투방법을 연구해야 합니다."
-ZHR_institureofrevolutionarycommanders:0 "혁명사령연구소"
+ZHR_institureofrevolutionarycommanders:0 "혁명지휘연구소"
 ZHR_institureofrevolutionarycommanders_desc:0 "제대로 된 군관학교의 설립은 장성들부터 분대장 및 중대장에 이르기까지, 우리 군 참모들의 질을 크게 향상시킬 것입니다."
 ZHR_discussionofcommand:0 "지휘권 논의"
 ZHR_discussionofcommand_desc:0 "군 지휘권을 누가 다룰 것인지는 우리의 전반적인 교리 설정과 장래에 있을 전쟁을 어떤 방식으로 수행할 것인지를 다루는 매우 중요한 일입니다."
@@ -488,6 +539,37 @@ ZHR_allpraisewechanttothee_desc:0 "대통령, 공화국의 구세주시며 혁�
 ZHR_createdirectorate:0 "내무국 창설"
 ZHR_createdirectorate_desc:0 "대통령의 주문에 따라 새 국가부서인 내무국이 창설되었습니다. 이 신설 기관은 전례 없는 권한을 갖고 대통령에게 직접 보고합니다. 여전히 공개적으로 자신들의 의견을 밝히긴 하지만 소수에 불과한 케렌스키의 비판자들은 이 움직임이 개인 독재의 탄생이자 소비에트식 기만이라고 비난하고 있습니다. 케렌스키의 대꾸란 단 하나 뿐입니다. '내가 바로 평의회야.'"
 
+#Air focuses
+ZHR_airfleetoffreerussia:0 "자유 러시아의 공중함대"
+ZHR_airfleetoffreerussia_desc:0 "자유 러시아 상공에 대한 강력한 통제권을 확보하면 군대를 더 자유롭게 기동할 수 있으며, 새로운 공중 전술에 대한 연구는 이 전투 분야에서 우위를 점하는 데 중요한 단계입니다."
+
+ZHR_bearingdestruction:0 "파괴 감내"
+ZHR_bearingdestruction_desc:0 "안타깝지만 민간인들로 가득한 산업 표적들에 대한 폭격은 총력전의 새로운 현실입니다. 전투기 호위를 대동한 몇몇 폭격기들이 군사 표적을 상대로 한 폭격을 위해 저고조 비행을 수행해도, 다른 폭격기들엔 산업력 절하를 위한 중량탄이 실려있기 마련입니다."
+
+ZHR_navalbombers:0 "해군폭격기"
+ZHR_navalbombers_desc:0 "최소한의 해군력으로 수역을 통제하려면, 해상작전과 소량의 연료 소요로 바다를 통제할 특별 폭격기를 사용해도 좋을 것입니다."
+ZHR_supportingarmy:0 "Supporting Army"
+ZHR_supportingarmy_desc:0 "One of the roles of an air force is direct ground support, new planes designed for low yeild, close-range bombardment should be developed to assist the troops."
+
+ZHR_expandairbases:0 "Expand Air Bases"
+ZHR_expandairbases_desc:0 "The current military air bases in the Far East are inadequate for housing and fielding a truly modern air force, we must expand them at once."
+
+ZHR_supportingfleet:0 "함대 지원"
+ZHR_supportingfleet_desc:0 "공군은 지상작전 뿐만 아니라 점점 그 중요성이 늘어가는 해상에서의 전쟁에서도 중대한 요소입니다. 항공모함이라는 새로운 개념이 점점 더 널리 퍼지고 있으며, 우리는 이에 발맞추기 위해 최선을 다해야 합니다."
+
+ZHR_aerialdoctrines:0 "Aerial Doctrines"
+ZHR_aerialdoctrines_desc:0 "The newest theatre of war - the air, lessons of the past two wars will help us build new piloting schools instructing the next generation of aces."
+
+#______ _       _                                  
+#|  _  (_)     | | Diplomacy                                
+#| | | |_ _ __ | | ___  _ __ ___   __ _  ___ _   _ 
+#| | | | | '_ \| |/ _ \| '_ ` _ \ / _` |/ __| | | |
+#| |/ /| | |_) | | (_) | | | | | | (_| | (__| |_| |
+#|___/ |_| .__/|_|\___/|_| |_| |_|\__,_|\___|\__, |
+#        | |                                  __/ |
+#        |_|                                 |___/           
+
+#General Diplo
 ZHR_subordinatethesoviets:0 "평의회 종속"
 ZHR_subordinatethesoviets_desc:0 "국가수반은 대통령이지 평의회가 아닙니다. 대통령을 폄하하려는 평의회주의자들의 경향을 반드시 뭉개야 합니다. 이 불평분자들을 다스리려면 행정권 확대가 필요합니다."
 ZHR_nofreedomforparasites:0 "기생충들에게 자유는 없다"
@@ -548,26 +630,7 @@ ZHR_focusonfirepower:0 "화력 집중"
 ZHR_focusonfirepower_desc:0 "대전쟁의 끔찍한 인명 손실이 반복되어서는 안 되며, 대규모 보병 돌격과 무모한 인명 경시는 압도적인 화력으로 대체될 수 있습니다. 우리는 강력한 화력을 통해 최소한의 손실로 적을 쓰러뜨려야 합니다."
 ZHR_tankexperiments:0 "전차 실험"
 ZHR_tankexperiments_desc:0 "러시아는 전차 기술 측면에서 느리게 발전해 왔습니다. 우리는 자체적으로 설계한 전차도 거의 없거니와 그나마 있는 전차도 구식입니다. 우리는 새로운 전차에 투자하여 정적인 보병 전투를 깨고 새로운 공세를 주도해야 합니다."
-ZHR_airfleetoffreerussia:0 "자유 러시아의 공중함대"
-ZHR_airfleetoffreerussia_desc:0 "자유 러시아 상공에 대한 강력한 통제권을 확보하면 군대를 더 자유롭게 기동할 수 있으며, 새로운 공중 전술에 대한 연구는 이 전투 분야에서 우위를 점하는 데 중요한 단계입니다."
-ZHR_bearingdestruction:0 "파괴 감내"
-ZHR_bearingdestruction_desc:0 "안타깝지만 민간인들로 가득한 산업 표적들에 대한 폭격은 총력전의 새로운 현실입니다. 전투기 호위를 대동한 몇몇 폭격기들이 군사 표적을 상대로 한 폭격을 위해 저고조 비행을 수행해도, 다른 폭격기들엔 산업력 절하를 위한 중량탄이 실려있기 마련입니다."
-ZHR_navalbombers:0 "해군폭격기"
-ZHR_navalbombers_desc:0 "최소한의 해군력으로 수역을 통제하려면, 해상작전과 소량의 연료 소요로 바다를 통제할 특별 폭격기를 사용해도 좋을 것입니다."
-ZHR_expanddocksofvladivostok:0 "블라디보스토크 선창 확대"
-ZHR_expanddocksofvladivostok_desc:0 "블라디보스토크가 다시 러시아의 손에 들어감에 따라 조선소 재건 및 개선 작업이 본격적으로 시작되었습니다. 이 항구는 노퍽, 야덴하펜, 포츠머스, 페트로그라드에 필적하는 요새이자 세계 해군력의 중심지가 될 것입니다."
-ZHR_supportingfleet:0 "함대 지원"
-ZHR_supportingfleet_desc:0 "공군은 지상작전 뿐만 아니라 점점 그 중요성이 늘어가는 해상에서의 전쟁에서도 중대한 요소입니다. 항공모함이라는 새로운 개념이 점점 더 널리 퍼지고 있으며, 우리는 이에 발맞추기 위해 최선을 다해야 합니다."
-ZHR_russianrevolutionaryfleet:0 "러시아 혁명함대"
-ZHR_russianrevolutionaryfleet_desc:0 "극동 함대의 잔재 위에 건설된 러시아 혁명함대에는 함대 유지 및 근접국과의 경쟁을 위한 새 주력함과 차장함이 필요합니다."
-ZHR_fleetofsupport:0 "지원함대"
-ZHR_fleetofsupport_desc:0 "해군의 핵심 구성요소인 지원함과 호위함은 최슨 장갑, 무장, 대잠기술을 갖추고 있어야 합니다."
-ZHR_navalresearchcentre:0 "해군연구소"
-ZHR_navalresearchcentre_desc:0 "전 세계 해군 기술의 발전에 발맞추기 위해서는 해군 연구 센터를 설립하여 새로운 함정 및 무기 개발을 추진하고 지휘해야 합니다."
-ZHR_fareasternfleet:0 "극동함대"
-ZHR_fareasternfleet_desc:0 "극동 제국함대는 1920년 혁명 당시 인수된 이래 지금까지 공화국을 섬기고 있습니다. 뒤쳐지고 형편 없어진 모양이 된 지금, 함대에는 개혁이 필요합니다."
-ZHR_submarinesonthehunt:0 "사냥에 나선 잠수함"
-ZHR_submarinesonthehunt_desc:0 "북태평양 해역을 순찰하는 것은 매우 위험합니다. 베링 해협은 열악한 기상 조건으로 인해 수면 위에서 항해하기 어렵고, 남쪽으로 갈수록 외국 함대의 수가 증가하기 때문에 우리 해역을 효과적으로 순찰하기 위해서는 강력한 잠수함 함대를 구축하는 것이 현명할 것입니다."
+
 ZHR_endthefamine:0 "기아 종식"
 ZHR_endthefamine_desc:0 "대통령의 개혁으로 마침내 인민들의 고통이 완화되었고 기근이 예상보다 빨리 종식되어 케렌스키에 대한 많은 비판이 자취를 감췄습니다. 기근 문제가 해결되자 그를 비난하던 사람들은 이상하게도 조용해졌습니다."
 ### 0.3 paths ###
@@ -1133,6 +1196,7 @@ O_9757:0 "O-9757"
 NW_149:0 "NW-149"
 WZ_5661:0 "WZ-5661"
 EG_479:0 "EG-479"
+#FROM HERE ONWARDS THESE NUMBERS ARE UNUSED
 H_8865:0 "H-8865"
 J_62:0 "J-62"
 Y_4717:0 "Y-4717"
@@ -1159,8 +1223,16 @@ EU_2712:0 "EU-2712"
 GK_343:0 "GK-343"
 G_4910:0 "G-4910"
 G_192:0 "G-192"
+
+#Misc
+kerensky_prevails:0 "Keresnky prevails over all."
+kerensky_resigns:0 "Kerensky has resigned."
+ZHR_NKVD:0 "Institute of Security Divisions"
+cannot_have_conscription:0 "Voluntary Service"
+ZHR_NKVD:0 "Institute of Security Divisions"
+cannot_have_conscription:0 "Voluntary Service"
 ZHR_bingchilling:0 "We will try to balance appeasing our people and the Japanese at the same time."
 ZHR_good:0 "All is well."
 ZHR_bad:0 "Our benefactor has fallen."
 ZHR_vpered:0 "The Vperedists have bested the other factions."
-ZHR_diplomacy_decisions:0 "The Race to Reunification"
+ZHR_diplomatic_decisions:0 "The Race to Reunification"
