@@ -1,9 +1,6 @@
 ﻿l_english:
 #COUNTRY NAME#
 
-SYR_ENG:0 "영국령 마쉬리크"
-SYR_ENG_DEF:0 "영국령 마쉬리크"
-SYR_ENG_ADJ:0 "마쉬리크"
 
 SYR_ISR:0 "시리아 왕국"
 SYR_ISR_DEF:0 "시리아 왕국"
@@ -14,63 +11,43 @@ SYR_IRQ_DEF:0 "미탄니"
 SYR_IRQ_ADJ:0 "미탄니"
 
 KSYR_right_authoritarianism:0 "시리아 왕국"
-KSYR_right_authoritarianism_DEF:0 "시리아"
+KSYR_right_authoritarianism_DEF:0 "시리아 왕국"
 KSYR_right_authoritarianism_ADJ:0 "시리아"
 
-SNP_accelerationism:0 "대마쉬리크"
-SNP_accelerationism_DEF:0 "대마쉬리크"
-SNP_accelerationism_ADJ:0 "마쉬리크"
 #PARTIES#
 SYR_vanguard_socialism_party:0 "SBP"
-SYR_vanguard_socialism_party_long:0 "시리아 바트당"
-
-SYR_popular_socialism_party:0 "SSCP"
-SYR_popular_socialism_party_long:0 "시리아 사회평의회주의당"
-
-SYR_anarchism_party:0 "SRP"
+SYR_vanguard_socialism_party_long:0 "시리아 부흥당"
+SYR_popular_socialism_party:0 "SSP"
+SYR_popular_socialism_party_long:0 "시리아 사회주의당"
+SYR_anarchism_party:0 "SP"
 SYR_anarchism_party_long:0 "시리아 혁명연합"
-
 SYR_revisionist_socialism_party:0 "SSRP"
 SYR_revisionist_socialism_party_long:0 "시리아 사회공화당"
-
 SYR_progressivism_party:0 "SLP"
 SYR_progressivism_party_long:0 "시리아 노동당"
-
 SYR_liberalism_party:0 "SDP"
 SYR_liberalism_party_long:0 "시리아 민주당"
-
 SYR_conservatism_party:0 "SFP"
 SYR_conservatism_party_long:0 "시리아 조국당"
-
 SYR_right_authoritarianism_party:0 "충성파"
 SYR_right_authoritarianism_party_long:0 "시리아 커먼웰스 파벌"
-
 SYR_reactionism_party:0 "IPFS"
-SYR_reactionism_party_long:0 "시리아 이슬람 보호군"
-
-SYR_despotism_party:0 "왕당파"
-SYR_despotism_party_long:0 "시리아 왕당파벌"
-
+SYR_reactionism_party_long:0 "시리아 이슬람 수호군"
+SYR_despotism_party:0 "KW"
+SYR_despotism_party_long:0 "Kutlah al-Wataniyah"
 SYR_accelerationism_party:0 "SSNP"
 SYR_accelerationism_party_long:0 "마쉬리크 사회민족주의당"
 #LEADER DESCRITIONS#
 #IDEAS#
-SYR_underground_resistance:0 "시온주의자들의 영향력"
-SYR_underground_resistance_desc:0 "시온주의 조직들은 매년 팔레스타인으로 오는 수천의 유대인들의 후원을 받습니다. 이들이 구성하는 정착지들은 자체방위 민병대를 창설하며 긴장감을 조성합니다. 일이 계속되면서 상황은 나빠져만 가니, 곧 그 결과를 맛보게 될 것입니다."
+SYR_syrian_circlejerk_war:0 "The Bells of Jerusalem"
+SYR_syrian_circlejerk_war_desc:0 "When Damascus was liberated from Ottoman rule, it was not Allenby or the men in London who shattered the chains, but the proud armies of the Hashemite Arab forces. Thus when time came to carve up the dying empire, who else would be better fit to rule the lands of Syria than those who conquered it? Yet some things are simply too good to be true, and through decades of mismanagement and the death of King Faisal, in 1935 the bonds so-long established beneath the rule of the Viziers had rotted through. Brother took up arms against brother, and as Ghazi was crowned King of Sand, his domain turned to dust beneath his very feet. Now, amidst the disintegration of the United Kingdom of Greater Syria into a multitude of ethnic realms, imams from Jerusalem to Aleppo lead the faithful in a prayer for peace and end to war."
 #CUSTOM TOOLTIPS AND FLAGS#
-SYR_DESC_MENU:0 "마쉬리크 왕국은 임박한 위기와 마주하고 있습니다. 시온주의의 망령이 팔레스타인에서 소란을 일으키는 한편, 왕을 조종하는 영국인들은 기꺼이, 심지어는 성을 다해 우리나라에 맞서 시온주의자들을 돕고 있습니다. 그것으로도 모자라 레바논과 시리아에서는 드루제, 프랑스 망명자들 및 종교 소수집단들이 대표권과 권력을 두고 서로 싸워대며 내분을 가속화합니다. 도대체 이 왕국은 얼마나 버틸 수 있을까요?"
+SYR_WIN_SNP_tt:0 "@SYR §YThe United Kingdom of Greater Syria§! has successfully reasserted itself against the @SNP §YSyrian Revolutionaries'§! revolt."
+SYR_WIN_CCD_tt:0 "@SYR §YThe United Kingdom of Greater Syria§! has smothered the @CCD §YAlexandrettan§! attempt at revolution."
 #DECISIONS (1.5 Update)#
-SYR_aliyah_decisions:0 "팔레스타인 문제"
-SYR_aliyah_decisions_desc:0 "시온주의 조직들은 매년 팔레스타인으로 오는 수천의 유대인들의 후원을 받습니다. 수십 년 동안 지금까지 그 빈도와 규모는 커져만 갔습니다. 인구 유입은 힘을 불안정하게 만들고 역내 불만을 높이며 왕국을 기반에서부터 위협하고 있습니다. 적정량의 인구를 품은 정착지들은 역내 개발을 개선할 테지만, 아랍인 시민들의 더 큰 반감을 대가로 치러야 할 것입니다."
-SYR_limit_jews:0 "제한된 유대인 입국 허가"
-SYR_permit_jews:0 "대규모 유대인 입국 허가"
-SYR_permit_jews_plus:0 "유대인 정착지 확대 허가"
 #FOCUSES#
 #EVENTS#
 syria.1.t:0 "북에서 사회민족주의당이 봉기하다!" 
 syria.1.desc:0 ""
 syria.1.a:0 "망할 혁명분자들!"
 syria.1.b:0 "곧 진정한 독립을 가지리라. (시리아 사회민족주의당으로 플레이)"
-SYR_syrian_circlejerk_war:0 "The Bells of Jerusalem"
-SYR_syrian_circlejerk_war_desc:0 "When Damascus was liberated from Ottoman rule, it was not Allenby or the men in London who shattered the chains, but the proud armies of the Hashemite Arab forces. Thus when time came to carve up the dying empire, who else would be better fit to rule the lands of Syria than those who conquered it? Yet some things are simply too good to be true, and through decades of mismanagement and the death of King Faisal, in 1935 the bonds so-long established beneath the rule of the Viziers had rotted through. Brother took up arms against brother, and as Ghazi was crowned King of Sand, his domain turned to dust beneath his very feet. Now, amidst the disintegration of the United Kingdom of Greater Syria into a multitude of ethnic realms, imams from Jerusalem to Aleppo lead the faithful in a prayer for peace and end to war."
-SYR_SCW_SYR_WIN_tt:0 "@SYR §YThe United Kingdom of Greater Syria§! has successfully reasserted itself against the @SNP §YSyrian Revolutionaries'§! revolt."
