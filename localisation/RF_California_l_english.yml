@@ -533,9 +533,9 @@ CAL_core_USA_bodin:0 "잔존파 흡수"
 CAL_fortifications:0 "방어시설 구축"
 CAL_core_USA_sinclair:0 "잔존지 해방"
 
-sinclair_in_power:0 "Upton Sinclair has been elected"
+sinclair_in_power:0 "업튼 싱클레어가 당선되다"
 united_front_in_power:0 "Reason and Dialogue won the day"
-bodin_in_power:0 "L. Ron Hubbard has been elected"
+bodin_in_power:0 "L. 론 허버드가 당선되다"
 
 CAL_vanguard_socialism_party:0 "GAB-C"
 CAL_vanguard_socialism_party_long:0 "German American Bund - California Chapter"
