@@ -1,0 +1,41 @@
+﻿l_english:
+ 
+#PARTIES#
+
+BKR_vanguard_socialism_party:0 "레닌주의 집단"
+BKR_vanguard_socialism_party_long:0 "부하라 레닌주의-사회주의당"
+BKR_popular_socialism_party:0 "이슬람 공산주의파"
+BKR_popular_socialism_party_long:0 "붉은 무자히딘"
+BKR_anarchism_party:0 "아나키스트 집단"
+BKR_anarchism_party_long:0 "아나코 생디칼리스트 민병대"
+BKR_revisionist_socialism_party:0 "이슬람 사회주의파"
+BKR_revisionist_socialism_party_long:0 "이슬람 사회주의당"
+BKR_progressivism_party:0 "청년 부하라당"
+BKR_progressivism_party_long:0 "청년 부하라당"
+BKR_liberalism_party:0 "청년 부하라당"
+BKR_liberalism_party_long:0 "청년 부하라당"
+BKR_conservatism_party:0 "슈라이 울레마"
+BKR_conservatism_party_long:0 "슈라이 울레마"
+BKR_right_authoritarianism_party:0 "바스마치"
+BKR_right_authoritarianism_party_long:0 "바스마치"
+BKR_despotism_party:0 "아미르 궁정"
+BKR_despotism_party_long:0 "아미르령 충성파벌"
+BKR_reactionism_party:0 "바스마치"
+BKR_reactionism_party_long:0 "바스마치"
+BKR_accelerationism_party:0 "예술파"
+BKR_accelerationism_party_long:0 "예술주의 집단"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+BKR_uni:0 "Islamic Emirate of Turan"
+BKR_uni_DEF:0 "the Islamic Emirate of Turan"
+BKR_uni_ADJ:0 "Turkic"
+BKR_god:0 "There is no god but Allah…"
+BKR_god_desc:0 "Our brave Mujahideen, unjustly called bandits or "basmachi" by our opponents, represent the last stand of the servants of Allah against the godless. Our iron allegiance is only to God Omnipotent and to the visible head of the Ummah, the Caliph in Constantinople. We fight fiercely, strike from the shadows, engage in the valleys and the plains, and crush our enemies when they least expect it. When the Emirs and Khans of Khorasan faltered and the blood of conquerors became milk in their veins, we fought the Russian heathens like lions. And we would have won, if not for the treason of our own people. Godless communists and meek liberals found it more comfortable to draw lines on a map and take a stand in their pathetic statelets rather than to become soldiers of God and fulfill the liberation of all Turks by our side.\n\nOur army is an Army of Islam, and our creed is that given to us by Allah and preached by Muhammad, Peace be upon Him. This holy brotherhood not only has the task of expelling the invaders, but also to restore the Caliph to his rightful position in Turkestan and the world, as he struggles to break the European shackles back in Anatolia. Separated by thousands of miles, our eyes are his eyes, our ears his ears, our voice his voice, and our sword is his to command and anoint. This divine mandate cannot be ignored or underplayed, and every decision we take must be accomplished in the fashion of envoys from God."
+BKR_prophet:0 "...And Enver is His Prophet!"
+BKR_prophet_desc:0 "Back in the Ottoman Army during the Great War, it is said that when commanders asked their men who their prophet was, the most common and convicted answer was "our prophet is Enver Pasha". This is not only a hyperbolic anecdote, but the external sign of an incredible phenomenon.\n\nThe Commander-in-Chief has the charisma of a trueborn leader, oozing a mystical presence impossible to resist. Like a saint or a warrior from centuries past, Enver has forged a mythology of military exploits that is now the glue that holds Bukhara together. From the peasant to the soldier and the merchant, all true sons of Turan kiss the ground he treads, and issues that would otherwise cause irreconcilable splits between his followers are forgotten in the name of absolute loyalty. This obedience has also translated into almost a mystery cult among his cohorts that is regarded with suspicion among the more orthodox clergy, but as long as the Caliph is on his side Enver cannot be stopped by the petty concerns of imams. He is Sacred Bukhara incarnate, and the martyrdom of such a living legend may perhaps mean the end of his dream as well."
+BKR_prince:0 "The Prince and the Paupers"
+BKR_prince_desc:0 "Although he was carried to the throne on the backs of religious reaction, and although de jure he is fighting on behalf of the Caliph, Emir Enver is not a man of the past. During his time in service to the Ottoman Empire, his Young Turks were the foremost progressive force among those in Konstantiniyye, leading sweeping reforms in both the material and cultural realms, and despite the Pan-Islamic beliefs and support for the Sultan, it was the Three Pashas and their İttihadism who paved the way for the first secular reforms in the body of the sick man.\n\nNow Enver is a stranger in a strange land, and although he is the Commander-in-Chief of the Mujaheddin, his progressive ideals have not been washed away. The conservative ulema and firebrand native soldiers that form the bulk of Enver's support may buck and kick, but in his eyes, the Dar-al-Islam has no future unless she turns her eyes from the past."

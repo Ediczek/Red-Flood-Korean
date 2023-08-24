@@ -1,0 +1,59 @@
+﻿l_english:
+POLITICS_SA_ZHEN_BING_DESC:0 "“사전빙은 사회주의를 잘 알았기에 우릴 지지하지 않았으면서도, 수십 년의 경험 끝에 사회주의만이 중국을 구할 수 있음을 깨달았다.”——천두슈\n\n1859년 사전빙은 푸저우의 저명한 집안에서 태어났습니다. 13살에 북양함대 일등병으로 입대했던 그는, 1895년 청일전쟁에서 전투기량으로 주목받았습니다.\n\n청 왕조가 몰락하고 20년이 지나는 동안 사전빙은 중국의 흥망을 지켜봐왔습니다. 국민영웅이라는 자신의 정체성과 역내 사 가문의 거대한 영향력에 기대어, 사전빙은 느리지만 튼실하게 푸젠에서 자신의 정치력을 키워나갔습니다.\n\n제국주의적인 국제개입군이 북벌의 화염을 꺼뜨리려 날뛴 건 중화민족의 재부흥이라는 희망 속에 영장분열(남경-장사 분열)과 반공운동이 완전히 묻혀버린 이후였습니다. 사전빙은 국민당이 야심 넘치는 혁명정당에서 분열된 반동 패거리로 전락한 꼴을, 영국, 이탈리아, 일본의 합동 함대가 양쯔 강을 따라 항행한 굴욕을 목격했습니다.\n\n그저 멍하니 있지 않겠노라 결정한 그는 자신의 정치자원을 이용해 여러 사회주의자들을 푸젠으로 피난할 수 있도록 도우면서, 국민당 좌익에게 남경 정부와의 관계를 끊고 푸젠에서 자신의 동맹과 합류할 것을 제안했습니다. 당의 원로들 중 한 명인 왕징웨이를 설득한 사전빙은, 그를 통해 국민당 좌익 내 자신의 민권파가 집권한 이 해안 성에서 필요한 만큼의 "정통성"을 얻고자 합니다.\n\n그 사이, 사전빙과 그의 참모진은 더 놀라운 계획을 은밀히 세웠습니다. 1933년 11월, 사전빙은 복건 공사의 설립을 선언했습니다. 그 모호한 이름에도, 소식은 국내외적으로 큰 충격을 주었습니다. 복건 공사의 설립은 화해할 수 없는 내부 모순이 반영된 결과로, "공사"이라는 이름은 왕징웨이가 이끄는 "민국파"와, 새 정권 설립을 주장했던 천두슈가 이끄는 "공화국파" 간의 타협의 산물이었습니다.\n\n1936년, 늙은 사전빙은 복건 공사의 단합을 간신히 유지하고 있습니다. 근10년 동안 불철주야 노력한 끝에, 이 친절한 노인의 육신은 점차 쇠약해져가고 있습니다. 온갖 색깔을 한 사회주의자들, 사전빙의 감화력 아래 단결한 여단들, 그저 장징장의 폭정을 견딜 수 없었던 관전자들에 이르기까지 모순은 점차 격화되어가고 있습니다만... 그 누구도 사전빙이 죽고 사라진 이후의 복건의 미래를 감히 상상하지 못하고 있습니다..."
+
+#COUNTRY NAME#
+
+
+FJN_vanguard_socialism_party:0 "CPC - R"
+FJN_popular_socialism_party:0 "CPC - L"
+FJN_anarchism_party:0 "CAM"
+FJN_revisionist_socialism_party:0 "KMT - 민생"
+FJN_progressivism_party:0 "KMT - 민권"
+FJN_placeholderism_party:0 "KMT - 온건"
+FJN_liberalism_party:0 "KMT - 온건"
+FJN_conservatism_party:0 "KMT - 민주"
+FJN_right_authoritarianism_party:0 "사 가문"
+FJN_despotism_party:0 "FCG"
+FJN_reactionism_party:0 "KMT - SSS"
+FJN_accelerationism_party:0 "YCP"
+FJN_vanguard_socialism_party_long:0 "중국 공산당 - 우익"
+FJN_popular_socialism_party_long:0 "중국 공산당 - 좌익"
+FJN_anarchism_party_long:0 "중국 아나키스트 운동"
+FJN_revisionist_socialism_party_long:0 "국민당 민생파"
+FJN_progressivism_party_long:0 "국민당 민권파"
+FJN_placeholderism_party_long:0 "국민당 온건파"
+FJN_liberalism_party_long:0 "국민당 온건파"
+FJN_conservatism_party_long:0 "국민당 민주파"
+FJN_right_authoritarianism_party_long:0 "국민당 복건 집행위원회"
+FJN_despotism_party_long:0 "복건 비적단"
+FJN_reactionism_party_long:0 "국민당 원로회"
+FJN_accelerationism_party_long:0 "중국 청년당 - 복건"
+#PARTIES#
+#LEADER DESCRITIONS#
+#IDEAS#
+FJN_jiaoren_faction:0 "자오런 충성 파벌"
+FJN_jiaoren_faction_desc:0 ""
+FJN_rival_government:0 "경쟁정부"
+FJN_rival_government_desc:0 ""
+FJN_socialist_policies:0 "사회주의 정책 시험"
+FJN_socialist_policies_desc:0 ""
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+FJN_united_guomindang_costag:0 "Nanjing Nationalist Government"
+FJN_united_guomindang_costag_DEF:0 "National Government of the Republic of China"
+FJN_united_guomindang_costag_ADJ:0 "Chinese"
+FJN_left_guomindang_costag:0 "Nanjing People's Government"
+FJN_left_guomindang_costag_DEF:0 "People's Revolutionary Government of the Republic of China"
+FJN_left_guomindang_costag_ADJ:0 "Chinese"
+FJN_united_CHI:0 "Republic of China"
+FJN_united_CHI_DEF:0 "Republic of China"
+FJN_united_CHI_ADJ:0 "Chinese"
+FJN_left_CHI:0 "Chinese Revolutionary Republic"
+FJN_left_CHI_DEF:0 "Chinese People's Revolutionary Republic"
+FJN_left_CHI_ADJ:0 "Chinese"
+POLITICS_GUANGNAI_DESC:0 "Jiang Guangnai"
+POLITICS_MINGSHU_DESC:0 "Chen Mingshu"
+POLITICS_JINGWEI_DESC:0 "Wang Jingwei's rise to prominence is long overdue, after several attempts and opportunities he has come at last to stand as the great unifier of the squabbling factions of the Guomindang and finally complete the work of his predecessors. His record however is chequered, he will have to overcome infighting of his own ranks and the scepticism of the MinZu, the Communists, Young China Party and more besides. If he has the strength and can ammass the allies needed, he may yet be the one to achieve Sun Yat-Sen's dream."
+POLITICS_BOJUN_DESC:0 ""
+FJN_jingwei_bby:0 "Wang Jingwei United the Party"

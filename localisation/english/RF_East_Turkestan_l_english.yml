@@ -1,0 +1,33 @@
+﻿l_english:
+#COUNTRY NAME#
+
+#PARTIES#
+
+ETS_vanguard_socialism_party:0 "CPC/L (남신강)"
+ETS_popular_socialism_party:0 "CPC/S (남신강)"
+ETS_anarchism_party:0 "남신강 인민혁명당"
+ETS_revisionist_socialism_party:0 "국민당 (남신강)"
+ETS_progressivism_party:0 "국민당"
+ETS_liberalism_party:0 "국민당"
+ETS_conservatism_party:0 "YKP"
+ETS_right_authoritarianism_party:0 "호탄 위구르 군벌"
+ETS_despotism_party:0 "동튀르키스탄 군주주의파"
+ETS_reactionism_party:0 "동튀르키스탄 이슬람주의파"
+ETS_accelerationism_party:0 "범아시아파"
+ETS_vanguard_socialism_party_long:0 "중국공산당/레닌주의자 (남신강)"
+ETS_popular_socialism_party_long:0 "중국공산당/스파르타쿠스주의자 (남신강)"
+ETS_anarchism_party_long:0 "남신강 인민혁명당"
+ETS_revisionist_socialism_party_long:0 "국민당 (남신강)"
+ETS_progressivism_party_long:0 "국민당"
+ETS_liberalism_party_long:0 "국민당"
+ETS_conservatism_party_long:0 "카쉬가르 청년당"
+ETS_right_authoritarianism_party_long:0 "호탄 위구르 군벌"
+ETS_despotism_party_long:0 "동튀르키스탄 군주주의파"
+ETS_reactionism_party_long:0 "동튀르키스탄 이슬람주의파"
+ETS_accelerationism_party_long:0 "범아시아회"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

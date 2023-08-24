@@ -1,0 +1,51 @@
+﻿l_english:
+#COUNTRY NAME#
+NIR_anarchism:0 "아일랜드 자유령"
+NIR_anarchism_DEF:0 "아일랜드 자유령"
+NIR_anarchism_ADJ:0 "아일랜드"
+NIR_vanguard_socialism:0 "아일랜드 노동자 공화국"
+NIR_vanguard_socialism_DEF:0 "아일랜드 노동자 공화국"
+NIR_vanguard_socialism_ADJ:0 "아일랜드"
+NIR_popular_socialism:0 "아일랜드 사회주의 공화국"
+NIR_popular_socialism_DEF:0 "아일랜드 사회주의 공화국"
+NIR_popular_socialism_ADJ:0 "아일랜드"
+NIR:0 "아일랜드"
+NIR_DEF:0 "아일랜드"
+NIR_ADJ:0 "아일랜드"
+NIR_accelerationism:0 "아일랜드 공화국"
+NIR_accelerationism_DEF:0 "아일랜드 공화국"
+NIR_accelerationism_ADJ:0 "아일랜드"
+
+#PARTIES#
+NIR_vanguard_socialism_party:0 "SÉ"
+NIR_vanguard_socialism_party_long:0 "Saor Éire"
+NIR_popular_socialism_party:0 "PanLO"
+NIR_popular_socialism_party_long:0 "Páirtí an Lucht Oibre"
+NIR_anarchism_party:0 "AnCP"
+NIR_anarchism_party_long:0 "An Chomhdháil Phoblachtach"
+NIR_revisionist_socialism_party:0 "AILP"
+NIR_revisionist_socialism_party_long:0 "전아일랜드 노동당"
+NIR_progressivism_party:0 "AILP(M)"
+NIR_progressivism_party_long:0 "전아일랜드 노동당 (온건파)"
+NIR_liberalism_party:0 "ILA"
+NIR_liberalism_party_long:0 "아일랜드 자유협회"
+NIR_conservatism_party:0 "IUA"
+NIR_conservatism_party_long:0 "아일랜드 연합주의 동맹"
+NIR_right_authoritarianism_party:0 "IUA(U)"
+NIR_right_authoritarianism_party_long:0 "아일랜드 연합주의 동맹 (얼스터파)"
+NIR_despotism_party:0 "RBP"
+NIR_despotism_party_long:0 "브리탄니아의 통치당"
+NIR_reactionism_party:0 "AnaA"
+NIR_reactionism_party_long: "Ailtirí na hAiséirghe"
+NIR_accelerationism_party:0 "SF"
+NIR_accelerationism_party_long:0 "Sinn Féin"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+
+#CUSTOM TOOLTIPS AND FLAGS#"
+
+#DECISIONS (1.5 Update)#
+
+#FOCUSES#
+

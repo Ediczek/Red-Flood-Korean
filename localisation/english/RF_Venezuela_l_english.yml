@@ -1,0 +1,57 @@
+﻿l_english:
+#COUNTRY NAME#
+
+#PARTIES#
+VEN_anarchism_party:0 "SAMO"
+VEN_anarchism_party_long:0 "노동자 상호원조회"
+VEN_vanguard_socialism_party:0 "PCV"
+VEN_vanguard_socialism_party_long:0 "베네수엘라 공산당"
+VEN_popular_socialism_party:0 "PCV"
+VEN_popular_socialism_party_long:0 "베네수엘라 공산당"
+VEN_revisionist_socialism_party:0 "ARDI"
+VEN_revisionist_socialism_party_long:0 "좌익 혁명가 협회"
+VEN_progressivism_party:0 "AdVL"
+VEN_progressivism_party_long:0 "빈센테 레쿠나 행정부"
+VEN_liberalism_party:0 "PDN"
+VEN_liberalism_party_long:0 "민주민족당"
+VEN_conservatism_party:0 "PDV"
+VEN_conservatism_party_long:0 "베네수엘라 민주당"
+VEN_right_authoritarianism_party:0 "UMP"
+VEN_right_authoritarianism_party_long:0 "애국자 군사연합"
+VEN_despotism_party:0 "ACB"
+VEN_despotism_party_long:0 "볼리비아 민간단체"
+VEN_reactionism_party:0 "PARNAC"
+VEN_reactionism_party_long:0 "민족주의당"
+VEN_accelerationism_party:0 "금요일"
+VEN_accelerationism_party_long:0 "'금요일' 집단"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+VEN_vicente_lecuna:0 "Though he was a man of many talents – banker, engineer, politician, and historian – Vicente Lecuna never had any great intention to rule. Living in the shadow of Simon Bolívar as his humble biographer tends to wither those kinds of aspirations – and yet Lecuna has steadfastly led the Republic since 1921. The reason for this apparent contradiction is simple: an opportunity was laid before him on a silver platter, and he grasped that opportunity with all his strength.\n\nThe coming of Lecuna started with the waning of Gómez, the man who had ruled since 1908 and whose legacy predominantly consists of a list of political dissidents he imprisoned and family members he placed in senior governmental positions. But the collapse of his regime due to the disastrous attempt at kick-starting the oil industry through some very generous subsidies to foreign petroleum companies left a power vacuum that needed to be filled. At the time, Lecuna was the chief of the Bank of Venezuela and had turned it from a sinkhole of capital to the most efficient banking institution in the country. More pertinent, however, was his incessant campaigning and drafting of legislation to nationalise and reserve exploitation of various oil fields for exclusive use by the nation – so when the Gómez government imploded as a result of his capitulation to foreign money, the stage was set for Lecuna to ride the wave of nationalist anger straight into the Miraflores Palace.\n\nIn the fifteen years since, Venezuela has experienced relative peace.  The education system has been uplifted from its previous dreadful state, the political sphere opened up, infrastructure projects invested into, the economy de-monopolised, and the legendary stature of Bolívar grown. Certainly an admirable figure, but his handling of the current economic crisis may sour his reputation yet..."
+VEN_democratic_caesar:0 "Democratic Caesar"
+VEN_shadow_of_the_seven_sisters:0 "Shadow of the Seven Sisters"
+VEN_shadow_of_the_seven_sisters_desc:0 "The power and influence of the Seven Sisters - the cartel of international companies who control the crude oil market - means that our domestic industry simply cannot get its foot in the door. Significant changes will need to be made if we want to offer our oil products on the world market."
+VEN_shadow_of_the_seven_sisters_2:0 "Shadow of the Seven Sisters"
+VEN_shadow_of_the_seven_sisters_2_desc:0 "The power and influence of the Seven Sisters - the cartel of international companies who control the crude oil market - means that our domestic industry simply cannot get its foot in the door. Significant changes will need to be made if we want to offer our oil products on the world market."
+VEN_coffee-reliant_economy:0 "Coffee-Reliant Economy"
+VEN_coffee-reliant_economy_desc:0 "Our inability to exploit the vast deposits of oil in our country has caused us to fall back on the staple South American export - coffee. Relying on a single plant to prop up our economy is a precarious position, and one which may come back to bite us. Finding a new source of income for the treasury is imperative."
+VEN_VDC_bankruptcy:0 "Legacy of the VDC Bankruptcy"
+VEN_VDC_bankruptcy_desc:0 "In 1919, the economic situation brought on by the Great War and a coffee blight in Venezuela forced the Gómez regime to slash subsidies to the foreign companies trying to exploit Venezuelan oil. After eighteen months of deferred maintenance and skeleton crew, the inevitable happened: a massive explosion at a refinery belonging to the Venezuelan Development Company - a joint British-Venezuelan venture - sent shockwaves through the budding oil industry. Investors got cold feet, the young petroleum sector retreated into its shell, and the government was overthrown. It is certain that any new ventures to exploit the country's black gold will be met with trepidation from ministers, investors, and workers alike."
+VEN_Land_of_Countless_Coups:0 "Land of Countless Coups"
+VEN_Land_of_Countless_Coups_desc:0 "Since Venezuelan independence in 1819, more than 50 attempted coups have been made to seize the Miraflores Palace from its current occupant. The country is forever unstable, and the myth of the heroic caudillo tempts many to make an attempt on the presidency. Any president, no matter the ideology, will have to fight off opportunists of all stripes, and no amount of policymaking or electioneering will change the omnipresent threat of violent revolt."
+VEN_New_Bolivars:0 "New Generation of Bolívars"
+VEN_New_Bolivars_desc:0 "As curator of Simon Bolívar's archives and one of the finest biographers of the man, Vicente Lecuna has spent the entire duration of his presidency building up the character of the Great Liberator. 15 years on from Lecuna's inauguration, and the civic cult of Bolívar has brought a new and vibrant energy into Venezuelan society that threatens to overflow its borders, as the young men and women who were brought up hearing of his greatness now reach adulthood and wish to recreate that greatness for themselves."
+VEN_Walking_the_Tightrope:0 "Walking the Tightrope"
+VEN_Walking_the_Tightrope_desc:0 "In an attempt to rescue the country's economy and save Venezuela from the same fate as Brazil, President Vicente Lecuna has embarked on a daring, but seemingly unavoidable endeavour - to succeed where Juan Vicente Gómez failed and successfully build the Venezuelan oil industry into something worth writing home about. Though the country's coffers cry out for help, he risks angering the very people who put him into power in the first place. §YHe must tread a fine line to balance the needs of the treasury with the domineering greed of the oil barons and the simmering anger of the working class.§."
+VEN_coffee-reliant_economy_tt:0 "§RThe nation will be at the whim of the weather and international market until a better source of income is found.§!"
+VEN_Land_of_Countless_Coups_tt:0 "§REven the most benevolent ruler will not be able to escape the braying hounds.§!"
+VEN_Walking_the_Tightrope_tt:0 "Worker Radicalisation is currently: §O15§! \nOil Company Influence is currently: §C10§!"
+VEN.1.t:0 "lecuna gets sad"
+VEN.1.desc:0 "oh no. off to the library to study bolivar you fuckin theorycel"
+VEN.1.a:0 "patriots in control"
+VEN.2.t:0 "more oil"
+VEN.2.desc:0 "i love oil yum yum. also btw this is a balance tweak so that the world has enough oil come ww2 gang gang"
+VEN.2.a:0 "i will use it to build a super gaming house"
