@@ -64,7 +64,11 @@ ENG_reactionism:0 "영국"
 ENG_reactionism_DEF:0 "대브리튼 및 아일랜드 연합왕국"
 ENG_reactionism_ADJ:0 "영국"
 
-# Opinion Modifiers #
+ENG_england:0 "England"
+ENG_england_DEF:0 "England"
+ENG_england_ADJ:0 "English"
+
+#Opinion modifiers
 # USA #
 ENG_diplomatic_talks:0 "외교대담"
 ENG_washington_conference:0 "워싱턴 회담"
@@ -149,6 +153,7 @@ ENG_labour_construction_programs:0 "Labour Construction Programs"
 ENG_booming_economy:0 "호황경제"
 ENG_indian_sinkhole:0 "인도 싱크홀"
 ENG_volunteer_corps:0 "커먼웰스 의용군단"
+ENG_chindits_idea:0 "Malayan Chindits"
 
 #Ministers
 austen_chamberlain:0 "오스틴 체임벌린"
@@ -266,8 +271,8 @@ ENG_theorist_basil_liddel_hart:0 "바실 리들 하트"
 ENG_theorist_alan_brooke:0 "앨런 브룩"
 ENG_theorist_arthur_harris:0 "아서 해리스"
 ENG_theorist_andrew_cunningham:0 "앤드루 커닝엄"
-#DECISIONS (1.5 Update)#
-#FOCUSES#
+
+#Focuses
 ENG_Royal_Rearmament_Program:0 "왕립 재무장 프로그램"
 ENG_Royal_Rearmament_Program_desc:0 "세계의 불안정이 커지고 있는 가운데 영국과 제국이 스스로를 방어할 유일한 희망은 군대를 재무장하는 것입니다. 프랑스와 독일, 러시아의 악어가 우리를 잡아먹게 기다리며 앉아 있을 수 없습니다. 우리는 재무장이 영국인들에게 얼마나 인기가 없든지 간에 시작해야만 합니다."
 
@@ -486,7 +491,7 @@ ENG_Start_The_Blackout:0 "소등 실시"
 ENG_Start_The_Blackout_desc:0 "보이지 않는다면 적의 폭격기들도 표적을 설정할 수 없겠죠. 모든 전등을 끄고 모든 전기를 끕시다. 모든 민간분야를 농촌처럼 비어있는 곳처럼 보이게 할 겁니다. 자기들이 어디에 조준하는지 모른다면 놈들의 폭격도 효용이 없을 겁니다."
 
 ENG_Evacuate_Children_From_The_Cities:0 "도심지 소개"
-ENG_Evacuate_Children_From_The_Cities_desc:0 "It is too dangerous for children to live in the cities, isn't even safe from the adults. But widespread evacuation of the most endangered people will ease the fears of the population, and ensure that few of our shining stars are lose in the horrors of this war."
+ENG_Evacuate_Children_From_The_Cities_desc:0 "It is too dangerous for children to live in the cities, isn't even safe for the adults. But widespread evacuation of the most endangered people will ease the fears of the population, and ensure that few of our shining stars are lose in the horrors of this war."
 
 ENG_Dig_For_Britain:0 "Dig for Britan"
 ENG_Dig_For_Britain_desc:0 "Grow victory gardens! Dig for victory! Learn to can, learn to pickle, learn how the soil feels beneath your fingernails after a hard day's work, and know that you are doing your part to keep Britain fed."
@@ -850,107 +855,104 @@ ENG_Investment_In_Australia:0 "오스트랄라시아 투자"
 ENG_Investment_In_Australia_desc:0 "오세아니아 식민지는 미개발 상태입니다. 공장과 기반시설 건설로 이를 해결해 오스트랄레이시아인들에게 우리가 지도자로서의 재목을 갖추었음을 증명할 것입니다."
 
 ENG_Commonwealth_Investment_Fund:0 "커먼웰스 투자 금융"
-ENG_Commonwealth_Investment_Fund_desc:0 "커먼웰스 투자 금융은 식민지들과 우리가 서로의 경제에 투자해 서로를 도울 수 있는 길입니다."
+ENG_Commonwealth_Investment_Fund_desc:0 "The Commonwealth Investment Fund is a way for us to aid the colonies, and for the colonies to aid us, by investing in each other's economies. By binding our countries closer together we strengthen the Crown and Commonwealth."
 
-ENG_Save_The_Presidency:0 "마드라스 주재구 구원"
-ENG_Save_The_Presidency_desc:0 "마드라스 주재구는 위태로운 위치에 서있습니다. 인도 식민지를 지켜내려면 이들을 도와야 합니다."
+ENG_Save_The_Presidency:0 "Decide Madras' Fate"
+ENG_Save_The_Presidency_desc:0 "The Madras Presidency is in a precarious position, the Fall of the Raj almost wiped out our presence in the subcontinent, save for the Presidency in the South East. All is not well and we must decide whether to use Madras's as the launchpad for an invasion or withdraw entirely from India, hoping to at least save face with some of the region's denizens. Withdrawal would however technically end the Imperial title."
 
-ENG_Emergency_Troops:0 "비상군"
-ENG_Emergency_Troops_desc:0 "마드라스 주재구를 구원할 원정대를 파견합시다."
+ENG_Emergency_Troops:0 "Prepare to Withdraw"
+ENG_Emergency_Troops_desc:0 "With our position in India deemed untenable, the call has been made to being withdrawal. Beginning with an evacuation of the remaining British and Commonwealth citizens from the Presidency. This will be followed by a drawing down of military presence before a final political handover."
 
-ENG_Set_Up_Armaments_Factories_desc:0 "방위에 화기는 매우 중요하지만 마드라스 주재구엔 화기가 부족합니다. 도와줍시다."
-ENG_Set_Up_Armaments_Factories:0 "병기공장 설치"
+ENG_Set_Up_Armaments_Factories:0 "Prepare for War"
+ENG_Set_Up_Armaments_Factories_desc:0 "As we galvanise the Presidency for a final struggle in India, we must take steps to militarise their economy."
 
-ENG_Decolonise_The_Presidency:0 "인도 비식민화"
-ENG_Decolonise_The_Presidency_desc:0 "인도를 떠날 때가 되었습니다. 이 문제에 매달리는 것도 이젠 충분합니다. 이 땅꺼짐에서 얻어낼 수 있는 건 수천의 관짝 외에 아무것도 없습니다."
+ENG_Decolonise_The_Presidency:0 "A Gradual Handover"
+ENG_Decolonise_The_Presidency_desc:0 "As British officials hand power over to local party wings and militias, there is great relief in the air. The first districts have already begun overtures to Indian political factions for protection and integration. Slowly the Presidency is disintegrating."
 
 ENG_Leave_The_Presidency:0 "마드라스 소개"
-ENG_Leave_The_Presidency_desc:0 "이제 떠날 때가 되었습니다. 인도 통치는 멋진 일이었지만, 더 이상 옳은 결정이 아닙니다. 제국이라는 몸을 구하려면 팔다리 하나를 희생해야 합니다. 마드라스의 운명은 마드라스가 결정하게 둘 것입니다."
+ENG_Leave_The_Presidency_desc:0 "As the final handover process begins in Madras, the last military convoys prepare to evacuate the remaining British officials, as well as Madrasi nobles and a few select subjects wishing to flee to Britain or elsewhere. It is almost done, the Raj comes to an end today."
 
-ENG_Operation_London_Bridge:0 "런던 브리지 작전"
-ENG_Operation_London_Bridge_desc:0 "인력을 보내고 병력을 보냅시다. 인도 통치 회복을 위해서라면 그것이 무엇이 됐든 말입니다."
+ENG_Operation_London_Bridge:0 "Fortify the Presidency"
+ENG_Operation_London_Bridge_desc:0 "To prosecute a war of conquest against a vastly more populous foe, the Presidency must be fortified against attack, the Commonwealth's forces will have to rely of fire and technology superiority to win."
 
-ENG_Deal_With_The_Partisans:0 "유격대 처리"
-ENG_Deal_With_The_Partisans_desc:0 "인도 내 유격대를 처리하고 누가 그들의 통치자인지 일깨워줍시다."
+ENG_Deal_With_The_Partisans:0 "Crush the Insurgencies"
+ENG_Deal_With_The_Partisans_desc:0 "Madras is hardly secure yet, before offensive actions, the rear guard must be made safe from insurgent communists and religious groups."
 
-ENG_Emergency_Funding:0 "긴급자금지원"
-ENG_Emergency_Funding_desc:0 "마드라스 주재구엔 긴급자금지원이 필요합니다. 돈은 군의 엔진의 석유와 같습니다."
+ENG_Emergency_Funding:0 "Gain the Confidence of the Princes"
+ENG_Emergency_Funding_desc:0 "The Princely states that composed a large portion of the Raj are a dying breed, yet still useful to us. Their power and position is under threat, so we shall offer them salvation from the revolutionaries in exchange for fielty."
 
-ENG_Restore_Civilian_Sector:0 "민간부문 복구"
-ENG_Restore_Civilian_Sector_desc:0 "마드라스에서 민간부문은 크게 방치되어왔습니다. 상황을 바꿔야 합니다."
+ENG_Restore_Civilian_Sector:0 "Gain the Confidence of the People"
+ENG_Restore_Civilian_Sector_desc:0 "The civil economy in Madras is weak, the trust of the people is low and their staying power in war will be of concern, we must take steps to build up the domestic situation first."
 
-ENG_Restore_The_Economy:0 "경제회복"
-ENG_Restore_The_Economy_desc:0 "경제를 회복시키고 강화하고 인도의 경제력을 되찾읍시다."
+ENG_Restore_The_Economy:0 "Formulating a New Raj"
+ENG_Restore_The_Economy_desc:0 "The Raj was a dynamic animal, with restructuring of states and boundaires being regular, yet it fell all the same. A new Raj must find a new mode of operation, one that is more decentralised from London, one that permits Indian National identity to a degree. We must begin the work to create a Dominion of India that the Princes and the People will accept."
 
-ENG_Reintegrate_The_Princely_States:0 "토후국 재통합"
-ENG_Reintegrate_The_Princely_States_desc:0 "반란 이래 라자에서 가장 필수 부분인 토후국들을 재합합시다. 저들의 충성이 어디를 향해야 할지 다시 일깨워줄 필요가 있습니다."
+ENG_Reintegrate_The_Princely_States:0 "Begin the Campaign against the Reds"
+ENG_Reintegrate_The_Princely_States_desc:0 "The Hindustan Socialists are one of the more existential threats to our rule. We should prioritise their demise and re-establish the Bombay Presidency."
 
-ENG_Crush_Travancore:0 "트라방코르 분쇄"
-ENG_Crush_Travancore_desc:0 "트라방코르를 분쇄해 자라나는 라자에 통합하십시오!"
+ENG_Crush_Travancore:0 "Begin the Campaign against the Hindutva"
+ENG_Crush_Travancore_desc:0 "The Bharat Nationalists of the Hindu Mahasaba and their allies are beyond reason. They envision a united Greater India under Hindu republican rule. This pseudo-religious fantasy must be stamped out."
 
-ENG_Destroy_Theosophy:0 "신지학회 훼멸"
-ENG_Destroy_Theosophy_desc:0 "지금 인도의 일부를 통치하는 수도회를 분쇄하고 라자로 흡수할 것입니다!"
+ENG_Destroy_Theosophy:0 "Begin the Campaign against the Congress"
+ENG_Destroy_Theosophy_desc:0 "The Indian National Congress is the mother of the independence movements that brought the Raj down, laced with subversive elements from the political left, the occult and more has made them dangerous, though undoubtedly the sheer size of their organisation means that some are not beyond negotiation, we will see who is left standing once we lay their army low."
 
 ENG_Operation_Ethelred:0 "에설레드 작전"
-ENG_Operation_Ethelred_desc:0 "에설레드 작전으로 전 라자를 다시금 우리 통제 아래 두도록 할 것입니다."
+ENG_Operation_Ethelred_desc:0 "So begins Operation Ethelred, the final move to break the remaining Indian holdouts and unite the nation once more."
 
 ENG_Restore_The_Raj:0 "라자 회복"
-ENG_Restore_The_Raj_desc:0 "이제 우리의 인도 식민지, 라자를 회복할 수 있습니다! 인도 황제께 경배를!"
+ENG_Restore_The_Raj_desc:0 "With the conquest complete the Raj can now be formally restored under the new Dominion of India system. Pray that it hold firm this time."
 
 
-ENG_Fortify_Calais:0 "칼레 요새화"
-ENG_Fortify_Calais_desc:0 "우리의 두 번째 지브롤터인 칼레는 아방가르드 괴짜들이 마음만 먹는다면 점령당하기 좋은 곳입니다. 도시를 요새화해 가능한 한 차지할 수 없게 만들 것입니다."
+ENG_Fortify_Calais:0 "Western Strategy"
+ENG_Fortify_Calais_desc:0 "The situation in Europe is dire, and the Americans are an unreliable force, we must take steps to secure ourselves and our allies."
 
 ENG_The_Channel_Wall:0 "채널 방벽"
-ENG_The_Channel_Wall_desc:0 "채널 방벽은 우리의 취약점에서 넘어올 침공에게서 잉글랜드를 보호할 거대하고 중요한 건축물입니다."
+ENG_The_Channel_Wall_desc:0 "The Channel Wall is a new air, land and naval project to maintain British dominance in the narrow passage. Fortifications in Calais and Kent, increased naval presence and new air bases to give the RAF full coverage of the region."
 
-ENG_Support_Stable_Governments:0 "안정정부 지지"
-ENG_Support_Stable_Governments_desc:0 "완전한 광기에 빠져들지 않은 나라라면 그게 누구든 우리의 친구입니다."
+ENG_Support_Stable_Governments:0 "The Concert of Europe"
+ENG_Support_Stable_Governments_desc:0 "The balance of power in Europe has often been beyond the concern of Westminster. In times like these such ignorance is suicidal. We must take heed of current events and look to stabilise Europe."
 
-ENG_Guarantee_The_Netherlands:0 "네덜란드 보장"
-ENG_Guarantee_The_Netherlands_desc:0 "프랑스와 독일은 허기진 광견병 마냥 네덜란드를 바라보고 있습니다. 우리가 네덜란드 친구들을 보호할 것입니다."
+ENG_Guarantee_The_Netherlands:0 "The Dutch Wedge"
+ENG_Guarantee_The_Netherlands_desc:0 "Caught between a rock and hard place, the Netherlands is eyed with suspicion by France and Germany, who would both see it as a means to gain an advantage over the other in the coming conflict. For their part, the Dutch have played both sides so far, we must ensure that they do not sawy too far one way or the other."
 
-ENG_Encircle_France:0 "프랑스 포위"
-ENG_Encircle_France_desc:0 "전 유럽의 수호를 위하여, 프랑스의 실성은 반드시 억눌리고 근절되어야 합니다."
+ENG_Encircle_France:0 "French Containment Strategy"
+ENG_Encircle_France_desc:0 "The spectre of futurist revolution and avant-garde politics haunts Europe, as the French begin to make their intentions clear, we must be ready to cut off their path of advance."
 
-ENG_Guarantee_Swiss_Neutrality:0 "스위스 중립 보장"
-ENG_Guarantee_Swiss_Neutrality_desc:0 "오랫동안 중립을 유지해온 스위스가 앞으로도 그럴 수 있도록 할 것입니다."
+ENG_Guarantee_Swiss_Neutrality:0 "Iberian Interference"
+ENG_Guarantee_Swiss_Neutrality_desc:0 "War in Spain is an opportunity, not only to see our foes in action, but to prevent their successes. We should prepare to sway the war in favour of those most amenable to our goals."
 
-ENG_Lisbon_Accords:0 "리스본 합의"
-ENG_Lisbon_Accords_desc:0 "The Lisbon Accords will, if ratified, invite Portugal into our alliance, and thus help secure routes into the Mediterranean should we go to war with a European power."
+ENG_Lisbon_Accords:0 "The Oldest Alliance"
+ENG_Lisbon_Accords_desc:0 "For centuries now Portugal and England have been allies, the relationship extended through the colonial period to today where both Britain and Portugal stand atop vast lands. Yet both have experienced decline, perhaps the time is now to renew our bonds of fellowship."
 
-ENG_The_Italian_Pact:0 "이탈리아 협약"
-ENG_The_Italian_Pact_desc:0 "이탈리아와의 협약은 대륙 세력과의 단결이라는 유럽에서의 우리 목표에 매우 중요합니다."
+ENG_The_Italian_Pact:0 "The Soft Underbelly"
+ENG_The_Italian_Pact_desc:0 "The threat from Fiume is great, the League Solar promises to bring the weight of Italia to bear against the old order, yet Italy also represents a chance to strike at the League from the South, the naval strength we can wield in the Mediterranean will be cause for great concern to the League."
 
 ENG_The_Calais_Blitz:0 "칼레 전격"
 ENG_The_Calais_Blitz_desc:0 "칼레는 대 프랑스 강습을 가하기 위한 최적의 작전기지입니다. 이 연극을 끝내고 단번에 프랑스 아방가르드국을 쳐부술 때가 왔습니다. 왕과 나라를 위하여, 앞으로오오 가아아앗!!!"
 
-ENG_Reinforce_The_Straits_Commission:0 "해협 강화"
-ENG_Reinforce_The_Straits_Commission_desc:0 ""
+ENG_Guarantee_Denmark:0 "The Northern Front"
+ENG_Guarantee_Denmark_desc:0 ""
 
-ENG_Guarantee_Denmark:0 "덴마크 보장"
-ENG_Guarantee_Denmark_desc:0 "Denmark is a essential nation in stopping Germanys expansion, we should guarantee their independence and freedom so they will survive into the future."
+ENG_Anti_International_Pact:0 "Break the Norwegian Ice"
+ENG_Anti_International_Pact_desc:0 ""
 
-ENG_Anti_International_Pact:0 "반인터내셔널 협약"
-ENG_Anti_International_Pact_desc:0 "The Internatiol is a global pact ready to destroy all free thinking nations, we should invite the free nations of the world into a pact to oppose further German aggression."
+ENG_Invite_The_Exiles:0 "To Aid Our Old Enemies?"
+ENG_Invite_The_Exiles_desc:0 "Austria and Prussia are remnants of the old regimes that we defeated in the Great War. Times have changed however, and now the represent a means of ending the red menace in Europe. Aiding their cause could be a boon for us all."
 
-ENG_Invite_The_Exiles:0 "추방자 초청"
-ENG_Invite_The_Exiles_desc:0 "오스트리아와 프로이센은 우리가 대전쟁에서 꺾었던 구체제의 잔존자들입니다. 하지만 때가 바뀌면서 독일 코뮌을 축출하기 위한 동맹에서 이들을 빼놓는다는 것은 어림도 없는 일이 되었습니다."
+ENG_Stockholm_Summit:0 "A Friend on the Baltic"
+ENG_Stockholm_Summit_desc:0 "The Lion of the North, Sweden has for almost 20 years now combated communist influence in Scandinavia, most imporantly in Norway. The Stockholm Summit will turn our growing respect for each other into an alliance of protection. Should harm come to the Swedes, we will stand ready, should Britannia be attacked by the reds, Sweden will stand by us."
 
-ENG_Stockholm_Summit:0 "스톡홀름 정상회담"
-ENG_Stockholm_Summit_desc:0 "북방의 사자, 스웨덴은 스칸디나비아의 공산주의 영향, 특히 북대서양 코뮌과 10년 넘게 싸워왔습니다. The Stockholm summit will turn our growing respect for each other into a full blown alliance, while Swedish neutrality may initally stop this, the worlds changing and the Swedes may have changed too."
-
-ENG_Polish_Allies:0 "폴란드 동맹"
-ENG_Polish_Allies_desc:0 "A Pact with the Polish will be vital to our goals in Europe, to unite the powers of the continent and oppose German aggresion against one of the strongest alliances on the Continent."
+ENG_Polish_Allies:0 "Ensure Polish Neutrality"
+ENG_Polish_Allies_desc:0 "Poland and their Intermarium project have made a major shift in the balance of power and politics in Eastern Europe. The Russians have been driven East, at least for a time, meanwhile Berlin has gained a valuable friendly bloc on its borders. The Warsaw Treaty has made the matter of Polish neutrality to Germany an uneasy issue for us. We cannot hope to defeat Germany if they have the Intermarium at their back, such a thing would drive us to seek an accord with the Russians who are in no fit state to do so. We must attmept to keep Warsaw neutral."
 
 ENG_Destroy_The_Cradle:0 "요람 파괴"
-ENG_Destroy_The_Cradle_desc:0 "The International is a threat to all free thinking Englishmen across the world, its time for the cradle of the revolution to be snuffed out and the Berlin regime to be toppled again. We beat them before, we can do it again!"
+ENG_Destroy_The_Cradle_desc:0 "The Rotfront is a threat to all free thinking Englishmen across the world, its time for the cradle of the revolution to be snuffed out and the Berlin regime to be toppled again. We beat them before, we can do it again!"
 
 ENG_Fortify_New_Brunswick:0 "뉴 브런즈윅 요새화"
 ENG_Fortify_New_Brunswick_desc:0 "New Brunswick is a vital part of the trade between the Dominion of Canada and the rest of the Commonwealth. In the event of a war, it is vital it is defended."
 
 ENG_Build_Special_Relationship:0 "특별관계 수립"
-ENG_Build_Special_Relationship_desc:0 "Ah, the United States – Our wayward colony turned into a quite sizable economic force. We shouldn't be bitter with them, we should simply move forwards in a special relationship."
+ENG_Build_Special_Relationship_desc:0 "The United States of America – Our wayward colony turned into a quite sizable economic force. We shouldn't be bitter with them, we should simply move forwards in a special relationship."
 
 ENG_Diplomatic_Talks:0 "외교대담"
 ENG_Diplomatic_Talks_desc:0 "Talks with the United States to improve relations and strengthen ties will be vital the new order we're building."
@@ -982,44 +984,41 @@ ENG_Alliance_With_Mexico_desc:0 "Strike the underbelly of America, slice it open
 ENG_Operation_Jormungandr:0 "요르문간드르 작전"
 ENG_Operation_Jormungandr_desc:0 "The British Empire shall encircle the world! On our lands, from Wales to Washington, the sun shall never set! March on Washington Men and end this American Charade once and for all."
 
-ENG_Fortify_Hong_Kong:0 "홍콩 요새화"
-ENG_Fortify_Hong_Kong_desc:0 "Hong Kong is out jewel in the East, a trade centre that allows us to dominate the areas around it. It must be protected"
+ENG_Fortify_Hong_Kong:0 "Asia-Pacific Strategy"
+ENG_Fortify_Hong_Kong_desc:0 "As tensions ramp up in the Far East, important colonial holdings such as Hong Kong and Singapore come under threat, we must take steps to defend ourselves."
 
-ENG_Singapore_Strategy:0 "싱가포르 전략"
-ENG_Singapore_Strategy_desc:0 "싱가포르는 그 의미가 막중한 도시로, between one of the few straits one may pass through to reach East Asia. 도시는 우리 계획들의 중심이 되어야 합니다."
+ENG_Singapore_Strategy:0 "Fortify the Pacific"
+ENG_Singapore_Strategy_desc:0 "A series of fortifications in our Pacific cities and islands will be a strong step towards keeping foreign invaders out."
 
-ENG_Defences_In_Borneo:0 "보르네오 방위"
-ENG_Defences_In_Borneo_desc:0 "중요한 도시인 보르네오를 지켜내야 합니다. 해협 통제권은 뛰어들 동아시아 전쟁에서 생사를 가르는 요소입니다."
+ENG_Defences_In_Borneo:0 "Expanding the Rubber Trade"
+ENG_Defences_In_Borneo_desc:0 "Rubber extraction is a vital part of our Malayan economy, as demand skyrockets from rubber products, we can build up Malaya's economy and defences in turn."
 
-ENG_Fortifications_In_Singapore:0 "싱가포르 요새화"
+ENG_Fortifications_In_Singapore:0 "Defending the Straits of Malaccas"
 ENG_Fortifications_In_Singapore_desc:0 "Singapore must be defended, built up, made to be a target so unappealing to any predator that it is left alone."
 
-ENG_Malayan_Chindits:0 "말레이 친디트군"
+ENG_Malayan_Chindits:0 "Chindits, Jungle Warfare and You"
 ENG_Malayan_Chindits_desc:0 "말레이인들은 숲과 밀림에서 어떻게 싸우는지, 어떻게 살아남는지 알고 있습니다. 적의 전열 뒤에서 말레이인 부대는 놈들을 치거나 보급선을 끊어버릴 수 있으며, 우리 전열과 분리된 상태에서도 몇 주 간이나 살아남을 수 있습니다."
 
-ENG_Invite_Siam:0 "시암 초청"
-ENG_Invite_Siam_desc:0 "시암을 우리 동맹으로 초청해 일본의 팽창주의와 침략에 함께 맞서도록 합시다."
+ENG_Invite_Siam:0 "Decisions in Bangkok"
+ENG_Invite_Siam_desc:0 "Siam's position is vital to anyone looking to achieve dominance in South-East Asia, their access to all of Burma, Indochina, the Indian and South China Seas makes their allegiance crucial, we should try to bring them under our wing."
 
-ENG_Sanction_Japan:0 "일본 제재"
-ENG_Sanction_Japan_desc:0 "일본이 호전광이라도 되고 싶은가 보죠? 우리 강철 없인 전차를 만들 수도, 우리 석유 없인 비행기를 굴릴 수도 없다는 걸 보여줍시다!"
+ENG_Sanction_Japan:0 "Naval Race with Japan"
+ENG_Sanction_Japan_desc:0 "The Japanese are perhaps the greatest threat to our presence in East Asia. Their plans for the Asia-Pacific region directly conflict with ours, a naval race is almost inevitable, the winner will hold the seas south of the Home Islands."
 
-ENG_Work_With_The_Chinese_Warlords:0 "군벌들과의 협업"
-ENG_Work_With_The_Chinese_Warlords_desc:0 "중국의 무정부 군벌들은... 어려운 상대죠. 굳이 말하자면요. 하지만 대일 전쟁에 있어선 유용한 동맹들이 될 겁니다."
+ENG_Work_With_The_Chinese_Warlords:0 "Aid to China"
+ENG_Work_With_The_Chinese_Warlords_desc:0 "As Japan's interest in China grows, so must ours. Few of the major actors there are favourable to us politically, but there is still opportunity to aid mutual enemies of Japan and tie down more of Tokyo's resources fighting them instead of us."
 
-ENG_Aid_The_Shanxi_Clique:0 "산서 군벌 원조"
-ENG_Aid_The_Shanxi_Clique_desc:0 "산서 군벌이 심각한 상황에 놓였습니다. 저들을 원조해 제대로 서서 침략자들을 몰아낼 수 있도록 해줘야 합니다."
+ENG_Aid_The_Shanxi_Clique:0 "Renegotiate the Concessions"
+ENG_Aid_The_Shanxi_Clique_desc:0 "Our main concessions in China remain Weihaiwei and Hong Kong, the latter is especially important as a naval and business centre. As the Chinese seek to assert themselves as the masters of their own country, including the concessions, it becomes clear that a renegotiation of their status is in order to preserve peace."
 
-ENG_Pressure_The_Dutch:0 "네덜란드 압박"
-ENG_Pressure_The_Dutch_desc:0 "인도네시아는 네덜란드의 손에 있건만, 네덜란드 것들은 지독하게도 중립을 고집하고 있습니다. 놈들의 손을 억지로 끌어올 때입니다."
+ENG_Pressure_The_Dutch:0 "Strike a Deal with the Dutch East Indies"
+ENG_Pressure_The_Dutch_desc:0 "The Dutch East Indies are eyed jealously by Japan. A vast, populous, resource rich chain of islands within reach of the Japanese navy. The threat is greater than the Dutch like to believe. We will offer them aid in their protection, for a fee."
 
-ENG_Naval_Exercises_In_East_China_Sea:0 "동중국해에서의 해상훈련"
-ENG_Naval_Exercises_In_East_China_Sea_desc:0 "일본 놈들에게 우리 해군전력이 우위에 있음을 확실히 보여줍시다. 함대훈련을 개시합니다."
+ENG_Send_The_Ultimatum:0 "The Spectre of Imperialism"
+ENG_Send_The_Ultimatum_desc:0 "Our colonial adventures in Asia have been at once a great boon and a source of problems. As backlash to imperialism sweeps China and grows in South East Asia, the future looms. Will we be the liberators or the subjugators?"
 
-ENG_Send_The_Ultimatum:0 "최후통첩 전달"
-ENG_Send_The_Ultimatum_desc:0 "일본에게 활동을 중지하고, 팽창주의를 멈추고, 식민지들을 포기하라 요구합시다! 놈들은 너무 나갔습니다!"
-
-ENG_Death_To_The_Samurai:0 "사무라이에게 죽음을"
-ENG_Death_To_The_Samurai_desc:0 "사무라이에게 죽음을! 놈들의 만년제국은 결코 과실을 맺을 수 없을 것이니, 우리 손으로 그리 만들 것입니다!"
+ENG_Death_To_The_Samurai:0 "Challenege Japanese Hegemony"
+ENG_Death_To_The_Samurai_desc:0 "The final confrontation with Japan approaches, they must back down from their colonial ambitions or face the wrath of the Royal Navy."
 
 #Events
 eng.1.t:0 "영국의 역사"
@@ -1223,7 +1222,6 @@ eng.48.d:0 "영국과 커먼웰스 동맹들이 아시아 내에서의 팽창을
 eng.48.a:0 "알았다, 앵글 놈아."
 eng.48.b:0 "그럴쏘냐! 양놈은 아시아 일에서 손을 떼라."
 
-
 eng.49.t:0 "동방의 관문"
 eng.49.d:0 "The soldiers of Britannia bled at Gallipoli, and at the end of the Great War, we oversaw the creation of the Straits Commission to ensure their sacrifice would not be in vain, and to ensure free navigation to the Black Sea. While things have worked well so far, the vile Turks greedily eye the city of Constantine - and a not-insignificant number of the residents of the Commission might wish to rejoin the state of their yokel kinsmen in Central Anatolia.\nAbsent a clear threat, the public may not be especially keen to deploy British troops to what is technically not an Imperial possession. But we would be foolish not to take steps against Turkish irredentism, especially with Russia, the other guarantor of the Commission, expressing serious signs of weakness since last November.\n Luckily, our Greek allies view the territorial integrity of the Commission - and the protection of Constantinople - as a leading p iority for their nation, and have no qualms about fighting the Turks. We need only ensure they have the means.\nAs they are rather seriously outnumbered, we should take pains to ensure they very excellent means available indeed. By selectively canceling their debts and transferring advisors and materiel, we have the ability to do just that, while also ensuring our arms manufacturers have the steady flow of orders to needed to maintain their enterprises."
 eng.49.a:0 "해협이 중요하긴 하지, 아마도."
@@ -1236,13 +1234,7 @@ eng.1000.d:0 "There have been a number of reasons why the great powers of the wo
 eng.1000.a:0 "고맙지만 사양하지."
 
 #Miscellaneous
-Commonwealth_of_Nations:0 "커먼웰스"
+Little_Entente:0 "협상국"
 ENG_CIF_LOC:0 "커먼웰스 모두를 하나로 묶을 투자기금"
 ENG_tackle_the_giant:0 "거인 메치기"
 ENG_pressure_the_dutch:0 "네덜란드 압박"
-ENG_england:0 "England"
-ENG_england_DEF:0 "England"
-ENG_england_ADJ:0 "English"
-ENG_chindits_idea:0 "Malayan Chindits"
-ENG_first_line_of_defence-desc:0 "The first line of defense against fighters are, well, fighters. Whenver the planes fight, they engage in dogfights, distracting fighters that might attack our ground forces, and buying us valuable time. Anti-air ground troops are immensely useful, but should not be relied on when fighters can do the job even better."
-Little_Entente:0 "Entente"

@@ -1,20 +1,20 @@
 ﻿l_english:
 #COUNTRY NAME#
-GRE_vanguard_socialism:0 "헬라스 사회주의 공화국"
-GRE_vanguard_socialism_DEF:0 "헬라스 사회주의 공화국"
-GRE_vanguard_socialism_ADJ:0 "헬라스"
+GRE_vanguard_socialism:0 "에게 노동 공화국 연합"
+GRE_vanguard_socialism_DEF:0 "에게 노동 공화국 연합"
+GRE_vanguard_socialism_ADJ:0 "에게"
 
-GRE_popular_socialism:0 "헬라스 공화국"
-GRE_popular_socialism_DEF:0 "헬라스 공화국"
+GRE_popular_socialism:0 "헬라스 인민공화국"
+GRE_popular_socialism_DEF:0 "헬라스 인민공화국"
 GRE_popular_socialism_ADJ:0 "헬라스"
 
 GRE_anarchism:0 "펠로폰네소스 공화국 키노폴리티아"
 GRE_anarchism_DEF:0 "펠로폰네소스 공화국 키노폴리티아"
 GRE_anarchism_ADJ:0 "펠로폰네소스"
 
-GRE_revisionist_socialism:0 "헬라스 공화국"
-GRE_revisionist_socialism_DEF:0 "헬라스 공화국"
-GRE_revisionist_socialism_ADJ:0 "헬라스"
+GRE_revisionist_socialism:0 "아헤아 사회주의 연맹"
+GRE_revisionist_socialism_DEF:0 "아헤아 사회주의 연맹"
+GRE_revisionist_socialism_ADJ:0 "아헤아"
 
 GRE_progressivism:0 "그리스 왕국"
 GRE_progressivism_DEF:0 "그리스 왕국"
@@ -40,9 +40,34 @@ GRE_reactionism:0 "그리스 왕국"
 GRE_reactionism_DEF:0 "그리스 왕국"
 GRE_reactionism_ADJ:0 "그리스"
 
-GRE_accelerationism:0 "헬라스 공화국"
-GRE_accelerationism_DEF:0 "헬라스 공화국"
+GRE_accelerationism:0 "Commune of the Cosmos"
+GRE_accelerationism_DEF:0 "the Commune of the Cosmos"
 GRE_accelerationism_ADJ:0 "헬라스"
+
+GRE_megali_liberalism:0 "헬라스 대왕국"
+GRE_megali_liberalism_DEF:0 "헬라스 대왕국"
+GRE_megali_liberalism_ADJ:0 "헬라스"
+
+GRE_megali_despotism:0 "그리스 제3 제국"
+GRE_megali_despotism_DEF:0 "그리스 제3 제국"
+GRE_megali_despotism_ADJ:0 "그리스"
+
+GRE_megali_revisionist_socialism:0 "아헤아 사회주의 연맹"
+GRE_megali_revisionist_socialism_DEF:0 "아헤아 사회주의 연맹"
+GRE_megali_revisionist_socialism_ADJ:0 "아헤아"
+
+GRE_yugo_vanguard_socialism:0 "루멜리 자유령"
+GRE_yugo_vanguard_socialism_DEF:0 "루멜리 자유령"
+GRE_yugo_vanguard_socialism_ADJ:0 "루멜리"
+
+GRE_bulgar_vanguard_socialism:0 "루멜리 자유령"
+GRE_bulgar_vanguard_socialism_DEF:0 "루멜리 자유령"
+GRE_bulgar_vanguard_socialism_ADJ:0 "루멜리"
+
+GRE_yugo_reactionism:0 "그리스 왕국"
+GRE_yugo_reactionism_DEF:0 "그리스 왕국"
+GRE_yugo_reactionism_ADJ:0 "그리스"
+
 #PARTIES#
 GRE_anarchism_party:0 "AEK"
 GRE_vanguard_socialism_party:0 "KKE (OBL)"
@@ -70,15 +95,40 @@ GRE_accelerationism_party_long:0 "미래주의-초현실주의 공산당"
 #LEADER DESCRITIONS#
 
 #IDEAS#
-GRE_economic_collapse:0 "경제붕괴"
-GRE_economic_collapse_2:0 "개선되어 가는 경제상황"
-GRE_liberal_economy:0 "자유경제"
-GRE_agricultural_subsidies_idea:0 "농업 보조금"
-GRE_tourism_boom_idea:0 "관광 호황"
-GRE_bolster_the_means_of_production_idea:0 "생산수단 확대"
-GRE_nationalization_of_the_industry_idea:0 "산업국유화"
-GRE_exploit_our_resources_idea:0 "자원 착취"
-GRE_greek_economic_miracle_idea:0 "그리스 경제기적"
+
+GRE_George_II:0 "예요르요스 2세 of Glücksburg"
+GRE_George_II_desc:0 "국왕 콘스탄디노스와 Sophia of Prussia의 장남, 1890년 출생, 1923년 대관. 예요르요스 2세는 rules in the model of his assertive father, something which caused sharp disagreements with Eleftherios Venizelos - the main face of the liberal movement in Greece. It was therefore not surprising that, after Venizelos' 1933 assassination, most liberals accused the king of complicity or outright involvement in a conspiracy. Since then, the liberals have been demanding the resignation of George and the reduction of the king's powers to a symbolic role. He has largely dismissed these calls due to the support of the ruling Conservatives, and continues on as a rock of the monarchy's stability. It remains to be seen what lengths he may go to in order to preserve that."
+
+GRE_Alexander_I:0 "알렉산드로스 of Glücksburg"
+GRE_Alexander_I_desc:0 "국왕 콘스탄디노스의 차남, 1893년 출생, 예요르요스 2세의 동생. Unlike his brother, he had a distinguished military career through the Balkan War and the Great War that followed, but his personal life would prove a greater obstacle to ruling than being born second. Marrying the femme fatale and commoner Aspasia Manos made him an enemy of the conservatives, and in turn a future "People's King" to the liberals. Having finally taken the throne, he has paid a price for their support, having Greek royal powers curtailed in a manner similar to the British. Considering it a necessary movez he has swallowed his pride in the name of national interest. Alexander often meets the government of Sofoklis Venizelos as an advisor, and even occasionally common soldiers, giving him a certain credibility as a monarch interested in Greece's future."
+
+
+GRE_anchor_of_crete:0 "Anchor of Crete"
+GRE_anchor_of_crete_desc:0 "Following the assassination of Eleftherios Venizelos in 1933, many liberals radicalized themselves in pursuit of justice. Just one soldier, associated with the radical royalist party of the Freethinkers? No, the liberals will strive to reveal the truth at all costs, even if it means radical reforms and digging into the most deeply hidden files and dossiers. The conspirator conservatives will be destroyed, in the name of the democratic dreams of the Greek martyr Venizelos."
+
+GRE_century_of_morpheus:0 "모르페우스의 세기"
+GRE_century_of_morpheus_desc:0 "The political divide in Greece is also one of foreign policy. The long-running Conservative governments have primarily focused on economic development since the end of the Great War, with this sleepy peninsula hoping for continued peace in the Balkans. This brought a wave of criticism from the Liberals and other critics of Prime Minister Dimitrios Gounaris, but he has thus far maintained that course. Gounaris' planned successor, Konstantinos Karamanlis, is seen as a sign of his vision continuing. First, economic recovery, but then preparing to expand Greece's economic influence over the entire Mediterranean Sea."
+
+GRE_man_from_high_olympus:0 "높은 올림포스에서 온 사내"
+GRE_man_from_high_olympus_desc:0 "The appointment of Prime Minister Metaxas by the King caused a surge of indignation, if not outright aggression and outrage, of citizens who expected to vote in democratic elections. Concerned at the expectations of a Liberal victory, Georgios II elevated an ardent monarchist in an effort to save himself from deposition. The proclamation of martial law across the nation and the cancellation of the upcoming elections has birthed a tense situation in Greece, but the emergency may have given Metaxas the opportunity to introduce his own political program. Can he survive the storm?"
+
+GRE_man_from_high_olympus2:0 "높은 올림포스에서 온 사내"
+GRE_man_from_high_olympus2_desc:0 "The appointment of Prime Minister Metaxas by the King caused a surge of indignation, if not outright aggression and outrage, of citizens who expected to vote in democratic elections. Concerned at the expectations of a Liberal victory, Georgios II elevated an ardent monarchist in an effort to save himself from deposition. In the end, Ioannis Metaxas did not break under the pressure of the terrorists. His proclamation of martial law allowed him to secure a dictatorship with the acquiescence of the government, both hoping to secure the country against the socialist threat hiding in its roots. The king and his faithful Prime Minister can now forge ahead in their vision without paying heed to the groans of the opposition."
+
+GRE_filiki_eteria:0 "Filiki Eteria"
+GRE_filiki_eteria_desc:0 "After the successful march on Athens, the so-called "Society of Friends" has unleashed revolutionary terror in the streets. Like in the wars for independence, the Greek people have established a government to punish tyrants. Groups of all kinds organize their own punishments against reactionaries of all kinds, even ones who may have been allies. The situation is close to anarchy, but it is predicted that one faction will eventually win enough allies to enforce a government. The fate of Metaxas and the royal family is yet to be settled, and they await their verdict until the republic is truly proclaimed."
+
+GRE_voice_from_cosmos:0 "Voice From the Cosmos"
+GRE_voice_from_cosmos_desc:0 "The most armed wing of the revolution has succeeded in empowering the true revolutionaries. A communist alliance of Futuro-Surrealists has won and redoubled their reign of terror against all that is old. A new heroic future will be created, unhindered by the petty concepts of religion and nationhood. A glorious explosion will eternalize the struggle of humanity for a better tomorrow. The revolution is born in pain but only revolution can bring daring minds and ideals to fruition. Under the guidance of the reincarnation of Robespierre M.Spierros, Greece will achieve a truly Surrealist society. The Cosmos awaits!"
+
+GRE_orpheus_song:0 "오르페우스의 노래"
+GRE_orpheus_song_desc:0 "The Neo-Orphists have risen and won the hearts and minds of the people with their melodic voice. Nikos Kazandzakis and Angelos Sikelanos bridged the factional divides of the movement with their socialism and idiosyncratic rural Christianity - many liken their religious movement to the Russian Old Believers. The new state will be a republican confederation, secured with a socialist democratic system with an emphasis on trade unions. The Neo-Orphic emphasis building national myths is immediately foregrounded, as the very name of the new Promethean Greek state refers to the Iliad, in which the brave Achaeans fought the Trojans in Anatolia."
+
+GRE_dimokratiamos:0 "Dimokratíamos"
+GRE_dimokratiamos_desc:0 "Orthodox Marxists under the leadership of unorthodox intellectuals from the KKE have seized power, countering the apostasy and degeneration of communist doctrine. Their solutions to the ills consuming Greece, however, may chart a new course. Disappointed with the work of Lenin, these communists have borrowed heavily from the work of Bogdanov in crafting their doctrine. A new democratic and communist proletarian culture will be introduced in Greece, and the Cultural Revolution will change the face of this agrarian and forgotten country into the center of workers' enlightenment. Rising chimneys and factory sirens will dominate the landscape of the new socialist society."
+
+GRE_road_to_socialism:0 "사회주의를 향한 그리스식 방도"
+GRE_road_to_socialism_desc:0 "Alexandros Svolos, the hero of democracy, socialism and Greece, not only restored her freedom, but saved her a second time from chaos, first from the tyranny of Metaxas and then from the petty squabbles of the socialists. By reaching out to the military loyalists who still cared about Greek interests, he succeeded in introducing the German model in Greece. Balancing the interests of the proletariat, farmers, and the nation, Svolos has been hailed as a hero who strives for the stable development of the land he loves. Hurrah for Svolos!"
 
 GRE_ellinikes_enoples_dynameis_idea:0 "헬라스군"
 
@@ -92,12 +142,34 @@ gre_focus_will_be_bypassed_when_statist:0 "§GThis Focus will be bypassed when w
 #DECISIONS (1.5 Update)#
 
 #EVENTS#
-GRE.1.t:0 "Katabasis"
-GRE.1.d:0 "Kazantzakis waits patiently in the serene ruins at Olympia, trying to keep his nerves from overtaking him. The day is sunny, and the sun rises high, reflecting off of small shiny areas in the stone make-up of the structure. Some distance away, in the north of the Peloponnese, a small steamer pulls into Patras, then begins to unload its passengers after it has docked. \n\nThe two foreign diplomats, after being stuck on the small ship for some time, long for fresh, lovely air on the area. They have come to Greece to discuss important matters with the Hegemon himself, Kazantzakis. They walk around the Port City for some time, taking in the sights while they look for him. Eventually, someone beckons them over, as they turn and see a man holding the door open for them. \n\nThey walk over to a car parked on the side of the road, it's interior and exterior decorated like that of a Classical Greek chariot of old, as the gold plating shines pleasantly in the light. They enter the car, and the driver begins to drive along, heading southwest along the coast. They are puzzled why he would go this way, but expect it to be a shortcut or something similar. \n\nThe driver continues driving until they reach a small village, when he stops and asks them to wait here while he does something. They are very confused about why they stopped, let alone at such a small village. The driver disappears for some time, as they wait they become bored very quickly and begin talking to locals that have come up to them. However, they notice something strange in the way they talk, using metaphors and a word choice more similar to the Greeks they have read about in university than the Greeks they have experienced in previous travels to the country."
-GRE.1.a:0 "A strange visit to be sure."
-GRE.2.t:0 "볼 만한 거리"
-GRE.2.d:0 "The driver reappears, asking for them to follow him. They, of course, oblige and begin following his lead into the forest, puzzled on why they are going this way. As they enter a clearing, they see a stone structure that dominates it, as well as several other smaller structures dotted around the field. They then hear a weird noise coming from the top of the large stone structure, and they eventually realize that it is the man they have come to see, Kazantzakis. He rushes down to greet them and inform them of the location, of which they are shocked to learn the truth about it. \n\nThey eventually make their way back to the car, and begin a drive around the peninsula. On their travels, they see several major landmarks, such as the Temple of Apollo Epicurius, Mycenae, and the shrine of Asklepios. On their travels however, they spot a strange sight in the fields they pass. It seems as if people are farming something, but it doesn't feel right in their minds. The people do not seem to carry the vigor of a normal farmhand or farmer, and seem to act more like the slaves they have heard stories about on their travels to the new world. They question Kazantzakis about these supposed slaves, but he brushes off their questions and announces their plans for the night, which is a showing of a Classical Greek play in Athens. \n\nTheir travels in the peninsula, as one would expect, eventually lead them out of it and into the city of Athens itself. Standing as a stark contrast to the turquoise blue waters of the Aegean is a city of white marble, which shines in the light of the late afternoon. They continue in the car until they reach a building that doesn't even appear to be open, but loud noises can be heard emanating from within. Confused, the diplomats enter, cautious of what might occur. \n\nThe three men are pleasantly surprised when they enter, hearing the clear voices of the actors permeating around them, filling their ears with pure splendor. They quickly file in and fill the seats that were assigned to them near the front, as everyone around looks to be excited for what is about to happen, including Kazantzakis. As they begin to watch, the actor playing Pentheus is dragged out screaming by a gaggle of women on stage, including the actress playing his mother, and is ripped apart, limb from limb, in front of the two diplomats and Kazantzakis. His blood and pieces of flesh fall onto the two shocked men, as his screams fill the theatre with a sense of pure pain and agony. As the actor slumps down, unmoving, everyone erupts into applause. Everyone, that is, except the two diplomats, who sit in silent horror and shock at the event, and begin to feel incredibly nauseous and disgusted. As the people demand an encore from the blood soaked women on stage, they proclaim they have no more actors available, and that they must take a volunteer or two from the crowd. As the words leave her lips, the two diplomats begin to worry even more than they were before, as everyone's eyes, including Kazantzakis', begin staring at them gleefully."
-GRE.2.a:0 "The show must go on!"
+GRE.1.t:0 "1937년 그리스 선거"
+GRE.1.desc:0 "Pick your illness"
+GRE.1.a:0 "Conservatives"
+GRE.1.b:0 "Liberals"
+GRE.1.c:0 "Metaxas"
+
+GRE.2.t:0 "Revolution afoot?"
+GRE.2.desc:0 "Metaxas you better watch out"
+GRE.2.a:0 "Nah its good"
+GRE.2.b:0 "Uh oh"
+
+GRE.3.t:0 "The Greek Socialist Congress"
+GRE.3.desc:0 "Pick your autism"
+GRE.3.a:0 "Orphists"
+GRE.3.b:0 "Surrealists"
+GRE.3.c:0 "Svolos"
+GRE.3.d:0 "Leninists"
+
+GRE.4.t:0 "Greco-Turkish War"
+GRE.4.desc:0 "Let's bash our heads into the Bosporus"
+GRE.4.a:0 "Sure thing"
+
+GRE.901.t:0 "Katabasis"
+GRE.901.desc:0 "Kazantzakis waits patiently in the serene ruins at Olympia, trying to keep his nerves from overtaking him. The day is sunny, and the sun rises high, reflecting off of small shiny areas in the stone make-up of the structure. Some distance away, in the north of the Peloponnese, a small steamer pulls into Patras, then begins to unload its passengers after it has docked. \n\nThe two foreign diplomats, after being stuck on the small ship for some time, long for fresh, lovely air on the area. They have come to Greece to discuss important matters with the Hegemon himself, Kazantzakis. They walk around the Port City for some time, taking in the sights while they look for him. Eventually, someone beckons them over, as they turn and see a man holding the door open for them. \n\nThey walk over to a car parked on the side of the road, it's interior and exterior decorated like that of a Classical Greek chariot of old, as the gold plating shines pleasantly in the light. They enter the car, and the driver begins to drive along, heading southwest along the coast. They are puzzled why he would go this way, but expect it to be a shortcut or something similar. \n\nThe driver continues driving until they reach a small village, when he stops and asks them to wait here while he does something. They are very confused about why they stopped, let alone at such a small village. The driver disappears for some time, as they wait they become bored very quickly and begin talking to locals that have come up to them. However, they notice something strange in the way they talk, using metaphors and a word choice more similar to the Greeks they have read about in university than the Greeks they have experienced in previous travels to the country."
+GRE.901.a:0 "A strange visit to be sure."
+GRE.902.t:0 "Quite The Show"
+GRE.902.d:0 "The driver reappears, asking for them to follow him. They, of course, oblige and begin following his lead into the forest, puzzled on why they are going this way. As they enter a clearing, they see a stone structure that dominates it, as well as several other smaller structures dotted around the field. They then hear a weird noise coming from the top of the large stone structure, and they eventually realize that it is the man they have come to see, Kazantzakis. He rushes down to greet them and inform them of the location, of which they are shocked to learn the truth about it. \n\nThey eventually make their way back to the car, and begin a drive around the peninsula. On their travels, they see several major landmarks, such as the Temple of Apollo Epicurius, Mycenae, and the shrine of Asklepios. On their travels however, they spot a strange sight in the fields they pass. It seems as if people are farming something, but it doesn't feel right in their minds. The people do not seem to carry the vigor of a normal farmhand or farmer, and seem to act more like the slaves they have heard stories about on their travels to the new world. They question Kazantzakis about these supposed slaves, but he brushes off their questions and announces their plans for the night, which is a showing of a Classical Greek play in Athens. \n\nTheir travels in the peninsula, as one would expect, eventually lead them out of it and into the city of Athens itself. Standing as a stark contrast to the turquoise blue waters of the Aegean is a city of white marble, which shines in the light of the late afternoon. They continue in the car until they reach a building that doesn't even appear to be open, but loud noises can be heard emanating from within. Confused, the diplomats enter, cautious of what might occur. \n\nThe three men are pleasantly surprised when they enter, hearing the clear voices of the actors permeating around them, filling their ears with pure splendor. They quickly file in and fill the seats that were assigned to them near the front, as everyone around looks to be excited for what is about to happen, including Kazantzakis. As they begin to watch, the actor playing Pentheus is dragged out screaming by a gaggle of women on stage, including the actress playing his mother, and is ripped apart, limb from limb, in front of the two diplomats and Kazantzakis. His blood and pieces of flesh fall onto the two shocked men, as his screams fill the theatre with a sense of pure pain and agony. As the actor slumps down, unmoving, everyone erupts into applause. Everyone, that is, except the two diplomats, who sit in silent horror and shock at the event, and begin to feel incredibly nauseous and disgusted. As the people demand an encore from the blood soaked women on stage, they proclaim they have no more actors available, and that they must take a volunteer or two from the crowd. As the words leave her lips, the two diplomats begin to worry even more than they were before, as everyone's eyes, including Kazantzakis', begin staring at them gleefully."
+GRE.902.a:0 "The show must go on!"
 
 #FOCUSES#
 GRE_economic_catasthrope:0 "가장 거대한 재해"
@@ -381,59 +453,3 @@ GRE_legacy_reclaimed:0 "되찾은 유산"
 GRE_legacy_reclaimed_desc:0 " "
 GRE_greece_on_the_world_stage:0 "세계 무대에서의 그리스"
 GRE_greece_on_the_world_stage_desc:0 " "
-GRE_megali_liberalism:0 "Megali Kingdom of Hellas"
-GRE_megali_liberalism_DEF:0 "the Megali Kingdom of Hellas"
-GRE_megali_liberalism_ADJ:0 "Hellenic"
-GRE_megali_despotism:0 "Third Greek Empire"
-GRE_megali_despotism_DEF:0 "the Third Greek Empire"
-GRE_megali_despotism_ADJ:0 "Greek"
-GRE_megali_revisionist_socialism:0 "Achaean Socialist Confederacy"
-GRE_megali_revisionist_socialism_DEF:0 "the Achaean Socialist Confederacy"
-GRE_megali_revisionist_socialism_ADJ:0 "Achaean"
-GRE_yugo_vanguard_socialism:0 "Free Country of Roúmeli"
-GRE_yugo_vanguard_socialism_DEF:0 "the Free Country of Roúmeli"
-GRE_yugo_vanguard_socialism_ADJ:0 "Roúmelian"
-GRE_bulgar_vanguard_socialism:0 "Free Country of Roúmeli"
-GRE_bulgar_vanguard_socialism_DEF:0 "the Free Country of Roúmeli"
-GRE_bulgar_vanguard_socialism_ADJ:0 "Roúmelian"
-GRE_yugo_reactionism:0 "Kingdom of Greece"
-GRE_yugo_reactionism_DEF:0 "the Kingdom of Greece"
-GRE_yugo_reactionism_ADJ:0 "Greek"
-GRE_anchor_of_crete:0 "Anchor of Crete"
-GRE_anchor_of_crete_desc:0 "Following the assassination of Venizelos in 1933, many liberals radicalized themselves in pursuit of justice. Just one soldier, associated with the radical royalist party of the Freethinkers? No, the liberals will strive to reveal the truth at all costs, even if it means radical reforms and digging into the most deeply hidden files and dossiers. The conspirator conservatives will be destroyed, in the name of the democratic dreams of the Greek martyr Venizelos."
-GRE_century_of_morpheus:0 "Century of Morpheus"
-GRE_century_of_morpheus_desc:0 "The political divide in Greece is also one of foreign policy. The long-running Conservative governments have primarily focused on economic development since the end of the Great War, with this sleepy peninsula hoping for continued peace in the Balkans. This brought a wave of criticism from the Liberals and other critics of Prime Minister Dimitrios Gounaris, but he has thus far maintained that course. Gounaris' planned successor, Konstantinos Karamanlis, is seen as a sign of his vision continuing. First, economic recovery, but then preparing to expand Greece's economic influence over the entire Mediterranean Sea."
-GRE_man_from_high_olympus:0 "The Man From High Olympus"
-GRE_man_from_high_olympus_desc:0 "The appointment of Prime Minister Metaxas by the King caused a surge of indignation, if not outright aggression and outrage, of citizens who expected to vote in democratic elections. Concerned at the expectations of a Liberal victory, Georgios II elevated an ardent monarchist in an effort to save himself from deposition. The proclamation of martial law across the nation and the cancellation of the upcoming elections has birthed a tense situation in Greece, but the emergency may have given Metaxas the opportunity to introduce his own political program. Can he survive the storm?"
-GRE_man_from_high_olympus2:0 "The Man From High Olympus"
-GRE_man_from_high_olympus2_desc:0 "The appointment of Prime Minister Metaxas by the King caused a surge of indignation, if not outright aggression and outrage, of citizens who expected to vote in democratic elections. Concerned at the expectations of a Liberal victory, Georgios II elevated an ardent monarchist in an effort to save himself from deposition. In the end, Ioannis Metaxas did not break under the pressure of the terrorists. His proclamation of martial law allowed him to secure a dictatorship with the acquiescence of the government, both hoping to secure the country against the socialist threat hiding in its roots. The king and his faithful Prime Minister can now forge ahead in their vision without paying heed to the groans of the opposition."
-GRE_filiki_eteria:0 "Filiki Eteria"
-GRE_filiki_eteria_desc:0 "After the successful march on Athens, the so-called "Society of Friends" has unleashed revolutionary terror in the streets. Like in the wars for independence, the Greek people have established a government to punish tyrants. Groups of all kinds organize their own punishments against reactionaries of all kinds, even ones who may have been allies. The situation is close to anarchy, but it is predicted that one faction will eventually win enough allies to enforce a government. The fate of Metaxas and the royal family is yet to be settled, and they await their verdict until the republic is truly proclaimed."
-GRE_voice_from_cosmos:0 "Voice From the Cosmos"
-GRE_voice_from_cosmos_desc:0 "The most armed wing of the revolution has succeeded in empowering the true revolutionaries. A communist alliance of Futuro-Surrealists has won and redoubled their reign of terror against all that is old. A new heroic future will be created, unhindered by the petty concepts of religion and nationhood. A glorious explosion will eternalize the struggle of humanity for a better tomorrow. The revolution is born in pain but only revolution can bring daring minds and ideals to fruition. Under the guidance of the reincarnation of Robespierre M.Spierros, Greece will achieve a truly Surrealist society. The Cosmos awaits!"
-GRE_orpheus_song:0 "Orpheus' Song"
-GRE_orpheus_song_desc:0 "The Neo-Orphists have risen and won the hearts and minds of the people with their melodic voice. Nikos Kazandzakis and Angelos Sikelanos bridged the factional divides of the movement with their socialism and idiosyncratic rural Christianity - many liken their religious movement to the Russian Old Believers. The new state will be a republican confederation, secured with a socialist democratic system with an emphasis on trade unions. The Neo-Orphic emphasis building national myths is immediately foregrounded, as the very name of the new Promethean Greek state refers to the Iliad, in which the brave Achaeans fought the Trojans in Anatolia."
-GRE_dimokratiamos:0 "Dimokratíamos"
-GRE_dimokratiamos_desc:0 "Orthodox Marxists under the leadership of unorthodox intellectuals from the KKE have seized power, countering the apostasy and degeneration of communist doctrine. Their solutions to the ills consuming Greece, however, may chart a new course. Disappointed with the work of Lenin, these communists have borrowed heavily from the work of Bogdanov in crafting their doctrine. A new democratic and communist proletarian culture will be introduced in Greece, and the Cultural Revolution will change the face of this agrarian and forgotten country into the center of workers' enlightenment. Rising chimneys and factory sirens will dominate the landscape of the new socialist society."
-GRE_road_to_socialism:0 "Greek Road to Socialism"
-GRE_road_to_socialism_desc:0 "Alexandros Svolos, the hero of democracy, socialism and Greece, not only restored her freedom, but saved her a second time from chaos, first from the tyranny of Metaxas and then from the petty squabbles of the socialists. By reaching out to the military loyalists who still cared about Greek interests, he succeeded in introducing the German model in Greece. Balancing the interests of the proletariat, farmers, and the nation, Svolos has been hailed as a hero who strives for the stable development of the land he loves. Hurrah for Svolos!"
-GRE.1.desc:0 "Pick your illness"
-GRE.1.b:0 "Liberals"
-GRE.1.c:0 "Metaxas"
-GRE.2.desc:0 "Metaxas you better watch out"
-GRE.2.b:0 "Uh oh"
-GRE.3.t:0 "The Greek Socialist Congress"
-GRE.3.desc:0 "Pick your autism"
-GRE.3.a:0 "Orphists"
-GRE.3.b:0 "Surrealists"
-GRE.3.c:0 "Svolos"
-GRE.3.d:0 "Leninists"
-GRE.4.t:0 "Greco-Turkish War"
-GRE.4.desc:0 "Let's bash our heads into the Bosporus"
-GRE.4.a:0 "Sure thing"
-GRE.901.t:0 "Katabasis"
-GRE.901.desc:0 "Kazantzakis waits patiently in the serene ruins at Olympia, trying to keep his nerves from overtaking him. The day is sunny, and the sun rises high, reflecting off of small shiny areas in the stone make-up of the structure. Some distance away, in the north of the Peloponnese, a small steamer pulls into Patras, then begins to unload its passengers after it has docked. \n\nThe two foreign diplomats, after being stuck on the small ship for some time, long for fresh, lovely air on the area. They have come to Greece to discuss important matters with the Hegemon himself, Kazantzakis. They walk around the Port City for some time, taking in the sights while they look for him. Eventually, someone beckons them over, as they turn and see a man holding the door open for them. \n\nThey walk over to a car parked on the side of the road, it's interior and exterior decorated like that of a Classical Greek chariot of old, as the gold plating shines pleasantly in the light. They enter the car, and the driver begins to drive along, heading southwest along the coast. They are puzzled why he would go this way, but expect it to be a shortcut or something similar. \n\nThe driver continues driving until they reach a small village, when he stops and asks them to wait here while he does something. They are very confused about why they stopped, let alone at such a small village. The driver disappears for some time, as they wait they become bored very quickly and begin talking to locals that have come up to them. However, they notice something strange in the way they talk, using metaphors and a word choice more similar to the Greeks they have read about in university than the Greeks they have experienced in previous travels to the country."
-GRE.901.a:0 "A strange visit to be sure."
-GRE.902.t:0 "Quite The Show"
-GRE.902.d:0 "The driver reappears, asking for them to follow him. They, of course, oblige and begin following his lead into the forest, puzzled on why they are going this way. As they enter a clearing, they see a stone structure that dominates it, as well as several other smaller structures dotted around the field. They then hear a weird noise coming from the top of the large stone structure, and they eventually realize that it is the man they have come to see, Kazantzakis. He rushes down to greet them and inform them of the location, of which they are shocked to learn the truth about it. \n\nThey eventually make their way back to the car, and begin a drive around the peninsula. On their travels, they see several major landmarks, such as the Temple of Apollo Epicurius, Mycenae, and the shrine of Asklepios. On their travels however, they spot a strange sight in the fields they pass. It seems as if people are farming something, but it doesn't feel right in their minds. The people do not seem to carry the vigor of a normal farmhand or farmer, and seem to act more like the slaves they have heard stories about on their travels to the new world. They question Kazantzakis about these supposed slaves, but he brushes off their questions and announces their plans for the night, which is a showing of a Classical Greek play in Athens. \n\nTheir travels in the peninsula, as one would expect, eventually lead them out of it and into the city of Athens itself. Standing as a stark contrast to the turquoise blue waters of the Aegean is a city of white marble, which shines in the light of the late afternoon. They continue in the car until they reach a building that doesn't even appear to be open, but loud noises can be heard emanating from within. Confused, the diplomats enter, cautious of what might occur. \n\nThe three men are pleasantly surprised when they enter, hearing the clear voices of the actors permeating around them, filling their ears with pure splendor. They quickly file in and fill the seats that were assigned to them near the front, as everyone around looks to be excited for what is about to happen, including Kazantzakis. As they begin to watch, the actor playing Pentheus is dragged out screaming by a gaggle of women on stage, including the actress playing his mother, and is ripped apart, limb from limb, in front of the two diplomats and Kazantzakis. His blood and pieces of flesh fall onto the two shocked men, as his screams fill the theatre with a sense of pure pain and agony. As the actor slumps down, unmoving, everyone erupts into applause. Everyone, that is, except the two diplomats, who sit in silent horror and shock at the event, and begin to feel incredibly nauseous and disgusted. As the people demand an encore from the blood soaked women on stage, they proclaim they have no more actors available, and that they must take a volunteer or two from the crowd. As the words leave her lips, the two diplomats begin to worry even more than they were before, as everyone's eyes, including Kazantzakis', begin staring at them gleefully."
-GRE.902.a:0 "The show must go on!"

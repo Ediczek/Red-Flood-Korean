@@ -1,7 +1,7 @@
 ﻿l_english:
 #COUNTRY NAMES#
 
-ASY_DESC_MENU:0 "러시아 제국의 퇴각한 캅카스군이 설립한 아시리아는 러시아인, 아시리아인, 기타 기독교인들이 지배하는 국가이자, 비기독교인 인구에겐 실질적인 정치대표권이 주어지지 않는 곳입니다. 국가구조로서의 나약함에도 아시리아는 평화롭고 상당히 발전된 편입니다. 아시리아의 총대주교 쉬문 21세 에샤이는 오스만군이 앗아갔던 아시리아인들의 민족성을 지켜내고 있으며, 앞으로도 그렇길 바랍니다."
+ASY_DESC_MENU:0 "Born under Allied auspices after the idea of a united Euphrates valley was rejected, the Assyrian State is Europe's gift to the many Christian denominations that rose in arms against the Ottoman Empire during the Great War. Although notably underdeveloped save for spare British and Russian backed relief and investment, it enjoys a harmonious tribal society overseen by the Patriarch of the Church of the East, His Holiness Shimun XIX. This theocratic stagnancy has recently come under attack by modernising efforts from within, and now Communists, religious reformers, and Generalissimo Petros await for a chance to bring Assyrians into the 20th century before a foreign power does it themselves."
 
 #PARTIES#
 ASY_vanguard_socialism_party:0 "GSA"
@@ -216,7 +216,7 @@ ASY_democracy_DEF:0 "아시리아 공화국"
 ASY_democracy_ADJ:0 "아시리아"
 #EVENTS#
 asy.1.title:0 "때는 밤이었노라"
-asy.1.desc:0 "중동의 산악민족, 그 중에서도 학카리의 역사적 중심 위로 내린 가장 어두운 밤, 어리고도 오랜 민족의 지도자가 그곳에 앉아있었습니다. 마르 쉬문 19세 베냐민, 아시리아 동방교회 총대주교이자 인생을 교회와 민족에게 봉헌한 종교인, 남쪽의 쿠르드 민족주의자들과 북쪽의 터키 복수주의자들이 가져올 죽음에서 가까스로 벗어난 사내였습니다. 그는 언제나 삶과 죽음의 끝자락에 있었습니다. 이제 59세가 된 그는, 도시 폐허의 오래된 아시리아 교회였던 현지 정부청사에서 바깥을 바라보며 홍차를 마시고 있습니다. 차를 마시기엔 적절한 시간이 아니라 해도, 베냐민은 내일 아침엔 차 맛을 느끼지 못할 것 같았습니다. 차가운 밤에 베냐민은 거대한 달을 바라보았습니다. 사람의 아들께서 두 개의 본성 속에 천상에서 내려올 적에 밤하늘에서 내려온 구름들이 천천히, 조심스레 그리스도의 손에 새겨진 두 개의 상처를 드러내셨습니다. 그분의 가림막 속에 베냐민은 있었습니다. 그리곤 천천히, 앉아있던 중정을 떠나듯, 다른 것들을 향한 주의는 베냐민을 떠났습니다. 삶의 경계에서 천국의 대문에 도달하며 느낀 황홀은 비할 데 없었습니다. 뜨인 베냐민의 두 눈 앞으로 천국이 있었습니다. 고대의 왕좌들에서부터 시작돼 천국의 문 앞에 선 베냐민에게 하느님의 왕국으로 들 것을 권하는 놀라운 천사 같은 노래가, 하늘의 위대한 헤루빔에게서 들려오며 오로지 베냐민의 귀를 채웠습니다."
+asy.1.desc:0 "중동의 산악민족, 그 중에서도 학카리의 역사적 중심 위로 내린 가장 어두운 밤, 어리고도 오랜 민족의 지도자가 그곳에 앉아있었습니다. 마르 쉬문 19세 베냐민, 아시리아 동방교회 총대주교이자 인생을 교회와 민족에게 봉헌한 종교인, 남쪽의 쿠르드 민족주의자들과 북쪽의 터키 복수주의자들이 가져올 죽음에서 가까스로 벗어난 사내였습니다. 그는 언제나 삶과 죽음의 끝자락에 있었습니다. 이제 59세가 된 그는, 도시 폐허의 오래된 아시리아 교회였던 현지 정부청사에서 바깥을 바라보며 홍차를 마시고 있습니다. 차를 마시기엔 적절한 시간이 아니라 해도, 베냐민은 내일 아침엔 차 맛을 느끼지 못할 것 같았습니다. 차가운 밤에 베냐민은 거대한 달을 바라보았습니다. 사람의 아들께서 두 개의 본성 속에 천상에서 내려오실 적에 밤하늘에서 내려온 구름들이 천천히, 조심스레 그리스도의 손에 새겨진 두 개의 상처를 드러냈습니다. 그분의 가림막 속에 베냐민은 있었습니다. 그리곤 천천히, 앉아 있던 중정을 떠나듯, 다른 것들을 향한 주의는 베냐민을 떠났습니다. 삶의 경계에서 천국의 대문에 도달하며 느낀 황홀은 비할 데 없었습니다. 뜨인 베냐민의 두 눈 앞으로 천국이 있었습니다. 고대의 왕좌들에서부터 시작돼 천국의 문 앞에 선 베냐민에게 하느님의 왕국으로 들 것을 권하는 놀라운 천사 같은 노래가, 하늘의 위대한 헤루빔에게서 들려오며 오로지 베냐민의 귀를 채웠습니다."
 asy.1.a:0 "\"성하, 괜찮으십니까?\""
 asy.2.title:0 "침묵 후엔 폭력이 따라오더라"
 asy.2.desc:0 "마르 쉬문 19세 베냐민 성하의 평화로운 선종과 함께 아시리아의 안정 역시 그분을 따라 떠나갔습니다. 쿠르드 민족주의자들, 러시아 군인들, 터키 투란주의자들, 아시리아 신정주의자 및 민주주의자들, 모두가 우리의 작고 나약한 국가의 통제권을 위해 치고받을 것입니다. 그 끝에, 쉬문 21세 에샤이가 이끄는 아시리아 임시정부를 향한 여러 세력들의 급습 시도가 오늘을 향해 치닫으며 아시리아 전역이 내전에 준하는 상황에 휩싸였습니다. 그리하여, 칼날 끝에 앉은 나라에 거대한 힘을 얻은 이들이 생겨났으니..."
@@ -245,7 +245,6 @@ asy.8.desc:0 "세계가 혼돈 속으로 빠져들었어도 캅카스 내 기독
 asy.8.a:0 "기독교인 동지들은 함께 선다."
 asy.8.b:0 "가까운 사이를 유지한다."
 
-ASY_DESC_MENU:0 "Born under Allied auspices after the idea of a united Euphrates valley was rejected, the Assyrian State is Europe's gift to the many Christian denominations that rose in arms against the Ottoman Empire during the Great War. Although notably underdeveloped save for spare British and Russian backed relief and investment, it enjoys a harmonious tribal society overseen by the Patriarch of the Church of the East, His Holiness Shimun XIX. This theocratic stagnancy has recently come under attack by modernising efforts from within, and now Communists, religious reformers, and Generalissimo Petros await for a chance to bring Assyrians into the 20th century before a foreign power does it themselves."
 ASY_vanguard_socialism:0 "Union of Free Assyria"
 ASY_vanguard_socialism_DEF:0 "the Union of Free Assyria"
 ASY_vanguard_socialism_ADJ:0 "Assyrian"

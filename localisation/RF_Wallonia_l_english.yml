@@ -1,18 +1,31 @@
 ﻿l_english:
 #COUNTRY NAME#
-WLL:0 "왈로니"
-WLL_DEF:0 "왈로니"
+WLL:0 "왈로니 자유국"
+WLL_DEF:0 "왈로니 자유국"
 WLL_ADJ:0 "왈로니"
 
 #PARTIES#
 WLL_progressivism_party:0 "PLC - G"
-WLL_progressivism_party_long:0 "기독교 자유당 - 좌익"
+WLL_progressivism_party_long:0 "기독교 자유당 - 좌파"
 WLL_liberalism_party:0 "PLC - C"
 WLL_liberalism_party_long:0 "기독교 자유당 - 중도"
 WLL_conservatism_party:0 "PLC - D"
-WLL_conservatism_party_long:0 "기독교 자유당 - 우익"
-WLL_accelerationism_party:0 "재합주의파"
-WLL_accelerationism_party_long:0 "재합주의파"
+WLL_conservatism_party_long:0 "기독교 자유당 - 우파"
+WLL_accelerationism_party:0 "FNAGF"
+WLL_accelerationism_party_long:0 "프랑스 아방가르드 민족전선"
+WLL_popular_socialism_party:"PCRW - B"
+WLL_popular_socialism_party_long:0 "왈로니 혁명공산당 - 베를린주의파"
+WLL_revisionist_socialism_party:0 "PCRW - VG"
+WLL_revisionist_socialism_party_long:0 "왈로니 혁명공산당 - 수구파"
+WLL_vanguard_socialism_party:0 "PCRW - SN"
+WLL_vanguard_socialism_party_long:0 "왈로니 혁명공산당 - 민족반"
+WLL_anarchism_party:0 "La Bande à Bonnot"
+WLL_reactionism_party:0 "RNW - R"
+WLL_reactionism_party_long:0 "왈로니 민족결집 - 근왕주의파"
+WLL_right_authoritarianism_party:0 "RNW - S"
+WLL_right_authoritarianism_party_long:0 "왈로니 민족결집 - 주권주의파"
+WLL_despotism_party:0 "RNW - N"
+WLL_despotism_party_long:0 "왈로니 민족결집 - 중립주의파"
 #LEADER DESCRITIONS#
 #IDEAS#
 #CUSTOM TOOLTIPS AND FLAGS#

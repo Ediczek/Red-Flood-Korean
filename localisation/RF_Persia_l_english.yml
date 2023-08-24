@@ -4,8 +4,8 @@ PER_Iran:0 "이란"
 PER_Iran_DEF:0 "이란 셔흐국"
 PER_Iran_ADJ:0 "이란"
 
-PER_APOC_state:0 "영국-이란 석유회사"
-PER_APOC_state_DEF:0 "영국-이란 석유회사"
+PER_APOC_state:0 "영국령 이란 총독부"
+PER_APOC_state_DEF:0 "영국령 이란 총독부"
 PER_APOC_state_ADJ:0 "영국-이란"
 
 PER_republic:0 "이란 자치령"
@@ -38,9 +38,6 @@ PER_accelerationism_party_long:0 "테흐런 협회"
 
 PER_anglopersian_right_authoritarianism_party:0 "조국당"
 PER_anglopersian_right_authoritarianism_party_long:0 "조국당"
-
-PER_shah_right_authoritarianism_party:0 "국왕 충성파"
-PER_shah_right_authoritarianism_party_long:0 "국왕 충성파"
 
 #banned
 
@@ -79,31 +76,31 @@ SD_MOSADDEGH:0 ""
 CN_QAVAM:0 ""
 #IDEAS#
 PER_APOC:0 "영국-이란 석유회사"
-PER_APOC_desc:0 ""
+PER_APOC_desc:0 "The Anglo-Persian Oil Company was established by the Burmah Oil Company to take advantage of new oil discoveries in South-Western Persia at the start of the 20th Century. After major discoveries were made and large-scale extraction and refinery began, APOC gained significant influence over the Persian government. By now APOC and its associated concessions operate freely within Persia, dictating a large degree of Persian economic activity."
 
 PER_APOC_MOAR:0 "영국-이란 석유회사"
-PER_APOC_MOAR_desc:0 ""
+PER_APOC_MOAR_desc:0 "The Anglo-Persian Oil Company was established by the Burmah Oil Company to take advantage of new oil discoveries in South-Western Persia at the start of the 20th Century. After major discoveries were made and large-scale extraction and refinery began, APOC gained significant influence over the Persian government. By now APOC and its associated concessions operate freely within Persia, dictating a large degree of Persian economic activity."
 
 PER_starting_denbts:0 "영국-이란 채무관리"
-PER_starting_denbts_desc:0 ""
+PER_starting_denbts_desc:0 "The Persian financial system is dominated by westerners. The loans the Persian government has used to fund its modernisation projects have largely been British-sponsored, leaving the country's finances dependent on co-operating with the interests of London."
 
 PER_more_denbts:0 "영국-이란 채무관리"
-PER_more_denbts_desc:0 ""
+PER_more_denbts_desc:0 "The Persian financial system is dominated by westerners. The loans the Persian government has used to fund its modernisation projects have largely been British-sponsored, leaving the country's finances dependent on co-operating with the interests of London."
 
 PER_farsi_kemalism:0 "세속화"
-PER_farsi_kemalism_desc:0 ""
+PER_farsi_kemalism_desc:0 "The clerical influence on our nation and politics is slowly being ground away."
 
 PER_SAVAK:0 "SAVAK"
-PER_SAVAK_desc:0 ""
+PER_SAVAK_desc:0 "The SAVAK works tirelessly to protect Iranian security, both within and without."
 
 PER_white_terror:0 "백색 테러"
-PER_white_terror_desc:0 ""
+PER_white_terror_desc:0 "Shahist forces have begun a reign of terror across several cities and provinces, rooting out revolutionaries and their sympathisers."
 
 PER_OILgarchy:0 "석유정"
-PER_OILgarchy_desc:0 ""
+PER_OILgarchy_desc:0 "The close control of Persia by APOC leaves the country in a resource-dependent oligarchy. The sweet naptha keeps the country intact, and the clique at the top of the government does all it can to facilitate its extraction."
 
 PER_APOC_profit:0 "Diverse Profits"
-PER_APOC_profit_desc:0 ""
+PER_APOC_profit_desc:0 "The earth yields more than just oil, and Persia must find other cash-flows to maintain balance."
 
 PER_oil_serfs:0 "Social Lubrication"
 PER_oil_serfs_desc:0 ""
@@ -121,13 +118,13 @@ PER_womens_rights:0 "이란 여성해방"
 PER_womens_rights_desc:0 "Reforming a society to follow a more enlightenened Western vision requires the liberation of women. Comprehensive legal reform to give men and women parity in society is a crucial step on the path of progress."
 
 PER_volunteers_idea:0 "대리전의 주인들"
-PER_volunteers_idea_desc:0 ""
+PER_volunteers_idea_desc:0 "Being on hand to provide guns-for-hire allows us to influence the wars that rage across the world."
 
 PER_market_dominance_idea:0 "시장 석권"
 PER_market_dominance_desc:0 "We already hold an influential position in the petroleum market within the British Empire, but with the emerging economic miracle in our Persian lands we stand posed to do so much more. Every day, we mind new efficiencies, new opportunities to create wealth and profit."
 
 PER_anglo_persian_education:0 "영국-이란 교육"
-PER_anglo_persian_education_desc:0 ""
+PER_anglo_persian_education_desc:0 "Core topics of study must be prioritised to ensure the proper maintenance of the systems Persia depends on. Organic chemistry, engineering, English language and business studies are all more valuable than ever."
 
 PER_soldiers_of_fortune_idea:0 "용병들"
 PER_soldiers_of_fortune_idea_desc:0 ""
@@ -218,8 +215,6 @@ PER_Boris_Moller:0 "보리스 몰러"
 
 PER_Soleiman_Eskandari:0 "Soleiman Eskandari"
 
-PER_Haydar_Khan:0 "해이대르 헌"
-
 PER_Amanullah_Jahanbani_staff:0 "Amanullah Jahanbani"
 
 PER_Edgar_Myles_staff:0 "에드거 마일즈"
@@ -229,8 +224,6 @@ PER_Ehsanollah_Khan_staff:0 "Ehsanollah Khan"
 PER_Hasan_Arfa_carm:0 "Hasan Arfa"
 
 PER_Thomas_Riversdale_carm:0 "토머스 리버스데일"
-
-PER_Haydar_Khan_carm:0 "해이대르 헌"
 
 PER_Gholamali_Bayandor_con:0 "골럼앨리 버얜도르"
 
@@ -250,7 +243,17 @@ PER_Arthur_Sullivan_theorist:0 "아서 설리번"
 
 PER_Fereydoun_Keshavarz_theorist:0 "페레이둔 케섀배르즈"
 
+#TRAITS
+PER_mo_pahlavi:0 "Young Idealist"
+PER_mo_pahlavi_cyrus:0 "Heir to Cyrus"
+RPR_kochik_khan:0 "Constitutionalist Hero"
 #CUSTOM TOOLTIPS AND FLAGS#
+PER_starting_pro_anglo:0 "Signed the Deal"
+PER_starting_anti_anglo:0 "Walked Away..."
+PER_starting_azeris_crushed:0 "The Azeris cannot be given an inch, lest they take a mile"
+PER_starting_azeris_placated:0 "The Azeris can be reasoned with, unlike our neighbours"
+PER_starting_strikers_crushed:0 "The strikers in Ilam will be put down"
+PER_starting_strikers_placated:0 "The strikers in Ilam relent and a settlement is reached"
 1000_infantry_equipment:0 "1000 £rifle_texticon"
 1000_infantry_equipment_blocked:0 "§R1000§! £rifle_texticon"
 PER_SETTING_SUN_DESC:0 "이란 셔흐국은 치욕과 석유로 쌓은 부에 따른 쓰디쓴 저주로 고통받았습니다. 러시아 내전 동안 방랑하던 군대와 민족주의 파벌들이 나라의 서방에 들이닥쳐선 반란 국가를 수립하고 셔흐의 권력을 찢어놨습니다. 1920년대 후반과 30년대 초반에 이루어진 셔흐의 위대한 개혁들은 아무 의미 없이 그 값만 잔뜩 치르게 되었습니다. 이는 석유산업에서 증가하는 영국의 이익과 맞물려 나라 전체를 영국-이란 석유회사의 노예로 만들고야 말았습니다. 이 악운과 오욕이, 셔흐국의 생존에 필요한 급변의 무대를 마련해주었습니다."
@@ -299,6 +302,7 @@ PER_turkmen:0 "사막으로의 귀환"
 PER_sindis:0 "인두스로의 귀환"
     
 PER_mos_empire3:0 "우리의 제국 건설"
+PER_mos_empire3_desc:0 "As Iran comes to dominate the Middle-East, it draws the ire and attention of outside powers. Expanding the new empire to allow a buffer and more defensible natural boundaries will guarantee the nation in these trying times."
 
 PER_euphrates:0 "강들 사이에서"
 
@@ -375,7 +379,7 @@ PER_sell_guns_to_france:0 "대 아방가르드 프랑스 총기 판매"
 
 PER_pay_debts:0 "Pay §G5%§! more of our Debt"
 
-PER_default_debts:0 "우리 부채에 관한 불이행 선언"
+PER_default_on_debts:0 "우리 부채에 관한 불이행 선언"
 
 PER_baku:0 "바람의 도시 속 석유 제위"
 
@@ -503,11 +507,11 @@ RPR_lib_persification_arabs:0 "아랍인 페르시아화"
 
 RPR_persification_cost_kurds_text:0 "£manpower_texticon  §Y20000§! £pol_power  §Y30§! £command_power  §Y25§!"
 RPR_persification_cost_kurds_text_blocked:0 "£manpower_texticon  §R20000§! £pol_power  §R30§! £command_power  §R25§!"
-RPR_lib_persification_kurds:0 "동쿠르드인 페르시아화"
+RPR_lib_persification_kurds:0 "쿠르드인 페르시아화"
 
 RPR_persification_cost_kurds_more_text:0 "£manpower_texticon  §Y30000§! £pol_power  §Y45§! £command_power  §Y25§!"
 RPR_persification_cost_kurds_more_text_blocked:0 "£manpower_texticon  §R30000§! £pol_power  §R45§! £command_power  §R25§!"
-RPR_lib_persification_kurds:0 "서쿠르드인 페르시아화"
+RPR_lib_persification_kurds_more:0 "쿠르드인 페르시아화"
 
 RPR_persification_cost_assyrians_text:0 "£manpower_texticon  §Y10000§! £pol_power  §Y15§! £command_power  §Y25§!"
 RPR_persification_cost_assyrians_text_blocked:0 "£manpower_texticon  §R10000§! £pol_power  §R15§! £command_power  §R25§!"
@@ -609,7 +613,7 @@ RPR_assyria:0 "학카리로의 팽창"
 
 RPR_aljazira:0 "락카로의 팽창"
 
-RPR_kurdistan:0 "에르빌로의 팽창"
+RPR_kurdistan:0 "아메드로의 팽창"
 #
 PER_RPR_jangle_decisions:0 "완전한 연방화"
 PER_RPR_jangle_decisions_desc:0 "Creating a federal system of republics, autonomous regions and administrative provinces is an arduous task for any fledgling republic. All the more difficult when there are many regional identities to contend with. By sending our own administrative advisors, translators and co-operating with local police and revolutionary committees, we can establish the needed structures that will keep Iran stable and whole."
@@ -672,6 +676,11 @@ per.2.t:0 "위대의 잿더미 위에서"
 per.2.desc:0 "지난 수십 년은 페르시아 민족에게 그리 온유하지 않았습니다. 수많은 치욕들과, 투박한 러시아 곰이나 저주받을 알비온의 사자의 잔혹한 점령 끝에, 한때 지역의 패자이자 쉬아 신앙의 수호자였던 중동의 위대했던 제국은 잊히고 빈곤해진 잔재국으로 굴러 떨어졌습니다. \n대전쟁 직후 이 거인들의 몰락이 이란에 번영을 가져다 주리란 건 당연해 보였습니다. 그러나 영국령 라자의 붕괴와 러시아 내전에도, 우리는 더 어두운 곳으로 떨어졌습니다. 혁명분자들, 기회주의자들, 분리주의자들, 약탈을 위해 떠도는 놈들의 비적떼와 야인들 무리가 우리 땅 전역을 방랑하며 수많은 국가와 민족을 빚어냈습니다. 러시아 제국의 붕괴에 따른 공백을 틈탄 영국군은 이란에 대한 자신들의 손아귀를 더욱 조이며 우리가 서방의 불의에 맞서지 못하도록 만들었습니다.\n이후 라자의 상실로 영국이 이란의 석유를 더욱 필요로 하게 되면서 상황은 악화되어갔고, 셔흐는 이 나라를 능히 통제하는 영국-이란 석유회사(APOC)의 꼭두각시에 불과하게 되었습니다. APOC의 영향력과 힘에 대한 견제의 결여는, 자본주의적 선동과 이란 땅의 착취에 대한 반동으로서 노동자, 농민, 민족주의자들을 사회주의자 운동으로 밀어붙이는 우려스러운 부수 효과를 낳았습니다. 평의회주의 패악을 향한 지지는, 기적과 같이 20년대에 떨어져 나가지 않았던 비페르시아인들 사이에서 가장 강하게 나타났습니다. 국무는, 결코 받아들일 수 없는 정치적 변화의 감수 뿐만 아니라, 이미 멍들고 훼손된 이란이라는 이름의 몸뚱이의 보전 역시 감수해야 할 정도로 상황을 암담하게 만들었습니다.\n다가올 세월 앞에 동양의 보석이 붉은 홍수에 잠겨 버리거나, 혹은 완전한 흡수를 감수하고서라도 자신들의 정복자들을 이용해 파도를 분쇄하리란 건 수많은 이들의 눈에 부정할 수 없는 사실처럼 비칩니다. 하지만 무엇도 분명친 않습니다. 하느님께서 우리를 위하여 무엇을 준비해두셨는가는 오직 시간만이 말해줄 것입니다."
 per.2.a:0 "암울한 상황이야."
 per.2.b:0 ""
+
+per.201.t:0 "Negotiations with London"
+per.201.desc:0 "As the Anglo-Persian Oil Company dominates our industrial economy in the South, and the Imperial Bank operates in London, much of our nation's ability to govern comes at the expressed permission of British officials. Attempts have been made to stymie the state Bank-e Melli-ye, as it affords Tehran the freedom to fund the Shah's modernisation projects such as the Trans-Iranian railway. Not yet completed, this railway represents the problem with British control of our economy - progress is too slow and far too uneven. Persia has a choice to make - shall it continue the course and work closer with London to build the nation in the Commonwealth's image - or shall it strike out alone and attempt to break the British yoke? The choice is yet before the Shah as negotiations over Persia's debts and investments have yielded a new proposal. Under this new economic deal APOC will increase oil production at a marginally higher royalty rate, in turn Persia's interest will be reduced and the Imperial Bank will hand over power as the monetary authority in Persia to Bank-e Melli-ye upon payment. The catch of course is that if payments are missed, the terms of the deal need not be upheld, creating an opportunity which apears to be double-edged. Refusal will maintain the unsatisfying status quo, and allow the Shah freedom to manoeveur at the cost of British security guarantees. But the deal is a tempting offer with the promise of further investment from the British in future on the line. If British influence receeds, some wonder if the Russians will simply take their place."
+per.201.a:0 "Sign the treaty and pursue closer ties"
+per.201.b:0 "Refuse to sign, they will see sense soon enough"
 
 per.3.t:0 "런던을 위한 추가 양보"
 per.3.desc:0 "영국-이란 석유회사의 대표단이 오늘 우려스러운 소식을 전해왔습니다. Issuing demands for increased privileges, tax exemptions in areas with more than a given estimate of oil and even an expansion of regions where monopolies have been granted to APOC. Demands as outrageous like these ought to cost people their heads. But APOC is no ordinary entity. It’s deep connections to the British Empire mean that action against them could throw us into conflict with the Anglo menace. A fate that none are eager to see come about. The reasons APOC cites for these demands are based mainly on the rising threat of war in Europe and how Britain needs easier access to Persian oil fields in order to fuel their vast navy and rapidly expanding air force.\nBritain and the APOC have also been quick to remind us about our debts to the United Kingdom from various loans that we have taken throughout the years, and that Britain would not hesitate to force out payment from us should the need arise, no matter how harsh the actions may be.\nThese debt obligations give us little choice in the matter. It would be foolish to risk embargoes, or worse, war with the Anglo menace. Even if it shall disgrace the Persian nation."
@@ -833,7 +842,7 @@ per.62.a:0 "Maintain moderate platform."
 per.62.b:0 "Encourage more drastic measures."
 
 per.7.t:0 "제헌논의"
-per.7.desc:0 "Following the dominance of the Jangal after the 1st Session of the Worker’s Council, one of the major debates has been over the path that the Jangal, and consequently, Persia will take. While there has been much agreement over the importance of nationalism, whilst rejecting racial and cultural chauvinism, as a means of serving the revolution and resisting imperialism. There has been much disagreement over the extent that nationalism must be considered and elevated within Persia in relation to Socialism.\n\nMore nationalist factions within the Jangal have argued that as Persia has only ever really developed Feudalism and has not yet even come close to the adoption of Capitalism as the primary mode of production. The countryside is dominated by outdated forces of production such as hand held tools and draft animals, few cities have access to modern industrial production and the situation is generally speaking, totally backwards. Therefore, the current path that the Jangal is taking, of purging and dissolving the Bourgeoisie classes within the nation, is deeply flawed and problematic. These factions preach for working with the National Bourgeoisie to develop the productive forces of Persia and from there establish a Socialist nation.\nMore Orthodox groups within the Jangal however have denounced the nationalist factions of the Jangal as revisionists and even counter-revolutionaries. Citing the fact that the entrusting of the development of the nation to working with the bourgeoisie risks the relapsing of the revolution towards Capitalism as opposed to building a secure road towards Socialism. Orthodox Socialist factions have also argued that a great leap forward from feudalism to Socialism has been proven to be possible, as was observed from the nation of Hungary under the leadership of Leninists such as Bela Kun or the Socialist movements within Bulgaria, who had come from a largely feudal and proto-capitalist condition into a Socialist one within just one or two decades.\nThere are still however many elected representatives that have yet to side with one faction. This lack of a clear majority has led to a small crisis, leading to Mirza Kochak Khan calling for an election within parliament  within the month, with no option to abstain. The decision has been controversial as it was decisive, with protests and complaints being quickly raised in parliament. Nevertheless, the government has made up its mind and all eyes rest on the Jangal to see the road that it will take."
+per.7.desc:0 "Following the dominance of the Jangal after the 1st Session of the Worker's Council, one of the major debates has been over the path that the Jangal, and consequently, Persia will take. While there has been much agreement over the importance of nationalism, whilst rejecting racial and cultural chauvinism, as a means of serving the revolution and resisting imperialism. There has been much disagreement over the extent that nationalism must be considered and elevated within Persia in relation to Socialism.\n\nMore nationalist factions within the Jangal have argued that as Persia has only ever really developed Feudalism and has not yet even come close to the adoption of Capitalism as the primary mode of production. The countryside is dominated by outdated forces of production such as hand held tools and draft animals, few cities have access to modern industrial production and the situation is generally speaking, totally backwards. Therefore, the current path that the Jangal is taking, of purging and dissolving the Bourgeoisie classes within the nation, is deeply flawed and problematic. These factions preach for working with the National Bourgeoisie to develop the productive forces of Persia and from there establish a Socialist nation.\nMore Orthodox groups within the Jangal however have denounced the nationalist factions of the Jangal as revisionists and even counter-revolutionaries. Citing the fact that the entrusting of the development of the nation to working with the bourgeoisie risks the relapsing of the revolution towards Capitalism as opposed to building a secure road towards Socialism. Orthodox Socialist factions have also argued that a great leap forward from feudalism to Socialism has been proven to be possible, as was observed from the nation of Hungary under the leadership of Leninists such as Bela Kun or the Socialist movements within Bulgaria, who had come from a largely feudal and proto-capitalist condition into a Socialist one within just one or two decades.\nThere are still however many elected representatives that have yet to side with one faction. This lack of a clear majority has led to a small crisis, leading to Mirza Kochak Khan calling for an election within parliament  within the month, with no option to abstain. The decision has been controversial as it was decisive, with protests and complaints being quickly raised in parliament. Nevertheless, the government has made up its mind and all eyes rest on the Jangal to see the road that it will take."
 per.7.a:0 "계급 앞에 민족."
 per.7.b:0 "민족 앞에 계급."
 #RSR
@@ -842,20 +851,30 @@ per.71.desc:0 ""
 per.71.a:0 "수락한다."
 per.71.b:0 "거부한다."
 #3rdINT'L
-per.8.t:0 "평의회주의 이란의 회원국 요청"
-per.8.desc:0 "Iran, a formerly backwards land in a hellish feudalist system, has finally broken its chains as a people and risen to the privilege of being one of few nations to participate in the International revolution. Yet, it appears that they haven't been formally adopted into our socialist alliance. Whilst some argue that Iran is not ready to the full commitments of being a member, others argue that we should wholehartedly embrace every attempt at socialism, even if it's from a backwards nation in the Middle East."
-per.8.a:0 "Allow them full membership."
-per.8.b:0 "한정된 소임만을 부여한다."
+per.8.t:0 "사회주의 이란의 회원국 요청"
+per.8.desc:0 "Iran, a formerly backwards land in a hellish feudalist system, has finally broken its chains as a people and risen to the privilege of being one of few nations to participate in the International revolution. They now pursue an active foreign policy, seeking to expand the revolution across much of the middle east and central asia. For our part, they seek terms of partnership with the Rotfront as an associate, in order to further our common causes. Short of a full alliance there are certain agreements on the table, but relying on potentially fragile, semi-industrialised countries leaves a lot of unknowns, including the matter of whether or not it is a good investment to back them in the long run."
+per.8.a:0 "Grant their request"
+per.8.b:0 "They are an unreliable partner"
 
 per.81.t:0 "독일-이란 조약의 체결"
-per.81.desc:0 "Iran has been formally signed into the Internationale as a full-time member, now deeply intertwined with one another - as celebrations occur in Tehran and Berlin, both nations begin plans to help defend one another."
+per.81.desc:0 "Iran has formally signed a treaty of partnership with Germany. As celebrations occur in Tehran and Berlin, there is trepidation elsewhere about the prospect of Rotfront influence creeping eastward."
 per.81.a:0 "Comrades in arms!"
 per.81.b:0 ""
 
-per.82.t:0 "German-Iranian Commitments Signed"
-per.82.desc:0 "Germany, reluctant with the way they would defend Iran from outside agressors, sent a telegram today that they will not allow full-time membership, but that Iran is completely welcome to represent its nation in the congresses of the Third International."
-per.82.a:0 "It will have to do."
+per.82.t:0 "German-Iranian Commitments Fail"
+per.82.desc:0 "Germany, reluctant to involve themselves and their allies too deeply in the near east, sent a telegram today that they will not commit to limited partnership with the government in Tehran. Their explanation has been recieved sourly in the Iran, while the story is a minor piece in the German press, with little fanfair about the supposed solidarity or revolution."
+per.82.a:0 "Not all friends are equal"
 per.82.b:0 ""
+
+per.9.t:0 "Rumblings in Tabriz"
+per.9.desc:0 "The political scene in the South Caucasus has been rocked repeatedly since the Great War by the goings on of the Transcaucasian Revolutionaries in Tiflis and her neighbours. Azerbaijani Nationalist sentiment ran high at the end of the war in reaction to the disolution of the Russian Empire, and rise to power of an independent Armenia. In Persia the Azeri people populate most of the North-Western regions around Ardabil and Tabriz, regions from which the Safavid Dynasty - that gave birth to the modern Persian nation - emerged. It is a historically important region to Persia, one that shares many ties the Nationalists there seek to sever in their misguided pursuit of Nationhood. To the North are two regimes which are no friend to the Azeri nation. The Transcaucasian Revolutionaries seek to add Azerbaijan to their burgeoning Russian Republic, the Armenians seek to displace their people from the highlands. They are better off with their Shia brothers here in Persia. But it will take some convincing and cajoling to avoid a second revolt in Tabriz. The option of suppression remains available, but could be a lightning rod for further unrest if mishandled."
+per.9.a:0 "Begin cracking down on the dissenters"
+per.9.b:0 "Negotiate limited autonomy in the region"
+
+per.91.t:0 "A Flash in the Pan"
+per.91.desc:0 "The oil fields in the western-most regions of Southern Persia are a vital economic lifeline. There is growing disdain however, the royalties from the concessions and profit shares are not divided to the liking of many, there is a perception that the South is paying for the rest of the country. In the city of Ilam there are now protests, strikes, intermitent violence as flashpoints occur. The unrest is a threat to oil production, as well as the stability of the region. Should the Kurds and Luris be enboldened things could spill over. A response must be prepared."
+per.91.a:0 "Prepare an armed response, peace at all costs"
+per.91.b:0 "Prepare a negotiation team, unity at all costs"
 
 #FOCUSES#
 #STARTING#
@@ -867,6 +886,24 @@ PER_more_concessions_to_the_british_desc:0 "Gulf Concessions의 확대와 Persia
 
 PER_take_more_debts_once_again:0 "다시금 더 많은 빚을 지며"
 PER_take_more_debts_once_again_desc:0 "Paying for the army, the reconstruction in the 20's and for new industry and infrastructure has cost the treasury dearly. The turmoil of Turkestan, India and more have made international trade ties all the worse. Our debts are mounting and we may need more to pay for further modernisation policies."
+
+PER_dealing_with_the_azeris:0 "Dealing with the Azeris"
+PER_dealing_with_the_azeris_desc:0 "The region of Azeribaijan has historically been a vital part of Persia, today it is a potential fault in our nation as Azeri Nationalists seek to break away from us. This fault cannot stand and a solution must be found before tensions spill over."
+
+PER_azeri_harsh_repression:0 "Harsh Repression"
+PER_azeri_harsh_repression_desc:0 "The Nationalists in Azerbaijan have left us no choice but military action. A repression to keep dissidents in line is not often a preferred tactic, but it is effective if nothing else. Moving troops back into the region will improve security."
+
+PER_azeri_autonomy:0 "Grant Limited Autonomy"
+PER_azeri_autonomy_desc:0 "The Azeri Nationalists have seens sense to remain with us, though they have driven a hard bargain in the process, it will cost us to keep them, but not nearly as much as it would to lose our brothers."
+
+PER_kurdish_oil_fields:0 "The Issue of the Western Oil Fields"
+PER_kurdish_oil_fields_desc:0 "The Western-most oil fields in Persia have the double issue of being ethnically non-Persian and oil-rich. This makes them ripe for instability as British extraction rumbles on in the face of daily struggles and the precieved indifference of Tehran. Trouble is inevitable."
+
+PER_kurds_intervention:0 "An Exercise in Ilam"
+PER_kurds_intervention_desc:0 "It would appear that military action is our most effective recourse here, the striking workers and uppity British officials are forcing our hand. If the people do not soon fall into line and begin to forget, a deeper distrust will take root, it is important to get a handle on this as fast as possible."
+
+PER_kurds_negotiations:0 "An Exercise in Patience"
+PER_kurds_negotiations_desc:0 "At the direction of the Shah and his cabinet, negotiations with the strikers have produced a favourable outcome to most. The speed at which the agreement settled tensions was not pleasing to some, with a core of strikers splitting off and vowing some greater revenge for their slights. The British for their part have been impatient, requesting permission from local governors to allow police action outside the concessions. They were refused and the situation is now smoothing over well."
 
 PER_send_more_iranians_to_work_for_the_british:0 "영국을 위한 더 많은 이란인 노동력 파견"
 PER_send_more_iranians_to_work_for_the_british_desc:0 "영국이 사업 영역을 확대하면서 로리스턴에서 새 유전을 발견하였으니, APOC의 사업을 지탱할 더 많은 이란인 노무자들과 수행원들이 필요할 것입니다."
@@ -1124,40 +1161,3 @@ PER_desert_tigers_desc:0 "경험 많은 제대 군인들과 젊은이들이 부�
 
 PER_investigate_strategic_deterrence:0 "전략상 억지책 조사"
 PER_investigate_strategic_deterrence_desc:0 "상비군은 비쌉니다. 수익성 높은 해외 작업장에 배치할 수 없는 수준이라면 특히 그렇습니다. 역사에서 보았듯 방위군의 필요성은 의문할 여지도 없는 것이지만, 최근 우리는 흥미로운 주장을 접했습니다. 막아내기엔 버거울 잠재된 침략까지 억지해낼 정도로 파괴적인 새 무기 말입니다. 생뚱맞은 소리 같긴 해도, 그냥 넘기기엔 몹시 구미가 당기는 가능성입니다."
-PER_market_dominance_idea_desc:0 ""
-PER_mo_pahlavi:0 "Young Idealist"
-PER_mo_pahlavi_cyrus:0 "Heir to Cyrus"
-RPR_kochik_khan:0 "Constitutionalist Hero"
-PER_starting_pro_anglo:0 "Signed the Deal"
-PER_starting_anti_anglo:0 "Walked Away..."
-PER_starting_azeris_crushed:0 "The Azeris cannot be given an inch, lest they take a mile"
-PER_starting_azeris_placated:0 "The Azeris can be reasoned with, unlike our neighbours"
-PER_starting_strikers_crushed:0 "The strikers in Ilam will be put down"
-PER_starting_strikers_placated:0 "The strikers in Ilam relent and a settlement is reached"
-PER_mos_empire3_desc:0 "As Iran comes to dominate the Middle-East, it draws the ire and attention of outside powers. Expanding the new empire to allow a buffer and more defensible natural boundaries will guarantee the nation in these trying times."
-PER_default_on_debts:0 "Default on our Debts"
-RPR_lib_persification_kurds_more:0 "Persification of the Kurds"
-per.201.t:0 "Negotiations with London"
-per.201.desc:0 "As the Anglo-Persian Oil Company dominates our industrial economy in the South, and the Imperial Bank operates in London, much of our nation's ability to govern comes at the expressed permission of British officials. Attempts have been made to stymie the state Bank-e Melli-ye, as it affords Tehran the freedom to fund the Shah's modernisation projects such as the Trans-Iranian railway. Not yet completed, this railway represents the problem with British control of our economy - progress is too slow and far too uneven. Persia has a choice to make - shall it continue the course and work closer with London to build the nation in the Commonwealth's image - or shall it strike out alone and attempt to break the British yoke? The choice is yet before the Shah as negotiations over Persia's debts and investments have yielded a new proposal. Under this new economic deal APOC will increase oil production at a marginally higher royalty rate, in turn Persia's interest will be reduced and the Imperial Bank will hand over power as the monetary authority in Persia to Bank-e Melli-ye upon payment. The catch of course is that if payments are missed, the terms of the deal need not be upheld, creating an opportunity which apears to be double-edged. Refusal will maintain the unsatisfying status quo, and allow the Shah freedom to manoeveur at the cost of British security guarantees. But the deal is a tempting offer with the promise of further investment from the British in future on the line. If British influence receeds, some wonder if the Russians will simply take their place."
-per.201.a:0 "Sign the treaty and pursue closer ties"
-per.201.b:0 "Refuse to sign, they will see sense soon enough"
-per.9.t:0 "Rumblings in Tabriz"
-per.9.desc:0 "The political scene in the South Caucasus has been rocked repeatedly since the Great War by the goings on of the Transcaucasian Revolutionaries in Tiflis and her neighbours. Azerbaijani Nationalist sentiment ran high at the end of the war in reaction to the disolution of the Russian Empire, and rise to power of an independent Armenia. In Persia the Azeri people populate most of the North-Western regions around Ardabil and Tabriz, regions from which the Safavid Dynasty - that gave birth to the modern Persian nation - emerged. It is a historically important region to Persia, one that shares many ties the Nationalists there seek to sever in their misguided pursuit of Nationhood. To the North are two regimes which are no friend to the Azeri nation. The Transcaucasian Revolutionaries seek to add Azerbaijan to their burgeoning Russian Republic, the Armenians seek to displace their people from the highlands. They are better off with their Shia brothers here in Persia. But it will take some convincing and cajoling to avoid a second revolt in Tabriz. The option of suppression remains available, but could be a lightning rod for further unrest if mishandled."
-per.9.a:0 "Begin cracking down on the dissenters"
-per.9.b:0 "Negotiate limited autonomy in the region"
-per.91.t:0 "A Flash in the Pan"
-per.91.desc:0 "The oil fields in the western-most regions of Southern Persia are a vital economic lifeline. There is growing disdain however, the royalties from the concessions and profit shares are not divided to the liking of many, there is a perception that the South is paying for the rest of the country. In the city of Ilam there are now protests, strikes, intermitent violence as flashpoints occur. The unrest is a threat to oil production, as well as the stability of the region. Should the Kurds and Luris be enboldened things could spill over. A response must be prepared."
-per.91.a:0 "Prepare an armed response, peace at all costs"
-per.91.b:0 "Prepare a negotiation team, unity at all costs"
-PER_dealing_with_the_azeris:0 "Dealing with the Azeris"
-PER_dealing_with_the_azeris_desc:0 "The region of Azeribaijan has historically been a vital part of Persia, today it is a potential fault in our nation as Azeri Nationalists seek to break away from us. This fault cannot stand and a solution must be found before tensions spill over."
-PER_azeri_harsh_repression:0 "Harsh Repression"
-PER_azeri_harsh_repression_desc:0 "The Nationalists in Azerbaijan have left us no choice but military action. A repression to keep dissidents in line is not often a preferred tactic, but it is effective if nothing else. Moving troops back into the region will improve security."
-PER_azeri_autonomy:0 "Grant Limited Autonomy"
-PER_azeri_autonomy_desc:0 "The Azeri Nationalists have seens sense to remain with us, though they have driven a hard bargain in the process, it will cost us to keep them, but not nearly as much as it would to lose our brothers."
-PER_kurdish_oil_fields:0 "The Issue of the Western Oil Fields"
-PER_kurdish_oil_fields_desc:0 "The Western-most oil fields in Persia have the double issue of being ethnically non-Persian and oil-rich. This makes them ripe for instability as British extraction rumbles on in the face of daily struggles and the precieved indifference of Tehran. Trouble is inevitable."
-PER_kurds_intervention:0 "An Exercise in Ilam"
-PER_kurds_intervention_desc:0 "It would appear that military action is our most effective recourse here, the striking workers and uppity British officials are forcing our hand. If the people do not soon fall into line and begin to forget, a deeper distrust will take root, it is important to get a handle on this as fast as possible."
-PER_kurds_negotiations:0 "An Exercise in Patience"
-PER_kurds_negotiations_desc:0 "At the direction of the Shah and his cabinet, negotiations with the strikers have produced a favourable outcome to most. The speed at which the agreement settled tensions was not pleasing to some, with a core of strikers splitting off and vowing some greater revenge for their slights. The British for their part have been impatient, requesting permission from local governors to allow police action outside the concessions. They were refused and the situation is now smoothing over well."
