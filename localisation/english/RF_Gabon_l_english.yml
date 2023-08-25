@@ -40,9 +40,9 @@ GBN_EAF_accelerationism_ADJ:0 "적도 아프리카"
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
 #FOCUSES#
-GBN_joint_condominium:0 "Guinean Condominium"
-GBN_joint_condominium_DEF:0 "the Hispano-Portuguese Condominium of Guinea"
-GBN_joint_condominium_ADJ:0 "Guinean"
+GBN_joint_condominium:0 "기니 공동관리구"
+GBN_joint_condominium_DEF:0 "기니 히스파니아 포르투갈 공동관리구"
+GBN_joint_condominium_ADJ:0 "기니"
 GBN_vanguard_socialism:0 "Biafran People's Republics"
 GBN_vanguard_socialism_DEF:0 "Biafran Republic"
 GBN_vanguard_socialism_ADJ:0 "Biafran"

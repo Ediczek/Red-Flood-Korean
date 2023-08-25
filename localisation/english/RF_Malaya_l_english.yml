@@ -1,53 +1,53 @@
 ﻿l_english:
 #COUNTRY NAME#
-MAL_anarchism:0 "Malayan Commune"
-MAL_anarchism_DEF:0 "the Commune of Malaya"
-MAL_anarchism_ADJ:0 "Malayan"
+MAL_anarchism:0 "말레이 코뮌"
+MAL_anarchism_DEF:0 "말레이 코뮌"
+MAL_anarchism_ADJ:0 "말레이시아"
 
-MAL_vanguard_socialism:0 "Malayan Socialist Republic"
-MAL_vanguard_socialism_DEF:0 "the Malayan Socialist Republic"
-MAL_vanguard_socialism_ADJ:0 "Malayan"
+MAL_vanguard_socialism:0 "말레이시아 사회주의 공화국"
+MAL_vanguard_socialism_DEF:0 "the 말레이시아 사회주의 공화국"
+MAL_vanguard_socialism_ADJ:0 "말레이시아"
 
-MAL_popular_socialism:0 "Malayan Socialist Republic"
-MAL_popular_socialism_DEF:0 "the Malayan Socialist Republic"
-MAL_popular_socialism_ADJ:0 "Malayan"
+MAL_popular_socialism:0 "말레이시아 사회주의 공화국"
+MAL_popular_socialism_DEF:0 "말레이시아 사회주의 공화국"
+MAL_popular_socialism_ADJ:0 "말레이시아"
 
-MAL_revisionist_socialism:0 "United States of Malaya"
-MAL_revisionist_socialism_DEF:0 "the United States of Malaya"
-MAL_revisionist_socialism_ADJ:0 "Malayan"
+MAL_revisionist_socialism:0 "말레이 합중국"
+MAL_revisionist_socialism_DEF:0 "말레이 합중국"
+MAL_revisionist_socialism_ADJ:0 "말레이시아"
 
-MAL_progressivism:0 "United States of Malaya"
-MAL_progressivism_DEF:0 "the United States of Malaya"
-MAL_progressivism_ADJ:0 "Malayan"
+MAL_progressivism:0 "말레이 합중국"
+MAL_progressivism_DEF:0 "말레이 합중국"
+MAL_progressivism_ADJ:0 "말레이시아"
 
-MAL_liberalism:0 "United States of Malaya"
-MAL_liberalism_DEF:0 "the United States of Malaya"
-MAL_liberalism_ADJ:0 "Malayan"
+MAL_liberalism:0 "말레이 합중국"
+MAL_liberalism_DEF:0 "말레이 합중국"
+MAL_liberalism_ADJ:0 "말레이시아"
 
-MAL_conservatism:0 "United States of Malaya"
-MAL_conservatism_DEF:0 "the United States of Malaya"
-MAL_conservatism_ADJ:0 "Malayan"
+MAL_conservatism:0 "말레이 합중국"
+MAL_conservatism_DEF:0 "말레이 합중국"
+MAL_conservatism_ADJ:0 "말레이시아"
 
-MAL_right_authoritarianism:0 "United States of Malaya"
-MAL_right_authoritarianism_DEF:0 "the United States of Malaya"
-MAL_right_authoritarianism_ADJ:0 "Malayan"
+MAL_right_authoritarianism:0 "말레이 합중국"
+MAL_right_authoritarianism_DEF:0 "말레이 합중국"
+MAL_right_authoritarianism_ADJ:0 "말레이시아"
 
-MAL_despotism:0 "United States of Malaya"
-MAL_despotism_DEF:0 "the United States of Malaya"
-MAL_despotism_ADJ:0 "Malayan"
+MAL_despotism:0 "말레이 합중국"
+MAL_despotism_DEF:0 "말레이 합중국"
+MAL_despotism_ADJ:0 "말레이시아"
 
-MAL_reactionism:0 "Malayan State"
-MAL_reactionism_DEF:0 "the National State of Malaya"
-MAL_reactionism_ADJ:0 "Malayan"
+MAL_reactionism:0 "말레이시아 국"
+MAL_reactionism_DEF:0 "말레이 민족국"
+MAL_reactionism_ADJ:0 "말레이시아"
 
-MAL_accelerationism:0 "Malayan State"
-MAL_accelerationism_DEF:0 "the National State of Malaya"
-MAL_accelerationism_ADJ:0 "Malayan"
+MAL_accelerationism:0 "말레이시아 State"
+MAL_accelerationism_DEF:0 "말레이 민족국"
+MAL_accelerationism_ADJ:0 "말레이시아"
 
 #League
-MAL_League:0 "Malayan League"
-MAL_League_DEF:0 "the Malayan League"
-MAL_League_ADJ:0 "Malay"
+MAL_League:0 "말레이시아 연맹"
+MAL_League_DEF:0 "말레이시아 연맹"
+MAL_League_ADJ:0 "말레이"
 
 #PARTIES#
 MAL_anarchism_party:0 "Shiyan Tun"
@@ -81,10 +81,10 @@ MAL_reactionism_party:0 "PPPM"
 MAL_reactionism_party_long:0 "Persekutuan Persatuan-Persatuan Melayu"
 
 MAL_accelerationism_party:0 "MOS"
-MAL_accelerationism_party_long:0 "Malayan Orientalist Society"
+MAL_accelerationism_party_long:0 "말레이시아 Orientalist Society"
 
 #LEADER DESCRITIONS#
-POLITICS_SHENTON_THOMAS_DESC:0 "Sir Thomas Shenton Whitelegge Thomas is an old and experienced member of the British colonial service and had briefly worked as governor of Nyasaland before events in East Asia forced a career change. The collapse of the British Raj saw him be moved to the Strait settlements in Malaya, before being quickly implemented as governor of the new Government of British Malaya. While this was a event that Shenton would have liked to avoid in fear of causing native resistance, events had had overtaken him and in 1936 Shenton has finally got a solid grip over the organisation of Malayan affairs. While there is resistance from not only native independence movements but also from old white settlers and rulers that want one of their own in charge and not a native londoner. However Shenton pays these critics little attention for there are always more pressing issues at hand and he, as always just like in Nyasaland, deals with them quickly."
+POLITICS_SHENTON_THOMAS_DESC:0 "Sir Thomas Shenton Whitelegge Thomas is an old and experienced member of the British colonial service and had briefly worked as governor of Nyasaland before events in East Asia forced a career change. The collapse of the British Raj saw him be moved to the Strait settlements in Malaya, before being quickly implemented as governor of the new Government of British Malaya. While this was a event that Shenton would have liked to avoid in fear of causing native resistance, events had had overtaken him and in 1936 Shenton has finally got a solid grip over the organisation of 말레이시아 affairs. While there is resistance from not only native independence movements but also from old white settlers and rulers that want one of their own in charge and not a native londoner. However Shenton pays these critics little attention for there are always more pressing issues at hand and he, as always just like in Nyasaland, deals with them quickly."
 
 #IDEAS#
 MAL_unfinished_union:0 "Unfinished Union"
@@ -97,7 +97,7 @@ MAL_land_of_the_malays:0 "Land of the Malays"
 MAL_land_of_the_malays_desc:0 "No matter how grand or noble our designs on Malaya may be, we keep encountering the same major obstruction: lack of jurisdiction. While the Anglo-Malay treaties ensured our right to govern external relations and appoint advisers to each State, they also preserved the sovereignty of each Sultan, leaving us with no legal jurisdiction over the internal affairs of the Malay States. As a result, we are forced to maintain good relations with the Sultans if we are to properly govern, as laws can only be enacted by them. This in turn curtails our ability to further reform the Federation, and instead perpetuates the privileged position of the Malay people and their rulers at the expense of non-Malays. The growing Malay intelligentsia has also begun to rally against any perceived attacks on their rights. It is clear that this predicament must be resolved. But until then, the interest of the Malays remain firmly entrenched in the country."
 
 #CUSTOM TOOLTIPS AND FLAGS#
-MAL_REVOLT_MAL_WIN_tt:0 "@MAL §YThe United States of Malaya§! has crushed @RML §Ythe Indonesian Freedom Fighters§! in §YMalaya§!."
+MAL_REVOLT_MAL_WIN_tt:0 "@MAL §YThe 말레이 합중국§! has crushed @RML §Ythe Indonesian Freedom Fighters§! in §YMalaya§!."
 
 #DECISIONS (1.5 Update)#
 RML_national_liberation:0 "National Liberation"
@@ -108,7 +108,7 @@ mal.1.t:0 "Rumble in the Jungle"
 mal.1.desc:0 "Seems something's about to go down"
 mal.1.a:0 "I'm sure it's nothing"
 
-mal.2.t:0 "The Malayan Uprising"
+mal.2.t:0 "The 말레이시아 Uprising"
 mal.2.desc:0 "This is the PKI x CCP crossover you've been waiting for"
 mal.2.a:0 "Second time's the charm"
 mal.2.b:0 "No thanks"
@@ -117,7 +117,7 @@ mal.3.t:0 "The Federation Disintegrate"
 mal.3.desc:0 "Gent done fucked up"
 mal.3.a:0 "Pack up everyone, we're leaving"
 
-mal.4.t:0 "Malayan Elections"
+mal.4.t:0 "말레이시아 Elections"
 mal.4.desc:0 "Who's it gonna be"
 mal.4.a:0 "Cons"
 mal.4.b:0 "Libs"
