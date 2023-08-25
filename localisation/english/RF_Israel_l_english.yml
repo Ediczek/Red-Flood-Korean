@@ -34,11 +34,11 @@ ISR_accelerationism:0 "Zion"
 ISR_accelerationism_DEF:0 "the Kingdom of Zion"
 ISR_accelerationism_ADJ:0 "Hebrew"
 
-ISR_revolt:0 "Yishuv"
-ISR_revolt_DEF:0 "the Hebrew Yishuv"
-ISR_revolt_ADJ:0 "Hebrew"
-ISR_greater_israel:0 "Greater Zion"
-ISR_greater_israel_DEF:0 "the Kingdom of Greater Zion"
+ISR_revolt:0 "이슙"
+ISR_revolt_DEF:0 "히브리 이슙"
+ISR_revolt_ADJ:0 "히브리"
+ISR_greater_israel:0 "대 지온"
+ISR_greater_israel_DEF:0 "대 지온 왕국"
 ISR_greater_israel_ADJ:0 "히브리"
 #PARTIES#
 

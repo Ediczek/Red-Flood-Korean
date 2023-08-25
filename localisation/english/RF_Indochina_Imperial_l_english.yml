@@ -1,67 +1,67 @@
 ﻿l_english:
 #COUNTRY NAME#
-DAI_anarchism:0 "Indochinese Communes"
-DAI_anarchism_DEF:0 "the Indochinese Communes"
-DAI_anarchism_ADJ:0 "Indochinese"
+DAI_anarchism:0 "인도차이나 Communes"
+DAI_anarchism_DEF:0 "the 인도차이나 Communes"
+DAI_anarchism_ADJ:0 "인도차이나"
 
-DAI_vanguard_socialism:0 "Indochinese People's Republic"
-DAI_vanguard_socialism_DEF:0 "the Indochinese People's Republic"
-DAI_vanguard_socialism_ADJ:0 "Indochinese"
+DAI_vanguard_socialism:0 "인도차이나 People's Republic"
+DAI_vanguard_socialism_DEF:0 "the 인도차이나 People's Republic"
+DAI_vanguard_socialism_ADJ:0 "인도차이나"
 
-DAI_popular_socialism:0 "Indochinese People's Republic"
-DAI_popular_socialism_DEF:0 "the Indochinese People's Republic"
-DAI_popular_socialism_ADJ:0 "Indochinese"
+DAI_popular_socialism:0 "인도차이나 People's Republic"
+DAI_popular_socialism_DEF:0 "the 인도차이나 People's Republic"
+DAI_popular_socialism_ADJ:0 "인도차이나"
 
-DAI_revisionist_socialism:0 "Indochinese People's Republic"
-DAI_revisionist_socialism_DEF:0 "the Indochinese People's Republic"
-DAI_revisionist_socialism_ADJ:0 "Indochinese"
+DAI_revisionist_socialism:0 "인도차이나 People's Republic"
+DAI_revisionist_socialism_DEF:0 "the 인도차이나 People's Republic"
+DAI_revisionist_socialism_ADJ:0 "인도차이나"
 
-DAI_progressivism:0 "Republic of Indochina"
-DAI_progressivism_DEF:0 "the Republic of Indochina"
-DAI_progressivism_ADJ:0 "Indochinese"
+DAI_progressivism:0 "Republic of 인도차이나"
+DAI_progressivism_DEF:0 "the Republic of 인도차이나"
+DAI_progressivism_ADJ:0 "인도차이나"
 
-DAI_liberalism:0 "Republic of Indochina"
-DAI_liberalism_DEF:0 "the Republic of Indochina"
-DAI_liberalism_ADJ:0 "Indochinese"
+DAI_liberalism:0 "Republic of 인도차이나"
+DAI_liberalism_DEF:0 "the Republic of 인도차이나"
+DAI_liberalism_ADJ:0 "인도차이나"
 
-DAI_conservatism:0 "Republic of Indochina"
-DAI_conservatism_DEF:0 "the Republic of Indochina"
-DAI_conservatism_ADJ:0 "Indochinese"
+DAI_conservatism:0 "Republic of 인도차이나"
+DAI_conservatism_DEF:0 "the Republic of 인도차이나"
+DAI_conservatism_ADJ:0 "인도차이나"
 
-DAI_right_authoritarianism:0 "State of Indochina"
-DAI_right_authoritarianism_DEF:0 "the State of Indochina"
-DAI_right_authoritarianism_ADJ:0 "Indochinese"
+DAI_right_authoritarianism:0 "State of 인도차이나"
+DAI_right_authoritarianism_DEF:0 "the State of 인도차이나"
+DAI_right_authoritarianism_ADJ:0 "인도차이나"
 
-DAI_despotism:0 "Empire of Indochina"
-DAI_despotism_DEF:0 "the Empire of Indochina"
-DAI_despotism_ADJ:0 "Indochinese"
+DAI_despotism:0 "인도차이나 제국"
+DAI_despotism_DEF:0 "인도차이나 제국"
+DAI_despotism_ADJ:0 "인도차이나"
 
-DAI_reactionism:0 "Holy State of Indochina"
-DAI_reactionism_DEF:0 "the Holy State of Indochina"
-DAI_reactionism_ADJ:0 "Indochinese"
+DAI_reactionism:0 "인도차이나 신성국"
+DAI_reactionism_DEF:0 "인도차이나 신성국"
+DAI_reactionism_ADJ:0 "인도차이나"
 
-DAI_accelerationism:0 "Futurist State of Indochina"
-DAI_accelerationism_DEF:0 "the Futurist State of Indochina"
-DAI_accelerationism_ADJ:0 "Indochinese"
+DAI_accelerationism:0 "인도차이나 미래국"
+DAI_accelerationism_DEF:0 "인도차이나 미래국"
+DAI_accelerationism_ADJ:0 "인도차이나"
 
 #Imperial
-DAI_Imperial_CW:0 "Imperial Restoration Army"
-DAI_Imperial_CW_DEF:0 "the Imperial Restoration Army"
-DAI_Imperial_CW_ADJ:0 "Indochinese"
+DAI_Imperial_CW:0 "제국 유신군"
+DAI_Imperial_CW_DEF:0 "제국 유신군"
+DAI_Imperial_CW_ADJ:0 "인도차이나"
 
-DAI_Imperial:0 "Imperial Indochina"
-DAI_Imperial_DEF:0 "the Imperial Reconstruction Authority of Indochina"
-DAI_Imperial_ADJ:0 "Indochinese"
+DAI_Imperial:0 "제정 인도차이나"
+DAI_Imperial_DEF:0 "제국 복원군사령 인도차이나"
+DAI_Imperial_ADJ:0 "인도차이나"
 
 #Jap
-DAI_JAP:0 "Indochinese Governorate"
-DAI_JAP_DEF:0 "the Japanese Governorate of Indochina"
-DAI_JAP_ADJ:0 "Indochinese"
+DAI_JAP:0 "인도차이나 총독부"
+DAI_JAP_DEF:0 "인도차이나 일제 총독부"
+DAI_JAP_ADJ:0 "인도차이나"
 
 #Empire
-DAI_Empire:0 "Empire of Indochina"
-DAI_Empire_DEF:0 "the Empire of Indochina"
-DAI_Empire_ADJ:0 "Indochinese"
+DAI_Empire:0 "인도차이나 제국"
+DAI_Empire_DEF:0 "인도차이나 제국"
+DAI_Empire_ADJ:0 "인도차이나"
 
 #PARTIES#
 DAI_accelerationism_party:0 "DD-QG-TP-MT"
@@ -98,21 +98,21 @@ DAI_reactionism_party:0 "TN"
 DAI_reactionism_party_long:0 "Trieu-Nguyen"
 
 #LEADER DESCRIPTIONS#
-POLITICS_CUONG_DE_DESC:0 "A Pan-Asianist and a Republican Revolutionary in his youth, when he still fought for the Indochinese people's right of self determination back in 1900s-1910s, he accepted the Japanese proposal regarding setting up a new, \"free\" regime in war-torn Annam after being \"liberated\" and was later officially granted his current position by the Japanese after the Great War. He was a suitable candidate, for one, he was a popular revolutionary prince, who also was a loyalist to the Pan-Asian vision of Emperor Taisho. Cuong De spent 10 years in Japan, studying the benefits of the Meiji Revolution to apply them to his homeland. However, the year is now 1936, and after 18 years of reign, although the now \"emperor\" Nam-Hùng (translated to \"The Great South\") proposed countless reforms and policies that would have benefited the people and perhaps even save the weak and barely functioning regime, the country is still de facto ran by the Japanese businessmen with their military and old French plantation owners. But his voice was unheard, as he holds no real power. And as the days are passing by, the people are starving and the brutal exploitation of the locals has ruined every good images of the Japanese, the majority of the people are slowly being influenced by revolutionaries and their radical ideas, which leads to them forming small groups and clubs in secret, with the sole mission of to get rid of Cuong-De and his Japanese \"friends\" once and for all. Cuong-De, however, is already aware of the ELF's existence and activities and supports them, even going as far as to leak documents and other information about the horrible crimes committed by the Japanese in order to finally regain the well deserved freedom for his homeland and to redeem his name."
+POLITICS_CUONG_DE_DESC:0 "A Pan-Asianist and a Republican Revolutionary in his youth, when he still fought for the 인도차이나 people's right of self determination back in 1900s-1910s, he accepted the Japanese proposal regarding setting up a new, \"free\" regime in war-torn Annam after being \"liberated\" and was later officially granted his current position by the Japanese after the Great War. He was a suitable candidate, for one, he was a popular revolutionary prince, who also was a loyalist to the Pan-Asian vision of Emperor Taisho. Cuong De spent 10 years in Japan, studying the benefits of the Meiji Revolution to apply them to his homeland. However, the year is now 1936, and after 18 years of reign, although the now \"emperor\" Nam-Hùng (translated to \"The Great South\") proposed countless reforms and policies that would have benefited the people and perhaps even save the weak and barely functioning regime, the country is still de facto ran by the Japanese businessmen with their military and old French plantation owners. But his voice was unheard, as he holds no real power. And as the days are passing by, the people are starving and the brutal exploitation of the locals has ruined every good images of the Japanese, the majority of the people are slowly being influenced by revolutionaries and their radical ideas, which leads to them forming small groups and clubs in secret, with the sole mission of to get rid of Cuong-De and his Japanese \"friends\" once and for all. Cuong-De, however, is already aware of the ELF's existence and activities and supports them, even going as far as to leak documents and other information about the horrible crimes committed by the Japanese in order to finally regain the well deserved freedom for his homeland and to redeem his name."
 POLITICS_NGO_DINH_DIEM_DESC:0 "Diem Ngo Dinh Diem was born on January 3rd, 1901, to Catholic Pro-French Mandarins. As their father Ngo Dinh Kha was known as a collaborator with the French civilizing mission to modernize the Nation, the family's name became associated with the French's brutal exploitation in Annam. Ngo Dinh Kha and some other family members were later purged in 1920 for refusing to collaborate with the newly arrived Japanese and his son Ngo Dinh Khoi, who admired the Pan-Asianist messages and propaganda of the Japanese, defected to attempt to redeem his family's name in the new Colonial Regime. But the other surviving members like Diem, Nhu and Thuc were forced to scatter all over Vietnam. These three later became manual workers in Saigon. Diem slowly rose and became a foreman of a factory while witnessing the worker's horrible working conditions and later learned and embraced Socialist teachings that were spreading in the factory at the time. He also became influenced by Nhu and the political theories of Personalism and decided to found his own reinterpretation of Mourner's Personalism with Confucian, Marxism and Traditional ideas but his idiosyncratic "Socialism" has made him a controversial figure and led to him being attacked by Radical Orthodox Marxists that have accused him of revisionism and his ideas as a confusing mess with conflicting ideas. But according to Diem, the main pillar of Diem's Socialism is: "Personalism, The Community and the Spiritual aspects of Society" and "our society was collaborating and all of the people were working toward perfection with the aid of God, before materialistic exploitation greed has long corrupted the minds of the people with capitalism and violence, extremist ideas rising with their selfish agendas that seek to destroy and enslave all ". Later he and his brother, Nhu, joined the ELF at the invitation of a Catholic Priest in Saigon around 1928-1929. Diem later gained the respect of the "father of the revolution" Mai Lao Bang and become respected by his revolutionary peers. He was known to rant about the evils of class divisions, western taboos, and the flawed nature of capitalism and another extremist forms of ideas that only encourage perpetual conflicts and sins. Diem was controversial due to his questionable methods of trying to unify the other cliques and factions inside the ELF, with both Leftists and Rightists elements calling him a utopian dreamer of unrealistic and confusing ideas, but he has since become famous and with his Nationalist and Moderate Socialist allies, he was elected as the General Secretary of the ELF around 1934 after Mai Lao Bang's health had declined. With Diem's latest speeches and policies promoting a final unification of all ideas and all forms of classes out there for utopia and to get rid of the Japanese and their forces."
 NGUYEN_DESC:0 "Born April 8, 1912, Nguyen Loc is a former martial arts trainer turned military officer, an ambitious young man, and above all, a symbol to his people. Bringing valuable combat experience to the army, soldiers commanded by him are experts in close quarters combat as well as traditional and guerrilla warfare. His opponents fear his martial prowess and raw strength."
-DOI_DESC:0 "Born in 1903, Sergeant Doi Cung is a natural choice to fight Japanese rule in Indochina, as his experience leading patriots against French colonialists makes him a competent and loyal officer. Cung has risen fast in the ranks of our improvised army, and he has already shown great promise in leading our forces to victory."
+DOI_DESC:0 "Born in 1903, Sergeant Doi Cung is a natural choice to fight Japanese rule in 인도차이나, as his experience leading patriots against French colonialists makes him a competent and loyal officer. Cung has risen fast in the ranks of our improvised army, and he has already shown great promise in leading our forces to victory."
 HO_DESC:0 "Born in 1884, Ho Hac Lam may be a revolutionary fighting for Annam, but he is by no means an Annamite. Rather, he is an established officer of the Guomindang who sympathizes heavily with our movement. As he encourages more Chinese nationalists to extend the fight to Annam, Lam has chosen to plant himself here and serve our revolution to the fullest. His experience with both urban and rural insurrection makes him an invaluable asset."
 NGUYEN_THUC_DESC:0 "Born in 1884, Nguyen Thuc Canh is the definition of a grunt, having served long stints as a soldier. However, his performance has recently come to light under the new administration, causing him to be thrust into a leadership position. Although unfamiliar with tactical minutia, Nguyen Thuc Canh knows how a fight feels, looks, and operates."
 ROS_DESC:0 "Born in 1890, Ros-Neth was a former police officer in Cambodia and a soldier in the Great War having earned numerous medals and awards, and is a decorated and celebrated combat veteran. Although he has been retired for some time, the recent events in Annam have brought him back into the fog of war. An old and experienced officer, Ros-Neth remembers his time fighting in Europe and Asia very well, and plans to bring whatever it takes from that time to crush the enemies of Annam."
 
 #IDEAS#
 DAI_acolonialstate:0 "Cowardly Leadership"
-DAI_acolonialstate_desc:0 "Puppet \"Emperor\" Cuong De took the throne of Indochina in 1918 at the behest of the Japanese. He has since accepted every policy the Japanese have forced on him. Appeasing the Japanese has come at a price, starvation in the countryside and abuses in the Japanese concessions is rife. Cuong De is now known as nothing more than a coward by his people."
+DAI_acolonialstate_desc:0 "Puppet \"Emperor\" Cuong De took the throne of 인도차이나 in 1918 at the behest of the Japanese. He has since accepted every policy the Japanese have forced on him. Appeasing the Japanese has come at a price, starvation in the countryside and abuses in the Japanese concessions is rife. Cuong De is now known as nothing more than a coward by his people."
 DAI_united:0 "Rising Discontent"
-DAI_united_desc:0 "The Japanese were initially welcomed as \"Liberators\" from the French when they took over Indochina in 1919. However, in 16 years most policies implemented were only to the benefit of the Japanese - the occupation and Nihonisation of Saigon and Haiphong, ceding half of Cao-Miên and Ai-Lao to our rivals - only fueled the hatred and open rebellious acts against the current regime. Such rebellions have gone on to form Revolutionary and Nationalist parties, with the common goal of Freedom and Self determination for the peoples of Indochina."
+DAI_united_desc:0 "The Japanese were initially welcomed as \"Liberators\" from the French when they took over 인도차이나 in 1919. However, in 16 years most policies implemented were only to the benefit of the Japanese - the occupation and Nihonisation of Saigon and Haiphong, ceding half of Cao-Miên and Ai-Lao to our rivals - only fueled the hatred and open rebellious acts against the current regime. Such rebellions have gone on to form Revolutionary and Nationalist parties, with the common goal of Freedom and Self determination for the peoples of 인도차이나."
 DAI_nihonisation:0 "Nihonisation"
-DAI_nihonisation_desc:0 "The enlightened suzerainty of the Japanese has brought a great many changes to Annam, not the least of which is a tide of Japanese investment and modern machinery. Moreover, Japanese immigrants arrive every month, bridging new skills and cultural conflict to both the cities and countryside farms of Indochina. While some racist detractors have derided this as a blatant attempt to relive population pressures in Japan, any Japanese diplomat can explain at length that this is a pure expression of Asian brotherhood. A brotherhood so valuable that the contribution of arts produced with new Japanese-sponsored industry for the common defense against Imperialism is a small price to pay."
+DAI_nihonisation_desc:0 "The enlightened suzerainty of the Japanese has brought a great many changes to Annam, not the least of which is a tide of Japanese investment and modern machinery. Moreover, Japanese immigrants arrive every month, bridging new skills and cultural conflict to both the cities and countryside farms of 인도차이나. While some racist detractors have derided this as a blatant attempt to relive population pressures in Japan, any Japanese diplomat can explain at length that this is a pure expression of Asian brotherhood. A brotherhood so valuable that the contribution of arts produced with new Japanese-sponsored industry for the common defense against Imperialism is a small price to pay."
 DAI_Mandarins_Warlordism:0 "Mandarins Warlordism"
 DAI_Mandarins_Warlordism_desc:0 "The Imperial Government in recent years slowly had devolved into a mess with Pro-Japanese factions igniting purges and political drama against other factions. Further, the Emperor's attempted modernisation policies that mimic the successful Meiji reforms have been ignored by most Mandarins who have, since Liberation of 1918, slowly consolidated more and more power for themselves and ruling their provinces as if they were kings, some even raising their own militias or dealing with the Japanese and other foreign powers without regard for Emperor and the Central Phu Xuan's government. Something must change!"
 
@@ -133,7 +133,7 @@ DAI_dam_chen_desc:0 "Serving as a voice for the Khmer people within Annam, Dam C
 DAI_Dang-ngoc-Chan:0 "Dang Ngoc Chan"
 DAI_Deo-van-An:0 "Deo Van An"
 DAI_hoang_cung:0 "Hoang Chung"
-DAI_hoang_cung_desc:0 "Born 1891 in Trung-Thuy and ascended in 1907 to the college of interpreters, Hoang-Cung then ascended to another continent to finish his studies in France. Once he had returned to Tonkin, he joined the Society of Mechanical Constructions at Haiphong, and he has served as engineer and technical director at the Society of Tobacco of Indochina. Any problems with materiel are immediately brought to him as he is revered as a guru of technology as some are gurus of spirit. His hiring at The Indochinese Electricity Company has seen immediate results in their bottom line, we are sure he can replicate that success at a higher station."
+DAI_hoang_cung_desc:0 "Born 1891 in Trung-Thuy and ascended in 1907 to the college of interpreters, Hoang-Cung then ascended to another continent to finish his studies in France. Once he had returned to Tonkin, he joined the Society of Mechanical Constructions at Haiphong, and he has served as engineer and technical director at the Society of Tobacco of 인도차이나. Any problems with materiel are immediately brought to him as he is revered as a guru of technology as some are gurus of spirit. His hiring at The 인도차이나 Electricity Company has seen immediate results in their bottom line, we are sure he can replicate that success at a higher station."
 DAI_Lam-van-Hu'o'ng:0 "Lam Van Huong"
 DAI_leon_sogny:0 "Leon Louis Sogny"
 DAI_leon_sogny_desc:0 "Riding into the land of the Orient as far back as the Boxer Rebellion. Léon remains yet another curious case within Annam. Serving as Head of Military intelligence as one of the few French Colonials in such high cabinet minister positions still. Involved and deeply interested within Annam as a whole, typically with its culture, politics, and history, Léon has devoted a large amount of his time to Annam, hence his role and support."
@@ -146,7 +146,7 @@ DAI_nguyen_van_danh_desc:0 "Born 1902 in Bến Tre and educated at the Universit
 DAI_pham_quynh:0 "Pham Quynh"
 DAI_pham_quynh_desc:0 "Born in 1892 and orphaned at an early age, Pham Quynh scraped together enough money for school books and a uniform so that he could attend school. Working his way to the first class in the School of Interpreters in Hanoi, a journalist by trade and steeped in both Vietnamese and French culture. A prolific writer for both the modernist review Dong Duong Tap Chi and the clandestine Pro-French circulation France Indochine. One of the first Vietnamese natives to be admitted into a French Grand Lodge of Freemasonry, and "La Fraternité du Tonkin", as well as the League of Human Rights. A political moderate,constitutional monarchist, and self-described "exacerbated nationalist" he is laying low and waiting for anti-French sentiment to die out. Currently helping to modernize our language and translate a multitude of French classics while writing on Confucius's relation to Voltaire, he is nothing less than the father of our current Vietnamese literary era."
 DAI_pham_le_bong:0 "Pham Le Bong"
-DAI_pham_le_bong_desc:0 "A fire of monarchist sentiment and business acumen, Pham Le Bong was sparked alive in 1905 one day in Hanoi. Known as the sole proprietor of the Tuong Ky firecracker shop, he expanded his property to accommodate plantations in Nho Quan area, Ninh Binh. A member of our representative body and secretly treasurer of the Tien Duc Awakening Association, a culture group connecting French Academia to Vietnamese tradition. A member of many renewed government institutions like the Finance General Council, Indochina Industrial Production Management Council, and the Board of Directors of the Hanoi Chamber of Commerce. Director of the French Newspaper La Patrie Annamite and the Vietnamese paper Viet Cuong out of an Artillery shop in Hanoi."
+DAI_pham_le_bong_desc:0 "A fire of monarchist sentiment and business acumen, Pham Le Bong was sparked alive in 1905 one day in Hanoi. Known as the sole proprietor of the Tuong Ky firecracker shop, he expanded his property to accommodate plantations in Nho Quan area, Ninh Binh. A member of our representative body and secretly treasurer of the Tien Duc Awakening Association, a culture group connecting French Academia to Vietnamese tradition. A member of many renewed government institutions like the Finance General Council, 인도차이나 Industrial Production Management Council, and the Board of Directors of the Hanoi Chamber of Commerce. Director of the French Newspaper La Patrie Annamite and the Vietnamese paper Viet Cuong out of an Artillery shop in Hanoi."
 DAI_phan_van_giao:0 "Phan Van Giao"
 DAI_phan_van_giao_desc:0 "Phan Van Giao was born in 1904 in My Hiep village to a family of Nguyen Mandarins. Educated in medicine, he made himself important by becoming the richest man in Thahn Hoa through founding a chain of Pharmacies. This propelled him to the position of Head of the Board of Directors of the Bank for Agriculture and Cooperatives of Thanh Hoa Province, before moving on to become a people's representative and eventually General Assembly representative. Eager to please, but scandalously possessing blackmail on Cuong De, Van Giao must use his leverage over his friend the king wisely."
 DAI_Phan_Van_Dai:0 "Phan Van Dai"
@@ -154,7 +154,7 @@ DAI_Tran_Dinh_Thao:0 "Tran Dinh Thao"
 DAI_tran_van_chuong:0 "Me Tran Van Chuong"
 DAI_tran_van_chuong_desc:0 "The city of Tonkin greeted the fresh face of baby Me Tran Van Chuong in 1898. Educated in Algeria and France, he was awarded the title of Doctor of law in Paris in 1922. After tentatively returning to his home country, at first intimidated by our national revolution, he has set to work forming the country's premier legal journal, criticizing even the smallest minutiae of our government's legal code. Content to sit in a dimly lit room for hours on end pouring over lengthy texts, he is a perfect fit for our Minister of finance. His daughter is married to the political innovator and upstart Ngo Dinh Nhu."
 DAI_trinh_ba_bich:0 "Trinh Ba Bich"
-DAI_trinh_ba_bich_desc:0 "Born to a poor family in Hanoi one night in 1886, Trinh Ba Bich left school at the College of Interpreters when he was 15 to a post as telegraph secretary at the Post and Telegraph Administration. Resigning in 1903 to move on to better pastures at the General Secretariat, he rapidly climbed the ranks due to his reputation as an exceptional accountant to become a senior executive of the Indochinese staff of the Finance Department at the creation of said agency in 1906. In 1930 he became budgetary controller entrusted with Administration of the Colonies, Engineers of Public Works and Heads of Bureau of Civil Services of Indochina. The man interprets everything as a big system he can game for the betterment of the state. Put out of work by our revolution, he remains unhostile and is eager for re-employment."
+DAI_trinh_ba_bich_desc:0 "Born to a poor family in Hanoi one night in 1886, Trinh Ba Bich left school at the College of Interpreters when he was 15 to a post as telegraph secretary at the Post and Telegraph Administration. Resigning in 1903 to move on to better pastures at the General Secretariat, he rapidly climbed the ranks due to his reputation as an exceptional accountant to become a senior executive of the 인도차이나 staff of the Finance Department at the creation of said agency in 1906. In 1930 he became budgetary controller entrusted with Administration of the Colonies, Engineers of Public Works and Heads of Bureau of Civil Services of 인도차이나. The man interprets everything as a big system he can game for the betterment of the state. Put out of work by our revolution, he remains unhostile and is eager for re-employment."
 DAI_vu_tu_cau:0 "Vu Tu Cau"
 DAI_vu_tu_cau_desc:0 "Vu Tu Cau, born in 1896 in Dich-Diep, is an industrial magnate with a slick haircut and mysterious background. His shining tie reflects not just the faces of his nervous underlings, but also a confidence that can only come from owning a growing enterprise. His weaving workshop in Nam Dinh is the workshop in which the future garments of Annam will be forged. A strict and harsh advocate for "traditional" labor management methods."
 DAI_Yuitsu_Tsuchihashi:0 "Yuitsu Tsuchihasi"
@@ -203,19 +203,19 @@ dainam.4.b:0 "Long live the Republic"
 dainam.4.c:0 "The Japanese intervene"
 
 #TOOLTIPS#
-DAI_LIBWAR_DAI_KILL_VIN_tt:0 "@DAI §YThe Imperial Restoration Army§! of §YIndochina§! has put down @VIN §Ythe Rebellion in the North§!."
+DAI_LIBWAR_DAI_KILL_VIN_tt:0 "@DAI §YThe Imperial Restoration Army§! of §Y인도차이나§! has put down @VIN §Ythe Rebellion in the North§!."
 
-DAI_LIBWAR_DAI_KILL_SMC_tt:0 "@DAI §YThe Imperial Restoration Army§! of §YIndochina§! has put down @SMC §Ythe Rebellion in the South§!."
+DAI_LIBWAR_DAI_KILL_SMC_tt:0 "@DAI §YThe Imperial Restoration Army§! of §Y인도차이나§! has put down @SMC §Ythe Rebellion in the South§!."
 
-DAI_LIBWAR_DAI_DEAD_tt:0 "Vanquished by the revolting @VIN §YNorth§! and @SMC §YSouth§!, @DAI §Ythe Japanese Puppet Empire§! in §YIndochina§! is no more."
+DAI_LIBWAR_DAI_DEAD_tt:0 "Vanquished by the revolting @VIN §YNorth§! and @SMC §YSouth§!, @DAI §Ythe Japanese Puppet Empire§! in §Y인도차이나§! is no more."
 
-DAI_LIBWAR_VIN_KILL_SMC_tt:0 "@VIN §YThe Enlightened Liberation Front§! has defeated its @SMC §YAdversary§!, cementing their rule over §YIndochina§!."
+DAI_LIBWAR_VIN_KILL_SMC_tt:0 "@VIN §YThe Enlightened Liberation Front§! has defeated its @SMC §YAdversary§!, cementing their rule over §Y인도차이나§!."
 
-DAI_LIBWAR_VIN_KILL_DAI_tt:0 "@VIN §YThe Enlightened Liberation Front§! has swept away @DAI §Ythe Japanese Puppet Empire§! in §YIndochina§!."
+DAI_LIBWAR_VIN_KILL_DAI_tt:0 "@VIN §YThe Enlightened Liberation Front§! has swept away @DAI §Ythe Japanese Puppet Empire§! in §Y인도차이나§!."
 
-DAI_LIBWAR_SMC_KILL_VIN_tt:0 "@SMC §YThe National Vanguard Front§! has defeated its @VIN §YAdversary§!, cementing their rule over §YIndochina§!."
+DAI_LIBWAR_SMC_KILL_VIN_tt:0 "@SMC §YThe National Vanguard Front§! has defeated its @VIN §YAdversary§!, cementing their rule over §Y인도차이나§!."
 
-DAI_LIBWAR_SMC_KILL_DAI_tt:0 "@SMC §YThe National Vanguard Front§! has swept away @DAI §Ythe Japanese Puppet Empire§! in §YIndochina§!."
+DAI_LIBWAR_SMC_KILL_DAI_tt:0 "@SMC §YThe National Vanguard Front§! has swept away @DAI §Ythe Japanese Puppet Empire§! in §Y인도차이나§!."
 
 ### DECISIONS ###
 DAI_SMC_resource_extraction:0 "Resource Extraction"
