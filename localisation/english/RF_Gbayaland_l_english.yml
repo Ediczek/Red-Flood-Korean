@@ -1,0 +1,44 @@
+﻿l_english:
+#COUNTRY NAME#
+CAR_anarchism:0 "바야랜드"
+CAR_anarchism_DEF:0 "바야랜드"
+CAR_anarchism_ADJ:0 "바야"
+CAR_vanguard_socialism:0 "바야랜드 공화국"
+CAR_vanguard_socialism_DEF:0 "바야랜드 공화국"
+CAR_vanguard_socialism_ADJ:0 "바야"
+CAR_popular_socialism:0 "바야랜드"
+CAR_popular_socialism_DEF:0 "바야랜드"
+CAR_popular_socialism_ADJ:0 "바야"
+CAR_revisionist_socialism:0 "바야랜드 공화국"
+CAR_revisionist_socialism_DEF:0 "바야랜드 공화국"
+CAR_revisionist_socialism_ADJ:0 "바야"
+CAR_progressivism:0 "바야랜드"
+CAR_progressivism_DEF:0 "바야랜드"
+CAR_progressivism_ADJ:0 "바야"
+CAR_liberalism:0 "바야랜드"
+CAR_liberalism_DEF:0 "바야랜드"
+CAR_liberalism_ADJ:0 "바야"
+CAR_conservatism:0 "바야랜드"
+CAR_conservatism_DEF:0 "바야랜드"
+CAR_conservatism_ADJ:0 "바야"
+CAR_right_authoritarianism:0 "바야랜드국"
+CAR_right_authoritarianism_DEF:0 "바야랜드국"
+CAR_right_authoritarianism_ADJ:0 "바야"
+CAR_reactionism:0 "바야랜드국"
+CAR_reactionism_DEF:0 "바야랜드국"
+CAR_reactionism_ADJ:0 "바야"
+CAR_despotism:0 "바야랜드"
+CAR_despotism_DEF:0 "카르누의 봉기"
+CAR_despotism_ADJ:0 "바야"
+CAR_accelerationism:0 "쌍둥이 강국"
+CAR_accelerationism_DEF:0 "쌍둥이 강국"
+CAR_accelerationism_ADJ:0 "바야"
+
+#PARTIES#
+CAR_despotism_party:0 "카르누의 봉기"
+CAR_despotism_party_long:0 "카르누의 봉기"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

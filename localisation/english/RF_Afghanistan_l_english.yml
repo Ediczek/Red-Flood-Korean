@@ -1,0 +1,40 @@
+﻿l_english:
+#COUNTRY NAMES#
+
+#PARTIES#
+AFG_vanguard_socialism_party:0 "ACP/R"
+AFG_vanguard_socialism_party_long:0 "아프간 공산당 - 우익"
+AFG_popular_socialism_party:0 "ACP/L"
+AFG_popular_socialism_party_long:0 "아프간 공산당 - 좌익"
+AFG_anarchism_party:0 "부족혁명파"
+AFG_anarchism_party_long:0 "부족혁명파"
+AFG_revisionist_socialism_party:0 "ASUP"
+AFG_revisionist_socialism_party_long:0 "아프간 사회공화당"
+AFG_progressivism_party:0 "ASRP"
+AFG_progressivism_party_long:0 "아프간 사회공화당"
+AFG_liberalism_party:0 "모햄매재이 개혁파"
+AFG_liberalism_party_long:0 "모햄매재이 개혁파"
+AFG_conservatism_party:0 "모햄매재이 입헌파"
+AFG_conservatism_party_long:0 "모햄매재이 입헌파"
+AFG_right_authoritarianism_party:0 "모햄매재이 충성파"
+AFG_right_authoritarianism_party_long:0 "모햄매재이 충성파"
+AFG_despotism_party:0 "모햄매재이 충성파"
+AFG_despotism_party_long:0 "모햄매재이 충성파"
+AFG_reactionism_party:0 "사카위주의파"
+AFG_reactionism_party_long:0 "타지크 바스마치"
+AFG_accelerationism_party:0 "컨더허르회"
+AFG_accelerationism_party_long:0 "컨더허르회"
+#LEADER DESCRITIONS#
+POLITICS_Habibullah_Kalakani_DESC:0 ""
+POLITICS_Mohammad_Zahir_DESC:0 ""
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+AFG_turkic_agitation:0 "Turkic Agitation"
+AFG_turkic_agitation_desc:0 "The North Eastern province of Qunduz is home to many Tajik and Uzbek people. These Turkic Afghans are vulnerable to persuasion from Basmachi Turkic Nationalists from the North. These regions are also home to the remains of the Saqqawist rebellion which briefly usurped the Kingdom over a decade ago. They cannot be left unchecked."
+AFG_pretenders:0 "Royal Pretender Problem"
+AFG_pretenders_desc:0 "The Kingdom of Afghanistan has numerous claimants to the throne, some tribes still quitely profess loyalty to them, giving would-be interlopers in our affairs an easy in-road and potential fifth column to exploit."
+AFG_border_conflicts:0 "Border Conflicts"
+AFG_border_conflicts_desc:0 "Afghanistan's borders are porous and ill-defended. The recent military action to secure the border regions of the former Raj was a necessary step for security, but has brought us unwanted attention from our neighbours."

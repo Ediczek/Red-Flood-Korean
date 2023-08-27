@@ -1,0 +1,81 @@
+﻿l_english:
+#COUNTRY NAME#
+JOR_ISR:0 "우르둔"
+JOR_ISR_DEF:0 "우르둔 점령정부"
+JOR_ISR_ADJ:0 "우르둔"
+
+JOR_anarchism:0 "우르둔 자유령"
+JOR_anarchism_DEF:0 "우르둔 자유령"
+JOR_anarchism_ADJ:0 "우르둔"
+JOR_vanguard_socialism:0 "우르둔"
+JOR_vanguard_socialism_DEF:0 "우르둔 평의회 공화국"
+JOR_vanguard_socialism_ADJ:0 "우르둔"
+JOR_popular_socialism:0 "우르둔"
+JOR_popular_socialism_DEF:0 "우르둔 평의회 공화국"
+JOR_popular_socialism_ADJ:0 "우르둔"
+JOR_revisionist_socialism:0 "우르둔"
+JOR_revisionist_socialism_DEF:0 "우르둔 인민공화국"
+JOR_revisionist_socialism_ADJ:0 "우르둔"
+JOR_progressivism:0 "우르둔"
+JOR_progressivism_DEF:0 "우르둔 공화국"
+JOR_progressivism_ADJ:0 "우르둔"
+JOR_liberalism:0 "우르둔"
+JOR_liberalism_DEF:0 "우르둔 공화국"
+JOR_liberalism_ADJ:0 "우르둔"
+JOR_conservatism:0 "우르둔"
+JOR_conservatism_DEF:0 "우르둔 공화국"
+JOR_conservatism_ADJ:0 "우르둔"
+JOR_right_authoritarianism:0 "우르둔"
+JOR_right_authoritarianism_DEF:0 "우르둔 아미르령"
+JOR_right_authoritarianism_ADJ:0 "우르둔"
+JOR_despotism:0 "우르둔"
+JOR_despotism_DEF:0 "우르둔 아미르령"
+JOR_despotism_ADJ:0 "우르둔"
+JOR_reactionism:0 "우르둔"
+JOR_reactionism_DEF:0 "우르둔 아미르령"
+JOR_reactionism_ADJ:0 "우르둔"
+JOR_accelerationism:0 "우르둔"
+JOR_accelerationism_DEF:0 "우르둔 공화국"
+JOR_accelerationism_ADJ:0 "우르둔"
+#PARTIES#
+JOR_vanguard_socialism_party:0 "JBP"
+JOR_vanguard_socialism_party_long:0 "요르단 부흥당"
+
+JOR_libertarian_marxism_party:0 "JSP"
+JOR_libertarian_marxism_party_long:0 "요르단 사회주의당"
+
+JOR_revolutionary_anarchism_party:0 "JRP"
+JOR_revolutionary_anarchism_party_long:0 "요르단 혁명연합"
+
+JOR_revisionist_socialism_party:0 "JSRP"
+JOR_revisionist_socialism_party_long:0 "요르단 사회공화당"
+
+JOR_social_democratism_party:0 "JLP"
+JOR_social_democratism_party_long:0 "요르단 노동당"
+
+JOR_liberalism_party:0 "JDP"
+JOR_liberalism_party_long:0 "요르단 민주당"
+
+JOR_conservatism_party:0 "JFP"
+JOR_conservatism_party_long:0 "요르단 조국당"
+
+JOR_right_authoritarianism_party:0 "차할"
+JOR_right_authoritarianism_party_long:0 "이스라엘 방위군"
+
+JOR_reactionism_party:0 "IPFJ"
+JOR_reactionism_party_long:0 "요르단 이슬람 수호군"
+
+JOR_despotism_party:0 "왕당파"
+JOR_despotism_party_long:0 "요르단 왕당파벌"
+
+JOR_accelerationism_party:0 "JSNP"
+JOR_accelerationism_party_long:0 "요르단 사회민족주의당"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+
+#CUSTOM TOOLTIPS AND FLAGS#
+
+#DECISIONS (1.5 Update)#
+
+#FOCUSES#

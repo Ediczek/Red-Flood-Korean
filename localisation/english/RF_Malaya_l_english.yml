@@ -1,0 +1,125 @@
+﻿l_english:
+#COUNTRY NAME#
+MAL_anarchism:0 "말레이 코뮌"
+MAL_anarchism_DEF:0 "말레이 코뮌"
+MAL_anarchism_ADJ:0 "말레이시아"
+
+MAL_vanguard_socialism:0 "말레이시아 사회주의 공화국"
+MAL_vanguard_socialism_DEF:0 "the 말레이시아 사회주의 공화국"
+MAL_vanguard_socialism_ADJ:0 "말레이시아"
+
+MAL_popular_socialism:0 "말레이시아 사회주의 공화국"
+MAL_popular_socialism_DEF:0 "말레이시아 사회주의 공화국"
+MAL_popular_socialism_ADJ:0 "말레이시아"
+
+MAL_revisionist_socialism:0 "말레이 합중국"
+MAL_revisionist_socialism_DEF:0 "말레이 합중국"
+MAL_revisionist_socialism_ADJ:0 "말레이시아"
+
+MAL_progressivism:0 "말레이 합중국"
+MAL_progressivism_DEF:0 "말레이 합중국"
+MAL_progressivism_ADJ:0 "말레이시아"
+
+MAL_liberalism:0 "말레이 합중국"
+MAL_liberalism_DEF:0 "말레이 합중국"
+MAL_liberalism_ADJ:0 "말레이시아"
+
+MAL_conservatism:0 "말레이 합중국"
+MAL_conservatism_DEF:0 "말레이 합중국"
+MAL_conservatism_ADJ:0 "말레이시아"
+
+MAL_right_authoritarianism:0 "말레이 합중국"
+MAL_right_authoritarianism_DEF:0 "말레이 합중국"
+MAL_right_authoritarianism_ADJ:0 "말레이시아"
+
+MAL_despotism:0 "말레이 합중국"
+MAL_despotism_DEF:0 "말레이 합중국"
+MAL_despotism_ADJ:0 "말레이시아"
+
+MAL_reactionism:0 "말레이시아 국"
+MAL_reactionism_DEF:0 "말레이 민족국"
+MAL_reactionism_ADJ:0 "말레이시아"
+
+MAL_accelerationism:0 "말레이시아 State"
+MAL_accelerationism_DEF:0 "말레이 민족국"
+MAL_accelerationism_ADJ:0 "말레이시아"
+
+#League
+MAL_League:0 "말레이시아 연맹"
+MAL_League_DEF:0 "말레이시아 연맹"
+MAL_League_ADJ:0 "말레이"
+
+#PARTIES#
+MAL_anarchism_party:0 "Shiyan Tun"
+MAL_anarchism_party_long:0 "Shiyan Tun"
+
+MAL_vanguard_socialism_party:0 "PARI"
+MAL_vanguard_socialism_party_long:0 "Partai Republik Indonesia"
+
+MAL_popular_socialism_party:0 "CPC-NRC"
+MAL_popular_socialism_party_long:0 "Chinese Communist Party - Nanyang Regional Committee"
+
+MAL_revisionist_socialism_party:0 "Hamim"
+MAL_revisionist_socialism_party_long:0 "Hizbul Muslimin"
+
+MAL_progressivism_party:0 "KMM"
+MAL_progressivism_party_long:0 "Kesatuan Melayu Muda"
+
+MAL_liberalism_party:0 "PIM"
+MAL_liberalism_party_long:0 "Parti Islam Malaya"
+
+MAL_conservatism_party:0 "PEMBAR"
+MAL_conservatism_party_long:0 "Pertubuhan Malaya Bersatu"
+
+MAL_right_authoritarianism_party:0 "Federal Council"
+MAL_right_authoritarianism_party_long:0 "Federal Council"
+
+MAL_despotism_party:0 "Derbar"
+MAL_despotism_party_long:0 "Council of Rulers"
+
+MAL_reactionism_party:0 "PPPM"
+MAL_reactionism_party_long:0 "Persekutuan Persatuan-Persatuan Melayu"
+
+MAL_accelerationism_party:0 "MOS"
+MAL_accelerationism_party_long:0 "말레이시아 Orientalist Society"
+
+#LEADER DESCRITIONS#
+POLITICS_SHENTON_THOMAS_DESC:0 "Sir Thomas Shenton Whitelegge Thomas is an old and experienced member of the British colonial service and had briefly worked as governor of Nyasaland before events in East Asia forced a career change. The collapse of the British Raj saw him be moved to the Strait settlements in Malaya, before being quickly implemented as governor of the new Government of British Malaya. While this was a event that Shenton would have liked to avoid in fear of causing native resistance, events had had overtaken him and in 1936 Shenton has finally got a solid grip over the organisation of 말레이시아 affairs. While there is resistance from not only native independence movements but also from old white settlers and rulers that want one of their own in charge and not a native londoner. However Shenton pays these critics little attention for there are always more pressing issues at hand and he, as always just like in Nyasaland, deals with them quickly."
+
+#IDEAS#
+MAL_unfinished_union:0 "Unfinished Union"
+MAL_unfinished_union_desc:0 "The tragedy of the Raj's collapse afforded us the opportunity to finally rationalize the anomalous administrative structures of Malaya. To the delight of the Colonial Office, the various British protectorates and colonies in the region were consolidated into a single entity, marking an end to their struggle of unifying the Malay States. Nevertheless, the infant Federation is far from perfect. The exclusion of Singapore is a source of contention among officials, while the lack of infrastructure and trade between the Peninsula and North Borneo hampers integration. More crucially however, is the shaky legal foundation upon which our Federation stands, where the authority of the central government is merely implied and power relations with each state remain vague. Our heavy-handed approach to persuade the Sultans to federate has also damaged our relations with them. The unification process as of now remains incomplete and is at risk of being undone. High Commissioner Edward Gent, however, intends to finish the job."
+
+MAL_plural_society:0 "Plural Society"
+MAL_plural_society_desc:0 "Ever since the inception of British rule, the Peninsula has been increasingly divided along racial lines. The ruling class and peasantry are exclusively Malays, the commercial and industrial sector are dominated by Chinese entrepreneurs and labourers, and the estates are worked on predominantly by Indian coolies. These ethnic groups merely co-existed within the same area with little to no contact, leaving them culturally distinct. While this status quo has kept the peace in the past, its fissiparous nature due to the lack of a national consciousness and divided loyalties among the races may threaten our Federation's survival in the future."
+
+MAL_land_of_the_malays:0 "Land of the Malays"
+MAL_land_of_the_malays_desc:0 "No matter how grand or noble our designs on Malaya may be, we keep encountering the same major obstruction: lack of jurisdiction. While the Anglo-Malay treaties ensured our right to govern external relations and appoint advisers to each State, they also preserved the sovereignty of each Sultan, leaving us with no legal jurisdiction over the internal affairs of the Malay States. As a result, we are forced to maintain good relations with the Sultans if we are to properly govern, as laws can only be enacted by them. This in turn curtails our ability to further reform the Federation, and instead perpetuates the privileged position of the Malay people and their rulers at the expense of non-Malays. The growing Malay intelligentsia has also begun to rally against any perceived attacks on their rights. It is clear that this predicament must be resolved. But until then, the interest of the Malays remain firmly entrenched in the country."
+
+#CUSTOM TOOLTIPS AND FLAGS#
+MAL_REVOLT_MAL_WIN_tt:0 "@MAL §YThe 말레이 합중국§! has crushed @RML §Ythe Indonesian Freedom Fighters§! in §YMalaya§!."
+
+#DECISIONS (1.5 Update)#
+RML_national_liberation:0 "National Liberation"
+RML_ceasefire:0 "Negotiating Ceasefire"
+
+#EVENTS#
+mal.1.t:0 "Rumble in the Jungle"
+mal.1.desc:0 "Seems something's about to go down"
+mal.1.a:0 "I'm sure it's nothing"
+
+mal.2.t:0 "The 말레이시아 Uprising"
+mal.2.desc:0 "This is the PKI x CCP crossover you've been waiting for"
+mal.2.a:0 "Second time's the charm"
+mal.2.b:0 "No thanks"
+
+mal.3.t:0 "The Federation Disintegrate"
+mal.3.desc:0 "Gent done fucked up"
+mal.3.a:0 "Pack up everyone, we're leaving"
+
+mal.4.t:0 "말레이시아 Elections"
+mal.4.desc:0 "Who's it gonna be"
+mal.4.a:0 "Cons"
+mal.4.b:0 "Libs"
+
+#FOCUSES#

@@ -1,0 +1,220 @@
+﻿l_english:
+#State names
+PSL_vanguard_socialism:0 "국가재건평의회"
+PSL_vanguard_socialism_DEF:0 "국가재건평의회"
+PSL_vanguard_socialism_ADJ:0 "러시아"
+PSL_popular_socialism:0 "국가재건평의회"
+PSL_popular_socialism_DEF:0 "국가재건평의회"
+PSL_popular_socialism_ADJ:0 "러시아"
+PSL_anarchism:0 "국가재건평의회"
+PSL_anarchism_DEF:0 "국가재건평의회"
+PSL_anarchism_ADJ:0 "러시아"
+PSL_revisionist_socialism:0 "국가재건평의회"
+PSL_revisionist_socialism_DEF:0 "국가재건평의회"
+PSL_revisionist_socialism_ADJ:0 "러시아"
+PSL_progressivism:0 "국가재건평의회"
+PSL_progressivism_DEF:0 "국가재건평의회"
+PSL_progressivism_ADJ:0 "러시아"
+PSL_liberalism:0 "국가재건평의회"
+PSL_liberalism_DEF:0 "국가재건평의회"
+PSL_liberalism_ADJ:0 "러시아"
+PSL_conservatism:0 "국가재건평의회"
+PSL_conservatism_DEF:0 "국가재건평의회"
+PSL_conservatism_ADJ:0 "러시아"
+PSL_right_authoritarianism:0 "국가재건평의회"
+PSL_right_authoritarianism_DEF:0 "국가재건평의회"
+PSL_right_authoritarianism_ADJ:0 "러시아"
+PSL_despotism:0 "국가재건평의회"
+PSL_despotism_DEF:0 "국가재건평의회"
+PSL_despotism_ADJ:0 "러시아"
+PSL_reactionism:0 "국가재건평의회"
+PSL_reactionism_DEF:0 "국가재건평의회"
+PSL_reactionism_ADJ:0 "러시아"
+PSL_accelerationism:0 "국가재건평의회"
+PSL_accelerationism_DEF:0 "국가재건평의회"
+PSL_accelerationism_ADJ:0 "러시아"
+
+PSL_uni:0 "러시아 공화국"
+PSL_uni_DEF:0 "러시아 공화국"
+PSL_uni_ADJ:0 "러시아"
+
+#Parties
+PSL_vanguard_socialism_party:0 "NOA - B"
+PSL_popular_socialism_party:0 "NOA - SR"
+PSL_anarchism_party:0 "NOA - M"
+PSL_revisionist_socialism_party:0 "KVRR - SD"
+PSL_revisionist_socialism_party_long:0 "Komitet Vosstanovleniya Rossiyskoy Respubliki - 사회민주파"
+PSL_progressivism_party:0 "KVRR - NS"
+PSL_progressivism_party_long:0 "Komitet Vosstanovleniya Rossiyskoy Respubliki - 인민평의회파"
+PSL_liberalism_party:0 "KVRR"
+PSL_conservatism_party:0 "KVRR"
+PSL_right_authoritarianism_party:0 "KVRR"
+PSL_despotism_party:0 "Khunkhuzy"
+PSL_reactionism_party:0 "VNKP"
+PSL_accelerationism_party:0 "NBGB"
+PSL_vanguard_socialism_party_long:0 "Narodno-Osvoboditelnaya Armiya - Bolsheviki"
+PSL_popular_socialism_party_long:0 "Narodno-Osvoboditelnaya Armiya - Sotsial-Revolutionery"
+PSL_anarchism_party_long:0 "Narodno-Osvoboditelnaya Armiya - Maksimalisty"
+PSL_liberalism_party_long:0 "Komitet Vosstanovleniya Rossiyskoy Respubliki - Kadety"
+PSL_conservatism_party_long:0 "Komitet Vosstanovleniya Rossiyskoy Respubliki"
+PSL_right_authoritarianism_party_long:0 "Komitet Vosstanovleniya Rossiyskoy Respubliki"
+PSL_despotism_party_long:0 "Khunkhuzy"
+PSL_reactionism_party_long:0 "Vserossiyskiy Narodnyy Krestovyy Pokhod"
+PSL_accelerationism_party_long:0 "Natsional-Bolshevistskaya Gruppa Borby"
+
+#Boldyrev should change his parties after unifying Zheltorossiya 
+
+#Leader Descriptions
+PSL_boldyrev:0 "혁명의 구세주"
+PSL_vasily_boldyrev_desc:0 "General Vasily Georgievich Boldyrev, by one reason or another, is a survivor. That seems to have held true despite everything. Born to a blacksmith and brick maker in Samara, the young Boldyrev managed to successfully pass through the parish and city schools, then a land surveying school, despite working for his parents at the same time. Following exams in the imperial capital, and a few years of topographic work for the army, he took the plunge into a real military academy, where he passed as a first-rate student. Almost immediately after, he received his baptism of fire in the Russo-Japanese War, introducing him to modern warfare.\n\nBoldyrev was settling into a role as a staff college instructor when the Great War began, and he was quickly sent to the front. While the Germans proved tenacious, he distinguished himself from the other officers enough to be promoted to an army commander on the Baltic front. Unfortunately, as he was taking part in the triumphant 1918 counteroffensive, the Russian Civil War began. Though he initially tried to continue the march into Germany, the tsarist forces overreaching to undo Stolypin's reforms plus his personal identification with the Menshevik faction of the RSDRP forced him to take a side.\n\nWhile it was not the winning side, Boldyrev would at least enjoy a fine post-war career as one of the less politically controversial generals of Zheltorossiya. Perhaps because of this, he was not considered dangerous enough that he needed to be in Harbin and monitored during the post-Kerensky power struggle. Given the ongoing conflict in Mongolia, and the specter of anti-Japanese rebels using the Republic as a hideout, the General was on a mission in the west to monitor the border and keep the peasants safe. However, with news arriving of the chaos in the capital, it appears the general objective of his plans has not changed. Organizing self-defense forces among the locals and acting autonomously to provision them, the old Tatar is digging in to prepare for the storm he knows is coming. After that, there are other borders to watch, and other people to protect. Boldyrev will simply see where it takes him."
+
+#Ideas
+PSL_republican_remnants:0 "공화파 잔당"
+PSL_new_republican_spirit:0 "새 공화주의 정신"
+PSL_newagriculture:0 "새 농업정책"
+PSL_newagriculture1:0 "새 농업정책"
+PSL_struggle:0 "여러분의 권리를 위한 싸움"
+PSL_new_army:0 "새 공화군"
+PSL_new_army1:0 "새 공화군"
+PSL_new_army2:0 "자유의 투사들"
+PSL_temporary_measures:0 "Temporary Planned Measures"
+PSL_temporary_measures1:0 "싸움을 위한 경제"
+PSL_defenser_of_state:0 "국가의 수호자"
+PSL_rebirth_social_democracy:0 "사회민주정의 재생"
+PSL_rebirth_social_democracy1:0 "사회민주정의 재생"
+PSL_levis_model:0 "레비의 선례를 따라서"
+
+PSL_republican_remnants_dummy:0 "공화파 잔당"
+PSL_republican_remnants_dummy1:0 "공화파 잔당"
+PSL_republican_remnants_dummy2:0 "공화파 잔당"
+PSL_republican_remnants_dummy3:0 "공화파 잔당"
+PSL_republican_remnants_dummy4:0 "공화파 잔당"
+
+#Custom tooltips and flags
+PSL_nat_boldyrev:0 "우리 원수께서 국가와 인민을 택하셨습니다."
+PSL_dem_boldyrev:0 "우리 원수께서 당과 개혁을 택하셨습니다."
+PSL_BUILDING_SOME_STABILITY:0 "행정안정도를 증강할 것입니다"
+PSL_EMERGENCY_POWER:0 "원수께서 군의 안정을 위해 긴급권력을 장악하셨습니다."
+PSL_MENDING_COUNCILS:0 "We will reach out to the councils to bring them to our, rightful, side."
+
+#Decisions
+PSL_unification:0 "우리의 승리 선포"
+PSL_march_north:0 "마침내 공화국이라"
+PSL_diplomatic_decisions:0 "러시아의 재통일"
+PSL_diplomatic_decisions_desc:0 "We have secured the power in our immediate area. From our power base, we can now begin to unify Russia and rid it of all its enemies.\n\nAs we expand and liberate our Motherland, we will be able to integrate recently conquered territories under our regime once our control is secured. Once all our foes will be extinguished, we will be able to proclaim ourselves as the rulers of unified Russia, a fact that none will be able to contest then."
+PSL_invade_ste:0 "카자흐 대초원 공격"
+PSL_invade_armenia:0 "아르메니아 공격"
+PSL_invade_kavkaz:0 "캅카스 평의회 연방 공격"
+PSL_invade_seu:0 "카자키 공격"
+PSL_invade_russia:0 "러시아 제국 공격"
+PSL_invade_ore:0 "카잔 공격"
+PSL_invade_trk:0 "튀르케스탄 총독령 공격"
+PSL_invade_siberia:0 "시비리 공격"
+PSL_invade_kck:0 "극동 공격"
+PSL_invade_baltics:0 "발트 공격"
+PSL_invade_finland:0 "핀란드 공격"
+PSL_invade_central_asia:0 "튀르케스탄 반군 공격"
+PSL_invade_mongolia:0 "자시비리 수복"
+PSL_organize_mongolia:0 "몽골 임시정부 수립"
+PSL_core_territory:0 "정복지 흡수"
+
+#FOCUSES#
+PSL_last_ember:0 "Last Ember of the Revolution"
+PSL_last_ember_desc:0 "The Republic has fallen so far. After the failure of Kerensky to deal with the ongoing storm, Zheltorossiya, the very last remnant of the democratic revolutions of 1905 and 1918, has been snuffed out. Or has it? Here persists the very last state that professes a loyalty to this revolution, led by the Menshevik general Vasily Boldyrev and a smorgasbord of politicians pledging their allegiance to him. Many men with a rational mindset would have counted this revolution over, but Boldyrev has other ideas."
+
+PSL_a_hand_to_councils:0 "인민평의회를 향한 손길"
+PSL_a_hand_to_councils_desc:0 "Local institutions like the peasants zemstvo and the workers soviet are on the verge of completely dissolving, and we must help them to stabilize things. By accomplishing this, we could boost credibility for our Republic, while also ensuring that they are free of political influences like that of the Bolsheviks, turning them into nonpartisan institutions that serve the masses without radical schemers controlling them."
+
+PSL_military_rule:0 "군정 선포
+PSL_military_rule_desc:0 "There is still rampant political, economic, and social disorder in the territories we control. What can one expect when we've just barely survived nothing short of a total collapse? What our people need is a strong hand to guide it to eventual democracy, and the current military, loyal to not just Boldyrev and the government but also to the plight of our long suffering people. And then there is the most pressing matter: are also remnants of the old extremists, imperialists and separatists running amok, and a declaration of military rule would make things easier for us and things harder for them."
+PSL_semblance_governance:0 "Semblance of a Governance"
+PSL_semblance_governance_desc:0 "We have ministers, we have bureaucrats, we have politicians, but we do not have anything nearly resembling a government. We need to bring them together to hash out a foundational authority, with Boldyrev at the helm, an authority that will eventually evolve into the governing institution of a Free Republic."
+
+PSL_fire_will_blaze:0 "그리하여 불은 새로이 타오르리라!"
+PSL_fire_will_blaze_desc:0 "We have taken the preliminary actions to restore our Republic. The revolutions of decades past shall be avenged! No more senseless pain and suffering for the common man. No more exploitation, whether it be from capitalists, imperialists or extremists. We will fight with every drop of blood and fiber of muscle in our bodies! We cannot allow everything that has been sacrificed to be done so in vain…"
+
+PSL_primacy_people:0 "The Primacy of the People"
+PSL_primacy_people_desc:0 "We will not align ourselves with any institution except that which represents the will of the Russian people. The democratically elected councils, the zemstvos and the soviets, were dominated by the Socialist Revolutionaries, who came into power promising reforms for the majority of Russians, who are peasants pure and simple."
+
+PSL_land_for_peasant:0 "모든 농민에게 토지를!"
+PSL_land_for_peasant_desc:0 "We must carry out land reform. The parasitic large landowners, who own hundreds of acres of land but never sweat and toil as the actual peasants themselves, will be the 'victims' of our land reform. We are not Bolsheviks or capitalists-the peasant will have the land as his private property, not in the hands of party bureaucrats or fat parasites!"
+
+PSL_declaw_exploiters:0 "Declaw the Exploiters"
+PSL_declaw_exploiters_desc:0 "For too long, the people of Russia have been oppressed by the tsarist system. We cannot wait around until the struggle of liberation is completed; we must keep our promises and start implementing the reforms that will bring the masses liberty. From the implementation of workers rights and benefits to higher taxes on their capitalist employers, we will take the first steps to a democratic and socialist Russia."
+
+PSL_marshal_of_nation:0 "민족의 원수"
+PSL_marshal_of_nation_desc:0 "Boldyrev is the greatest defender of the socialist cause, the revolution of the downtrodden Russian peasant, the shield and sword of true Russian patriotism. Whether we like it or not, Boldyrev is increasingly seen as the sole savior of Russian patriotism by the masses, and if we want total victory, we will have to embrace this image."
+
+PSL_russian_blood_red:0 "러시아인들의 피는 빨갛게 흐른다"
+PSL_russian_blood_red_desc:0 "The communists preach world revolution, the sidelining of patriotism for a loyalty to the International Socialist Republic. Such nonsense! Our socialism is first and foremost based on loyalty to Russia. Against tsarism, against all the sinister movements that have threatened us with their masters abroad, it is only Russian blood being spilled. Russians defend the ideology of socialism and democracy. Let us sing the praises of our great nation!"
+
+PSL_through_struggle:0 "투쟁을 통하여 권리를 얻으리라"
+PSL_through_struggle_desc:0 "In the tradition of the Nardoniks, we shall take whatever force we have and aim them at the fat greedy hordes of oppressors. In the name of the worker, the peasant, the average Russian man, the revolution will remove them from every position of power where they can oppress the masses. We can do this the peaceful way, and indeed we wish to, but our enemies, the PEOPLE'S ENEMIES, do not feel the same way, and so we must end them by the tip of the bullet."
+
+PSL_hail_republican_savior:0 "공화국의 구세주를 찬미하라!"
+PSL_hail_republican_savior_desc:0 "We need a strong personality for the people to rally around, and who better than Vasily Boldyrev himself? A general who saw the despotism of the old imperial system as non-sustainable, who joined and protected Kerensky when he retreated to Zheltorossiya, and who has taken up the banner of the Republic in its most dire hour. While this strong focus on Boldyrev will fade in intensity if we ever achieve victory, right now we have to build his image as the savior of democracy and socialism in Zheltorossiya, so that the republic may survive to see better days."
+
+PSL_reconstitute_republican_army:0 "공화군 재건"
+PSL_reconstitute_republican_army_desc:0 "Our rag-tagged armed forces have been shattered by the collapse, but they have not totally been destroyed. What we need is a system of conscription and some fulfillment of arms deficiencies, whether through imports or smuggling, and then we can formally reinstate the military of the Republic, primarily it's land force, the Republican Army. We will also increase propaganda efforts for war efforts against the enemies of the Republic, which will come sooner rather than later."
+
+PSL_exemple_discipline:0 "Discipline, and Example"
+PSL_exemple_discipline_desc:0 "Our army right now is nothing but rowdy squads of armed men, some barely at the age to fight! In order to prepare for the great fight to liberate Zheltorossiya and beyond, we must forge them into a proper military force. We will do this by introducing uniforms, military courts, general rules of conduct and other methods that will transform our military into a great storm of steel that will liberate Russia!"
+
+PSL_crusade_freedom:0 "자유를 위한 성전"
+PSL_crusade_freedom_desc:0 "There are untold numbers of enemies in Russia who seek to stamp out the legacy of Kerensky. They surround us completely, and our allies have either counted out our future existence or do not know of our continued existence. They go by many names-Tsarists, Bolsheviks, oligarchs, syndicalists, Futurists-but we shall fight them with all the same ferocity. With Boldyrev at the helm, victory, and freedom for the people, will be ours!"
+
+PSL_our_right_job:0 "Our Job Done Right"
+PSL_our_right_job_desc:0 "Boldyrev and his soldiers were originally sent to Zheltorossiya to quell the rebellion by the nefarious Khunkhuz, Chinese former vagrants and soldiers who took advantage of the chaos of the Russian far east. While a lot has happened since then, and with there being more pressing enemies to fight, Boldyrev insists on finishing the job he was sent out to accomplish. In addition, the Khunkhuz are a significant criminal element whose elimination would both benefit our war efforts and the general stability of the Republic."
+
+PSL_counter_revolutionary:0 "The Counterrevolutionary Devil"
+PSL_counter_revolutionary_desc:0 "The reactionary Konstantin Rodzaevsky has taken a step that would have horrified even Kolchack himself-he has declared himself Supreme Vozhd of Russia! We cannot allow this dark contagion of counter-revolution to spread any further-we shall crush him. Even if he is to expand and take over all of Russia, his unique form of rabble-rousing reactionarism is not likely to find support from the worker and peasant masses, so in a sense we are doing him a favor"
+PSL_brotherly_comrades:0 "The Brotherly Comrades?"
+
+PSL_brotherly_comrades_desc:0 "Ivanov Razumnik and the OLN, while possessing populist and potentially anti-democratic tendencies as well as not being the most steadfast of allies to President Kerensky, is one of our only allies ideologically in the region. We shall have to see if we can negotiate a united front with them to fight our mutual enemies. And in the end, we believe in the same things: a democratic, popular socialism."
+
+PSL_false_prophets:0 "거짓된 구세주"
+PSL_false_prophets_desc:0 "In the city of Tsitsikar, a most bizarre form of socialism has taken power. Descendants of Bogadanov's Vperedists, the Free Creatorium believes that humans can reshape reality and other nonsensical beliefs that will have tragic effects if they are ever implemented as policy. They sing the prettiest of lies to deceive the workers and peasants into following them, but in reality are just power-hungry insects making a mockery of the dream of socialism."
+
+PSL_harbin_madness:0 "하르빈의 광기 거부"
+PSL_harbin_madness_desc:0 "In Harbin, a most unusual alliance holds power. Former Vperedist Alexei Gastev has renounced his more technocratic and Bolshevik views, instead shifting to syndicalism and an alliance with radical capitalist Alisa Rosenbaum. We will easily claim Harbin from the hands of these foggy-eyed utopians, and we promise to the people of the city real and tangible change."
+
+PSL_to_pacific:0 "태평양을 향하여!"
+PSL_to_pacific_desc:0 "We are near the end of our quest to properly unify Zheltorossiya once again into a proud remnant of the Republic, but we must continue pushing onwards. When we reach the shores of the Pacific, when we've stamped out the oligarchs led by the despicable Merkulov brothers, we will finally be able to breathe a sigh of relief-from a little statelet, we've reasserted our authority across a large chunk of territory, and we will soon be marching across Russia to redeem 1905 and 1917."
+
+PSL_formulate_national_cause:0 "Formulate the National Cause"
+PSL_formulate_national_cause_desc:0 "We will get the construction and industry of what we control the maximum amount of investment. We can shout slogans of freedom and struggle, but we cannot accomplish anything without their productions.  Guns, engines, bullets-so much of this upcoming war effort will be carried on the backs of the factory workers."
+
+PSL_directive_leader:0 "Directive of the Leader"
+PSL_directive_leader_desc:0 "We politicians may officially hold power, but we cannot accomplish anything without the backing of Boldyrev, a man who has thrown himself into the immense task of restoring what has once been lost! As he is a general who is trusted by the people, he has the legitimacy to rule by decree. This, while undemocratic, will allow things to be done more efficiently in order for our great dream to be realized."
+
+PSL_caesar_of_socialism:0 "사회주의의 킨킨나투스"
+PSL_caesar_of_socialism_desc:0 "Boldyrev, a simple military man, was the last one any of us expected to take the helm of government, but alas, someone with discipline and without fear must take charge of the revolution at this critical hour for our republic. Like Cincinnatus of Rome, he will lead in times of crisis with an iron fist, but once peace and prosperity reigns, he will return power to the democratically elected government of the people."
+
+PSL_primacy_party:0 "The Primacy of the Party"
+PSL_primacy_party_desc:0 "Unfortunately, we have seen what the results of unfettered, dictatorial populism has brought. Kolchak and other reactionaries were fond of manipulating the anger of the masses to carry out their political visions, of whipping up people into mobs to lynch the "enemies of the autocracy." The left is no less susceptible to the dangers of populism. The impartial wisdom and the calmness of the party, not swayed by words but by firmly held values, will serve the Russian people the best."
+
+PSL_protector_of_state:0 "국가의 수호자"
+PSL_protector_of_state_desc:0 "Boldyrev is the protector, not the leader, of the great Russian motherland. We have seen what happens when military leaders take power from civilian ones, and the end result is always one of tears and blood for the nation. Boldyrev himself seems content with a role restricted to the military, and who are we to prevent him from doing his job?"
+
+PSL_strong_hand_democracy:0 "민주정의 강한 손아귀"
+PSL_strong_hand_democracy_desc:0 "The problem under Kerensky in Zheltorossiya was that democracy was weak, like a meek child being pummeled by bullies on a playground. We allowed radicals like Bogdanov and Trotsky, not to mention the ultra-individualist Rosenbaum to worm their way into politics, and we called this "democracy." We will have to be more steadfast in the defense of democracy, of what the vast majority of Russians want. We will sweep aside these scumbags and only allow the parties that respect democratic principles."
+
+PSL_social_democracy_renewal:0 "A Social Democratic Renewal"
+PSL_social_democracy_renewal_desc:0 "The land will belong to nobody but the people. The cooperatives and the voluntary societies will be promoted amongst the peasants, the workers and all other segments of Russian society. We will prosecute the big names of reaction, but we will not deprive the people of the right to freely live in this new country, regardless of their former Tsarist affiliations."
+
+PSL_notes_normalisation:0 "Notes from Normalisation"
+PSL_notes_normalisation_desc:0 "Not everything needs to be under the all-consuming bureaucracy of the state. We can follow the example of Premier Paul Levi, who to some degree successfully transitioned from a fully capitalist economy to a socialist one while retaining some of the more useful features of the previous system. We do this not to halt the march of progress, but to stabilize things so that the people may ready themselves for a full socialist system."
+
+PSL_berlins_echo:0 "베를린의 메아리"
+PSL_berlins_echo_desc:0 "We have been following the social democracy of Germany in everything but name, so it might be time to announce fully to the public what we are doing. While some may disagree, the vast majority of Russians approve of our policies. After General Boldyrev's successful liberation of the Russian people and the implementation of our policies, what couldn't hurt if not some international recognition?"
+
+PSL_do_not_forget_cause:0 "우리의 대의를 잊지 말도록"
+PSL_do_not_forget_cause_desc:0 "Zheltorossiya has finally been liberated, but we have enemies everywhere still, from the bloodthirsty Ataman of Transbaikal to Sternberg and his princely puppets in the so-called Imperial Authority, built upon the suffering of the Mongolian people! As Republicans, we will overthrow these."
+
+PSL_freedom_to_russia:0 "러시아에 자유를!"
+PSL_freedom_to_russia_desc:0 "The rest of Russia cries out for liberation. The Tsarists and their puppets still hold sway over not only Russians, but the countless oppressed peoples scattered throughout. The day of Republican restoration draws closer and closer. To the Caucasus! To the steppes! To Moscow and Petrograd! We won't surrender the Republican cause to anyone!"
+
+PSL.1.t:0 "의무의 부름"
+PSL.1.desc:0 "Vasily Boldyrev had seated in the Tahe town hall, the now "Provisional Capital of the Russian Republic", though such empty platitude had done little good for the crumbling small settlement. His hands were either nervously fidgeting the revolvers chamber or impatiently tapping the table, or at some points both at once. He was a busy man, more so in recent days than ever before. Molchanov and Sablin both looked at him with hint of nervosity and high expectations in their eyes, perhaps undeservingly. He never asked for this. For all of this. His office had always been the open steppe, his duties only to the rifle and his men. Now said men looked up to him as the Republican messiah, the last flicker of hope as in the engulfing dark of separatism and reaction. He of course meant to finish all that was demanded of him, as expected of a general, but a more severe thought occupied his mind: What then? What will happen once all this is over?\n\nThe peasantry, the soldiers, the workers who still remained all looked up to him as an ideal of the perfect loyalist. Disciplined titan of a man who carries the boulders of freedom and progress in left and right hand each. His heart of course beat for them, but his mind knew better. Just a quick look into history was enough. Sulla, a general of the Roman Republic, whose coup wished to keep the army loyal to the ideas of democracy, but had instead sowed the first seeds out of which the autocratic empire later grew. Louis Napoleon had once sworn on the principles of republicanism but betrayed them for his own tyrannical aims, bringing ruin to France as well as all Europe. Marshal Piłsudski had been hailed as democratic savior and Prometheus born anew by the Sejm, now his face served as the inspiration for dozen petty tyrants and deluded radicals. A military junta had been handed control over Switzerland to safeguard the democratic principles and neutrality of that country, yet so far they have done neither.\n\nRussia of today was not ready for democracy, true. But the Russia of tommorow easily could be, and how would they receive him then? Could he afford to sit in Kolchaks chair, wear Kolchaks clothes, drink with Kolchaks lackeys? What would his beloved homeland think of him? The Mensheviks had all but scattered in the chaos, but roots and ideas ran deeper than blood. Where there are now empty desks could eventually sit a thousand and more bureocrats, all working together for the good of all. Just like the Germans had done. No autocrats, no military abuses of power, only a transparent civilian government dedicated to truly serving the people. That is, if they dont make the same mistakes the old Republic had done. Besides the people demand action, a "now" not a "then". Boldyrev can only fold his hands under his face at the dilemma. What matters more, the people or democracy?"
+PSL.1.a:0 "계엄을 선포한다. 그게, 바로 인민이 원하는 바이니!"
+PSL.1.b:0 "우리의 민주 원칙들을 내다 버릴 수는 없어. 당을 재건한다!"

@@ -1,0 +1,32 @@
+﻿l_english:
+
+#PARTIES#
+BOS_revisionist_socialism_party:0 "ZS"
+BOS_revisionist_socialism_party_long:0 "농업당"
+BOS_liberalism_party:0 "DS"
+BOS_liberalism_party_long:0 "민주당"
+BOS_conservatism_party:0 "JMO"
+BOS_conservatism_party_long:0 "유고슬라비아 무슬림 조직"
+BOS_anarchism_party:0 "MB"
+BOS_anarchism_party_long:0 "청년 보스니아 조직"
+BOS_accelerationism_party:0 "UBBH"
+BOS_accelerationism_party_long:0 "\"한자르 집단\" 보스니아 전투단"
+BOS_reactionism_party:0 "\"한자르 집단\" 일리리야 단결회"
+#LEADER DESCRITIONS#
+POLITICS_HALIM_MALKOC_DESC:0 "자신의 고향인 비하치에선 젊은 이맘이었던 할림 말코치는 유고슬라비아의 비효율에서 벗어나 새 보스니아크 정체성을 만들고 새롭게 하길 고대해왔습니다. It was clear to Halim that the Yugoslav state was not long for this world when it proclaimed State Orthodoxy all across its territory, resulting in immense revolts across the nations of the Balkans, formerly under Crypto-Serbian domination. 이제 수백만 보스니아크들의 땅이 세르비아의 간계에서 벗어나게 됐으니, the dream of a rejuvenated national identity for Bosniaks, and most importantly a secular one, has resulted in many hailing Halim as a young war hero, and living national symbol of Bosnia's young existence as a Nation."
+POLITICS_HALIM_MALKOC_REACTIONARY_DESC:0 "누구도 비하치 출신의 이맘, 그것도 그토록 어린 청년이 유럽 내 이슬람의 새 수호자가 됨을 넘어 유럽의 마카의 권위를 지키는 수호자가 되리라곤 예상조차 하지 못 했습니다. Much to the chagrin of surrounding Christians, Bosnia continues to live on as a beacon of Allah's prophet, Muhammad, and His invincible words. 이제, 보스니아와 유럽 내 이슬람의 살아 있는 상징이 된 할림은 is hated and beloved by millions, with millions more being expelled from his ever-expanding lands, proclaiming an eternal Jihad to defend Islamic Europe at all costs."
+POLITICS_DIMITRIJE_MITRINOVIC_DESC:0 "디미트리예 미트리노비치는 결코 never expected to be the head of one of the fledging and most important national-anarchist territories in Europe, and yet here he is. Beloved for his esoteric and unique beliefs regarding the nature of reality, and undoubted love for Bosnia as a free, secular nation, Dimitrije has created a bizarre social experiment, or rather thousands of them, where people live freely and defend their communities by force of arms against outside invaders. This has resulted in a profoundly militaristic society, yet entirely by voluntary means. It is unknown what will be the future designs of the great Anarch of Bosnia and other territories, but they certainly encompass freedoms that were never once thought possible."
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+BOS_IOI_accelerationism:0 "일리리야 민족이맘국"
+BOS_IOI_accelerationism_DEF:0 "일리리야 공동체 통일이맘국"
+BOS_IOI_reactionism:0 "일리리야 이슬람 할리프국"
+BOS_IOI_reactionism_DEF:0 "가장 신성한 일리리야 이슬람 할리파국"
+BOS_FT_anarchism:0 "일리리야 자유령"
+BOS_FT_anarchism_DEF:0 "일리리야 자유민족역란군"
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+#EVENTS#
+bos.1992.t:0 "이슬람의 수호자 발동!"
+bos.1992.desc:0 "똥방귀 방어막"
+bos.1992.a:0 "이슬람 빠와!! (근육 이모지)"

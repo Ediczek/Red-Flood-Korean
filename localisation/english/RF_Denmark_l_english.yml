@@ -1,0 +1,79 @@
+﻿l_english:
+#country selection#
+#COUNTRY NAME#
+DEN_anarchism:0 "덴마크 인민공화국"
+DEN_anarchism_DEF:0 "덴마크 인민공화국"
+DEN_anarchism_ADJ:0 "덴마크"
+DEN_vanguard_socialism:0 "덴마크 인민공화국"
+DEN_vanguard_socialism_DEF:0 "덴마크 인민공화국"
+DEN_vanguard_socialism_ADJ:0 "덴마크"
+DEN_popular_socialism:0 "덴마크 인민공화국"
+DEN_popular_socialism_DEF:0 "덴마크 인민공화국"
+DEN_popular_socialism_ADJ:0 "덴마크"
+DEN_revisionist_socialism:0 "덴마크 인민공화국"
+DEN_revisionist_socialism_DEF:0 "덴마크 인민공화국"
+DEN_revisionist_socialism_ADJ:0 "덴마크"
+DEN_progressivism:0 "덴마크 인민공화국"
+DEN_progressivism_DEF:0 "덴마크 인민공화국"
+DEN_progressivism_ADJ:0 "덴마크"
+DEN_liberalism:0 "덴마크 인민공화국"
+DEN_liberalism_DEF:0 "덴마크 인민공화국"
+DEN_liberalism_ADJ:0 "덴마크"
+DEN_conservatism:0 "덴마크 인민공화국"
+DEN_conservatism_DEF:0 "덴마크 인민공화국"
+DEN_conservatism_ADJ:0 "덴마크"
+DEN_right_authoritarianism:0 "덴마크 왕국"
+DEN_right_authoritarianism_DEF:0 "덴마크 왕국"
+DEN_right_authoritarianism_ADJ:0 "덴마크"
+DEN_despotism:0 "덴마크 왕국"
+DEN_despotism_DEF:0 "덴마크 왕국"
+DEN_despotism_ADJ:0 "덴마크"
+DEN_reactionism:0 "덴마크 왕국"
+DEN_reactionism_DEF:0 "덴마크 왕국"
+DEN_reactionism_ADJ:0 "덴마크"
+DEN_accelerationism:0 "덴마크 인민공화국"
+DEN_accelerationism_DEF:0 "덴마크 인민공화국"
+DEN_accelerationism_ADJ:0 "덴마크"
+
+
+#PARTIES#
+DEN_vanguard_socialism_party:0 "DKP-B"
+DEN_vanguard_socialism_party_long:0 "덴마크 공산당 (부더페쉬트파)"
+DEN_popular_socialism_party:0 "DKP"
+DEN_popular_socialism_party_long:0 "덴마크 공산당"
+DEN_anarchism_party:0 "USF"
+DEN_anarchism_party_long:0 "Ungsocialistisk Forbund"
+DEN_revisionist_socialism_party:0 "SDAP"
+DEN_revisionist_socialism_party_long:0 "사회민주노동자당"
+DEN_progressivism_party:0 "RV"
+DEN_progressivism_party_long:0 "급진좌익"
+DEN_liberalism_party:0 "EP"
+DEN_liberalism_party_long:0 "Erhvervspartiet"
+DEN_conservatism_party:0 "SR"
+DEN_conservatism_party_long:0 "단결과 권리 연맹"
+DEN_right_authoritarianism_party:0 "NS"
+DEN_right_authoritarianism_party_long:0 "Nationalt Samvirke"
+DEN_reactionism_party:0 "NSA"
+DEN_reactionism_party_long:0 "전국학생행동"
+DEN_despotism_party:0 "DF"
+DEN_despotism_party_long:0 "Dansk Folkefællesskab"
+DEN_accelerationism_party:0 "SDAP-F"
+DEN_accelerationism_party_long:0 "사회민주 노동자당 (Fremad)"
+
+
+
+#LEADER DESCRITIONS#
+POLITICS_MARIE_SN_DESC:0 "마리-소피 닐슨은 is a fervent communist, who quickly embraced the People’s Republic and joined the SDAP, pleased with the results. Alas, the unthinkable happened. Instead of embracing the revolution and removing the stain of liberalism, the new government started collaborating with capitalists, allowing the reactionaries to roam free in Denmark. How could this happen? How could the revolution be this soft? She needed to act, and along with her fellow communists, they split from the SDAP to form the DKP. Further collaboration with Germany, Abolish such idiotic things like the Parliament and cement a Permanent Revolution has been her party’s talking points for years, and now that her party was elected into power, the promises are soon to become reality."
+POLITICS_PETER_MUNCH_DESC:0 "페다 로쉬군 먹은 1870년 가난한 환경 속에 태어나고도 사학과를 졸업해냈지만, 먹의 진정한 위업이 남은 곳은 정치의 영역이었습니다. Even during the Zahle government in the Kingdom, Munch and the 급진좌익 were influential. \n\n스타우닝 정부와 긴밀히 움직이던 페다에게 내전은 기회였으나, but soon the RV would fall over and move on to follow a more conservative path, right under his watch. Now that he is the Formand of Denmark, Peter Munch not only needs to reform his country; he needs to reform his party as well, or else the revolutionary spirit alive might as well vanish."
+POLITICS_THORVALD_STAUNING_DESC:0 "1873년생인 차밸 스타우닝은 언제나 좌익 정치에 손을 담가 왔습니다. 스타우닝은, 덴마크 내전이라 할 빠른 척후전 이후 이루어진 덴마크 인민공화국 수립을 칼 체오도어 세일과 함께 책임졌습니다. \n\nStauning, always with his remarkable moderate and progressive views, ensured the country would stay a free and democratic republic after the revolution, and thus, in the first election, he was elected Formand, but for all his liberalism, the radicals and fervent revolutionaries active in the fledgling state’s formation felt discontent, and split to form their own parties. Nevertheless, Thorvald’s reforms made him extremely popular with the people, and the SDAP, the greatest pillar of the republic, has no reason to go away."
+POLITICS_ARNE_SORENSEN_DESC:0 ""
+#IDEAS#
+DEN_warschauer_vertrag:0 "바르샤바 조약"
+DEN_democratic_road:0 "사회주의를 향한 민주적 길"
+DEN_democratic_road_desc:0 "\"민주정 없는 사회주의는 생각도 할 수 없다.\"\n-카를 카우츠키\n\nTo be revolutionary without chaos, to avoid stagnation without plunging into senseless violence, to act on the public will while still accounting for the minority voice, to work towards both socialism and democracy. 이것이 1918년 이름 이래 덴마크 혁명의 목표였으니, 공화국이 외세나 내세에 의해 망할 때까지 그 목표는 계속 그 자리를 지킬 것입니다."
+
+DEN_conservative_revolution:0 "보수혁명"
+DEN_conservative_revolution_desc:0 "\"민주정은 오직 야당의 존재로써 가늠할 수 있다.\"\n-포울 헤닝슨\n\n혁명 이래 보수주의는 정치상 사망했습니다. 보수주의를 지지하던 정예층과 정치인들은 대규모로 출국했고 그렇지 않은 이들의 대부분은 공화국 내에서 일하길 거부했습니다. 이 모든 건 5년 전에 바뀌었습니다.\n\n덴마크 단결이 마침내 자유 및 사회주의 정당들을 위한 제대로 된 대안으로 떠올랐습니다. 이들의 존재는 공화국의 건강에 복합된 결과를 가져왔습니다. 한편으로, 당은 우익 지지자들을 위한 합법 대안 정당으로서 군주주의자들의 입지를 악화시켰습니다. 시민들이 자기 의견을 표출할 수 있음은 당연하게도 언제나 좋은 일입니다만...\n\n얄궂게도, 단결은 공화국의 본성이 무엇인가를 둔 오랜 분열들을 조명하며 공화국의 단결을 위협하고 있습니다. 극좌 쪽에서는 자유주의자들을 더 쉽게 용인할 수 있는 보수주의가 준불법이라는 목소리를 조용히 내왔습니다. 이 거짓 가정이 파훼되자 극좌는 분주해졌습니다. 그리고 단결 측에서는 자신들의 존재가 간신히 용인될 뿐이며 동등한 정당으로 대우받지 못하고 있다는 감정이 일고 있습니다.\n\n한 가지 분명한 건, 가만히 놔둔다고 보수혁명이 알아서 멈추진 않으리란 겁니다."
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

@@ -1,0 +1,39 @@
+﻿l_english:
+
+#COUNTRY NAME#
+CCD:0 "이스칸다룬"
+CCD_DEF:0 "이스칸다룬 자유 아랍국"
+CCD_ADJ:0 "아랍"
+CCD_reuni:0 "알 샴"
+CCD_reuni_DEF:0 "샴 자유 아랍국"
+CCD_reuni_ADJ:0 "아랍"
+#PARTIES#
+CCD_accelerationism_party:0 "HSQI"
+CCD_accelerationism_party_long:0 "Hizb al-Suri al-Qawmi al-Ijtima'i"
+CCD_vanguard_socialism_party:0 "NU"
+CCD_vanguard_socialism_party_long:0 "Nadi al-'Uruba"
+CCD_popular_socialism_party:0 "SSP"
+CCD_popular_socialism_party_long:0 "시리아 사회당"
+CCD_anarchism_party:0 "SR"
+CCD_anarchism_party_long:0 "Syrian Revolutionary Union"
+CCD_revisionist_socialism_party:0 "HIA"
+CCD_revisionist_socialism_party_long:0 "Hizb al-Ishtirakiyeen al-'Arab"
+CCD_progressivism_party:0 "HSQI"
+CCD_progressivism_party_long:0 "Hizb al-Suri al-Qawmi al-Ijtima'i"
+CCD_liberalism_party:0 "SDP"
+CCD_liberalism_party_long:0 "시리아 민주당"
+CCD_conservatism_party:0 "SFP"
+CCD_conservatism_party_long:0 "시리아 조국당"
+CCD_right_authoritarianism_party:0 "KW"
+CCD_right_authoritarianism_party_long:0 "Kutlah al-Wataniyah"
+CCD_reactionism_party:0 "IPFS"
+CCD_reactionism_party_long:0 "시리아 이슬람 수호군"
+CCD_despotism_party:0 "HIA"
+CCD_despotism_party_long:0 "Harakat al-Ihya al-'Arabi"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+CCD_WIN_SYR_tt:0 "@CCD §Y이스칸다룬 자유 아랍국§! @SYR §Y대시리아 연합왕국§!을 전복시켰습니다."
+CCD_WIN_SNP_tt:0 "@CCD §Y이스칸다룬 자유 아랍국§! @SNP §Y시리아 공화국§!에 맞선 혁명에 성공했습니다."
+#DECISIONS (1.5 Update)#
+#FOCUSES#

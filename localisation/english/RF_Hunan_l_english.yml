@@ -1,0 +1,57 @@
+﻿l_english: 
+ POLITICS_Cheng_Qian_DESC:0 "“청쳰은 야망과 전체적 상황에 대한 의식이 있었으며, 숭자오런의 유산을 이어가는 데 신실했다. 그 자신은 민생론을 이해하지 못 했지만 우리가 토지개혁과 사회개혁을 해나갈 수 있도록 해주었다.”-랴오중카이\n\n청쳰은 1877년 후난 성의 리링에서 태어났습니다. 1900년 창샤의 웨루 서원에 입학한 창쳰은 현재의 상황에 대해 배우고는 자신이 가진 문예술과 무술 단련 의지를 포기했습니다. 일본에서 쑨원을 만나고 동맹회에 가입한 그는 쑨원의 충실한 추종자가 되었습니다.\n\n쑨원의 죽음 이후, 대부분의 장교들이 그랬듯 청쳰은 숭자오런에게 충성했습니다. 1923년 국민혁명군이 광저우를 무력화한 후, 청쳰은 기금을 모아 광저우 군관학교를 설립했습니다. 총장으로서 군재를 훈련시키던 그를, 숭자오런은 황푸 군관학교의 총장으로 임명하고자 했습니다.\n\n북벌의 결과는 청쳰의 운명을 완전히 뒤바꾸어 놓았습니다. 국민혁명군 제 6군단의 지휘관인 청쳰은 병사들을 이끌고 우한으로 가 중원전쟁에서 군벌들을 패퇴시켰습니다. 그 유명한 우페이푸조차 청쳰의 수하의 손에 죽었을 정도였습니다.\n\n청쳰을 비롯해 장사 국민정부에 충성하는 많은 관료들이 쉬충즈의 교전중지 명령에 불복했으나, 이 불복자들의 부대 역시 북방 군벌 및 국제 군세와의 합동 전역을 치르며 큰 피해를 입은 상태였습니다. 상황을 파악한 청쳰은 6군단과 다른 친좌익 국민혁명군 세력을 재정비하기 위해 이들을 이끌고 후난으로 물러났습니다.\n\n청쳰이 난징 회담에 모습을 드러냈다는 사실은 모두를 놀라게 했습니다. 외세와 국민당 우익이 숭자오런을 국민정부 총재 자리에서 물러나게 만드는 데는 성공했지만, 그 둘조차 청쳰이 보유한 군세를 무시할 수는 없었습니다. 청쳰은 후난성의 성장직을 대가로 남경 정부에 명목상 복종한다는 듯했습니다.\n\n반공운동에서 청쳰이 보인 행동은 장징장과 첸치메이의 화를 자아냈습니다. 청쳰이 남경 정부에 넘긴 간부들의 목록은 언제나 "포화 상태"지만, 난징 요원들은 종종 후난성 정부에 반대한 "망자"를 찾는 데에 곤란을 겪고 있습니다. 1936년의 청쳰은 장징장과 쉬충즈 사이의 아슬아슬한 중심을 조심스레 유지하고 있습니다. 청쳰은 자신의 민생파와 노동자당이 실험적인 토지 및 사회개혁을 계속 이끌어 나가도록 할 것이며, 독일의 산업 자문단을 고용해 후난이 기본적인 산업화를 이룩할 수 있도록 도울 것입니다. 거의 모든 이들이 후난의 밝은 미래를 전망하고 있습니다. 뭔가 예상치 못한 일이 벌어지지 않는 한은 말이죠..."
+
+#COUNTRY NAME#
+XIA_PROC_vanguard_socialism:0 "중화인민공화국"
+XIA_PROC_vanguard_socialism_DEF:0 "중화인민공화국"
+XIA_PROC_vanguard_socialism_ADJ:0 "중국"
+
+XIA_PROC_popular_socialism:0 "중화인민공화국"
+XIA_PROC_popular_socialism_DEF:0 "중화인민공화국"
+XIA_PROC_popular_socialism_ADJ:0 "중국"
+
+XIA_PROC_revisionist_socialism:0 "중화인민공화국"
+XIA_PROC_revisionist_socialism_DEF:0 "중화인민공화국"
+XIA_PROC_revisionist_socialism_ADJ:0 "중국"
+#PARTIES#
+XIA_vanguard_socialism_party:0 "CPC - R"
+XIA_popular_socialism_party:0 "CPC - L"
+XIA_anarchism_party:0 "CAM"
+XIA_revisionist_socialism_party:0 "KMT - 민생"
+XIA_progressivism_party:0 "KMT - 청쳰 군벌"
+XIA_placeholderism_party:0 "KMT - 온건"
+XIA_liberalism_party:0 "KMT - 온건"
+XIA_conservatism_party:0 "KMT - 민주"
+XIA_right_authoritarianism_party:0 "KMT - CEC"
+XIA_despotism_party:0 "NRA"
+XIA_reactionism_party:0 "KMT - SSS"
+XIA_accelerationism_party:0 "CYP"
+XIA_vanguard_socialism_party_long:0 "중국공산당 우익"
+XIA_popular_socialism_party_long:0 "중국공산당 좌익"
+XIA_anarchism_party_long:0 "중국 아나키스트 운동"
+XIA_revisionist_socialism_party_long:0 "국민당 민생파"
+XIA_progressivism_party_long:0 "국민당 청쳰 군벌"
+XIA_placeholderism_party_long:0 "국민당 온건파"
+XIA_liberalism_party_long:0 "국민당 온건파"
+XIA_conservatism_party_long:0 "국민당 민주파"
+XIA_right_authoritarianism_party_long:0 "국민당 중앙행정위원회"
+XIA_despotism_party_long:0 "국민혁명군 군사위원회"
+XIA_reactionism_party_long:0 "국민당 원로회"
+XIA_accelerationism_party_long:0 "중국청년당 - 호남"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+XIA_red_faction:0 "홍파"
+XIA_red_faction_desc:0 ""
+XIA_communist_struggle:0 "내부 공산주의 투쟁"
+XIA_communist_struggle_desc:0 ""
+XIA_experimenal_land_reforms:0 "실험적 토지개혁"
+XIA_experimenal_land_reforms_desc:0 ""
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+POLITICS_QIAN_DESC:0 ""
+POLITICS_MAO_DESC:0 ""
+POLITICS_DUXIU_DESC:0 ""
+POLITICS_BOJUN_DESC:0 ""
+XIA_CPC_faction:0 "Chinese Socialist Front"

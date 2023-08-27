@@ -1,0 +1,209 @@
+﻿l_english: 
+
+#Category
+ideology_generic_category:0 "정치행동"
+peacetime_decisions:0 "평시행동"
+wartime_decisions:0 "전시행동"
+destroy_the_spanish_language:0 "에스파냐어 분쇄"
+
+#Anarchist
+anarchism_rally:0 "코뮌 토론 개최"
+anarchism_rally_desc:0 "좌익주의 교의에 관한 건강한 논쟁과 이해 증진을 위한 최선안들은 무정부의 그늘 아래 우리 코뮌들을 단결시킵니다."
+
+anarchism_propaganda:0 "기관 민주화"
+anarchism_propaganda_desc:0 "행복한 노동자의 목소리는 개의할 만한 사안이죠. 전직 자본주의자나 위원장 같은 것들 대신 공동체가 모든 기반을 장악하는 것이 인민을 만족시킬 겁니다."
+
+anarchism_conference:0 "지역 민병대 선거"
+anarchism_conference_desc:0 "민병대 선거는 일종의 무료 홍보 효과를 주며, 혁명과 봉기의 수호라는 편재한 필요를 상기시켜줍니다."
+
+anarchism_appeal:0 "인민의 참여"
+anarchism_appeal_desc:0 "Long downtrodden, the people of this land are now free to engage with matters of community organisation big and small. We should encourage them to take the first step towards a better, freer future."
+#Vanguard Socialist
+vanguard_socialism_rally:0 "중앙위원회 대회"
+vanguard_socialism_rally_desc:0 "중앙위원회 소집은 사회주의가 전국에 효과적으로 심어졌는지 확인할 수 있도록, 그 어떤 잠재적 사회문제도 물리칠 수 있도록 해줍니다."
+
+vanguard_socialism_propaganda:0 "당원 자격 개방"
+vanguard_socialism_propaganda_desc:0 "모두가 전위당의 당원이 되는 게 좋습니다. 가능한 한 많은 이들을 당으로 끌어들이는 게 혁명을 확실시하고 사람들을 만족시켜줄 겁니다."
+
+vanguard_socialism_conference:0 "Host Another Party Conference"
+vanguard_socialism_conference_desc:0 ""
+
+vanguard_socialism_appeal:0 "혁명 열병식 준비"
+vanguard_socialism_appeal_desc:0 "열병은 우리 전위대의 힘을, 자본과 반동의 가장 어두운 자들에 맞선 전쟁의 필요성을 보여줍니다."
+
+#Popular Socialist
+popular_socialism_rally:0 "인기 없는 대표 소환"
+popular_socialism_rally_desc:0 "인민의 의지가 언제나 완벽한 건 아닙니다. 언동이 거칠고 탐욕스러운 대부분의 관료들의 은퇴를 조심스레 유도한다면 그들의 자리를 유권층이 좋아하는 이들로 채울 수 있습니다."
+
+popular_socialism_propaganda:0 "노조 통합"
+popular_socialism_propaganda_desc:0 "노조는 마르크스주의의 씨앗입니다. 노조와 발을 맞추는 사회주의 국가는 절대 무너지지 않습니다."
+
+popular_socialism_conference:0 "새 평의회 회기"
+popular_socialism_conference_desc:0 ""
+
+popular_socialism_appeal:0 "군사평의회를 향한 양보"
+popular_socialism_appeal_desc:0 "우리 병사평의회들의 인도주의 및 물질적 우려에 대한 경청은 전쟁 수행을 위한 노력을 원활히 할 것입니다."
+
+#Revisionist Socialist
+revisionist_socialism_rally:0 "급진파와의 화해"
+revisionist_socialism_rally_desc:0 "그냥 놔둔 급진 구성원들이 국가권력을 집어삼키려 들 것임은 필연입니다. 좌익 단결을 위해선 화해가 필수입니다."
+
+revisionist_socialism_propaganda:0 "중산층 유도"
+revisionist_socialism_propaganda_desc:0 "반동과 혁명 사이에 끼인 중산층은 자본과 노동 중 한쪽에 온전히 속하지 못합니다. 이들과 친애를 쌓는다면 국가의 반을 우리편에 둘 수 있습니다."
+
+revisionist_socialism_conference:0 "당원권 확대"
+revisionist_socialism_conference_desc:0 ""
+
+revisionist_socialism_appeal:0 "전시 노동권 보호"
+revisionist_socialism_appeal_desc:0 "배급과 식량부족, 애국적 노동과 죽음을 향한 자기노동 사이엔 완벽한 선이 놓여 있습니다. 전쟁 수행 노력은 노동권의 강고한 수호 없인 진행될 수 없습니다."
+
+#Social Democrat
+progressivism_rally:0 "특별위원회 구성"
+progressivism_rally_desc:0 "사회불의는 교정 이전에 평가가 필요합니다. 위원회를 설립해 우리의 논제들을 처리할 수단을 작동시킴에 앞서 그에 대해 분석하고 이해할 것입니다."
+
+progressivism_propaganda:0 "자본가와 약속"
+progressivism_propaganda_desc:0 "어떤 이유에서인지 자본가들은 사회민주주의자들을 대할 때면 공산주의자와 착각해선 항상 가슴이 콩닥콩닥 뛰더군요! 저들에게 저들의 노고의 과실을 앗아가려는 게 아니라는 것을 명확히 해줘야 합니다."
+
+progressivism_conference:0 "당원권 조사"
+progressivism_conference_desc:0 ""
+
+progressivism_appeal:0 "노조와 협업"
+progressivism_appeal_desc:0 "노조는 노동과 자본 간의 균형을 맞추는 저울과 같습니다. 양측과의 협력은 고국에서의 싸움에서 이기는 법이며, 자원의 공평분배는 모두를 만족시킬 겁니다."
+
+#Liberal
+liberalism_rally:0 "필수 산업 보호"
+liberalism_rally_desc:0 "기름을 잘 먹은 기계처럼 경제가 돌아갈 때에 모두가 행복한 법이죠. 모든 산업이 계속해서 작동하도록 분명히 해야 합니다."
+
+liberalism_propaganda:0 "모두를 위한 자본주의!"
+liberalism_propaganda_desc:0 "자본주의의 이익은 잡역부에서부터 최고경영자에 이르기까지 노력하는 모든 노동자들을 위해 위에서 아래로 흐르기 마련입니다. 자선과 공공사업이 통하듯 자본주의도 통합니다."
+
+liberalism_conference:0 "정치호의 탐색"
+liberalism_conference_desc:0 ""
+
+liberalism_appeal:0 "전쟁자원 비축"
+liberalism_appeal_desc:0 "인정하기엔 혐오스럽지만, 전쟁은 시장에 좋습니다. 지금의 생산 증대는 후일의 우리를 훨씬 강하게 할 것입니다."
+
+#Conservative
+conservatism_rally:0 "불필요한 기관 축소"
+conservatism_rally_desc:0 "내핍한다는 것은 모든 역경에 맞서 살아기 위해 엄혹하고 확고해진다는 것입니다. 내핍을 위한 최고의 수단은 긴축이며, 긴축은 우리나라의 완벽을 위한 수단이 될 것입니다"
+
+conservatism_propaganda:0 "전통을 향한 호소"
+conservatism_propaganda_desc:0 "모두가 전통을 따르고 행복했던 시절이 있었습니다. 인민에게 과거를 되돌려 우리가 모두를 만족시켜줄 수 있다는 걸 상기시키도록 합시다."
+
+conservatism_conference:0 "정적에 맞선 동맹"
+conservatism_conference_desc:0 ""
+
+conservatism_appeal:0 "애국의무 이행 요구"
+conservatism_appeal_desc:0 "전쟁은 결코 사소한 이유로 벌어지지 않습니다. 모든 시민은 우리가 가담한 모든 전쟁이 우리의 영혼을 위한 것이자, 우리의 정신과 우리 민족의 신성성을 위한 전쟁임을 상기해야 합니다."
+
+#Right Authoritarian
+right_authoritarianism_rally:0 "비협조 시민 숙청"
+right_authoritarianism_rally_desc:0 "시민사회는 절대적 화합을 통해서만 유지됩니다. 이 화합에 위협이 될 요소는 즉각 소거될 것입니다."
+
+right_authoritarianism_propaganda:0 "병역이 안전을 보장한다"
+right_authoritarianism_propaganda_desc:0 "시민들에겐 공동체가 꼭대기에 우뚝 서도록 도와야 할 의무가 있습니다. 공공용역의 중요성에 집중한 지속적 운동은 선거권 피탈자들을 고양시키는 데 필수적이며, 조국의 단단한 손아귀를 상기토록 합니다."
+
+right_authoritarianism_conference:0 "특권정당 주최"
+right_authoritarianism_conference_desc:0 ""
+
+right_authoritarianism_appeal:0 "병역을 대가로 한 사면"
+right_authoritarianism_appeal_desc:0 "우리 병사들은 모든 것보다 우선합니다. 우리 군사력의 공개시연과 군에서 찾을 수 있는 만족스러운 거리들이라면 민간을 설득시킬 수 있을 겁니다."
+
+#Despotic
+despotism_rally:0 "대연설"
+despotism_rally_desc:0 "말에는 힘이 있습니다. 우리의 영광된 지도자의 말에는 큰 힘이 담겨있지요. 공동광장에서의 위대한 연설은 몸에서 독소를 뽑아내는 듯, 사회의 모든 병을 드러내어 말끔하게 해줍니다."
+
+despotism_propaganda:0 "충성된 신민들을 위한 보상"
+despotism_propaganda_desc:0 "국토와 국가를 향한 충성은 그 자체로 보상이나, 물질적 이익을 더한다면 설득이 덜된 이들도 유인할 수 있을 겁니다."
+
+despotism_conference:0 "내부경쟁자 배제"
+despotism_conference_desc:0 ""
+
+despotism_appeal:0 "민족 집결!"
+despotism_appeal_desc:0 "온 나라가 하나되어 행진하고 나면 전쟁의 필요성과 즐거움을 절대 잊지 않을 겁니다."
+
+#Reactionary
+reactionism_rally:0 "민족의 역작 건설"
+reactionism_rally_desc:0 "최초이자 가장 위대한 문명들은, 인간 무리가 놀라운 구조물을, 바로 최초의 민족기념물을 창조하고자 뭉치면서 형성된 것입니다. 번영을 위해 우리를 위한 예술을 필요로 하는 우리이니, 바로 그 예술은 국가를 섬김에 있어서야 진정으로 정상에 닿을 수 있습니다."
+
+reactionism_propaganda:0 "경쟁 정당 협박"
+reactionism_propaganda_desc:0 "타정당은 퇴폐적입니다. 부패해가는 세계에 지나치게 애착을 가지며, 인조물에 지나치게 집착합니다. 제정신을 가진 게 우리 밖에 없으니 놈들을 짓밟아야 마땅합니다."
+
+reactionism_conference:0 "현자 모집"
+reactionism_conference_desc:0 ""
+
+reactionism_appeal:0 "이념적 군국주의 자극"
+reactionism_appeal_desc:0 "우리는 두 수준의 전쟁을 수행합니다. 하나는 우리 적들에 맞서 우리 총포를 사용하는 것이 있고, 다른 하나는 근대성에 맞서 우리의 혀를 이용하는 것이죠. 우리가 처한 상황에 대한 생각도 부족하고 이전 시대의 용담과도 단절된 군단으로는 부족합니다. 말하고 이론화하면서도 자리에서 일어나서 현실에서 뭔가를 이뤄내지 않는 이들도 부족합니다. 우리는 이념적 완벽성을 지닌 이상적인 군인들을 키워내야 합니다."
+
+#Accelerationism
+accelerationism_rally:0 "Confluence of Technologies"
+accelerationism_rally_desc:0 "As sciences advance, the study of man, time, space, matter and more bears fruit. Novel machinations, plans and designs that enrich our lives. Our progress stands testament to the just cause of our endeavours."
+
+accelerationism_propaganda:0 "Promise a Liberating Alternative"
+accelerationism_propaganda_desc:0 "Out with the stuffy, cramped, conservative and navel gazing ways of the Empires. The modern world is changing, it is inevitable that we change with it. This new way of life is one truly more envigorating."
+
+accelerationism_conference:0 "The Orthodox and Unorthodox"
+accelerationism_conference_desc:0 "While innovation is a noble pursuit, great vision an enviable trait and creativity a desirable ability, there are always limits to what can be expressed, acted upon, and institutionalised. We must maintain an orthodoxy and contain the unorthodoxy."
+
+accelerationism_appeal:0 "March in the Name of Progress"
+accelerationism_appeal_desc:0 "How better to demonstrate the justness of our path than a show of strength? How better to instil pride of place and dedication to our vision than the March of Progress? The great parade of all that we have wrought. Men and machine ready at arms to defend all we stand for."
+
+###
+
+generic_develop_civil_industry:0 "민간산업 발전"
+generic_develop_civil_industry_desc:0 ""
+
+generic_appeal_to_neighbours:0 "이웃들을 향한 호소"
+generic_appeal_to_neighbours_desc:0 ""
+
+generic_build_up_surplus:0 "Build up a Surplus"
+generic_build_up_surplus_desc:0 ""
+
+generic_neutral_posture:0 "Neutral Posturing"
+generic_neutral_posture_desc:0 ""
+
+generic_training_programmes_army:0 "Army Training Programmes"
+generic_training_programmes_army_desc:0 ""
+
+generic_training_programmes_air:0 "Air Training Programmes"
+generic_training_programmes_air_desc:0 ""
+
+generic_training_programmes_navy:0 "Navy Training Programmes"
+generic_training_programmes_navy_desc:0 ""
+
+###
+
+generic_emergency_production_measures:0 "Emergency Production Measures"
+generic_emergency_production_measures_desc:0 ""
+
+generic_expand_wartime_effort:0 "Expand Wartime Effort"
+generic_expand_wartime_effort_desc:0 ""
+
+generic_establish_war_room:0 "Establish a War Room"
+generic_establish_war_room_desc:0 ""
+
+generic_war_propaganda:0 "War Propaganda Programs"
+generic_war_propaganda_desc:0 ""
+
+###
+
+generic_army_training_decision_text:0 "£command_power §Y35§!"
+generic_army_training_decision_text_blocked:0 "£command_power §R35§!"
+
+generic_air_training_decision_text:0 "£command_power §Y35§!"
+generic_air_training_decision_text_blocked:0 "£command_power §R35§!"
+
+generic_navy_training_decision_text:0 "£command_power §Y35§!"
+generic_navy_training_decision_text_blocked:0 "£command_power §R35§!"
+
+generic_epm_text:0 "£command_power §Y50§!"
+generic_epm_text_blocked:0 "£command_power §R50§!"
+
+generic_ewe_text:0 "£command_power §Y50§!"
+generic_ewe_text_blocked:0 "£command_power §R50§!"
+
+generic_ewr_text:0 "£command_power §Y25§!"
+generic_ewr_text_blocked:0 "£command_power §R25§!"
+
+generic_war_propaganda_text:0 "£command_power §Y25§!"
+generic_war_propaganda_text_blocked:0 "£command_power §R25§!"

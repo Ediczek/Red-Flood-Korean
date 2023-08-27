@@ -1,0 +1,78 @@
+﻿l_english:
+#COUNTRY NAME#
+MAL_anarchism:0 "해방지"
+MAL_anarchism_DEF:0 "해방지"
+MAL_anarchism_ADJ:0 "해방"
+MAL_vanguard_socialism:0 "난양 소비에트 공화국"
+MAL_vanguard_socialism_DEF:0 "난양 소비에트 사회주의 공화국"
+MAL_vanguard_socialism_ADJ:0 "난양 소비에트"
+MAL_popular_socialism:0 "말라야 인민공화국"
+MAL_popular_socialism_DEF:0 "말라야 사회주의 인민공화국"
+MAL_popular_socialism_ADJ:0 "말라야"
+MAL_revisionist_socialism:0 "랑팡 인민공화국"
+MAL_revisionist_socialism_DEF:0 "랑팡 사회주의 인민공화국"
+MAL_revisionist_socialism_ADJ:0 "랑팡"
+MAL_progressivism:0 "말라야 연방"
+MAL_progressivism_DEF:0 "말라야 연방"
+MAL_progressivism_ADJ:0 "말라야"
+MAL_liberalism:0 "말라야 연합"
+MAL_liberalism_DEF:0 "말라야 연합"
+MAL_liberalism_ADJ:0 "말라야"
+MAL_conservatism:0 "말라야 술탄국"
+MAL_conservatism_DEF:0 "말라야 술탄국"
+MAL_conservatism_ADJ:0 "말라야"
+MAL_right_authoritarianism:0 "영국령 말라야"
+MAL_right_authoritarianism_DEF:0 "해협과 말레이 연방 및 비연방 국가들과 보르네오 영국령 식민지"
+MAL_right_authoritarianism_ADJ:0 "말라야"
+MAL_despotism:0 "쇼난"
+MAL_despotism_DEF:0 "쇼난 일본 점령지"
+MAL_despotism_ADJ:0 "쇼난"
+MAL_reactionism:0 "강가 네가라"
+MAL_reactionism_DEF:0 "강가 네가라 제국"
+MAL_reactionism_ADJ:0 "네가라"
+MAL_accelerationism:0 "순다"
+MAL_accelerationism_DEF:0 "순다국"
+MAL_accelerationism_ADJ:0 "순다"
+
+#PARTIES#
+MAL_anarchism_party:0 "진리회"
+MAL_anarchism_party_long:0 "진리회"
+MAL_vanguard_socialism_party:0 "NCS(T)"
+MAL_vanguard_socialism_party_long:0 "남양 공산당 (범남해파)"
+MAL_popular_socialism_party:0 "NCS(M)"
+MAL_popular_socialism_party_long:0 "남양 공산당 (말라야계)"
+MAL_revisionist_socialism_party:0 "NCS(C)"
+MAL_revisionist_socialism_party_long:0 "남양 공산당 (화교계)"
+MAL_progressivism_party:0 "카움 무다"
+MAL_progressivism_party_long:0 "청년 무슬림 운동"
+MAL_liberalism_party:0 "BC(L)"
+MAL_liberalism_party_long:0 "영국 식민정부 (런던 파벌)"
+MAL_conservatism_party:0 "BC(S)"
+MAL_conservatism_party_long:0 "영국 식민정부 (술탄 자문회)"
+MAL_right_authoritarianism_party:0 "BC(N)"
+MAL_right_authoritarianism_party_long:0 "영국 식민정부 (원주민 파벌)"
+MAL_reactionism_party:0 "카움 투아"
+MAL_reactionism_party_long:0 "수구 무슬림 운동"
+MAL_despotism_party:0 "외계"
+MAL_despotism_party_long:0 "비영국 외세 영향력"
+MAL_accelerationism_party:0 "MOS"
+MAL_accelerationism_party_long:0 "말라야 오리엔탈리스트회"
+
+#LEADER DESCRITIONS#
+POLITICS_SHENTON_THOMAS_DESC:0 "토머스 셴튼 화이틀레지 토머스 경은 영국 식민국의 노련한 일원으로서, 동아시아로 강제이직되기 전까지 니아샐랜드 총독으로서 잠시 근무한 적이 있습니다. 영국령 인도의 붕괴를 본 토머스는 말랑의 해협 식민지로 가 영국령 말라야의 신정부 총독으로서 재빨리 자리를 잡았습니다. 셴튼은 원주민의 저항을 일으키는 것에 공포를 느끼며 이를 기피하려 했지만, 1936년 마침내 상황이 현실화되자 그는 말라야 사안에 관한 조직을 장악했습니다. 원주민의 독립운동 외에도, 옛 백인 정착자들과 통치자들 역시 런던인이 아닌 자신들의 손으로 통치를 행하길 바라며 저항하고 있습니다. 셴튼은 당장 시급한 문제가 더 많다는 비판에는 그리 주의를 기울이지 않으면서, 니아샐랜드에서 그랬듯 문제들을 재빨리 처리하려 하고 있습니다."
+
+#IDEAS#
+MAL_economic_downturn:0 "경제적 하락세"
+MAL_economic_downturn_desc:0 "1931년 런던 주식거래소가 붕괴하고, 싱가포르와 말라야 역시 곧 그 수순을 밟았습니다. 국제경제에서의 주요 수출허브이자 통합체로서 영국에 의존하던 두 식민지였지만, 그 국제경제가 산산조각나면서 말라야의 경제 또한 자유낙하했습니다. 시장붕괴 후 수 년이 흐르면서 말라야의 경제 역시 회복되기 시작했으나, 완전한 회복을 이루려면 앞으로 수 년이 더 걸릴 것입니다."
+
+MAL_communist_resurgence:0 "난양 공산주의 역란"
+MAL_communist_resurgence_desc:0 "중국 CPC, 황러시아 RSDRP, 그리고 여러 기존 원주민 노조 간의 협력으로서 1927년 설립된 난양 공산회는 동남아시아 전역에 걸친 좌익 운동의 전위로, 말라야, 샴, 보르네오, 네덜란드령 동인도, 필리핀에서 수천 개의 지부를 가지고 있습니다. 이들은 본래 윤색된 노조 협력체로 보였지만, 근래에는 더 공격적인 전술을 실행하고 있습니다. 식민 순찰대가 실종되고, 공장에선 창고가 불타고, 거리에선 노동자들과 당국이 충돌하기가 이젠 일상입니다. 공산주의 영향력이 통제를 벗어났다는 것, 그리고 좌익을 살피지 않으면 혁명이 일어나리란 건 부정할 수 없는 사실입니다."
+
+MAL_centralisation_issues:0 "중앙집권화 문제"
+MAL_centralisation_issues_desc:0 "20세기를 거치며 말라야는 식민지 경영에 대해 다른 생각을 가진 여러 총독을 거쳤으며, 비중앙화 이후엔 다른 형태를 한 여러 중앙화의 파도들 또한 거쳤습니다. 현재 말라야 총독부는 현지 술탄들과 협력하면서 실용이란 명목으로 술탄들이 실행하는 정책을 눈감아주는 등, 식민지를 비중앙화한 채 두고 있습니다. 하지만, 영국령 라자의 상실 이래로 아시아에서의 마지막 주요 교두보를 붙드는 데 절박해진 런던의 식민국에선 식민지를 단일 연합체로 중앙화하라 호되게 요구하고 있습니다. 만약 셴튼 토머스가 런던의 요구에 부응하지 못 한다면, 본국에선 일을 직접 처리하려 들 것입니다."
+
+#CUSTOM TOOLTIPS AND FLAGS#
+
+#DECISIONS (1.5 Update)#
+
+#FOCUSES#

@@ -1,0 +1,42 @@
+﻿l_english:
+#COUNTRY NAME#
+
+#PARTIES#
+KOK_anarchism_party:0 "무지도층 비적파"
+KOK_anarchism_party_long:0 "무지도층 비적파"
+
+KOK_vanguard_socialism_party:0 "SCS"
+KOK_vanguard_socialism_party_long:0 "군인 최고평의회"
+
+KOK_popular_socialism_party:0 "SCW"
+KOK_popular_socialism_party_long:0 "노동자 최고평의회"
+
+KOK_revisionist_socialism_party:0 "SCP"
+KOK_revisionist_socialism_party_long:0 "농민 최고평의회"
+
+KOK_progressivism_party:0 "SDWPF"
+KOK_progressivism_party_long:0 "파르고나 사회민주노동자당"
+
+KOK_liberalism_party:0 "자디드주의파"
+KOK_liberalism_party_long:0 "자디드주의파"
+
+KOK_conservatism_party:0 "자디드주의파"
+KOK_conservatism_party_long:0 "자디드주의파"
+
+KOK_right_authoritarianism_party:0 "몬스트로프 군벌"
+KOK_right_authoritarianism_party_long:0 "몬스트로프 군벌"
+
+KOK_despotism_party:0 "바스마치"
+KOK_despotism_party:0 "바스마치"
+
+KOK_reactionism_party:0 "바스마치"
+KOK_reactionism_party_long:0 "바스마치"
+
+KOK_accelerationism_party:0 "CLT"
+KOK_accelerationism_party_long:0 "튀르케스탄 해방 위원회"
+
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS "1.5 Update"#
+#FOCUSES#

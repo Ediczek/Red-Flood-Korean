@@ -1,0 +1,26 @@
+﻿l_english:
+#COUNTRY NAME#
+
+#PARTIES#
+#LEADER DESCRITIONS#
+#IDEAS#
+IRQ_BPC:0 "이라크 석유사"
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+IRQ_anarchism:0 "Iraqi Free Territory"
+IRQ_anarchism_DEF:0 "the Iraqi Free Territory"
+IRQ_anarchism_ADJ:0 "Iraqi"
+IRQ_vanguard_socialism:0 "Socialist Iraq"
+IRQ_vanguard_socialism_DEF:0 "the Iraqi Socialist Republic"
+IRQ_vanguard_socialism_ADJ:0 "Iraqi"
+IRQ_popular_socialism:0 "Socialist Iraq"
+IRQ_popular_socialism_DEF:0 "the Iraqi Socialist Republic"
+IRQ_popular_socialism_ADJ:0 "Iraqi"
+IRQ_revisionist_socialism:0 "Socialist Iraq"
+IRQ_revisionist_socialism_DEF:0 "the Iraqi Socialist Republic"
+IRQ_revisionist_socialism_ADJ:0 "Iraqi"
+IRQ_accelerationism:0 "Iraqi Republic"
+IRQ_accelerationism_DEF:0 "the Iraqi Republic"
+IRQ_accelerationism_ADJ:0 "Iraqi"
+IRQ_BPC:0 "Iraq Petroleum Company"

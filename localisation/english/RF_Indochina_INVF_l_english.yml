@@ -1,0 +1,97 @@
+﻿l_english:
+#COUNTRY NAME#
+SMC_anarchism:0 "동즈엉 공사"
+SMC_anarchism_DEF:0 "동즈엉 공사"
+SMC_anarchism_ADJ:0 "동즈엉"
+
+SMC_vanguard_socialism:0 "동즈엉 사회주의국"
+SMC_vanguard_socialism_DEF:0 "동즈엉 사회주의국"
+SMC_vanguard_socialism_ADJ:0 "동즈엉"
+
+SMC_popular_socialism:0 "동즈엉 민주인민공화국"
+SMC_popular_socialism_DEF:0 "동즈엉 민주인민공화국"
+SMC_popular_socialism_ADJ:0 "동즈엉"
+
+SMC_revisionist_socialism:0 "어우락국"
+SMC_revisionist_socialism_DEF:0 "어우락국"
+SMC_revisionist_socialism_ADJ:0 "동즈엉"
+
+SMC_progressivism:0 "동즈엉 공화국"
+SMC_progressivism_DEF:0 "동즈엉 공화국"
+SMC_progressivism_ADJ:0 "동즈엉"
+
+SMC_liberalism:0 "동즈엉 공화국"
+SMC_liberalism_DEF:0 "동즈엉 공화국"
+SMC_liberalism_ADJ:0 "동즈엉"
+
+SMC_conservatism:0 "동즈엉 공화국"
+SMC_conservatism_DEF:0 "동즈엉 공화국"
+SMC_conservatism_ADJ:0 "동즈엉"
+
+SMC_right_authoritarianism:0 "동즈엉 공화국"
+SMC_right_authoritarianism_DEF:0 "동즈엉 공화국"
+SMC_right_authoritarianism_ADJ:0 "동즈엉"
+
+SMC_despotism:0 "동즈엉 Divine Order"
+SMC_despotism_DEF:0 "동즈엉 Divine Order"
+SMC_despotism_ADJ:0 "동즈엉"
+
+SMC_reactionism:0 "다이민"
+SMC_reactionism_DEF:0 "대명국"
+SMC_reactionism_ADJ:0 "안남"
+
+SMC_accelerationism:0 "어우락 사회주의국"
+SMC_accelerationism_DEF:0 "어우락 사회주의국"
+SMC_accelerationism_ADJ:0 "동즈엉"
+
+#INVF
+SMC_INVF_CW:0 "민족전위전선"
+SMC_INVF_CW_DEF:0 "민족전위전선"
+SMC_INVF_CW_ADJ:0 "동즈엉"
+
+SMC_INVF:0 "혁명 동즈엉"
+SMC_INVF_DEF:0 "동즈엉 민족혁명국"
+SMC_INVF_ADJ:0 "동즈엉"
+
+#Sedang
+SMC_Sedang:0 "동즈엉 공사연방"
+SMC_Sedang_DEF:0 "동즈엉 공사연방"
+SMC_Sedang_ADJ:0 "동즈엉"
+
+#PARTIES#
+SMC_accelerationism_party:0 "NTD"
+SMC_accelerationism_party_long:0 "Nhom Tranh Dan"
+SMC_anarchism_party:0 "NROGR"
+SMC_anarchism_party_long:0 "Tan quan Lien bang Dong Duong Nhan cong"
+SMC_vanguard_socialism_party:0 "NTD"
+SMC_vanguard_socialism_party_long:0 "Nhom Tranh Dan"
+SMC_popular_socialism_party:0 "Tan quan DDCSD"
+SMC_popular_socialism_party_long:0 "Tan quan Dong-Duong Cong-San Dang"
+SMC_revisionist_socialism_party:0 "NTD"
+SMC_revisionist_socialism_party_long:0 "Nhom Tranh Dan "
+SMC_progressivism_party:0 "Tan quan Can Lao"
+SMC_progressivism_party_long:0 "Tan quan Can lao Nhan vi Cach Mang Dang"
+SMC_liberalism_party:0 "Tan quan VNQDD"
+SMC_liberalism_party_long:0 "Tan quan Viet Nam Quoc Dan Dang "
+SMC_conservatism_party:0 "Tan quan Nguyen "
+SMC_conservatism_party_long:0 "Tan quan trung than Nguyen"
+SMC_right_authoritarianism_party:0 "HTLB/NNTTM"
+SMC_right_authoritarianism_party_long:0 "Hoi dong truong lao bo toc/Nhung nguoi theo thu tu moi"
+SMC_despotism_party:0 "HTLB/NNTTM"
+SMC_despotism_party_long:0 "Hoi dong truong lao bo toc/Nhung nguoi theo thu tu moi"
+SMC_reactionism_party:0 "DKT"
+SMC_reactionism_party_long:0 "Doi quan khan xep trang"
+
+
+#EVENTS#
+annam.1.t:0 "농민역란"
+annam.1.desc:0 "The peasants didn't like us very much"
+annam.1.a:0 "Ming time"
+annam.1.b:0 "Minorities time"
+annam.1.c:0 "Too bad, the future is coming for us all"
+
+annam.2.t:0 "INVF 내 권력투쟁"
+annam.2.desc:0 "Now that we killed everyone, who should be our leader?"
+annam.2.a:0 "Coconut"
+annam.2.b:0 "Cao dai pope"
+annam.2.c:0 "Xích Quy larper"
