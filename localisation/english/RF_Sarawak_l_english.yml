@@ -1,108 +1,73 @@
 ﻿l_english:
-#COUNTRY NAME#
-SAR_anarchism:0 "North Bornean State"
-SAR_anarchism_DEF:0 "the North Bornean State"
-SAR_anarchism_ADJ:0 "Bornean"
-
-SAR_vanguard_socialism:0 "North Bornean State"
-SAR_vanguard_socialism_DEF:0 "the North Bornean State"
-SAR_vanguard_socialism_ADJ:0 "Bornean"
-
-SAR_popular_socialism:0 "North Bornean State"
-SAR_popular_socialism_DEF:0 "the North Bornean State"
-SAR_popular_socialism_ADJ:0 "Bornean"
-
-SAR_revisionist_socialism:0 "North Bornean State"
-SAR_revisionist_socialism_DEF:0 "the North Bornean State"
-SAR_revisionist_socialism_ADJ:0 "Bornean"
-
-SAR_progressivism:0 "North Bornean State"
-SAR_progressivism_DEF:0 "the North Bornean State"
-SAR_progressivism_ADJ:0 "Bornean"
-
-SAR_liberalism:0 "North Bornean State"
-SAR_liberalism_DEF:0 "the North Bornean State"
-SAR_liberalism_ADJ:0 "Bornean"
-
-SAR_conservatism:0 "North Bornean State"
-SAR_conservatism_DEF:0 "the North Bornean State"
-SAR_conservatism_ADJ:0 "Bornean"
-
-SAR_right_authoritarianism:0 "North Bornean State"
-SAR_right_authoritarianism_DEF:0 "the North Bornean State"
-SAR_right_authoritarianism_ADJ:0 "Bornean"
-
-SAR_despotism:0 "North Bornean State"
-SAR_despotism_DEF:0 "the North Bornean State"
-SAR_despotism_ADJ:0 "Bornean"
-
-SAR_reactionism:0 "North Bornean State"
-SAR_reactionism_DEF:0 "the North Bornean State"
-SAR_reactionism_ADJ:0 "Bornean"
-
-SAR_accelerationism:0 "North Bornean State"
-SAR_accelerationism_DEF:0 "the North Bornean State"
-SAR_accelerationism_ADJ:0 "Bornean"
-
-#Rajah
-SAR_Rajah:0 "Raj of Sarawak"
-SAR_Rajah_DEF:0 "the Raj of Sarawak"
-SAR_Rajah_ADJ:0 "Sarawakian"
-
-#Anthony
-SAR_Anthony:0 "North Bornean Confederation"
-SAR_Anthony_DEF:0 "the North Bornean Confederation"
-SAR_Anthony_ADJ:0 "Bornean"
-
-#MacBryan
-SAR_MacBryan:0 "Klemantan Sultanate"
-SAR_MacBryan_DEF:0 "the Klemantan Sultanate"
-SAR_MacBryan_ADJ:0 "Bornean"
-
-#PARTIES#
-SAR_anarchism_party:0 "Anarchist"
-SAR_anarchism_party_long:0 "Anarchist"
-
-SAR_vanguard_socialism_party:0 "Vanguard Socialist"
-SAR_vanguard_socialism_party_long:0 "Vanguard Socialist"
-
-SAR_popular_socialism_party:0 "Popular Socialist"
-SAR_popular_socialism_party_long:0 "Popular Socialist"
-
-SAR_revisionist_socialism_party:0 "Revisionist Socialist"
-SAR_revisionist_socialism_party_long:0 "Revisionist Socialist"
-
-SAR_progressivism_party:0 "Progressive"
-SAR_progressivism_party_long:0 "Progressive"
-
-SAR_liberalism_party:0 "Liberal"
-SAR_liberalism_party_long:0 "Liberal"
-
-SAR_conservatism_party:0 "Conservative"
-SAR_conservatism_party_long:0 "Conservative"
-
-SAR_right_authoritarianism_party:0 "Polyarchy"
-SAR_right_authoritarianism_party_long:0 "Polyarchy"
-
-SAR_despotism_party:0 "Brooke Dynasty"
-SAR_despotism_party_long:0 "Brooke Dynasty"
-
-SAR_reactionism_party:0 "Reactionary"
-SAR_reactionism_party_long:0 "Reactionary"
-
-SAR_accelerationism_party:0 "Accelerationist"
-SAR_accelerationism_party_long:0 "Accelerationist"
-
-SAR_Anthony_despotism_party:0 "Council Negri"
-SAR_Anthony_despotism_party_long:0 "Council Negri"
-
-SAR_MacBryan_despotism_party:0 "Majlis al-Sultan"
-SAR_MacBryan_despotism_party_long:0 "Majlis al-Sultan"
-
-#DECISIONS (1.5 Update)#
-
-#EVENTS#
-sar.1.t:0 "Vyner's Rule and Its Consequences"
-sar.1.desc:0 "Now what?"
-sar.1.a:0 "Anthony secures the throne."
-sar.1.b:0 "MacBryan outwits everyone."
+ SAR_anarchism:0 "North Bornean State"
+ SAR_anarchism_DEF:0 "the North Bornean State"
+ SAR_anarchism_ADJ:0 "Bornean"
+ SAR_vanguard_socialism:0 "North Bornean State"
+ SAR_vanguard_socialism_DEF:0 "the North Bornean State"
+ SAR_vanguard_socialism_ADJ:0 "Bornean"
+ SAR_popular_socialism:0 "North Bornean State"
+ SAR_popular_socialism_DEF:0 "the North Bornean State"
+ SAR_popular_socialism_ADJ:0 "Bornean"
+ SAR_revisionist_socialism:0 "North Bornean State"
+ SAR_revisionist_socialism_DEF:0 "the North Bornean State"
+ SAR_revisionist_socialism_ADJ:0 "Bornean"
+ SAR_progressivism:0 "North Bornean State"
+ SAR_progressivism_DEF:0 "the North Bornean State"
+ SAR_progressivism_ADJ:0 "Bornean"
+ SAR_liberalism:0 "North Bornean State"
+ SAR_liberalism_DEF:0 "the North Bornean State"
+ SAR_liberalism_ADJ:0 "Bornean"
+ SAR_conservatism:0 "North Bornean State"
+ SAR_conservatism_DEF:0 "the North Bornean State"
+ SAR_conservatism_ADJ:0 "Bornean"
+ SAR_right_authoritarianism:0 "North Bornean State"
+ SAR_right_authoritarianism_DEF:0 "the North Bornean State"
+ SAR_right_authoritarianism_ADJ:0 "Bornean"
+ SAR_despotism:0 "North Bornean State"
+ SAR_despotism_DEF:0 "the North Bornean State"
+ SAR_despotism_ADJ:0 "Bornean"
+ SAR_reactionism:0 "North Bornean State"
+ SAR_reactionism_DEF:0 "the North Bornean State"
+ SAR_reactionism_ADJ:0 "Bornean"
+ SAR_accelerationism:0 "North Bornean State"
+ SAR_accelerationism_DEF:0 "the North Bornean State"
+ SAR_accelerationism_ADJ:0 "Bornean"
+ SAR_Rajah:0 "Raj of Sarawak"
+ SAR_Rajah_DEF:0 "the Raj of Sarawak"
+ SAR_Rajah_ADJ:0 "Sarawakian"
+ SAR_Anthony:0 "North Bornean Confederation"
+ SAR_Anthony_DEF:0 "the North Bornean Confederation"
+ SAR_Anthony_ADJ:0 "Bornean"
+ SAR_MacBryan:0 "Klemantan Sultanate"
+ SAR_MacBryan_DEF:0 "the Klemantan Sultanate"
+ SAR_MacBryan_ADJ:0 "Bornean"
+ SAR_anarchism_party:0 "Anarchist"
+ SAR_anarchism_party_long:0 "Anarchist"
+ SAR_vanguard_socialism_party:0 "Vanguard Socialist"
+ SAR_vanguard_socialism_party_long:0 "Vanguard Socialist"
+ SAR_popular_socialism_party:0 "Popular Socialist"
+ SAR_popular_socialism_party_long:0 "Popular Socialist"
+ SAR_revisionist_socialism_party:0 "Revisionist Socialist"
+ SAR_revisionist_socialism_party_long:0 "Revisionist Socialist"
+ SAR_progressivism_party:0 "Progressive"
+ SAR_progressivism_party_long:0 "Progressive"
+ SAR_liberalism_party:0 "Liberal"
+ SAR_liberalism_party_long:0 "Liberal"
+ SAR_conservatism_party:0 "Conservative"
+ SAR_conservatism_party_long:0 "Conservative"
+ SAR_right_authoritarianism_party:0 "Polyarchy"
+ SAR_right_authoritarianism_party_long:0 "Polyarchy"
+ SAR_despotism_party:0 "Brooke Dynasty"
+ SAR_despotism_party_long:0 "Brooke Dynasty"
+ SAR_reactionism_party:0 "Reactionary"
+ SAR_reactionism_party_long:0 "Reactionary"
+ SAR_accelerationism_party:0 "Accelerationist"
+ SAR_accelerationism_party_long:0 "Accelerationist"
+ SAR_Anthony_despotism_party:0 "Council Negri"
+ SAR_Anthony_despotism_party_long:0 "Council Negri"
+ SAR_MacBryan_despotism_party:0 "Majlis al-Sultan"
+ SAR_MacBryan_despotism_party_long:0 "Majlis al-Sultan"
+ sar.1.t:0 "Vyner's Rule and Its Consequences"
+ sar.1.desc:0 "Now what?"
+ sar.1.a:0 "Anthony secures the throne."
+ sar.1.b:0 "MacBryan outwits everyone."

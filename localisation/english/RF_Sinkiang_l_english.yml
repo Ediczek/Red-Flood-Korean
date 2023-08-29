@@ -1,31 +1,23 @@
 ﻿l_english:
-#Xinjiang NAME#
-
-#PARTIES#
-SIK_vanguard_socialism_party:0 "CPC/L (신강)"
-SIK_popular_socialism_party:0 "CPC/S (신강)"
-SIK_anarchism_party:0 "신강 인민혁명당"
-SIK_revisionist_socialism_party:0 "국민당 (신강)"
-SIK_progressivism_party:0 "국민당"
-SIK_liberalism_party:0 "국민당"
-SIK_conservatism_party:0 "YKP"
-SIK_right_authoritarianism_party:0 "진슈런 군벌"
-SIK_despotism_party:0 "마가군"
-SIK_reactionism_party:0 "동튀르키스탄 이슬람주의파"
-SIK_accelerationism_party:0 "청년 위구르"
-SIK_vanguard_socialism_party_long:0 "중국공산당/레닌주의자 (신강)"
-SIK_popular_socialism_party_long:0 "중국공산당/스파르타쿠스주의자 (신강)"
-SIK_anarchism_party_long:0 "신강 인민혁명당"
-SIK_revisionist_socialism_party_long:0 "국민당"
-SIK_progressivism_party_long:0 "국민당"
-SIK_liberalism_party_long:0 "국민당"
-SIK_conservatism_party_long:0 "카쉬가르 청년당"
-SIK_right_authoritarianism_party_long:0 "신강 군벌"
-SIK_despotism_party_long:0 "신장 군벌"
-SIK_reactionism_party_long:0 "동튀르키스탄 이슬람주의파"
-SIK_accelerationism_party_long:0 "위구르 청년당"
-#LEADER DESCRITIONS#
-#IDEAS#
-#CUSTOM TOOLTIPS AND FLAGS#
-#DECISIONS (1.5 Update)#
-#FOCUSES#
+ SIK_vanguard_socialism_party:0 "CPC/L (신강)"
+ SIK_popular_socialism_party:0 "CPC/S (신강)"
+ SIK_anarchism_party:0 "신강인민혁명당"
+ SIK_revisionist_socialism_party:0 "국민당"
+ SIK_progressivism_party:0 "국민당"
+ SIK_liberalism_party:0 "국민당"
+ SIK_conservatism_party:0 "YKP"
+ SIK_right_authoritarianism_party:0 "신강군벌"
+ SIK_despotism_party:0 "신강군벌"
+ SIK_reactionism_party:0 "동튀르키스탄 이슬람주의파"
+ SIK_accelerationism_party:0 "청년 위구르"
+ SIK_vanguard_socialism_party_long:0 "중국공산당/레닌주의자 (신강)"
+ SIK_popular_socialism_party_long:0 "중국공산당/스파르타쿠스주의자 (신강)"
+ SIK_anarchism_party_long:0 "신강인민혁명당"
+ SIK_revisionist_socialism_party_long:0 "국민당 (신강)"
+ SIK_progressivism_party_long:0 "국민당 (신강)"
+ SIK_liberalism_party_long:0 "국민당 (신강)"
+ SIK_conservatism_party_long:0 "카쉬가르 청년당"
+ SIK_right_authoritarianism_party_long:0 "신강군벌"
+ SIK_despotism_party_long:0 "신강군벌"
+ SIK_reactionism_party_long:0 "동튀르키스탄 이슬람주의파"
+ SIK_accelerationism_party_long:0 "위구르 청년당"

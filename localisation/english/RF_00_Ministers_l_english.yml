@@ -1,53 +1,18 @@
 ﻿l_english:
-
-##############################################################
-### MNT
-###########################################################
-
-### Head of Government ###
-MNT_Radola_Gajda_hog_acc:0 "라둘레 가이디치"
-
-### Foreign Minister ###
-MNT_Lazar_Mijuskovic_for_acc:0 "Lazar Mijušković"
-
-### Economy Minister ###
-MNT_Milutin_Vucinic_eco_acc:0 "밀루틴 부치니치"
-
-### Security Minister ###
-MNT_Sekula_Drljevic_sec_acc:0 "Sekula Drljević"
-
-### Intelligence Minister ###
-MNT_Krsto_Popovoic_int_acc:0 "Krsto Popvić"
-
-### Chief of Staff ###
-MNT_Mitar_Martinovic_cos_acc:0 "Mitar Martinović"
-
-### Chief of Army ###
-
-
-### Chief of Navy ###
-
-
-### Chief of Air Force ###
-
-
-##########################################################
-### ITA
-###############################################################
-
-### Head of Government ###
-ITA_Julius_Evola_hog_npo:0 "Julius Evola"
-### Foreign Minister ###
-ITA_Giuseppe_Bottai_for_npo:0 "Giuseppe Bottai"
-ITA_Cesare_Maria_De_Vecchi_for_npo:0 "Cesare Maria De Vecchi"
-ITA_Arthuro_Reghini_for_npo:0 "Arthuo Reghini"
-### Economy Minister ###
-ITA_Paolo_Ignazio_Maria_Thaon_di_Revel_eco_npo:0 "Paolo Ignazio Maria di Revel"
-ITA_Cesare_Maria_De_Vecchi_eco_npo:0 "Cesare Maria De Vecchi"
-### Security Minister ###
-ITA_Giuseppe_Bottai_sec_npo:0 "Giuseppe Bottai"
-ITA_Lidio_Cipriani_sec_npo:0 "Lidio Cipriani"
-ITA_Sabato_Visco_sec_npo:0 "Sabato Visco"
-### Intelligence Minister ###
-ITA_Lidio_Cipriani_int_npo:0 "Lidio Cipriani"
-ITA_Paolo_Ignazio_Maria_Thaon_di_Revel_int_npo:0 "Paolo Ignazio Maria Thaon di Revel"
+ MNT_Radola_Gajda_hog_acc:0 "라둘레 가이디치"
+ MNT_Lazar_Mijuskovic_for_acc:0 "Lazar Mijušković"
+ MNT_Milutin_Vucinic_eco_acc:0 "밀루틴 부치니치"
+ MNT_Sekula_Drljevic_sec_acc:0 "Sekula Drljević"
+ MNT_Krsto_Popovoic_int_acc:0 "Krsto Popvić"
+ MNT_Mitar_Martinovic_cos_acc:0 "Mitar Martinović"
+ ITA_Julius_Evola_hog_npo:0 "Julius Evola"
+ ITA_Giuseppe_Bottai_for_npo:0 "Giuseppe Bottai"
+ ITA_Cesare_Maria_De_Vecchi_for_npo:0 "Cesare Maria De Vecchi"
+ ITA_Arthuro_Reghini_for_npo:0 "Arthuo Reghini"
+ ITA_Paolo_Ignazio_Maria_Thaon_di_Revel_eco_npo:0 "Paolo Ignazio Maria di Revel"
+ ITA_Cesare_Maria_De_Vecchi_eco_npo:0 "Cesare Maria De Vecchi"
+ ITA_Giuseppe_Bottai_sec_npo:0 "Giuseppe Bottai"
+ ITA_Lidio_Cipriani_sec_npo:0 "Lidio Cipriani"
+ ITA_Sabato_Visco_sec_npo:0 "Sabato Visco"
+ ITA_Lidio_Cipriani_int_npo:0 "Lidio Cipriani"
+ ITA_Paolo_Ignazio_Maria_Thaon_di_Revel_int_npo:0 "Paolo Ignazio Maria Thaon di Revel"

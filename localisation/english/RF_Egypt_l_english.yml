@@ -1,18 +1,8 @@
 ﻿l_english:
-#COUNTRY NAME#
-
-
-#PARTIES#
-#LEADER DESCRITIONS#
-#IDEAS#
-#CUSTOM TOOLTIPS AND FLAGS#
-#DECISIONS (1.5 Update)#
-#FOCUSES#
-#EVENTS#
-egypt.1.t:0 "이집트 청년당의 반란"
-egypt.1.desc:0 ""
-egypt.1.a:0 "재앙이로군!"
-egypt.2.t:0 "미래주의자들이 이집트를 위협하다"
-egypt.2.desc:0 ""
-egypt.2.a:0 "개입해야 하고 말고."
-egypt.2.b:0 "수에즈가 우리 손에 있는 한, 신경 쓰지 않는다."
+ egypt.1.t:0 "이집트 청년당의 반란"
+ egypt.1.desc:0 ""
+ egypt.1.a:0 "재앙이로군!"
+ egypt.2.t:0 "미래주의자들이 이집트를 위협하다"
+ egypt.2.desc:0 ""
+ egypt.2.a:0 "개입해야 하고 말고."
+ egypt.2.b:0 "수에즈가 우리 손에 있는 한, 신경 쓰지 않는다."

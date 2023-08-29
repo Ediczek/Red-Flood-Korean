@@ -1,19 +1,11 @@
 ﻿l_english:
-#COUNTRY NAME#
-
-#PARTIES#
-FMO_conservatism_party:0 "AAE"
-FMO_right_authoritarianism_party:0 "LA"
-FMO_despotism_party:0 "ACM"
-FMO_reactionism_party:0 "CTB"
-FMO_accelerationism_party:0 "FG"
-FMO_conservatism_party_long:0 "에스파냐 아프리카주의 협회"
-FMO_right_authoritarianism_party_long:0 "아랍 연맹"
-FMO_despotism_party_long:0 "마루에코스 식민행정부"
-FMO_reactionism_party_long:0 "베르베르 부족 연맹"
-FMO_accelerationism_party_long:0 "장성당"
-#LEADER DESCRITIONS#
-#IDEAS#
-#CUSTOM TOOLTIPS AND FLAGS#
-#DECISIONS (1.5 Update)#
-#FOCUSES#
+ FMO_conservatism_party:0 "AAE"
+ FMO_right_authoritarianism_party:0 "LA"
+ FMO_despotism_party:0 "ACM"
+ FMO_reactionism_party:0 "CTB"
+ FMO_accelerationism_party:0 "FG"
+ FMO_conservatism_party_long:0 "에스파냐 아프리카주의 협회"
+ FMO_right_authoritarianism_party_long:0 "아랍 연맹"
+ FMO_despotism_party_long:0 "마루에코스 식민행정부"
+ FMO_reactionism_party_long:0 "베르베르 부족 연맹"
+ FMO_accelerationism_party_long:0 "장성당"

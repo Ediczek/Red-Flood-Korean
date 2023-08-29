@@ -1,20 +1,12 @@
 ﻿l_english:
-#COUNTRY NAME#
-
-#PARTIES#
-NZL_vanguard_socialism_party:0 "뉴질랜드 공산당"
-NZL_popular_socialism_party:0 "세계사회주의당 - 공산주의파"
-NZL_anarchism_party:0 "노조회의"
-NZL_revisionist_socialism_party:0 "세계사회주의당"
-NZL_progressivism_party:0 "노동당"
-NZL_liberalism_party:0 "민주당"
-NZL_conservatism_party:0 "통합당"
-NZL_right_authoritarianism_party:0 "나라당"
-NZL_despotism_party:0 "개혁당"
-NZL_reactionism_party:0 "뉴질랜드 군단"
-NZL_accelerationism_party:0 "라타나 운동"
-#LEADER DESCRITIONS#
-#IDEAS#
-#CUSTOM TOOLTIPS AND FLAGS#
-#DECISIONS (1.5 Update)#
-#FOCUSES#
+ NZL_vanguard_socialism_party:0 "뉴질랜드 공산당"
+ NZL_popular_socialism_party:0 "세계사회주의당 - 공산주의파"
+ NZL_anarchism_party:0 "노조회의"
+ NZL_revisionist_socialism_party:0 "세계사회주의당"
+ NZL_progressivism_party:0 "노동당"
+ NZL_liberalism_party:0 "민주당"
+ NZL_conservatism_party:0 "통합당"
+ NZL_right_authoritarianism_party:0 "나라당"
+ NZL_despotism_party:0 "개혁당"
+ NZL_reactionism_party:0 "뉴질랜드 군단"
+ NZL_accelerationism_party:0 "라타나 운동"

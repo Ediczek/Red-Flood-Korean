@@ -1,95 +1,65 @@
 ﻿l_english:
-#COUNTRY NAME#
-RML_anarchism:0 "Malayan Commune"
-RML_anarchism_DEF:0 "the Commune of Malaya"
-RML_anarchism_ADJ:0 "Malayan"
-
-RML_vanguard_socialism:0 "Indonesian Union"
-RML_vanguard_socialism_DEF:0 "the Indonesian Union of Struggle"
-RML_vanguard_socialism_ADJ:0 "Indonesian"
-
-RML_popular_socialism:0 "Nanyang Republic"
-RML_popular_socialism_DEF:0 "the Malayan Democratic Republic"
-RML_popular_socialism_ADJ:0 "Malayan"
-
-RML_revisionist_socialism:0 "Malayan Republic"
-RML_revisionist_socialism_DEF:0 "the Republic of Malaya"
-RML_revisionist_socialism_ADJ:0 "Malayan"
-
-RML_progressivism:0 "Malayan Republic"
-RML_progressivism_DEF:0 "the Republic of Malaya"
-RML_progressivism_ADJ:0 "Malayan"
-
-RML_liberalism:0 "Malayan Republic"
-RML_liberalism_DEF:0 "the Republic of Malaya"
-RML_liberalism_ADJ:0 "Malayan"
-
-RML_conservatism:0 "Malayan Republic"
-RML_conservatism_DEF:0 "the Republic of Malaya"
-RML_conservatism_ADJ:0 "Malayan"
-
-RML_right_authoritarianism:0 "Malayan Republic"
-RML_right_authoritarianism_DEF:0 "the Republic of Malaya"
-RML_right_authoritarianism_ADJ:0 "Malayan"
-
-RML_despotism:0 "Malayan State"
-RML_despotism_DEF:0 "the National State of Malaya"
-RML_despotism_ADJ:0 "Malayan"
-
-RML_reactionism:0 "Malay Brotherhood"
-RML_reactionism_DEF:0 "the United Malay Brotherhood"
-RML_reactionism_ADJ:0 "Malay"
-
-RML_accelerationism:0 "Malayan State"
-RML_accelerationism_DEF:0 "the National State of Malaya"
-RML_accelerationism_ADJ:0 "Malayan"
-
-#PARTIES#
-RML_anarchism_party:0 "Shiyan Tun"
-RML_anarchism_party_long:0 "Shiyan Tun"
-
-RML_vanguard_socialism_party:0 "PARI"
-RML_vanguard_socialism_party_long:0 "Partai Republik Indonesia"
-
-RML_popular_socialism_party:0 "CPC-NRC"
-RML_popular_socialism_party_long:0 "Chinese Communist Party - Nanyang Regional Committee"
-
-RML_revisionist_socialism_party:0 "Hamim"
-RML_revisionist_socialism_party_long:0 "Hizbul Muslimin"
-
-RML_progressivism_party:0 "KMM"
-RML_progressivism_party_long:0 "Kesatuan Melayu Muda"
-
-RML_liberalism_party:0 "PIM"
-RML_liberalism_party_long:0 "Parti Islam Malaya"
-
-RML_conservatism_party:0 "PEMBAR"
-RML_conservatism_party_long:0 "Pertubuhan Malaya Bersatu"
-
-RML_right_authoritarianism_party:0 "Askar Wataniah"
-RML_right_authoritarianism_party_long:0 "Askar Wataniah"
-
-RML_despotism_party:0 "Derbar"
-RML_despotism_party_long:0 "Council of Rulers"
-
-RML_reactionism_party:0 "PPPM"
-RML_reactionism_party_long:0 "Persekutuan Persatuan-Persatuan Melayu"
-
-RML_accelerationism_party:0 "SNA"
-RML_accelerationism_party_long:0 "Society of Nanyang Artists"
-
-#CUSTOM TOOLTIPS AND FLAGS#
-MAL_REVOLT_RML_WIN_tt:0 "@RML §YThe Indonesian Union of Struggle§! has driven out @MAL §Ythe British Colonial Forces§! from §YMalaya§!."
-
-#DECISIONS (1.5 Update)#
-rml.1.t:0 "The Chinese Question"
-rml.1.desc:0 "The Malays demands we involve them more in the government by replacing the Chinese, should we do it?"
-rml.1.a:0 "Sure, sounds reasonable"
-rml.1.b:0 "Not a chance"
-
-rml.2.t:0 "Malay Coup"
-rml.2.desc:0 "They didn't take our response well"
-rml.2.a:0 "Uh oh"
-rml.2.b:0 "Not sorry"
-
-#EVENTS#
+ RML_anarchism:0 "말라야 코뮌"
+ RML_anarchism_DEF:0 "말라야 코뮌"
+ RML_anarchism_ADJ:0 "말라야"
+ RML_vanguard_socialism:0 "Indonesian Union"
+ RML_vanguard_socialism_DEF:0 "the Indonesian Union of Struggle"
+ RML_vanguard_socialism_ADJ:0 "인도네시아"
+ RML_popular_socialism:0 "남양 공화국"
+ RML_popular_socialism_DEF:0 "말라야 민주공화국"
+ RML_popular_socialism_ADJ:0 "말라야"
+ RML_revisionist_socialism:0 "말라야 공화국"
+ RML_revisionist_socialism_DEF:0 "말라야 공화국"
+ RML_revisionist_socialism_ADJ:0 "말라야"
+ RML_progressivism:0 "말라야 공화국"
+ RML_progressivism_DEF:0 "말라야 공화국"
+ RML_progressivism_ADJ:0 "말라야"
+ RML_liberalism:0 "말라야 공화국"
+ RML_liberalism_DEF:0 "말라야 공화국"
+ RML_liberalism_ADJ:0 "말라야"
+ RML_conservatism:0 "말라야 공화국"
+ RML_conservatism_DEF:0 "말라야 공화국"
+ RML_conservatism_ADJ:0 "말라야"
+ RML_right_authoritarianism:0 "말라야 공화국"
+ RML_right_authoritarianism_DEF:0 "말라야 공화국"
+ RML_right_authoritarianism_ADJ:0 "말라야"
+ RML_despotism:0 "말라야국"
+ RML_despotism_DEF:0 "말라야 국민국"
+ RML_despotism_ADJ:0 "말라야"
+ RML_reactionism:0 "말라야 형제단"
+ RML_reactionism_DEF:0 "말라야 형제단 연합"
+ RML_reactionism_ADJ:0 "말라야"
+ RML_accelerationism:0 "말라야국"
+ RML_accelerationism_DEF:0 "말라야 국민국"
+ RML_accelerationism_ADJ:0 "말라야"
+ RML_anarchism_party:0 "Shiyan Tun"
+ RML_anarchism_party_long:0 "Shiyan Tun"
+ RML_vanguard_socialism_party:0 "공화당"
+ RML_vanguard_socialism_party_long:0 "인도네시아 공화당"
+ RML_popular_socialism_party:0 "CPC-NRC"
+ RML_popular_socialism_party_long:0 "중국공산당 - 남양 지역위원회"
+ RML_revisionist_socialism_party:0 "무슬림 인민당"
+ RML_revisionist_socialism_party_long:0 "말라야 무슬림 인민당"
+ RML_progressivism_party:0 "청년연맹"
+ RML_progressivism_party_long:0 "말레이 청년연맹"
+ RML_liberalism_party:0 "PIM"
+ RML_liberalism_party_long:0 "말라야 이슬람당"
+ RML_conservatism_party:0 "PEMBAR"
+ RML_conservatism_party_long:0 "Pertubuhan Malaya Bersatu"
+ RML_right_authoritarianism_party:0 "국토방위후비군단"
+ RML_right_authoritarianism_party_long:0 "국토방위후비군단"
+ RML_despotism_party:0 "Derbar"
+ RML_despotism_party_long:0 "Council of Rulers"
+ RML_reactionism_party:0 "PPPM"
+ RML_reactionism_party_long:0 "Persekutuan Persatuan-Persatuan Melayu"
+ RML_accelerationism_party:0 "SNA"
+ RML_accelerationism_party_long:0 "Society of Nanyang Artists"
+ MAL_REVOLT_RML_WIN_tt:0 "@RML §YThe Indonesian Union of Struggle§! has driven out @MAL §Ythe British Colonial Forces§! from §YMalaya§!."
+ rml.1.t:0 "The Chinese Question"
+ rml.1.desc:0 "The Malays demands we involve them more in the government by replacing the Chinese, should we do it?"
+ rml.1.a:0 "Sure, sounds reasonable"
+ rml.1.b:0 "Not a chance"
+ rml.2.t:0 "Malay Coup"
+ rml.2.desc:0 "They didn't take our response well"
+ rml.2.a:0 "Uh oh"
+ rml.2.b:0 "Not sorry"

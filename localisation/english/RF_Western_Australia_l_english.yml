@@ -1,29 +1,18 @@
 ﻿l_english:
-#COUNTRY NAME#
-
-#PARTIES#
-WAS_vanguard_socialism_party:0 "웨스트레일리아 주재 오스트레일리아 공산당"
-WAS_libertarian_marxism_party:0 "웨스트레일리아 사회당"
-WAS_revolutionary_anarchism_party:0 "노동조합총협의회"
-WAS_revisionist_socialism_party:0 "웨스트레일리아 농민당"
-WAS_social_democratism_party:0 "웨스트레일리아 노동당"
-WAS_liberalism_party:0 "민족당"
-WAS_conservatism_party:0 "나라당"
-WAS_right_authoritarianism_party:0 "사회신용당"
-WAS_despotism_party:0 "웨스트레일리아 혁신파"
-WAS_reactionism_party:0 "웨스트레일리아 수구파"
-WAS_accelerationism_party:0 "진디워로백 운동"
-#LEADER DESCRITIONS#
-#IDEAS##WAS_economic_depression
-WAS_economic_depression:0 "경제공황"
-WAS_economic_depression_desc:0 ""
-WAS_emu_plague:0 "에뮤 역병"
-WAS_emu_plague_desc:0 ""
-WAS_spirit_of_independence:0 "독립정신"
-WAS_spirit_of_independence_desc:0 ""
-#CUSTOM TOOLTIPS AND FLAGS#
-#DECISIONS (1.5 Update)#
-#FOCUSES#
-WAS_popular_socialism_party:0 "Socialist Party of Westralia"
-WAS_anarchism_party:0 "Trade Union Congress"
-WAS_progressivism_party:0 "Labour Party in Westralia"
+ WAS_vanguard_socialism_party:0 "웨스트레일리아 주재 오스트레일리아 공산당"
+ WAS_popular_socialism_party:0 "웨스트레일리아 사회당"
+ WAS_anarchism_party:0 "노동조합회의"
+ WAS_revisionist_socialism_party:0 "웨스트레일리아 농민당"
+ WAS_progressivism_party:0 "웨스트레일리아 주재 노동당"
+ WAS_liberalism_party:0 "민족당"
+ WAS_conservatism_party:0 "나라당"
+ WAS_right_authoritarianism_party:0 "사회신용당"
+ WAS_despotism_party:0 "웨스트레일리아 신수비대"
+ WAS_reactionism_party:0 "웨스트레일리아 보수파"
+ WAS_accelerationism_party:0 "진디워로백 운동"
+ WAS_economic_depression:0 "경제 불황"
+ WAS_economic_depression_desc:0 ""
+ WAS_emu_plague:0 "에뮤 역병"
+ WAS_emu_plague_desc:0 ""
+ WAS_spirit_of_independence:0 "독립 정신"
+ WAS_spirit_of_independence_desc:0 ""

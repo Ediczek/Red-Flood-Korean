@@ -1,12 +1,4 @@
 ﻿l_english:
- 
-#PARTIES#
-
-#LEADER DESCRITIONS#
-#IDEAS#
-#CUSTOM TOOLTIPS AND FLAGS#
-#DECISIONS (1.5 Update)#
-#FOCUSES#
-BEL_united:0 "Belgium"
-BEL_united_DEF:0 "Belgium"
-BEL_united_ADJ:0 "Belgian"
+ BEL_united:0 "벨기에"
+ BEL_united_DEF:0 "벨기에"
+ BEL_united_ADJ:0 "벨기에"

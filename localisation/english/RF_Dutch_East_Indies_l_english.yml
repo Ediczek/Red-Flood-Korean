@@ -1,70 +1,46 @@
 ﻿l_english:
-#COUNTRY NAME#
-DEI_anarchism:0 "동인도 Commune"
-DEI_anarchism_DEF:0 "동인도 Commune"
-DEI_anarchism_ADJ:0 "인도네시아"
-
-DEI_vanguard_socialism:0 "동인도 공화국"
-DEI_vanguard_socialism_DEF:0 "동인도 공화국"
-DEI_vanguard_socialism_ADJ:0 "인도네시아"
-
-DEI_popular_socialism:0 "동인도 공화국"
-DEI_popular_socialism_DEF:0 "동인도 공화국"
-DEI_popular_socialism_ADJ:0 "인도네시아"
-
-DEI_revisionist_socialism:0 "동인도 공화국"
-DEI_revisionist_socialism_DEF:0 "동인도 공화국"
-DEI_revisionist_socialism_ADJ:0 "인도네시아"
-
-DEI_progressivism:0 "동인도 공화국"
-DEI_progressivism_DEF:0 "동인도 공화국"
-DEI_progressivism_ADJ:0 "인도네시아"
-
-DEI_liberalism:0 "동인도 공화국"
-DEI_liberalism_DEF:0 "동인도 공화국"
-DEI_liberalism_ADJ:0 "인도네시아"
-
-DEI_conservatism:0 "동인도 공화국"
-DEI_conservatism_DEF:0 "동인도 공화국"
-DEI_conservatism_ADJ:0 "인도네시아"
-
-DEI_right_authoritarianism:0 "네덜란드령 동인도"
-DEI_right_authoritarianism_DEF:0 "네덜란드령 동인도"
-DEI_right_authoritarianism_ADJ:0 "인도네시아"
-
-DEI_despotism:0 "동인도국"
-DEI_despotism_DEF:0 "동인도국"
-DEI_despotism_ADJ:0 "인도네시아"
-
-DEI_reactionism:0 "동인도국"
-DEI_reactionism_DEF:0 "동인도국"
-DEI_reactionism_ADJ:0 "인도네시아"
-
-DEI_accelerationism:0 "동인도국"
-DEI_accelerationism_DEF:0 "동인도국"
-DEI_accelerationism_ADJ:0 "인도네시아"
-
-#PARTIES#
-DEI_right_authoritarianism_party:0 "식민지 정부"
-DEI_right_authoritarianism_party_long:0 "식민지 정부"
-
-#EVENTS#
-dei.1.t:0 "Something's Afoot"
-dei.1.desc:0 " Inlanders are extra rowdy today"
-dei.1.a:0 "Same old, same old"
-
-dei.2.t:0 "Indies Insurrection"
-dei.2.desc:0 " Inlanders are shooting back"
-dei.2.a:0 " Farland calls"
-dei.2.b:0 "Loyalty means something goddamnit"
-
-#LEADER DESCRITIONS#
-#IDEAS#
-#CUSTOM TOOLTIPS AND FLAGS#
-DEI_REVOLT_DEI_WIN_tt:0 "@DEI §Y 네덜란드령 동인도§! has subdued @INA §Y 인도네시아 Rebels§! in §Y 동인도§!."
-
-#DECISIONS (1.5 Update)#
-DEI_indies_war:0 " 인도네시아 National Revolution"
-DEI_ceasefire:0 "Negotiating Ceasefire"
-
-#FOCUSES#
+ DEI_anarchism:0 "동인도 Commune"
+ DEI_anarchism_DEF:0 "동인도 Commune"
+ DEI_anarchism_ADJ:0 "인도네시아"
+ DEI_vanguard_socialism:0 "동인도 공화국"
+ DEI_vanguard_socialism_DEF:0 "동인도 공화국"
+ DEI_vanguard_socialism_ADJ:0 "인도네시아"
+ DEI_popular_socialism:0 "동인도 공화국"
+ DEI_popular_socialism_DEF:0 "동인도 공화국"
+ DEI_popular_socialism_ADJ:0 "인도네시아"
+ DEI_revisionist_socialism:0 "동인도 공화국"
+ DEI_revisionist_socialism_DEF:0 "동인도 공화국"
+ DEI_revisionist_socialism_ADJ:0 "인도네시아"
+ DEI_progressivism:0 "동인도 공화국"
+ DEI_progressivism_DEF:0 "동인도 공화국"
+ DEI_progressivism_ADJ:0 "인도네시아"
+ DEI_liberalism:0 "동인도 공화국"
+ DEI_liberalism_DEF:0 "동인도 공화국"
+ DEI_liberalism_ADJ:0 "인도네시아"
+ DEI_conservatism:0 "동인도 공화국"
+ DEI_conservatism_DEF:0 "동인도 공화국"
+ DEI_conservatism_ADJ:0 "인도네시아"
+ DEI_right_authoritarianism:0 "네덜란드령 동인도"
+ DEI_right_authoritarianism_DEF:0 "네덜란드령 동인도"
+ DEI_right_authoritarianism_ADJ:0 "인도네시아"
+ DEI_despotism:0 "동인도국"
+ DEI_despotism_DEF:0 "동인도국"
+ DEI_despotism_ADJ:0 "인도네시아"
+ DEI_reactionism:0 "동인도국"
+ DEI_reactionism_DEF:0 "동인도국"
+ DEI_reactionism_ADJ:0 "인도네시아"
+ DEI_accelerationism:0 "동인도국"
+ DEI_accelerationism_DEF:0 "동인도국"
+ DEI_accelerationism_ADJ:0 "인도네시아"
+ DEI_right_authoritarianism_party:0 "식민지 정부"
+ DEI_right_authoritarianism_party_long:0 "식민지 정부"
+ dei.1.t:0 "Something's Afoot"
+ dei.1.desc:0 " Inlanders are extra rowdy today"
+ dei.1.a:0 "Same old, same old"
+ dei.2.t:0 "Indies Insurrection"
+ dei.2.desc:0 " Inlanders are shooting back"
+ dei.2.a:0 " Farland calls"
+ dei.2.b:0 "Loyalty means something goddamnit"
+ DEI_REVOLT_DEI_WIN_tt:0 "@DEI §Y 네덜란드령 동인도§! has subdued @INA §Y 인도네시아 Rebels§! in §Y 동인도§!."
+ DEI_indies_war:0 " 인도네시아 National Revolution"
+ DEI_ceasefire:0 "Negotiating Ceasefire"

@@ -1,28 +1,19 @@
 ﻿l_english:
-#COUNTRY NAME#
-
-#PARTIES#
-SAU_reactionism_party:0 "사우드 왕정당"
-
-#LEADER DESCRITIONS#
-#IDEAS#
-#CUSTOM TOOLTIPS AND FLAGS#
-#DECISIONS (1.5 Update)#
-#FOCUSES#
-SAU_arabia:0 "Saudi Arabia"
-SAU_arabia_DEF:0 "the Kingdom of Saudi Arabia"
-SAU_arabia_ADJ:0 "Arab"
-SAU_ALJ:0 "Kingdom of Nejd and Hedjaz"
-SAU_ALJ_DEF:0 "the Kingdom of Nejd and Hedjaz"
-SAU_ALJ_ADJ:0 "Arab"
-SAU_despotism_party:0 "Al Saud"
-SAU_despotism_party_long:0 "Al Saud"
-SAU_reactionism_party_long:0 "Ikhwan min ta'a Allah"
-SAU_right_authoritarianism_party:0 "CASOC"
-SAU_right_authoritarianism_party_long:0 "California Arabian Standard Oil Company"
-SAU_progressivism_party:0 "HSM"
-SAU_progressivism_party_long:0 "Harakat al-Sha'ab wa al-Malik"
-SAU_ikhwan:0 "The Swords of the Servant"
-SAU_ikhwan_desc:0 "When the faithful became idolatrous and when Muslims turned to paganism, the great master al-Wahhab preached against the decadence of the Islamic faith. Caused by petty disputes between jurisprudence schools and atavistic impulses among the Arabs, the movement known as Wahhabism aimed to heal this rot by a return to absolute monotheism, a close observation of the Quran, a militant and spartan attitude towards life, and a series of remarkable societal innovations to make Arab society active again.\n\nThis doctrine was soon picked up by the early Saudi emirs and royals, and in spite of their setbacks the local population assimilated well to Wahhabism and it slowly spread throughout the following decades. In the early 20th century these impulses coalesced into the Brethern of the Power of God — the Ikhwan min ta'a Allah. These knights of the sands broke the power of nomads and forged petty raiders into the terror of Arabia, striking against infidels and enemies of Nejd without mercy and without remorse. As hard as they are to control, the Ikhwan is the core of ibn Saud's armed forces and the heart of his religious legitimacy, and so the whole realm is entirely dependent on the jihadis— much to the displeasure of the monarch's centralist mindset. "
-SAU_quadriformus:0 "Ibn Saud, Quadriformis"
-SAU_quadriformus_desc:0 "Abdulaziz bin Abdul Raman al Saud is the spirit of another age come to life, and his tenacity and intelligence blessed him with a Sultanate to call his own. He carved an empire from sand and raiders, standing proud before foreign powers when others dared only prostrate. This won him enemies and allies, and dealing with this delicate web of actors is what makes the Sultan a prince in the image of Machiavelli. To the British a dangerous foe, to vanquished tribes a desert djinn, to his clan a caring patriarch, to the oil companies a business partner, and to the ulema a holy warrior: ibn Saud is a kaleidoscope that projects a hundred million images, blinding fools who can not see past the light and stare directly at the man's heart. The Sultan of Nejd is, above all else, a practical man, surrounded by an entourage of Salafis, Arabists, and even socialists like Abdullah Philby — because he who knows all conquers all. Everything must obey reason, whether personal or of the state, and any deviation is punished brutally by a potentate with no passion other than to make the world forever remember the name of the al-Saud dynasty."
+ SAU_arabia:0 "Saudi Arabia"
+ SAU_arabia_DEF:0 "the Kingdom of Saudi Arabia"
+ SAU_arabia_ADJ:0 "Arab"
+ SAU_ALJ:0 "Kingdom of Nejd and Hedjaz"
+ SAU_ALJ_DEF:0 "the Kingdom of Nejd and Hedjaz"
+ SAU_ALJ_ADJ:0 "Arab"
+ SAU_despotism_party:0 "Al Saud"
+ SAU_despotism_party_long:0 "Al Saud"
+ SAU_reactionism_party:0 "사우드 왕정당"
+ SAU_reactionism_party_long:0 "Ikhwan min ta'a Allah"
+ SAU_right_authoritarianism_party:0 "CASOC"
+ SAU_right_authoritarianism_party_long:0 "California Arabian Standard Oil Company"
+ SAU_progressivism_party:0 "HSM"
+ SAU_progressivism_party_long:0 "Harakat al-Sha'ab wa al-Malik"
+ SAU_ikhwan:0 "The Swords of the Servant"
+ SAU_ikhwan_desc:0 "When the faithful became idolatrous and when Muslims turned to paganism, the great master al-Wahhab preached against the decadence of the Islamic faith. Caused by petty disputes between jurisprudence schools and atavistic impulses among the Arabs, the movement known as Wahhabism aimed to heal this rot by a return to absolute monotheism, a close observation of the Quran, a militant and spartan attitude towards life, and a series of remarkable societal innovations to make Arab society active again.\n\nThis doctrine was soon picked up by the early Saudi emirs and royals, and in spite of their setbacks the local population assimilated well to Wahhabism and it slowly spread throughout the following decades. In the early 20th century these impulses coalesced into the Brethern of the Power of God — the Ikhwan min ta'a Allah. These knights of the sands broke the power of nomads and forged petty raiders into the terror of Arabia, striking against infidels and enemies of Nejd without mercy and without remorse. As hard as they are to control, the Ikhwan is the core of ibn Saud's armed forces and the heart of his religious legitimacy, and so the whole realm is entirely dependent on the jihadis— much to the displeasure of the monarch's centralist mindset. "
+ SAU_quadriformus:0 "Ibn Saud, Quadriformis"
+ SAU_quadriformus_desc:0 "Abdulaziz bin Abdul Raman al Saud is the spirit of another age come to life, and his tenacity and intelligence blessed him with a Sultanate to call his own. He carved an empire from sand and raiders, standing proud before foreign powers when others dared only prostrate. This won him enemies and allies, and dealing with this delicate web of actors is what makes the Sultan a prince in the image of Machiavelli. To the British a dangerous foe, to vanquished tribes a desert djinn, to his clan a caring patriarch, to the oil companies a business partner, and to the ulema a holy warrior: ibn Saud is a kaleidoscope that projects a hundred million images, blinding fools who can not see past the light and stare directly at the man's heart. The Sultan of Nejd is, above all else, a practical man, surrounded by an entourage of Salafis, Arabists, and even socialists like Abdullah Philby — because he who knows all conquers all. Everything must obey reason, whether personal or of the state, and any deviation is punished brutally by a potentate with no passion other than to make the world forever remember the name of the al-Saud dynasty."
