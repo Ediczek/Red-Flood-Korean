@@ -1,7 +1,7 @@
 ﻿l_english:
  warsaw_pact:0 "바르샤바 조약"
- warsaw_pact_desc:0 "Members of the Warschauer Vertrag enjoy closer economic and diplomatic relations, each having greater access to the resources of the others than a regular trade partner would. As well, the pact serves as a vital lifeline for many member nations surrounded by reactionary forces."
- wp_member_tt:0 "Due to the presence of §G[?ATU.wp_count_major]§! §Ymajor powers§! and a total §Ymember count§! of §G[?ATU.wp_count]§!, we gain:"
+ warsaw_pact_desc:0 "바르샤바 조약의 구성원들은 가까운 경제 및 외교 관계를 향유하고 있으며, 각 회원국은 일반적인 무역 파트너들이 으레 하는 것 이상으로 서로의 자원에 대해 광대한 권리를 가지고 있습니다. 이 조약은 반동적 정권들에 둘러싸인 많은 회원국들에게 중요한 생명선으로 여겨지고 있습니다."
+ wp_member_tt:0 "§G[?ATU.wp_count_major]§! 만큼의 §Y열강§!들과 총:§G[?ATU.wp_count]§!만큼의 §Y회원 수§! 가 있으므로, 우리는 다음과 같은 이득을 얻습니다 :"
  POL_intermarium_observer:0 "인테르마리움 관전국"
  POL_intermarium_observer_desc:0 "우린 관전국입니다."
  FRA_league_observer:0 "태양 연맹 관전국"
