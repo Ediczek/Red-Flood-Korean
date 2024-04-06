@@ -668,7 +668,7 @@
  USA_ship_sub_snorkel_2:0 "개선된 스노클"
  USA_ship_airplane_launcher_1:0 "P형 Mk 1 사출기"
  USA_ship_airplane_launcher_2:0 "P형 Mk 6 사출기"
- USA_ship_deck_space:0 "개방 격납고 갑판"
+ USA_ship_deck_space:0 "비행 격납고 갑판"
  USA_ship_sonar_1:0 "QCA 음파탐지기/JK 수중청음기"
  USA_ship_sonar_2:0 "QGA 음파탐지기"
  USA_ship_radar_1:0 "XAF 레이더"
