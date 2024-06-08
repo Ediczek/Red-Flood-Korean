@@ -1,5 +1,5 @@
 ﻿l_english:
- FRANCE_FUTURIST_DESC:0 "대전쟁에서의 쓰디쓴 패배 후 제 3공화국의 국가제도들이 무너지면서 프랑스는 혼돈을 향해 던져졌습니다. 길거리 교전이 일상이 되고 대중은 쓰러진 자들을 위한 정의를 요구하는 가운데, 전후 유소년들은 고국을 무덤으로 보낼 뻔했던 오랜 전통들을 거부했습니다. 반동적인 악시옹 프랑세즈가 권력을 잡았지만 너무 늦어 버리면서, 1931년 시장붕괴의 충격파 직후 경제는 붕괴했습니다. 이 혼돈에서, 앙토냉 아르토는 열렬한 연설로 군중을 결집시켜 집권했습니다. 이제 미래주의가 이끄는 프랑스는 두 필요에 따라 달려나갑니다. 바로 속도와 복수 말입니다."
+ FRANCE_FUTURIST_DESC:0 "대전쟁에서의 쓰디쓴 패배 후 제3공화국의 국가제도들이 무너지면서 프랑스는 혼돈을 향해 던져졌습니다. 길거리 교전이 일상이 되고 대중은 쓰러진 자들을 위한 정의를 요구하는 가운데, 전후 유소년들은 고국을 무덤으로 보낼 뻔했던 오랜 전통들을 거부했습니다. 반동적인 악시옹 프랑세즈가 권력을 잡았지만 너무 늦어 버리면서, 1931년 시장붕괴의 충격파 직후 경제는 붕괴했습니다. 이 혼돈에서, 앙토냉 아르토는 열렬한 연설로 군중을 결집시켜 집권했습니다. 이제 미래주의가 이끄는 프랑스는 두 필요에 따라 달려나갑니다. 바로 속도와 복수 말입니다."
  FRA_accelerationism_party:0 "아방가르드 민족전선"
  FRA_accelerationism_party_long:0 "아방가르드 민족전선"
  FRA_anarchism_party:0 "라바촐 동료 연합"
@@ -55,8 +55,8 @@
  FRA_reactionism:0 "프랑스 왕국"
  FRA_reactionism_DEF:0 "프랑스 왕국"
  FRA_reactionism_ADJ:0 "프랑스"
- FRA_batailles_accelerationism:0 "프랑스 아세팔령"
- FRA_batailles_accelerationism_DEF:0 "프랑스 아세팔령"
+ FRA_batailles_accelerationism:0 "아세팔령 프랑스"
+ FRA_batailles_accelerationism_DEF:0 "아세팔령 프랑스"
  FRA_batailles_accelerationism_ADJ:0 "프랑스"
  FRA_irreal_accelerationism:0 "비현실국"
  FRA_irreal_accelerationism_DEF:0 "비현실국"

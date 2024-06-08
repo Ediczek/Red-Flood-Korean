@@ -378,7 +378,7 @@
  chief_of_army_cost_factor:0 "육군참모총장 비용"
  chief_of_air_force_cost_factor:0 "공군참모총장 비용"
  chief_of_navy_cost_factor:0 "해군참모총장 비용"
- MODIFIER_AI_LICENSE_ACCEPTANCE:0 "면허 구매 요청시 수락"
+ MODIFIER_AI_LICENSE_ACCEPTANCE:0 "면허 구매 요청 시 수락"
  MODIFIER_LICENSE_SUBJECT_MASTER_PURCHASE_COST:0 "종주국과 종속국 간의 면허 비용"
  MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY:0 "국가에 대한 방어 혜택"
  MODIFIER_PARADROP_ORGANIZATION_FACTOR:0 "공수부대 조직력 획득치"
