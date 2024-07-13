@@ -23,7 +23,7 @@
  STATE_CLAIM:0 "§T$COUNTRY|H$(은)는 $STATE|H$의 영유권을 주장합니다.§!"
  STATE_POPULATION:3 "§H징병 가능 인구§!: $AVAIL|*Y$/$MAXAVAIL|*Y$\n§H민간인 인구§!: $LOCKED|*Y$/$MAXLOCKED|*Y$\n"
  MONTHLY_BASE_GROWTH:0 "기본: $VALUE|H%2$"
- STATE_POPULATION_GROWTH:0 "§H월간 성장§!: $VALUE|%2$ ( $AVAIL|*+$ 징병 대상자, $LOCKED|*+$ 민간인)"
+ STATE_POPULATION_GROWTH:0 "§H매월 성장§!: $VALUE|%2$ ( $AVAIL|*+$ 징병 대상자, $LOCKED|*+$ 민간인)"
  LOCAL_MANPOWER_ACCESSIBLE_FACTOR:0 "병역 적합자 기본 값: §R-$VAL|%$§!"
  LOCAL_MANPOWER_ACCESSIBLE_NON_CORE_FACTOR:0 "병역 적합자 기본 값 (비핵심 주): §R-$VAL|%$§!"
  LOCAL_MANPOWER_ACCESSIBLE_NON_CORE_TOTAL:0 "병역 적합자 총합 (비핵심 주): §R-$VAL|%$§!"

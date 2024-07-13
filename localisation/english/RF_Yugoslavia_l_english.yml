@@ -274,7 +274,7 @@
  YUG_tin:0 "ORJUNA가 투쟁에서 성공을 거두었습니다."
  YUG_zenit:0 "제니트가 투쟁에서 성공을 거두었습니다."
  YUG_win_get_slot:0 "Whichever side prevails, the winner shall receive §C1 Research Slot§! due to the research teams being integrated."
- YUG_STRENGTH_THROUGH_UNITY_TOOLTIP:0 "§Y모든 것은 하느님을 위하여§!, §Y하느님 외에는 아무 것도 없다§! 그리고 §Y그리고 무엇도 그분께 반하지 않게§!는 §Y단결을 통한 힘, 신앙을 통한 단결§!로 합쳐집니다.\n효과 변화:\n저항군 소탕 임무 효과: §G+10%§! \n징병 가능 인구 획득치: §G+7.00%§! \n사단 공격: §G+10.00%§! \n일일 반동주의 지지: §G+0.05§!"
+ YUG_STRENGTH_THROUGH_UNITY_TOOLTIP:0 "§Y모든 것은 하느님을 위하여§!, §Y하느님 외에는 아무 것도 없다§! 그리고 §Y그리고 무엇도 그분께 반하지 않게§!는 §Y단결을 통한 힘, 신앙을 통한 단결§!로 합쳐집니다.\n효과 변화:\n저항군 소탕 임무 효과: §G+10%§! \n징병 가능 인구 변동치: §G+7.00%§! \n사단 공격: §G+10.00%§! \n매일 반동주의 지지도: §G+0.05§!"
  YUG_DIPLOMACY_DECISIONS_TT:0 "§Y우리의 외교§!란의 결정을 추가합니다."
  YUG_BULGARIA_FREE:0 "§R불가리아가 풀려납니다!§!"
  YUG_zbor_austria_deal:0 "We will demand §YAustria§! to give up §YSlovenia§! when the time is right."

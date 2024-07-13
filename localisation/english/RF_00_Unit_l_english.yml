@@ -507,7 +507,7 @@
  TEMPLATE_DURING_REORGANIZATION:0 "이 사단은 현재 신규 혹은 업그레이드된 편제로 전환중입니다. 새 장비를 충분히 보급받기 전까지는 기존 장비를 사용할 것입니다.\n"
  SPEED_OUT_OF_SUPPLY:0 "보급품 고갈: $VALUE|+=%$"
  SPEED_INFRASTRUCTURE_IMPACT:0 "기반시설: $VALUE|+=%$"
- SPEED_STRATEGIC_REDEPLOYMENT_DESC:0 "전략적 재배치 속도 $VAUE|H$km/h"
+ SPEED_STRATEGIC_REDEPLOYMENT_DESC:0 "전략적 재배치 속도 $VAUE|H$ km/h"
  SPEED_RETREATING:0 "후퇴중: $VALUE|+=%$"
  GOOD_ARMOR_DEFENSE_DESC:1 "공격 중인 적이 우리  장갑을 관통하지 못할 경우, 우리는 조직력 손실이 $ORG|%0G$ 만큼 덜 줄어 들고 덜 피해를 받게 됩니다.\n"
  GOOD_ARMOR_ATTACK_DESC_STR:2 "우리 장갑을 관통하지 못하는 적을 공격할 경우 추가 피해를 줍니다.\n"
