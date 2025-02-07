@@ -1,6 +1,6 @@
 ﻿l_english:
- CHA_anarchism:0 "차드 자유령"
- CHA_anarchism_DEF:0 "차드 자유령"
+ CHA_anarchism:0 "차드 자유지구"
+ CHA_anarchism_DEF:0 "차드 자유지구"
  CHA_anarchism_ADJ:0 "차드"
  CHA_vanguard_socialism:0 "차드 사회주의국"
  CHA_vanguard_socialism_DEF:0 "차드 사회주의국"
@@ -34,3 +34,4 @@
  CHA_accelerationism_ADJ:0 "차드"
  CHA_reactionism_party:0 "신마흐디주의파"
  CHA_reactionism_party_long:0 "신마흐디주의파"
+ CHA_Al_Siddiq:0 "알시디크 알마흐디"

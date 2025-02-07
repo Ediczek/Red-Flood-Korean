@@ -8,6 +8,6 @@ tags={
 	"Translation"
 }
 picture="thumbnail.png"
-supported_version="1.14.*"
-path="D:/byeon/steamapps/workshop/content/394360/2780353801"
+supported_version="1.15.*"
+path="C:/Users/axur1/CodeProject/Red-Flood-Korean"
 remote_file_id="2780353801"

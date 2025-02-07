@@ -1,6 +1,6 @@
 ﻿l_english:
- NIR_anarchism:0 "아일랜드 자유지대"
- NIR_anarchism_DEF:0 "아일랜드 자유지대"
+ NIR_anarchism:0 "아일랜드 자유지구"
+ NIR_anarchism_DEF:0 "아일랜드 자유지구"
  NIR_anarchism_ADJ:0 "아일랜드"
  NIR_vanguard_socialism:0 "아일랜드 노동자 공화국"
  NIR_vanguard_socialism_DEF:0 "아일랜드 노동자 공화국"
@@ -36,3 +36,4 @@
  NIR_reactionism_party_long: "알티리 너 하셰리"
  NIR_accelerationism_party:0 "신 페인"
  NIR_accelerationism_party_long:0 "신 페인"
+ NIR_james_craig:0 "제임스 크레이그"

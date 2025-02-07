@@ -1,8 +1,8 @@
 ﻿l_english:
  JOR_ISR:0 "트란스요르단"
  JOR_ISR_ADJ:0 "트란스요르단"
- JOR_anarchism:0 "트란스요르단 자유지대"
- JOR_anarchism_DEF:0 "트란스요르단 자유지대"
+ JOR_anarchism:0 "트란스요르단 자유지구"
+ JOR_anarchism_DEF:0 "트란스요르단 자유지구"
  JOR_anarchism_ADJ:0 "트란스요르단"
  JOR_vanguard_socialism:0 "트란스요르단"
  JOR_vanguard_socialism_DEF:0 "트란스요르단 평의회 공화국"
@@ -56,3 +56,6 @@
  JOR_despotism_party_long:0 "요르단 왕당파벌"
  JOR_accelerationism_party:0 "요르단 사회민족주의당"
  JOR_accelerationism_party_long:0 "요르단 사회민족주의당"
+ JOR_ISR_DEF:0 "트란스요르단 점령정부"
+ JOR_amin_al_husseini:0 "아민 알후세이니"
+ JOR_ZOG:0 "트란스요르단 점령 당국"

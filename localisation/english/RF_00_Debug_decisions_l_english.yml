@@ -1,0 +1,12 @@
+﻿l_english:
+ RF_Debug:0 "디버그 결정"
+ debug_open_bloc_gui:0 "§0O§!§1p§!§2e§!§3n§! §4B§!§5l§!§6o§!§7c§! §8G§!§9U§!§YI§!"
+ debug_LIB_load_intro_tree:0 "도입부 계통도 불러오기"
+ debug_LIB_load_war_tree:0 "기니전쟁 중점 불러오기"
+ debug_LIB_load_buildup_tree:0 "WW2 준비 중점 불러오기"
+ debug_LIB_load_ww2_tree:0 "WW2 중점 불러오기"
+ debug_LIB_load_fake_garvey_tree:0 "가비 거짓 중점 불러오기"
+ debug_LIB_load_garvey_dead_tree:0 "UNIA 중점 불러오기"
+ debug_LIB_load_howell_tree:0 "하웰 중점 불러오기"
+ debug_LIB_load_noi_tree:0 "이슬람국 중점 불러오기 "
+ debug_LIB_load_sunra_tree:0 "썬 라 중점 불러오기"
