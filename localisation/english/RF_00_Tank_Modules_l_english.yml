@@ -192,7 +192,7 @@
  light_tank_aa_chassis_0:0 "전간기 경자주대공포"
  light_tank_aa_chassis:0 "경자주대공포"
  light_tank_aa_chassis_desc:0 "적 항공기를 방어하기 위해 대공포를 장착한 아담한 소형 차량입니다."
- light_tank_aa_chassis_1:0 "기초적인 경자주대공포"
+ light_tank_aa_chassis_1:0 "기초 경자주대공포"
  light_tank_aa_chassis_2:0 "개선된 경자주대공포"
  light_tank_aa_chassis_3:0 "발전된 경자주대공포"
  medium_tank_chassis_1:0 "기초 중형전차 차체"

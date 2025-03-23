@@ -10,3 +10,4 @@
  debug_LIB_load_howell_tree:0 "하웰 중점 불러오기"
  debug_LIB_load_noi_tree:0 "이슬람국 중점 불러오기 "
  debug_LIB_load_sunra_tree:0 "썬 라 중점 불러오기"
+ debug_check_for_errors:0 "에러 체크"
